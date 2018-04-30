@@ -24,4 +24,4 @@ SELECT a.*,
 					ORDER BY weekend) a 
 			) a 
 	WHERE a.PB IS NOT NULL
-INTO OUTFILE '/var/lib/mysql-files/worldrankovertime.csv' FIELDS TERMINATED BY ',';
+INTO OUTFILE '~/SQLoutput/2015SCHO05skewba' FIELDS TERMINATED BY ',';

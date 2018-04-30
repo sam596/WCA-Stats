@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mysqlpw='SvW0iJ1QebUMjDDj'
+source ~/mysqlpw/mysql.conf
 
 wget -O ~/databasedownload/WCA_export.sql.zip https://www.worldcubeassociation.org/results/misc/WCA_export.sql.zip
 unzip -o ~/databasedownload/WCA_export.sql.zip -d ~/databasedownload
