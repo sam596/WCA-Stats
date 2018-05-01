@@ -1,5 +1,6 @@
 INSERT INTO wca_stats.last_updated VALUES ('records', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+DROP TABLE IF EXISTS records;
 CREATE TABLE records
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT * FROM
