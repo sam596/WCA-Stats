@@ -79,8 +79,8 @@ ORDER BY
 	r.Guildford ASC
 	;
 
-DROP TABLE IF EXISTS all_events;
-CREATE TABLE all_events
+DROP TABLE IF EXISTS all_events_relay;
+CREATE TABLE all_events_relay
 (AllEventsRank INT NOT NULL AUTO_INCREMENT,
 PRIMARY KEY(personId),
 KEY(AllEventsRank))
@@ -121,6 +121,101 @@ GROUP BY
 	r.personId
 ORDER BY 
 	r.AllEvents ASC
+	;
+
+DROP TABLE IF EXISTS all_events_rank;
+CREATE TABLE all_events_rank
+(AllEventsRank INT NOT NULL AUTO_INCREMENT,
+PRIMARY KEY(personId),
+KEY(AllEventsRank))
+SELECT
+	s.personId,
+	p.name,
+	p.countryId,
+	SUM(CASE WHEN s.eventId = '333' THEN s.best END) `333s`,
+	SUM(CASE WHEN s.eventId = '333' THEN s.worldrank END) `333sRank`,
+	SUM(CASE WHEN a.eventId = '333' THEN a.best END) `333a`,
+	SUM(CASE WHEN a.eventId = '333' THEN a.worldrank END) `333aRank`,
+	SUM(CASE WHEN s.eventId = '222' THEN s.best END) `222s`,
+	SUM(CASE WHEN s.eventId = '222' THEN s.worldrank END) `222sRank`,
+	SUM(CASE WHEN a.eventId = '222' THEN a.best END) `222a`,
+	SUM(CASE WHEN a.eventId = '222' THEN a.worldrank END) `222aRank`,
+	SUM(CASE WHEN s.eventId = '444' THEN s.best END) `444s`,
+	SUM(CASE WHEN s.eventId = '444' THEN s.worldrank END) `444sRank`,
+	SUM(CASE WHEN a.eventId = '444' THEN a.best END) `444a`,
+	SUM(CASE WHEN a.eventId = '444' THEN a.worldrank END) `444aRank`,
+	SUM(CASE WHEN s.eventId = '555' THEN s.best END) `555s`,
+	SUM(CASE WHEN s.eventId = '555' THEN s.worldrank END) `555sRank`,
+	SUM(CASE WHEN a.eventId = '555' THEN a.best END) `555a`,
+	SUM(CASE WHEN a.eventId = '555' THEN a.worldrank END) `555aRank`,
+	SUM(CASE WHEN s.eventId = '666' THEN s.best END) `666s`,
+	SUM(CASE WHEN s.eventId = '666' THEN s.worldrank END) `666sRank`,
+	SUM(CASE WHEN a.eventId = '666' THEN a.best END) `666a`,
+	SUM(CASE WHEN a.eventId = '666' THEN a.worldrank END) `666aRank`,
+	SUM(CASE WHEN s.eventId = '777' THEN s.best END) `777s`,
+	SUM(CASE WHEN s.eventId = '777' THEN s.worldrank END) `777sRank`,
+	SUM(CASE WHEN a.eventId = '777' THEN a.best END) `777a`,
+	SUM(CASE WHEN a.eventId = '777' THEN a.worldrank END) `777aRank`,
+	SUM(CASE WHEN s.eventId = '333bf' THEN s.best END) `333bfs`,
+	SUM(CASE WHEN s.eventId = '333bf' THEN s.worldrank END) `333bfsRank`,
+	SUM(CASE WHEN a.eventId = '333bf' THEN a.best END) `333bfa`,
+	SUM(CASE WHEN a.eventId = '333bf' THEN a.worldrank END) `333bfaRank`,
+	SUM(CASE WHEN s.eventId = '333fm' THEN s.best END) `333fms`,
+	SUM(CASE WHEN s.eventId = '333fm' THEN s.worldrank END) `333fmsRank`,
+	SUM(CASE WHEN a.eventId = '333fm' THEN a.best END) `333fma`,
+	SUM(CASE WHEN a.eventId = '333fm' THEN a.worldrank END) `333fmaRank`,
+	SUM(CASE WHEN s.eventId = '333oh' THEN s.best END) `333ohs`,
+	SUM(CASE WHEN s.eventId = '333oh' THEN s.worldrank END) `333ohsRank`,
+	SUM(CASE WHEN a.eventId = '333oh' THEN a.best END) `333oha`,
+	SUM(CASE WHEN a.eventId = '333oh' THEN a.worldrank END) `333ohaRank`,
+	SUM(CASE WHEN s.eventId = '333ft' THEN s.best END) `333fts`,
+	SUM(CASE WHEN s.eventId = '333ft' THEN s.worldrank END) `333ftsRank`,
+	SUM(CASE WHEN a.eventId = '333ft' THEN a.best END) `333fta`,
+	SUM(CASE WHEN a.eventId = '333ft' THEN a.worldrank END) `333ftaRank`,
+	SUM(CASE WHEN s.eventId = 'clock' THEN s.best END) `clocks`,
+	SUM(CASE WHEN s.eventId = 'clock' THEN s.worldrank END) `clocksRank`,
+	SUM(CASE WHEN a.eventId = 'clock' THEN a.best END) `clocka`,
+	SUM(CASE WHEN a.eventId = 'clock' THEN a.worldrank END) `clockaRank`,
+	SUM(CASE WHEN s.eventId = 'minx' THEN s.best END) `minxs`,
+	SUM(CASE WHEN s.eventId = 'minx' THEN s.worldrank END) `minxsRank`,
+	SUM(CASE WHEN a.eventId = 'minx' THEN a.best END) `minxa`,
+	SUM(CASE WHEN a.eventId = 'minx' THEN a.worldrank END) `minxaRank`,
+	SUM(CASE WHEN s.eventId = 'pyram' THEN s.best END) `pyrams`,
+	SUM(CASE WHEN s.eventId = 'pyram' THEN s.worldrank END) `pyramsRank`,
+	SUM(CASE WHEN a.eventId = 'pyram' THEN a.best END) `pyrama`,
+	SUM(CASE WHEN a.eventId = 'pyram' THEN a.worldrank END) `pyramaRank`,
+	SUM(CASE WHEN s.eventId = 'skewb' THEN s.best END) `skewbs`,
+	SUM(CASE WHEN s.eventId = 'skewb' THEN s.worldrank END) `skewbsRank`,
+	SUM(CASE WHEN a.eventId = 'skewb' THEN a.best END) `skewba`,
+	SUM(CASE WHEN a.eventId = 'skewb' THEN a.worldrank END) `skewbaRank`,
+	SUM(CASE WHEN s.eventId = 'sq1' THEN s.best END) `sq1s`,
+	SUM(CASE WHEN s.eventId = 'sq1' THEN s.worldrank END) `sq1sRank`,
+	SUM(CASE WHEN a.eventId = 'sq1' THEN a.best END) `sq1a`,
+	SUM(CASE WHEN a.eventId = 'sq1' THEN a.worldrank END) `sq1aRank`,
+	SUM(CASE WHEN s.eventId = '444bf' THEN s.best END) `444bfs`,
+	SUM(CASE WHEN s.eventId = '444bf' THEN s.worldrank END) `444bfsRank`,
+	SUM(CASE WHEN s.eventId = '555bf' THEN s.best END) `555bfs`,
+	SUM(CASE WHEN s.eventId = '555bf' THEN s.worldrank END) `555bfsRank`,
+	SUM(CASE WHEN s.eventId = '333mbf' THEN s.best END) `333mbfs`,
+	SUM(CASE WHEN s.eventId = '333mbf' THEN s.worldrank END) `333mbfsRank`
+FROM
+	wca_dev.rankssingle s
+LEFT JOIN
+	wca_dev.ranksaverage a
+ON 
+	s.personId = a.personId
+	AND
+	s.eventId = a.eventId
+JOIN
+	wca_dev.persons p
+ON
+	s.personId = p.id
+	AND
+	p.subid = 1
+GROUP BY
+	s.personId
+ORDER BY 
+	s.personId ASC
 	;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'guildford_etc';
