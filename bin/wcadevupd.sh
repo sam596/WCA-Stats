@@ -18,3 +18,5 @@ mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/persons_extra.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/records.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/concise_results.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/PBs.sql
+mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/mbld_decoded.sql
+mysql -u sam -p"$mysqlpw" wca_stats < ~/sql/tables/Guildford_etc.sql
