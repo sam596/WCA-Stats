@@ -3,7 +3,8 @@ INSERT INTO wca_stats.last_updated VALUES ('SoR_average', NOW(), NULL, '') ON DU
 DROP TABLE IF EXISTS SoR_average_be1;
 CREATE TEMPORARY TABLE SoR_average_be1 AS 
 	SELECT 
-		p.id personId, 
+		p.id personId,
+		p.name name, 
 		e.id eventId 
 	FROM 
 		wca_dev.persons p 
@@ -19,7 +20,8 @@ CREATE TEMPORARY TABLE SoR_average_be1 AS
 DROP TABLE IF EXISTS world_average_ranks;
 CREATE TABLE world_average_ranks AS
 	SELECT 
-		a.personId, 
+		a.personId,
+		a.name 
 		a.eventId, 
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE c.best END) best,
 		(CASE WHEN c.worldrank IS NULL THEN b.count + 1 ELSE c.worldrank END) worldrank,
@@ -62,7 +64,8 @@ CREATE TABLE SoR_average
 (rank INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(rank))
 	SELECT 
-		personId, 
+		personId,
+		name, 
 		SUM(worldrank) SoR 
 	FROM 
 		world_average_ranks

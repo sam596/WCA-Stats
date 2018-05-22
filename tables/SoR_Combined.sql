@@ -6,6 +6,7 @@ CREATE TABLE SoR_Combined
 PRIMARY KEY(rank))
 	SELECT 	
 		a.personId, 
+		a.name,
 		a.SoR `SoR_average`, 
 		a.rank `SoR_average_rank`, 
 		b.SoR `SoR_single`, 
