@@ -1,6 +1,8 @@
 ## Highest Percentage of Best Solves occurring on the Final Solve of an Average.
 
-*Last updated using 26th May 2018 WCA Developer Export. The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
+*Last updated using 26th May 2018 WCA Developer Export.*
+
+*The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### Total Rounds >= 20
 
