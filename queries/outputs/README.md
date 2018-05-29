@@ -4,4 +4,4 @@ Here are various statistics I have created using the WCA database. These are lik
 
 |File|Description|Last Updated|
 |--|--|--|
-|`monthstreaks.md`|Top 100 Persons by Consecutive Months Competed in|26th May 2018|
+|[`monthstreaks.md`](https://github.com/sam596/SQL/blob/master/queries/outputs/monthstreaks.md)|Top 100 Persons by Consecutive Months Competed in|26th May 2018|
