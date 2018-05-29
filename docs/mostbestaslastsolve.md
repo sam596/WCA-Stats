@@ -57,7 +57,7 @@
 | [Wenjun Wang (王文军)](https://www.worldcubeassociation.org/persons/2017WANG80)                                    | China       |     25 |          9 |   36.00 |
 | [Michael Fernandez](https://www.worldcubeassociation.org/persons/2013FERN08)                                       | USA         |     25 |          9 |   36.00 |
 
-#### Rounds >= 100
+#### Total Rounds >= 100
 
 |Name|Country|Total Rounds|Best on Last|Percentage|
 |---|---|---|---|---|
