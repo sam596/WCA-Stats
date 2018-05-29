@@ -4,7 +4,7 @@ A repo full of SQL queries to run to supplement the official World Cube Associat
 
 ### Outputs
 
-Some stats have been output to a markdown file in [`/queries/outputs`](https://github.com/sam596/SQL/tree/query-outputs/queries/outputs) for easy access to quick statistics, and some which I have contributed to the [WCA Statistics Facebook Group](https://www.facebook.com/groups/439995439706174/). These are most likely out of date, you can message me whereever and I will update whichever table to the current developer export.
+Some stats have been output to a markdown file in [`/queries/outputs`](https://github.com/sam596/SQL/tree/master/queries/outputs) for easy access to quick statistics, and some which I have contributed to the [WCA Statistics Facebook Group](https://www.facebook.com/groups/439995439706174/). These are most likely out of date, you can message me whereever and I will update whichever table to the current developer export.
 
 ### Prerequisites
 
