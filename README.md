@@ -2,6 +2,10 @@
 
 A repo full of SQL queries to run to supplement the official World Cube Association database available at https://www.worldcubeassociation.org/results/misc/export.html
 
+### Outputs
+
+Some stats have been output to a markdown file in [`/queries/outputs`](https://github.com/sam596/SQL/tree/query-outputs/queries/outputs) for easy access to quick statistics, and some which I have contributed to the [WCA Statistics Facebook Group](https://www.facebook.com/groups/439995439706174/). These are most likely out of date, you can message me whereever and I will update whichever table to the current developer export.
+
 ### Prerequisites
 
 To run these, have an SQL server with databases named `wca`, `wca_dev` and `wca_stats`. Also in the `wca_stats` database, have a table named `last_updated` with three columns named `query` (varchar20), `started` and `completed` (both DATETIME). To do these, you can run the following queries:
