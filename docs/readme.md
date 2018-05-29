@@ -4,4 +4,4 @@ Here are various statistics I have computed using the WCA database. These are li
 
 |Statistic|Last Updated|
 |---|---|
-|[Most Consecutive Months Competed in (Top 100)](/monthstreaks.md)|26th May 2018|
+|[Most Consecutive Months Competed in](/monthstreaks.md)|26th May 2018|
