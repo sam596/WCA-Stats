@@ -4,7 +4,7 @@ DROP TABLE IF EXISTS SoR_single_be1;
 CREATE TEMPORARY TABLE SoR_single_be1 AS 
 	SELECT 
 		p.id personId, 
-		p.name name
+		p.name name,
 		e.id eventId 
 	FROM 
 		wca_dev.persons p 
@@ -22,7 +22,7 @@ DROP TABLE IF EXISTS world_single_ranks;
 CREATE TABLE world_single_ranks AS
 	SELECT 
 		a.personId, 
-		a.name
+		a.name,
 		a.eventId,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE c.best END) best,
 		(CASE WHEN c.worldrank IS NULL THEN b.count + 1 ELSE c.worldrank END) worldrank,
