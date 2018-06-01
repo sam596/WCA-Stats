@@ -21,7 +21,7 @@ DROP TABLE IF EXISTS world_average_ranks;
 CREATE TABLE world_average_ranks AS
 	SELECT 
 		a.personId,
-		a.name 
+		a.name, 
 		a.eventId, 
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE c.best END) best,
 		(CASE WHEN c.worldrank IS NULL THEN b.count + 1 ELSE c.worldrank END) worldrank,
