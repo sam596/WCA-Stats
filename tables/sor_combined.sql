@@ -1,4 +1,4 @@
-INSERT INTO wca_stats.last_updated VALUES ('world_ranks_all', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+INSERT INTO wca_stats.last_updated VALUES ('sor_combined', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS world_ranks_all;
 CREATE TABLE world_ranks_all AS
@@ -12,10 +12,6 @@ CREATE TABLE world_ranks_all AS
 	FROM
 		world_single_ranks
 ;
-
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'world_ranks_all';
-
-INSERT INTO wca_stats.last_updated VALUES ('sor_combined', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS sor_combined;
 CREATE TABLE sor_combined 
