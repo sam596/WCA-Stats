@@ -18,8 +18,8 @@ CREATE TABLE sor_combined
 (rank INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(rank))
 	SELECT 	
-		a.personId, 
-		a.name,
+		personId, 
+		name,
 		SUM(CASE WHEN format = 'a' THEN worldrank END) SoR_average,
 		SUM(CASE WHEN format = 's' THEN worldrank END) SoR_single,
 		SUM(worldrank) SoR_combined
