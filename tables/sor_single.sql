@@ -1,4 +1,4 @@
-INSERT INTO wca_stats.last_updated VALUES ('SoR_single', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+INSERT INTO wca_stats.last_updated VALUES ('sor_single', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS SoR_single_be1;
 CREATE TEMPORARY TABLE SoR_single_be1 AS 
@@ -77,4 +77,4 @@ PRIMARY KEY(rank))
 		SoR ASC
 ;
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'SoR_single';
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'sor_single';
