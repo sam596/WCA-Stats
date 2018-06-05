@@ -29,6 +29,4 @@ There are `.sh` files in `/bin` which automatically do the following:
 
 `bin/wcaupd.sh` will pull the latest public export from the WCA into the `wca` table.
 
-`bin/wcastsupd.sh` will only run the .sql files that I have deemed to run too long to automatically update periodically.
-
 **NB:** to run these, you will have to edit them yourself as you will have a different username and password to your mysql server. For reference, my username is `sam` and my password is stored in a file in `~/mysqlpw/mysql.conf`. Its contents is a singular line such as this: `mysqlpw='mypassword'`; just replace `mypassword` for your own.
