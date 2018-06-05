@@ -18,5 +18,6 @@ mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/persons_extra.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/records.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/concise_results.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/PBs.sql
+mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/PB_Streak.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/mbld_decoded.sql
 mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/relays.sql
