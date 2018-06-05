@@ -9,7 +9,7 @@ CREATE TABLE PB_Streak
 SELECT a.*, 
         @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak,
         @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp,
-        @ecomp := competitionId endComp,
+        @ecomp := IF(@val = 0, NULL, competitionId) endComp,
         @pid := personId pidhelp
 FROM (SELECT * FROM competition_PBs ORDER BY id ASC) a
 GROUP BY a.personId, a.competitionId ORDER BY a.id ASC;
