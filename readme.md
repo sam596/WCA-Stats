@@ -18,7 +18,8 @@ CREATE DATABASE wca_stats;
 CREATE TABLE `wca_stats`.`last_updated` (
   `query` varchar(20) NOT NULL,
   `started` datetime DEFAULT NULL,
-  `completed` datetime DEFAULT NULL);
+  `completed` datetime DEFAULT NULL
+  `notes` TEXT DEFAULT NULL);
 ```
 
 The `last_updated` table will show you the last time the two databases were last updated in addition to the SQL queries, as these have statements to update this table in addition to their primary purpose.
