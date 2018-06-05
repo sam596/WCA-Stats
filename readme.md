@@ -10,7 +10,7 @@ These are most likely out of date, you can message me whereever and I will updat
 
 ### Prerequisites
 
-To run these, have an SQL server with databases named `wca`, `wca_dev` and `wca_stats`. Also in the `wca_stats` database, have a table named `last_updated` with three columns named `query` (varchar20), `started` and `completed` (both DATETIME). To do these, you can run the following queries:
+To run these, have an SQL server with databases named `wca`, `wca_dev` and `wca_stats`. Also in the `wca_stats` database, have a table named `last_updated` with three columns named `query` (varchar20), `started`, `completed` (both DATETIME) and a `notes` field for any details. To do these, you can run the following queries:
 ```sql
 CREATE DATABASE wca;
 CREATE DATABASE wca_dev;
