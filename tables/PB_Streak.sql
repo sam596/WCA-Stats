@@ -4,11 +4,11 @@ SET @val = 0;
 SET @pid = NULL;
 SET @scomp = NULL;
 SET @ecomp = NULL;
-drop table if exists PB_Streak;
+DROP TABLE IF EXISTS PB_Streak;
 CREATE TABLE PB_Streak
 SELECT a.*, 
-        @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak, 
-        @scomp := IF(a.PBs = 0, NULL, IF(@scomp = NULL, competitionId, @scomp)) startComp, 
+        @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak,
+        @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp,
         @ecomp := competitionId endComp,
         @pid := personId pidhelp
 FROM (SELECT * FROM competition_PBs ORDER BY id ASC) a
