@@ -2,7 +2,8 @@ Here are various statistics I have computed using the WCA database. These are li
 
 * [Best 3x3 Average without a Sub-X Single](bestaveragewithoutsubxsingle.html)
 * [Highest Percentage of Best Solves occurring on the Final Solve of an Average](mostbestaslastsolve.html)
-* [Longest PB Streaks (inc. & exc. FMC-Only comps)](pbstreak.html)
+* [Longest PB Streaks](pbstreakincfmc.html)
+* [Longest PB Streaks **excluding** FMC-Only Comps](pbstreakexcfmc.html)
 * [Most Consecutive Months Competed in](monthstreaks.html)
 * [Most Sub-X 3x3 Solves without a Sub-X average](subxsinglewithoutxaverage.html)
 * [Sum of the Best Single Times at a Competition](sumbesttimes.html)
