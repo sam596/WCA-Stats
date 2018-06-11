@@ -26,10 +26,10 @@ CREATE TABLE persons_extra
 				COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) `WRs`,
 				COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
 				COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) `NRs`,
-				COUNT(DISTINCT (CASE WHEN b.countryId NOT LIKE 'X_' THEN b.countryId END)) `countries`,
+				COUNT(DISTINCT (SELECT countryId FROM wca_dev.competitions WHERE competitionId = a.competitionId AND id NOT LIKE 'X_')) `countries`,
 				COUNT(CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END) `multipleCountryComps`,
 				COUNT(DISTINCT (CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END)) `distinctMultipleCountryComps`,
-				COUNT(DISTINCT a.continentId) `continents`
+				COUNT(DISTINCT (SELECT continentId FROM wca_dev.countries WHERE id = (SELECT countryId FROM wca_dev.competitions WHERE competitionId = a.competitionId))) `continents`
 			FROM result_dates a
 			JOIN wca_dev.competitions b
 			ON a.competitionId = b.id
