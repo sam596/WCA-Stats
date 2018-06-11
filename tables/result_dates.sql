@@ -68,4 +68,10 @@ INSERT INTO wca_stats.last_updated VALUES ('podiums', NOW(), NULL, '') ON DUPLIC
 DROP TABLE IF EXISTS podiums;
 CREATE TABLE podiums AS SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
 
+DROP TABLE IF EXISTS wca_stats.podiumsums;
+CREATE TABLE wca_stats.podiumsums
+SELECT competitionId, eventId, SUM(result), GROUP_CONCAT(personId) personIds, GROUP_CONCAT(result) results
+FROM (SELECT competitionId, eventId, pos, personId, personname, (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result
+FROM podiums WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a GROUP BY competitionId, eventId HAVING COUNT(*) = 3;
+
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'podiums';
