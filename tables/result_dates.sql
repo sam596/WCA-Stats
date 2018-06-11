@@ -62,3 +62,9 @@ KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
 ;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'result_dates';
+
+INSERT INTO wca_stats.last_updated VALUES ('podiums', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+
+CREATE TABLE podiums AS SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
+
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'podiums';
