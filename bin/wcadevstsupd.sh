@@ -4,7 +4,7 @@ source ~/mysqlpw/mysql.conf
 
 mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wcadevstsupd.sh', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
 ldu1=$(stat -c %Y ~/databasedownload/wca-developer-database-dump.zip)
-wget -O ~/databasedownload/wca-developer-database-dump.zip https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
+wget -N -O ~/databasedownload/wca-developer-database-dump.zip https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
 ldu2=$(stat -c %Y ~/databasedownload/wca-developer-database-dump.zip)
 
 if [[ "$ldu1" == "$ldu2" ]]
