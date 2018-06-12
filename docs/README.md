@@ -3,7 +3,7 @@ Here are various statistics I have computed using the WCA database. These are li
 * [Best 3x3 Average without a Sub-X Single](bestaveragewithoutsubxsingle.html)
 * [Best 3x3 Podiums (overall)](best3x3podiums.html)
 	* [By Country of Competition](best3x3podiumcountries.html)
-	* By Country of Competitors 
+	* By Country of Competitors *(coming when i can be bothered)*
 * [Highest Percentage of Best Solves occurring on the Final Solve of an Average](mostbestaslastsolve.html)
 * [Longest PB Streaks](pbstreakincfmc.html)
 * [Longest PB Streaks **excluding** FMC-Only Comps](pbstreakexcfmc.html)
