@@ -1,3 +1,6 @@
+INSERT INTO wca_stats.last_updated VALUES ('mbld_decoded', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+
+DROP TABLE IF EXISTS mbld_decoded;
 CREATE TABLE mbld_decoded
 SELECT
     personId,
@@ -19,3 +22,5 @@ WHERE
     eventId = '333mbf'
     AND
     value > 0;
+    
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'mbld_decoded';
