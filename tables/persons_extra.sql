@@ -62,7 +62,7 @@ CREATE TABLE persons_extra
 			(SELECT organizer_id, COUNT(DISTINCT competition_id) competitionsOrganized FROM wca_dev.competition_organizers GROUP BY organizer_id) j
 		ON g.id = j.organizer_id
 		LEFT JOIN
-			(SELECT tm.user_id, GROUP_CONCAT(t.friendly_id ORDER BY t.id ASC) wcaTeam FROM wca_dev.team_members tm JOIN wca_dev.teams t ON tm.team_id = t.id GROUP BY tm.user_id) k 
+			(SELECT tm.user_id, GROUP_CONCAT(t.friendly_id ORDER BY t.id ASC) wcaTeam FROM wca_dev.team_members tm JOIN wca_dev.teams t ON tm.team_id = t.id WHERE tm.end_date IS NULL GROUP BY tm.user_id) k 
 		ON g.id = k.user_id
 		;
 
