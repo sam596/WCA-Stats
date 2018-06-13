@@ -39,5 +39,5 @@ then
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/relays.sql
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
 else
-  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'"
+  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
 fi
