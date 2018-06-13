@@ -27,8 +27,10 @@ The `last_updated` table will show you the last time the two databases were last
 
 There are `.sh` files in `/bin` which automatically do the following:
 
-`bin/wcadevupd.sh` will pull the latest developer export from the WCA, and run (most of) the stats in the `tables/` directory, which will import into the `wca_stats` database.
+`bin/wcadevstsupd.sh` will pull the latest developer export from the WCA if the one available online is newer than the local version, and run the queries in the `tables/` directory, which will import into the `wca_stats` database.
 
-`bin/wcaupd.sh` will pull the latest public export from the WCA into the `wca` table.
+`bin/wcadevupd.sh` will import the latest developer export, even if there isn't a newer version available. This won't run any additional queries.
+
+`bin/wcaupd.sh` will pull the latest public export from the WCA into the `wca` table. This won't run any additional queries.
 
 **NB:** to run these, you will have to edit them yourself as you will have a different username and password to your mysql server. For reference, my username is `sam` and my password is stored in a file in `~/mysqlpw/mysql.conf`. Its contents is a singular line such as this: `mysqlpw='mypassword'`; just replace `mypassword` for your own.

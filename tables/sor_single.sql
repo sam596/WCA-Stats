@@ -4,7 +4,9 @@ DROP TABLE IF EXISTS SoR_single_be1;
 CREATE TEMPORARY TABLE SoR_single_be1 AS 
 	SELECT 
 		p.id personId, 
-		p.name name,
+		p.name,
+		p.countryId,
+		(SELECT continentId FROM wca_dev.countries WHERE id = p.countryId) continentId, 
 		e.id eventId 
 	FROM 
 		wca_dev.persons p 
@@ -23,6 +25,8 @@ CREATE TABLE world_single_ranks AS
 	SELECT 
 		a.personId, 
 		a.name,
+		a.countryId,
+		a.continentId,
 		a.eventId,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE c.best END) best,
 		(CASE WHEN c.worldrank IS NULL THEN b.count + 1 ELSE c.worldrank END) worldrank,
@@ -67,7 +71,9 @@ CREATE TABLE SoR_single
 PRIMARY KEY(rank))
 	SELECT 
 		personId,
-		name, 
+		name,
+		countryId,
+		continentId, 
 		SUM(worldrank) SoR 
 	FROM 
 		world_single_ranks 
