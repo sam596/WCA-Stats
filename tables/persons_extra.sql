@@ -3,7 +3,7 @@ INSERT INTO wca_stats.last_updated VALUES ('persons_extra', NOW(), NULL, '') ON 
 DROP TABLE IF EXISTS persons_extra;
 CREATE TABLE persons_extra	
 		SELECT
-			a.id, g.id user_id, a.name, a.gender, a.countryId, b.continentId, c.competitions, c.eventsAttempted, c.eventsSucceeded, c.eventsAverage, c.finals, c.podiums, c.gold, c.silver, c.bronze, c.eventsPodiumed, c.eventsWon, c.wcPodium, c.wChampion, c.records, c.WRs, c.CRs, c.NRs, c.countries, c.continents, c.multipleCountryComps, c.distinctMultipleCountryComps, d.completedSolves, d.DNFs, e.SoR_average `sorAverage`, e.SoR_single `sorSingle`, e.SoR_combined `sorCombined`, f.minWorldRank, (CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND c.wcPodium > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR c.wcPodium > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, g.delegate_status delegateStatus, g.region, g.location_description location, IF(h.competitionsDelegated IS NULL AND g.delegate_status IS NOT NULL, 0, h.competitionsDelegated) competitionsDelegated, IFNULL(j.competitionsOrganized,0) competitionsOrganized, k.wcaTeam
+			a.id, g.id user_id, a.name, a.gender, a.countryId, b.continentId, c.competitions, c.countries, c.continents, c.eventsAttempted, c.eventsSucceeded, c.eventsAverage, d.completedSolves, d.DNFs, c.finals, c.podiums, c.gold, c.silver, c.bronze, c.eventsPodiumed, c.eventsWon, c.records, c.WRs, c.CRs, c.NRs, l.wcPodiums, l.wcGold, l.wcSilver, l.wcBronze, l.conPodiums, l.conGold, l.conSilver, l.conBronze, l.natPodiums, l.natGold, l.natSilver, l.natBronze, c.multipleCountryComps, c.distinctMultipleCountryComps, e.SoR_average `sorAverage`, e.SoR_single `sorSingle`, e.SoR_combined `sorCombined`, f.minWorldRank, (CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND c.wcPodium > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR c.wcPodium > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, g.delegate_status delegateStatus, g.region, g.location_description location, IFNULL(h.competitionsDelegated,0) competitionsDelegated, IFNULL(j.competitionsOrganized,0) competitionsOrganized, k.wcaTeam
 		FROM (SELECT * FROM wca_dev.persons WHERE subid = 1) a
 		LEFT JOIN wca_dev.Countries b
 			ON a.countryId = b.id
@@ -20,8 +20,6 @@ CREATE TABLE persons_extra
 				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) `bronze`,
 				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN eventId END)) `eventsPodiumed`,
 				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN eventId END)) `eventsWon`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 AND competitionId IN (SELECT competition_id FROM wca_dev.championships WHERE championship_type = 'world') THEN 1 END) `wcPodium`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 AND competitionId IN (SELECT competition_id FROM wca_dev.championships WHERE championship_type = 'world') THEN 1 END) `wChampion`,
 				COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord != '' THEN 1 END) `records`,
 				COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) `WRs`,
 				COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
@@ -64,6 +62,22 @@ CREATE TABLE persons_extra
 		LEFT JOIN
 			(SELECT tm.user_id, GROUP_CONCAT(t.friendly_id ORDER BY t.id ASC) wcaTeam FROM wca_dev.team_members tm JOIN wca_dev.teams t ON tm.team_id = t.id WHERE tm.end_date IS NULL GROUP BY tm.user_id) k 
 		ON g.id = k.user_id
+		LEFT JOIN
+			(SELECT personId, 
+				SUM(CASE WHEN championship_type = 'world' THEN 1 ELSE 0 END) wcPodiums, 
+				SUM(CASE WHEN championship_type = 'world' AND Cpos = 1 THEN 1 ELSE 0 END) wcGold, 
+				SUM(CASE WHEN championship_type = 'world' AND Cpos = 2 THEN 1 ELSE 0 END) wcSilver,
+				SUM(CASE WHEN championship_type = 'world' AND Cpos = 3 THEN 1 ELSE 0 END) wcBronze,
+				SUM(CASE WHEN championship_type LIKE '\_%' THEN 1 ELSE 0 END) conPodiums,
+				SUM(CASE WHEN championship_type LIKE '\_%' AND Cpos = 1 THEN 1 ELSE 0 END) conGold,
+				SUM(CASE WHEN championship_type LIKE '\_%' AND Cpos = 2 THEN 1 ELSE 0 END) conSilver,
+				SUM(CASE WHEN championship_type LIKE '\_%' AND Cpos = 3 THEN 1 ELSE 0 END) conBronze,
+				SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' THEN 1 ELSE 0 END) natPodiums,
+				SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' AND Cpos = 1 THEN 1 ELSE 0 END) natGold,
+				SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' AND Cpos = 2 THEN 1 ELSE 0 END) natSilver,
+				SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' AND Cpos = 3 THEN 1 ELSE 0 END) natBronze
+			FROM wca_stats.championship_podiums GROUP BY personId) l 
+		ON a.id = l.personId
 		;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'persons_extra';
