@@ -1,16 +1,24 @@
 #!/bin/bash
 
+# Link to mysql password
 source ~/mysqlpw/mysql.conf
 
+# Log that this script has started
 mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wcadevstsupd.sh', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
-ldu1=$(stat -c %Y ~/databasedownload/wca-developer-database-dump.zip)
-wget -N -O ~/databasedownload/wca-developer-database-dump.zip https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
-ldu2=$(stat -c %Y ~/databasedownload/wca-developer-database-dump.zip)
 
-if [[ "$ldu1" == "$ldu2" ]]
+# Define the files
+dbURL="https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
+dbLocal=~/databasedownload/wca-developer-database-dump.zip
+
+# Get local and remote timestamps
+URLStamp=$(date --date="$(curl -s -I "${dbURL}" | awk '/Last-Modified/ {$1=""; print $0}')" +%s)
+localStamp=$(stat -c %W "$dbLocal")
+
+# Compare the timestamps
+if [ ${localStamp} -lt ${URLStamp} ];
 then
-  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'"
-else
+   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET notes = 'Change noticed; developer database and wca_stats now being updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
+  curl -sRo ~/databasedownload/wca-developer-database-dump.zip https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip
   unzip -o ~/databasedownload/wca-developer-database-dump.zip -d ~/databasedownload
   mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wca_dev', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
   mysql -u sam -p"$mysqlpw" wca_dev < ~/databasedownload/wca-developer-database-dump.sql
@@ -29,5 +37,7 @@ else
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/pb_streak.sql
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/mbld_decoded.sql
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/relays.sql
-  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'"
+  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
+else
+  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'"
 fi
