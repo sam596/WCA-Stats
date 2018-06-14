@@ -94,7 +94,7 @@ SELECT
     SUM(CASE WHEN eventId = '555' THEN best END) `555`,
     SUM(CASE WHEN eventId = '666' THEN best END) `666`,
     SUM(CASE WHEN eventId = '777' THEN best END) `777`,
-    SUM(CASE WHEN eventId = '333bf' THEN best END) `333bf`
+    SUM(CASE WHEN eventId = '333bf' THEN best END) `333bf`,
     SUM(CASE WHEN eventId = '333oh' THEN best END) `333oh`,
     SUM(CASE WHEN eventId = '333ft' THEN best END) `333ft`,
     SUM(CASE WHEN eventId = 'clock' THEN best END) `clock`,
@@ -103,7 +103,7 @@ SELECT
     SUM(CASE WHEN eventId = 'skewb' THEN best END) `skewb`,
     SUM(CASE WHEN eventId = 'sq1' THEN best END) `sq1`,
     SUM(CASE WHEN eventId = '444bf' THEN best END) `444bf`,
-    SUM(CASE WHEN eventId = '555bf' THEN best END) `555bf`
+    SUM(CASE WHEN eventId = '555bf' THEN best END) `555bf`,
 	SEC_TO_TIME(r.AllEvents/100) `AllEvents`
 FROM
 	(SELECT personId, SUM(best) AllEvents FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 16) r
