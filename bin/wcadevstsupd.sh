@@ -21,7 +21,7 @@ if [ ${localStamp} -lt ${URLStamp} ];
 then
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET notes = 'Change noticed; developer database and wca_stats now being updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
   
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Newer database available; developer database is now being updated --- (${URLStamp} vs ${localStamp})"}' $discordwh
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Newer database available; developer database is now being updated"}' $discordwh
   
   curl -sRo "${dbLocal}" "${dbURL}"
   
