@@ -12,7 +12,7 @@ dbLocal=~/databasedownload/wca-developer-database-dump.zip
 
 # Get local and remote timestamps
 URLStamp=$(date --date="$(curl -s -I "${dbURL}" | awk '/Last-Modified/ {$1=""; print $0}')" +%s)
-localStamp=$(stat -c %W "$dbLocal")
+localStamp=$(stat -c %Y "$dbLocal")
 
 # Compare the timestamps
 if [ ${localStamp} -lt ${URLStamp} ];
