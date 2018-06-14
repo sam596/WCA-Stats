@@ -1,7 +1,7 @@
 INSERT INTO wca_stats.last_updated VALUES ('kinch', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
-DROP TABLE IF EXISTS kinchhelpcountry;
-CREATE TEMPORARY TABLE kinchhelpcountry
+DROP TABLE IF EXISTS wca_stats.kinchhelpcountry;
+CREATE TEMPORARY TABLE wca_stats.kinchhelpcountry
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT personId, name, continentId, countryId, eventId, format, competed, best
 FROM wca_stats.world_ranks_all 
@@ -18,8 +18,8 @@ SET @eId = NULL;
 SET @format = NULL;
 SET @cunId = NULL;
 SET @NR = 0;
-DROP TABLE IF EXISTS kinch_country_event;
-CREATE TEMPORARY TABLE kinch_country_event
+DROP TABLE IF EXISTS wca_stats.kinch_country_event;
+CREATE TEMPORARY TABLE wca_stats.kinch_country_event
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(countryKinch) countryKinch
 FROM  
   (SELECT a.*,
@@ -35,7 +35,7 @@ FROM
     @eId := a.eventId eid,
     @format := a.format formatH,
     @cunId := a.countryId cunId
-  FROM (SELECT * FROM kinchhelpcountry ORDER BY id ASC) a ORDER BY countryKinch DESC) kinch
+  FROM (SELECT * FROM wca_stats.kinchhelpcountry ORDER BY id ASC) a ORDER BY countryKinch DESC) kinch
 GROUP BY personId, eventId;
 
 SET @curr=NULL;
@@ -43,8 +43,8 @@ SET @rank=1;
 SET @cunId=NULL;
 SET @prev=NULL;
 SET @n=1;
-DROP TABLE IF EXISTS kinch_country;
-CREATE TABLE kinch_country
+DROP TABLE IF EXISTS wca_stats.kinch_country;
+CREATE TABLE wca_stats.kinch_country
 SELECT 
   @curr := a.countryKinch curr,
   @rank := IF(@cunId = a.countryId, IF(@prev = @curr, @rank, @rank + @n), 1) rank,
@@ -72,13 +72,13 @@ FROM
       SUM(CASE WHEN eventId = '444bf' THEN countryKinch END) `444bf`,
       SUM(CASE WHEN eventId = '555bf' THEN countryKinch END) `555bf`,
       SUM(CASE WHEN eventId = '333mbf' THEN countryKinch END) `333mbf`
-    FROM kinch_country_event
+    FROM wca_stats.kinch_country_event
     GROUP BY personId
     ORDER BY countryId, countryKinch DESC) a;
-ALTER TABLE kinch_country DROP curr, DROP cunId, DROP prev, DROP counter;
+ALTER TABLE wca_stats.kinch_country DROP curr, DROP cunId, DROP prev, DROP counter;
 
-DROP TABLE IF EXISTS kinchhelpcontinent;
-CREATE TEMPORARY TABLE kinchhelpcontinent
+DROP TABLE IF EXISTS wca_stats.kinchhelpcontinent;
+CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT personId, name, continentId, countryId, eventId, format, competed, best
 FROM wca_stats.world_ranks_all 
@@ -95,8 +95,8 @@ SET @eId = NULL;
 SET @format = NULL;
 SET @conId = NULL;
 SET @CR = 0;
-DROP TABLE IF EXISTS kinch_continent_event;
-CREATE TABLE kinch_continent_event
+DROP TABLE IF EXISTS wca_stats.kinch_continent_event;
+CREATE TABLE wca_stats.kinch_continent_event
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(continentKinch) continentKinch
 FROM
   (SELECT a.*,
@@ -112,7 +112,7 @@ FROM
     @eId := a.eventId eid,
     @format := a.format formatH,
     @conId := a.continentId conId
-  FROM (SELECT * FROM kinchhelpcontinent ORDER BY id ASC) a ORDER BY continentKinch DESC) kinch
+  FROM (SELECT * FROM wca_stats.kinchhelpcontinent ORDER BY id ASC) a ORDER BY continentKinch DESC) kinch
 GROUP BY personId, eventId;
 
 SET @curr=NULL;
@@ -120,8 +120,8 @@ SET @rank=1;
 SET @conId=NULL;
 SET @prev=NULL;
 SET @n=1;
-DROP TABLE IF EXISTS kinch_continent;
-CREATE TABLE kinch_continent
+DROP TABLE IF EXISTS wca_stats.kinch_continent;
+CREATE TABLE wca_stats.kinch_continent
 SELECT 
   @curr := a.continentKinch curr,
   @rank := IF(@conId = a.continentId, IF(@prev = @curr, @rank, @rank + @n), 1) rank,
@@ -149,13 +149,13 @@ FROM
       SUM(CASE WHEN eventId = '444bf' THEN continentKinch END) `444bf`,
       SUM(CASE WHEN eventId = '555bf' THEN continentKinch END) `555bf`,
       SUM(CASE WHEN eventId = '333mbf' THEN continentKinch END) `333mbf`
-    FROM kinch_continent_event
+    FROM wca_stats.kinch_continent_event
     GROUP BY personId
     ORDER BY continentId, continentKinch DESC) a;
-ALTER TABLE kinch_continent DROP curr, DROP conId, DROP prev, DROP counter;
+ALTER TABLE wca_stats.kinch_continent DROP curr, DROP conId, DROP prev, DROP counter;
 
-DROP TABLE IF EXISTS kinchhelpworld;
-CREATE TEMPORARY TABLE kinchhelpworld
+DROP TABLE IF EXISTS wca_stats.kinchhelpworld;
+CREATE TEMPORARY TABLE wca_stats.kinchhelpworld
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT personId, name, continentId, countryId, eventId, format, competed, best
 FROM wca_stats.world_ranks_all 
@@ -171,8 +171,8 @@ SET @Wkinch = 100;
 SET @eId = NULL;
 SET @format = NULL;
 SET @WR = 0;
-DROP TABLE IF EXISTS kinch_world_event;
-CREATE TABLE kinch_world_event
+DROP TABLE IF EXISTS wca_stats.kinch_world_event;
+CREATE TABLE wca_stats.kinch_world_event
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(worldKinch) worldKinch
 FROM
   (SELECT a.*,
@@ -187,15 +187,15 @@ FROM
     @WR := IF(a.eventId = @eId AND a.format = @format, @WR, a.best) WR,
     @eId := a.eventId eid,
     @format := a.format formatH
-  FROM (SELECT * FROM kinchhelpworld ORDER BY id ASC) a ORDER BY worldKinch DESC) kinch
+  FROM (SELECT * FROM wca_stats.kinchhelpworld ORDER BY id ASC) a ORDER BY worldKinch DESC) kinch
 GROUP BY personId, eventId;
 
 SET @curr=NULL;
 SET @rank=1;
 SET @prev=NULL;
 SET @n=1;
-DROP TABLE IF EXISTS kinch_world;
-CREATE TABLE kinch_world
+DROP TABLE IF EXISTS wca_stats.kinch_world;
+CREATE TABLE wca_stats.kinch_world
 SELECT 
   @curr := a.worldKinch curr,
   @rank := IF(@prev = @curr, @rank, @rank + @n) rank,
@@ -222,9 +222,9 @@ FROM
       SUM(CASE WHEN eventId = '444bf' THEN worldKinch END) `444bf`,
       SUM(CASE WHEN eventId = '555bf' THEN worldKinch END) `555bf`,
       SUM(CASE WHEN eventId = '333mbf' THEN worldKinch END) `333mbf`
-    FROM kinch_world_event
+    FROM wca_stats.kinch_world_event
     GROUP BY personId
     ORDER BY worldKinch DESC) a;
-ALTER TABLE kinch_world DROP curr, DROP prev DROP counter;
+ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev DROP counter;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';
