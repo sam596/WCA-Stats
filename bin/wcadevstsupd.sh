@@ -5,6 +5,8 @@ source ~/mysqlpw/mysql.conf
 
 # Log that this script has started
 mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wcadevstsupd.sh', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
+curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Developer database script now running"}' $discordwh
+
 
 # Define the files
 dbURL="https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
@@ -19,6 +21,7 @@ localStamp=$(stat -c %Y "$dbLocal")
 if [ ${localStamp} -lt ${URLStamp} ];
 then
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET notes = 'Change noticed; developer database and wca_stats now being updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Developer database script now running"}' $discordwh
   curl -sRo "${dbLocal}" "${dbURL}"
   unzip -o "${dbLocal}" -d "${dbPath}"
   mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wca_dev', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
