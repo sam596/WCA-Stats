@@ -5,7 +5,6 @@ source ~/mysqlpw/mysql.conf
 
 # Log that this script has started
 mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wcadevstsupd.sh', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
-curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Developer database script now running"}' $discordwh
 
 # Define the files
 dbURL="https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
@@ -71,5 +70,4 @@ then
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "This concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink:' $discordwh
 else
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Developer database is already up-to-date!"}' $discordwh
 fi
