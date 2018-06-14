@@ -30,7 +30,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_single_results.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_single_results` has been updated! :tada:"}' $discordwh
-    
+
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/sor_average.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/sor_single.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/sor_combined.sql && \
@@ -38,7 +38,7 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/kinch.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The `world`,`continent` and `country_kinch` tables have all been updated! :tada:"}' $discordwh
-  
+
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/records.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "all the `sor` and `world_ranks` tables have been updated! :tada:"}' $discordwh
   
