@@ -225,6 +225,6 @@ FROM
     FROM wca_stats.kinch_world_event
     GROUP BY personId
     ORDER BY worldKinch DESC) a;
-ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev DROP counter;
+ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';
