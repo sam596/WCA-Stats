@@ -4,7 +4,7 @@ DROP TABLE IF EXISTS mbld_decoded;
 CREATE TABLE mbld_decoded
 SELECT
     personId,
-    personName
+    personName,
     competitionId,
     date,
     roundTypeId,
