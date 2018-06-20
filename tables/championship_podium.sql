@@ -24,11 +24,11 @@ FROM (SELECT a.competitionId, a.eventId, a.pos, a.best, a.average, a.personId, a
     ORDER BY competitionId, championship_type, eventId, pos ASC) a;
 
 DROP TABLE IF EXISTS wca_stats.championship_podiums;
+CREATE TABLE wca_stats.championship_podiums
 (id INT NOT NULL AUTO_INCREMENT,
  PRIMARY KEY (id),
  KEY perstypecpos (personId, championship_type, cPos),
  KEY comp (competitionId))
-CREATE TABLE wca_stats.championship_podiums
     SELECT personId, personName, countryId, championship_type, competitionId, eventId, cPos, pos, (CASE WHEN average > 0 AND formatId IN ('a','m') THEN average ELSE best END) 'result', formatId
     FROM wca_stats.ChampPodiumHelp WHERE cPos <= 3
    	ORDER BY championship_type, competitionId, eventId, cPos;
