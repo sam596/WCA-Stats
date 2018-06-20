@@ -232,4 +232,14 @@ FROM
     ORDER BY worldKinch DESC) a;
 ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
 
+DROP TABLE IF EXISTS kinch;
+CREATE TABLE kinch 
+(PRIMARY KEY (personId)) 
+SELECT w.personId, w.name, w.continentId, w.countryId, worldKinch, w.rank worldRank, continentKinch, con.rank continentRank, countryKinch, cun.rank countryRank 
+FROM kinch_world w 
+JOIN kinch_continent con 
+  ON w.personId = con.personId 
+JOIN kinch_country cun 
+  ON w.personId = cun.personId;
+
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';
