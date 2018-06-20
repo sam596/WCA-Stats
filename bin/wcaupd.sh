@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/mysqlpw/mysql.conf
+source ~/.mysqlpw/mysql.conf
 
 dbURL="https://www.worldcubeassociation.org/results/misc/WCA_export.sql.zip"
 dbLocal=~/databasedownload/WCA_export.sql.zip
