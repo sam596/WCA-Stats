@@ -1,7 +1,7 @@
 INSERT INTO wca_stats.last_updated VALUES ('sor_average', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS SoR_average_be1;
-CREATE TEMPORARY TABLE SoR_average_be1 AS 
+CREATE TEMPORARY TABLE SoR_average_be1
 	SELECT 
 		p.id personId,
 		p.name,
@@ -20,7 +20,8 @@ CREATE TEMPORARY TABLE SoR_average_be1 AS
 ;
 
 DROP TABLE IF EXISTS world_average_ranks;
-CREATE TABLE world_average_ranks AS
+CREATE TABLE world_average_ranks
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY pebw (personId, eventId, best, worldrank), KEY cr (competitionId, roundTypeId))
 	SELECT 
 		a.personId,
 		a.name,
@@ -32,7 +33,6 @@ CREATE TABLE world_average_ranks AS
 		(CASE WHEN c.worldrank IS NULL THEN 0 ELSE 1 END) competed,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.competitionId END) competitionId,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.roundTypeId END) roundTypeId,
-		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.average END) result,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.date END) date
 	FROM 	
 		SoR_average_be1 a
@@ -46,7 +46,7 @@ CREATE TABLE world_average_ranks AS
 			eventId
 		) b
 	ON 
-		a.eventId=b.eventId
+		a.eventId = b.eventId
 	LEFT JOIN	
 		wca_dev.ranksaverage c
 	ON 
@@ -61,12 +61,16 @@ CREATE TABLE world_average_ranks AS
 		a.eventId = d.eventId
 		AND
 		c.best = d.average
+	ORDER BY 
+		a.eventId, worldrank
 ;
 
 DROP TABLE IF EXISTS SoR_average;
 CREATE TABLE SoR_average 
 (rank INT NOT NULL AUTO_INCREMENT, 
-PRIMARY KEY(rank))
+PRIMARY KEY(rank),
+KEY pc (personId, countryId),
+KEY psor (personId, SoR))
 	SELECT 
 		personId,
 		name,
