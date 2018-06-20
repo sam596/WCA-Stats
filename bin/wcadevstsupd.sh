@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Link to mysql password
-source ~/mysqlpw/mysql.conf
+source ~/.mysqlpw/mysql.conf
 
 # Log that this script has started
 mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wcadevstsupd.sh', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
