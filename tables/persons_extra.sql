@@ -1,7 +1,8 @@
 INSERT INTO wca_stats.last_updated VALUES ('persons_extra', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS persons_extra;
-CREATE TABLE persons_extra	
+CREATE TABLE persons_extra
+(PRIMARY KEY (id))
 		SELECT
 			a.id, g.id user_id, a.name, a.gender, a.countryId, b.continentId, c.competitions, c.countries, c.continents, c.eventsAttempted, c.eventsSucceeded, c.eventsAverage, d.completedSolves, d.DNFs, c.finals, c.podiums, c.gold, c.silver, c.bronze, c.eventsPodiumed, c.eventsWon, c.records, c.WRs, c.CRs, c.NRs, l.wcPodiums, l.wcGold, l.wcSilver, l.wcBronze, l.conPodiums, l.conGold, l.conSilver, l.conBronze, l.natPodiums, l.natGold, l.natSilver, l.natBronze, c.multipleCountryComps, c.distinctMultipleCountryComps, e.SoR_average `sorAverage`, e.SoR_single `sorSingle`, e.SoR_combined `sorCombined`, m.countryKinch, n.continentKinch, o.worldKinch, f.minWorldRank, (CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND l.wcPodiums > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR l.wcPodiums > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, g.delegate_status delegateStatus, g.region, g.location_description location, IFNULL(h.competitionsDelegated,0) competitionsDelegated, IFNULL(j.competitionsOrganized,0) competitionsOrganized, k.wcaTeam
 		FROM (SELECT * FROM wca_dev.persons WHERE subid = 1) a
@@ -13,17 +14,17 @@ CREATE TABLE persons_extra
 				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAttempted`, 
 				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsSucceeded`,
 				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAverage`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') THEN 1 END) `finals`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN 1 END) `podiums`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN 1 END) `gold`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 2 AND best > 0 THEN 1 END) `silver`,
-				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) `bronze`,
+				SUM(CASE WHEN roundTypeId IN ('c','f') THEN 1 END) `finals`,
+				SUM(CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN 1 END) `podiums`,
+				SUM(CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN 1 END) `gold`,
+				SUM(CASE WHEN roundTypeId IN ('c','f') AND pos = 2 AND best > 0 THEN 1 END) `silver`,
+				SUM(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) `bronze`,
 				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN eventId END)) `eventsPodiumed`,
 				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN eventId END)) `eventsWon`,
-				COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord != '' THEN 1 END) `records`,
-				COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) `WRs`,
-				COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
-				COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) `NRs`,
+				SUM(CASE WHEN regionalSingleRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord != '' THEN 1 END) `records`,
+				SUM(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) `WRs`,
+				SUM(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+SUM(CASE WHEN regionalAverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
+				SUM(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) `NRs`,
 				COUNT(DISTINCT (CASE WHEN b.countryId NOT LIKE 'X_' THEN b.countryId END)) `countries`,
 				COUNT(CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END) `multipleCountryComps`,
 				COUNT(DISTINCT (CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END)) `distinctMultipleCountryComps`,
