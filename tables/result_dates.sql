@@ -4,7 +4,6 @@ DROP TABLE IF EXISTS result_dates;
 CREATE TABLE result_dates 
 (id INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(id), 
-KEY personcompevent (personId,competitionId,eventId),
 KEY result_dates_person (personId),
 KEY result_dates_comp (competitionId),
 KEY result_dates_event (eventId),
@@ -66,11 +65,22 @@ UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'result_dates'
 INSERT INTO wca_stats.last_updated VALUES ('podiums', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS podiums;
-CREATE TABLE podiums AS SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
+CREATE TABLE podiums 
+(id INT NOT NULL AUTO_INCREMENT, 
+PRIMARY KEY(id), 
+KEY result_dates_person (personId),
+KEY result_dates_comp (competitionId),
+KEY result_dates_event (eventId),
+KEY result_dates_round (roundTypeId),
+KEY result_dates_eventavg (eventId,average),
+KEY result_dates_eventsgl (eventId,best),
+KEY result_dates_avgall (personId,competitionId,eventId,roundTypeId,average),
+KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
+SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
 
 DROP TABLE IF EXISTS wca_stats.podiumsums;
 CREATE TABLE wca_stats.podiumsums
-SELECT competitionId, eventId, SUM(result), GROUP_CONCAT(personId) personIds, GROUP_CONCAT(result) results
+SELECT competitionId, eventId, SUM(result), GROUP_CONCAT(personId ORDER BY pos) personIds, GROUP_CONCAT(result ORDER BY pos) results
 FROM (SELECT competitionId, eventId, pos, personId, personname, (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result
 FROM podiums WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a GROUP BY competitionId, eventId HAVING COUNT(*) = 3;
 
