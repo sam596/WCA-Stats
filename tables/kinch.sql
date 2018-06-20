@@ -19,7 +19,7 @@ SET @format = NULL;
 SET @cunId = NULL;
 SET @NR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_country_event;
-CREATE TEMPORARY TABLE wca_stats.kinch_country_event
+CREATE TABLE wca_stats.kinch_country_event
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(countryKinch) countryKinch
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY countrykinch (countryId, countryKinch)) 
 FROM  
