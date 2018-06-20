@@ -14,7 +14,8 @@ CREATE TABLE concise_results
 (PRIMARY KEY (id),
 KEY pef (personId, eventId, format),
 KEY pc (personId, competitionId),
-KEY pefpb (personId, eventId, format, `PB`))
+KEY pefpb (personId, eventId, format, `PB`),
+KEY pb (`PB`))
 SELECT a.*,
     IF(a.result <= IFNULL((SELECT MIN(result) FROM `concise_results_help` r WHERE r.result > 0 AND r.personId = a.personId AND r.eventId = a.eventId AND r.format = a.format AND r.id < a.id),999999999)
     AND a.result > 0, 1, 0) 'PB'
