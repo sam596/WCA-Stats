@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/mysqlpw/mysql.conf
+source ~/.mysqlpw/mysql.conf
 
 dbURL="https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
 dbLocal=~/databasedownload/wca-developer-database-dump.zip
