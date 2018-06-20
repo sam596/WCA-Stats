@@ -19,7 +19,7 @@ SET @format = NULL;
 SET @cunId = NULL;
 SET @NR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_country_event;
-CREATE TEMPORARY TABLE wca_stats.kinch_country_event
+CREATE TABLE wca_stats.kinch_country_event
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(countryKinch) countryKinch
 FROM  
   (SELECT a.*,
@@ -45,6 +45,7 @@ SET @prev=NULL;
 SET @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_country;
 CREATE TABLE wca_stats.kinch_country
+(PRIMARY KEY (personId))
 SELECT 
   @curr := a.countryKinch curr,
   @rank := IF(@cunId = a.countryId, IF(@prev = @curr, @rank, @rank + @n), 1) rank,
@@ -97,6 +98,7 @@ SET @conId = NULL;
 SET @CR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_continent_event;
 CREATE TABLE wca_stats.kinch_continent_event
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY continentkinch (continentId, continentKinch))
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(continentKinch) continentKinch
 FROM
   (SELECT a.*,
@@ -122,6 +124,7 @@ SET @prev=NULL;
 SET @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_continent;
 CREATE TABLE wca_stats.kinch_continent
+(PRIMARY KEY (personId))
 SELECT 
   @curr := a.continentKinch curr,
   @rank := IF(@conId = a.continentId, IF(@prev = @curr, @rank, @rank + @n), 1) rank,
@@ -173,6 +176,7 @@ SET @format = NULL;
 SET @WR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_world_event;
 CREATE TABLE wca_stats.kinch_world_event
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY worldkinch (worldKinch))
 SELECT personId, name, continentId, countryId, eventId, best, format, MAX(worldKinch) worldKinch
 FROM
   (SELECT a.*,
@@ -196,6 +200,7 @@ SET @prev=NULL;
 SET @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_world;
 CREATE TABLE wca_stats.kinch_world
+(PRIMARY KEY (personId))
 SELECT 
   @curr := a.worldKinch curr,
   @rank := IF(@prev = @curr, @rank, @rank + @n) rank,
@@ -226,5 +231,15 @@ FROM
     GROUP BY personId
     ORDER BY worldKinch DESC) a;
 ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
+
+DROP TABLE IF EXISTS kinch;
+CREATE TABLE kinch 
+(PRIMARY KEY (personId)) 
+SELECT w.personId, w.name, w.continentId, w.countryId, worldKinch, w.rank worldRank, continentKinch, con.rank continentRank, countryKinch, cun.rank countryRank 
+FROM kinch_world w 
+JOIN kinch_continent con 
+  ON w.personId = con.personId 
+JOIN kinch_country cun 
+  ON w.personId = cun.personId;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';

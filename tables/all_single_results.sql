@@ -4,13 +4,11 @@ DROP TABLE IF EXISTS all_single_results;
 CREATE TABLE all_single_results
 (id INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(id), 
-KEY asr_personcompevent (personId,competitionId,eventId),
-KEY asr_person (personId),
-KEY asr_comp (competitionId),
+KEY asr_personcompevent (personId,competitionId,eventId,roundTypeId),
 KEY asr_event (eventId),
-KEY asr_round (roundTypeId),
-KEY asr_eventval (eventId,value),
-KEY asr_sglall (personId,competitionId,eventId,roundTypeId,value))
+KEY asr_round (competitionId,eventId,roundTypeId),
+KEY asr_round2 (roundTypeId),
+KEY asr_eventval (eventId,value))
   SELECT * FROM
   (
     SELECT competitionId, date, eventId, roundTypeId, 1 solve, pos, personId, personName, value1 value FROM result_dates WHERE value1 != 0 AND value1 != -2
