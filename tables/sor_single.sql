@@ -34,7 +34,6 @@ CREATE TABLE world_single_ranks
 		(CASE WHEN c.worldrank IS NULL THEN 0 ELSE 1 END) competed,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.competitionId END) competitionId,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.roundTypeId END) roundTypeId,
-		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.value END) result,
 		(CASE WHEN c.worldrank IS NULL THEN NULL ELSE d.date END) date
 	FROM 	
 		SoR_single_be1 a
