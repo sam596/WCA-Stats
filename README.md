@@ -33,5 +33,7 @@ There are `.sh` files in `/bin` which automatically do the following:
 
 `bin/wcaupd.sh` will pull the latest public export from the WCA into the `wca` table. This won't run any additional queries.
 
-**NB:** to run these, you will have to edit them yourself as I will have a different username and password to your mysql server. For reference, my username is `sam` and my password is stored in a file in `~/.mysqlpw/mysql.conf`. Its contents is a singular line such as this: `mysqlpw='mypassword'`; just replace `mypassword` for your own.
-Also, I have a line in my `~/mysqlpw/mysql.conf` file called `discordwh=<link>`. Through this, a bot posts in my personal discord server to let me know when tables and databases have been updated, through the abundance of lines in the `.sh` scripts in `bin/`
+##### Notes
+To run these, you will have to edit them yourself as I will have a different username and password to your mysql server. For reference, my username is `sam` and my password is stored in a file in `~/.mysqlpw/mysql.conf`. Its contents is a singular line such as this: `mysqlpw='mypassword'`; just replace `mypassword` for your own.
+
+Also, I have a line in my `~/mysqlpw/mysql.conf` file called `discordwh=<link>`. Through this, a bot posts in my personal discord server to let me know when tables and databases have been updated, through the abundance of lines in the `.sh` scripts in `bin/`. If you have no use for this webhook, delete all the lines in the `.sh` scripts that mention `$discordwh`.
