@@ -2,7 +2,7 @@ INSERT INTO wca_stats.last_updated VALUES ('concise_results', NOW(), NULL, '') O
 
 DROP TABLE IF EXISTS concise_results_help;
 CREATE TABLE concise_results_help
-(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id), KEY pef (personId, eventId, format))
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id), KEY pef (personId, eventId, format, result))
 SELECT * FROM
 (SELECT personId, competitionId, date, weekend, eventId, roundTypeId, average result, 'a' format FROM result_dates
 UNION ALL
