@@ -6,6 +6,9 @@ SET @scomp = NULL;
 SET @ecomp = NULL;
 DROP TABLE IF EXISTS pb_streak;
 CREATE TABLE pb_streak
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id),
+ KEY pc (personId, competitionId, pbStreak),
+ KEY ps (personId, pbStreak, competitionId))
 SELECT a.*, 
         @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak,
         @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp,
@@ -20,6 +23,9 @@ SET @scomp = NULL;
 SET @ecomp = NULL;
 DROP TABLE IF EXISTS pb_streak_exfmc;
 CREATE TABLE pb_streak_exfmc
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id),
+ KEY pc (personId, competitionId, pbStreak),
+ KEY ps (personId, pbStreak, competitionId))
 SELECT a.*, 
         @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak,
         @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp,
