@@ -53,6 +53,8 @@ CREATE TABLE persons_extra
 			m.countryKinch,
 			m.countryKinchRank,
 			f.minWorldRank, 
+			n.maxPBStreak,
+			n.currentPBStreak,
 			(CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND l.wcPodiums > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR l.wcPodiums > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, 
 			g.delegate_status delegateStatus, 
 			g.region, 
@@ -137,6 +139,9 @@ CREATE TABLE persons_extra
 		LEFT JOIN
 			kinch m
 		ON a.id = m.personId
+		LEFT JOIN
+			(SELECT personId, MAX(pbStreak) maxPBStreak, (SELECT pbStreak FROM pb_streak WHERE id = MAX(a.id)) currentPBStreak FROM pb_streak a GROUP BY personId) n
+		ON a.id = n.personId
 		;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'persons_extra';
