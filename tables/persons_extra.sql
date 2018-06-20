@@ -2,7 +2,7 @@ INSERT INTO wca_stats.last_updated VALUES ('persons_extra', NOW(), NULL, '') ON 
 
 DROP TABLE IF EXISTS persons_extra;
 CREATE TABLE persons_extra	
-(PRIMARY KEY (personId))
+(PRIMARY KEY (id))
 		SELECT
 			a.id, 
 			g.id user_id, 
