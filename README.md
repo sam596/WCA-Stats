@@ -3,64 +3,64 @@ Here are various statistics I have computed using the WCA database. These are li
 <details>
 <summary>Best 3x3 Average without a Sub-X Single</summary>
 <ul>
-<li><a href="bestaveragewithoutsubxsingle/sub5.md">Sub-5</a></li>
-<li><a href="bestaveragewithoutsubxsingle/sub6.md">Sub-6</a></li>
-<li><a href="bestaveragewithoutsubxsingle/sub7.md">Sub-7</a></li>
-<li><a href="bestaveragewithoutsubxsingle/sub8.md">Sub-8</a></li>
-<li><a href="bestaveragewithoutsubxsingle/sub9.md">Sub-9</a></li>
-<li><a href="bestaveragewithoutsubxsingle/sub10.md">Sub-10</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub5.html">Sub-5</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub6.html">Sub-6</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub7.html">Sub-7</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub8.html">Sub-8</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub9.html">Sub-9</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub10.html">Sub-10</a></li>
 </ul>
 </details>
 
 <details>
 	<summary>Best Podiums</summary>
-
-+ [3x3](pages/bestpodiums/333.md)
-+ [2x2](pages/bestpodiums/222.md)
-+ [4x4](pages/bestpodiums/444.md)
-+ [5x5](pages/bestpodiums/555.md)
-+ [6x6](pages/bestpodiums/666.md)
-+ [7x7](pages/bestpodiums/777.md)
-+ [3BLD](pages/bestpodiums/333bf.md)
-+ [FMC](pages/bestpodiums/333fm.md)
-+ [OH](pages/bestpodiums/333oh.md)
-+ [Feet](pages/bestpodiums/333ft.md)
-+ [Clock](pages/bestpodiums/clock.md)
-+ [Megaminx](pages/bestpodiums/minx.md)
-+ [Pyraminx](pages/bestpodiums/pyram.md)
-+ [Skewb](pages/bestpodiums/skewb.md)
-+ [Square-1](pages/bestpodiums/sq1.md)
-+ [4BLD](pages/bestpodiums/444bf.md)
-+ [5BLD](pages/bestpodiums/555bf.md)
-+ [MBLD](pages/bestpodiums/333mbf.md)
-
+<ul>
+<li><a href="bestpodiums/333.md)">3x3</a></li>
+<li><a href="bestpodiums/222.md)">2x2</a></li>
+<li><a href="bestpodiums/444.md)">4x4</a></li>
+<li><a href="bestpodiums/555.md)">5x5</a></li>
+<li><a href="bestpodiums/666.md)">6x6</a></li>
+<li><a href="bestpodiums/777.md)">7x7</a></li>
+<li><a href="bestpodiums/333bf.md)">3BLD</a></li>
+<li><a href="bestpodiums/333fm.md)">FMC</a></li>
+<li><a href="bestpodiums/333oh.md)">OH</a></li>
+<li><a href="bestpodiums/333ft.md)">Feet</a></li>
+<li><a href="bestpodiums/clock.md)">Clock</a></li>
+<li><a href="bestpodiums/minx.md)">Megaminx</a></li>
+<li><a href="bestpodiums/pyram.md)">Pyraminx</a></li>
+<li><a href="bestpodiums/skewb.md)">Skewb</a></li>
+<li><a href="bestpodiums/sq1.md)">Square-1</a></li>
+<li><a href="bestpodiums/444bf.md)">4BLD</a></li>
+<li><a href="bestpodiums/555bf.md)">5BLD</a></li>
+<li><a href="bestpodiums/333mbf.md)">MBLD</a></li>
+</ul>
 </details>
 
 <details>
 	<summary>Longest PB Streaks</summary>
-
-+ [All competitions](pages/pbstreaks/all.md)
-+ [Excluding FMC-Only competitions](pages/pbstreaks/exfmc.md)
-+ [Excluding FMC and/or BLD-Only competitions](pages/pbstreaks/exfmcbld.md)
-
+<ul>
+<li><a href="pbstreaks/all.md">All competitions</a></li>
+<li><a href="pbstreaks/exfmc.md">Excluding FMC-Only comps</a></li>
+<li><a href="pbstreaks/exfmcbld.md">Excluding FMC-and-BLD-Only comps</a></li>
+</ul>
 </details>
 
 <details>
 	<summary>Most Sub-X 3x3 Solves without a Sub-X average</summary>
-
-+ [Sub-6](pages/subxsinglewithoutaverage/sub6.md)
-+ [Sub-7](pages/subxsinglewithoutaverage/sub7.md)
-+ [Sub-8](pages/subxsinglewithoutaverage/sub8.md)
-+ [Sub-9](pages/subxsinglewithoutaverage/sub9.md)
-+ [Sub-10](pages/subxsinglewithoutaverage/sub10.md)
-
+<ul>
+<li><a href="subxsinglewithoutaverage/sub6.md">Sub-6</a></li>
+<li><a href="subxsinglewithoutaverage/sub7.md">Sub-7</a></li>
+<li><a href="subxsinglewithoutaverage/sub8.md">Sub-8</a></li>
+<li><a href="subxsinglewithoutaverage/sub9.md">Sub-9</a></li>
+<li><a href="subxsinglewithoutaverage/sub10.md">Sub-10</a></li>
+</ul>
 </details>
 
 <details>
 	<summary>Sum of the Best Single Times at a Competition</summary>
-
-(excluding FMC and MBLD)
-+ [All Events](pages/sumbesttimes/all.md)
-+ [Excluding BigBLD](pages/sumbesttimes/exbigbld.md)
-
+<i>(excluding FMC and MBLD)</i>
+<ul>
+<li><a href="sumbesttimes/all.md">All Events</a></li>
+<li><a href="sumbesttimes/exbigbld.md">Excluding BigBLD</a></li>
+</ul>
 </details>
