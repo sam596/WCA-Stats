@@ -4,10 +4,19 @@
 source ~/.mysqlpw/mysql.conf
 
 # bestaveragewithoutsubxsingle
+# sub5
 mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, p.countryId Country, (SELECT best FROM rankssingle WHERE eventId = '333' AND personId = a.personId) Single, a.best Average FROM ranksaverage a INNER JOIN persons p ON p.subid = 1 AND a.personId = p.id WHERE a.eventId = '333' AND personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < 500) ORDER BY average ASC LIMIT 25;" > ~/mysqloutput/original && \
-	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output5 && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 	sed -i.bak '2i\
-	--|--|--|--\' ~/mysqloutput/output5
+	--|--|--|--\' ~/mysqloutput/output
+
+output=$(cat ~/mysqloutput/output)
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+
+rm ~/mysqloutput/output
+
+awk -v r="$output" '{gsub(/subtable/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/templates/bestaveragewithoutsubxsingle.md > ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub5.md.tmp && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub5.md.tmp > ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub5.md
 
 mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, p.countryId Country, (SELECT best FROM rankssingle WHERE eventId = '333' AND personId = a.personId) Single, a.best Average FROM ranksaverage a INNER JOIN persons p ON p.subid = 1 AND a.personId = p.id WHERE a.eventId = '333' AND personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < 600) ORDER BY average ASC LIMIT 25;" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output6 && \
