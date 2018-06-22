@@ -36,6 +36,10 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 
+<br>
+
+*The below stats are all coming soon.*
+
 <details>
   <summary>Longest PB Streaks</summary>
 <ul>
