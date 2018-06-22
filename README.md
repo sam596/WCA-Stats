@@ -1,9 +1,7 @@
 Here are various statistics I have computed using the WCA database. These are likely not all up to date, so please message me if you'd like one updated, but bear in mind some of these tables take a while to compute.
 
 <details>
-<summary><h3>Best Average without a Sub-X Single</h3></summary>
-<details>
-<summary><h4>3x3</h4></summary>
+<summary>Best 3x3 Average without a Sub-X Single</summary>
 
 + [Sub-5](bestaveragewithoutsubxsingle/sub5.md)
 + [Sub-6](bestaveragewithoutsubxsingle/sub6.md)
@@ -13,14 +11,56 @@ Here are various statistics I have computed using the WCA database. These are li
 + [Sub-10](bestaveragewithoutsubxsingle/sub10.md)
 
 </details>
+
+<details>
+	<summary>Best Podiums</summary>
+
++ [3x3](pages/bestpodiums/333.md)
++ [2x2](pages/bestpodiums/222.md)
++ [4x4](pages/bestpodiums/444.md)
++ [5x5](pages/bestpodiums/555.md)
++ [6x6](pages/bestpodiums/666.md)
++ [7x7](pages/bestpodiums/777.md)
++ [3BLD](pages/bestpodiums/333bf.md)
++ [FMC](pages/bestpodiums/333fm.md)
++ [OH](pages/bestpodiums/333oh.md)
++ [Feet](pages/bestpodiums/333ft.md)
++ [Clock](pages/bestpodiums/clock.md)
++ [Megaminx](pages/bestpodiums/minx.md)
++ [Pyraminx](pages/bestpodiums/pyram.md)
++ [Skewb](pages/bestpodiums/skewb.md)
++ [Square-1](pages/bestpodiums/sq1.md)
++ [4BLD](pages/bestpodiums/444bf.md)
++ [5BLD](pages/bestpodiums/555bf.md)
++ [MBLD](pages/bestpodiums/333mbf.md)
+
 </details>
 
-<h3>[Best 3x3 Podiums (overall)](best3x3podiums.html)</h3>
-	<h4> [By Country of Competition](best3x3podiumcountries.html)</h4>
-	<h4> By Country of Competitors *(coming when i can be bothered)*</h4>
-<h3>[Highest Percentage of Best Solves occurring on the Final Solve of an Average](mostbestaslastsolve.html)</h3>
-<h3>[Longest PB Streaks](pbstreakincfmc.html)</h3>
-<h3>[Longest PB Streaks **excluding** FMC-Only Comps](pbstreakexcfmc.html)</h3>
-<h3>[Most Consecutive Months Competed in](monthstreaks.html)</h3>
-<h3>[Most Sub-X 3x3 Solves without a Sub-X average](subxsinglewithoutxaverage.html)</h3>
-<h3>[Sum of the Best Single Times at a Competition](sumbesttimes.html)</h3>
+<details>
+	<summary>Longest PB Streaks</summary>
+
++ [All competitions](pages/pbstreaks/all.md)
++ [Excluding FMC-Only competitions](pages/pbstreaks/exfmc.md)
++ [Excluding FMC and/or BLD-Only competitions](pages/pbstreaks/exfmcbld.md)
+
+</details>
+
+<details>
+	<summary>Most Sub-X 3x3 Solves without a Sub-X average</summary>
+
++ [Sub-6](pages/subxsinglewithoutaverage/sub6.md)
++ [Sub-7](pages/subxsinglewithoutaverage/sub7.md)
++ [Sub-8](pages/subxsinglewithoutaverage/sub8.md)
++ [Sub-9](pages/subxsinglewithoutaverage/sub9.md)
++ [Sub-10](pages/subxsinglewithoutaverage/sub10.md)
+
+</details>
+
+<details>
+	<summary>Sum of the Best Single Times at a Competition</summary>
+
+(excluding FMC and MBLD)
++ [All Events](pages/sumbesttimes/all.md)
++ [Excluding BigBLD](pages/sumbesttimes/exbigbld.md)
+
+</details>
