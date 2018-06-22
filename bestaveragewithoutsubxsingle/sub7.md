@@ -7,7 +7,7 @@
 #### Sub-7
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|708|786
 [Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|748|792
 [Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|731|798

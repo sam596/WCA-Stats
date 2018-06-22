@@ -7,7 +7,7 @@
 #### Sub-6
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|606|718
 [Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|603|720
 [Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|616|720

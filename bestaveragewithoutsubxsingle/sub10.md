@@ -7,7 +7,7 @@
 #### Sub-10
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Yunzhe Jia (贾云哲)](https://www.worldcubeassociation.org/persons/2017JIAY05)|China|1013|1063
 [Aidan Gerber](https://www.worldcubeassociation.org/persons/2016GERB03)|Canada|1021|1070
 [Joohyung Park](https://www.worldcubeassociation.org/persons/2017PARK23)|Korea|1035|1076

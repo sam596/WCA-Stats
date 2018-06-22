@@ -7,7 +7,7 @@
 #### Sub-5
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|519|651
 [Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|593|652
 [Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|505|656

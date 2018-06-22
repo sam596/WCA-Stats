@@ -7,7 +7,7 @@
 #### Sub-9
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Caleb Tay](https://www.worldcubeassociation.org/persons/2016TAYC01)|Australia|901|967
 [Stanley Wang](https://www.worldcubeassociation.org/persons/2017WANS05)|Canada|922|993
 [Facundo Finola](https://www.worldcubeassociation.org/persons/2012FINO02)|Argentina|919|994

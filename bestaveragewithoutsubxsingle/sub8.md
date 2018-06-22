@@ -7,7 +7,7 @@
 #### Sub-8
 
 Name|Country|Single|Average
-	--|--|--|--
+--|--|--|--
 [Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01)|Korea|815|847
 [Nathanael Tung Wei An](https://www.worldcubeassociation.org/persons/2016ANNA01)|Singapore|809|855
 [Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|823|867
