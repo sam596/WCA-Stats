@@ -3,12 +3,12 @@ Here are various statistics I have computed using the WCA database. These are li
 <details>
 <summary>Best 3x3 Average without a Sub-X Single</summary>
 
-+ [Sub-5](bestaveragewithoutsubxsingle/sub5.md)
-+ [Sub-6](bestaveragewithoutsubxsingle/sub6.md)
-+ [Sub-7](bestaveragewithoutsubxsingle/sub7.md)
-+ [Sub-8](bestaveragewithoutsubxsingle/sub8.md)
-+ [Sub-9](bestaveragewithoutsubxsingle/sub9.md)
-+ [Sub-10](bestaveragewithoutsubxsingle/sub10.md)
+* [Sub-5](bestaveragewithoutsubxsingle/sub5.md)
+* [Sub-6](bestaveragewithoutsubxsingle/sub6.md)
+* [Sub-7](bestaveragewithoutsubxsingle/sub7.md)
+* [Sub-8](bestaveragewithoutsubxsingle/sub8.md)
+* [Sub-9](bestaveragewithoutsubxsingle/sub9.md)
+* [Sub-10](bestaveragewithoutsubxsingle/sub10.md)
 
 </details>
 
