@@ -56,8 +56,9 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/relays.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The relay tables have been updated! :tada:"}' $discordwh
   
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/registrations_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/persons_extra.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`persons_extra` has been updated! :tada:"}' $discordwh
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra` and `persons_extra` have been updated! :tada:"}' $discordwh
   
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Force-updated; developer database imported, wca_stats updated' WHERE query = 'wcadevstsupd.sh'" 
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Force Update of `wca_dev` and `wca_stats` complete!"}' $discordwh
