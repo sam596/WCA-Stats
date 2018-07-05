@@ -119,13 +119,13 @@ CREATE TABLE persons_extra
       wca_dev.users g
     ON a.id = g.wca_id
     LEFT JOIN
-      (SELECT delegate_id, COUNT(DISTINCT competition_id) competitionsDelegated FROM wca_dev.competition_delegates GROUP BY delegate_id) h
+      (SELECT delegate_id, COUNT(DISTINCT (CASE WHEN competition_id IN (SELECT id FROM wca_dev.competitions WHERE end_date <= NOW()) THEN competition_id END)) competitionsDelegated, COUNT(DISTINCT (CASE WHEN competition_id IN (SELECT id FROM wca_dev.competitions WHERE end_date > NOW()) THEN competition_id END)) competitionsDelegating FROM wca_dev.competition_delegates GROUP BY delegate_id) h
     ON g.id = h.delegate_id
     LEFT JOIN
       (SELECT organizer_id, COUNT(DISTINCT competition_id) competitionsOrganized FROM wca_dev.competition_organizers GROUP BY organizer_id) j
     ON g.id = j.organizer_id
     LEFT JOIN
-      (SELECT tm.user_id, GROUP_CONCAT(t.friendly_id ORDER BY t.id ASC) wcaTeam FROM wca_dev.team_members tm JOIN wca_dev.teams t ON tm.team_id = t.id WHERE tm.end_date IS NULL GROUP BY tm.user_id) k 
+      (SELECT organizer_id, COUNT(DISTINCT (CASE WHEN competition_id IN (SELECT id FROM wca_dev.competitions WHERE end_date <= NOW()) THEN competition_id END)) competitionsOrganized, COUNT(DISTINCT (CASE WHEN competition_id IN (SELECT id FROM wca_dev.competitions WHERE end_date > NOW()) THEN competition_id END)) competitionsOrganizing FROM wca_dev.competition_organizers GROUP BY organizer_id) j
     ON g.id = k.user_id
     LEFT JOIN
       (SELECT personId, 
