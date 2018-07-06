@@ -2,9 +2,13 @@ INSERT INTO wca_stats.last_updated VALUES ('mbld_decoded', NOW(), NULL, '') ON D
 
 DROP TABLE IF EXISTS mbld_decoded;
 CREATE TABLE mbld_decoded
+(id INT NOT NULL AUTO_INCREMENT,
+ PRIMARY KEY (id),
+ KEY pcr (personId, competitionId, roundTypeId, solve),
+ KEY pts (points))
 SELECT
     personId,
-    personName
+    personName,
     competitionId,
     date,
     roundTypeId,
