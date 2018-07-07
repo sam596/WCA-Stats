@@ -1,5 +1,6 @@
 INSERT INTO wca_stats.last_updated VALUES ('average_ranks', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+DROP TABLE IF EXISTS wca_stats.countryEventsAverage;
 CREATE TEMPORARY TABLE wca_stats.countryEventsAverage
 (KEY ce (countryId, eventId))
 SELECT
@@ -14,6 +15,7 @@ SELECT
   JOIN
     wca_dev.events e;
 
+DROP TABLE IF EXISTS wca_stats.personEventsAverage;
 CREATE TEMPORARY TABLE wca_stats.personEventsAverage
 (KEY pe (id, eventId))
 SELECT
@@ -30,32 +32,32 @@ SELECT
 DROP TABLE IF EXISTS wca_stats.average_ranks;
 CREATE TABLE wca_stats.average_ranks
 SELECT
-  b.id personId,
-  b.name,
-  b.countryId,
-  b.continentId,
-  b.eventId,
-  'a' format,
-  (CASE WHEN a.best IS NOT NULL THEN 1 ELSE 0 END) succeeded,
-  a.best result,
-  (CASE WHEN a.worldRank IS NULL OR a.worldRank = 0 THEN d.worldCount ELSE a.worldRank END) worldRank,
-  (CASE WHEN a.continentRank IS NULL OR a.continentRank = 0 THEN d.continentCount ELSE a.continentRank END) continentRank,
-  (CASE WHEN a.countryRank IS NULL OR a.countryRank = 0 THEN d.countryCount ELSE a.countryRank END) countryRank,
-  c.competitionId,
-  c.roundTypeId,
-  c.date
-FROM
-  wca_dev.ranksaverage a
-RIGHT JOIN
-  wca_stats.personEventsAverage b
-ON a.personId = b.id AND a.eventId = b.eventId
-LEFT JOIN
-  wca_stats.result_dates c
-ON c.id = (SELECT id FROM wca_stats.result_dates WHERE average = a.best AND personId = a.personId AND eventId = a.eventId ORDER BY id ASC LIMIT 1)
-LEFT JOIN
-  wca_stats.countryEventsAverage d
-ON b.countryId = d.countryId AND b.eventId = d.eventId
-;
+	  b.id personId,
+	  b.name,
+	  b.countryId,
+	  b.continentId,
+	  b.eventId,
+	  'a' format,
+	  (CASE WHEN a.best IS NOT NULL THEN 1 ELSE 0 END) succeeded,
+	  a.best result,
+	  (CASE WHEN a.worldRank IS NULL OR a.worldRank = 0 THEN d.worldCount ELSE a.worldRank END) worldRank,
+	  (CASE WHEN a.continentRank IS NULL OR a.continentRank = 0 THEN d.continentCount ELSE a.continentRank END) continentRank,
+	  (CASE WHEN a.countryRank IS NULL OR a.countryRank = 0 THEN d.countryCount ELSE a.countryRank END) countryRank,
+	  c.competitionId,
+	  c.roundTypeId,
+	  c.date
+	FROM
+	  wca_dev.ranksaverage a
+	RIGHT JOIN
+	  wca_stats.personEventsAverage b
+	ON a.personId = b.id AND a.eventId = b.eventId
+	LEFT JOIN
+	  wca_stats.result_dates c
+	ON c.id = (SELECT id FROM wca_stats.result_dates WHERE average = a.best AND personId = a.personId AND eventId = a.eventId ORDER BY id ASC LIMIT 1)
+	LEFT JOIN
+	  wca_stats.countryEventsAverage d
+	ON b.countryId = d.countryId AND b.eventId = d.eventId
+	;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'average_ranks';
 
@@ -129,6 +131,7 @@ UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'sor_average';
 
 INSERT INTO wca_stats.last_updated VALUES ('single_ranks', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+DROP TABLE IF EXISTS wca_stats.countryEventsSingle;
 CREATE TEMPORARY TABLE wca_stats.countryEventsSingle
 (KEY ce (countryId, eventId))
 SELECT
@@ -143,6 +146,7 @@ SELECT
   JOIN
     wca_dev.events e;
 
+DROP TABLE IF EXISTS wca_stats.personEventsSingle;
 CREATE TEMPORARY TABLE wca_stats.personEventsSingle
 (KEY pe (id, eventId))
 SELECT
