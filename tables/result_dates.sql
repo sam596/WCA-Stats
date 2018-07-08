@@ -8,8 +8,8 @@ KEY result_dates_person (personId),
 KEY result_dates_comp (competitionId),
 KEY result_dates_event (eventId),
 KEY result_dates_round (roundTypeId),
-KEY result_dates_eventavg (eventId,average),
-KEY result_dates_eventsgl (eventId,best),
+KEY result_dates_peventavg (personId,eventId,average),
+KEY result_dates_peventsgl (personId,eventId,best),
 KEY result_dates_avgall (personId,competitionId,eventId,roundTypeId,average),
 KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
   SELECT 

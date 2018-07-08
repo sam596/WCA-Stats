@@ -43,9 +43,24 @@ CREATE TABLE persons_extra
       l.natBronze, 
       c.multipleCountryComps, 
       c.distinctMultipleCountryComps, 
-      e.SoR_average `sorAverage`, 
-      e.SoR_single `sorSingle`, 
-      e.SoR_combined `sorCombined`, 
+      ea.worldSoR `worldSoRaverage`, 
+      ea.worldRank `worldSoRaverageRank`, 
+      ea.continentSoR `continentSoRaverage`, 
+      ea.continentRank `continentSoRaverageRank`, 
+      ea.countrySoR `countrySoRaverage`, 
+      ea.countryRank `countrySoRaverageRank`, 
+      es.worldSoR `worldSoRSingle`, 
+      es.worldRank `worldSoRSingleRank`, 
+      es.continentSoR `continentSoRSingle`, 
+      es.continentRank `continentSoRSingleRank`, 
+      es.countrySoR `countrySoRSingle`, 
+      es.countryRank `countrySoRSingleRank`, 
+      ec.worldSoR `worldSoRCombined`, 
+      ec.worldRank `worldSoRCombinedRank`, 
+      ec.continentSoR `continentSoRCombined`, 
+      ec.continentRank `continentSoRCombinedRank`, 
+      ec.countrySoR `countrySoRCombined`, 
+      ec.countryRank `countrySoRCombinedRank`, 
       m.worldKinch,
       m.worldRank worldKinchRank,
       m.continentKinch,
@@ -85,10 +100,10 @@ CREATE TABLE persons_extra
         COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) `bronze`,
         COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN eventId END)) `eventsPodiumed`,
         COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN eventId END)) `eventsWon`,
-        COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord != '' THEN 1 END) `records`,
-        COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) `WRs`,
-        COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
-        COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) `NRs`,
+        COUNT(CASE WHEN regionalaverageRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END) `records`,
+        COUNT(CASE WHEN regionalaverageRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END) `WRs`,
+        COUNT(CASE WHEN regionalaverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
+        COUNT(CASE WHEN regionalaverageRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END) `NRs`,
         COUNT(DISTINCT (CASE WHEN b.countryId NOT LIKE 'X_' THEN b.countryId END)) `countries`,
         COUNT(CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END) `multipleCountryComps`,
         COUNT(DISTINCT (CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END)) `distinctMultipleCountryComps`,
@@ -106,13 +121,19 @@ CREATE TABLE persons_extra
       GROUP BY personId) d
     ON a.id = d.personId
     LEFT JOIN
-      SoR_combined e
-    ON a.id = e.personId
+      SoR_single es
+    ON a.id = es.personId
+    LEFT JOIN
+      sor_average ea
+    ON a.id = ea.personId
+    LEFT JOIN
+      SoR_combined ec 
+    ON a.id = ec.personId
     LEFT JOIN
       (SELECT personId,
         MIN(worldrank) minWorldRank
-      FROM world_ranks_all
-      WHERE competed = 1
+      FROM ranks_all
+      WHERE succeeded = 1
       GROUP BY personId) f
     ON a.id = f.personId
     LEFT JOIN
