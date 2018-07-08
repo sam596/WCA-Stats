@@ -3,15 +3,17 @@ INSERT INTO wca_stats.last_updated VALUES ('kinch', NOW(), NULL, '') ON DUPLICAT
 DROP TABLE IF EXISTS wca_stats.kinchhelpcountry;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpcountry
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
-SELECT personId, name, continentId, countryId, eventId, format, competed, best
-FROM wca_stats.world_ranks_all 
+SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
+FROM wca_stats.ranks_all 
 WHERE 
 ((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
 (format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
 OR
 (eventId IN ('333bf','333fm')))
-ORDER BY countryId, eventId, format, competed DESC, best;
+ORDER BY countryId, eventId, format, succeeded DESC, result;
+
+# ~2m
 
 SET @Nkinch = 100;
 SET @eId = NULL;
@@ -20,23 +22,25 @@ SET @cunId = NULL;
 SET @NR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_country_event;
 CREATE TABLE wca_stats.kinch_country_event
-SELECT personId, name, continentId, countryId, eventId, best, format, MAX(countryKinch) countryKinch
+SELECT personId, name, continentId, countryId, eventId, result, format, MAX(countryKinch) countryKinch
 FROM  
   (SELECT a.*,
     @Nkinch := 
-    IF(a.competed = 0, 
+    IF(a.succeeded = 0, 
       0, 
       IF(a.eventId = @eId AND a.format = @format AND a.countryId = @cunId, 
         IF(a.eventId = '333mbf',
-          ROUND((99-LEFT(a.best,2)+1-(MID(a.best,4,4)/3600))/(99-LEFT(@NR,2)+1-(MID(@NR,4,4)/3600))*100,2),
-          ROUND((@NR/a.best)*100,2)),
+          ROUND((99-LEFT(a.result,2)+1-(MID(a.result,4,4)/3600))/(99-LEFT(@NR,2)+1-(MID(@NR,4,4)/3600))*100,2),
+          ROUND((@NR/a.result)*100,2)),
         100)) countryKinch,
-    @NR := IF(a.eventId = @eId AND a.format = @format AND a.countryId = @cunId, @NR, a.best) NR,
+    @NR := IF(a.eventId = @eId AND a.format = @format AND a.countryId = @cunId, @NR, a.result) NR,
     @eId := a.eventId eid,
     @format := a.format formatH,
     @cunId := a.countryId cunId
   FROM (SELECT * FROM wca_stats.kinchhelpcountry ORDER BY id ASC) a ORDER BY countryKinch DESC) kinch
 GROUP BY personId, eventId;
+
+# ~2m
 
 SET @curr=NULL;
 SET @rank=1;
@@ -78,18 +82,22 @@ FROM
     ORDER BY countryId, countryKinch DESC) a;
 ALTER TABLE wca_stats.kinch_country DROP curr, DROP cunId, DROP prev, DROP counter;
 
+# ~1m15
+
 DROP TABLE IF EXISTS wca_stats.kinchhelpcontinent;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
-SELECT personId, name, continentId, countryId, eventId, format, competed, best
-FROM wca_stats.world_ranks_all 
+SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
+FROM wca_stats.ranks_all 
 WHERE 
 ((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','666','777')) 
 OR 
 (format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
 OR
 (eventId IN ('333bf','333fm')))
-ORDER BY continentId, eventId, format, competed DESC, best;
+ORDER BY continentId, eventId, format, succeeded DESC, result;
+
+# ~2m
 
 SET @Ckinch = 100;
 SET @eId = NULL;
@@ -99,23 +107,25 @@ SET @CR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_continent_event;
 CREATE TABLE wca_stats.kinch_continent_event
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY continentkinch (continentId, continentKinch))
-SELECT personId, name, continentId, countryId, eventId, best, format, MAX(continentKinch) continentKinch
+SELECT personId, name, continentId, countryId, eventId, result, format, MAX(continentKinch) continentKinch
 FROM
   (SELECT a.*,
     @Ckinch := 
-    IF(a.competed = 0, 
+    IF(a.succeeded = 0, 
       0, 
       IF(a.eventId = @eId AND a.format = @format AND a.continentId = @conId, 
         IF(a.eventId = '333mbf',
-          ROUND((99-LEFT(a.best,2)+1-(MID(a.best,4,4)/3600))/(99-LEFT(@CR,2)+1-(MID(@CR,4,4)/3600))*100,2),
-          ROUND((@CR/a.best)*100,2)),
+          ROUND((99-LEFT(a.result,2)+1-(MID(a.result,4,4)/3600))/(99-LEFT(@CR,2)+1-(MID(@CR,4,4)/3600))*100,2),
+          ROUND((@CR/a.result)*100,2)),
         100)) continentKinch,
-    @CR := IF(a.eventId = @eId AND a.format = @format AND a.continentId = @conId, @CR, a.best) CR,
+    @CR := IF(a.eventId = @eId AND a.format = @format AND a.continentId = @conId, @CR, a.result) CR,
     @eId := a.eventId eid,
     @format := a.format formatH,
     @conId := a.continentId conId
   FROM (SELECT * FROM wca_stats.kinchhelpcontinent ORDER BY id ASC) a ORDER BY continentKinch DESC) kinch
 GROUP BY personId, eventId;
+
+# 2m20
 
 SET @curr=NULL;
 SET @rank=1;
@@ -157,18 +167,22 @@ FROM
     ORDER BY continentId, continentKinch DESC) a;
 ALTER TABLE wca_stats.kinch_continent DROP curr, DROP conId, DROP prev, DROP counter;
 
+# ~20s
+
 DROP TABLE IF EXISTS wca_stats.kinchhelpworld;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpworld
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
-SELECT personId, name, continentId, countryId, eventId, format, competed, best
-FROM wca_stats.world_ranks_all 
+SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
+FROM wca_stats.ranks_all 
 WHERE 
 ((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','666','777')) 
 OR 
 (format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
 OR
 (eventId IN ('333bf','333fm')))
-ORDER BY eventId, format, competed DESC, best;
+ORDER BY eventId, format, succeeded DESC, result;
+
+# ~25s
 
 SET @Wkinch = 100;
 SET @eId = NULL;
@@ -177,22 +191,24 @@ SET @WR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_world_event;
 CREATE TABLE wca_stats.kinch_world_event
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY worldkinch (worldKinch))
-SELECT personId, name, continentId, countryId, eventId, best, format, MAX(worldKinch) worldKinch
+SELECT personId, name, continentId, countryId, eventId, result, format, MAX(worldKinch) worldKinch
 FROM
   (SELECT a.*,
     @Wkinch := 
-    IF(a.competed = 0, 
+    IF(a.succeeded = 0, 
       0, 
       IF(a.eventId = @eId AND a.format = @format, 
         IF(a.eventId = '333mbf',
-          ROUND((99-LEFT(a.best,2)+1-(MID(a.best,4,4)/3600))/(99-LEFT(@WR,2)+1-(MID(@WR,4,4)/3600))*100,2),
-          ROUND((@WR/a.best)*100,2)),
+          ROUND((99-LEFT(a.result,2)+1-(MID(a.result,4,4)/3600))/(99-LEFT(@WR,2)+1-(MID(@WR,4,4)/3600))*100,2),
+          ROUND((@WR/a.result)*100,2)),
         100)) worldKinch,
-    @WR := IF(a.eventId = @eId AND a.format = @format, @WR, a.best) WR,
+    @WR := IF(a.eventId = @eId AND a.format = @format, @WR, a.result) WR,
     @eId := a.eventId eid,
     @format := a.format formatH
   FROM (SELECT * FROM wca_stats.kinchhelpworld ORDER BY id ASC) a ORDER BY worldKinch DESC) kinch
 GROUP BY personId, eventId;
+
+# ~2m
 
 SET @curr=NULL;
 SET @rank=1;
@@ -232,6 +248,8 @@ FROM
     ORDER BY worldKinch DESC) a;
 ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
 
+# ~20s
+
 DROP TABLE IF EXISTS kinch;
 CREATE TABLE kinch 
 (PRIMARY KEY (personId)) 
@@ -241,5 +259,7 @@ JOIN kinch_continent con
   ON w.personId = con.personId 
 JOIN kinch_country cun 
   ON w.personId = cun.personId;
+
+# < 10s
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';
