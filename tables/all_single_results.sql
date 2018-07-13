@@ -11,15 +11,15 @@ KEY asr_round2 (roundTypeId),
 KEY asr_eventval (eventId,value))
   SELECT * FROM
   (
-    SELECT competitionId, date, eventId, roundTypeId, 1 solve, pos, personId, personName, value1 value FROM result_dates WHERE value1 != 0 AND value1 != -2
+    SELECT competitionId, date, eventId, roundTypeId, 1 solve, pos, personId, personName, countryId, continentId, value1 value FROM result_dates WHERE value1 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 2 solve, pos, personId, personName, value2 value FROM result_dates WHERE value2 != 0 AND value2 != -2
+    SELECT competitionId, date, eventId, roundTypeId, 2 solve, pos, personId, personName, countryId, continentId, value2 value FROM result_dates WHERE value2 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 3 solve, pos, personId, personName, value3 value FROM result_dates WHERE value3 != 0 AND value3 != -2
+    SELECT competitionId, date, eventId, roundTypeId, 3 solve, pos, personId, personName, countryId, continentId, value3 value FROM result_dates WHERE value3 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 4 solve, pos, personId, personName, value4 value FROM result_dates WHERE value4 != 0 AND value4 != -2
+    SELECT competitionId, date, eventId, roundTypeId, 4 solve, pos, personId, personName, countryId, continentId, value4 value FROM result_dates WHERE value4 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 5 solve, pos, personId, personName, value5 value FROM result_dates WHERE value5 != 0 AND value5 != -2
+    SELECT competitionId, date, eventId, roundTypeId, 5 solve, pos, personId, personName, countryId, continentId, value5 value FROM result_dates WHERE value5 NOT IN (0,-2)
   ) a
   ORDER BY 
     date ASC, 
