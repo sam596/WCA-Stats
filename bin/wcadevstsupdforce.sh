@@ -37,6 +37,9 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/kinch.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The `world`,`continent` and `country_kinch` tables have all been updated! :tada:"}' $discordwh
 
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/uowc.sql && \
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The UWOC table has been updated! :tada:"}' $discordwh
+
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/records.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The `records` table has been updated! :tada:"}' $discordwh
   
