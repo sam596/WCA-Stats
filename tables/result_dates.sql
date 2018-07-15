@@ -15,7 +15,7 @@ KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
   SELECT 
   	r.personId, 
   	r.personName, 
-  	r.CountryId, 
+  	r.countryId, 
   	c.continentId, 
   	r.competitionId, 
   	r.eventId, 
@@ -39,17 +39,8 @@ KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
   	wca_dev.competitions comps 
   ON 
   	comps.id = r.competitionId
-  JOIN (
-  	SELECT 
-  		Countries.id, 
-  		Continents.recordName continentId 
-  	FROM 
-  		wca_dev.Countries 
-  	LEFT JOIN 
-  		wca_dev.Continents 
-  	ON 
-  		Countries.continentid = Continents.id
-  	) c 
+  JOIN
+  	wca_dev.countries c
   ON 
   	c.id = r.countryId
   ORDER BY 
