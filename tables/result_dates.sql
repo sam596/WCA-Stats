@@ -69,8 +69,8 @@ KEY result_dates_avgall (personId,competitionId,eventId,roundTypeId,average),
 KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
 SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
 
-DROP TABLE IF EXISTS wca_stats.podiumsums;
-CREATE TABLE wca_stats.podiumsums
+DROP TABLE IF EXISTS wca_stats.podium_sums;
+CREATE TABLE wca_stats.podium_sums
 SELECT competitionId, eventId, SUM(result), GROUP_CONCAT(personId ORDER BY pos) personIds, GROUP_CONCAT(result ORDER BY pos) results
 FROM (SELECT competitionId, eventId, pos, personId, personname, (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result
 FROM podiums WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a GROUP BY competitionId, eventId HAVING COUNT(*) = 3;
