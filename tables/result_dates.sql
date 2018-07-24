@@ -1,3 +1,14 @@
+/*First of all, this is for WFC's dues project, which I allow them access to the server for.*/
+DROP TABLE IF EXISTS wfc_dues.competitions;
+CREATE TABLE wfc_dues.competitions
+SELECT a.id, a.name, a.countryId, e.continentId, a.start_date, a.end_date, a.announced_at, a.results_posted_at, CONCAT("https://www.worldcubeassociation.org/competitions/",a.id) WCAlink, b.number_of_competitors, GROUP_CONCAT(DISTINCT d.name SEPARATOR ", ") delegates
+FROM wca_dev.Competitions as a 
+LEFT JOIN (SELECT competitionId, COUNT(DISTINCT personId) number_of_competitors FROM wca_dev.Results GROUP BY competitionId) as b on a.id=b.competitionId
+LEFT JOIN wca_dev.competition_delegates c ON a.id = c.competition_id
+LEFT JOIN (SELECT id, name FROM wca_dev.users WHERE id IN (SELECT delegate_id FROM wca_dev.competition_delegates)) d ON c.delegate_id = d.id
+LEFT JOIN wca_dev.Countries e ON a.countryId = e.id
+WHERE year>0 GROUP BY a.id ORDER BY start_date;
+
 INSERT INTO wca_stats.last_updated VALUES ('result_dates', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS result_dates;
