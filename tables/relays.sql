@@ -132,6 +132,7 @@ SELECT
 	s.personId,
 	p.name,
 	p.countryId,
+	c.continentId,
 	SUM(CASE WHEN s.eventId = '333' THEN s.best END) `333s`,
 	SUM(CASE WHEN s.eventId = '333' THEN s.worldrank END) `333sRank`,
 	SUM(CASE WHEN a.eventId = '333' THEN a.best END) `333a`,
@@ -212,11 +213,49 @@ ON
 	s.personId = p.id
 	AND
 	p.subid = 1
+JOIN
+	wca_dev.countries c
+ON
+	p.countryId = c.id
 GROUP BY
 	s.personId
 ORDER BY 
 	s.personId ASC
 	;
+
+CREATE INDEX 333s ON all_events_rank (333s);
+CREATE INDEX 333a ON all_events_rank (333a);
+CREATE INDEX 222s ON all_events_rank (222s);
+CREATE INDEX 222a ON all_events_rank (222a);
+CREATE INDEX 444s ON all_events_rank (444s);
+CREATE INDEX 444a ON all_events_rank (444a);
+CREATE INDEX 555s ON all_events_rank (555s);
+CREATE INDEX 555a ON all_events_rank (555a);
+CREATE INDEX 666s ON all_events_rank (666s);
+CREATE INDEX 666a ON all_events_rank (666a);
+CREATE INDEX 777s ON all_events_rank (777s);
+CREATE INDEX 777a ON all_events_rank (777a);
+CREATE INDEX 333bfs ON all_events_rank (333bfs);
+CREATE INDEX 333bfa ON all_events_rank (333bfa);
+CREATE INDEX 333fms ON all_events_rank (333fms);
+CREATE INDEX 333fma ON all_events_rank (333fma);
+CREATE INDEX 333ohs ON all_events_rank (333ohs);
+CREATE INDEX 333oha ON all_events_rank (333oha);
+CREATE INDEX 333fts ON all_events_rank (333fts);
+CREATE INDEX 333fta ON all_events_rank (333fta);
+CREATE INDEX clocks ON all_events_rank (clocks);
+CREATE INDEX clocka ON all_events_rank (clocka);
+CREATE INDEX minxs ON all_events_rank (minxs);
+CREATE INDEX minxa ON all_events_rank (minxa);
+CREATE INDEX pyrams ON all_events_rank (pyrams);
+CREATE INDEX pyrama ON all_events_rank (pyrama);
+CREATE INDEX skewbs ON all_events_rank (skewbs);
+CREATE INDEX skewba ON all_events_rank (skewba);
+CREATE INDEX sq1s ON all_events_rank (sq1s);
+CREATE INDEX sq1a ON all_events_rank (sq1a);
+CREATE INDEX 444bfs ON all_events_rank (444bfs);
+CREATE INDEX 555bfs ON all_events_rank (555bfs);
+CREATE INDEX 333mbfs ON all_events_rank (333mbfs);
 
 DROP TABLE IF EXISTS country_nrs;
 CREATE TABLE country_nrs
@@ -224,8 +263,8 @@ CREATE TABLE country_nrs
 PRIMARY KEY(countryId),
 KEY(id))
 SELECT
-	a.countryId,
-	b.continentId,
+	countryId,
+	continentId,
 	MIN(333s) `333s`,
 	MIN(333a) `333a`,
 	MIN(222s) `222s`,
@@ -261,10 +300,6 @@ SELECT
 	MIN(333mbfs) `333mbfs`
 FROM
 	wca_stats.all_events_rank a
-JOIN
-	wca_dev.countries b
-ON
-	a.countryId = b.id
 GROUP BY
 	countryId
 ORDER BY 
