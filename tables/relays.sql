@@ -354,10 +354,27 @@ ORDER BY
 	continentId ASC
 	;
 
+DROP TABLE IF EXISTS WR_Dates;
+CREATE TABLE WR_Dates
+SELECT
+	date,
+	eventId,
+	(SELECT MIN(best)
+	FROM (SELECT * FROM wca_stats.Result_Dates WHERE regionalSingleRecord = 'WR') b
+	WHERE b.date <= a.date AND b.eventId = a.eventId) best,
+    (SELECT MIN(average)
+	FROM (SELECT * FROM wca_stats.Result_Dates WHERE regionalAverageRecord = 'WR') b
+	WHERE b.date <= a.date AND b.eventId = a.eventId) average
+FROM
+	(SELECT date, eventId
+	FROM wca_stats.Result_Dates
+	GROUP BY eventId, date) a
+;
+
 DROP TABLE IF EXISTS year_wrs;
 CREATE TABLE year_wrs
 SELECT
-	LEFT(date,4) `year`,
+	YEAR(date) `year`,
 	MIN(CASE WHEN eventId = '333' AND best > 0 THEN best END) `333s`,
 	MIN(CASE WHEN eventId = '333' AND average > 0 THEN average END) `333a`,
 	MIN(CASE WHEN eventId = '222' AND best > 0 THEN best END) `222s`,
@@ -392,11 +409,11 @@ SELECT
 	MIN(CASE WHEN eventId = '555bf' AND best > 0 THEN best END) `555bfs`,
 	MIN(CASE WHEN eventId = '333mbf' AND best > 0 THEN best END) `333mbfs`
 FROM
-	wca_stats.Result_Dates
+	WR_Dates
 GROUP BY
-	LEFT(date,4)
+	YEAR(date)
 ORDER BY
-	LEFT(date,4) ASC
+	YEAR(date) ASC
 	;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'relays';
