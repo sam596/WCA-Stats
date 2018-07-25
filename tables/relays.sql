@@ -299,7 +299,7 @@ SELECT
 	MIN(555bfs) `555bfs`,
 	MIN(333mbfs) `333mbfs`
 FROM
-	wca_stats.all_events_rank a
+	wca_stats.all_events_rank
 GROUP BY
 	countryId
 ORDER BY 
