@@ -9,7 +9,7 @@ mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUE
 # Define the files
 dbURL="https://www.worldcubeassociation.org/wst/wca-developer-database-dump.zip"
 dbLocal=~/databasedownload/wca-developer-database-dump.zip
-dpPath=~/databasedownload
+dbPath=~/databasedownload
 
 # Import DB and Run Stats
 mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET notes = 'Script forced to run; developer database and wca_stats now being updated' WHERE query = 'wcadevstsupd.sh'"
