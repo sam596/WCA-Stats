@@ -1,4 +1,4 @@
-INSERT INTO wca_stats.last_updated VALUES ('all_single_results', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+INSERT INTO wca_stats.last_updated VALUES ('uowc', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
 DROP TABLE IF EXISTS uowc_help;
 CREATE TABLE uowc_help
@@ -68,4 +68,4 @@ LEFT JOIN wca_dev.persons p
   ON a.uowcId = p.id AND p.subId = 1
 ORDER BY b.eventId, b.id;
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_single_results';
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'uowc';
