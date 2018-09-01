@@ -53,15 +53,11 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="mostsubxsinglewithoutsubxaverage/10.html">Sub-10</a></li>
 </ul>
 </details>
-<br>
-
-*The below stats are all coming soon.*
-
 <details>
   <summary>Sum of the Best Single Times at a Competition</summary>
 <i>(excluding FMC and MBLD)</i>
 <ul>
 <li><a href="sumbesttimes/all.html">All Events</a></li>
-<li><a href="sumbesttimes/exbigbld.html">Excluding BigBLD</a></li>
+<li><a href="sumbesttimes/ex45bf.html">Excluding BigBLD</a></li>
 </ul>
 </details>
