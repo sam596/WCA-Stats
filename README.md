@@ -43,21 +43,19 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="pbstreaks/pb_streak_exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
 </ul>
 </details>
-
-<br>
-
-*The below stats are all coming soon.*
-
 <details>
   <summary>Most Sub-X 3x3 Solves without a Sub-X average</summary>
 <ul>
-<li><a href="subxsinglewithoutaverage/sub6.html">Sub-6</a></li>
-<li><a href="subxsinglewithoutaverage/sub7.html">Sub-7</a></li>
-<li><a href="subxsinglewithoutaverage/sub8.html">Sub-8</a></li>
-<li><a href="subxsinglewithoutaverage/sub9.html">Sub-9</a></li>
-<li><a href="subxsinglewithoutaverage/sub10.html">Sub-10</a></li>
+<li><a href="subxsinglewithoutsubxaverage/6.html">Sub-6</a></li>
+<li><a href="subxsinglewithoutsubxaverage/7.html">Sub-7</a></li>
+<li><a href="subxsinglewithoutsubxaverage/8.html">Sub-8</a></li>
+<li><a href="subxsinglewithoutsubxaverage/9.html">Sub-9</a></li>
+<li><a href="subxsinglewithoutsubxaverage/10.html">Sub-10</a></li>
 </ul>
 </details>
+<br>
+
+*The below stats are all coming soon.*
 
 <details>
   <summary>Sum of the Best Single Times at a Competition</summary>
