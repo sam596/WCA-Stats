@@ -35,19 +35,18 @@ Here are various statistics I have computed using the WCA database. These get up
 <li>MBLD coming soon</li>
 </ul>
 </details>
+<details>
+  <summary>Longest PB Streaks</summary>
+<ul>
+<li><a href="pbstreaks/pb_streak.html">All competitions</a></li>
+<li><a href="pbstreaks/pb_streak_exfmc.html">Excluding FMC-Only comps</a></li>
+<li><a href="pbstreaks/pb_streak_exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
+</ul>
+</details>
 
 <br>
 
 *The below stats are all coming soon.*
-
-<details>
-  <summary>Longest PB Streaks</summary>
-<ul>
-<li><a href="pbstreaks/all.html">All competitions</a></li>
-<li><a href="pbstreaks/exfmc.html">Excluding FMC-Only comps</a></li>
-<li><a href="pbstreaks/exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
-</ul>
-</details>
 
 <details>
   <summary>Most Sub-X 3x3 Solves without a Sub-X average</summary>
