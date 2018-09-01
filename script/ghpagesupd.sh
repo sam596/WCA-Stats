@@ -51,3 +51,5 @@ ORDER BY SUM(result) LIMIT 100;" > ~/mysqloutput/original && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/$i.md.tmp2 > ~/pages/WCA-Stats/bestpodiums/$i.md && \
 	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
 done
+
+cd ~/pages/WCA-Stats/ && git push
