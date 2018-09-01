@@ -354,4 +354,66 @@ ORDER BY
 	continentId ASC
 	;
 
+DROP TABLE IF EXISTS WR_Dates;
+CREATE TABLE WR_Dates
+SELECT
+	date,
+	eventId,
+	(SELECT MIN(best)
+	FROM (SELECT * FROM wca_stats.Result_Dates WHERE regionalSingleRecord = 'WR') b
+	WHERE b.date <= a.date AND b.eventId = a.eventId) best,
+    (SELECT MIN(average)
+	FROM (SELECT * FROM wca_stats.Result_Dates WHERE regionalAverageRecord = 'WR') b
+	WHERE b.date <= a.date AND b.eventId = a.eventId) average
+FROM
+	(SELECT date, eventId
+	FROM wca_stats.Result_Dates
+	GROUP BY eventId, date) a
+;
+
+DROP TABLE IF EXISTS year_wrs;
+CREATE TABLE year_wrs
+SELECT
+	YEAR(date) `year`,
+	MIN(CASE WHEN eventId = '333' AND best > 0 THEN best END) `333s`,
+	MIN(CASE WHEN eventId = '333' AND average > 0 THEN average END) `333a`,
+	MIN(CASE WHEN eventId = '222' AND best > 0 THEN best END) `222s`,
+	MIN(CASE WHEN eventId = '222' AND average > 0 THEN average END) `222a`,
+	MIN(CASE WHEN eventId = '444' AND best > 0 THEN best END) `444s`,
+	MIN(CASE WHEN eventId = '444' AND average > 0 THEN average END) `444a`,
+	MIN(CASE WHEN eventId = '555' AND best > 0 THEN best END) `555s`,
+	MIN(CASE WHEN eventId = '555' AND average > 0 THEN average END) `555a`,
+	MIN(CASE WHEN eventId = '666' AND best > 0 THEN best END) `666s`,
+	MIN(CASE WHEN eventId = '666' AND average > 0 THEN average END) `666a`,
+	MIN(CASE WHEN eventId = '777' AND best > 0 THEN best END) `777s`,
+	MIN(CASE WHEN eventId = '777' AND average > 0 THEN average END) `777a`,
+	MIN(CASE WHEN eventId = '333bf' AND best > 0 THEN best END) `333bfs`,
+	MIN(CASE WHEN eventId = '333bf' AND average > 0 THEN average END) `333bfa`,
+	MIN(CASE WHEN eventId = '333fm' AND best > 0 THEN best END) `333fms`,
+	MIN(CASE WHEN eventId = '333fm' AND average > 0 THEN average END) `333fma`,
+	MIN(CASE WHEN eventId = '333oh' AND best > 0 THEN best END) `333ohs`,
+	MIN(CASE WHEN eventId = '333oh' AND average > 0 THEN average END) `333oha`,
+	MIN(CASE WHEN eventId = '333ft' AND best > 0 THEN best END) `333fts`,
+	MIN(CASE WHEN eventId = '333ft' AND average > 0 THEN average END) `333fta`,
+	MIN(CASE WHEN eventId = 'clock' AND best > 0 THEN best END) `clocks`,
+	MIN(CASE WHEN eventId = 'clock' AND average > 0 THEN average END) `clocka`,
+	MIN(CASE WHEN eventId = 'minx' AND best > 0 THEN best END) `minxs`,
+	MIN(CASE WHEN eventId = 'minx' AND average > 0 THEN average END) `minxa`,
+	MIN(CASE WHEN eventId = 'pyram' AND best > 0 THEN best END) `pyrams`,
+	MIN(CASE WHEN eventId = 'pyram' AND average > 0 THEN average END) `pyrama`,
+	MIN(CASE WHEN eventId = 'skewb' AND best > 0 THEN best END) `skewbs`,
+	MIN(CASE WHEN eventId = 'skewb' AND average > 0 THEN average END) `skewba`,
+	MIN(CASE WHEN eventId = 'sq1' AND best > 0 THEN best END) `sq1s`,
+	MIN(CASE WHEN eventId = 'sq1' AND average > 0 THEN average END) `sq1a`,
+	MIN(CASE WHEN eventId = '444bf' AND best > 0 THEN best END) `444bfs`,
+	MIN(CASE WHEN eventId = '555bf' AND best > 0 THEN best END) `555bfs`,
+	MIN(CASE WHEN eventId = '333mbf' AND best > 0 THEN best END) `333mbfs`
+FROM
+	WR_Dates
+GROUP BY
+	YEAR(date)
+ORDER BY
+	YEAR(date) ASC
+	;
+
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'relays';
