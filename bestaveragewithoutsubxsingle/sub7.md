@@ -5,7 +5,6 @@
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### Sub-7
-
 Name|Country|Single|Average
 --|--|--|--
 [Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|7.48|7.92
