@@ -17,10 +17,10 @@ do
 	output=$(cat ~/mysqloutput/output)
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
 	rm ~/mysqloutput/*
-	awk -v r="$output" '{gsub(/subtable/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/templates/bestaveragewithoutsubxsingle.md > ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp && \
-	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp > ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 > ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md
-	rm ~/WCA-Stats-docs-auto/WCA-Stats/bestaveragewithoutsubxsingle/*.tmp*
+	awk -v r="$output" '{gsub(/subtable/,r)}1' ~/pages/WCA-Stats/templates/bestaveragewithoutsubxsingle.md > ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp && \
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp > ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 > ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md
+	rm ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/*.tmp*
 done
 
 # bestpodiums
@@ -46,8 +46,8 @@ ORDER BY SUM(result) LIMIT 100;" > ~/mysqloutput/original && \
 --|--|--|--\' ~/mysqloutput/output
 	output=$(cat ~/mysqloutput/output)
         date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-        awk -v r="$output" '{gsub(/podiumtable/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/templates/bestpodiums.md > ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/$i.md.tmp && \
-	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/$i.md.tmp > ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/$i.md.tmp2 > ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/$i.md && \
-	rm ~/WCA-Stats-docs-auto/WCA-Stats/bestpodiums/*.tmp*
+        awk -v r="$output" '{gsub(/podiumtable/,r)}1' ~/pages/WCA-Stats/templates/bestpodiums.md > ~/pages/WCA-Stats/bestpodiums/$i.md.tmp && \
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestpodiums/$i.md.tmp > ~/pages/WCA-Stats/bestpodiums/$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/$i.md.tmp2 > ~/pages/WCA-Stats/bestpodiums/$i.md && \
+	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
 done
