@@ -8,7 +8,7 @@
 
 
 |Competition|Country|Sum|  
-|--|--|--|--|  
+|--|--|--|  
 |[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|USA|11:14.47|  
 |[YJFest2018](https://www.worldcubeassociation.org/competitions/YJFest2018)|Russia|13:12.11|  
 |[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|Spain|13:21.58|  

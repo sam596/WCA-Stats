@@ -8,7 +8,7 @@
 
 
 |Competition|Country|Sum|  
-|--|--|--|--|  
+|--|--|--|  
 |[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|USA|05:47.42|  
 |[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|Taiwan|05:54.14|  
 |[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|France|06:18.43|  
@@ -36,8 +36,8 @@
 |[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|United Kingdom|07:58.24|  
 |[HefeiOpen2017](https://www.worldcubeassociation.org/competitions/HefeiOpen2017)|China|08:00.66|  
 |[GermanOpen2018](https://www.worldcubeassociation.org/competitions/GermanOpen2018)|Germany|08:02.69|  
-|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|Malaysia|08:04.81|  
 |[MaruX2018](https://www.worldcubeassociation.org/competitions/MaruX2018)|Taiwan|08:04.81|  
+|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|Malaysia|08:04.81|  
 |[BeijingOpen2017](https://www.worldcubeassociation.org/competitions/BeijingOpen2017)|China|08:04.97|  
 |[KoreanChampionship2016](https://www.worldcubeassociation.org/competitions/KoreanChampionship2016)|Korea|08:05.23|  
 |[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)|USA|08:06.01|  
@@ -135,8 +135,8 @@
 |[ThailandChampionship2016](https://www.worldcubeassociation.org/competitions/ThailandChampionship2016)|Thailand|09:23.77|  
 |[BairesCentroOpen2018](https://www.worldcubeassociation.org/competitions/BairesCentroOpen2018)|Argentina|09:23.85|  
 |[BengaluruChampionship2018](https://www.worldcubeassociation.org/competitions/BengaluruChampionship2018)|India|09:23.93|  
-|[GermanNationals2015](https://www.worldcubeassociation.org/competitions/GermanNationals2015)|Germany|09:24.46|  
 |[CubeCampinKanazawa2018](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2018)|Japan|09:24.46|  
+|[GermanNationals2015](https://www.worldcubeassociation.org/competitions/GermanNationals2015)|Germany|09:24.46|  
 |[JapanOpen2016](https://www.worldcubeassociation.org/competitions/JapanOpen2016)|Japan|09:27.67|  
 |[HungarianOpen2016](https://www.worldcubeassociation.org/competitions/HungarianOpen2016)|Hungary|09:28.79|  
 |[LSD2018](https://www.worldcubeassociation.org/competitions/LSD2018)|Ukraine|09:29.02|  
