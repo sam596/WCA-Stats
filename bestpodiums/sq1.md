@@ -5,8 +5,9 @@
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### EventId = sq1
+
 |Competition|Country|sum|Podiummers|Results|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |[DastrupSleepover2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018)|Denmark|24.44|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01), [Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01), [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|7.73, 7.87, 8.84|  
 |[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|Sweden|25.68|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01), [Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02), [Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|7.69, 8.45, 9.54|  
 |[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|Spain|26.55|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01), [Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07), [Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01)|7.71, 9.35, 9.49|  

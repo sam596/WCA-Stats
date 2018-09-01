@@ -5,8 +5,9 @@
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### EventId = minx
+
 |Competition|Country|sum|Podiummers|Results|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|Spain|1:54.09|[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30), [Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02), [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01)|34.09, 39.01, 40.99|  
 |[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|USA|2:00.75|[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30), [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04), [Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|32.84, 43.77, 44.14|  
 |[NewHopeOpenSpring2018](https://www.worldcubeassociation.org/competitions/NewHopeOpenSpring2018)|USA|2:04.08|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01), [Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01), [AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|35.02, 43.79, 45.27|  
