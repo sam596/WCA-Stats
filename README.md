@@ -57,7 +57,7 @@ Here are various statistics I have computed using the WCA database. These get up
   <summary>Sum of the Best Single Times at a Competition</summary>
 <i>(excluding FMC and MBLD)</i>
 <ul>
-<li><a href="sumbesttimes/all.html">All Events</a></li>
-<li><a href="sumbesttimes/ex45bf.html">Excluding BigBLD</a></li>
+<li><a href="sumbesttime/all.html">All Events</a></li>
+<li><a href="sumbesttime/ex45bf.html">Excluding BigBLD</a></li>
 </ul>
 </details>
