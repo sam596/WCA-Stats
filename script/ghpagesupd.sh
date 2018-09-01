@@ -10,7 +10,7 @@ declare -a arr=(5 6 7 8 9 10)
 for i in "${arr[@]}"
 do
 	echo $i
-	mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, p.countryId Country, (SELECT best FROM rankssingle WHERE eventId = '333' AND personId = a.personId) Single, a.best Average FROM ranksaverage a INNER JOIN persons p ON p.subid = 1 AND a.personId = p.id WHERE a.eventId = '333' AND personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < ${i}00) ORDER BY average ASC LIMIT 25;" > ~/mysqloutput/original && \
+	mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, p.countryId Country, (SELECT ROUND(best,2) FROM rankssingle WHERE eventId = '333' AND personId = a.personId) Single, ROUND(a.best,2) Average FROM ranksaverage a INNER JOIN persons p ON p.subid = 1 AND a.personId = p.id WHERE a.eventId = '333' AND personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < ${i}00) ORDER BY average ASC LIMIT 25;" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 	sed -i.bak '2i\
 --|--|--|--\' ~/mysqloutput/output
@@ -52,4 +52,6 @@ ORDER BY SUM(result) LIMIT 100;" > ~/mysqloutput/original && \
 	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
 done
 
-cd ~/pages/WCA-Stats/ && git push
+
+d=$(date +%Y-%m-%d)
+cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
