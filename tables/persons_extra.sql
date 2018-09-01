@@ -9,7 +9,11 @@ CREATE TABLE persons_extra
       a.name, 
       a.gender, 
       a.countryId, 
-      b.continentId, 
+      b.continentId,
+      q.name previousName,
+      q.gender previousGender,
+      q.countryId previousCountryId,
+      r.continentId previousContinentId,
       c.competitions, 
       c.countries, 
       c.continents, 
@@ -67,7 +71,10 @@ CREATE TABLE persons_extra
       m.continentRank continentKinchRank,
       m.countryKinch,
       m.countryRank countryKinchRank,
-      f.minWorldRank, 
+      f.minWorldRank,
+      f.minWorldRankEventId,
+      f.maxWorldRank,
+      f.maxWorldRankEventId,
       n.maxPBStreak,
       n.currentPBStreak,
       (CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND l.wcPodiums > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR l.wcPodiums > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, 
@@ -131,9 +138,11 @@ CREATE TABLE persons_extra
     ON a.id = ec.personId
     LEFT JOIN
       (SELECT personId,
-        MIN(worldrank) minWorldRank
-      FROM ranks_all
-      WHERE succeeded = 1
+        MIN(CASE WHEN succeeded = 1 THEN worldrank END) minWorldRank,
+        (SELECT GROUP_CONCAT(CONCAT(eventId,format)) FROM ranks_all WHERE MIN(CASE WHEN a.succeeded = 1 THEN a.worldrank END) = worldrank AND a.personId = personId) minWorldRankEventId,
+        MAX(worldrank) maxWorldRank,
+        (SELECT GROUP_CONCAT(CONCAT(eventId,format)) FROM ranks_all WHERE MAX(a.worldrank) = worldrank AND a.personId = personId) maxWorldRankEventId
+      FROM ranks_all a
       GROUP BY personId) f
     ON a.id = f.personId
     LEFT JOIN
@@ -207,6 +216,10 @@ CREATE TABLE persons_extra
         wca_stats.result_dates a 
       GROUP BY personId) p
     ON a.id = p.personId
+    LEFT JOIN (SELECT * FROM wca_dev.persons WHERE subid = 2) q
+    ON a.id = q.id
+    LEFT JOIN wca_dev.countries r
+    ON q.countryId = r.id
     ;
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'persons_extra';
