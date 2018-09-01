@@ -6,7 +6,7 @@
 
 #### PB Streak excluding FMC-Only Comps
 
-CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')')|pbStreak|CONCAT('[',a.startcomp,'](https://www.worldcubeassociation.org/competitions/',a.startcomp,')')|IF((SELECT id FROM pb_streak_exfmcbld WHERE personId = a.personId AND endcomp = a.endComp)=(SELECT MAX(id) FROM pb_streak_exfmcbld WHERE personId = a.personId),'',CONCAT('[',(SELECT competitionId FROM pb_streak_exfmcbld WHERE id = a.id + 1),'](https://www.
+name|PB Streak|Start Comp|End Comp
 --|--|--|--
 [Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|74|[CumberlandValley2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009)|
 [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|73|[WilliamsWinter2015](https://www.worldcubeassociation.org/competitions/WilliamsWinter2015)|
