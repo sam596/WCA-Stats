@@ -11,7 +11,7 @@ Key:
 * Pending - The competitor has registered, but it has not been accepted (probably because of competitor limit/payment)
 * Deleted - The registration has been deleted by the competitor or organisation team
 
-#### Ordered by 
+#### Ordered by name
 
 |Name|Country|Competition|Registration_Status|Events|  
 |--|--|--|--|--|  
