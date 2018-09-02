@@ -4,8 +4,14 @@
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
-#### Ordered by S
+The following is the list of all registrations on the WCA site for competitions in the future.
 
+Key:
+* Accepted - The registration has been accepted by the organisation team
+* Pending - The competitor has registered, but it has not been accepted (probably because of competitor limit/payment)
+* Deleted - The registration has been deleted by the competitor or organisation team
+
+#### Ordered by 
 
 |Name|Country|Competition|Registration_Status|Events|  
 |--|--|--|--|--|  
