@@ -7,7 +7,7 @@
 #### EventId = pyram
 
 |Rank|Competition|Country|Sum|Podiummers|Results|  
-|--|--|--|--|--|  
+|--|--|--|--|--|--|  
 |1|[CubeFactoryLeagueLuty2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018)|Poland|7.50|[Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02), [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01)|2.38, 2.46, 2.66|  
 |2|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|France|7.57|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01), [Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02), [Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02)|2.04, 2.62, 2.91|  
 |3|[SpeedDaysKielce2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017)|Poland|7.67|[Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01), [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01), [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|2.49, 2.51, 2.67|  

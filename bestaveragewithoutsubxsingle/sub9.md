@@ -7,7 +7,7 @@
 #### Sub-9
 
 |Rank|Name|Country|Single|Average|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |1|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|6.06|7.18|  
 |2|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|6.03|7.20|  
 |=|[Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|6.16|7.20|  

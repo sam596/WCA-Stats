@@ -7,7 +7,7 @@
 #### PB Streak excluding FMC-Only Comps
 
 |Rank|Name|PB Streak|Start Comp|End Comp|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |1|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|74|[WilliamsWinter2015](https://www.worldcubeassociation.org/competitions/WilliamsWinter2015)||  
 |=|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|74|[CumberlandValley2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009)||  
 |3|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|62|[RapidashOpen2012](https://www.worldcubeassociation.org/competitions/RapidashOpen2012)|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|  

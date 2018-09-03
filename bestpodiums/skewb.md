@@ -7,7 +7,7 @@
 #### EventId = skewb
 
 |Rank|Competition|Country|Sum|Podiummers|Results|  
-|--|--|--|--|--|  
+|--|--|--|--|--|--|  
 |1|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|Taiwan|8.03|[Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01), [Yuxin Cai (蔡羽欣)](https://www.worldcubeassociation.org/persons/2016CAIY03), [Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01)|2.53, 2.63, 2.87|  
 |2|[SpeedDaysKrasnik2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018)|Poland|8.08|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01), [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01), [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|2.47, 2.78, 2.83|  
 |3|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|Poland|8.59|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01), [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01), [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|2.71, 2.93, 2.95|  

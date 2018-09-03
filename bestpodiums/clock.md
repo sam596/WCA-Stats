@@ -7,7 +7,7 @@
 #### EventId = clock
 
 |Rank|Competition|Country|Sum|Podiummers|Results|  
-|--|--|--|--|--|  
+|--|--|--|--|--|--|  
 |1|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|China|17.03|[Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01), [Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04), [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02)|5.27, 5.28, 6.48|  
 |2|[ShanghaiWinter2018](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2018)|China|17.12|[Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04), [Junru Wang (王珺儒)](https://www.worldcubeassociation.org/persons/2015WANG28), [Chenwei Li (李琛炜)](https://www.worldcubeassociation.org/persons/2012LICH04)|5.02, 5.84, 6.26|  
 |3|[QuanzhouSideEvent2017](https://www.worldcubeassociation.org/competitions/QuanzhouSideEvent2017)|China|17.81|[Tairan Zhong (钟泰然)](https://www.worldcubeassociation.org/persons/2013ZHON04), [Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02), [Chenwei Li (李琛炜)](https://www.worldcubeassociation.org/persons/2012LICH04)|5.22, 6.23, 6.36|  
