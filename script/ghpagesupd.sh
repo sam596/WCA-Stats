@@ -81,6 +81,27 @@ do
 	rm ~/pages/WCA-Stats/pbstreaks/*.tmp*
 done
 
+#mostsubxsinglewithoutsubxaverage
+
+declare -a arr=(6 7 8 9 10)
+
+for i in "${arr[@]}"
+do
+	echo "Most Sub-${i} Singles without a Sub-${i} Average"
+	mysql -u sam -p"$mysqlpw" wca_stats -e "SELECT CONCAT('[',personname,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, COUNT(*) \`Sub-${i}s\`, (SELECT ROUND(best/100,2) FROM wca_dev.ranksaverage WHERE personId = a.personId AND eventId = '333') Average FROM wca_stats.all_single_results a WHERE value > 0 AND value < ${i}00 AND eventId = '333' AND personId NOT IN (SELECT personId FROM wca_dev.ranksaverage WHERE eventId = '333' AND best < ${i}00) GROUP BY personId ORDER BY COUNT(*) DESC, Average LIMIT 250;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/mostsubxsinglewithoutsubxaverage.md ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp2 > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md && \
+	rm ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/*.tmp*
+done
+
 #registrationslist
 
 declare -a arr=(name competitionId)
