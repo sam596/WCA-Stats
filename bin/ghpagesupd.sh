@@ -360,7 +360,7 @@ declare -a arr=(333 222 444 555 666 777 333bf 333fm 333oh 333ft clock minx pyram
 for i in "${arr[@]}"
 do
 	echo "Unofficial-Official ${i} World Champions"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @s = 0, @sr = NULL, @e = NULL, @p = NULL;
+	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @s = 0, @sr = NULL, @sd = NULL, @e = NULL, @p = NULL;
 	SELECT
 	  CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',b.uowcId,')') Name, 
 	  p.countryId Country, 
