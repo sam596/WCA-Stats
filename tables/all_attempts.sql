@@ -1,7 +1,7 @@
-INSERT INTO wca_stats.last_updated VALUES ('all_single_results', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+INSERT INTO wca_stats.last_updated VALUES ('all_attempts', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
-DROP TABLE IF EXISTS all_single_results;
-CREATE TABLE all_single_results
+DROP TABLE IF EXISTS all_attempts;
+CREATE TABLE all_attempts
 (id INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(id), 
 KEY asr_personcompevent (personId,competitionId,eventId,roundTypeId),
@@ -30,4 +30,4 @@ KEY asr_eventval (eventId,value))
     pos ASC
 ;
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_single_results';
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_attempts';

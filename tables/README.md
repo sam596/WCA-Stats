@@ -2,7 +2,7 @@
 
 |Table|Details|
 |--|--|
-|`all_single_results`|Every single result ever completed has its own entry in this table|
+|`all_attempts`|Every single attempt ever recorded has its own entry in this table, except DNSes.|
 |`championship_podiums`|List of results resulting in a National, Continental or World Podium for the competitor (ty Oliver Wheat)|
 |`concise_results` and `pbs`, `competition_pbs`|Calculates whether or not a result was a PB. `concise_results` then lists all results, with a `PB` boolean field. `pbs` contains only the results from `concise_results` that are PBs. `conmpetition_pbs` counts the number of PBs set by a competitor at every competition, and also includes a version excluding FMC-only competitions for the purposes of `pb_streak`|
 |`kinch`|Creates separate `kinch_country`, `kinch_continent` and `kinch_world` tables which calculate a competitors kinchrank for all regions, averaged over all events, in addition to the kinchrank for each event. Kinchranks were explained by Daniel Sheppard [here](http://www.kinch2002.com/kinchranks/)|

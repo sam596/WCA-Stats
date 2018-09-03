@@ -21,7 +21,7 @@ SELECT
     99-LEFT(value,2)+(2*RIGHT(value,2)) attempted,
     99-LEFT(value,2)+RIGHT(value,2) solved
 FROM
-    all_single_results
+    all_attempts
 WHERE
     eventId = '333mbf'
     AND
