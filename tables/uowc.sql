@@ -23,7 +23,7 @@ SET @uowc = NULL, @uowcd = '1970-01-01', @e = NULL;
 DROP TABLE IF EXISTS uowc_history;
 CREATE TABLE uowc_history
 SELECT
-  b.id, b.competitionId, b.eventId, b.roundTypeId, b.date, b.winner, b.result, b.formatId, b.uowcId, dateSet
+  b.id, b.competitionId, b.eventId, b.roundTypeId, b.date, b.winner, b.result, b.formatId, b.uowcId, b.dateSet
 FROM
 (SELECT
   a.*,
@@ -50,6 +50,7 @@ DROP TABLE uowc_help;
 
 DROP TABLE IF EXISTS uowc;
 CREATE TABLE uowc
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT 
   b.uowcId, 
   p.name, 
@@ -57,12 +58,13 @@ SELECT
   b.dateSet, 
   b.eventId, 
   b.competitionId, 
+  b.roundTypeId,
   b.result, 
   b.formatId 
 FROM 
   (SELECT uowcId, dateSet, eventId, MIN(id) FROM uowc_history GROUP BY uowcId, dateSet, eventId) a 
 JOIN 
-  (SELECT id, uowcId, eventId, dateSet, competitionId, result, formatId FROM uowc_history) b 
+  (SELECT id, uowcId, eventId, dateSet, competitionId, roundTypeId, result, formatId FROM uowc_history) b 
   ON a.`MIN(id)` = b.id 
 LEFT JOIN wca_dev.persons p 
   ON a.uowcId = p.id AND p.subId = 1

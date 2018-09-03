@@ -353,5 +353,50 @@ do
 	rm ~/pages/WCA-Stats/sumbesttime/*.tmp*
 done
 
+#uowc
+
+declare -a arr=(333 222 444 555 666 777 333bf 333fm 333oh 333ft clock minx pyram skewb sq1 444bf 555bf 333mbf)
+
+for i in "${arr[@]}"
+do
+	echo "Unofficial-Official ${i} World Champions"
+	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @s = 0, @sr = NULL, @e = NULL, @p = NULL;
+	SELECT
+	  CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',b.uowcId,')') Name, 
+	  p.countryId Country, 
+	  b.dateSet \`Date Set\`, 
+	  CONCAT('[',b.startComp,' - ', rs.name,'](https://www.worldcubeassociation.org/competitions/',b.startComp,'/results/all#e',b.eventId,'_',b.startRound,')') \`Started At\`, 
+	  IFNULL(IF(b.endComp = '1 year','1 year passed',CONCAT('[',b.endComp,' - ', re.name,'](https://www.worldcubeassociation.org/competitions/',b.endComp,'/results/all#e',b.eventId,'_',b.endRound,')')),'Ongoing') \`Ended At\`, 
+	  IF(b.endComp IS NULL,DATEDIFF(CURDATE(),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),IFNULL(DATEDIFF((SELECT end_date FROM wca_dev.competitions WHERE id = b.endComp),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),365)) \`Days Held\`
+	FROM
+	  (SELECT a.*,
+	    @s := IF(a.uowcId = @p, @s, competitionId) startComp,
+	    @sr := IF(a.uowcId = @p, @sr, roundTypeId) startRound,
+	    @e := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
+		(SELECT competitionId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endComp,
+	    @er := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
+		(SELECT roundTypeId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endRound,
+	    @p := a.uowcId
+	  FROM uowc a
+	  WHERE eventId = '${i}') b
+	LEFT JOIN wca_dev.roundtypes rs ON b.startRound = rs.id
+	LEFT JOIN wca_dev.roundtypes re ON b.endRound = re.id
+	LEFT JOIN wca_dev.persons p ON b.uowcId = p.id AND p.subid = 1
+	WHERE b.endComp <> '' OR b.endComp IS NULL
+	ORDER BY b.id;
+	" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/uowc.md ~/pages/WCA-Stats/uowc/$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/uowc/$i.md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/uowc/$i.md.tmp > ~/pages/WCA-Stats/uowc/$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uowc/$i.md.tmp2 > ~/pages/WCA-Stats/uowc/$i.md && \
+	rm ~/pages/WCA-Stats/uowc/*.tmp*
+done
+
 d=$(date +%Y-%m-%d)
 cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
