@@ -62,10 +62,10 @@ do
 	SELECT Rank, Competition, Country, Sum, Podiummers, Results
 	FROM	
 		(SELECT
-				@i := IF(@v = sum, @i, @i + @c) initrank,
-				@c := IF(@v = sum, @c + 1, 1) counter,
-				@r := IF(@v = sum, '=', @i) Rank,
-				@v := sum val,
+				@i := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @i, @i + @c) initrank,
+				@c := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @c + 1, 1) counter,
+				@r := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), '=', @i) Rank,
+				@v := CAST(sum AS CHAR) val,
 				a.*	
 			FROM
 				(SELECT 
