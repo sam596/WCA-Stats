@@ -123,5 +123,33 @@ do
 	rm ~/pages/WCA-Stats/registrations/*.tmp*
 done
 
+#sumofbesttimesatcompetition
+
+declare -a arr=(all ex45bf)
+
+for i in "${arr[@]}"
+do
+	echo "Sum of times at competition ${i}"
+	if [ "$i" = "all" ]; 
+		then 
+			text=$(echo "All competitions excluding MBLD and FMC")
+			mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition, (SELECT countryId FROM competitions WHERE id = a.competitionId) Country, LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(best)/100),'%i:%s.%f'),8) \`Sum\` FROM (SELECT competitionId, eventId, MIN(best) best FROM results WHERE competitionId IN (SELECT competitionId FROM results WHERE eventId IN ('333','222','444','555','666','777','333oh','333bf','333ft','clock','skewb','pyram','minx','sq1','444bf','555bf') AND best > 0 GROUP BY competitionId HAVING COUNT(DISTINCT eventId) = 16) AND best > 0 AND eventId NOT IN ('333mbf','333fm') GROUP BY competitionId, eventId) a GROUP BY competitionId ORDER BY SUM(best) ASC, competitionId LIMIT 500;" > ~/mysqloutput/original
+		else 
+			text=$(echo "All competitions excluding MBLD, FMC, 4BLD and 5BLD")
+			mysql -u sam -p"$mysqlpw" wca_dev -e "SELECT CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition, (SELECT countryId FROM competitions WHERE id = a.competitionId) Country, LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(best)/100),'%i:%s.%f'),8) \`Sum\` FROM (SELECT competitionId, eventId, MIN(best) best FROM results WHERE competitionId IN (SELECT competitionId FROM results WHERE eventId IN ('333','222','444','555','666','777','333oh','333bf','333ft','clock','skewb','pyram','minx','sq1') AND best > 0 GROUP BY competitionId HAVING COUNT(DISTINCT eventId) = 14) AND best > 0 AND eventId NOT IN ('333mbf','333fm','444bf','555bf') GROUP BY competitionId, eventId) a GROUP BY competitionId ORDER BY SUM(best) ASC LIMIT 500;" > ~/mysqloutput/original
+	fi
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+	sed -i.bak '2i\
+--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/sumbesttime.md ~/pages/WCA-Stats/sumbesttime/$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sumbesttime/$i.md.tmp
+	awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sumbesttime/$i.md.tmp > ~/pages/WCA-Stats/sumbesttime/$i.md.tmp2
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sumbesttime/$i.md.tmp2 > ~/pages/WCA-Stats/sumbesttime/$i.md
+	rm ~/pages/WCA-Stats/sumbesttime/*.tmp*
+done
+
 d=$(date +%Y-%m-%d)
 cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
