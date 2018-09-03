@@ -124,7 +124,7 @@ CREATE TABLE persons_extra
     ON a.id = c.personId
     LEFT JOIN
       (SELECT personId, COUNT(CASE WHEN value > 0 THEN 1 END) completedSolves, COUNT(CASE WHEN value = -1 THEN 1 END) DNFs
-      FROM all_single_results 
+      FROM all_attempts 
       GROUP BY personId) d
     ON a.id = d.personId
     LEFT JOIN

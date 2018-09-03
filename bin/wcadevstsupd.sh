@@ -35,8 +35,8 @@ then
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/result_dates.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`result_dates` has been updated! :tada:"}' $discordwh
   
-  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_single_results.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_single_results` has been updated! :tada:"}' $discordwh
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_attempts.sql && \
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_attempts` has been updated! :tada:"}' $discordwh
 
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/sum_of_ranks.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "All the `ranks` and `sor` tables have been updated! :tada:"}' $discordwh

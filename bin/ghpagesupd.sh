@@ -176,7 +176,7 @@ do
 				CONCAT('[',personname,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
 				COUNT(*) \`Sub-${i}s\`, 
 				(SELECT ROUND(best/100,2) FROM wca_dev.ranksaverage WHERE personId = a.personId AND eventId = '333') Average 
-			FROM wca_stats.all_single_results a 
+			FROM wca_stats.all_attempts a 
 			WHERE 
 				value > 0 AND 
 				value < ${i}00 AND 
