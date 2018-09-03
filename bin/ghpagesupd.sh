@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #reset incase of any changes in the meantime
-cd ~/pages/WCA-Stats/ && git reset --hard 
+cd ~/pages/WCA-Stats/ && git reset --hard && git pull origin gh-pages
 
 # Link to mysql password
 source ~/.mysqlpw/mysql.conf
