@@ -33,7 +33,7 @@ do
 				ON p.subid = 1 AND a.personId = p.id 
 			WHERE 
 				a.eventId = '333' AND 
-				personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < 600) 
+				personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < ${i}00) 
 			ORDER BY average ASC, single ASC, p.name ASC 
 			LIMIT 250) b
 		) c;" > ~/mysqloutput/original && \
@@ -157,7 +157,7 @@ done
 
 #mostsubxsinglewithoutsubxaverage
 
-declare -a arr=(6 7 8 9 10)
+declare -a arr=(6 7 8 9 10 11 12 13 14 15)
 
 for i in "${arr[@]}"
 do
