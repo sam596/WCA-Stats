@@ -109,7 +109,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp2 > ~/pages/WCA-Stats/bestpodiums/"$i".md && \
 	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Best ${i} Podiums"
+	echo -e "\\r${CHECK_MARK} Best ${i} Podiums (${finish}ms)"
 done
 
 #pbstreaks
@@ -162,7 +162,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 > ~/pages/WCA-Stats/pbstreaks/"$i".md && \
 	rm ~/pages/WCA-Stats/pbstreaks/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Longest ${i}"
+	echo -e "\\r${CHECK_MARK} Longest ${i} (${finish}ms)"
 done
 
 #mostsubxsinglewithoutsubxaverage
@@ -209,7 +209,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp2 > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md && \
 	rm ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Most Sub-${i} Singles without a Sub-${i} Average"
+	echo -e "\\r${CHECK_MARK} Most Sub-${i} Singles without a Sub-${i} Average (${finish}ms)"
 done
 
 #registrationslist
@@ -268,7 +268,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/registrations/"$i".md.tmp2 > ~/pages/WCA-Stats/registrations/"$i".md && \
 	rm ~/pages/WCA-Stats/registrations/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Registration List ordered by ${i}"
+	echo -e "\\r${CHECK_MARK} Registration List ordered by ${i} (${finish}ms)"
 done
 
 #sumofbesttimesatcompetition
@@ -369,7 +369,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp2 > ~/pages/WCA-Stats/sumbesttime/"$i".md
 	rm ~/pages/WCA-Stats/sumbesttime/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Sum of times at competition ${i}"
+	echo -e "\\r${CHECK_MARK} Sum of times at competition ${i} (${finish}ms)"
 done
 
 #uowc
@@ -418,7 +418,7 @@ do
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uowc/"$i".md.tmp2 > ~/pages/WCA-Stats/uowc/"$i".md && \
 	rm ~/pages/WCA-Stats/uowc/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} World Champions"
+	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} World Champions (${finish}ms)"
 done
 
 d=$(date +%Y-%m-%d)
