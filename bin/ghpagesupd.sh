@@ -383,7 +383,7 @@ do
 	LEFT JOIN wca_dev.roundtypes rs ON b.startRound = rs.id
 	LEFT JOIN wca_dev.roundtypes re ON b.endRound = re.id
 	LEFT JOIN wca_dev.persons p ON b.uowcId = p.id AND p.subid = 1
-	WHERE b.endComp <> '' OR b.endComp IS NULL
+	WHERE (b.endComp <> '' OR b.endComp IS NULL) AND b.uowcId IS NOT NULL
 	ORDER BY b.id;
 	" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
