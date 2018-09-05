@@ -3,8 +3,8 @@
 #reset incase of any changes in the meantime
 cd ~/pages/WCA-Stats/ && git reset --hard && git pull origin gh-pages
 
-# Link to mysql password
-source ~/.mysqlpw/mysql.conf
+clear
+echo "Currently executing:"
 
 # bestaveragewithoutsubxsingle
 
@@ -12,8 +12,8 @@ declare -a arr=(5 6 7 8 9 10)
 
 for i in "${arr[@]}"
 do
-	echo "Best Average without Sub ${i} Single"
-	mysql -u sam -p"$mysqlpw" wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	echo -en "Best Average without Sub ${i} Single\r"
+	mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Name, Country, Single, Average
 	FROM
 		(SELECT
@@ -53,12 +53,12 @@ done
 
 # bestpodiums
 
-mapfile -t arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
-	echo "Best ${i} Podiums"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	echo -en "Best ${i} Podiums\r"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Competition, Country, Sum, Podiummers, Results
 	FROM	
 		(SELECT
@@ -115,8 +115,8 @@ do
 	elif [ "$i" = "pb_streak_exfmc" ]; then text=$(echo "PB Streak excluding FMC-Only Comps")
 	elif [ "$i" = "pb_streak_exfmcbld" ]; then text=$(echo "PB Streak excluding FMC-and-BLD-Only Comps")
 	fi
-	echo "Longest ${i}"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	echo -en "Longest ${i}\r"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT
 		Rank, Name, \`PB Streak\`, \`Start Comp\`, \`End Comp\`
 	FROM	
@@ -161,8 +161,8 @@ declare -a arr=(6 7 8 9 10 11 12 13 14 15)
 
 for i in "${arr[@]}"
 do
-	echo "Most Sub-${i} Singles without a Sub-${i} Average"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	echo -en "Most Sub-${i} Singles without a Sub-${i} Average\r"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Name, \`Sub-${i}s\`, Average
 	FROM
 		(SELECT
@@ -205,8 +205,8 @@ declare -a arr=(name competitionId)
 
 for i in "${arr[@]}"
 do
-	echo "Registration List ordered by ${i}"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "
+	echo -en "Registration List ordered by ${i}\r"
+	mysql --login-path=local wca_stats -e "
 	SELECT Name, Country, Competition, Registration_Status, LEFT(Events, LENGTH(Events)-1) Events
 	FROM
 		(SELECT
@@ -261,11 +261,11 @@ declare -a arr=(all ex45bf)
 
 for i in "${arr[@]}"
 do
-	echo "Sum of times at competition ${i}"
+	echo -en "Sum of times at competition ${i}\r"
 	if [ "$i" = "all" ]; 
 		then 
 			text=$(echo "All competitions excluding MBLD and FMC")
-			mysql -u sam -p"$mysqlpw" wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 			SELECT Rank, Competition, Country, \`Sum\`
 			FROM
 				(SELECT
@@ -303,7 +303,7 @@ do
 				) b;" > ~/mysqloutput/original
 		else 
 			text=$(echo "All competitions excluding MBLD, FMC, 4BLD and 5BLD")
-			mysql -u sam -p"$mysqlpw" wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 			SELECT Rank, Competition, Country, \`Sum\`
 			FROM
 				(SELECT
@@ -355,12 +355,12 @@ done
 
 #uowc
 
-mapfile -t arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
-	echo "Unofficial-Official ${i} World Champions"
-	mysql -u sam -p"$mysqlpw" wca_stats -e "SET @s = 0, @sr = NULL, @sd = NULL, @e = NULL, @p = NULL;
+	echo -en "Unofficial-Official ${i} World Champions\r"
+	mysql --login-path=local wca_stats -e "SET @s = 0, @sr = NULL, @sd = NULL, @e = NULL, @p = NULL;
 	SELECT
 	  CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',b.uowcId,')') Name, 
 	  p.countryId Country, 
