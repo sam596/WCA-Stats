@@ -54,6 +54,24 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>Relays</summary>
+<i>Using PB single times</i>
+<ul>
+<li><a href="sumbesttime/all_events_relay.html">All Events (excl. MBLD & FMC)</a></li>
+<li><a href="sumbesttime/guildford.html">Guildford</a></li>
+<li><a href="sumbesttime/mini_guildford.html">Mini-Guildford</a></li>
+<li><a href="sumbesttime/234.html">2-3-4 Relay</a></li>
+<li><a href="sumbesttime/2345.html">2-3-4-5 Relay</a></li>
+<li><a href="sumbesttime/23456.html">2-3-4-5-6 Relay</a></li>
+<li><a href="sumbesttime/234567.html">2-3-4-5-6-7 Relay</a></li>
+<li><a href="sumbesttime/333events.html">3x3 Events (3x3,3BLD,OH,Feet)</a></li>
+<li><a href="sumbesttime/bld.html">3BLD, 4BLD and 5BLD</a></li>
+<li><a href="sumbesttime/side.html">Side Events (Clock, Mega, Pyra, Skewb, SQ-1)</a></li>
+<li><a href="sumbesttime/fast.html">Fast Events (2x2, Pyra, Skewb)</a></li>
+</ul>
+<i>Any requests, let me know!</i>
+</details>
+<details>
   <summary>Sum of the Best Single Times at a Competition</summary>
 <i>(excluding FMC and MBLD)</i>
 <ul>
