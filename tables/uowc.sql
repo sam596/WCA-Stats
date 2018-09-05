@@ -26,28 +26,28 @@ DROP TABLE IF EXISTS uowc_history;
 CREATE TABLE uowc_history
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT
-  b.id, b.competitionId, b.eventId, b.roundTypeId, b.date, b.winner, b.result, b.formatId, b.uowcId, b.dateSet
+  b.competitionId, b.eventId, b.roundTypeId, b.date, b.winner, b.result, b.formatId, b.uowcId, b.dateSet
 FROM
-(SELECT
-  a.*,
-  @uowc := 
-    IF(@uowc = a.winner OR a.winner = NULL, 
-      @uowc, 
-      IF(others LIKE CONCAT("%",@uowc,"%"), 
-        a.winner, 
-        IF(a.date > DATE_ADD(@uowcd, INTERVAL 1 YEAR), 
-          (SELECT IFNULL(winner,@uowc) FROM uowc_help WHERE date = a.date AND roundTypeId IN ('c','f') AND eventId = a.eventId AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1), 
-          IF(a.eventId <> @e,
-            (SELECT winner FROM uowc_help WHERE date = a.date AND roundTypeId IN ('c','f') AND eventId = a.eventId AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1),
-            @uowc
+  (SELECT
+    a.*,
+    @uowc := 
+      IF(@uowc = a.winner OR (a.winner IS NULL AND a.eventId = @e), 
+        @uowc, 
+        IF(others LIKE CONCAT("%",@uowc,"%"), 
+          a.winner, 
+          IF(a.date > DATE_ADD(@uowcd, INTERVAL 1 YEAR), 
+            IFNULL((SELECT winner FROM uowc_help WHERE date = a.date AND eventId = a.eventId AND roundTypeId IN ('c','f') AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1), @uowc), 
+            IF(a.eventId <> @e,
+              (SELECT winner FROM uowc_help WHERE date = a.date AND eventId = a.eventId AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1),
+              @uowc
+              )
             )
           )
-        )
-      ) uowcId, 
-  @uowcd := IF(winner = @uowc OR (a.date > DATE_ADD(@uowcd, INTERVAL 1 YEAR) AND (SELECT IFNULL(winner,@uowc) FROM uowc_help WHERE date = a.date AND roundTypeId IN ('c','f') AND eventId = a.eventId AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1) IS NOT NULL), date, @uowcd) dateSet,
-  @e := eventId
-FROM
-  (SELECT * FROM wca_stats.uowc_help ORDER BY eventId, id) a) b;
+        ) uowcId,   
+    @uowcd := IF(winner = @uowc OR (a.date > DATE_ADD(@uowcd, INTERVAL 1 YEAR) AND (SELECT IFNULL(winner,@uowc) FROM uowc_help WHERE date = a.date AND roundTypeId IN ('c','f') AND eventId = a.eventId AND result > 0 ORDER BY (CASE WHEN eventId = '333fm' AND formatId <> 'm' THEN result * 9999 ELSE result END) LIMIT 1) IS NOT NULL), date, IF(eventId = @e, @uowcd, '1970-01-01')) dateSet,
+    @e := eventId
+  FROM
+    (SELECT * FROM uowc_help ORDER BY eventId, id) a) b;
 
 #7 sec
 
