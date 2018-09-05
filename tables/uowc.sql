@@ -19,9 +19,12 @@ GROUP BY
 ORDER BY 
   eventId, MIN(id);
 
+#1m 10s
+
 SET @uowc = NULL, @uowcd = '1970-01-01', @e = NULL;
 DROP TABLE IF EXISTS uowc_history;
 CREATE TABLE uowc_history
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT
   b.id, b.competitionId, b.eventId, b.roundTypeId, b.date, b.winner, b.result, b.formatId, b.uowcId, b.dateSet
 FROM
@@ -46,15 +49,16 @@ FROM
 FROM
   (SELECT * FROM wca_stats.uowc_help ORDER BY eventId, id) a) b;
 
+#7 sec
+
 DROP TABLE uowc_help;
 
+SET @c = 0, @uowc = NULL @d = '1970-01-01';
 DROP TABLE IF EXISTS uowc;
 CREATE TABLE uowc
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT 
   b.uowcId, 
-  p.name, 
-  p.countryId, 
   b.dateSet, 
   b.eventId, 
   b.competitionId, 
@@ -62,12 +66,15 @@ SELECT
   b.result, 
   b.formatId 
 FROM 
-  (SELECT uowcId, dateSet, eventId, MIN(id) FROM uowc_history GROUP BY uowcId, dateSet, eventId) a 
-JOIN 
-  (SELECT id, uowcId, eventId, dateSet, competitionId, roundTypeId, result, formatId FROM uowc_history) b 
-  ON a.`MIN(id)` = b.id 
-LEFT JOIN wca_dev.persons p 
-  ON a.uowcId = p.id AND p.subId = 1
+  (SELECT *, @c := IF(a.uowcId = @uowc AND a.dateSet = @d AND a.uowcId IS NOT NULL, 0, 1) chang,
+    @uowc := a.uowcId,
+    @d := a.dateSet
+    FROM
+      (SELECT * FROM uowc_history ORDER BY eventId, id) a
+  ORDER BY a.eventId, a.id) b
+WHERE b.chang = 1
 ORDER BY b.eventId, b.id;
+
+#1 sec
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'uowc';
