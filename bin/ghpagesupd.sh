@@ -53,7 +53,7 @@ done
 
 # bestpodiums
 
-declare -a arr=(333 222 444 555 666 777 333bf 333fm 333oh 333ft clock minx pyram skewb sq1 444bf 555bf 333mbf)
+mapfile arr < <(mysql --batch -p$root_mysql_pass -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
@@ -355,7 +355,7 @@ done
 
 #uowc
 
-declare -a arr=(333 222 444 555 666 777 333bf 333fm 333oh 333ft clock minx pyram skewb sq1 444bf 555bf 333mbf)
+mapfile arr < <(mysql --batch -p$root_mysql_pass -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
