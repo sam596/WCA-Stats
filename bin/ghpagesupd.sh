@@ -2,9 +2,10 @@
 
 #reset incase of any changes in the meantime
 cd ~/pages/WCA-Stats/ && git reset --hard && git pull origin gh-pages
+CHECK_MARK="\033[0;32m\xE2\x9C\x94\033[0m"
 
 clear
-echo "Currently executing:"
+echo -e "\n\e[4mCurrently executing:\e[0m"
 
 # bestaveragewithoutsubxsingle
 
@@ -12,7 +13,7 @@ declare -a arr=(5 6 7 8 9 10)
 
 for i in "${arr[@]}"
 do
-	echo -en "Best Average without Sub ${i} Single\r"
+	echo -n "Best Average without Sub ${i} Single"
 	mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Name, Country, Single, Average
 	FROM
@@ -49,6 +50,7 @@ do
 	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp > ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md.tmp2 > ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/sub$i.md
 	rm ~/pages/WCA-Stats/bestaveragewithoutsubxsingle/*.tmp*
+	echo -e "\\r${CHECK_MARK} Best Average without Sub ${i} Single"
 done
 
 # bestpodiums
@@ -57,7 +59,7 @@ mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.
 
 for i in "${arr[@]}"
 do
-	echo -en "Best ${i} Podiums\r"
+	echo -n "Best ${i} Podiums"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Competition, Country, Sum, Podiummers, Results
 	FROM	
@@ -103,6 +105,7 @@ do
 	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp > ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp2 > ~/pages/WCA-Stats/bestpodiums/"$i".md && \
 	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
+	echo -e "\\r${CHECK_MARK} Best ${i} Podiums"
 done
 
 #pbstreaks
@@ -115,7 +118,7 @@ do
 	elif [ "$i" = "pb_streak_exfmc" ]; then text=$(echo "PB Streak excluding FMC-Only Comps")
 	elif [ "$i" = "pb_streak_exfmcbld" ]; then text=$(echo "PB Streak excluding FMC-and-BLD-Only Comps")
 	fi
-	echo -en "Longest ${i}\r"
+	echo -n "Longest ${i}"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT
 		Rank, Name, \`PB Streak\`, \`Start Comp\`, \`End Comp\`
@@ -153,6 +156,7 @@ do
     awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp > ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 > ~/pages/WCA-Stats/pbstreaks/"$i".md && \
 	rm ~/pages/WCA-Stats/pbstreaks/*.tmp*
+	echo -e "\\r${CHECK_MARK} Longest ${i}"
 done
 
 #mostsubxsinglewithoutsubxaverage
@@ -161,7 +165,7 @@ declare -a arr=(6 7 8 9 10 11 12 13 14 15)
 
 for i in "${arr[@]}"
 do
-	echo -en "Most Sub-${i} Singles without a Sub-${i} Average\r"
+	echo -n "Most Sub-${i} Singles without a Sub-${i} Average"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT Rank, Name, \`Sub-${i}s\`, Average
 	FROM
@@ -197,6 +201,7 @@ do
     awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp2 > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md && \
 	rm ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/*.tmp*
+	echo -e "\\r${CHECK_MARK} Most Sub-${i} Singles without a Sub-${i} Average"
 done
 
 #registrationslist
@@ -205,7 +210,7 @@ declare -a arr=(name competitionId)
 
 for i in "${arr[@]}"
 do
-	echo -en "Registration List ordered by ${i}\r"
+	echo -n "Registration List ordered by ${i}"
 	mysql --login-path=local wca_stats -e "
 	SELECT Name, Country, Competition, Registration_Status, LEFT(Events, LENGTH(Events)-1) Events
 	FROM
@@ -253,6 +258,7 @@ do
     awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/registrations/"$i".md.tmp > ~/pages/WCA-Stats/registrations/"$i".md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/registrations/"$i".md.tmp2 > ~/pages/WCA-Stats/registrations/"$i".md && \
 	rm ~/pages/WCA-Stats/registrations/*.tmp*
+	echo -e "\\r${CHECK_MARK} Registration List ordered by ${i}"
 done
 
 #sumofbesttimesatcompetition
@@ -261,7 +267,7 @@ declare -a arr=(all ex45bf)
 
 for i in "${arr[@]}"
 do
-	echo -en "Sum of times at competition ${i}\r"
+	echo -n "Sum of times at competition ${i}"
 	if [ "$i" = "all" ]; 
 		then 
 			text=$(echo "All competitions excluding MBLD and FMC")
@@ -351,6 +357,7 @@ do
 	awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp > ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp2
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp2 > ~/pages/WCA-Stats/sumbesttime/"$i".md
 	rm ~/pages/WCA-Stats/sumbesttime/*.tmp*
+	echo -e "\\r${CHECK_MARK} Sum of times at competition ${i}"
 done
 
 #uowc
@@ -359,7 +366,7 @@ mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.
 
 for i in "${arr[@]}"
 do
-	echo -en "Unofficial-Official ${i} World Champions\r"
+	echo -n "Unofficial-Official ${i} World Champions"
 	mysql --login-path=local wca_stats -e "SET @s = 0, @sr = NULL, @sd = NULL, @e = NULL, @p = NULL;
 	SELECT
 	  CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',b.uowcId,')') Name, 
@@ -397,6 +404,7 @@ do
     awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/uowc/"$i".md.tmp > ~/pages/WCA-Stats/uowc/"$i".md.tmp2 && \
 	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uowc/"$i".md.tmp2 > ~/pages/WCA-Stats/uowc/"$i".md && \
 	rm ~/pages/WCA-Stats/uowc/*.tmp*
+	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} World Champions"
 done
 
 d=$(date +%Y-%m-%d)
