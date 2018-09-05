@@ -98,10 +98,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
     date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/bestpodiums.md ~/pages/WCA-Stats/bestpodiums/$i.md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestpodiums/$i.md.tmp
-	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestpodiums/$i.md.tmp > ~/pages/WCA-Stats/bestpodiums/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/$i.md.tmp2 > ~/pages/WCA-Stats/bestpodiums/$i.md && \
+    cp ~/pages/WCA-Stats/templates/bestpodiums.md ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp > ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestpodiums/"$i".md.tmp2 > ~/pages/WCA-Stats/bestpodiums/"$i".md && \
 	rm ~/pages/WCA-Stats/bestpodiums/*.tmp*
 done
 
@@ -148,10 +148,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/pbstreak.md ~/pages/WCA-Stats/pbstreaks/$i.md.tmp
-    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/pbstreaks/$i.md.tmp
-    awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/pbstreaks/$i.md.tmp > ~/pages/WCA-Stats/pbstreaks/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/pbstreaks/$i.md.tmp2 > ~/pages/WCA-Stats/pbstreaks/$i.md && \
+    cp ~/pages/WCA-Stats/templates/pbstreak.md ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp
+    awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp > ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 > ~/pages/WCA-Stats/pbstreaks/"$i".md && \
 	rm ~/pages/WCA-Stats/pbstreaks/*.tmp*
 done
 
@@ -192,10 +192,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-	cp ~/pages/WCA-Stats/templates/mostsubxsinglewithoutsubxaverage.md ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp
-    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md.tmp2 > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/$i.md && \
+	cp ~/pages/WCA-Stats/templates/mostsubxsinglewithoutsubxaverage.md ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md.tmp2 > ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/"$i".md && \
 	rm ~/pages/WCA-Stats/mostsubxsinglewithoutsubxaverage/*.tmp*
 done
 
@@ -248,10 +248,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/registrations.md ~/pages/WCA-Stats/registrations/$i.md.tmp
-    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/registrations/$i.md.tmp
-    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/registrations/$i.md.tmp > ~/pages/WCA-Stats/registrations/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/registrations/$i.md.tmp2 > ~/pages/WCA-Stats/registrations/$i.md && \
+    cp ~/pages/WCA-Stats/templates/registrations.md ~/pages/WCA-Stats/registrations/"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/registrations/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/registrations/"$i".md.tmp > ~/pages/WCA-Stats/registrations/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/registrations/"$i".md.tmp2 > ~/pages/WCA-Stats/registrations/"$i".md && \
 	rm ~/pages/WCA-Stats/registrations/*.tmp*
 done
 
@@ -346,10 +346,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-	cp ~/pages/WCA-Stats/templates/sumbesttime.md ~/pages/WCA-Stats/sumbesttime/$i.md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sumbesttime/$i.md.tmp
-	awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sumbesttime/$i.md.tmp > ~/pages/WCA-Stats/sumbesttime/$i.md.tmp2
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sumbesttime/$i.md.tmp2 > ~/pages/WCA-Stats/sumbesttime/$i.md
+	cp ~/pages/WCA-Stats/templates/sumbesttime.md ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp
+	awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp > ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp2
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sumbesttime/"$i".md.tmp2 > ~/pages/WCA-Stats/sumbesttime/"$i".md
 	rm ~/pages/WCA-Stats/sumbesttime/*.tmp*
 done
 
@@ -392,10 +392,10 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-	cp ~/pages/WCA-Stats/templates/uowc.md ~/pages/WCA-Stats/uowc/$i.md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/uowc/$i.md.tmp
-    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/uowc/$i.md.tmp > ~/pages/WCA-Stats/uowc/$i.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uowc/$i.md.tmp2 > ~/pages/WCA-Stats/uowc/$i.md && \
+	cp ~/pages/WCA-Stats/templates/uowc.md ~/pages/WCA-Stats/uowc/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/uowc/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/uowc/"$i".md.tmp > ~/pages/WCA-Stats/uowc/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uowc/"$i".md.tmp2 > ~/pages/WCA-Stats/uowc/"$i".md && \
 	rm ~/pages/WCA-Stats/uowc/*.tmp*
 done
 
