@@ -53,7 +53,7 @@ done
 
 # bestpodiums
 
-mapfile arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+mapfile -t arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
@@ -355,7 +355,7 @@ done
 
 #uowc
 
-mapfile arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+mapfile -t arr < <(mysql --batch -u sam -p$mysqlpw -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
 
 for i in "${arr[@]}"
 do
