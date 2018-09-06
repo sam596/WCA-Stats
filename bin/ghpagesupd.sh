@@ -439,7 +439,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`333bfs\`) \`333bf\`,
@@ -484,7 +484,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`333fts\`) \`333ft\`,
@@ -526,7 +526,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`333ohs\`) \`333oh\`,
@@ -565,7 +565,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`444s\`) \`444\`,
@@ -600,7 +600,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`444s\`) \`444\`,
@@ -634,7 +634,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`444s\`) \`444\`,
@@ -667,7 +667,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`333s\`+\`444s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`444s\`) \`444\`
@@ -699,7 +699,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`),"**") \`Relay Time\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`333bfs\`) \`333bf\`,
       CentisecondToTime(\`333fts\`) \`333ft\`,
@@ -732,7 +732,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`333s\`+\`333bfs\`+\`333ohs\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`333s\`+\`333bfs\`+\`333ohs\`),"**") \`Relay Time\`,
       CentisecondToTime(\`333s\`) \`333\`,
       CentisecondToTime(\`333bfs\`) \`333bf\`,
       CentisecondToTime(\`333ohs\`) \`333oh\`
@@ -764,7 +764,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`333bfs\`+\`444bfs\`+\`555bfs\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`333bfs\`+\`444bfs\`+\`555bfs\`),"**") \`Relay Time\`,
       CentisecondToTime(\`333bfs\`) \`333bf\`,
       CentisecondToTime(\`444bfs\`) \`444bf\`,
       CentisecondToTime(\`555bfs\`) \`555bf\`
@@ -796,7 +796,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),"**") \`Relay Time\`,
       CentisecondToTime(\`clocks\`) \`clock\`,
       CentisecondToTime(\`minxs\`) \`minx\`,
       CentisecondToTime(\`pyrams\`) \`pyram\`,
@@ -830,7 +830,7 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CentisecondToTime(\`222s\`+\`pyrams\`+\`skewbs\`) \`Relay Time\`,
+      CONCAT("**",CentisecondToTime(\`222s\`+\`pyrams\`+\`skewbs\`),"**") \`Relay Time\`,
       CentisecondToTime(\`222s\`) \`222\`,
       CentisecondToTime(\`pyrams\`) \`pyram\`,
       CentisecondToTime(\`skewbs\`) \`skewb\`
