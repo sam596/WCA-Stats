@@ -838,7 +838,7 @@ FROM
       all_events_rank
     WHERE
     personId IN 
-      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','pyram','skewb') GROUP BY personId HAVING COUNT(*) = 5)
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','pyram','skewb') GROUP BY personId HAVING COUNT(*) = 3)
     ORDER BY \`222s\`+\`pyrams\`+\`skewbs\` LIMIT 1000) a) b;
 " > ~/mysqloutput/fast
 let finish=($(date +%s%N | cut -b1-13)-$start)
