@@ -421,5 +421,451 @@ do
 	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} World Champions (${finish}ms)"
 done
 
+#alleventsrelay
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "All Events Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333bf\`, \`333ft\`, \`333oh\`, \`444\`, \`444bf\`, \`555\`, \`555bf\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`333bfs\`) \`333bf\`,
+      CentisecondToTime(\`333fts\`) \`333ft\`,
+      CentisecondToTime(\`333ohs\`) \`333oh\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`444bfs\`) \`444bf\`,
+      CentisecondToTime(\`555s\`) \`555\`,
+      CentisecondToTime(\`555bfs\`) \`555bf\`,
+      CentisecondToTime(\`666s\`) \`666\`,
+      CentisecondToTime(\`777s\`) \`777\`,
+      CentisecondToTime(\`clocks\`) \`clock\`,
+      CentisecondToTime(\`minxs\`) \`minx\`,
+      CentisecondToTime(\`pyrams\`) \`pyram\`,
+      CentisecondToTime(\`skewbs\`) \`skewb\`,
+      CentisecondToTime(\`sq1s\`) \`sq1\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 16)
+    ORDER BY \`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/all_events_relay
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} All Events Relay (${finish}ms)"
+
+#guildford
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Guildford Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333ft\`, \`333oh\`, \`444\`, \`555\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`333fts\`) \`333ft\`,
+      CentisecondToTime(\`333ohs\`) \`333oh\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`555s\`) \`555\`,
+      CentisecondToTime(\`666s\`) \`666\`,
+      CentisecondToTime(\`777s\`) \`777\`,
+      CentisecondToTime(\`clocks\`) \`clock\`,
+      CentisecondToTime(\`minxs\`) \`minx\`,
+      CentisecondToTime(\`pyrams\`) \`pyram\`,
+      CentisecondToTime(\`skewbs\`) \`skewb\`,
+      CentisecondToTime(\`sq1s\`) \`sq1\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft') GROUP BY personId HAVING COUNT(*) = 13)
+    ORDER BY \`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/guildford
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Guildford Relay (${finish}ms)"
+
+#miniguildford
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Mini-Guildford Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333oh\`, \`444\`, \`555\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`333ohs\`) \`333oh\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`555s\`) \`555\`,
+      CentisecondToTime(\`clocks\`) \`clock\`,
+      CentisecondToTime(\`minxs\`) \`minx\`,
+      CentisecondToTime(\`pyrams\`) \`pyram\`,
+      CentisecondToTime(\`skewbs\`) \`skewb\`,
+      CentisecondToTime(\`sq1s\`) \`sq1\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1') GROUP BY personId HAVING COUNT(*) = 10)
+    ORDER BY \`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/mini_guildford
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Mini-Guildford Relay (${finish}ms)"
+
+#234567
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "2-7 Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`444\`, \`555\`, \`666\`, \`777\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`555s\`) \`555\`,
+      CentisecondToTime(\`666s\`) \`666\`,
+      CentisecondToTime(\`777s\`) \`777\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','666','777') GROUP BY personId HAVING COUNT(*) = 6)
+    ORDER BY \`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/234567
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 2-7 Relay (${finish}ms)"
+
+#23456
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "2-6 Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`444\`, \`555\`, \`666\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`555s\`) \`555\`,
+      CentisecondToTime(\`666s\`) \`666\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','666') GROUP BY personId HAVING COUNT(*) = 5)
+    ORDER BY \`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/23456
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 2-6 Relay (${finish}ms)"
+
+#2345
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "2-5 Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`444\`, \`555\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`444s\`) \`444\`,
+      CentisecondToTime(\`555s\`) \`555\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555') GROUP BY personId HAVING COUNT(*) = 4)
+    ORDER BY \`222s\`+\`333s\`+\`444s\`+\`555s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/2345
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 2-5 Relay (${finish}ms)"
+
+#234
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "2-4 Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`444\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`333s\`+\`444s\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`444s\`) \`444\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444') GROUP BY personId HAVING COUNT(*) = 3)
+    ORDER BY \`222s\`+\`333s\`+\`444s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/234
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 2-4 Relay (${finish}ms)"
+
+#333events
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "3x3 Events Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`333\`, \`333bf\`, \`333ft\`, \`333oh\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`) \`Relay Time\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`333bfs\`) \`333bf\`,
+      CentisecondToTime(\`333fts\`) \`333ft\`,
+      CentisecondToTime(\`333ohs\`) \`333oh\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('333','333bf','333ft','333oh') GROUP BY personId HAVING COUNT(*) = 4)
+    ORDER BY \`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\` LIMIT 1000) a) b;
+" > ~/mysqloutput/333events
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 3x3 Events Relay (${finish}ms)"
+
+#333eventsnofeet
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "3x3 OH BLD Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`333\`, \`333bf\`, \`333oh\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`333s\`+\`333bfs\`+\`333ohs\`) \`Relay Time\`,
+      CentisecondToTime(\`333s\`) \`333\`,
+      CentisecondToTime(\`333bfs\`) \`333bf\`,
+      CentisecondToTime(\`333ohs\`) \`333oh\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('333','333bf','333oh') GROUP BY personId HAVING COUNT(*) = 3)
+    ORDER BY \`333s\`+\`333bfs\`+\`333ohs\` LIMIT 1000) a) b;
+" > ~/mysqloutput/333eventsnofeet
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} 3x3 OH BLD Relay (${finish}ms)"
+
+#bldevents
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "BLD Events Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`333bf\`, \`444bf\`, \`555bf\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`333bfs\`+\`444bfs\`+\`555bfs\`) \`Relay Time\`,
+      CentisecondToTime(\`333bfs\`) \`333bf\`,
+      CentisecondToTime(\`444bfs\`) \`444bf\`,
+      CentisecondToTime(\`555bfs\`) \`555bf\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 3)
+    ORDER BY \`333bfs\`+\`444bfs\`+\`555bfs\` LIMIT 1000) a) b;
+" > ~/mysqloutput/bld
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} BLD Events Relay (${finish}ms)"
+
+#sideevents
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Side Events Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`) \`Relay Time\`,
+      CentisecondToTime(\`clocks\`) \`clock\`,
+      CentisecondToTime(\`minxs\`) \`minx\`,
+      CentisecondToTime(\`pyrams\`) \`pyram\`,
+      CentisecondToTime(\`skewbs\`) \`skewb\`,
+      CentisecondToTime(\`sq1s\`) \`sq1\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('clock','minx','pyram','skewb','sq1') GROUP BY personId HAVING COUNT(*) = 5)
+    ORDER BY \`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+" > ~/mysqloutput/side
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Side Events Relay (${finish}ms)"
+
+#fastevents
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Fast Events Relay"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`pyram\`, \`skewb\`
+FROM
+  (SELECT 
+    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
+    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
+    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
+    @v := \`Relay Time\` val,
+    a.*
+  FROM 
+    (SELECT
+      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
+      countryId Country, 
+      CentisecondToTime(\`222s\`+\`pyrams\`+\`skewbs\`) \`Relay Time\`,
+      CentisecondToTime(\`222s\`) \`222\`,
+      CentisecondToTime(\`pyrams\`) \`pyram\`,
+      CentisecondToTime(\`skewbs\`) \`skewb\`
+    FROM
+      all_events_rank
+    WHERE
+    personId IN 
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','pyram','skewb') GROUP BY personId HAVING COUNT(*) = 5)
+    ORDER BY \`222s\`+\`pyrams\`+\`skewbs\` LIMIT 1000) a) b;
+" > ~/mysqloutput/fast
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Fast Events Relay (${finish}ms)"
+
+declare -a arr=(all_events_relay guildford mini_guildford 234 2345 23456 234567 333events 333eventsnofeet bld side fast)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Relay formatinng"
+	sed 's/\t/|/g' ~/mysqloutput/"${i}" > ~/mysqloutput/"${i}"output && \
+	sed -i.bak '2i\
+--|--|--|--|--|--\' ~/mysqloutput/"${i}"output
+	sed -i.bak 's/^/|/' ~/mysqloutput/"${i}"output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/"${i}"output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/relays.md ~/pages/WCA-Stats/relays/"$i".md.tmp
+	cat ~/mysqloutput/"${i}"output >> ~/pages/WCA-Stats/relays/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/relays/"$i".md.tmp > ~/pages/WCA-Stats/relays/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/relays/"$i".md.tmp2 > ~/pages/WCA-Stats/relays/"$i".md && \
+	rm ~/pages/WCA-Stats/relays/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Relay Formatting (${finish}ms)"
+done
+
+rm ~/mysqloutput/*
+
 d=$(date +%Y-%m-%d)
 cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
