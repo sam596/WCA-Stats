@@ -7,7 +7,7 @@
 #### all_events_relay
 
 |Rank|Name|Country|Relay Time|222|333|333bf|333ft|333oh|444|444bf|555|555bf|666|777|clock|minx|pyram|skewb|sq1|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|**13:44.37**|1.27|6.41|21.81|31.32|13.11|27.03|1:29.42|52.67|3:45.42|1:55.05|2:52.43|5.11|50.43|3.09|2.44|7.36|  
 |2|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**18:04.91**|1.56|7.40|31.23|38.37|14.83|33.49|1:57.57|1:11.13|4:30.86|2:30.12|4:10.04|8.82|1:15.38|3.80|1.58|8.73|  
 |3|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|**18:10.07**|1.02|6.87|22.26|59.74|10.16|31.16|2:44.66|59.02|6:01.20|1:54.15|2:58.09|8.14|59.69|1.43|2.29|10.19|  

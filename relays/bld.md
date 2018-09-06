@@ -7,7 +7,7 @@
 #### bld
 
 |Rank|Name|Country|Relay Time|333bf|444bf|555bf|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01)|China|**5:31.29**|18.32|1:26.41|3:46.56|  
 |2|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|**5:36.65**|21.81|1:29.42|3:45.42|  
 |3|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  

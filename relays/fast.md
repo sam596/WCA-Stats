@@ -7,7 +7,7 @@
 #### fast
 
 |Rank|Name|Country|Relay Time|222|pyram|skewb|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|**3.97**|1.35|0.98|1.64|  
 |=|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|**3.97**|0.72|1.77|1.48|  
 |3|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|**3.99**|0.77|1.83|1.39|  

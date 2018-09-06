@@ -7,7 +7,7 @@
 #### guildford
 
 |Rank|Name|Country|Relay Time|222|333|333ft|333oh|444|555|666|777|clock|minx|pyram|skewb|sq1|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|**7:10.97**|1.46|5.69|46.91|10.56|22.56|42.88|1:25.85|2:11.95|16.72|51.69|2.18|3.28|9.24|  
 |2|[Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01)|Germany|**7:11.71**|1.55|6.18|40.71|12.12|26.53|50.76|1:33.21|2:15.00|8.30|41.08|3.52|3.56|9.19|  
 |3|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**7:27.89**|0.83|5.58|34.82|9.14|26.51|51.00|1:43.82|2:40.41|5.60|40.64|1.70|1.78|6.06|  

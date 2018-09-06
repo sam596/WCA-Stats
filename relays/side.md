@@ -7,7 +7,7 @@
 #### side
 
 |Rank|Name|Country|Relay Time|clock|minx|pyram|skewb|sq1|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|**55.08**|9.25|35.18|2.34|1.22|7.09|  
 |2|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**55.78**|5.60|40.64|1.70|1.78|6.06|  
 |3|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|**55.94**|8.81|33.11|2.27|2.76|8.99|  

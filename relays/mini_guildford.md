@@ -7,7 +7,7 @@
 #### mini_guildford
 
 |Rank|Name|Country|Relay Time|222|333|333oh|444|555|clock|minx|pyram|skewb|sq1|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|**2:05.12**|0.79|4.22|6.88|19.36|37.93|8.81|33.11|2.27|2.76|8.99|  
 |2|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|**2:24.78**|0.66|4.94|9.44|23.31|51.35|9.25|35.18|2.34|1.22|7.09|  
 |3|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**2:28.84**|0.83|5.58|9.14|26.51|51.00|5.60|40.64|1.70|1.78|6.06|  

@@ -7,7 +7,7 @@
 #### 333events
 
 |Rank|Name|Country|Relay Time|333|333bf|333ft|333oh|  
-|--|--|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|**1:05.53**|6.23|23.15|24.16|11.99|  
 |2|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|**1:06.18**|5.10|19.84|32.87|8.37|  
 |3|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|Germany|**1:12.13**|6.37|30.56|24.35|10.85|  
