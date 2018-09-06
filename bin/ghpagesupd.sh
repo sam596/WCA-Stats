@@ -852,7 +852,7 @@ do
 	echo -n "${i} Relay formatinng"
 	sed 's/\t/|/g' ~/mysqloutput/"${i}" > ~/mysqloutput/"${i}"output && \
 	sed -i.bak '2i\
---|--|--|--|--|--\' ~/mysqloutput/"${i}"output
+--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--\' ~/mysqloutput/"${i}"output
 	sed -i.bak 's/^/|/' ~/mysqloutput/"${i}"output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/"${i}"output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
