@@ -7,7 +7,7 @@
 #### CountryKinch
 
 |Rank|Name|Country|CountryKinch|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |1|[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|South Africa|92.13|  
 |2|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|91.04|  
 |3|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|Malaysia|87.77|  
