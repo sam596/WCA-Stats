@@ -7,7 +7,7 @@
 #### Sum of single Ranks
 
 |Rank|Name|Country|Sum of Ranks|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|1514|  
 |2|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|1947|  
 |3|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|2354|  

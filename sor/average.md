@@ -7,7 +7,7 @@
 #### Sum of average Ranks
 
 |Rank|Name|Country|Sum of Ranks|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|781|  
 |2|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|988|  
 |3|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|1565|  
