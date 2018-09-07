@@ -86,6 +86,17 @@ Here are various statistics I have computed using the WCA database. These get up
 <i>Any requests, let me know!</i>
 </details>
 <details>
+<summary>Sum of Ranks</summary>
+<ul>
+<li><a href="sor/single.html">Single</a> - <a href="sor/average.html">Average</a> - <a href="sor/combined.html">Combined</a></li>
+<li>Without a Podium<a href="sor/nopodsingle.html">Single</a> - <a href="sor/nopodaverage.html">Average</a> - <a href="sor/nopodcombined.html">Combined</a></li>
+<li>Without a Win<a href="sor/nowinsingle.html">Single</a> - <a href="sor/nowinaverage.html">Average</a> - <a href="sor/nowincombined.html">Combined</a></li>
+<li>Without an NR<a href="sor/nonrsingle.html">Single</a> - <a href="sor/nonraverage.html">Average</a> - <a href="sor/nonrcombined.html">Combined</a></li>
+<li>Without a CR<a href="sor/nocrsingle.html">Single</a> - <a href="sor/nocraverage.html">Average</a> - <a href="sor/nocrcombined.html">Combined</a></li>
+<li>Without a WR<a href="sor/nowrsingle.html">Single</a> - <a href="sor/nowraverage.html">Average</a> - <a href="sor/nowrcombined.html">Combined</a></li>
+</ul>
+</details>
+<details>
   <summary>Sum of the Best Single Times at a Competition</summary>
 <i>(excluding FMC and MBLD)</i>
 <ul>
