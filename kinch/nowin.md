@@ -7,7 +7,7 @@
 #### nowin
 
 |Rank|Name|Country|Kinch|Overall Rank|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |1|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|42.69|144|  
 |2|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|41.75|171|  
 |3|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|41.72|173|  
