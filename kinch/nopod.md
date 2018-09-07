@@ -7,7 +7,7 @@
 #### nopod
 
 |Rank|Name|Country|Kinch|Overall Rank|  
-|--|--|--|--|  
+|--|--|--|--|--|  
 |1|[Haoxiang Ying (应浩祥)](https://www.worldcubeassociation.org/persons/2016YING02)|China|31.26|741|  
 |2|[Emanuel Capule](https://www.worldcubeassociation.org/persons/2017CAPU01)|Philippines|31.03|763|  
 |3|[Esteban Elías González Méndez](https://www.worldcubeassociation.org/persons/2016MEND03)|Mexico|30.88|773|  
