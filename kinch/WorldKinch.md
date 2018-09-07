@@ -7,7 +7,7 @@
 #### WorldKinch
 
 |Rank|Name|Country|WorldKinch|  
-|--|--|--|  
+|--|--|--|--|  
 |1|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|67.38|  
 |2|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|64.28|  
 |3|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|61.60|  

@@ -7,7 +7,7 @@
 #### ContinentKinch
 
 |Rank|Name|Country|ContinentKinch|  
-|--|--|--|  
+|--|--|--|--|  
 |1|[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|South Africa|78.30|  
 |2|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|76.52|  
 |3|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|75.08|  
