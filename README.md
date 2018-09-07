@@ -36,6 +36,19 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>Kinch Ranks</summary>
+<ul>
+<li><a href="kinch/WorldKinch.html">World Kinch</a></li>
+<li><a href="kinch/ContinentKinch.html">Continental Kinch</a></li>
+<li><a href="kinch/CountryKinch.html">National Kinch</a></li>
+<li><a href="kinch/nopod.html">Without a Podium</a></li>
+<li><a href="kinch/nowin.html">Without a Win</a></li>
+<li><a href="kinch/nonr.html">Without an NR</a></li>
+<li><a href="kinch/nowc.html">Without a CR</a></li>
+<li><a href="kinch/nowr.html">Without a WR</a></li>
+</ul>
+</details>
+<details>
   <summary>Longest PB Streaks</summary>
 <ul>
 <li><a href="pbstreaks/pb_streak.html">All competitions</a></li>
