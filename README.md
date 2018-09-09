@@ -127,3 +127,13 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="uowc/333mbf.html">MBLD</a></li>
 </ul>
 </details>
+<details>
+  <summary>Worst 3x3 Single with a Sub-X average</summary>
+<ul>
+<li><a href="worstsinglewithsubxaverage/sub6.html">Sub-6</a></li>
+<li><a href="worstsinglewithsubxaverage/sub7.html">Sub-7</a></li>
+<li><a href="worstsinglewithsubxaverage/sub8.html">Sub-8</a></li>
+<li><a href="worstsinglewithsubxaverage/sub9.html">Sub-9</a></li>
+<li><a href="worstsinglewithsubxaverage/sub10.html">Sub-10</a></li>
+</ul>
+</details>
