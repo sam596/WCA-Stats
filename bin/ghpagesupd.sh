@@ -865,6 +865,439 @@ do
 	echo -e "\\r${CHECK_MARK} ${i} Relay Formatting (${finish}ms)"
 done
 
+#Kinch
+
+declare -a arr=(WorldKinch ContinentKinch CountryKinch)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i}"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, ${i}
+	FROM
+	(SELECT 
+			@i := IF(@v = ${i}, @i, @i + @c) initrank,
+			@c := IF(@v = ${i}, @c + 1, 1) counter,
+			@r := IF(@v = ${i}, '=', @i) Rank,
+			@v := ${i} val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, ${i} FROM kinch ORDER BY ${i} DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/"$i".md.tmp > ~/pages/WCA-Stats/kinch/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/"$i".md.tmp2 > ~/pages/WCA-Stats/kinch/"$i".md && \
+	rm ~/pages/WCA-Stats/kinch/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} (${finish}ms)"
+done
+
+#KinchNoPodium
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Kinch No Podium"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, worldKinch Kinch, worldRank \`Overall Rank\`
+FROM
+(SELECT 
+		@i := IF(@v = worldKinch, @i, @i + @c) initrank,
+		@c := IF(@v = worldKinch, @c + 1, 1) counter,
+		@r := IF(@v = worldKinch, '=', @i) Rank,
+		@v := worldKinch val,
+		a.*
+	FROM
+	(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldKinch, worldRank FROM kinch WHERE personId NOT IN (SELECT id FROM persons_extra WHERE podiums > 0) ORDER BY worldKinch DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/nopod.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/nopod.md.tmp
+awk -v r=Kinch\ No\ Podium '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/nopod.md.tmp > ~/pages/WCA-Stats/kinch/nopod.md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/nopod.md.tmp2 > ~/pages/WCA-Stats/kinch/nopod.md && \
+rm ~/pages/WCA-Stats/kinch/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Kinch No Podium (${finish}ms)"
+
+#KinchNoWin
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Kinch No Win"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, worldKinch Kinch, worldRank \`Overall Rank\`
+FROM
+(SELECT 
+		@i := IF(@v = worldKinch, @i, @i + @c) initrank,
+		@c := IF(@v = worldKinch, @c + 1, 1) counter,
+		@r := IF(@v = worldKinch, '=', @i) Rank,
+		@v := worldKinch val,
+		a.*
+	FROM
+	(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldKinch, worldRank FROM kinch WHERE personId NOT IN (SELECT id FROM persons_extra WHERE gold > 0) ORDER BY worldKinch DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/nowin.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/nowin.md.tmp
+awk -v r=Kinch\ No\ Win '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/nowin.md.tmp > ~/pages/WCA-Stats/kinch/nowin.md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/nowin.md.tmp2 > ~/pages/WCA-Stats/kinch/nowin.md && \
+rm ~/pages/WCA-Stats/kinch/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Kinch No Win (${finish}ms)"
+
+#KinchNoNR
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Kinch No NR"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, worldKinch Kinch, worldRank \`Overall Rank\`
+FROM
+(SELECT 
+		@i := IF(@v = worldKinch, @i, @i + @c) initrank,
+		@c := IF(@v = worldKinch, @c + 1, 1) counter,
+		@r := IF(@v = worldKinch, '=', @i) Rank,
+		@v := worldKinch val,
+		a.*
+	FROM
+	(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldKinch, worldRank FROM kinch WHERE personId NOT IN (SELECT id FROM persons_extra WHERE NRs > 0 OR CRs > 0 OR WRs > 0) ORDER BY worldKinch DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/nonr.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/nonr.md.tmp
+awk -v r=Kinch\ No\ NR '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/nonr.md.tmp > ~/pages/WCA-Stats/kinch/nonr.md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/nonr.md.tmp2 > ~/pages/WCA-Stats/kinch/nonr.md && \
+rm ~/pages/WCA-Stats/kinch/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Kinch No NR (${finish}ms)"
+
+#KinchNoCR
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Kinch No CR"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, worldKinch Kinch, worldRank \`Overall Rank\`
+FROM
+(SELECT 
+		@i := IF(@v = worldKinch, @i, @i + @c) initrank,
+		@c := IF(@v = worldKinch, @c + 1, 1) counter,
+		@r := IF(@v = worldKinch, '=', @i) Rank,
+		@v := worldKinch val,
+		a.*
+	FROM
+	(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldKinch, worldRank FROM kinch WHERE personId NOT IN (SELECT id FROM persons_extra WHERE CRs > 0 OR WRs > 0) ORDER BY worldKinch DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/nocr.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/nocr.md.tmp
+awk -v r=Kinch\ No\ CR '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/nocr.md.tmp > ~/pages/WCA-Stats/kinch/nocr.md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/nocr.md.tmp2 > ~/pages/WCA-Stats/kinch/nocr.md && \
+rm ~/pages/WCA-Stats/kinch/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Kinch No CR (${finish}ms)"
+
+#KinchNoWR
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Kinch No WR"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, worldKinch Kinch, worldRank \`Overall Rank\`
+FROM
+(SELECT 
+		@i := IF(@v = worldKinch, @i, @i + @c) initrank,
+		@c := IF(@v = worldKinch, @c + 1, 1) counter,
+		@r := IF(@v = worldKinch, '=', @i) Rank,
+		@v := worldKinch val,
+		a.*
+	FROM
+	(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldKinch, worldRank FROM kinch WHERE personId NOT IN (SELECT id FROM persons_extra WHERE WRs > 0) ORDER BY worldKinch DESC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/kinch.md ~/pages/WCA-Stats/kinch/nowr.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/kinch/nowr.md.tmp
+awk -v r=Kinch\ No\ WR '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/kinch/nowr.md.tmp > ~/pages/WCA-Stats/kinch/nowr.md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/kinch/nowr.md.tmp2 > ~/pages/WCA-Stats/kinch/nowr.md && \
+rm ~/pages/WCA-Stats/kinch/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Kinch No WR (${finish}ms)"
+
+#SoR
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Sum of ${i} Ranks"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor FROM sor_${i} ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/"$i".md.tmp
+    awk -v r="Sum of $i Ranks" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/"$i".md.tmp > ~/pages/WCA-Stats/sor/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/"$i".md.tmp2 > ~/pages/WCA-Stats/sor/"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Sum of ${i} Ranks (${finish}ms)"
+done
+
+#sornopod
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "SoR $i No Podium"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`, worldRank \`Overall Rank\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor, worldRank FROM sor_${i} WHERE personId NOT IN (SELECT id FROM persons_extra WHERE podiums > 0) ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/nopod"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/nopod"$i".md.tmp
+    awk -v r="SoR $i No Podium" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/nopod"$i".md.tmp > ~/pages/WCA-Stats/sor/nopod"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/nopod"$i".md.tmp2 > ~/pages/WCA-Stats/sor/nopod"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} SoR $i No Podium (${finish}ms)"
+done
+
+#sornowin
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "SoR $i No Win"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`, worldRank \`Overall Rank\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor, worldRank FROM sor_${i} WHERE personId NOT IN (SELECT id FROM persons_extra WHERE gold > 0) ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/nowin"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/nowin"$i".md.tmp
+    awk -v r="SoR $i No Win" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/nowin"$i".md.tmp > ~/pages/WCA-Stats/sor/nowin"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/nowin"$i".md.tmp2 > ~/pages/WCA-Stats/sor/nowin"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} SoR $i No Win (${finish}ms)"
+done
+
+#sornonr
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "SoR $i No NR"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`, worldRank \`Overall Rank\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor, worldRank FROM sor_${i} WHERE personId NOT IN (SELECT id FROM persons_extra WHERE NRs > 0 OR CRs > 0 OR WRs > 0) ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/nonr"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/nonr"$i".md.tmp
+    awk -v r="SoR $i No NR" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/nonr"$i".md.tmp > ~/pages/WCA-Stats/sor/nonr"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/nonr"$i".md.tmp2 > ~/pages/WCA-Stats/sor/nonr"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} SoR $i No NR (${finish}ms)"
+done
+
+#sornocr
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "SoR $i No CR"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`, worldRank \`Overall Rank\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor, worldRank FROM sor_${i} WHERE personId NOT IN (SELECT id FROM persons_extra WHERE CRs > 0 OR WRs > 0) ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/nocr"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/nocr"$i".md.tmp
+    awk -v r="SoR $i No CR" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/nocr"$i".md.tmp > ~/pages/WCA-Stats/sor/nocr"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/nocr"$i".md.tmp2 > ~/pages/WCA-Stats/sor/nocr"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} SoR $i No CR (${finish}ms)"
+done
+
+#sornowr
+
+declare -a arr=(single average combined)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "SoR $i No WR"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, worldSor \`Sum of Ranks\`, worldRank \`Overall Rank\`
+	FROM
+	(SELECT 
+			@i := IF(@v = worldSor, @i, @i + @c) initrank,
+			@c := IF(@v = worldSor, @c + 1, 1) counter,
+			@r := IF(@v = worldSor, '=', @i) Rank,
+			@v := worldSor val,
+			a.*
+		FROM
+		(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, countryId Country, worldSor, worldRank FROM sor_${i} WHERE personId NOT IN (SELECT id FROM persons_extra WHERE WRs > 0) ORDER BY worldSor ASC LIMIT 1000) a) b;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/sor.md ~/pages/WCA-Stats/sor/nowr"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/sor/nowr"$i".md.tmp
+    awk -v r="SoR $i No WR" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/sor/nowr"$i".md.tmp > ~/pages/WCA-Stats/sor/nowr"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/sor/nowr"$i".md.tmp2 > ~/pages/WCA-Stats/sor/nowr"$i".md && \
+	rm ~/pages/WCA-Stats/sor/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} SoR $i No WR (${finish}ms)"
+done
+
+#worstsinglewithsubxaverage
+
+declare -a arr=(5 6 7 8 9 10)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Worst Single with Sub ${i} Average"
+	mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, Average, Single
+	FROM
+		(SELECT
+			@i := IF(@v = Average, @i, @i + @c) initrank,
+			@c := IF(@v = Average, @c + 1, 1) counter,
+			@r := IF(@v = Average, '=', @i) Rank,
+			@v := Average val,
+			b.*
+		FROM	
+			(SELECT 
+				CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, 
+				p.countryId Country, 
+				ROUND(a.best/100,2) Single,
+				(SELECT ROUND(best/100,2) FROM ranksaverage WHERE eventId = '333' AND personId = a.personId) Average
+			FROM rankssingle a 
+			INNER JOIN persons p 
+				ON p.subid = 1 AND a.personId = p.id 
+			WHERE 
+				a.eventId = '333' AND 
+				personId IN (SELECT personId FROM ranksaverage WHERE eventId = '333' AND best < ${i}00) 
+			ORDER BY single DESC, single ASC, p.name ASC 
+			LIMIT 250) b
+		) c;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	output=$(cat ~/mysqloutput/output)
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/worstsinglewithsubxaverage.md ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md.tmp > ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md.tmp2 > ~/pages/WCA-Stats/worstsinglewithsubxaverage/sub$i.md
+	rm ~/pages/WCA-Stats/worstsinglewithsubxaverage/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Worst Single with Sub ${i} Average (${finish}ms)"
+done
+
+
+
 rm ~/mysqloutput/*
 
 d=$(date +%Y-%m-%d)
