@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Thu Sep 06 at 0604UTC*
+*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -40,12 +40,12 @@
 |30|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|5.60|7.31|  
 |=|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|5.91|7.31|  
 |32|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|5.50|7.36|  
-|33|[Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01)|United Kingdom|5.96|7.37|  
-|34|[Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01)|USA|5.25|7.38|  
+|=|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|5.55|7.36|  
+|34|[Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01)|United Kingdom|5.96|7.37|  
+|35|[Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01)|USA|5.25|7.38|  
 |=|[Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02)|Spain|5.52|7.38|  
 |=|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|5.81|7.38|  
-|37|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|5.08|7.39|  
-|38|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|5.55|7.42|  
+|38|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|5.08|7.39|  
 |39|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|5.57|7.43|  
 |=|[Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01)|China|6.03|7.43|  
 |41|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|5.89|7.48|  

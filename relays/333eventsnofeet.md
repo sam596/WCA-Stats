@@ -1,6 +1,6 @@
 ## WCA Relays - 333eventsnofeet
 
-*Last updated using WCA Developer Export from Thu Sep 06 at 0604UTC*
+*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -720,7 +720,7 @@
 |710|[Xi Zhang (张希)](https://www.worldcubeassociation.org/persons/2016ZHAX02)|China|**2:01.96**|10.65|1:34.79|16.52|  
 |711|[Tyler Halgren](https://www.worldcubeassociation.org/persons/2015HALG01)|USA|**2:01.97**|8.19|1:40.57|13.21|  
 |712|[Rotem Ifrach](https://www.worldcubeassociation.org/persons/2014IFRA01)|Israel|**2:02.11**|13.02|1:15.62|33.47|  
-|713|[Rocco Perciavalle](https://www.worldcubeassociation.org/persons/2016PERC01)|USA|**2:02.18**|8.71|1:36.47|17.00|  
+|713|[John Doe](https://www.worldcubeassociation.org/persons/2016PERC01)|USA|**2:02.18**|8.71|1:36.47|17.00|  
 |714|[Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01)|Spain|**2:02.25**|10.27|1:38.37|13.61|  
 |715|[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|United Kingdom|**2:02.30**|7.28|1:40.36|14.66|  
 |716|[Heejun Kim (김희준)](https://www.worldcubeassociation.org/persons/2018KIMH02)|Korea|**2:02.35**|12.15|1:30.01|20.19|  

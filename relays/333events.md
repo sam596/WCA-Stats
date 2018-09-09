@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Thu Sep 06 at 0604UTC*
+*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -542,12 +542,12 @@
 |532|[Valerii Kolesnichenko (Валерій Колесніченко)](https://www.worldcubeassociation.org/persons/2014KOLE02)|Ukraine|**4:43.86**|7.85|2:23.06|1:59.72|13.23|  
 |533|[Uku Kruusamägi](https://www.worldcubeassociation.org/persons/2009KRUU01)|Estonia|**4:44.24**|12.21|1:53.80|2:11.59|26.64|  
 |534|[Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02)|Denmark|**4:44.56**|7.85|3:14.16|1:11.05|11.50|  
-|535|[Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01)|Netherlands|**4:44.76**|9.72|2:02.41|2:14.97|17.66|  
-|536|[Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02)|Spain|**4:45.35**|10.69|37.41|3:41.59|15.66|  
-|537|[Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01)|Korea|**4:45.43**|15.34|2:25.69|1:35.02|29.38|  
+|535|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|**4:44.73**|7.28|3:27.60|54.23|15.62|  
+|536|[Joël van Noort](https://www.worldcubeassociation.org/persons/2004NOOR01)|Netherlands|**4:44.76**|9.72|2:02.41|2:14.97|17.66|  
+|537|[Lucas Benito Rolando](https://www.worldcubeassociation.org/persons/2010BENI02)|Spain|**4:45.35**|10.69|37.41|3:41.59|15.66|  
+|538|[Park Byung-Hwa](https://www.worldcubeassociation.org/persons/2006BYUN01)|Korea|**4:45.43**|15.34|2:25.69|1:35.02|29.38|  
 |=|[An Hu (胡安)](https://www.worldcubeassociation.org/persons/2014HUAN07)|China|**4:45.43**|10.83|2:41.36|1:39.45|13.79|  
-|539|[Alif Reza Nurhadi](https://www.worldcubeassociation.org/persons/2011NURH02)|Indonesia|**4:45.78**|11.63|1:45.97|2:27.09|21.09|  
-|540|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|**4:45.83**|7.28|3:27.60|54.23|16.72|  
+|540|[Alif Reza Nurhadi](https://www.worldcubeassociation.org/persons/2011NURH02)|Indonesia|**4:45.78**|11.63|1:45.97|2:27.09|21.09|  
 |541|[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|United Kingdom|**4:45.97**|7.28|1:40.36|2:43.67|14.66|  
 |542|[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Canada|**4:46.16**|8.64|1:02.44|3:20.06|15.02|  
 |543|[Dhanayush Raninga](https://www.worldcubeassociation.org/persons/2010RANI01)|India|**4:46.17**|9.80|2:44.43|1:35.19|16.75|  

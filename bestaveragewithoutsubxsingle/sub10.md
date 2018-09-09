@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Thu Sep 06 at 0604UTC*
+*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -76,7 +76,7 @@
 |=|[Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02)|Russia|10.23|11.25|  
 |67|[Kook Ming-Jo](https://www.worldcubeassociation.org/persons/2017MING03)|Malaysia|10.18|11.26|  
 |=|[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|10.67|11.26|  
-|69|[Eliott Crancee](https://www.worldcubeassociation.org/persons/2015CRAN01)|France|10.25|11.27|  
+|69|[Eliott Crancée](https://www.worldcubeassociation.org/persons/2015CRAN01)|France|10.25|11.27|  
 |=|[Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10)|Peru|10.48|11.27|  
 |71|[Jinyao Chen (陈今尧)](https://www.worldcubeassociation.org/persons/2015CHEN18)|China|10.24|11.28|  
 |72|[Ethan Palendeng](https://www.worldcubeassociation.org/persons/2015PALE01)|New Zealand|10.01|11.29|  
@@ -248,13 +248,13 @@
 |=|[Janot Alabert Planas](https://www.worldcubeassociation.org/persons/2015PLAN02)|Spain|10.90|11.62|  
 |239|[Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03)|Vietnam|10.00|11.63|  
 |=|[Fredrik Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01)|Denmark|10.16|11.63|  
-|=|[Qiang Gong (龚强)](https://www.worldcubeassociation.org/persons/2012GONG01)|China|10.19|11.63|  
 |=|[Martín Nicolás Fernández Olavarría](https://www.worldcubeassociation.org/persons/2017OLAV01)|Chile|10.41|11.63|  
-|243|[Francesca Magnarelli](https://www.worldcubeassociation.org/persons/2017MAGN02)|USA|10.12|11.64|  
+|242|[Francesca Magnarelli](https://www.worldcubeassociation.org/persons/2017MAGN02)|USA|10.12|11.64|  
 |=|[Brandon Soon Li Jied](https://www.worldcubeassociation.org/persons/2016JIED01)|Malaysia|10.20|11.64|  
 |=|[Kohjiro Nishi (西宏二郎)](https://www.worldcubeassociation.org/persons/2007NISH01)|Japan|10.55|11.64|  
 |=|[Phan Phú Thịnh](https://www.worldcubeassociation.org/persons/2015THIN02)|Vietnam|10.65|11.64|  
 |=|[Lorenzo Magnarin](https://www.worldcubeassociation.org/persons/2017MAGN01)|Italy|11.08|11.64|  
-|248|[Ray Wu](https://www.worldcubeassociation.org/persons/2016WURA01)|New Zealand|10.02|11.65|  
+|247|[Ray Wu](https://www.worldcubeassociation.org/persons/2016WURA01)|New Zealand|10.02|11.65|  
 |=|[Steve Baek](https://www.worldcubeassociation.org/persons/2012BAEK01)|Korea|10.08|11.65|  
 |=|[Trisnanda Setiadi](https://www.worldcubeassociation.org/persons/2012SETI01)|Indonesia|10.18|11.65|  
+|=|[Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06)|United Kingdom|10.26|11.65|  
