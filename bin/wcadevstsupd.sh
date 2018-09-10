@@ -71,8 +71,13 @@ then
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'" 
   
   ~/WCA-Stats/bin/ghpagesupd.sh
+
+  cd ~/pages/WCA-Stats/
   
-  curl -H "Content-Type: application/js~on" -X POST -d '{"username": "WCA-Stats", "content": "http://sam596.github.io Updated with latest stats. \n View the changes here: https://github.com/sam596/WCA-Stats/commit/'$(cd ~/pages/WCA-Stats/ && git log -1 --pretty=format:"%H")'. \n \n This concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink:"}' $discordwh
+  commit=$(git log --format="%H" -n 1)
+
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "http://sam596.github.io Updated with latest stats. \n View the changes here: https://github.com/sam596/WCA-Stats/commit/'"$commit"'. \n \n That concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink:"}' $discordwh
+
  else
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'no change noticed; no import made --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
 fi
