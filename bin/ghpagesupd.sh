@@ -1250,7 +1250,7 @@ done
 
 #worstsinglewithsubxaverage
 
-declare -a arr=(5 6 7 8 9 10)
+declare -a arr=(6 7 8 9 10 11 12 13 14 15)
 
 for i in "${arr[@]}"
 do
