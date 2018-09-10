@@ -64,6 +64,11 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="mostsubxsinglewithoutsubxaverage/8.html">Sub-8</a></li>
 <li><a href="mostsubxsinglewithoutsubxaverage/9.html">Sub-9</a></li>
 <li><a href="mostsubxsinglewithoutsubxaverage/10.html">Sub-10</a></li>
+<li><a href="mostsubxsinglewithoutsubxaverage/11.html">Sub-11</a></li>
+<li><a href="mostsubxsinglewithoutsubxaverage/12.html">Sub-12</a></li>
+<li><a href="mostsubxsinglewithoutsubxaverage/13.html">Sub-13</a></li>
+<li><a href="mostsubxsinglewithoutsubxaverage/14.html">Sub-14</a></li>
+<li><a href="mostsubxsinglewithoutsubxaverage/15.html">Sub-15</a></li>
 </ul>
 </details>
 <details>
@@ -125,5 +130,21 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="uowc/444bf.html">4BLD</a></li>
 <li><a href="uowc/555bf.html">5BLD</a></li>
 <li><a href="uowc/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Worst 3x3 Single with a Sub-X average</summary>
+<ul>
+<li><a href="worstsinglewithsubxaverage/sub6.html">Sub-6</a></li>
+<li><a href="worstsinglewithsubxaverage/sub7.html">Sub-7</a></li>
+<li><a href="worstsinglewithsubxaverage/sub8.html">Sub-8</a></li>
+<li><a href="worstsinglewithsubxaverage/sub9.html">Sub-9</a></li>
+<li><a href="worstsinglewithsubxaverage/sub10.html">Sub-10</a></li>
+<li><a href="worstsinglewithsubxaverage/sub11.html">Sub-11</a></li>
+<li><a href="worstsinglewithsubxaverage/sub12.html">Sub-12</a></li>
+<li><a href="worstsinglewithsubxaverage/sub13.html">Sub-13</a></li>
+<li><a href="worstsinglewithsubxaverage/sub14.html">Sub-14</a></li>
+<li><a href="worstsinglewithsubxaverage/sub15.html">Sub-15</a></li>
+
 </ul>
 </details>
