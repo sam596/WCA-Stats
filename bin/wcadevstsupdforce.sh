@@ -25,8 +25,8 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`wca_dev` has been force-updated to the latest developer export! :tada: The tables in `wca_stats` are now being updated."}' $discordwh && \
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW() WHERE query = 'wca_dev'"
   
-  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/result_dates.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`result_dates` has been updated! :tada:"}' $discordwh
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/results_extra.sql && \
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`results_extra` has been updated! :tada:"}' $discordwh
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_attempts.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_attempts` has been updated! :tada:"}' $discordwh
@@ -59,7 +59,8 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/registrations_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/persons_extra.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra` and `persons_extra` have been updated! :tada:"}' $discordwh
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/competitions_extra.sql && \
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra`, `persons_extra` and `competitions_extra` have been updated! :tada:"}' $discordwh
   
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Force-updated; developer database imported, wca_stats updated' WHERE query = 'wcadevstsupd.sh'" 
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Force Update of `wca_dev` and `wca_stats` complete!"}' $discordwh
