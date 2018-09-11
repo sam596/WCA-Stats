@@ -66,7 +66,7 @@ SELECT
   b.result, 
   b.formatId 
 FROM 
-  (SELECT *, @c := IF(a.uowcId = @uowc AND a.dateSet = @d AND a.uowcId IS NOT NULL, 0, 1) chang,
+  (SELECT *, @c := IF(a.uowcId = a.winner AND a.uowcId IS NOT NULL, 1, 0) chang,
     @uowc := a.uowcId,
     @d := a.dateSet
     FROM
