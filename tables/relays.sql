@@ -38,6 +38,8 @@ ORDER BY
 	r.miniGuildford ASC
 	;
 
+# <10 secs
+
 DROP TABLE IF EXISTS guildford;
 CREATE TABLE guildford
 (GuildfordRank INT NOT NULL AUTO_INCREMENT,
@@ -78,6 +80,8 @@ GROUP BY
 ORDER BY 
 	r.Guildford ASC
 	;
+
+# <10 secs
 
 DROP TABLE IF EXISTS all_events_relay;
 CREATE TABLE all_events_relay
@@ -122,6 +126,8 @@ GROUP BY
 ORDER BY 
 	r.AllEvents ASC
 	;
+
+# <10 secs
 
 DROP TABLE IF EXISTS all_events_rank;
 CREATE TABLE all_events_rank
@@ -223,6 +229,8 @@ ORDER BY
 	s.personId ASC
 	;
 
+# ~ 50 secs
+
 CREATE INDEX 333s ON all_events_rank (333s);
 CREATE INDEX 333a ON all_events_rank (333a);
 CREATE INDEX 222s ON all_events_rank (222s);
@@ -257,101 +265,6 @@ CREATE INDEX 444bfs ON all_events_rank (444bfs);
 CREATE INDEX 555bfs ON all_events_rank (555bfs);
 CREATE INDEX 333mbfs ON all_events_rank (333mbfs);
 
-DROP TABLE IF EXISTS country_nrs;
-CREATE TABLE country_nrs
-(id INT NOT NULL AUTO_INCREMENT,
-PRIMARY KEY(countryId),
-KEY(id))
-SELECT
-	countryId,
-	continentId,
-	MIN(333s) `333s`,
-	MIN(333a) `333a`,
-	MIN(222s) `222s`,
-	MIN(222a) `222a`,
-	MIN(444s) `444s`,
-	MIN(444a) `444a`,
-	MIN(555s) `555s`,
-	MIN(555a) `555a`,
-	MIN(666s) `666s`,
-	MIN(666a) `666a`,
-	MIN(777s) `777s`,
-	MIN(777a) `777a`,
-	MIN(333bfs) `333bfs`,
-	MIN(333bfa) `333bfa`,
-	MIN(333fms) `333fms`,
-	MIN(333fma) `333fma`,
-	MIN(333ohs) `333ohs`,
-	MIN(333oha) `333oha`,
-	MIN(333fts) `333fts`,
-	MIN(333fta) `333fta`,
-	MIN(clocks) `clocks`,
-	MIN(clocka) `clocka`,
-	MIN(minxs) `minxs`,
-	MIN(minxa) `minxa`,
-	MIN(pyrams) `pyrams`,
-	MIN(pyrama) `pyrama`,
-	MIN(skewbs) `skewbs`,
-	MIN(skewba) `skewba`,
-	MIN(sq1s) `sq1s`,
-	MIN(sq1a) `sq1a`,
-	MIN(444bfs) `444bfs`,
-	MIN(555bfs) `555bfs`,
-	MIN(333mbfs) `333mbfs`
-FROM
-	wca_stats.all_events_rank
-GROUP BY
-	countryId
-ORDER BY 
-	countryId ASC
-	;
-
-DROP TABLE IF EXISTS continent_crs;
-CREATE TABLE continent_crs
-(id INT NOT NULL AUTO_INCREMENT,
-PRIMARY KEY(continentId),
-KEY(id))
-SELECT
-	continentId,
-	MIN(333s) `333s`,
-	MIN(333a) `333a`,
-	MIN(222s) `222s`,
-	MIN(222a) `222a`,
-	MIN(444s) `444s`,
-	MIN(444a) `444a`,
-	MIN(555s) `555s`,
-	MIN(555a) `555a`,
-	MIN(666s) `666s`,
-	MIN(666a) `666a`,
-	MIN(777s) `777s`,
-	MIN(777a) `777a`,
-	MIN(333bfs) `333bfs`,
-	MIN(333bfa) `333bfa`,
-	MIN(333fms) `333fms`,
-	MIN(333fma) `333fma`,
-	MIN(333ohs) `333ohs`,
-	MIN(333oha) `333oha`,
-	MIN(333fts) `333fts`,
-	MIN(333fta) `333fta`,
-	MIN(clocks) `clocks`,
-	MIN(clocka) `clocka`,
-	MIN(minxs) `minxs`,
-	MIN(minxa) `minxa`,
-	MIN(pyrams) `pyrams`,
-	MIN(pyrama) `pyrama`,
-	MIN(skewbs) `skewbs`,
-	MIN(skewba) `skewba`,
-	MIN(sq1s) `sq1s`,
-	MIN(sq1a) `sq1a`,
-	MIN(444bfs) `444bfs`,
-	MIN(555bfs) `555bfs`,
-	MIN(333mbfs) `333mbfs`
-FROM
-	wca_stats.country_nrs
-GROUP BY
-	continentId
-ORDER BY 
-	continentId ASC
-	;
+# 1 sec each
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'relays';

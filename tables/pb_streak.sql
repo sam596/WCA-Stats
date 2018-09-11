@@ -14,6 +14,8 @@ SELECT a.*,
 FROM (SELECT * FROM competition_PBs ORDER BY id ASC) a
 GROUP BY a.personId, a.competitionId ORDER BY a.id ASC;
 
+# ~ 25 secs
+
 SET @val = 0, @pid = NULL, @scomp = NULL, @ecomp = NULL;
 DROP TABLE IF EXISTS pb_streak_exfmc;
 CREATE TABLE pb_streak_exfmc
@@ -28,6 +30,8 @@ SELECT a.*,
 FROM (SELECT * FROM competition_PBs_exFMC ORDER BY id ASC) a
 GROUP BY a.personId, a.competitionId ORDER BY a.id ASC;
 
+# ~ 25 secs
+
 SET @val = 0, @pid = NULL, @scomp = NULL, @ecomp = NULL;
 DROP TABLE IF EXISTS pb_streak_exfmcbld;
 CREATE TABLE pb_streak_exfmcbld
@@ -41,5 +45,7 @@ SELECT a.*,
         @pid := personId pidhelp
 FROM (SELECT * FROM competition_PBs_exFMCBLD ORDER BY id ASC) a
 GROUP BY a.personId, a.competitionId ORDER BY a.id ASC;
+
+# ~ 25 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'pb_streak';

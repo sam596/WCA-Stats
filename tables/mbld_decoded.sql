@@ -27,4 +27,6 @@ WHERE
     AND
     value > 0;
     
+# 2 secs
+
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'mbld_decoded';

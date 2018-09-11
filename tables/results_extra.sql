@@ -9,26 +9,29 @@ LEFT JOIN (SELECT id, name FROM wca_dev.users WHERE id IN (SELECT delegate_id FR
 LEFT JOIN wca_dev.Countries e ON a.countryId = e.id
 WHERE year>0 GROUP BY a.id ORDER BY start_date;
 
-INSERT INTO wca_stats.last_updated VALUES ('result_dates', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+# ~ 15 seconds
 
-DROP TABLE IF EXISTS result_dates;
-CREATE TABLE result_dates 
+INSERT INTO wca_stats.last_updated VALUES ('results_extra', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+
+DROP TABLE IF EXISTS results_extra;
+CREATE TABLE results_extra 
 (id INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(id), 
-KEY result_dates_person (personId),
-KEY result_dates_comp (competitionId),
-KEY result_dates_event (eventId),
-KEY result_dates_round (roundTypeId),
-KEY result_dates_peventavg (personId,eventId,average),
-KEY result_dates_peventsgl (personId,eventId,best),
-KEY result_dates_avgall (personId,competitionId,eventId,roundTypeId,average),
-KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
+KEY results_extra_person (personId),
+KEY results_extra_comp (competitionId),
+KEY results_extra_event (eventId),
+KEY results_extra_round (roundTypeId),
+KEY results_extra_peventavg (personId,eventId,average),
+KEY results_extra_peventsgl (personId,eventId,best),
+KEY results_extra_avgall (personId,competitionId,eventId,roundTypeId,average),
+KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   SELECT 
   	r.personId, 
   	r.personName, 
-  	r.countryId, 
+  	r.countryId personCountryId, 
   	c.continentId, 
   	r.competitionId, 
+    comps.countryId compCountryId,
   	r.eventId, 
   	r.roundTypeId, 
   	r.formatId, 
@@ -43,7 +46,7 @@ KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.value4,
   	r.value5,
   	@date := DATE(CONCAT(year, '-', month, '-', day)) date,
- 	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend
+ 	  @weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend
   FROM 
   	wca_dev.results r
   JOIN 
@@ -62,7 +65,9 @@ KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
 	pos ASC
 ;
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'result_dates';
+# ~ 10 mins
+
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'results_extra';
 
 INSERT INTO wca_stats.last_updated VALUES ('podiums', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
@@ -70,20 +75,24 @@ DROP TABLE IF EXISTS podiums;
 CREATE TABLE podiums 
 (id INT NOT NULL AUTO_INCREMENT, 
 PRIMARY KEY(id), 
-KEY result_dates_person (personId),
-KEY result_dates_comp (competitionId),
-KEY result_dates_event (eventId),
-KEY result_dates_round (roundTypeId),
-KEY result_dates_eventavg (eventId,average),
-KEY result_dates_eventsgl (eventId,best),
-KEY result_dates_avgall (personId,competitionId,eventId,roundTypeId,average),
-KEY result_dates_sglall (personId,competitionId,eventId,roundTypeId,best))
-SELECT * FROM result_dates WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
+KEY results_extra_person (personId),
+KEY results_extra_comp (competitionId),
+KEY results_extra_event (eventId),
+KEY results_extra_round (roundTypeId),
+KEY results_extra_eventavg (eventId,average),
+KEY results_extra_eventsgl (eventId,best),
+KEY results_extra_avgall (personId,competitionId,eventId,roundTypeId,average),
+KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
+SELECT * FROM results_extra WHERE roundTypeId IN ('c','f') AND pos <= 3 AND best > 0;
+
+# 20 secs
 
 DROP TABLE IF EXISTS wca_stats.podium_sums;
 CREATE TABLE wca_stats.podium_sums
 SELECT competitionId, eventId, SUM(result), GROUP_CONCAT(personId ORDER BY pos) personIds, GROUP_CONCAT(result ORDER BY pos) results
 FROM (SELECT competitionId, eventId, pos, personId, personname, (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result
 FROM podiums WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a GROUP BY competitionId, eventId HAVING COUNT(*) = 3;
+
+# <5 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'podiums';

@@ -11,23 +11,26 @@ KEY asr_round2 (roundTypeId),
 KEY asr_eventval (eventId,value))
   SELECT * FROM
   (
-    SELECT competitionId, date, eventId, roundTypeId, 1 solve, pos, personId, personName, countryId, continentId, value1 value FROM result_dates WHERE value1 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 1 solve, pos, personId, personName, personCountryId, continentId, value1 value FROM results_extra WHERE value1 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 2 solve, pos, personId, personName, countryId, continentId, value2 value FROM result_dates WHERE value2 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 2 solve, pos, personId, personName, personCountryId, continentId, value2 value FROM results_extra WHERE value2 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 3 solve, pos, personId, personName, countryId, continentId, value3 value FROM result_dates WHERE value3 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 3 solve, pos, personId, personName, personCountryId, continentId, value3 value FROM results_extra WHERE value3 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 4 solve, pos, personId, personName, countryId, continentId, value4 value FROM result_dates WHERE value4 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 4 solve, pos, personId, personName, personCountryId, continentId, value4 value FROM results_extra WHERE value4 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, date, eventId, roundTypeId, 5 solve, pos, personId, personName, countryId, continentId, value5 value FROM result_dates WHERE value5 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 5 solve, pos, personId, personName, personCountryId, continentId, value5 value FROM results_extra WHERE value5 NOT IN (0,-2)
   ) a
+  JOIN wca_dev.events e ON a.eventId = e.id
   ORDER BY 
-    date ASC, 
-    competitionId ASC,
-    eventId ASC, 
-    FIELD(roundTypeId,"h","0","d","1","b","2","e","g","3","c","f") ASC, 
-    solve ASC,
-    pos ASC
+    date, 
+    competitionId,
+    eventId, 
+    e.rank, 
+    solve,
+    pos
 ;
+
+# ~ 26 mins
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_attempts';
