@@ -23,6 +23,8 @@ FROM (SELECT a.competitionId, a.eventId, a.pos, a.best, a.average, a.personId, a
         AND (b.championship_type = c.iso2 OR b.championship_type = c.continentId OR b.championship_type = 'world' OR (b.championship_type = 'greater_china' AND c.iso2 IN ('CN','HK','MO','TW')))
     ORDER BY competitionId, championship_type, eventId, pos ASC) a;
 
+# ~ 15 secs
+
 DROP TABLE IF EXISTS wca_stats.championship_podiums;
 CREATE TABLE wca_stats.championship_podiums
 (id INT NOT NULL AUTO_INCREMENT,
@@ -32,7 +34,9 @@ CREATE TABLE wca_stats.championship_podiums
     SELECT personId, personName, countryId, championship_type, competitionId, eventId, cPos, pos, (CASE WHEN average > 0 AND formatId IN ('a','m') THEN average ELSE best END) 'result', formatId
     FROM wca_stats.ChampPodiumHelp WHERE cPos <= 3
    	ORDER BY championship_type, competitionId, eventId, cPos;
-    
+ 
+# < 1 sec
+
 DROP TABLE wca_stats.ChampPodiumHelp;    
     
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'championship_podiums';

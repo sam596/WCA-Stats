@@ -13,13 +13,9 @@ OR
 (eventId IN ('333bf','333fm')))
 ORDER BY countryId, eventId, format, succeeded DESC, result;
 
-# ~2m
+# ~ 2 mins 30 secs
 
-SET @Nkinch = 100;
-SET @eId = NULL;
-SET @format = NULL;
-SET @cunId = NULL;
-SET @NR = 0;
+SET @Nkinch = 100, @eId = NULL, @format = NULL, @cunId = NULL, @NR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_country_event;
 CREATE TABLE wca_stats.kinch_country_event
 SELECT personId, name, continentId, countryId, eventId, result, format, MAX(countryKinch) countryKinch
@@ -40,13 +36,9 @@ FROM
   FROM (SELECT * FROM wca_stats.kinchhelpcountry ORDER BY id ASC) a ORDER BY countryKinch DESC) kinch
 GROUP BY personId, eventId;
 
-# ~2m
+# ~ 2 mins 45 secs
 
-SET @curr=NULL;
-SET @rank=1;
-SET @cunId=NULL;
-SET @prev=NULL;
-SET @n=1;
+SET @curr=NULL, @rank=1, @cunId=NULL, @prev=NULL, @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_country;
 CREATE TABLE wca_stats.kinch_country
 (PRIMARY KEY (personId))
@@ -82,7 +74,7 @@ FROM
     ORDER BY countryId, countryKinch DESC) a;
 ALTER TABLE wca_stats.kinch_country DROP curr, DROP cunId, DROP prev, DROP counter;
 
-# ~1m15
+# ~ 1 min 50 secs
 
 DROP TABLE IF EXISTS wca_stats.kinchhelpcontinent;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
@@ -97,13 +89,9 @@ OR
 (eventId IN ('333bf','333fm')))
 ORDER BY continentId, eventId, format, succeeded DESC, result;
 
-# ~2m
+# ~ 2 mins 20 secs
 
-SET @Ckinch = 100;
-SET @eId = NULL;
-SET @format = NULL;
-SET @conId = NULL;
-SET @CR = 0;
+SET @Ckinch = 100, @eId = NULL, @format = NULL, @conId = NULL, @CR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_continent_event;
 CREATE TABLE wca_stats.kinch_continent_event
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY continentkinch (continentId, continentKinch))
@@ -125,13 +113,9 @@ FROM
   FROM (SELECT * FROM wca_stats.kinchhelpcontinent ORDER BY id ASC) a ORDER BY continentKinch DESC) kinch
 GROUP BY personId, eventId;
 
-# 2m20
+# 3 mins 20 secs
 
-SET @curr=NULL;
-SET @rank=1;
-SET @conId=NULL;
-SET @prev=NULL;
-SET @n=1;
+SET @curr=NULL, @rank=1, @conId=NULL, @prev=NULL, @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_continent;
 CREATE TABLE wca_stats.kinch_continent
 (PRIMARY KEY (personId))
@@ -167,7 +151,7 @@ FROM
     ORDER BY continentId, continentKinch DESC) a;
 ALTER TABLE wca_stats.kinch_continent DROP curr, DROP conId, DROP prev, DROP counter;
 
-# ~20s
+# ~ 25 secs
 
 DROP TABLE IF EXISTS wca_stats.kinchhelpworld;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpworld
@@ -182,12 +166,9 @@ OR
 (eventId IN ('333bf','333fm')))
 ORDER BY eventId, format, succeeded DESC, result;
 
-# ~25s
+# ~ 25 secs
 
-SET @Wkinch = 100;
-SET @eId = NULL;
-SET @format = NULL;
-SET @WR = 0;
+SET @Wkinch = 100, @eId = NULL, @format = NULL, @WR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_world_event;
 CREATE TABLE wca_stats.kinch_world_event
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY event (eventId), KEY person (personId), KEY worldkinch (worldKinch))
@@ -208,12 +189,9 @@ FROM
   FROM (SELECT * FROM wca_stats.kinchhelpworld ORDER BY id ASC) a ORDER BY worldKinch DESC) kinch
 GROUP BY personId, eventId;
 
-# ~2m
+# ~ 3 mins 
 
-SET @curr=NULL;
-SET @rank=1;
-SET @prev=NULL;
-SET @n=1;
+SET @curr=NULL, @rank=1, @prev=NULL, @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_world;
 CREATE TABLE wca_stats.kinch_world
 (PRIMARY KEY (personId))
@@ -248,7 +226,7 @@ FROM
     ORDER BY worldKinch DESC) a;
 ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
 
-# ~20s
+# ~ 25 secs
 
 DROP TABLE IF EXISTS kinch;
 CREATE TABLE kinch 
@@ -260,6 +238,6 @@ JOIN kinch_continent con
 JOIN kinch_country cun 
   ON w.personId = cun.personId;
 
-# < 10s
+# <10 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'kinch';

@@ -115,7 +115,7 @@ CREATE TABLE persons_extra
         COUNT(CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END) `multipleCountryComps`,
         COUNT(DISTINCT (CASE WHEN b.countryId LIKE 'X_' THEN b.countryId END)) `distinctMultipleCountryComps`,
         COUNT(DISTINCT countr.continentId) `continents`
-      FROM result_dates a
+      FROM results_extra a
       JOIN wca_dev.competitions b
       ON a.competitionId = b.id
       JOIN wca_dev.countries countr
@@ -195,7 +195,7 @@ CREATE TABLE persons_extra
         (SELECT 
           competitionId 
         FROM 
-          wca_stats.result_dates 
+          wca_stats.results_extra 
         WHERE 
           personId = a.personId 
           AND 
@@ -205,7 +205,7 @@ CREATE TABLE persons_extra
         (SELECT 
           competitionId 
         FROM 
-          wca_stats.result_dates 
+          wca_stats.results_extra 
         WHERE 
           personId = a.personId 
           AND 
@@ -213,7 +213,7 @@ CREATE TABLE persons_extra
         ORDER BY competitionId 
         LIMIT 1) firstComp 
       FROM 
-        wca_stats.result_dates a 
+        wca_stats.results_extra a 
       GROUP BY personId) p
     ON a.id = p.personId
     LEFT JOIN (SELECT * FROM wca_dev.persons WHERE subid = 2) q
@@ -221,5 +221,7 @@ CREATE TABLE persons_extra
     LEFT JOIN wca_dev.countries r
     ON q.countryId = r.id
     ;
+
+# ~ 7 mins 15 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'persons_extra';

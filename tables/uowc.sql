@@ -13,13 +13,13 @@ SELECT
   formatId,
   GROUP_CONCAT(CASE WHEN pos <> 1 THEN personId END) others
 FROM
-  wca_stats.result_dates
+  wca_stats.results_extra
 GROUP BY
   competitionId, eventId, roundTypeId
 ORDER BY 
   eventId, MIN(id);
 
-#1m 10s
+# 1 min 20 secs
 
 SET @uowc = NULL, @uowcd = '1970-01-01', @e = NULL;
 DROP TABLE IF EXISTS uowc_history;
@@ -49,7 +49,7 @@ FROM
   FROM
     (SELECT * FROM uowc_help ORDER BY eventId, id) a) b;
 
-#7 sec
+# ~ 10 sec
 
 DROP TABLE uowc_help;
 
@@ -75,6 +75,6 @@ FROM
 WHERE b.chang = 1
 ORDER BY b.eventId, b.id;
 
-#1 sec
+# <10 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'uowc';

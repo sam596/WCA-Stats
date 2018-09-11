@@ -62,4 +62,6 @@ LEFT JOIN
 	ON r.deleted_by = du.id
 GROUP BY r.id;
 
+# ~ 25 secs
+
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'registrations_extra';
