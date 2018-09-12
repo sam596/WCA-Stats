@@ -19,7 +19,8 @@ SELECT
     MID(value,4,4) seconds,
     CONVERT(RIGHT(value,2),unsigned) missed,
     99-LEFT(value,2)+(2*RIGHT(value,2)) attempted,
-    99-LEFT(value,2)+RIGHT(value,2) solved
+    99-LEFT(value,2)+RIGHT(value,2) solved,
+    CONCAT(99-LEFT(value,2)+RIGHT(value,2),"/",99-LEFT(value,2)+(2*RIGHT(value,2))) result
 FROM
     all_attempts
 WHERE
