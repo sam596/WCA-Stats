@@ -1296,7 +1296,47 @@ do
 	echo -e "\\r${CHECK_MARK} Worst Single with Sub ${i} Average (${finish}ms)"
 done
 
+#medianrankings
 
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Median Rankings"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, Median
+	FROM	
+		(SELECT
+				@i := IF(CAST(@v AS CHAR) = CAST(Median AS CHAR), @i, @i + @c) initrank,
+				@c := IF(CAST(@v AS CHAR) = CAST(Median AS CHAR), @c + 1, 1) counter,
+				@r := IF(CAST(@v AS CHAR) = CAST(Median AS CHAR), '=', @i) Rank,
+				@v := CAST(Median AS CHAR) val,
+				a.*	
+			FROM
+				(SELECT CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, 
+       				p.countryId Country, 
+        			IF(eventId = '333fm',ROUND(a.median,1),IF(eventId = '333mbf',CONCAT(99-LEFT(a.median,2)+RIGHT(a.median,2),' points'),CENTISECONDTOTIME(a.median))) Median
+				FROM median a
+				JOIN persons_extra p
+				  ON a.personId = p.id
+				WHERE eventId = '${i}'
+				ORDER BY a.median LIMIT 1000) a
+			) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/median.md ~/pages/WCA-Stats/median/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/median/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/median/"$i".md.tmp > ~/pages/WCA-Stats/median/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/median/"$i".md.tmp2 > ~/pages/WCA-Stats/median/"$i".md && \
+	rm ~/pages/WCA-Stats/median/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Median Rankings (${finish}ms)"
+done
 
 rm ~/mysqloutput/*
 
