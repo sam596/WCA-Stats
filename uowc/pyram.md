@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
+*Last updated using WCA Developer Export from Wed Sep 12 at 0804UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,9 +8,9 @@
 
 |Name|Country|Date Set|Started At|Ended At|Days Held|  
 |--|--|--|--|--|--|  
-|[Andy Bellenir](https://www.worldcubeassociation.org/persons/2003BELL01)|USA|2003-08-23|[WC2003 - Final](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|1 year after [WC2003 - Final](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|366|  
+|[Andy Bellenir](https://www.worldcubeassociation.org/persons/2003BELL01)|USA|2003-08-23|[WC2003 - Final](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|1 year passed|365|  
 |[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|Sweden|2005-03-27|[Svekub2005 - Final](https://www.worldcubeassociation.org/competitions/Svekub2005/results/all#epyram_f)|[Svekub2006 - Final](https://www.worldcubeassociation.org/competitions/Svekub2006/results/all#epyram_f)|357|  
-|[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|Finland|2006-03-18|[Svekub2006 - Final](https://www.worldcubeassociation.org/competitions/Svekub2006/results/all#epyram_f)|1 year after [Svekub2006 - Final](https://www.worldcubeassociation.org/competitions/Svekub2006/results/all#epyram_f)|365|  
+|[Anssi Vanhala](https://www.worldcubeassociation.org/persons/2005VANH01)|Finland|2006-03-18|[Svekub2006 - Final](https://www.worldcubeassociation.org/competitions/Svekub2006/results/all#epyram_f)|1 year passed|365|  
 |[Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01)|Japan|2007-03-31|[Osaka2007 - Final](https://www.worldcubeassociation.org/competitions/Osaka2007/results/all#epyram_f)|[WC2011 - First round](https://www.worldcubeassociation.org/competitions/WC2011/results/all#epyram_1)|1660|  
 |[Brúnó Bereczki](https://www.worldcubeassociation.org/persons/2008BERE01)|Hungary|2011-10-14|[WC2011 - First round](https://www.worldcubeassociation.org/competitions/WC2011/results/all#epyram_1)|[WC2011 - Final](https://www.worldcubeassociation.org/competitions/WC2011/results/all#epyram_f)|0|  
 |[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|2011-10-14|[WC2011 - Final](https://www.worldcubeassociation.org/competitions/WC2011/results/all#epyram_f)|[NaonedOpen2011 - Final](https://www.worldcubeassociation.org/competitions/NaonedOpen2011/results/all#epyram_f)|14|  
@@ -18,7 +18,7 @@
 |[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|2012-02-18|[BreizhOpen2012 - Second round](https://www.worldcubeassociation.org/competitions/BreizhOpen2012/results/all#epyram_2)|[BreizhOpen2012 - Final](https://www.worldcubeassociation.org/competitions/BreizhOpen2012/results/all#epyram_f)|0|  
 |[Valentin Doussin](https://www.worldcubeassociation.org/persons/2009DOUS03)|France|2012-02-18|[BreizhOpen2012 - Final](https://www.worldcubeassociation.org/competitions/BreizhOpen2012/results/all#epyram_f)|[LaMontagneOpen2012 - First round](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012/results/all#epyram_1)|133|  
 |[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|2012-06-30|[LaMontagneOpen2012 - First round](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012/results/all#epyram_1)|[LaMontagneOpen2012 - Final](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012/results/all#epyram_f)|0|  
-|[Valentin Doussin](https://www.worldcubeassociation.org/persons/2009DOUS03)|France|2012-06-30|[LaMontagneOpen2012 - Final](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012/results/all#epyram_f)|1 year after [NaonedOpen2012 - Final](https://www.worldcubeassociation.org/competitions/NaonedOpen2012/results/all#epyram_f)|484|  
+|[Valentin Doussin](https://www.worldcubeassociation.org/persons/2009DOUS03)|France|2012-06-30|[LaMontagneOpen2012 - Final](https://www.worldcubeassociation.org/competitions/LaMontagneOpen2012/results/all#epyram_f)|1 year passed|365|  
 |[Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02)|Denmark|2013-11-02|[HasseltOpen2013 - First round](https://www.worldcubeassociation.org/competitions/HasseltOpen2013/results/all#epyram_1)|[Euro2014 - First round](https://www.worldcubeassociation.org/competitions/Euro2014/results/all#epyram_1)|280|  
 |[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|2014-08-08|[Euro2014 - First round](https://www.worldcubeassociation.org/competitions/Euro2014/results/all#epyram_1)|[WC2015 - First round](https://www.worldcubeassociation.org/competitions/WC2015/results/all#epyram_1)|343|  
 |[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|2015-07-17|[WC2015 - First round](https://www.worldcubeassociation.org/competitions/WC2015/results/all#epyram_1)|[WC2015 - Second round](https://www.worldcubeassociation.org/competitions/WC2015/results/all#epyram_2)|0|  
@@ -39,4 +39,4 @@
 |[Benjamin Kyle](https://www.worldcubeassociation.org/persons/2016KYLE01)|Canada|2018-07-27|[CubingUSANationals2018 - First round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_1)|[CubingUSANationals2018 - Second round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_2)|0|  
 |[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-07-27|[CubingUSANationals2018 - Second round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_2)|[CubingUSANationals2018 - Semi Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_3)|0|  
 |[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|2018-07-27|[CubingUSANationals2018 - Semi Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_3)|[CubingUSANationals2018 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_f)|0|  
-|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-07-27|[CubingUSANationals2018 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_f)|Ongoing|43|  
+|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-07-27|[CubingUSANationals2018 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_f)|Ongoing|46|  

@@ -1,6 +1,6 @@
 ## Median Rankings
 
-*Last updated using WCA Developer Export from Sun Sep 09 at 0704UTC*
+*Last updated using WCA Developer Export from Wed Sep 12 at 0804UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -387,7 +387,7 @@
 |=|[Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02)|Mexico|5.41|  
 |378|[Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01)|United Kingdom|5.42|  
 |=|[Marcos Saborido Rey](https://www.worldcubeassociation.org/persons/2016REYM01)|Spain|5.42|  
-|=|[Markus Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET02)|Latvia|5.42|  
+|=|[Markuss Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET02)|Latvia|5.42|  
 |=|[Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01)|Poland|5.42|  
 |382|[Gustavo Arguello](https://www.worldcubeassociation.org/persons/2011ARGU01)|Colombia|5.43|  
 |=|[Hang Zhou (周航)](https://www.worldcubeassociation.org/persons/2016ZHOU40)|China|5.43|  
