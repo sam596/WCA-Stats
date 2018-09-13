@@ -62,5 +62,14 @@ curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/competitions_extra.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra`, `persons_extra` and `competitions_extra` have been updated! :tada:"}' $discordwh
   
+  mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'" 
+  
+  ~/WCA-Stats/bin/ghpagesupd.sh
+
+  cd ~/pages/WCA-Stats/
+  
+  commit=$(git log --format="%H" -n 1)
+
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "http://sam596.github.io Updated with latest stats. \n View the changes here: https://github.com/sam596/WCA-Stats/commit/'"$commit"'. \n \n Force Update of `wca_dev` and `wca_stats` complete!' $discordwh
+
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Force-updated; developer database imported, wca_stats updated' WHERE query = 'wcadevstsupd.sh'" 
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Force Update of `wca_dev` and `wca_stats` complete!"}' $discordwh
