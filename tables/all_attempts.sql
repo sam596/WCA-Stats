@@ -21,12 +21,11 @@ KEY asr_eventval (eventId,value))
     UNION ALL
     SELECT competitionId, compCountryId, date, weekend, eventId, roundTypeId, 5 solve, pos, personId, personName, personCountryId, continentId, value5 value FROM results_extra WHERE value5 NOT IN (0,-2)
   ) a
-  JOIN wca_dev.events e ON a.eventId = e.id
   ORDER BY 
     date, 
     competitionId,
     eventId, 
-    e.rank, 
+    (SELECT rank FROM wca_dev.roundtypes b WHERE id = a.roundTypeId), 
     solve,
     pos
 ;
