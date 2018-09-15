@@ -100,7 +100,7 @@ SELECT
 	IF(DATEDIFF(a.start_date,CURDATE()) >0, 1, 0) upcoming,
 	a.competitor_limit competitorLimit,
 	g.competitors,
-	h.firstTimers,
+	IFNULL(h.firstTimers,IF(DATEDIFF(a.start_date,CURDATE()) < 0,0,NULL)) firstTimers,
 	g.events,
 	c.delegates,
 	c.delegateList,
