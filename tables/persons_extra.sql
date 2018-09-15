@@ -15,6 +15,8 @@ CREATE TABLE persons_extra
       q.countryId previousCountryId,
       r.continentId previousContinentId,
       c.competitions, 
+      c.homeCountryComps, 
+      c.foreignCountryComps, 
       c.countries, 
       c.continents, 
       c.eventsAttempted, 
@@ -97,6 +99,8 @@ CREATE TABLE persons_extra
     LEFT JOIN 
       (SELECT personId, 
         COUNT(DISTINCT competitionId) `competitions`, 
+        COUNT(DISTINCT (CASE WHEN personCountryId = compCountryId THEN competitionId END)) `homeCountryComps`, 
+        COUNT(DISTINCT (CASE WHEN personCountryId != compCountryId AND compCountryId NOT LIKE 'X_' THEN competitionId END)) `foreignCountryComps`, 
         COUNT(DISTINCT (CASE WHEN eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAttempted`, 
         COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsSucceeded`,
         COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAverage`,
