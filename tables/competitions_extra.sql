@@ -79,7 +79,7 @@ SELECT competitionId,
 CREATE TEMPORARY TABLE compperson
 SELECT firstComp, COUNT(*) firstTimers FROM wca_stats.persons_extra GROUP BY firstComp;
 
-DROP TABLE IF EXISTS wca_stats.competitions_extra
+DROP TABLE IF EXISTS wca_stats.competitions_extra;
 CREATE TABLE wca_stats.competitions_extra
 (PRIMARY KEY(id))
 SELECT
