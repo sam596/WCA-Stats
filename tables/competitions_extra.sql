@@ -25,7 +25,7 @@ CREATE TEMPORARY TABLE compresults
 SELECT competitionId, 
 		COUNT(DISTINCT personId) competitors, 
 		SUM((CASE WHEN regionalSingleRecord = 'WR' THEN 1 ELSE 0 END)+(CASE WHEN regionalAverageRecord = 'WR' THEN 1 ELSE 0 END)) WRs,
-		SUM((CASE WHEN regionalSingleRecord IN (SELECT recordName FROM wca_dev.continents WHERE id NOT LIKE '_Multiple%') THEN 1 ELSE 0 END)+(CASE WHEN regionalAverageRecord IN (SELECT recordName FROM wca_dev.continents WHERE id NOT LIKE '_Multiple%') THEN 1 ELSE 0 END)) CRs,
+		SUM((CASE WHEN regionalSingleRecord NOT IN ('','NR','WR') THEN 1 ELSE 0 END)+(CASE WHEN regionalAverageRecord NOT IN ('','NR','WR') THEN 1 ELSE 0 END)) CRs,
 		SUM((CASE WHEN regionalSingleRecord = 'NR' THEN 1 ELSE 0 END)+(CASE WHEN regionalAverageRecord = 'NR' THEN 1 ELSE 0 END)) NRs,
 		COUNT(DISTINCT eventId) events,
 		COUNT(DISTINCT (CASE WHEN eventId = '333' THEN roundTypeId END)) 333Rounds,
@@ -43,6 +43,7 @@ SELECT competitionId,
 		COUNT(DISTINCT (CASE WHEN eventId = '333bf' THEN roundTypeId END)) 333bfRounds,
 		COUNT(DISTINCT (CASE WHEN eventId = '333bf' THEN personId END)) 333bfCompetitors,
 		COUNT(DISTINCT (CASE WHEN eventId = '333fm' THEN roundTypeId END)) 333fmRounds,
+		COUNT(DISTINCT (CASE WHEN eventId = '333fm' AND value1 != 0 THEN roundTypeId END))+COUNT(DISTINCT (CASE WHEN eventId = '333fm' AND value2 != 0 THEN roundTypeId END))+COUNT(DISTINCT (CASE WHEN eventId = '333fm' AND value3 != 0 THEN roundTypeId END)) 333fmAttempts,
 		COUNT(DISTINCT (CASE WHEN eventId = '333fm' THEN personId END)) 333fmCompetitors,
 		COUNT(DISTINCT (CASE WHEN eventId = '333ft' THEN roundTypeId END)) 333ftRounds,
 		COUNT(DISTINCT (CASE WHEN eventId = '333ft' THEN personId END)) 333ftCompetitors,
@@ -63,6 +64,7 @@ SELECT competitionId,
 		COUNT(DISTINCT (CASE WHEN eventId = '555bf' THEN roundTypeId END)) 555bfRounds,
 		COUNT(DISTINCT (CASE WHEN eventId = '555bf' THEN personId END)) 555bfCompetitors,
 		COUNT(DISTINCT (CASE WHEN eventId = '333mbf' THEN roundTypeId END)) 333mbfRounds,
+		COUNT(DISTINCT (CASE WHEN eventId = '333mbf' AND value1 != 0 THEN roundTypeId END))+COUNT(DISTINCT (CASE WHEN eventId = '333mbf' AND value2 != 0 THEN roundTypeId END))+COUNT(DISTINCT (CASE WHEN eventId = '333mbf' AND value3 != 0 THEN roundTypeId END)) 333mbfAttempts,
 		COUNT(DISTINCT (CASE WHEN eventId = '333mbf' THEN personId END)) 333mbfCompetitors,
 		COUNT(DISTINCT (CASE WHEN eventId = 'magic' THEN roundTypeId END)) magicRounds,
 		COUNT(DISTINCT (CASE WHEN eventId = 'magic' THEN personId END)) magicCompetitors,
@@ -77,7 +79,7 @@ SELECT competitionId,
 CREATE TEMPORARY TABLE compperson
 SELECT firstComp, COUNT(*) firstTimers FROM wca_stats.persons_extra GROUP BY firstComp;
 
-DROP TABLE IF EXISTS wca_stats.competitions_extra
+DROP TABLE IF EXISTS wca_stats.competitions_extra;
 CREATE TABLE wca_stats.competitions_extra
 (PRIMARY KEY(id))
 SELECT
@@ -95,9 +97,10 @@ SELECT
 	e.timezone_id timeZoneId,
 	a.announced_at announcedAt,
 	a.results_posted_at resultsPostedAt,
+	IF(DATEDIFF(a.start_date,CURDATE()) >0, 1, 0) upcoming,
 	a.competitor_limit competitorLimit,
 	g.competitors,
-	h.firstTimers,
+	IFNULL(h.firstTimers,IF(DATEDIFF(a.start_date,CURDATE()) < 0,0,NULL)) firstTimers,
 	g.events,
 	c.delegates,
 	c.delegateList,
@@ -123,6 +126,7 @@ SELECT
 	g.333bfRounds,
 	g.333fmCompetitors,
 	g.333fmRounds,
+	g.333fmAttempts,
 	g.333ftCompetitors,
 	g.333ftRounds,
 	g.333ohCompetitors,
@@ -143,6 +147,7 @@ SELECT
 	g.555bfRounds,
 	g.333mbfCompetitors,
 	g.333mbfRounds,
+	g.333mbfAttempts,
 	g.magicCompetitors,
 	g.magicRounds,
 	g.mmagicCompetitors,
