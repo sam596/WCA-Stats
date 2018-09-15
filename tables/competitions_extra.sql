@@ -97,7 +97,7 @@ SELECT
 	e.timezone_id timeZoneId,
 	a.announced_at announcedAt,
 	a.results_posted_at resultsPostedAt,
-	IF(DATEDIFF(a.start_date,CURRENT_DATE) >0, 1, 0) upcoming,
+	IF(DATEDIFF(a.start_date,CURDATE()) >0, 1, 0) upcoming,
 	a.competitor_limit competitorLimit,
 	g.competitors,
 	h.firstTimers,
