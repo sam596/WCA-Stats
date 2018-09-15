@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Wed Sep 12 at 0804UTC*
+*Last updated using WCA Developer Export from Sat Sep 15 at 0904UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -429,8 +429,8 @@
 |419|[Chengming Su (苏成明)](https://www.worldcubeassociation.org/persons/2013SUCH02)|China|**4:09.92**|8.05|3:29.43|21.88|10.56|  
 |420|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|Switzerland|**4:10.09**|7.90|1:24.26|2:20.79|17.14|  
 |421|[M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02)|India|**4:10.30**|13.31|1:07.42|2:29.99|19.58|  
-|422|[Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01)|China|**4:10.77**|11.52|2:42.52|56.83|19.90|  
-|423|[Shubhayan Kabir](https://www.worldcubeassociation.org/persons/2012KABI01)|India|**4:10.90**|10.42|1:49.67|1:55.33|15.48|  
+|422|[Shubhayan Kabir](https://www.worldcubeassociation.org/persons/2012KABI01)|India|**4:10.76**|10.42|1:49.67|1:55.33|15.34|  
+|423|[Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01)|China|**4:10.77**|11.52|2:42.52|56.83|19.90|  
 |424|[Viktor Danilov](https://www.worldcubeassociation.org/persons/2012DANI01)|Belarus|**4:11.07**|10.00|2:38.11|1:01.91|21.05|  
 |425|[Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01)|Korea|**4:11.15**|11.03|3:04.81|39.09|16.22|  
 |426|[Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02)|Argentina|**4:11.24**|5.85|2:51.62|1:03.87|9.90|  

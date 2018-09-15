@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Sep 12 at 0804UTC*
+*Last updated using WCA Developer Export from Sat Sep 15 at 0904UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -97,12 +97,11 @@
 |87|[Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02)|USA|10.04|11.33|  
 |=|[Michael DeLaRosa](https://www.worldcubeassociation.org/persons/2013DELA01)|USA|10.04|11.33|  
 |89|[Atalía Wachtendorff](https://www.worldcubeassociation.org/persons/2017WACH01)|Chile|10.04|11.34|  
-|=|[Aaditya Shreeniwas Pant](https://www.worldcubeassociation.org/persons/2016PANT03)|India|10.06|11.34|  
 |=|[Vincent Bruns](https://www.worldcubeassociation.org/persons/2012BRUN01)|Germany|10.23|11.34|  
 |=|[Chloé Demuynck](https://www.worldcubeassociation.org/persons/2016DEMU01)|France|10.41|11.34|  
 |=|[Omar Alejandro Ornelas Sifuentes](https://www.worldcubeassociation.org/persons/2016SIFU02)|Mexico|10.55|11.34|  
-|94|[Carson Holder](https://www.worldcubeassociation.org/persons/2017HOLD02)|USA|10.63|11.35|  
-|95|[Abdur Rahman](https://www.worldcubeassociation.org/persons/2017RAHM04)|India|10.08|11.37|  
+|93|[Carson Holder](https://www.worldcubeassociation.org/persons/2017HOLD02)|USA|10.63|11.35|  
+|94|[Abdur Rahman](https://www.worldcubeassociation.org/persons/2017RAHM04)|India|10.08|11.37|  
 |=|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|10.20|11.37|  
 |=|[Zhenming Zhang (张振铭)](https://www.worldcubeassociation.org/persons/2017ZHAN44)|China|10.20|11.37|  
 |=|[Ivan Karasev](https://www.worldcubeassociation.org/persons/2017KARA03)|Russia|10.23|11.37|  
@@ -112,9 +111,9 @@
 |=|[Bryan Andres Campaña Sanchez](https://www.worldcubeassociation.org/persons/2017SANC27)|Ecuador|10.47|11.37|  
 |=|[Hà Ngọc Hải](https://www.worldcubeassociation.org/persons/2018HAIH01)|Vietnam|10.53|11.37|  
 |=|[Jenny Pang Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|10.82|11.37|  
-|105|[Ariunbold Bayanmonkh (Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|10.04|11.38|  
+|104|[Ariunbold Bayanmonkh (Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|10.04|11.38|  
 |=|[Liang Chen (陈亮)](https://www.worldcubeassociation.org/persons/2012CHEN43)|China|10.43|11.38|  
-|107|[Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06)|United Kingdom|10.11|11.39|  
+|106|[Harry Taylor](https://www.worldcubeassociation.org/persons/2014TAYL06)|United Kingdom|10.11|11.39|  
 |=|[Claudio Bentivoglio](https://www.worldcubeassociation.org/persons/2014BENT01)|Italy|10.25|11.39|  
 |=|[Wayne Wang](https://www.worldcubeassociation.org/persons/2014WANG18)|Canada|10.26|11.39|  
 |=|[Wangkang Zhu (朱旺康)](https://www.worldcubeassociation.org/persons/2016ZHUW02)|China|10.29|11.39|  
@@ -123,8 +122,9 @@
 |=|[Pua Yi](https://www.worldcubeassociation.org/persons/2018YIPU01)|Malaysia|10.56|11.39|  
 |=|[Yizhi Hu (胡一之)](https://www.worldcubeassociation.org/persons/2011HUYI03)|China|10.58|11.39|  
 |=|[Alexzandrae Emmerson Boter](https://www.worldcubeassociation.org/persons/2017BOTE01)|Philippines|10.71|11.39|  
-|116|[Rahm Bharara](https://www.worldcubeassociation.org/persons/2017BHAR16)|USA|10.37|11.40|  
+|115|[Rahm Bharara](https://www.worldcubeassociation.org/persons/2017BHAR16)|USA|10.37|11.40|  
 |=|[Peng Zhou (周鹏)](https://www.worldcubeassociation.org/persons/2013ZHOU23)|China|10.41|11.40|  
+|=|[Svetoslav Velchev](https://www.worldcubeassociation.org/persons/2018VELC01)|Bulgaria|10.44|11.40|  
 |=|[George Higgins](https://www.worldcubeassociation.org/persons/2015HIGG01)|USA|10.49|11.40|  
 |=|[Ian Krueger](https://www.worldcubeassociation.org/persons/2017KRUE01)|USA|10.54|11.40|  
 |=|[Jiacheng Cai (蔡嘉成)](https://www.worldcubeassociation.org/persons/2017CAIJ02)|China|10.80|11.40|  
