@@ -79,6 +79,9 @@ SELECT competitionId,
 CREATE TEMPORARY TABLE compperson
 SELECT firstComp, COUNT(*) firstTimers FROM wca_stats.persons_extra GROUP BY firstComp;
 
+CREATE TEMPORARY TABLE compevent
+SELECT competition_id, COUNT(DISTINCT event_id) events FROM wca_dev.competition_events GROUP BY competition_id;
+
 DROP TABLE IF EXISTS wca_stats.competitions_extra;
 CREATE TABLE wca_stats.competitions_extra
 (PRIMARY KEY(id))
@@ -101,7 +104,7 @@ SELECT
 	a.competitor_limit competitorLimit,
 	g.competitors,
 	IFNULL(h.firstTimers,IF(DATEDIFF(a.start_date,CURDATE()) < 0,0,NULL)) firstTimers,
-	g.events,
+	i.events,
 	c.delegates,
 	c.delegateList,
 	d.organisers,
@@ -154,24 +157,15 @@ SELECT
 	g.mmagicRounds,
 	g.333mboCompetitors,
 	g.333mboRounds
-FROM
-	wca_dev.competitions a
-LEFT JOIN
-	wca_dev.countries b ON a.countryId = b.id
-LEFT JOIN
-	compdele c ON a.id = c.competition_id
-LEFT JOIN
-	comporg d ON a.id = d.competition_id
-LEFT JOIN
-	wca_dev.competition_venues e ON a.id = e.competition_id
-LEFT JOIN
-	compchamp f ON a.id = f.competition_id
-LEFT JOIN
-	compresults g
-	ON a.id = g.competitionId
-LEFT JOIN
-	compperson h
-	ON a.id = h.firstComp
+FROM wca_dev.competitions a
+LEFT JOIN wca_dev.countries b ON a.countryId = b.id
+LEFT JOIN compdele c ON a.id = c.competition_id
+LEFT JOIN comporg d ON a.id = d.competition_id
+LEFT JOIN wca_dev.competition_venues e ON a.id = e.competition_id
+LEFT JOIN compchamp f ON a.id = f.competition_id
+LEFT JOIN compresults g ON a.id = g.competitionId
+LEFT JOIN compperson h ON a.id = h.firstComp
+LEFT JOIN compevent i ON i.competition_id = a.id
 GROUP BY a.id;
 
 # ~ 1 min
