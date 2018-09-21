@@ -1,6 +1,6 @@
 ## Median Rankings
 
-*Last updated using WCA Developer Export from Tue Sep 18 at 1005UTC*
+*Last updated using WCA Developer Export from Fri Sep 21 at 1104UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -570,7 +570,7 @@
 |=|[Jun Sasagawa (笹川純)](https://www.worldcubeassociation.org/persons/2014SASA01)|Australia|6.20|  
 |=|[Daoming Ye (叶道明)](https://www.worldcubeassociation.org/persons/2016YEDA01)|China|6.20|  
 |=|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|6.20|  
-|=|[Egor Pankovets](https://www.worldcubeassociation.org/persons/2017PANK02)|Belarus|6.20|  
+|=|[Egor Pankavets](https://www.worldcubeassociation.org/persons/2017PANK02)|Belarus|6.20|  
 |564|[Zhiyuan Zhang (张智渊)](https://www.worldcubeassociation.org/persons/2016ZHAZ01)|China|6.21|  
 |=|[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Sweden|6.21|  
 |=|[Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06)|Vietnam|6.21|  

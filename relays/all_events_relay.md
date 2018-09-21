@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Tue Sep 18 at 1005UTC*
+*Last updated using WCA Developer Export from Fri Sep 21 at 1104UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -108,7 +108,7 @@
 |98|[Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01)|Japan|**47:02.21**|1.59|7.26|1:08.63|1:28.56|11.11|30.01|7:31.93|1:01.28|27:44.00|2:06.68|3:36.22|10.18|1:06.77|3.25|3.69|11.05|  
 |99|[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Denmark|**47:03.02**|1.65|8.48|1:07.21|29.77|14.26|43.14|8:09.98|1:33.47|23:24.00|3:45.43|5:14.77|9.22|1:36.97|3.05|5.72|15.90|  
 |100|[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|China|**48:02.00**|2.50|10.59|1:55.99|3:04.68|20.53|32.80|8:49.06|1:04.06|24:10.00|2:08.91|2:56.75|31.80|1:17.33|4.66|3.16|49.18|  
-|101|[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|**48:31.89**|1.43|8.33|1:14.90|2:08.83|12.14|38.25|10:36.00|1:16.76|23:26.00|2:45.81|4:22.54|10.17|1:15.31|4.03|3.52|7.87|  
+|101|[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|**48:30.26**|1.43|8.33|1:14.90|2:08.83|12.14|38.25|10:36.00|1:16.76|23:26.00|2:45.81|4:22.54|10.17|1:15.31|2.40|3.52|7.87|  
 |102|[Jiawen Wu (吴嘉文)](https://www.worldcubeassociation.org/persons/2010WUJI01)|China|**48:33.78**|1.94|8.38|1:01.70|1:14.69|17.71|37.69|8:52.22|1:27.08|24:17.00|3:19.58|4:56.32|10.10|1:32.97|4.13|3.66|28.61|  
 |103|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|China|**49:23.40**|3.09|8.53|40.56|1:06.60|20.47|46.86|7:24.86|1:24.49|29:13.00|2:42.20|3:41.62|15.15|1:09.63|2.10|4.48|19.76|  
 |104|[Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04)|Netherlands|**49:29.70**|1.45|7.72|1:03.74|3:06.84|11.33|35.31|8:36.89|1:15.50|25:56.00|2:39.78|4:33.59|5.86|54.13|3.38|6.30|11.88|  
@@ -160,8 +160,8 @@
 |150|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|**01:09:16.57**|1.56|8.83|1:35.37|42.53|13.54|35.04|13:33.00|1:08.04|42:43.00|2:39.77|4:32.59|7.09|59.39|2.56|2.37|11.89|  
 |151|[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Sweden|**01:09:28.81**|6.80|18.08|1:43.55|2:56.52|35.40|1:02.11|9:42.02|2:43.62|28:02.00|6:35.94|10:20.00|32.70|1:42.93|5.22|15.95|2:45.97|  
 |152|[Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02)|Germany|**01:09:43.83**|2.91|9.77|1:29.19|4:39.06|19.81|45.15|13:47.00|1:29.56|37:08.00|2:44.83|4:27.46|21.98|1:34.34|5.10|7.81|31.86|  
-|153|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**01:09:44.15**|2.69|10.58|45.56|1:16.32|13.62|48.02|14:00.00|1:49.70|38:58.00|3:36.77|5:19.84|8.77|1:40.46|5.34|10.12|38.36|  
-|154|[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|**01:09:46.75**|2.05|14.19|1:44.69|3:17.78|26.24|55.90|9:05.00|2:14.52|34:57.00|4:58.45|7:43.31|5.83|3:12.90|4.12|8.20|36.57|  
+|153|[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|**01:09:43.91**|2.05|14.19|1:44.69|3:17.78|26.24|55.90|9:05.00|2:11.68|34:57.00|4:58.45|7:43.31|5.83|3:12.90|4.12|8.20|36.57|  
+|154|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**01:09:44.15**|2.69|10.58|45.56|1:16.32|13.62|48.02|14:00.00|1:49.70|38:58.00|3:36.77|5:19.84|8.77|1:40.46|5.34|10.12|38.36|  
 |155|[Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01)|India|**01:12:07.41**|1.20|6.62|1:22.57|47.40|10.91|32.40|16:18.00|1:18.53|42:39.00|2:49.69|4:57.00|10.41|38.43|2.01|2.14|11.10|  
 |156|[Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03)|Colombia|**01:13:47.12**|1.43|8.03|1:46.48|38.21|14.17|33.15|17:21.00|1:07.91|45:14.00|2:05.77|3:07.22|13.81|55.00|3.53|2.48|14.93|  
 |157|[Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01)|USA|**01:13:49.59**|1.58|9.06|1:36.00|1:09.75|15.30|44.47|22:38.00|1:36.16|32:55.00|3:54.31|6:16.06|12.30|1:41.61|2.31|12.30|25.38|  

@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Sep 18 at 1005UTC*
+*Last updated using WCA Developer Export from Fri Sep 21 at 1104UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -95,8 +95,8 @@
 |85|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|5.63|  
 |86|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|7.58|5.62|  
 |87|[Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05)|Switzerland|7.52|5.61|  
-|88|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|7.31|5.60|  
-|89|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.58|  
+|88|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.78|5.60|  
+|=|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.58|  
 |90|[Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01)|USA|7.53|5.58|  
 |91|[Pavan Ravindra](https://www.worldcubeassociation.org/persons/2013RAVI06)|USA|7.75|5.58|  
 |92|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|7.43|5.57|  
