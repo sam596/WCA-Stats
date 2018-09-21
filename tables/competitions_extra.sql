@@ -94,6 +94,7 @@ SELECT
 	a.start_date startDate,
 	a.end_date endDate,
 	DATEDIFF(a.end_date,a.start_date)+1 days,
+	@weekend := DATE_SUB(a.start_date, INTERVAL (DAYOFWEEK(a.start_date) + 2) % 7 DAY) weekend,
 	a.venue,
 	a.latitude,
 	a.longitude,
