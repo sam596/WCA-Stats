@@ -386,17 +386,17 @@ do
 	  p.countryId Country, 
 	  b.startDate \`Date Set\`, 
 	  CONCAT('[',b.startComp,' - ', rs.name,'](https://www.worldcubeassociation.org/competitions/',b.startComp,'/results/all#e',b.eventId,'_',b.startRound,')') \`Started At\`, 
-	  IFNULL(IF(b.endComp = '1 year','1 year passed',CONCAT('[',b.endComp,' - ', re.name,'](https://www.worldcubeassociation.org/competitions/',b.endComp,'/results/all#e',b.eventId,'_',b.endRound,')')),'Ongoing') \`Ended At\`, 
-	  IF(b.endComp IS NULL,DATEDIFF(CURDATE(),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),IFNULL(DATEDIFF((SELECT end_date FROM wca_dev.competitions WHERE id = b.endComp),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),365)) \`Days Held\`
+	  IFNULL(IF(b.endComp LIKE '1 year after [%',b.endComp,CONCAT('[',b.endComp,' - ', re.name,'](https://www.worldcubeassociation.org/competitions/',b.endComp,'/results/all#e',b.eventId,'_',b.endRound,')')),'Ongoing') \`Ended At\`, 
+	  IF(b.endComp IS NULL,DATEDIFF(CURDATE(),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),IFNULL(DATEDIFF((SELECT end_date FROM wca_dev.competitions WHERE id = b.endComp),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),DATEDIFF((SELECT DATE_ADD(end_date, INTERVAL 1 YEAR) FROM wca_dev.competitions WHERE id = b.competitionId),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)))) \`Days Held\`
 	FROM
 	  (SELECT a.*,
 	    @s := IF(a.uowcId = @p, @s, competitionId) startComp,
 	    @sr := IF(a.uowcId = @p, @sr, roundTypeId) startRound,
 	    @sd := IF(a.uowcId = @p, @sd, dateSet) startDate,
-	    @e := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
-		(SELECT competitionId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endComp,
+	    @e := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),CONCAT(CONCAT('1 year after [',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,'/results/all#e',eventId,'_',roundTypeId,')')),
+	  (SELECT competitionId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endComp,
 	    @er := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
-		(SELECT roundTypeId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endRound,
+	  (SELECT roundTypeId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endRound,
 	    @p := a.uowcId
 	  FROM uowc a
 	  WHERE eventId = '${i}') b
