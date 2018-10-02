@@ -15,19 +15,15 @@ SELECT
     solve,
     pos,
     value wca_value,
-    99-LEFT(value,2) points,
-    MID(value,4,4) seconds,
-    CONVERT(RIGHT(value,2),unsigned) missed,
-    99-LEFT(value,2)+(2*RIGHT(value,2)) attempted,
-    99-LEFT(value,2)+RIGHT(value,2) solved,
-    CONCAT(99-LEFT(value,2)+RIGHT(value,2),"/",99-LEFT(value,2)+(2*RIGHT(value,2))) result
+    IF(value > 0,99-LEFT(value,2),NULL) points,
+    IF(value > 0,MID(value,4,4),NULL) seconds,
+    IF(value > 0,CONVERT(RIGHT(value,2),unsigned),NULL) missed,
+    IF(value > 0,99-LEFT(value,2)+(2*RIGHT(value,2)),NULL) attempted,
+    IF(value > 0,99-LEFT(value,2)+RIGHT(value,2),NULL) solved,
+    IF(value > 0,CONCAT(99-LEFT(value,2)+RIGHT(value,2),"/",99-LEFT(value,2)+(2*RIGHT(value,2))),'DNF') result
 FROM
     all_attempts
 WHERE
-    eventId = '333mbf'
-    AND
-    value > 0;
-    
-# 2 secs
+    eventId = '333mbf';
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'mbld_decoded';
