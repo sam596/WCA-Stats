@@ -1,0 +1,1008 @@
+## Total Distance Travelled
+
+*Last updated using WCA Developer Export from today_date*
+
+*The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
+
+|personId|name|countryId|kmDistance|  
+|--|--|--|--|  
+|1982BORS01|Jozsef Borsos|Serbia|0.00|  
+|1982BRIN01|Roland Brinkmann|Germany|NULL|  
+|1982CHIL01|Julian Chilvers|United Kingdom|NULL|  
+|1982FRID01|Jessica Fridrich|Czech Republic|NULL|  
+|1982GALR01|Manuel Galrinho|Portugal|NULL|  
+|1982JEAN01|Jerome Jean-Charles|France|NULL|  
+|1982LABA01|Zoltán Lábas|Hungary|NULL|  
+|1982LAET01|Luc Van Laethem|Belgium|NULL|  
+|1982PETR01|Lars Petrus|Sweden|NULL|  
+|1982RAZO01|Guus Razoux Schultz|Netherlands|NULL|  
+|1982ROME01|Giuseppe Romeo|Italy|NULL|  
+|1982SAND01|Jari Sandqvist|Finland|NULL|  
+|1982SEBE01|Piotr Sebeński|Poland|NULL|  
+|1982TENE01|Svilen Tenev|Bulgaria|NULL|  
+|1982THAI01|Minh Thai|USA|NULL|  
+|1982TRAJ01|Josef Trajber|Austria|NULL|  
+|1982TRIN01|Duc Trinh|Canada|NULL|  
+|1982UENO01|Ken`ichi Ueno (上野健一)|Japan|NULL|  
+|1982VALD01|Eduardo Valdivia Chacon|Peru|NULL|  
+|2003AKIM01|Masayuki Akimoto (秋元正行)|Japan|NULL|  
+|2003ALGA01|Rafael Algarin|USA|NULL|  
+|2003ALLE01|David Allen|USA|NULL|  
+|2003ALLE02|Joe Allen|USA|NULL|  
+|2003ATKI01|Michael Atkinson|USA|NULL|  
+|2003ATTA01|Paul Attar|Canada|NULL|  
+|2003BABC01|Peter Babcock|USA|NULL|  
+|2003BADI01|Frédérick Badie|France|NULL|  
+|2003BARR01|David Barr|USA|NULL|  
+|2003BARR02|Joe Barratt|United Kingdom|NULL|  
+|2003BELL01|Andy Bellenir|USA|NULL|  
+|2003BLON01|Michiel van der Blonk|Netherlands|NULL|  
+|2003BLUS01|Iliya Bluskov|Canada|NULL|  
+|2003BOND01|Jess Bonde|Denmark|NULL|  
+|2003BOUT01|Jonathan Bouthilet|USA|NULL|  
+|2003BRAN01|Kenneth Brandon|USA|NULL|  
+|2003BRAN02|Kevin Brandon|USA|NULL|  
+|2003BRAN03|Wes Brandon|Canada|NULL|  
+|2003BRUC01|Ron van Bruchem|Netherlands|NULL|  
+|2003BURT01|Bob Burton|USA|NULL|  
+|2003BUTL01|Rob Butler|USA|NULL|  
+|2003CAMA01|Andy Camann|USA|NULL|  
+|2003CEGE01|Nick Cegelka|USA|NULL|  
+|2003DENN01|Ton Dennenbroek|Netherlands|NULL|  
+|2003DUFO01|Corey Duford|Canada|NULL|  
+|2003EAST01|Justin Eastman|Canada|NULL|  
+|2003FALM01|Michal Falmyk|Canada|NULL|  
+|2003GOET01|Jeff Goetz|USA|NULL|  
+|2003GOLJ01|Mirek Goljan|Czech Republic|NULL|  
+|2003GOOD01|Jay Goodell|USA|NULL|  
+|2003GRAN01|Carvo Grant|USA|NULL|  
+|2003HARD01|Chris Hardwick|USA|NULL|  
+|2003HARN01|Cory Harnish|Canada|NULL|  
+|2003HARR01|Dan Harris|United Kingdom|NULL|  
+|2003HAZR01|Shiraz Hazrat|USA|NULL|  
+|2003HELT01|Koen Heltzel|Netherlands|NULL|  
+|2003HILD01|Jason Hildebrand|USA|NULL|  
+|2003JANS01|Peter Jansen|Netherlands|NULL|  
+|2003JOHA01|Eric Johanson|USA|NULL|  
+|2003JOZW01|Kirt Jozwiak|USA|NULL|  
+|2003KNAP01|Ryan Knapton|USA|NULL|  
+|2003KNIG01|Dan Knights|USA|NULL|  
+|2003KNIG02|Elizabeth Knights|USA|NULL|  
+|2003KONI01|Katsuyuki Konishi (小西克幸)|Japan|NULL|  
+|2003LARS01|Anders Larsson|Sweden|NULL|  
+|2003LEBL01|Benjamin LeBlond|Canada|NULL|  
+|2003LEEJ01|Jasmine Lee|Australia|NULL|  
+|2003LICH01|Marty Licht|USA|NULL|  
+|2003LIDO01|Doug Li|USA|NULL|  
+|2003LITT01|Heath Litton|USA|NULL|  
+|2003LONG01|Mark Longridge|Canada|NULL|  
+|2003MAKI01|Shotaro Makisumi (牧角章太郎)|Japan|NULL|  
+|2003MART01|Frédéric Martineau|Canada|NULL|  
+|2003MEAN01|Gene Means|USA|NULL|  
+|2003MITT01|Jim Mittan|USA|NULL|  
+|2003MORG01|Brent Morgan|USA|NULL|  
+|2003MORR01|Frank Morris|USA|NULL|  
+|2003MORR02|Jon Morris|USA|NULL|  
+|2003PAPI01|Suzanne Papin|USA|NULL|  
+|2003PATT01|Richard Patterson|USA|NULL|  
+|2003PETE01|Bob Peters|Canada|NULL|  
+|2003POCH01|Stefan Pochmann|Germany|NULL|  
+|2003POUR01|Yasmara Pourrier|Netherlands|NULL|  
+|2003POWE01|Michael Powers|USA|NULL|  
+|2003RAST01|Iman Rastegari|USA|NULL|  
+|2003RUET01|Jake Rueth|USA|NULL|  
+|2003SAUE01|Keith Sauer|USA|NULL|  
+|2003SAVO01|Andy Savoy|USA|NULL|  
+|2003SCHE01|Jaap Scherphuis|Netherlands|NULL|  
+|2003SLAT01|Adam Slate|USA|NULL|  
+|2003STAU01|Guido Staub|Switzerland|NULL|  
+|2003SWAN01|Kevin Swan|Canada|NULL|  
+|2003SWAR01|Dave Swart|Canada|NULL|  
+|2003SWAR02|Michael Swart|Canada|NULL|  
+|2003TEMP01|Thomas Templier|France|NULL|  
+|2003THOM01|Sandy Thompson|Canada|NULL|  
+|2003TING01|Matthew Tingle|Canada|NULL|  
+|2003TREG01|Betty Tregay|USA|NULL|  
+|2003TREG02|Grant Tregay|USA|NULL|  
+|2003VAND01|Lars Vandenbergh|Belgium|NULL|  
+|2003VOMB01|Dror Vomberg|Israel|NULL|  
+|2003WEBL01|Cameron Webley|USA|NULL|  
+|2003WESL01|David Wesley|Sweden|NULL|  
+|2003WESS01|Rune Wesström|Sweden|NULL|  
+|2003WINO01|Ian Winokur|USA|NULL|  
+|2003WINT01|Lucas Winter|Canada|NULL|  
+|2003ZBOR01|Wiktoria Zborowska|Poland|NULL|  
+|2003ZBOR02|Zbigniew Zborowski|Poland|NULL|  
+|2004ALLA01|Kyle Allaire|USA|NULL|  
+|2004ANAN01|Nikhil Anand|USA|NULL|  
+|2004ANTO01|José Antonio Domínguez Miguel|Spain|NULL|  
+|2004ASHO01|Ravikumar Ashok|USA|NULL|  
+|2004BARG01|Rommy Barghout|USA|NULL|  
+|2004BAYE01|Stefan Bayens|Netherlands|NULL|  
+|2004BECH01|Michel Bechtatou|Germany|NULL|  
+|2004BEEK01|Peter van der Beek|Netherlands|NULL|  
+|2004BELL01|Patrick Bellenbaum|Germany|NULL|  
+|2004BERG01|Mattias Berglund|Sweden|NULL|  
+|2004BEST01|Jorge Best|Mexico|NULL|  
+|2004BISC01|Thomas Bischof|USA|NULL|  
+|2004BORD01|Bertrand Bordage|France|NULL|  
+|2004BOSS01|Arjan Bosse|Netherlands|NULL|  
+|2004BOUC01|Charles Bouchart|France|NULL|  
+|2004BURN01|Matthew Burns|United Kingdom|NULL|  
+|2004CARA01|Jibril Caratini-Sotto|France|NULL|  
+|2004CARR01|Richard Carr|United Kingdom|NULL|  
+|2004CHAM01|Edouard Chambon|France|NULL|  
+|2004CHAN01|Alan Chang|USA|NULL|  
+|2004CHAN02|Frank Chang|USA|NULL|  
+|2004CHAN03|Kevin Chang|USA|NULL|  
+|2004CHAN04|Shelley Chang|USA|NULL|  
+|2004CHEN01|Bryan Cheng|USA|NULL|  
+|2004CHEN02|Melinda Chen|USA|NULL|  
+|2004CHIA01|Michael Chiang|USA|NULL|  
+|2004CHOU01|Witton Chou|USA|NULL|  
+|2004CHUC01|Curtis Chu|USA|NULL|  
+|2004COCK01|Christy Cockerham|USA|NULL|  
+|2004COLI01|Guillaume Colin|France|NULL|  
+|2004CONN01|Sean Connolly|United Kingdom|NULL|  
+|2004DATU01|Alex Datuin|USA|NULL|  
+|2004DIXO01|Jeremy Dixon|USA|NULL|  
+|2004DOVA01|Clarisa Doval Ortiz|Spain|NULL|  
+|2004DUQU01|Guillaume Duquenne|France|NULL|  
+|2004EKLU01|Ann-Charlotte Eklund|Sweden|NULL|  
+|2004FEDE01|Angelo Federico|France|NULL|  
+|2004FELI01|Sébastien Felix|France|NULL|  
+|2004FERN01|Ernesto Fernández Regueira|Spain|NULL|  
+|2004FISH01|Matthew Fisher|USA|NULL|  
+|2004FONN01|Eivind Fonn|Norway|NULL|  
+|2004FONT01|Benoît Fontaine|France|NULL|  
+|2004FRED01|Gustav Fredell|Sweden|NULL|  
+|2004FRED02|Per Kristen Fredlund|Norway|NULL|  
+|2004FREM01|Loic Frémont|France|NULL|  
+|2004FULT01|Eric Fultz|USA|NULL|  
+|2004GAIT01|Parker Gaitley|USA|NULL|  
+|2004GAIT02|Shane Gaitley|USA|NULL|  
+|2004GALL01|Antonio Gallego Zambrano|Spain|NULL|  
+|2004GALL02|Clément Gallet|France|NULL|  
+|2004GARC01|Raul Garcia|Dominican Republic|NULL|  
+|2004GARD01|Marcel van Garderen|Netherlands|NULL|  
+|2004GATE01|Aren Gates|USA|NULL|  
+|2004GATE02|Evan Gates|USA|NULL|  
+|2004GAUC01|Olivier Gaucher|France|NULL|  
+|2004GEEL01|Ruben Geels|Netherlands|NULL|  
+|2004GEUS01|Jan de Geus|Netherlands|NULL|  
+|2004GIDL01|Viktor Gidlof|Sweden|NULL|  
+|2004GIRE01|Clément Gires|France|NULL|  
+|2004GODF01|Mike Godfrey|United Kingdom|NULL|  
+|2004GREL01|Corentin Grellier|France|NULL|  
+|2004GRIM01|Michael Grimsley|USA|NULL|  
+|2004GUIL01|Damien Guillotin|France|NULL|  
+|2004GUPT01|Udayan Gupta|USA|NULL|  
+|2004GUST01|Nils Gustafsson|Sweden|NULL|  
+|2004GUTM01|Joshua Gutman|USA|NULL|  
+|2004HAWL01|Clayne Hawley|USA|NULL|  
+|2004HELL01|Micael Hellberg|Sweden|NULL|  
+|2004HENA01|Brittany Henage|USA|NULL|  
+|2004HENA02|Dan Henage|USA|NULL|  
+|2004HERM01|Daniel Hermansson|Sweden|NULL|  
+|2004HOLL01|Trevor Holland|USA|NULL|  
+|2004HUEY01|Jeremy Huey|USA|NULL|  
+|2004IBAN01|Álvaro Ibánez Blas|Spain|NULL|  
+|2004INAD01|Michael Inadomi|USA|NULL|  
+|2004JELI01|Josef Jelínek|Czech Republic|NULL|  
+|2004JIAQ01|Yin Jia Qiu|China|NULL|  
+|2004JOEC01|Chris Joe|USA|NULL|  
+|2004JOSE01|Francisco José Peralta Romera|Spain|NULL|  
+|2004JOUR01|Camille Jourde|France|NULL|  
+|2004JUAN01|Raul de Juan Tejeda|Spain|NULL|  
+|2004KAZM01|Grégory Kazmierezak|France|NULL|  
+|2004KEAL01|Albert Ke|USA|NULL|  
+|2004KIRM01|Nobil Kirma|USA|NULL|  
+|2004KODR01|Stefan Kodrnja|Sweden|NULL|  
+|2004KRIG01|Gunnar Krig|Sweden|NULL|  
+|2004KRIG02|Kåre Krig|Sweden|NULL|  
+|2004KUMA01|Rishi Kumar|USA|NULL|  
+|2004KWAK01|Eric Kwak|USA|NULL|  
+|2004LACA01|Lucas Lacasa Horno|Spain|NULL|  
+|2004LAIJ01|Jonathan Lai|USA|NULL|  
+|2004LAND01|Jason Landry|USA|NULL|  
+|2004LEEJ01|Jack Lee|USA|NULL|  
+|2004LEER01|Roger Lee|USA|NULL|  
+|2004LIAO01|Joseph Liao|USA|NULL|  
+|2004LINP01|Paul Lin|USA|NULL|  
+|2004LIOU01|Eric Liou|USA|NULL|  
+|2004LOLE01|Leyan Lo|USA|NULL|  
+|2004LUIS01|Ángel Luis López Ramos|Spain|NULL|  
+|2004LUIS02|Carlos Luis Gallego Zambrano|Spain|NULL|  
+|2004LUIS03|Pedro Luis Muñoz Yañez|Spain|NULL|  
+|2004MADR01|Manuel Madrid Pérez|Spain|NULL|  
+|2004MALL01|Grégory Mallet|France|NULL|  
+|2004MANU01|José Manuel Peralta Romera|Spain|NULL|  
+|2004MAOT01|Toby Mao (毛台立)|USA|NULL|  
+|2004MAOT02|Tyson Mao (毛台勝)|USA|NULL|  
+|2004MARI01|Isabel María Lucena Guerrero|Spain|NULL|  
+|2004MASA01|Jesús Masanet García|Spain|NULL|  
+|2004MASS01|Francesco Massei|Italy|NULL|  
+|2004MATI01|David Matics|USA|NULL|  
+|2004MATI02|Sarah Matics|USA|NULL|  
+|2004MCGA01|Bill McGaugh|USA|NULL|  
+|2004MERI01|Antonio Merino Sauco|Spain|NULL|  
+|2004MEUN01|Guillaume Meunier|France|NULL|  
+|2004MORE01|Nathan Moreau|France|NULL|  
+|2004MULL01|René van Mullem|Netherlands|NULL|  
+|2004NAGY01|Olivér Nagy|Hungary|NULL|  
+|2004NGUY01|Huy Nguyen|USA|NULL|  
+|2004NICO01|Lionel Nicolau|USA|NULL|  
+|2004NIEM01|Daniel Niemann|Germany|NULL|  
+|2004NILS01|Dennis Nilsson|Sweden|NULL|  
+|2004NOOR01|Joël van Noort|Netherlands|NULL|  
+|2004NOWI01|Jarosław Nowicki|Poland|NULL|  
+|2004OLCI01|Antonio Olcina Pérez|Spain|NULL|  
+|2004OUYA01|Derek Ouyang|USA|NULL|  
+|2004OVAD01|Tomer Ovadia|USA|NULL|  
+|2004PARK01|Soorin Park|USA|NULL|  
+|2004PART01|Rod Partow|USA|NULL|  
+|2004PATR01|Ryan Patricio|USA|NULL|  
+|2004PECA01|Jean Pecassou|France|NULL|  
+|2004PEDA01|Sunil Pedapudi|USA|NULL|  
+|2004PERE01|Arturo Pérez Gil|Spain|NULL|  
+|2004PETE01|Leo Peters|Netherlands|NULL|  
+|2004POLI01|Mark Polinkovsky (Марк Полинковский)|USA|NULL|  
+|2004PONS01|Jean Pons|France|NULL|  
+|2004RAND01|John Randall|USA|NULL|  
+|2004REED01|Doug Reed|USA|NULL|  
+|2004REYP01|Luis Rey Peinado|Spain|NULL|  
+|2004ROES01|Remco Roes|Netherlands|NULL|  
+|2004ROME01|Bertrand Romefort|France|NULL|  
+|2004ROND01|Thomas Rond|USA|NULL|  
+|2004ROUA01|Thomas Rouault|France|NULL|  
+|2004ROUX01|Gilles Roux|France|NULL|  
+|2004SALV01|David Salvia|USA|NULL|  
+|2004SALV02|Miguel Salva March|Spain|NULL|  
+|2004SANC01|Julien Sanchez|France|NULL|  
+|2004SCHO01|Stefan Schönwälder|Germany|NULL|  
+|2004SECH01|François Sechet|France|NULL|  
+|2004SEOJ01|John Seo|USA|NULL|  
+|2004SIJM01|Niels Sijm|Netherlands|NULL|  
+|2004SOHA01|Hanson So|USA|NULL|  
+|2004SOJA01|Jason So|USA|NULL|  
+|2004STAB01|Joel Ståbis|Sweden|NULL|  
+|2004STEE01|Klaas Steenhuis|Netherlands|NULL|  
+|2004STEI01|Harrison Stein|USA|NULL|  
+|2004SULL01|Mark Sullivan|USA|NULL|  
+|2004SUNM01|Michelle Sun|USA|NULL|  
+|2004TITZ01|Benjamin Titze|Germany|NULL|  
+|2004VAND01|Baptiste Vandevoghel|France|NULL|  
+|2004VAND02|Marc Vandenbergh|Belgium|NULL|  
+|2004VAND03|Pierre Vandendriessche|France|NULL|  
+|2004VIEN01|Nicolas Vienne|France|NULL|  
+|2004WAGN01|Hugo Wagner|France|NULL|  
+|2004WANG01|Richard Wang|USA|NULL|  
+|2004WOLF01|Oliver Wolff|Germany|NULL|  
+|2004WONG01|Chun Hei Uwe Wong|Hong Kong|NULL|  
+|2004WUCL01|Clif Wu|USA|NULL|  
+|2004WUER01|Eric Wu|USA|NULL|  
+|2004YUAL01|Allen Yu|USA|NULL|  
+|2004YUJE01|Jessica Yu|USA|NULL|  
+|2004ZAMO01|Adam Zamora|USA|NULL|  
+|2004ZHUK01|Kai Zhu|USA|NULL|  
+|2004ZIJD01|Hans van der Zijden|Netherlands|NULL|  
+|2004ZYBU01|Aleksandra Żybura|Poland|NULL|  
+|2005ABAM01|Shirley Abamonte|USA|NULL|  
+|2005AGAS01|Manas Agastya|USA|NULL|  
+|2005AGUI01|David Aguila|USA|NULL|  
+|2005AKAG01|Dallin Akagi|USA|NULL|  
+|2005AKKE01|Erik Akkersdijk|Netherlands|NULL|  
+|2005AKUZ01|Takeshi Akuzawa (阿久沢剛史)|Japan|NULL|  
+|2005ALBR01|Tyler Albright|USA|NULL|  
+|2005ALDR01|Lisa Aldridge|United Kingdom|NULL|  
+|2005ANGE01|José Ángel Acosta|Spain|NULL|  
+|2005ANGO01|Carlos Angosto Hernández|Spain|NULL|  
+|2005ARNO01|Will Arnold|USA|NULL|  
+|2005ASAO01|Toshio Asaoka (浅岡利雄)|Japan|NULL|  
+|2005ASAT01|Yuji Asato (朝戸雄司)|Japan|NULL|  
+|2005ASLA01|Aram Aslanian-Persico|USA|NULL|  
+|2005ASPE01|Lennart Aspelin|Sweden|NULL|  
+|2005AUST01|Anthony Austin|USA|NULL|  
+|2005BACK01|Peter Backeman|Sweden|NULL|  
+|2005BAKK01|Oepke Bakker|Netherlands|NULL|  
+|2005BANA01|Adrian Banaś|Poland|NULL|  
+|2005BANA02|Jakub Banaś|Poland|NULL|  
+|2005BARG01|Amanda Barghout|USA|NULL|  
+|2005BATI01|Milán Baticz|Hungary|NULL|  
+|2005BAUM01|Jason Baum|USA|NULL|  
+|2005BAUM02|Natalie Baum|USA|NULL|  
+|2005BEDA01|Scott Bedard|USA|NULL|  
+|2005BEER01|Marco Beer|Germany|NULL|  
+|2005BENN01|Mike Bennett|USA|NULL|  
+|2005BERG01|David Bergman|USA|NULL|  
+|2005BERG02|Jeffrey Bergman|USA|NULL|  
+|2005BLAN01|Brandon Blankenship|USA|NULL|  
+|2005BODI01|Gábor Bódi|Hungary|NULL|  
+|2005BODI02|Josephine Bódi|Hungary|NULL|  
+|2005BOEH01|Joel Boehm|Sweden|NULL|  
+|2005BORN01|Matt Born|USA|NULL|  
+|2005BORY01|Krzysztof Boryczko|Poland|NULL|  
+|2005BOSS01|Thomas Bossmann|Germany|NULL|  
+|2005BOUC01|Craig Bouchard|Canada|NULL|  
+|2005BROW01|Christopher Brownlee|USA|NULL|  
+|2005BRUG01|Johnny Brugman|USA|NULL|  
+|2005BRUN01|Justin Brunet|USA|NULL|  
+|2005BRYA01|Travis Bryan|USA|NULL|  
+|2005BRYD01|Owen Brydon|USA|NULL|  
+|2005BRYN01|Lucas Brynte|Sweden|NULL|  
+|2005BURT01|Bob Burton Sr.|USA|NULL|  
+|2005BURT02|Lacey Burton|USA|NULL|  
+|2005CAIB01|Brian Cai|USA|NULL|  
+|2005CALL01|Duane Call|USA|NULL|  
+|2005CALV01|Daniel Calvo Vivas|Spain|NULL|  
+|2005CALV02|David Calvo Vivas|Spain|NULL|  
+|2005CAMP01|Dave Campbell|Canada|NULL|  
+|2005CHAB01|Jean-Yves Chabrier|France|NULL|  
+|2005CHAN01|Derrick Chan|USA|NULL|  
+|2005CHAN02|Newton Chan|USA|NULL|  
+|2005CHAR01|Loïc Charpentier|France|NULL|  
+|2005CHAS01|John Chase|USA|NULL|  
+|2005CHEN01|Alex Cheng|USA|NULL|  
+|2005CHEN02|Hong Chen|Canada|NULL|  
+|2005CHEN03|Jordan Chen|USA|NULL|  
+|2005CHER01|Jeff Chern|USA|NULL|  
+|2005CHOS01|Manabu Choshi (町支学)|Japan|NULL|  
+|2005CHRI01|Nathan Christie|USA|NULL|  
+|2005CHRI02|Nathaniel Christian|USA|NULL|  
+|2005CHRI03|Paul Christensen|USA|NULL|  
+|2005CHYO01|Wynne Chyou|USA|NULL|  
+|2005CIAL01|Joanna Ciałoń|Poland|NULL|  
+|2005CIAL02|Łukasz Ciałoń|Poland|NULL|  
+|2005CIBU01|Nils Cibula|Germany|NULL|  
+|2005COCH01|Clancy Cochran|USA|NULL|  
+|2005CSIL01|Péter Csillag|Hungary|NULL|  
+|2005CUES01|Alberto Cuesta|Spain|NULL|  
+|2005DASS01|Sayantan Das|USA|NULL|  
+|2005DAYN01|Nathaniel Day|USA|NULL|  
+|2005DENC01|Dezsö Dencsi|Hungary|NULL|  
+|2005DEUT01|Joel Deuterman|USA|NULL|  
+|2005DIDA01|Chris DiDamo|USA|NULL|  
+|2005DOMO01|Takahito Domon (土門崇人)|Japan|NULL|  
+|2005DOUG01|Cathy Douglas|USA|NULL|  
+|2005DROS01|David Drost|USA|NULL|  
+|2005DUMA01|Daniel Duma|USA|NULL|  
+|2005DURK01|Remigiusz Durka|Poland|NULL|  
+|2005ERAN01|David Erani|USA|NULL|  
+|2005ERIC01|Therese Ericsson|Sweden|NULL|  
+|2005ERIC02|Varick Erickson|USA|NULL|  
+|2005FARK01|Károly Farkas|Hungary|NULL|  
+|2005FEDE01|Jessica Federico|France|NULL|  
+|2005FERE01|Márk Ferencz|Hungary|NULL|  
+|2005FERE02|Péter Ferencz|Hungary|NULL|  
+|2005FERN01|Ravi Fernando|USA|NULL|  
+|2005FLEI01|Jeremy Fleischman|USA|NULL|  
+|2005FONT01|Sam Fontana|USA|NULL|  
+|2005FORT01|Daniel Fortuna|Poland|NULL|  
+|2005FOST01|Jack Foster|USA|NULL|  
+|2005FOXT01|Tyler Fox|USA|NULL|  
+|2005FRAN01|Giuliano De Franchis|France|NULL|  
+|2005FUNG01|Michael Fung|Netherlands|NULL|  
+|2005GAIN01|Mark Gaines|Sweden|NULL|  
+|2005GAND01|Michał Gandor|Poland|NULL|  
+|2005GAWE01|Bartosz Gawęda|Poland|NULL|  
+|2005GERM01|Gilles Germain|France|NULL|  
+|2005GILL01|Sara Gillmore|USA|NULL|  
+|2005GILS01|Stijn van Gils|Belgium|NULL|  
+|2005GIRT01|Travon Girtley|USA|NULL|  
+|2005GOET01|Bradley Goetz|USA|NULL|  
+|2005GORD01|Joyce Gordon|USA|NULL|  
+|2005GREE01|Janet Greenwood|USA|NULL|  
+|2005GREE02|Peter Greenwood|USA|NULL|  
+|2005GUST01|Kenneth Gustavsson|Sweden|NULL|  
+|2005GUST02|Tommy Gustavsson|Sweden|NULL|  
+|2005HALL01|Billy Hall|USA|NULL|  
+|2005HAMA01|Kazuo Hamaji (濱地和雄)|Japan|NULL|  
+|2005HANN01|Katrin Hannes|Germany|NULL|  
+|2005HANR01|Lauren Hanrahan|USA|NULL|  
+|2005HANT01|Norbert Hantos|Hungary|NULL|  
+|2005HARR01|Kelly Harrigan|USA|NULL|  
+|2005HARS01|László Harsányi|Hungary|NULL|  
+|2005HAYA01|Yuki Hayashi (林祐樹)|Japan|NULL|  
+|2005HAYE01|Daniel Hayes|USA|NULL|  
+|2005HAYE02|Melissa Hayes|USA|NULL|  
+|2005HEIJ01|Rinie van der Heijden|Netherlands|NULL|  
+|2005HEND01|Sander Hendrickx|Belgium|NULL|  
+|2005HERC01|Richárd Herczeg|Hungary|NULL|  
+|2005HERM01|Marcus Hermansson|Sweden|NULL|  
+|2005HETZ01|Adam Hetz|USA|NULL|  
+|2005HEYM01|Joël Heymbeeck|Belgium|NULL|  
+|2005HIGA01|Yuki Higashikozono (東小薗雄生)|Japan|NULL|  
+|2005HILL01|Johan Hillerström|Sweden|NULL|  
+|2005HIRA01|Chiaki Hirakawa (平川智章)|Japan|NULL|  
+|2005HIRA02|Toshinobu Hirayama (平山寿信)|Japan|NULL|  
+|2005HOEK01|Ronald Hoekstra|Netherlands|NULL|  
+|2005HOGA01|Gavin Ho|USA|NULL|  
+|2005HONM01|Yasunori Honma (本間康則)|Japan|NULL|  
+|2005HOWA01|AJ Howard|USA|NULL|  
+|2005HSUA01|Anthony Hsu|USA|NULL|  
+|2005HUDS01|Daniel Hudson|USA|NULL|  
+|2005HUNT01|Chris Hunt|USA|NULL|  
+|2005HUNT02|Nick Hunt|USA|NULL|  
+|2005IDEK01|Kaho Idekawa (出川佳歩)|Japan|NULL|  
+|2005IDEK02|Satoshi Idekawa (出川智士)|Japan|NULL|  
+|2005IIDA01|Masakatsu Iida (飯田正勝)|Japan|NULL|  
+|2005ISHI01|Hiroshi Ishino (石野弘司)|Japan|NULL|  
+|2005ISMA01|John Ismael Ugelstad|Norway|NULL|  
+|2005ITOS01|Seizirou Ito (伊藤征次郎)|Japan|NULL|  
+|2005IVAN01|Tamás Iványi|Hungary|NULL|  
+|2005IWAS01|Jun Iwasaki (岩崎純)|Japan|NULL|  
+|2005IWAS02|Kyoichiro Iwasaki (岩崎洋一郎)|Japan|NULL|  
+|2005IZAW01|Shoko Izawa (伊澤尚子)|Japan|NULL|  
+|2005JANC01|Tomas Jancuska|Austria|NULL|  
+|2005JEHL01|Kamran Jehle|USA|NULL|  
+|2005JIAN01|Alan Jiang|USA|NULL|  
+|2005JOHA01|Andreas Johansson|Sweden|NULL|  
+|2005JOHA02|Björn Johanson|Sweden|NULL|  
+|2005JOHN01|Daniel Johnsen|USA|NULL|  
+|2005JOHN02|Theresa Johnson|USA|NULL|  
+|2005JOKS01|Adam Joks|Poland|NULL|  
+|2005JUNK01|Lee Jun-Kyo|Korea|NULL|  
+|2005KACP01|Krzysztof Kacprzak|Poland|NULL|  
+|2005KANT01|Kolos Kántor|Hungary|NULL|  
+|2005KATO01|Hiroyuki Kato (加藤弘之)|Japan|NULL|  
+|2005KAWA01|Akihiro Kawauchi (河内章浩)|Japan|NULL|  
+|2005KAWA02|Kazuya Kawamoto (河本和也)|Japan|NULL|  
+|2005KAZM01|Sebastian Kaźmierski|Poland|NULL|  
+|2005KENN01|Madi Kennedy|USA|NULL|  
+|2005KERE01|Zalán Kereszti|Hungary|NULL|  
+|2005KIJI01|Masaya Kijima (貴嶋昌也)|Japan|NULL|  
+|2005KJEL01|Carl-Johan Kjellander|Sweden|NULL|  
+|2005KOCZ01|István Kocza|Hungary|NULL|  
+|2005KOHN01|Thomas Kohn|Germany|NULL|  
+|2005KOSE01|Fumiki Koseki (古関章記)|Japan|NULL|  
+|2005KOST01|Natan Kostrzewski|Poland|NULL|  
+|2005KOSU01|Hiroshi Kosuge (小菅弘)|Japan|NULL|  
+|2005KOVA01|Jason Kovacic|USA|NULL|  
+|2005KOZK01|Piotr Kózka|Poland|NULL|  
+|2005KRAM01|Gyula Kramer|Hungary|NULL|  
+|2005KREZ01|Krzysztof Krężelok|Poland|NULL|  
+|2005KROS01|Albert Kroschel|USA|NULL|  
+|2005KUFA01|Brianna Kufa|USA|NULL|  
+|2005KUFA02|Kelly Kufa|USA|NULL|  
+|2005KUMG01|Ryoji Kumagai (熊谷凌士)|Japan|NULL|  
+|2005KUNI01|Tomonori Kunishima (國島友紀)|Japan|NULL|  
+|2005KURA01|Hiroshi Kurasumi (倉住広志)|Japan|NULL|  
+|2005KURC01|Marek Kurcyus|Poland|NULL|  
+|2005KURI01|Ryo Kurihara (栗原涼)|Japan|NULL|  
+|2005KURO01|Hu Kuroiwa (黒岩風)|Japan|NULL|  
+|2005KURO02|Shuichi Kuroiwa (黒岩秀一)|Japan|NULL|  
+|2005KWON01|Darren Kwong|USA|NULL|  
+|2005KYOI01|Yoshihiko Kyoi (京井良彦)|Japan|NULL|  
+|2005KYOU01|Ryosuke Kyoui (京井良介)|Japan|NULL|  
+|2005LAIA01|Andrew Lai|USA|NULL|  
+|2005LAMP01|Patrick Lam|Canada|NULL|  
+|2005LAND01|Alex Landau|USA|NULL|  
+|2005LANG01|Linus Langsmo|Sweden|NULL|  
+|2005LEAT01|Jennifer Leatherby|USA|NULL|  
+|2005LEVI01|Vincent Le|USA|NULL|  
+|2005LEWI01|Quinn Lewis|USA|NULL|  
+|2005LIAO01|Warren Liao|Taiwan|NULL|  
+|2005LICC01|Chris Licciardi|USA|NULL|  
+|2005LICC02|Mitra Licciardi|USA|NULL|  
+|2005LIUR01|Raymond Liu|USA|NULL|  
+|2005LODA01|Daniel Lo|USA|NULL|  
+|2005LOKE01|Kevin Lo|USA|NULL|  
+|2005LOVI01|Cory Loviglio|USA|NULL|  
+|2005LUCZ01|Grzegorz Łuczyna|Poland|NULL|  
+|2005LUJO01|Joe Lu|USA|NULL|  
+|2005LWIN01|Kyawkyaw Lwin|USA|NULL|  
+|2005MAED01|Ryuhei Maeda (前田竜平)|Japan|NULL|  
+|2005MAIO01|Jason Maiolo|USA|NULL|  
+|2005MARI01|Jose Maria Moreno Pueyo|Spain|NULL|  
+|2005MARY01|Olivier Mary|Belgium|NULL|  
+|2005MASU01|Takayuki Masudani (桝谷隆行)|Japan|NULL|  
+|2005MAYO01|Amanda Mayo|USA|NULL|  
+|2005MAZA01|Tamami Mazaki (真崎珠美)|Japan|NULL|  
+|2005MCCL01|Russell McClellan|USA|NULL|  
+|2005MCKE01|Becky McKenna|USA|NULL|  
+|2005MCKE02|Nate McKervey|USA|NULL|  
+|2005MECH01|Eric Mechlenburg|USA|NULL|  
+|2005MEDO01|Justin Medoy|USA|NULL|  
+|2005MESA01|Olivier Mesado|France|NULL|  
+|2005MILE01|Tadeás Miler|Czech Republic|NULL|  
+|2005MINO01|Howard Minor|USA|NULL|  
+|2005MINO02|Paul Minor|USA|NULL|  
+|2005MISH01|Yuzuru Mishima (三島譲)|Japan|NULL|  
+|2005MITO01|Hiroharu Mito (水戸寛治)|Japan|NULL|  
+|2005MIYA01|Atsushi Miyauchi (宮内敦史)|Japan|NULL|  
+|2005MIYA02|Jiro Miyazaki (宮崎次郎)|Japan|NULL|  
+|2005MOGI01|Kazunori Mogi (茂木和徳)|Japan|NULL|  
+|2005MOHR01|Justin Mohr|USA|NULL|  
+|2005MOJI01|Westley Mojica|USA|NULL|  
+|2005MORE01|Lorenzo Moreno Pueyo|Spain|NULL|  
+|2005MORG01|Nicole Morgante|USA|NULL|  
+|2005MORI01|Koyo Moriki (森木耕陽)|Japan|NULL|  
+|2005MUEL01|Katie Mueller|USA|NULL|  
+|2005MUNJ01|Jonathan Mun|USA|NULL|  
+|2005MUNO01|Adrian Muñoz Martin|Spain|NULL|  
+|2005MUNO02|Albert Muñoz Martin|Spain|NULL|  
+|2005MURA01|Mihály Murányi|Hungary|NULL|  
+|2005MYTK01|Bryan Mytko|USA|NULL|  
+|2005NAGA01|Ryo Nagai (永井涼)|Japan|NULL|  
+|2005NAGY01|Richárd Nagy|Hungary|NULL|  
+|2005NAVA01|Miguel Angel Navalón Valera|Spain|NULL|  
+|2005NEKM01|Murtanza Nek|USA|NULL|  
+|2005NEUM01|Johannes Neumann|Germany|NULL|  
+|2005NODA01|Satoru Noda (野田悟)|Japan|NULL|  
+|2005ODAW01|Mitsuhiro Odawara (小田原充宏)|Japan|NULL|  
+|2005OGIE01|Rafał Ogiegło|Poland|NULL|  
+|2005OHAR01|Shoma Ohara (大原将真)|Japan|NULL|  
+|2005OHIR01|Takuya Ohira (大平拓也)|Japan|NULL|  
+|2005OHSE01|Miho Ohse (大瀬美保)|Japan|NULL|  
+|2005ONOH01|Hiroshi Ono (小野浩)|Japan|NULL|  
+|2005OOMS01|Alexander Ooms|Netherlands|NULL|  
+|2005OOTS01|Junko Ootsu (大津順子)|Japan|NULL|  
+|2005OOTS02|Yoshihiro Ootsu (大津嘉寛)|Japan|NULL|  
+|2005ORST01|Lars Örström|Sweden|NULL|  
+|2005ORST02|Linus Örström|Sweden|NULL|  
+|2005OTAN01|Naoki Otani (大谷直毅)|Japan|NULL|  
+|2005PANC01|Sarolta Pánczél|Hungary|NULL|  
+|2005PANF01|Laura Panfili|USA|NULL|  
+|2005PAPP01|Róbert Papp|Hungary|NULL|  
+|2005PARI01|Javier París|Spain|NULL|  
+|2005PARK01|Edison Park|USA|NULL|  
+|2005PARL01|Chris Parlette|USA|NULL|  
+|2005PARS01|Mary Parsons|USA|NULL|  
+|2005PATZ01|Sven Pätzoldt|Germany|NULL|  
+|2005PAWL01|Kacper Pawlaczyk|Poland|NULL|  
+|2005PAZD01|Łukasz Paździora|Poland|NULL|  
+|2005PEER01|Gilles van den Peereboom|Belgium|NULL|  
+|2005PELL01|Chris Pelley|USA|NULL|  
+|2005PERE01|Alfonso Perez Arnal|Spain|NULL|  
+|2005PERN01|Casey Tharpe|USA|NULL|  
+|2005PETA01|Dariusz Peta|Poland|NULL|  
+|2005PETE01|Amanda Peterson|USA|NULL|  
+|2005PFAN01|Karlson Pfannschmidt|Germany|NULL|  
+|2005PHUA01|Joshua Phua|USA|NULL|  
+|2005PICO01|Ben Picolo|USA|NULL|  
+|2005PIOT01|Tomasz Piotrowski|Poland|NULL|  
+|2005PIPE01|Andrew Piper|USA|NULL|  
+|2005PIPE02|Daniel Piper|USA|NULL|  
+|2005PIPE03|Nathan Piper|USA|NULL|  
+|2005PIPE04|Rich Piper|USA|NULL|  
+|2005PLOM01|Duncan Plomp|Netherlands|NULL|  
+|2005POLI01|Alex Poling|USA|NULL|  
+|2005POWE01|Gregory Powers|USA|NULL|  
+|2005PROD01|Mitko Prodanov|Hungary|NULL|  
+|2005PUDI01|Dusan Pudis|Slovakia|NULL|  
+|2005RAND01|Hampus Randén|Sweden|NULL|  
+|2005RAVI01|Augustijn Ravijts|Belgium|NULL|  
+|2005REIT01|François Reitter|France|NULL|  
+|2005REKE01|László Reketye|Hungary|NULL|  
+|2005RENB01|Andreas Renberg|USA|NULL|  
+|2005REYN01|Tim Reynolds|USA|NULL|  
+|2005RITE01|Attila Ritecz|Hungary|NULL|  
+|2005RIVI01|Maria Rivilis|Germany|NULL|  
+|2005ROUX01|Thomas Le Roux|France|NULL|  
+|2005ROZS01|Dávid Rózsa|Hungary|NULL|  
+|2005RUBI01|Alberto Rubio|Spain|NULL|  
+|2005RUDO01|Jack Rudolph|USA|NULL|  
+|2005RUEL01|Jonathan Ruel|USA|NULL|  
+|2005RULL01|Maja Rullgård|Sweden|NULL|  
+|2005RUSS01|Daniel Russo|USA|NULL|  
+|2005RYBE01|Steve Rybecky|USA|NULL|  
+|2005SAKA01|Yasuhide Sakai (酒井裕偉)|Japan|NULL|  
+|2005SALL01|Romain Salles|France|NULL|  
+|2005SASA01|Kazuma Sasamura (篠村一磨)|Japan|NULL|  
+|2005SCHA01|Heidi Schatz|USA|NULL|  
+|2005SCHE01|Thomas Scheinpflug|Germany|NULL|  
+|2005SCIB01|Richard Scibetti|USA|NULL|  
+|2005SEQU01|Joe Sequino|USA|NULL|  
+|2005SERV01|Grégory Servaud|France|NULL|  
+|2005SEYA01|Kazuto Seya (瀬谷和人)|Japan|NULL|  
+|2005SHIM01|Kazuya Shimazaki (嶋崎和哉)|Japan|NULL|  
+|2005SHIM02|Keisuke Shimura (志村圭介)|Japan|NULL|  
+|2005SHIM03|Ryohei Shimamoto (島本遼平)|Japan|NULL|  
+|2005SHIR01|Yoshiaki Shiratori (白鳥義明)|Japan|NULL|  
+|2005SHOW01|John Shown|USA|NULL|  
+|2005SILV01|Josh Silverman|USA|NULL|  
+|2005SIMO01|Antoine Simon-Chautemps|France|NULL|  
+|2005SIMO02|Monique Simons|Netherlands|NULL|  
+|2005SING01|Pratap Singh|USA|NULL|  
+|2005SKYL01|Archer Skyler|USA|NULL|  
+|2005SLOW01|Paweł Słowik|Poland|NULL|  
+|2005SOES01|Jeff Soesbe|USA|NULL|  
+|2005SOLT01|Maciej Sołtysiak|Poland|NULL|  
+|2005SONG01|James Song (송승우)|Korea|NULL|  
+|2005SOVE01|András Sövény|Hungary|NULL|  
+|2005SPAD01|Joe Spadafora|USA|NULL|  
+|2005SPAD02|Joe Spadafora Sr.|USA|NULL|  
+|2005SPIL01|Botond Spilkó|Hungary|NULL|  
+|2005SPOR01|Damian Sporysz|Poland|NULL|  
+|2005STIL01|Peter Still|Australia|NULL|  
+|2005STOE01|Maarten Stoelhorst|Netherlands|NULL|  
+|2005STUB01|James Stuber|USA|NULL|  
+|2005STUD01|Rafał Studnicki|Poland|NULL|  
+|2005SULL01|Krista Sullivan|USA|NULL|  
+|2005SUSE01|Yuji Suse (巣瀬雄史)|Japan|NULL|  
+|2005SUZU01|Ken Suzuki (鈴木健)|Japan|NULL|  
+|2005SUZU02|Shinpei Suzuki (鈴木信平)|Japan|NULL|  
+|2005SZAB01|Eszter Szabó|Hungary|NULL|  
+|2005SZAB02|Gábor Szabó|Hungary|NULL|  
+|2005SZIG01|Máté Szigetvári|Hungary|NULL|  
+|2005SZLA01|Chris Szlatenyi|USA|NULL|  
+|2005TAKA01|Hideaki Takahashi (高橋英明)|Japan|NULL|  
+|2005TAKA02|Syoji Takamatsu (高松唱司)|Japan|NULL|  
+|2005TAKE01|Satoru Takeichi (竹市覚)|Japan|NULL|  
+|2005TAKS01|Sándor Taksony|Hungary|NULL|  
+|2005TAME01|Sibel Tamer-Köksal|Netherlands|NULL|  
+|2005TANA01|Hisakazu Tanaka (田中尚和)|Japan|NULL|  
+|2005TANA02|Shinji Tanaka (田中伸治)|Japan|NULL|  
+|2005THIE01|Sven Thiede|Germany|NULL|  
+|2005THOM01|Reiner Thomsen|Germany|NULL|  
+|2005THON01|Jason Thong|Canada|NULL|  
+|2005TOKU01|Shin Tokutani (徳谷真)|Japan|NULL|  
+|2005TOLE01|Alexandre Toledo Guillén|Spain|NULL|  
+|2005TOMI01|Junya Tomita (富田純也)|Japan|NULL|  
+|2005TOMO01|Hideaki Tomoyori (友寄英哲)|Japan|NULL|  
+|2005TRAC01|Radosław Tracz|Poland|NULL|  
+|2005TRAN01|Bryant Tran|USA|NULL|  
+|2005TRAV01|Michael Travis|USA|NULL|  
+|2005TSUG01|Naomitsu Tsugiiwa (継岩直充)|Japan|NULL|  
+|2005TSUI01|Priscilla Tsui|Hong Kong|NULL|  
+|2005TSUJ01|Yoshimi Tsuji|Japan|NULL|  
+|2005TUSC01|Bill Tuscher|USA|NULL|  
+|2005TYLM01|Mikael Tylmad|Sweden|NULL|  
+|2005UEDA01|Hiroto Ueda (上田浩登)|Japan|NULL|  
+|2005UGEL01|Geir Ugelstad|Norway|NULL|  
+|2005UHLI01|Petra Uhlírová|Czech Republic|NULL|  
+|2005ULFE01|Christian Ulfendahl|Sweden|NULL|  
+|2005UPAD01|Parth Upadhyay|USA|NULL|  
+|2005UPAD02|Sapan Upadhyay|USA|NULL|  
+|2005VALD01|Ambie Valdés|USA|NULL|  
+|2005VALD02|Ernie Valdés|USA|NULL|  
+|2005VALD03|Evan Valdés|USA|NULL|  
+|2005VANH01|Anssi Vanhala|Finland|NULL|  
+|2005VANH02|Petri Vanhala|Finland|NULL|  
+|2005VANV01|Rebecca VanVliet|USA|NULL|  
+|2005VARG01|János Varga|Hungary|NULL|  
+|2005VEGA01|Mayte Vega|Spain|NULL|  
+|2005VERE01|Gábor Veréb|Hungary|NULL|  
+|2005VIDA01|Fernando Vidal Agustin|Spain|NULL|  
+|2005VILL01|Mark Villa|USA|NULL|  
+|2005WAGE01|Nathan Wagenet|USA|NULL|  
+|2005WALK01|Alex Walker|USA|NULL|  
+|2005WALL01|Matthew Wallisa|USA|NULL|  
+|2005WALT01|Kirk Walton|USA|NULL|  
+|2005WALT02|Matt Walter|Canada|NULL|  
+|2005WANG01|Solomon Wang|USA|NULL|  
+|2005WASS01|Karl Wassholm|Sweden|NULL|  
+|2005WATA01|Kyoko Watanabe (渡邊恭子)|Japan|NULL|  
+|2005WHIT01|Luke Whitestone|USA|NULL|  
+|2005WHIT02|Mark White|USA|NULL|  
+|2005WIEL01|Maureen aan de Wiel|Netherlands|NULL|  
+|2005WILL01|Ned Williamson|USA|NULL|  
+|2005WINO01|Jason Winokur|USA|NULL|  
+|2005WINT01|Debra Winter|USA|NULL|  
+|2005WIZN01|Michał Wizner|Poland|NULL|  
+|2005WOIT01|Christophe Woittequand|France|NULL|  
+|2005WOLA01|Sławomir Wolanin|Poland|NULL|  
+|2005WONG01|Chun Hin Udo Wong|Hong Kong|NULL|  
+|2005WONG02|Chun Hoo Ulf Wong|Hong Kong|NULL|  
+|2005WONG03|Chun Hun Uli Wong|Hong Kong|NULL|  
+|2005WONG04|Timothy Wong|USA|NULL|  
+|2005WUKE01|Kevin Wu|USA|NULL|  
+|2005WULM01|Saskia Wulms|Netherlands|NULL|  
+|2005XIEE01|Eileen Xie|USA|NULL|  
+|2005YAJN01|Adhish Yajnik|India|NULL|  
+|2005YAKA01|Hidemichi Yakabe (矢加部英達)|Japan|NULL|  
+|2005YAMA01|Jun Yamaguchi (山口純)|Japan|NULL|  
+|2005YAMA02|Taroh Yamagishi (山岸太郎)|Japan|NULL|  
+|2005YAMA03|Tomotsugu Yamamoto (山本智嗣)|Japan|NULL|  
+|2005YANG01|Yu Yang Hsieh|Taiwan|NULL|  
+|2005YAZA01|Atsushi Yazawa (矢澤篤)|Japan|NULL|  
+|2005YOSH01|Fusako Yoshikawa (吉川芙佐子)|Japan|NULL|  
+|2005ZAWI01|Robert Zawiła|Poland|NULL|  
+|2005ZBOR01|Aleksander Zborowski|Poland|NULL|  
+|2005ZEEC01|Cees Zee|Netherlands|NULL|  
+|2005ZEML01|Mariusz Zemła|Poland|NULL|  
+|2005ZHUE01|Edward Zhu|USA|NULL|  
+|2005ZHUT01|Timothy Zhu|USA|NULL|  
+|2005ZOLN01|Tomasz Żołnowski|Poland|NULL|  
+|2006ADAM01|Arthur Adams|USA|NULL|  
+|2006ADAM02|James Adams|USA|NULL|  
+|2006ADMI01|Leon Admiraal|Netherlands|NULL|  
+|2006AKIY01|Hiroki Akiyama (秋山弘樹)|Japan|NULL|  
+|2006ALBA01|Cristiano Alba|Italy|NULL|  
+|2006ANDE01|Jonas E. Andersson|Sweden|NULL|  
+|2006ANDO01|Kouetsu Ando (安藤弘悦)|Japan|NULL|  
+|2006ANDR01|Terence Andriantafika|France|NULL|  
+|2006ARAK01|Sinpei Araki (荒木慎平)|Japan|NULL|  
+|2006ARAK02|Yu Araki (荒木由布)|Japan|NULL|  
+|2006ARRA01|Arnoldo Arrate Hechavarria|USA|NULL|  
+|2006ASAT01|Junnichro Asato (安里純ー郎)|Japan|NULL|  
+|2006ASPE01|Malin Aspelin|Sweden|NULL|  
+|2006AUST01|Greg Austin|United Kingdom|NULL|  
+|2006BAIJ01|Jia-Shiang Bai|Taiwan|NULL|  
+|2006BAKK01|Arend Bakkes|Netherlands|NULL|  
+|2006BAKK02|Corneel Bakkes|Netherlands|NULL|  
+|2006BALL01|Jorn Ballas|Netherlands|NULL|  
+|2006BANA01|Steve Banaban|USA|NULL|  
+|2006BAOT01|Tina Bao|USA|NULL|  
+|2006BARL01|Thom Barlow|United Kingdom|NULL|  
+|2006BAYD01|Daniel Bay|USA|NULL|  
+|2006BELE01|Ana Belen Contreras|Spain|NULL|  
+|2006BEOM01|Kim Beom-Hui|Korea|NULL|  
+|2006BEOM02|Park Beom-Jin|Korea|NULL|  
+|2006BERG01|Martin Berger|United Kingdom|NULL|  
+|2006BERN01|Olivier Bernard|France|NULL|  
+|2006BESA01|Pierre Besancenot|France|NULL|  
+|2006BEYE01|Daniel Beyer|USA|NULL|  
+|2006BIEL01|Bartosz Bielecki|Poland|NULL|  
+|2006BIEN01|Pierre Bienaimé|France|NULL|  
+|2006BIKM01|Maciek Bik|Poland|NULL|  
+|2006BINE01|Matteo Binello|Italy|NULL|  
+|2006BIRC01|Daniel Birchfield|USA|NULL|  
+|2006BIRK01|Till Birkenfeld|Germany|NULL|  
+|2006BITE01|Niklas Bitén|Sweden|NULL|  
+|2006BLOM01|Tobias Blomberg|Sweden|NULL|  
+|2006BONN01|Bastien Bonnet|France|NULL|  
+|2006BORS01|Thomas Borsdorf|Germany|NULL|  
+|2006BREL01|Julien Brelot|France|NULL|  
+|2006BRUC01|Chip Bruchez|USA|NULL|  
+|2006BUCA01|Jeff Bucarion|USA|NULL|  
+|2006BUCK01|Damian Bucki|Poland|NULL|  
+|2006BUCK02|Daniel Buckley|USA|NULL|  
+|2006BUCK03|Johannes Buck|Germany|NULL|  
+|2006BUDI01|Widrian Budiman|Germany|NULL|  
+|2006BUEL01|Gábor Buella|Hungary|NULL|  
+|2006BURG01|Anthony Burgard|USA|NULL|  
+|2006BURG02|Marianne van der Burgh|Netherlands|NULL|  
+|2006BURG03|Rob van der Burgh|Netherlands|NULL|  
+|2006BURN01|Mateusz Burnicki|Poland|NULL|  
+|2006BUSS01|Raphaël Bussière|France|NULL|  
+|2006BUUS01|Henrik Buus Aagaard|Denmark|NULL|  
+|2006BUUS02|Kirstine Buus Aagaard|Denmark|NULL|  
+|2006BYUN01|Park Byung-Hwa|Korea|NULL|  
+|2006CARS01|Gabe Carson|USA|NULL|  
+|2006CAST01|Etienne Castagno|France|NULL|  
+|2006CEAU01|Constantin Ceausu|Romania|NULL|  
+|2006CHAI01|Jack Chai|USA|NULL|  
+|2006CHAN01|Chieh Chang|Taiwan|NULL|  
+|2006CHAN02|Jo Chang-Yeong|Korea|NULL|  
+|2006CHAN03|Jonathan Chang|USA|NULL|  
+|2006CHAN04|Jordan Chang|USA|NULL|  
+|2006CHAN05|Kim Chang-Gyun|Korea|NULL|  
+|2006CHAN06|Max Chang|USA|NULL|  
+|2006CHAN07|Shu-Huai Chang|Taiwan|NULL|  
+|2006CHAN08|Son Chang-Hwan|Korea|NULL|  
+|2006CHAP01|Adam Chaparro|USA|NULL|  
+|2006CHAR01|Frédéric Charliers|Belgium|NULL|  
+|2006CHEN01|Chi-Ming Chen|Taiwan|NULL|  
+|2006CHEN02|Da Cheng|USA|NULL|  
+|2006CHEN03|Kuan-Yu Chen (陳冠宇)|Taiwan|NULL|  
+|2006CHEN04|Hui-Chun Chen|Taiwan|NULL|  
+|2006CHEN05|Jian-Lin Chen|Taiwan|NULL|  
+|2006CHEN06|Justin Chen|USA|NULL|  
+|2006CHIO01|Robin Chiou|Taiwan|NULL|  
+|2006CHIU01|Jeff Chiu|USA|NULL|  
+|2006CHOJ01|Sebastian Chojniak|Poland|NULL|  
+|2006CHOO01|Park Choong-Soo|Korea|NULL|  
+|2006CHOU01|Tzu-Hao Chou|Taiwan|NULL|  
+|2006CHOW01|Andrew Chow|USA|NULL|  
+|2006CHUI01|Richard Chui|USA|NULL|  
+|2006CHUM01|Lisa Chumpulpackdee|USA|NULL|  
+|2006CHUN01|Daniel Chung|USA|NULL|  
+|2006CLAN01|Justin Clang|USA|NULL|  
+|2006COLL01|Jimmy Coll|Belgium|NULL|  
+|2006COLL02|Matthieu Collin|France|NULL|  
+|2006CORR01|Devin Corr-Robinett|USA|NULL|  
+|2006CUDZ01|Karol Cudzich|Poland|NULL|  
+|2006CZOP01|Paulina Czopek|Poland|NULL|  
+|2006DALW01|Lee Dal-Weon|Korea|NULL|  
+|2006DANE01|Martin Daněk|Czech Republic|NULL|  
+|2006DANE02|Tobias Daneels|Belgium|NULL|  
+|2006DECA01|Cosimo Decataldo|Italy|NULL|  
+|2006DECO01|Chloë Decoodt|France|NULL|  
+|2006DELL01|François Dellacherie|France|NULL|  
+|2006DEPE01|Diego de Pereda Sebastián|Spain|NULL|  
+|2006DIGN01|Marco Dignani|Italy|NULL|  
+|2006DING01|Jamie Ding|USA|NULL|  
+|2006DOER01|Peter Doersam|Germany|NULL|  
+|2006DOOL01|Joseph Doolittle|USA|NULL|  
+|2006DORR01|Richard Dorrance|USA|NULL|  
+|2006DRIE01|Micha Driehorst|Germany|NULL|  
+|2006DUDD01|Moritz Dudda|Germany|NULL|  
+|2006DZOA01|Brittany Dzoan|USA|NULL|  
+|2006DZOA02|Chris Dzoan|USA|NULL|  
+|2006DZOA03|Dan Dzoan|USA|NULL|  
+|2006EIDE01|Derrick Eide|Canada|NULL|  
+|2006ELLE01|Sean Eller|USA|NULL|  
+|2006ENCA01|Jose Encarnacion|USA|NULL|  
+|2006ETTI01|Sam Ettinger|USA|NULL|  
+|2006FAGE01|Kristofer Fagerström|Sweden|NULL|  
+|2006FEEL01|Sean Feeley|USA|NULL|  
+|2006FEEN01|Thijs Feenstra|Netherlands|NULL|  
+|2006FENG01|Nathan Feng|USA|NULL|  
+|2006FENG02|Yumao Feng (馮於懋)|Taiwan|NULL|  
+|2006FERR01|Marc-Adrien Ferrand|France|NULL|  
+|2006FICK01|Kevin Fickling|USA|NULL|  
+|2006FIER01|Gabe Fierro|USA|NULL|  
+|2006FISC01|Ádám Fischer|Hungary|NULL|  
+|2006FISC02|Michael Fischer|USA|NULL|  
+|2006FLEC01|Neil Fleck|USA|NULL|  
+|2006FOOJ01|Jesson Foo|USA|NULL|  
+|2006FORA01|Rachel Foran|USA|NULL|  
+|2006FORT01|Manuel Fortuny|Spain|NULL|  
+|2006FRAN01|Piotr Frankowski|Poland|NULL|  
+|2006FUKA01|Kaito Fukasawa (深沢海斗)|Japan|NULL|  
+|2006FUKU01|Seigo Fukushima (福島勢吾)|Japan|NULL|  
+|2006FURU01|Masatoshi Furusawa (古澤雅俊)|Japan|NULL|  
+|2006FURU02|Tomohiro Furusawa (古澤智博)|Japan|NULL|  
+|2006FUWA01|Tomoaki Fuwa (不破智瑛)|Japan|NULL|  
+|2006GALE01|Arnaud van Galen|Netherlands|NULL|  
+|2006GAMO01|Junnichi Gamou (蒲生純一)|Japan|NULL|  
+|2006GARR01|Lucas Garron|Germany|NULL|  
+|2006GARR02|Scott Garrabrant|USA|NULL|  
+|2006GEME01|Tim Gemesi|USA|NULL|  
+|2006GENT01|Greg Gentry|USA|NULL|  
+|2006GERH01|Marcus Gerhardsson|Sweden|NULL|  
+|2006GLAN01|Kamil Glanowski|Poland|NULL|  
+|2006GLEC01|Alex Gleckman|USA|NULL|  
+|2006GOME01|David Gomes|USA|NULL|  
+|2006GORS01|Kamil Górski|Poland|NULL|  
+|2006GOTT01|Michael Gottlieb|USA|NULL|  
+|2006GOUS01|Alexei Gousev|USA|NULL|  
+|2006GOWA01|Sven Gowal|Switzerland|NULL|  
+|2006GRAH01|Jensen Graham|USA|NULL|  
+|2006GRAN01|Sam Grant|USA|NULL|  
+|2006GRAU01|Matt Grau|USA|NULL|  
+|2006GROE01|Davey Groen|Netherlands|NULL|  
+|2006GUNJ01|Mitsuki Gunji (郡司光貴)|Japan|NULL|  
+|2006GUNK01|Kim Gun|Korea|NULL|  
+|2006GUZE01|Rafał Guzewicz|Poland|NULL|  
+|2006HAER01|Jeong Hae-Rang|Korea|NULL|  
+|2006HAGI01|Ken Hagiwara (蘒原絢)|Japan|NULL|  
+|2006HAKS01|Wesley Haksteeg|Netherlands|NULL|  
+|2006HALC01|Michał Halczuk|Poland|NULL|  
+|2006HANE01|Kim Han-Ear|Korea|NULL|  
+|2006HANS01|Elise Hanson|USA|NULL|  
+|2006HASE01|Takafumi Haseda (長谷田貴史)|Japan|NULL|  
+|2006HASE02|Tom Hasegawa (長谷川透夢)|Japan|NULL|  
+|2006HASH01|Riichiro Hashimoto (橋本理一郎)|Japan|NULL|  
+|2006HASH02|Tatsuya Hashimoto (橋本達哉)|Japan|NULL|  
+|2006HAYA01|Eriko Hayashi (林絵莉子)|Japan|NULL|  
+|2006HEDB01|Fredrik Hedberg|Sweden|NULL|  
+|2006HEDG01|Dillion Hedges|USA|NULL|  
+|2006HICK01|Kerissa Hickey|USA|NULL|  
+|2006HIGO01|Ryosuke Higo (肥後亮佑)|Japan|NULL|  
+|2006HIRA01|Yoshihisa Hirano (平野能久)|Japan|NULL|  
+|2006HIRO01|Hirokazu Hiroyama (廣山弘和)|Japan|NULL|  
+|2006HIRO02|Kento Hiroyama (廣山拳都)|Japan|NULL|  
+|2006HIRO03|Tadayoshi Hirota (廣田忠宣)|Japan|NULL|  
+|2006HLAD01|Jan Hlad|Czech Republic|NULL|  
+|2006HOJI01|Choi Ho-Jin|Korea|NULL|  
+|2006HOLM01|Ryan Holman|USA|NULL|  
+|2006HOPD01|Daniël Hop|Netherlands|NULL|  
+|2006HOPM01|Michel Hop|Netherlands|NULL|  
+|2006HORI01|Kohei Horiuti (堀内恒平)|Japan|NULL|  
+|2006HORI02|Mayumi Hori (堀真由美)|Japan|NULL|  
+|2006HORI03|Takuma Horii (堀井拓磨)|Japan|NULL|  
+|2006HOSI01|Yuudai Hosino (星野裕大)|Japan|NULL|  
+|2006HOSO01|Jang Ho-Soon|Korea|NULL|  
+|2006HSIE01|Peggy Hsieh|Taiwan|NULL|  
+|2006HSUH01|Heng-Ruey Hsu|Taiwan|NULL|  
+|2006HSUY01|Yi Hsu|Taiwan|NULL|  
+|2006HUAN01|Andy Huang|USA|NULL|  
+|2006HUAN02|Cheng-Yi Huang|Taiwan|NULL|  
+|2006HUAN03|Jen-Wei Huang|Taiwan|NULL|  
+|2006HUAN04|Jonathan Huang|USA|NULL|  
+|2006HUAN05|Kevin Huang|USA|NULL|  
+|2006HUKE01|Kevin Hu|USA|NULL|  
+|2006HWAN01|Song Hwan-Jun|Korea|NULL|  
+|2006HYAK01|Ikuo Hyakuta (百田郁夫)|Japan|NULL|  
+|2006HYUN01|Kim Hyung-Sub|Korea|NULL|  
+|2006HYUN02|Lee Hyun-Kyu|Korea|NULL|  
+|2006IDEK01|Rei Idekawa (出川怜)|Japan|NULL|  
+|2006IMOT01|Takuto Imoto (井元拓斗)|Japan|NULL|  
+|2006IRAS01|Guillermo Irasuegui|Spain|NULL|  
+|2006ISHI01|Taisuke Ishikawa (石川泰佑)|Japan|NULL|  
+|2006ISHI02|Yuuki Ishikawa (石川友輝)|Japan|NULL|  
+|2006IWAT01|Junichi Iwata (岩田淳一)|Japan|NULL|  
+|2006JACO01|Magnus Jacobsson|Sweden|NULL|  
+|2006JACQ01|Thibaut Jacquinot|France|NULL|  
+|2006JAEY01|JaeYoung Chun (천재영)|Korea|NULL|  
+|2006JAFF01|Kaitlin Jaffe|USA|NULL|  
+|2006JAGY01|Ku Ja-Gyung|Korea|NULL|  
+|2006JAIW01|Wen-Jia Jai (翟文嘉)|Taiwan|NULL|  
+|2006JAKU01|Gaëlle Jakunulski|France|NULL|  
+|2006JANG01|Wei-Jiunn Jang (鄭惟駿)|Taiwan|NULL|  
+|2006JANS01|Ward Janssens|Belgium|NULL|  
+|2006JAWS01|Sean Jaw|USA|NULL|  
+|2006JEON01|Pok Jeong-Ho|Korea|NULL|  
+|2006JOHA01|Erik Johansson|Sweden|NULL|  
+|2006JOHA02|Örjan Johansson|Sweden|NULL|  
+|2006JOHN01|Fred Johnson|USA|NULL|  
+|2006JOHN02|Silas Johnson|USA|NULL|  
+|2006JOKS01|Erwin Joks|Poland|NULL|  
+|2006JONG01|Erik de Jong|Netherlands|NULL|  
+|2006JONG02|Eom Jong-Hyun (엄종현)|Korea|NULL|  
+|2006JOOY01|Jeong Joo-Young|Korea|NULL|  
+|2006JORG01|Kevin Jorgensen|USA|NULL|  
+|2006JOUI01|Timothée Jouitteau|France|NULL|  
+|2006JUHA01|Song Ju-Han|Korea|NULL|  
+|2006JUHW01|Sin Ju-Hwan|Korea|NULL|  
+|2006JUNG01|Lim Jung-Hyoun|Korea|NULL|  
+|2006JUST01|Artur Justyński|Poland|NULL|  
+|2006KANG01|Andrew Kang|USA|NULL|  
+|2006KANG02|Ming-Hao Kang (康洺豪)|Taiwan|NULL|  
+|2006KANG03|Ming-Kai Kang|Taiwan|NULL|  
+|2006KANG04|Yu-Jing Kang|Taiwan|NULL|  
+|2006KANT01|Jason Kantor|USA|NULL|  
+|2006KARP01|Neil Karpe|USA|NULL|  
+|2006KARP02|Ummon Karpe|USA|NULL|  
+|2006KASH01|Kei Kashima (加嶋慧)|Japan|NULL|  
+|2006KASP01|Maria Kaspers|Netherlands|NULL|  
+|2006KASP02|Sander Kaspers|Netherlands|NULL|  
+|2006KATA01|Aya Kataoka (片岡彩)|Japan|NULL|  
+|2006KAWA01|Manabu Kawahara (河原学)|Japan|NULL|  
+|2006KAWA02|Nobuyuki Kawaguchi (川口敦之)|Japan|NULL|  
+|2006KAWA03|Showgo Kawashima (川島省吾)|Japan|NULL|  
+|2006KAWA04|Teruhisa Kawaguchi (川口瑛久)|Japan|NULL|  
+|2006KAWA05|Tomoko Kawaguchi (川口智子)|Japan|NULL|  
+|2006KAZA01|Takashi Kazao (風尾貴司)|Japan|NULL|  
+|2006KAZA02|Yasuki Kazao (風尾靖喜)|Japan|NULL|  
+|2006KENN01|Nicole Kennedy|USA|NULL|  
+|2006KHOS01|Kegham Khosdeghian|USA|NULL|  
+|2006KICH01|Yoon Ki-Chae|Korea|NULL|  
+|2006KIED01|Tomasz Kiedrowicz|Poland|NULL|  
+|2006KIKU01|Yuichi Kikuchi (菊池裕一)|Japan|NULL|  
+|2006KIMB01|Brian Kim|USA|NULL|  
+|2006KIMD01|David Kim|USA|NULL|  
+|2006KIMJ01|Joan Kim|USA|NULL|  
+|2006KIMU01|Masaharu Kimura (木村雅春)|Japan|NULL|  
+|2006KIRC01|Jake Kirchner|USA|NULL|  
+|2006KITA01|Minako Kitano (北野三奈子)|Japan|NULL|  
+|2006KITA02|Naoto Kitamura (北村奈音)|Japan|NULL|  
+|2006KITC01|Rich Kitching|United Kingdom|NULL|  
+|2006KLAA01|Mike Klaassen|Netherlands|NULL|  
+|2006KOHN01|Heiko Kohn|Germany|NULL|  
+|2006KOID01|Tomoyuki Koide (小出兼之)|Japan|NULL|  
+|2006KONA01|Eijiro Konaka (小中栄二郎)|Japan|NULL|  
+|2006KONN01|Akito Konno (近野皓人)|Japan|NULL|  
+|2006KOTI01|Hana Kotinova|Czech Republic|NULL|  
+|2006KOYA01|Shinpei Koyama (小山真平)|Japan|NULL|  
+|2006KREI01|Melanie Kreis|Germany|NULL|  
+|2006KROF01|Tyler Kroff|USA|NULL|  
+|2006KRUE01|Chris Krueger|USA|NULL|  
+|2006KRUS01|Travis Kruse|USA|NULL|  
+|2006KUOC01|Caleb Kuo|USA|NULL|  
+|2006KURO01|Tomonori Kurokawa (黒川智紀)|Japan|NULL|  
+|2006KURU01|Balázs Kurucz|Hungary|NULL|  
+|2006KUTI01|Mátyás Kuti|Hungary|NULL|  
+|2006KYUN01|Kim Kyung-Ho|Korea|NULL|  
+|2006KYUN02|Kim Kyung-Ho|Korea|NULL|  
+|2006LAMA01|Alejandro Lamas Pérez|Spain|NULL|  
+|2006LAMB01|Wim Lambrechts|Belgium|NULL|  
+|2006LAMR01|Raymond Lam|USA|NULL|  
+|2006LAPI01|Stefan Łapicki|Poland|NULL|  
+|2006LAUC01|Caleb Lau|USA|NULL|  
+|2006LAWS01|John Lawson|USA|NULL|  
+|2006LECK01|Mimmi Leckius|Sweden|NULL|  
+|2006LEED01|Daniel Lee|USA|NULL|  
+|2006LEEE01|Ernest Lee|USA|NULL|  
+|2006LEEJ01|Jamie Lee|USA|NULL|  
+|2006LEEJ02|Jeff Lee|USA|NULL|  
+|2006LEEY01|Yu-Hsien Lee (李育賢)|Taiwan|NULL|  
+|2006LEOL01|Olivier Lê|Belgium|NULL|  
+|2006LEON01|Michelle Leong|USA|NULL|  
+|2006LEST01|Christopher Lester|USA|NULL|  
+|2006LEVI01|Harry Levine|USA|NULL|  
+|2006LEWA01|Daniel Lewandowski|Poland|NULL|  
+|2006LIAN01|Chen-Yu Liang|Taiwan|NULL|  
+|2006LIAO01|Kevin Liao|Taiwan|NULL|  
+|2006LICH01|Chung-Heng Li|Taiwan|NULL|  
+|2006LIEU01|Chen-Chieh Lieu|Taiwan|NULL|  
+|2006LIJI01|Jim Li|USA|NULL|  
+|2006LINC01|Chia-Leo Lin (林珈樂)|Taiwan|NULL|  
+|2006LIND01|Jimmy Lindfors|Sweden|NULL|  
+|2006LINW01|Wei-Hsiang Lin (林瑋翔)|Taiwan|NULL|  
+|2006LINW02|Wei-Jun Lin|Taiwan|NULL|  
+|2006LIUC01|Chung-Chi Liu|Taiwan|NULL|  
+|2006LJUN01|Rikard Ljungstrand|Sweden|NULL|  
+|2006LONG01|Wu Longquan (呉 龍権)|China|NULL|  
