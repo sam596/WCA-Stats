@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Thu Oct 11 at 2231UTC*
+*Last updated using WCA Developer Export from Mon Oct 15 at 2108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -35,8 +35,8 @@
 |25|[Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01)|Poland|**10:02.27**|25.68|3:04.33|6:32.26|  
 |26|[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Germany|**10:04.45**|35.06|2:47.61|6:41.78|  
 |27|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|Malaysia|**10:07.40**|23.21|2:39.30|7:04.89|  
-|28|[Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01)|Singapore|**10:44.34**|36.00|3:10.46|6:57.88|  
-|29|[Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01)|Denmark|**10:45.13**|29.91|2:46.66|7:28.56|  
+|28|[Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01)|Denmark|**10:43.72**|28.50|2:46.66|7:28.56|  
+|29|[Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01)|Singapore|**10:44.34**|36.00|3:10.46|6:57.88|  
 |30|[Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01)|China|**11:07.54**|24.19|3:22.75|7:20.60|  
 |31|[Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01)|Poland|**11:09.63**|30.04|2:37.57|8:02.02|  
 |32|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|**11:09.65**|46.56|3:17.41|7:05.68|  
@@ -200,10 +200,10 @@
 |190|[Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01)|USA|**29:57.63**|1:39.94|9:10.69|19:07.00|  
 |191|[Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)|Poland|**30:13.02**|29.58|6:30.44|23:13.00|  
 |192|[Henrik Olsson](https://www.worldcubeassociation.org/persons/2009OLSS01)|Sweden|**30:21.49**|1:22.49|10:41.00|18:18.00|  
-|193|[Mingyang Xie (谢铭扬)](https://www.worldcubeassociation.org/persons/2014XIEM01)|China|**30:26.22**|40.25|8:12.97|21:33.00|  
-|194|[Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05)|China|**30:27.95**|1:21.80|6:09.15|22:57.00|  
-|195|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|China|**30:39.47**|34.78|6:55.69|23:09.00|  
-|196|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**30:42.15**|50.60|8:45.55|21:06.00|  
+|193|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**30:21.82**|30.27|8:45.55|21:06.00|  
+|194|[Mingyang Xie (谢铭扬)](https://www.worldcubeassociation.org/persons/2014XIEM01)|China|**30:26.22**|40.25|8:12.97|21:33.00|  
+|195|[Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05)|China|**30:27.95**|1:21.80|6:09.15|22:57.00|  
+|196|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|China|**30:39.47**|34.78|6:55.69|23:09.00|  
 |197|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|**30:42.65**|59.59|7:52.06|21:51.00|  
 |198|[Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01)|USA|**30:42.91**|56.84|7:31.07|22:15.00|  
 |199|[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Germany|**30:45.59**|1:08.46|8:41.13|20:56.00|  
@@ -312,7 +312,7 @@
 |302|[Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02)|USA|**47:53.92**|49.28|8:23.64|38:41.00|  
 |303|[Chung Tze Yang (鍾志扬)](https://www.worldcubeassociation.org/persons/2009YANG31)|Malaysia|**47:59.05**|2:03.05|11:16.00|34:40.00|  
 |304|[Fritz Löhr](https://www.worldcubeassociation.org/persons/2011LOHR01)|Germany|**48:09.28**|1:52.28|11:09.00|35:08.00|  
-|305|[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|**48:24.26**|1:48.26|11:01.00|35:35.00|  
+|305|[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|**48:11.07**|1:35.07|11:01.00|35:35.00|  
 |306|[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|Germany|**49:26.21**|1:26.65|8:14.56|39:45.00|  
 |307|[Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01)|Japan|**49:52.69**|2:05.69|12:04.00|35:43.00|  
 |308|[Wenshun Zhou (周文舜)](https://www.worldcubeassociation.org/persons/2013WENS01)|China|**50:05.28**|1:25.28|12:07.00|36:33.00|  

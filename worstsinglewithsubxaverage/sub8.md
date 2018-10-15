@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Oct 11 at 2231UTC*
+*Last updated using WCA Developer Export from Mon Oct 15 at 2108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -87,7 +87,7 @@
 |77|[Kennan LeJeune](https://www.worldcubeassociation.org/persons/2013LEJE03)|USA|7.66|5.78|  
 |78|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|7.05|5.76|  
 |79|[Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01)|USA|7.30|5.74|  
-|80|[Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01)|Netherlands|7.85|5.73|  
+|80|[Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01)|Netherlands|7.54|5.73|  
 |81|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|Philippines|7.05|5.72|  
 |82|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|7.19|5.71|  
 |83|[Richard Jay S. Apagar](https://www.worldcubeassociation.org/persons/2010APAG01)|Philippines|7.63|5.71|  
@@ -96,7 +96,7 @@
 |86|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|7.25|5.64|  
 |87|[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|USA|7.55|5.63|  
 |88|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|5.63|  
-|89|[Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01)|Netherlands|7.86|5.63|  
+|89|[Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01)|Netherlands|7.80|5.63|  
 |90|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|7.58|5.62|  
 |91|[Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05)|Switzerland|7.52|5.61|  
 |92|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.78|5.60|  
