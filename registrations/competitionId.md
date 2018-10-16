@@ -7946,25 +7946,6 @@ Key:
 |Samuel Aaron Muñoz Huamani|NULL|[TrujilloOpen2018](https://www.worldcubeassociation.org/competitions/TrujilloOpen2018)|Pending|333,222,444,333oh|  
 |[Sergio Luciano Basilio Latorraca](https://www.worldcubeassociation.org/persons/2017LATO02)|Peru|[TrujilloOpen2018](https://www.worldcubeassociation.org/competitions/TrujilloOpen2018)|Accepted|333,222,444,333oh,minx,pyram|  
 |[Sergio Minaya Pimentel](https://www.worldcubeassociation.org/persons/2017PIME01)|Peru|[TrujilloOpen2018](https://www.worldcubeassociation.org/competitions/TrujilloOpen2018)|Pending|333,222,444,333oh,minx,pyram|  
-|[Achraf Chaouch](https://www.worldcubeassociation.org/persons/2016CHAO02)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|[Afef Thabet](https://www.worldcubeassociation.org/persons/2014THAB01)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,pyram,skewb|  
-|Ahmed Sghaier|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,minx,pyram,sq1|  
-|[Aziz Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS03)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|[Chaker Souissi](https://www.worldcubeassociation.org/persons/2015SOUI01)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,pyram|  
-|[Emna Boughizane](https://www.worldcubeassociation.org/persons/2015BOUG02)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
-|[Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|Hayder fathel|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222|  
-|Husin Khlif|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,444,555,333bf,333oh,minx,333mbf|  
-|Khalil Oualdi|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222|  
-|[Mahmoud Ibrahim](https://www.worldcubeassociation.org/persons/2014IBRA01)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
-|Mohamed Affes|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,pyram|  
-|Mohamed Amine Boughizane|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333|  
-|Ramzi Mourali|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,pyram|  
-|[Raouf Thabet](https://www.worldcubeassociation.org/persons/2014THAB03)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,pyram|  
-|[Selim Makni](https://www.worldcubeassociation.org/persons/2018MAKN01)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,333bf,333oh,minx,sq1,333mbf|  
-|[Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,444,555,333bf,333oh,minx,sq1,333mbf|  
-|Wael Ben Ali|NULL|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
-|[Yosr Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS04)|Tunisia|[TunisiaAutumnOpen2018](https://www.worldcubeassociation.org/competitions/TunisiaAutumnOpen2018)|Accepted|333,222,minx,pyram,skewb|  
 |[Alessandro Iraci](https://www.worldcubeassociation.org/persons/2011IRAC01)|Italy|[TuscanyOpen2018](https://www.worldcubeassociation.org/competitions/TuscanyOpen2018)|Accepted|333,444,333fm|  
 |[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|Italy|[TuscanyOpen2018](https://www.worldcubeassociation.org/competitions/TuscanyOpen2018)|Accepted|333,222,444,333bf,333fm,333oh,clock,pyram|  
 |[Alexandros Fokianos](https://www.worldcubeassociation.org/persons/2017FOKI01)|Italy|[TuscanyOpen2018](https://www.worldcubeassociation.org/competitions/TuscanyOpen2018)|Pending|333,222,444,333fm|  
