@@ -3,7 +3,7 @@ INSERT INTO wca_stats.last_updated VALUES ('pbs', NOW(), NULL, '') ON DUPLICATE 
 DROP TABLE IF EXISTS pbs;
 CREATE TABLE pbs
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id), KEY pef (personId, eventId, format), KEY pc (personId, competitionId))
-SELECT personId, competitionId, date, weekend, eventId, roundTypeId, result, format, `PB`
+SELECT personId, competitionId, date, weekend, eventId, roundTypeId, result, format
 FROM concise_results
 WHERE `PB` = 1;
 
