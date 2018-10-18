@@ -29,9 +29,10 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.personId, 
   	r.personName, 
   	r.countryId personCountryId, 
-  	c.continentId, 
+  	c.continentId personContinentId, 
   	r.competitionId, 
-    comps.countryId compCountryId,
+    	comps.countryId compCountryId,
+	comps.continentId compContinentId,
   	r.eventId, 
   	r.roundTypeId, 
   	r.formatId, 
@@ -46,11 +47,11 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.value4,
   	r.value5,
   	@date := DATE(CONCAT(year, '-', month, '-', day)) date,
- 	  @weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend
+ 	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend
   FROM 
   	wca_dev.results r
   JOIN 
-  	wca_dev.competitions comps 
+  	wca_stats.competitions_extra comps 
   ON 
   	comps.id = r.competitionId
   JOIN
