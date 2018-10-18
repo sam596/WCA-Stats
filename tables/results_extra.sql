@@ -32,7 +32,7 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	c.continentId personContinentId, 
   	r.competitionId, 
     	comps.countryId compCountryId,
-	comps.continentId compContinentId,
+	d.continentId compContinentId,
   	r.eventId, 
   	r.roundTypeId, 
   	r.formatId, 
@@ -51,9 +51,13 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   FROM 
   	wca_dev.results r
   JOIN 
-  	wca_stats.competitions_extra comps 
+  	wca_dev.competitions comps 
   ON 
   	comps.id = r.competitionId
+  JOIN
+  	wca_dev.countries d
+  ON
+  	comps.countryId = d.id
   JOIN
   	wca_dev.countries c
   ON 
