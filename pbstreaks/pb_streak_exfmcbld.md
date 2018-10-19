@@ -888,8 +888,8 @@
 |=|[Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01)|20|[JRCAKansaiSummer2014](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2014)||  
 |=|[Tejas Lotankar](https://www.worldcubeassociation.org/persons/2015LOTA01)|20|[SCMUFreedomOpen2015](https://www.worldcubeassociation.org/competitions/SCMUFreedomOpen2015)||  
 |=|[Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01)|20|[DoSeum2016](https://www.worldcubeassociation.org/competitions/DoSeum2016)||  
-|=|[Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01)|20|[USOpen2007](https://www.worldcubeassociation.org/competitions/USOpen2007)|[BaltimoreSpring2010](https://www.worldcubeassociation.org/competitions/BaltimoreSpring2010)|  
 |=|[Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01)|20|[USNationals2010](https://www.worldcubeassociation.org/competitions/USNationals2010)|[RedCrossCubingOpen2014](https://www.worldcubeassociation.org/competitions/RedCrossCubingOpen2014)|  
+|=|[Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01)|20|[USOpen2007](https://www.worldcubeassociation.org/competitions/USOpen2007)|[BaltimoreSpring2010](https://www.worldcubeassociation.org/competitions/BaltimoreSpring2010)|  
 |=|[Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01)|20|[SlovakianOpen2016](https://www.worldcubeassociation.org/competitions/SlovakianOpen2016)||  
 |=|[Tristan Paulussen](https://www.worldcubeassociation.org/persons/2009PAUL01)|20|[DutchOpen2009](https://www.worldcubeassociation.org/competitions/DutchOpen2009)||  
 |=|[Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04)|20|[BASC32014](https://www.worldcubeassociation.org/competitions/BASC32014)||  
