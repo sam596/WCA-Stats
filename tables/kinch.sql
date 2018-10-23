@@ -82,7 +82,7 @@ CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
 SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
 FROM wca_stats.ranks_all 
 WHERE 
-((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','666','777')) 
+((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
 (format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
 OR
@@ -159,7 +159,7 @@ CREATE TEMPORARY TABLE wca_stats.kinchhelpworld
 SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
 FROM wca_stats.ranks_all 
 WHERE 
-((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','666','777')) 
+((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
 (format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
 OR
