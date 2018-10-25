@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Oct 21 at 2208UTC*
+*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -9,18 +9,18 @@
 |Rank|Name|Country|Average|Single|  
 |--|--|--|--|--|  
 |1|[Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|7.92|7.48|  
-|2|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|7.96|6.95|  
-|3|[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|Norway|7.99|6.92|  
-|4|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|7.97|6.91|  
-|5|[Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|7.85|6.90|  
-|6|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
-|7|[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|7.73|6.84|  
+|2|[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|Norway|7.99|6.92|  
+|3|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|7.97|6.91|  
+|4|[Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|7.85|6.90|  
+|5|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
+|6|[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|7.73|6.84|  
 |=|[Vincent Wong](https://www.worldcubeassociation.org/persons/2014WONG08)|Australia|7.73|6.84|  
-|9|[Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04)|USA|7.77|6.80|  
-|10|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
-|11|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|7.81|6.74|  
-|12|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
-|13|[David Nguyen](https://www.worldcubeassociation.org/persons/2012NGUY08)|USA|7.85|6.71|  
+|8|[Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04)|USA|7.77|6.80|  
+|9|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
+|10|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|7.81|6.74|  
+|11|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
+|12|[David Nguyen](https://www.worldcubeassociation.org/persons/2012NGUY08)|USA|7.85|6.71|  
+|13|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|7.95|6.65|  
 |14|[Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01)|Romania|7.67|6.63|  
 |15|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|7.94|6.62|  
 |16|[Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12)|Taiwan|7.65|6.59|  
@@ -113,7 +113,7 @@
 |103|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|7.19|5.38|  
 |104|[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|7.67|5.37|  
 |105|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|7.23|5.34|  
-|106|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|7.89|5.33|  
+|106|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|7.63|5.33|  
 |107|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|7.55|5.31|  
 |108|[Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01)|USA|7.38|5.25|  
 |109|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|7.28|5.23|  
@@ -121,7 +121,7 @@
 |111|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.89|5.19|  
 |112|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
 |113|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.75|5.16|  
-|114|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|7.05|5.13|  
+|114|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.86|5.13|  
 |115|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|7.11|5.12|  
 |116|[Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01)|Philippines|7.24|5.12|  
 |=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|7.24|5.10|  
