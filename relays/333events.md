@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -319,7 +319,7 @@
 |309|[Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01)|Korea|**3:29.11**|14.55|1:26.90|1:24.36|23.30|  
 |310|[Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03)|China|**3:29.54**|7.62|1:16.55|1:53.74|11.63|  
 |311|[Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01)|India|**3:30.08**|12.36|1:42.00|1:16.65|19.07|  
-|312|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|**3:30.15**|5.86|2:02.69|1:11.22|10.38|  
+|312|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|**3:30.14**|5.85|2:02.69|1:11.22|10.38|  
 |313|[José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01)|Colombia|**3:30.24**|7.16|1:19.02|1:49.90|14.16|  
 |314|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|**3:30.30**|5.48|2:26.06|48.51|10.25|  
 |315|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|China|**3:30.74**|9.35|34.78|2:31.26|15.35|  

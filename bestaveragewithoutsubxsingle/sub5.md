@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -28,7 +28,7 @@
 |=|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|6.06|7.18|  
 |19|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|5.38|7.19|  
 |=|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|5.71|7.19|  
-|21|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|5.86|7.20|  
+|21|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|5.85|7.20|  
 |=|[Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|6.16|7.20|  
 |23|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|USA|5.93|7.22|  
 |24|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|5.34|7.23|  
@@ -140,7 +140,7 @@
 |=|[Vishantak Srikrishna](https://www.worldcubeassociation.org/persons/2014SRIK03)|USA|6.66|8.04|  
 |131|[Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01)|India|6.02|8.05|  
 |=|[Jacob Hutnyk](https://www.worldcubeassociation.org/persons/2011HUTN01)|Canada|6.04|8.05|  
-|133|[Angelo Giovanni Licetti León](https://www.worldcubeassociation.org/persons/2013LEON05)|Peru|6.11|8.06|  
+|133|[Angelo Giovanni Licetti León](https://www.worldcubeassociation.org/persons/2013LEON05)|Peru|5.83|8.06|  
 |=|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|6.14|8.06|  
 |=|[Alex Johnson](https://www.worldcubeassociation.org/persons/2014JOHN04)|USA|6.15|8.06|  
 |=|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|6.44|8.06|  

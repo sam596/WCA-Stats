@@ -1,6 +1,6 @@
 ## WCA Relays - 333eventsnofeet
 
-*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -443,11 +443,11 @@
 |433|[Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01)|Singapore|**1:35.92**|14.30|52.53|29.09|  
 |434|[Maciej Mancewicz](https://www.worldcubeassociation.org/persons/2010MANC01)|Poland|**1:35.96**|14.53|51.47|29.96|  
 |435|[Julian Schaffhauser](https://www.worldcubeassociation.org/persons/2011SCHA02)|Argentina|**1:36.05**|10.35|1:06.13|19.57|  
-|436|[Chuhe Fang (方楚贺)](https://www.worldcubeassociation.org/persons/2017FANG07)|China|**1:36.28**|8.77|1:13.87|13.64|  
-|437|[Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20)|China|**1:36.30**|6.09|1:20.78|9.43|  
-|438|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|**1:36.31**|6.35|1:14.93|15.03|  
-|439|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|**1:36.36**|7.56|1:16.52|12.28|  
-|440|[Andrew Le](https://www.worldcubeassociation.org/persons/2009LEAN01)|USA|**1:36.56**|11.51|47.39|37.66|  
+|436|[Andrew Le](https://www.worldcubeassociation.org/persons/2009LEAN01)|USA|**1:36.15**|11.51|46.98|37.66|  
+|437|[Chuhe Fang (方楚贺)](https://www.worldcubeassociation.org/persons/2017FANG07)|China|**1:36.28**|8.77|1:13.87|13.64|  
+|438|[Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20)|China|**1:36.30**|6.09|1:20.78|9.43|  
+|439|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|**1:36.31**|6.35|1:14.93|15.03|  
+|440|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|**1:36.36**|7.56|1:16.52|12.28|  
 |441|[Jeric Villanueva](https://www.worldcubeassociation.org/persons/2013VILL03)|Philippines|**1:36.59**|12.47|1:05.81|18.31|  
 |442|[Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02)|Malaysia|**1:36.65**|7.35|1:16.96|12.34|  
 |443|[Michał Wroński](https://www.worldcubeassociation.org/persons/2015WRON01)|Poland|**1:36.83**|9.81|52.68|34.34|  

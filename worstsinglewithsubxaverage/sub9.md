@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -256,5 +256,5 @@
 |246|[Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01)|USA|8.33|6.67|  
 |247|[David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02)|Australia|8.64|6.67|  
 |248|[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|8.49|6.67|  
-|249|[Vishantak Srikrishna](https://www.worldcubeassociation.org/persons/2014SRIK03)|USA|8.04|6.66|  
-|250|[Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01)|United Kingdom|8.32|6.65|  
+|249|[Jeff Oneil Magallanes Agüero](https://www.worldcubeassociation.org/persons/2017AGUE01)|Peru|8.75|6.67|  
+|250|[Vishantak Srikrishna](https://www.worldcubeassociation.org/persons/2014SRIK03)|USA|8.04|6.66|  

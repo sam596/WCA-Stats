@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Oct 24 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -79,8 +79,8 @@
 |69|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|7.48|5.89|  
 |70|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|7.86|5.89|  
 |71|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|7.87|5.87|  
-|72|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|7.20|5.86|  
-|73|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|7.86|5.86|  
+|72|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|7.86|5.86|  
+|73|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|7.20|5.85|  
 |74|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|7.28|5.82|  
 |75|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|7.38|5.81|  
 |76|[Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01)|Poland|7.13|5.81|  
