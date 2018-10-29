@@ -501,7 +501,7 @@
 |=|[Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19)|China|12.45|  
 |492|[Shaoting Wen (温绍庭)](https://www.worldcubeassociation.org/persons/2016WENS01)|China|12.46|  
 |493|[Kuba Szewczyk](https://www.worldcubeassociation.org/persons/2013SZEW01)|Poland|12.48|  
-|=|[Luke Vanlaningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|12.48|  
+|=|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|12.48|  
 |495|[Yizhou Zhang (张乂洲)](https://www.worldcubeassociation.org/persons/2016ZHAY07)|China|12.49|  
 |496|[Mingxuan Ni (倪铭轩)](https://www.worldcubeassociation.org/persons/2016NIMI01)|China|12.50|  
 |497|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|12.51|  

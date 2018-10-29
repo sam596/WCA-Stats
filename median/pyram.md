@@ -133,7 +133,7 @@
 |123|[Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02)|USA|4.65|  
 |=|[Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06)|Brazil|4.65|  
 |=|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|4.65|  
-|126|[Luke Vanlaningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|4.66|  
+|126|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|4.66|  
 |=|[Inha Woo (우인하)](https://www.worldcubeassociation.org/persons/2010INHA01)|Korea|4.66|  
 |=|[Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02)|Singapore|4.66|  
 |129|[Roman Misirkhanov (Роман Місірханов)](https://www.worldcubeassociation.org/persons/2015MISI01)|Ukraine|4.67|  

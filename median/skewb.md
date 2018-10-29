@@ -94,7 +94,7 @@
 |=|[Vojtěch Kundera](https://www.worldcubeassociation.org/persons/2015KUND04)|Czech Republic|4.63|  
 |85|[Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47)|Spain|4.64|  
 |86|[John Mackie](https://www.worldcubeassociation.org/persons/2016MACK07)|USA|4.66|  
-|87|[Luke Vanlaningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|4.67|  
+|87|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|4.67|  
 |=|[Huan Luo (罗桓)](https://www.worldcubeassociation.org/persons/2016LUOH02)|China|4.67|  
 |=|[Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01)|Sweden|4.67|  
 |=|[Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06)|Italy|4.67|  

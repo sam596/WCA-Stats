@@ -832,7 +832,7 @@
 |=|[Nikita Bespalov](https://www.worldcubeassociation.org/persons/2016BESP01)|Russia|24.76|  
 |823|[Zhiyuan Zhang (张智渊)](https://www.worldcubeassociation.org/persons/2016ZHAZ01)|China|24.77|  
 |824|[Christopher Fernández Trejo](https://www.worldcubeassociation.org/persons/2013TREJ01)|Spain|24.78|  
-|=|[Luke Vanlaningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|24.78|  
+|=|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|24.78|  
 |=|[Bryan Gan Tze Yang](https://www.worldcubeassociation.org/persons/2016YANG83)|Malaysia|24.78|  
 |827|[Petr Ambrož](https://www.worldcubeassociation.org/persons/2016AMBR02)|Czech Republic|24.79|  
 |828|[Willy Vargas Mendez](https://www.worldcubeassociation.org/persons/2016MEND04)|Bolivia|24.80|  
