@@ -65,7 +65,7 @@ then
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The relay tables have been updated! :tada:"}' $discordwh
 
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/registrations_extra.sql && \
-  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/person_comp_extra.sql && \
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/person_comps_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/persons_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/competitions_extra.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra`, `person_comps_extra`, `persons_extra` and `competitions_extra` have been updated! :tada:"}' $discordwh
