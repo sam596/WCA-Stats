@@ -7,7 +7,7 @@ SELECT a.*,
 	@p := a.personId 'drop1',
 	@d := a.date 'drop2'
 FROM
-	(SELECT a.*, b.PBs, a.singlePBs, a.averagePBs
+	(SELECT a.*, b.PBs, b.singlePBs, b.averagePBs
 	FROM
 		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date, weekend,
 				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsAttempted',
