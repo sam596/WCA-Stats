@@ -1,15 +1,15 @@
-DROP TABLE IF EXISTS personCompsExtra;
+DROP TABLE IF EXISTS person_Comps_Extra;
 SET @p = NULL, @c = 0, @dd = NULL, @d = NULL;
-CREATE TABLE personCompsExtra
+CREATE TABLE person_Comps_Extra
 SELECT a.*,
 	@c := IF(a.personId = @p,@c+1,1) 'compNumber',
 	@dd := IF(a.personId = @p,DATEDIFF(a.date,@d),NULL) 'daysLastComp',
 	@p := a.personId 'drop1',
 	@d := a.date 'drop2'
 FROM
-	(SELECT a.*, b.PBs
+	(SELECT a.*, b.PBs, a.singlePBs, a.averagePBs
 	FROM
-		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date,
+		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date, weekend,
 				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsAttempted',
 				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsSucceeded',
 				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsAverage',
@@ -24,8 +24,6 @@ FROM
 				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN 1 END) 'gold',
 				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 2 AND best > 0 THEN 1 END) 'silver',
 				COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) 'bronze',
-				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos <= 3 AND best > 0 THEN eventId END)) 'eventsPodiumed',
-				COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN eventId END)) 'eventsWon',
 				COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord != '' THEN 1 END) 'records',
 				COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'WR' THEN 1 END) 'WRs',
 				COUNT(CASE WHEN regionalSingleRecord NOT IN ('','NR','WR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord NOT IN ('','NR','WR') THEN 1 END) 'CRs',
@@ -35,7 +33,7 @@ FROM
 		FROM results_extra
 		GROUP BY personId, competitionId) a
 	JOIN
-		(SELECT personId, competitionId, COUNT(*) 'PBs'
+		(SELECT personId, competitionId, COUNT(*) 'PBs', COUNT(CASE WHEN format = 's' THEN 1 END) 'singlePBs', COUNT(CASE WHEN format = 'a' THEN 1 END) 'averagePBs'
 		FROM pbs
 		GROUP BY personId, competitionId) b
 	ON a.personId = b.personId AND a.competitionId = b.competitionId
