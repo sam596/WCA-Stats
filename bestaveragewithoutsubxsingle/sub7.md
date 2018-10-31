@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Sun Oct 28 at 0008UTC*
+*Last updated using WCA Developer Export from Wed Oct 31 at 0107UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -82,7 +82,7 @@
 |=|[Taiga Takaoka (高岡汰虎)](https://www.worldcubeassociation.org/persons/2015TAKA06)|Japan|7.90|8.77|  
 |73|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|7.44|8.78|  
 |=|[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|India|7.48|8.78|  
-|=|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|7.99|8.78|  
+|=|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|7.51|8.78|  
 |76|[Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03)|Japan|7.00|8.79|  
 |=|[Sripad Sarma Katrapati](https://www.worldcubeassociation.org/persons/2014KATR01)|India|7.09|8.79|  
 |=|[Eyal Alfasi](https://www.worldcubeassociation.org/persons/2010ALFA03)|Israel|7.58|8.79|  
