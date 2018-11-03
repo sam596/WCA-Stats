@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Wed Oct 31 at 0107UTC*
+*Last updated using WCA Developer Export from Sat Nov 03 at 0208UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -22,7 +22,7 @@
 |12|[Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01)|India|**23:00.97**|2.51|8.87|35.58|1:42.08|15.30|36.80|2:34.13|1:10.46|6:07.88|2:39.98|4:19.05|33.01|1:16.16|5.19|9.74|44.23|  
 |13|[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|Korea|**23:12.71**|2.47|6.29|45.87|1:39.66|13.35|25.63|3:44.22|56.29|9:25.80|1:51.81|2:49.13|11.53|30.12|4.43|4.17|21.94|  
 |14|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|**23:14.25**|1.35|7.16|46.76|39.63|11.90|27.51|4:37.30|52.65|10:13.00|1:33.81|2:34.17|4.09|51.04|2.19|2.33|9.36|  
-|15|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|**24:14.50**|1.17|6.45|44.28|40.39|9.94|25.61|4:03.96|59.46|11:01.00|1:52.53|3:08.91|4.59|45.37|2.11|1.65|7.08|  
+|15|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|**24:06.72**|1.17|6.45|44.28|40.39|9.94|25.61|4:03.96|59.46|11:01.00|1:52.53|3:01.13|4.59|45.37|2.11|1.65|7.08|  
 |16|[Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01)|China|**24:35.19**|2.39|10.55|25.68|41.11|18.18|40.82|3:13.75|1:31.66|7:54.94|2:52.56|4:30.46|7.84|1:40.38|3.01|4.86|17.00|  
 |17|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|**24:59.53**|1.05|7.86|46.78|42.18|12.83|34.45|4:26.27|1:10.20|10:13.00|2:12.38|3:17.99|6.25|55.71|2.08|1.68|8.82|  
 |18|[Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01)|Singapore|**25:10.04**|2.04|9.48|36.00|2:57.72|18.55|33.81|3:10.46|1:13.30|6:57.88|2:31.38|3:57.07|19.38|1:43.93|8.46|7.93|22.65|  
@@ -163,8 +163,8 @@
 |153|[Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01)|USA|**01:07:47.17**|2.45|9.75|1:56.05|57.15|20.43|52.29|15:03.00|1:37.05|33:14.00|4:33.65|5:57.99|14.91|1:43.34|23.02|4.65|37.44|  
 |154|[Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01)|China|**01:08:11.72**|4.19|11.58|2:57.21|1:55.49|21.92|47.66|17:31.00|1:23.27|31:52.00|3:12.47|5:10.03|59.93|1:01.76|6.22|6.07|30.92|  
 |155|[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|**01:08:27.94**|2.05|14.19|1:44.69|3:17.78|26.24|55.90|9:05.00|2:08.71|34:57.00|4:36.64|6:58.55|5.83|3:09.64|4.12|5.03|36.57|  
-|156|[Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01)|Korea|**01:09:09.57**|2.98|8.41|1:27.12|27.96|14.90|38.65|13:12.00|1:31.68|39:50.00|3:34.16|5:59.21|10.67|1:33.77|6.00|3.11|8.95|  
-|157|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**01:09:10.00**|2.69|10.58|45.56|1:16.32|13.62|48.02|14:00.00|1:49.70|38:58.00|3:15.17|5:07.29|8.77|1:40.46|5.34|10.12|38.36|  
+|156|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**01:09:08.10**|2.69|10.58|45.56|1:16.32|13.62|46.12|14:00.00|1:49.70|38:58.00|3:15.17|5:07.29|8.77|1:40.46|5.34|10.12|38.36|  
+|157|[Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01)|Korea|**01:09:09.57**|2.98|8.41|1:27.12|27.96|14.90|38.65|13:12.00|1:31.68|39:50.00|3:34.16|5:59.21|10.67|1:33.77|6.00|3.11|8.95|  
 |158|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|**01:09:16.57**|1.56|8.83|1:35.37|42.53|13.54|35.04|13:33.00|1:08.04|42:43.00|2:39.77|4:32.59|7.09|59.39|2.56|2.37|11.89|  
 |159|[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Sweden|**01:09:28.81**|6.80|18.08|1:43.55|2:56.52|35.40|1:02.11|9:42.02|2:43.62|28:02.00|6:35.94|10:20.00|32.70|1:42.93|5.22|15.95|2:45.97|  
 |160|[Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02)|Germany|**01:09:43.83**|2.91|9.77|1:29.19|4:39.06|19.81|45.15|13:47.00|1:29.56|37:08.00|2:44.83|4:27.46|21.98|1:34.34|5.10|7.81|31.86|  
