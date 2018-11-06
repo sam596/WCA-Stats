@@ -1,6 +1,6 @@
 ## Median Rankings
 
-*Last updated using WCA Developer Export from Sat Nov 03 at 0208UTC*
+*Last updated using WCA Developer Export from Tue Nov 06 at 0308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -768,7 +768,7 @@
 |758|[Marek Padlewski](https://www.worldcubeassociation.org/persons/2009PADL01)|Poland|14.00|  
 |759|[Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01)|Slovakia|14.01|  
 |=|[Suen Ming Chi (孫銘志)](https://www.worldcubeassociation.org/persons/2017CHIS02)|Hong Kong|14.01|  
-|761|[Gunnar Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|Sweden|14.03|  
+|761|[Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|Sweden|14.03|  
 |762|[Jonathan Collins](https://www.worldcubeassociation.org/persons/2015COLL08)|United Kingdom|14.05|  
 |=|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|14.05|  
 |=|[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|14.05|  
