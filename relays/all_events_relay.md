@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Tue Nov 06 at 0308UTC*
+*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -127,7 +127,7 @@
 |117|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|USA|**51:37.59**|2.03|7.22|52.91|1:35.73|17.46|35.24|8:41.47|1:09.46|30:37.00|2:24.60|3:43.10|9.24|51.46|2.52|6.16|21.99|  
 |118|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|**51:39.74**|1.10|5.31|1:20.01|1:18.40|9.41|25.42|6:23.23|1:01.48|32:29.00|2:21.64|4:13.01|15.62|1:09.59|4.29|5.97|16.26|  
 |119|[Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01)|Japan|**53:24.81**|3.04|9.35|41.28|2:20.90|19.57|35.39|8:40.08|1:15.39|28:08.00|3:21.33|5:16.82|23.54|1:15.96|6.38|12.66|35.12|  
-|120|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**53:54.58**|1.72|7.47|1:18.27|45.49|18.03|43.88|10:54.00|1:25.70|28:04.00|3:37.92|4:22.68|6.75|1:38.53|2.55|4.98|22.61|  
+|120|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**53:54.29**|1.72|7.47|1:18.27|45.49|18.03|43.59|10:54.00|1:25.70|28:04.00|3:37.92|4:22.68|6.75|1:38.53|2.55|4.98|22.61|  
 |121|[José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01)|Colombia|**54:05.25**|1.78|7.16|1:19.02|1:49.90|14.16|34.80|13:22.00|1:13.48|28:01.00|2:31.73|3:35.52|10.48|44.16|3.47|2.59|14.00|  
 |122|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|**54:07.87**|0.84|4.77|45.84|2:13.47|9.43|29.57|9:28.00|54.82|31:49.00|2:20.07|3:32.41|11.13|1:28.19|3.96|15.96|20.41|  
 |123|[Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03)|China|**54:15.87**|6.09|18.03|1:22.23|1:44.96|48.52|1:09.97|8:29.26|2:17.84|24:54.00|4:08.78|5:34.89|23.04|2:08.05|10.44|12.07|27.70|  
@@ -177,8 +177,8 @@
 |167|[Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01)|China|**01:14:37.92**|3.57|14.73|1:35.98|2:42.19|27.06|52.49|14:22.00|1:53.20|42:01.00|3:25.27|5:08.39|21.88|54.35|5.30|6.61|23.90|  
 |168|[Chung Tze Yang (鍾志扬)](https://www.worldcubeassociation.org/persons/2009YANG31)|Malaysia|**01:15:49.14**|4.53|13.50|2:03.05|7:11.36|32.56|1:00.31|11:16.00|2:25.00|34:40.00|5:16.30|7:50.72|11.66|2:12.48|5.33|10.87|35.47|  
 |169|[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|Germany|**01:16:51.30**|1.58|8.14|1:36.25|1:11.19|14.11|30.81|23:27.00|1:03.17|42:52.00|1:51.08|2:36.47|6.90|59.06|2.22|2.55|8.77|  
-|170|[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|**01:17:07.42**|2.56|9.79|1:15.56|1:47.88|14.65|43.51|11:17.00|1:32.48|47:54.00|3:27.66|6:08.24|15.55|1:52.91|3.43|5.20|17.00|  
-|171|[Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01)|Russia|**01:17:20.88**|2.82|12.48|1:01.56|1:07.35|24.72|1:14.86|10:15.00|3:32.34|35:26.00|7:26.61|11:34.00|27.58|3:34.42|5.38|8.55|47.21|  
+|170|[Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01)|Russia|**01:16:58.81**|2.82|12.48|1:01.56|1:07.35|24.72|1:14.86|9:52.93|3:32.34|35:26.00|7:26.61|11:34.00|27.58|3:34.42|5.38|8.55|47.21|  
+|171|[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|**01:17:07.42**|2.56|9.79|1:15.56|1:47.88|14.65|43.51|11:17.00|1:32.48|47:54.00|3:27.66|6:08.24|15.55|1:52.91|3.43|5.20|17.00|  
 |172|[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|United Kingdom|**01:18:28.38**|3.19|11.34|2:01.34|3:29.79|26.76|55.11|15:21.00|1:28.54|39:48.00|3:18.90|5:31.01|12.67|3:31.89|7.13|6.02|1:55.69|  
 |173|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|**01:18:31.78**|0.85|5.38|1:02.06|16.96|9.52|26.35|19:30.00|54.83|50:20.00|1:54.63|2:45.48|8.50|46.66|2.12|1.70|6.74|  
 |174|[Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01)|Japan|**01:18:42.57**|4.52|16.08|2:05.69|4:50.80|51.72|1:14.86|12:04.00|2:23.50|35:43.00|6:01.18|8:12.61|15.90|3:37.91|7.81|12.75|40.24|  
