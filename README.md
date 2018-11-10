@@ -36,6 +36,30 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>Final Missers</summary>
+  Best results in a round preceding a final that did not result in the competitor proceeding to said final.
+<ul>
+<li><a href="finalmissers/333.html">3x3</a></li>
+<li><a href="finalmissers/222.html">2x2</a></li>
+<li><a href="finalmissers/444.html">4x4</a></li>
+<li><a href="finalmissers/555.html">5x5</a></li>
+<li><a href="finalmissers/666.html">6x6</a></li>
+<li><a href="finalmissers/777.html">7x7</a></li>
+<li><a href="finalmissers/333bf.html">3BLD</a></li>
+<li><a href="finalmissers/333fm.html">FMC</a></li>
+<li><a href="finalmissers/333oh.html">OH</a></li>
+<li><a href="finalmissers/333ft.html">Feet</a></li>
+<li><a href="finalmissers/clock.html">Clock</a></li>
+<li><a href="finalmissers/minx.html">Megaminx</a></li>
+<li><a href="finalmissers/pyram.html">Pyraminx</a></li>
+<li><a href="finalmissers/skewb.html">Skewb</a></li>
+<li><a href="finalmissers/sq1.html">Square-1</a></li>
+<li><a href="finalmissers/444bf.html">4BLD</a></li>
+<li><a href="finalmissers/555bf.html">5BLD</a></li>
+<li><a href="finalmissers/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
   <summary>Kinch Ranks</summary>
 <ul>
 <li><a href="kinch/WorldKinch.html">World Kinch</a></li>
