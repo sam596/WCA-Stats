@@ -1,6 +1,6 @@
-## Unofficial-Official World Champions History
+## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Sep 03 at 0504UTC*
+*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,10 +8,10 @@
 
 |Name|Country|Date Set|Started At|Ended At|Days Held|  
 |--|--|--|--|--|--|  
-|[Matthew Burns](https://www.worldcubeassociation.org/persons/2004BURN01)|United Kingdom|2004-08-07|[Euro2004 - First round](https://www.worldcubeassociation.org/competitions/Euro2004/results/all#eclock_1)|1 year passed|365|  
-|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2005-11-05|[WC2005 - First round](https://www.worldcubeassociation.org/competitions/WC2005/results/all#eclock_1)|[UKOpen2006 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2006/results/all#eclock_f)|377|  
+|[Matthew Burns](https://www.worldcubeassociation.org/persons/2004BURN01)|United Kingdom|2004-08-07|[Euro2004 - First round](https://www.worldcubeassociation.org/competitions/Euro2004/results/all#eclock_1)|1 year after [Euro2004](https://www.worldcubeassociation.org/competitions/Euro2004/results/all#eclock_f)|365|  
+|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2006-04-21|[GermanOpen2006 - Final](https://www.worldcubeassociation.org/competitions/GermanOpen2006/results/all#eclock_f)|[UKOpen2006 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2006/results/all#eclock_f)|210|  
 |[Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01)|United Kingdom|2006-11-18|[UKOpen2006 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2006/results/all#eclock_f)|[UKOpen2007 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2007/results/all#eclock_f)|357|  
-|[Joe Wallace](https://www.worldcubeassociation.org/persons/2006WALL01)|United Kingdom|2007-11-10|[UKOpen2007 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2007/results/all#eclock_f)|1 year passed|365|  
+|[Joe Wallace](https://www.worldcubeassociation.org/persons/2006WALL01)|United Kingdom|2007-11-10|[UKOpen2007 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2007/results/all#eclock_f)|1 year after [UKOpen2007](https://www.worldcubeassociation.org/competitions/UKOpen2007/results/all#eclock_f)|366|  
 |[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2009-03-14|[FrenchOpen2009 - Final](https://www.worldcubeassociation.org/competitions/FrenchOpen2009/results/all#eclock_f)|[BristolOpen2009 - Final](https://www.worldcubeassociation.org/competitions/BristolOpen2009/results/all#eclock_f)|252|  
 |[Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01)|United Kingdom|2009-11-21|[BristolOpen2009 - Final](https://www.worldcubeassociation.org/competitions/BristolOpen2009/results/all#eclock_f)|[BristolSpring2010 - Combined First round](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eclock_d)|126|  
 |[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2010-03-27|[BristolSpring2010 - Combined First round](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eclock_d)|[BelgianOpen2010 - Final](https://www.worldcubeassociation.org/competitions/BelgianOpen2010/results/all#eclock_f)|56|  
@@ -33,6 +33,8 @@
 |[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|2016-04-02|[ExeterOpen2016 - Final](https://www.worldcubeassociation.org/competitions/ExeterOpen2016/results/all#eclock_f)|[NorthLondonOpen2016 - Combined Final](https://www.worldcubeassociation.org/competitions/NorthLondonOpen2016/results/all#eclock_c)|28|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2016-04-30|[NorthLondonOpen2016 - Combined Final](https://www.worldcubeassociation.org/competitions/NorthLondonOpen2016/results/all#eclock_c)|[Euro2016 - Final](https://www.worldcubeassociation.org/competitions/Euro2016/results/all#eclock_f)|77|  
 |[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|2016-07-15|[Euro2016 - Final](https://www.worldcubeassociation.org/competitions/Euro2016/results/all#eclock_f)|[MacclesfieldOpen2016 - Final](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016/results/all#eclock_f)|14|  
-|[Ryan Jones](https://www.worldcubeassociation.org/persons/2012JONE03)|United Kingdom|2016-07-30|[MacclesfieldOpen2016 - Final](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016/results/all#eclock_f)|1 year passed|365|  
+|[Ryan Jones](https://www.worldcubeassociation.org/persons/2012JONE03)|United Kingdom|2016-07-30|[MacclesfieldOpen2016 - Final](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016/results/all#eclock_f)|1 year after [ABHC2016](https://www.worldcubeassociation.org/competitions/ABHC2016/results/all#eclock_f)|393|  
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2017-09-10|[VestegnenOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017/results/all#eclock_c)|[TarnbyCubeTraef2018 - Final](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/all#eclock_f)|280|  
-|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-06-15|[TarnbyCubeTraef2018 - Final](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/all#eclock_f)|Ongoing|79|  
+|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-06-15|[TarnbyCubeTraef2018 - Final](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/all#eclock_f)|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_1)|133|  
+|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|2018-10-26|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_1)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_f)|0|  
+|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_f)|Ongoing|13|  

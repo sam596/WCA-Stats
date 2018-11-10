@@ -1,6 +1,6 @@
-## Unofficial-Official World Champions History
+## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Sep 03 at 0504UTC*
+*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,12 +8,12 @@
 
 |Name|Country|Date Set|Started At|Ended At|Days Held|  
 |--|--|--|--|--|--|  
-|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2003-08-23|[WC2003 - Final](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|1 year passed|365|  
-|[David Pemberton](https://www.worldcubeassociation.org/persons/2006PEMB01)|United Kingdom|2007-02-24|[BelgianOpen2007 - Final](https://www.worldcubeassociation.org/competitions/BelgianOpen2007/results/all#epyram_f)|1 year passed|365|  
+|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2003-08-23|[WC2003 - Final](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|1 year after [WC2003](https://www.worldcubeassociation.org/competitions/WC2003/results/all#epyram_f)|366|  
+|[David Pemberton](https://www.worldcubeassociation.org/persons/2006PEMB01)|United Kingdom|2007-02-24|[BelgianOpen2007 - Final](https://www.worldcubeassociation.org/competitions/BelgianOpen2007/results/all#epyram_f)|1 year after [BelgianOpen2007](https://www.worldcubeassociation.org/competitions/BelgianOpen2007/results/all#epyram_f)|365|  
 |[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2008-03-15|[FrenchOpen2008 - Final](https://www.worldcubeassociation.org/competitions/FrenchOpen2008/results/all#epyram_f)|[BelgianOpen2010 - Final](https://www.worldcubeassociation.org/competitions/BelgianOpen2010/results/all#epyram_f)|798|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2010-05-22|[BelgianOpen2010 - Final](https://www.worldcubeassociation.org/competitions/BelgianOpen2010/results/all#epyram_f)|[SwedishOpen2010 - Final](https://www.worldcubeassociation.org/competitions/SwedishOpen2010/results/all#epyram_f)|112|  
 |[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2010-09-11|[SwedishOpen2010 - Final](https://www.worldcubeassociation.org/competitions/SwedishOpen2010/results/all#epyram_f)|[UKOpen2010 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2010/results/all#epyram_f)|56|  
-|[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2010-11-06|[UKOpen2010 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2010/results/all#epyram_f)|1 year passed|365|  
+|[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2010-11-06|[UKOpen2010 - Final](https://www.worldcubeassociation.org/competitions/UKOpen2010/results/all#epyram_f)|1 year after [UKOpen2010](https://www.worldcubeassociation.org/competitions/UKOpen2010/results/all#epyram_f)|365|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2011-11-12|[UKOpen2011 - Combined First round](https://www.worldcubeassociation.org/competitions/UKOpen2011/results/all#epyram_d)|[RapidashOpen2012 - First round](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/all#epyram_1)|154|  
 |[Luke Hubbard](https://www.worldcubeassociation.org/persons/2011HUBB01)|United Kingdom|2012-04-14|[RapidashOpen2012 - First round](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/all#epyram_1)|[RapidashOpen2012 - Final](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/all#epyram_f)|0|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2012-04-14|[RapidashOpen2012 - Final](https://www.worldcubeassociation.org/competitions/RapidashOpen2012/results/all#epyram_f)|[WestonsuperMare2012 - Combined First round](https://www.worldcubeassociation.org/competitions/WestonsuperMare2012/results/all#epyram_d)|91|  
@@ -30,4 +30,6 @@
 |[Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01)|United Kingdom|2018-03-17|[GuildfordOpen2018 - Combined First round](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018/results/all#epyram_d)|[GuildfordOpen2018 - Final](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018/results/all#epyram_f)|0|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2018-03-17|[GuildfordOpen2018 - Final](https://www.worldcubeassociation.org/competitions/GuildfordOpen2018/results/all#epyram_f)|[HastingsOpen2018 - First round](https://www.worldcubeassociation.org/competitions/HastingsOpen2018/results/all#epyram_1)|77|  
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-06-02|[HastingsOpen2018 - First round](https://www.worldcubeassociation.org/competitions/HastingsOpen2018/results/all#epyram_1)|[ABHC2018 - Final](https://www.worldcubeassociation.org/competitions/ABHC2018/results/all#epyram_f)|84|  
-|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-08-25|[ABHC2018 - Final](https://www.worldcubeassociation.org/competitions/ABHC2018/results/all#epyram_f)|Ongoing|9|  
+|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-08-25|[ABHC2018 - Final](https://www.worldcubeassociation.org/competitions/ABHC2018/results/all#epyram_f)|[UKC2018 - Combined First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_d)|63|  
+|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-10-26|[UKC2018 - Combined First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_d)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_f)|0|  
+|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_f)|Ongoing|13|  

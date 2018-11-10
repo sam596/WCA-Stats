@@ -1,6 +1,6 @@
-## Unofficial-Official World Champions History
+## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Sep 03 at 0504UTC*
+*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -9,9 +9,9 @@
 |Name|Country|Date Set|Started At|Ended At|Days Held|  
 |--|--|--|--|--|--|  
 |[Sean Connolly](https://www.worldcubeassociation.org/persons/2004CONN01)|United Kingdom|2004-10-10|[DutchOpen2004 - Final](https://www.worldcubeassociation.org/competitions/DutchOpen2004/results/all#eminx_f)|[GermanOpen2006 - Combined Final](https://www.worldcubeassociation.org/competitions/GermanOpen2006/results/all#eminx_c)|559|  
-|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2006-04-21|[GermanOpen2006 - Combined Final](https://www.worldcubeassociation.org/competitions/GermanOpen2006/results/all#eminx_c)|1 year passed|365|  
+|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|United Kingdom|2006-04-21|[GermanOpen2006 - Combined Final](https://www.worldcubeassociation.org/competitions/GermanOpen2006/results/all#eminx_c)|1 year after [Euro2008](https://www.worldcubeassociation.org/competitions/Euro2008/results/all#eminx_c)|1248|  
 |[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|United Kingdom|2009-11-21|[BristolOpen2009 - Combined Final](https://www.worldcubeassociation.org/competitions/BristolOpen2009/results/all#eminx_c)|[BristolSpring2010 - Combined Final](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eminx_c)|126|  
-|[Daniel Mucklow](https://www.worldcubeassociation.org/persons/2009MUCK01)|United Kingdom|2010-03-27|[BristolSpring2010 - Combined Final](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eminx_c)|1 year passed|365|  
+|[Daniel Mucklow](https://www.worldcubeassociation.org/persons/2009MUCK01)|United Kingdom|2010-03-27|[BristolSpring2010 - Combined Final](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eminx_c)|1 year after [BristolSpring2010](https://www.worldcubeassociation.org/competitions/BristolSpring2010/results/all#eminx_c)|365|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2011-04-22|[DanishOpen2011 - Combined First round](https://www.worldcubeassociation.org/competitions/DanishOpen2011/results/all#eminx_d)|[VargardaOpen2011 - Combined First round](https://www.worldcubeassociation.org/competitions/VargardaOpen2011/results/all#eminx_d)|56|  
 |[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2011-06-18|[VargardaOpen2011 - Combined First round](https://www.worldcubeassociation.org/competitions/VargardaOpen2011/results/all#eminx_d)|[Leicester2013 - Combined First round](https://www.worldcubeassociation.org/competitions/Leicester2013/results/all#eminx_d)|616|  
 |[Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02)|United Kingdom|2013-02-23|[Leicester2013 - Combined First round](https://www.worldcubeassociation.org/competitions/Leicester2013/results/all#eminx_d)|[Leicester2013 - Final](https://www.worldcubeassociation.org/competitions/Leicester2013/results/all#eminx_f)|0|  
@@ -29,4 +29,6 @@
 |[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-06-02|[HastingsOpen2018 - Final](https://www.worldcubeassociation.org/competitions/HastingsOpen2018/results/all#eminx_f)|[PeterboroughOpen2018 - Combined Final](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018/results/all#eminx_c)|28|  
 |[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2018-06-30|[PeterboroughOpen2018 - Combined Final](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018/results/all#eminx_c)|[Euro2018 - First round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_1)|21|  
 |[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-07-19|[Euro2018 - First round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_1)|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_2)|0|  
-|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2018-07-19|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_2)|Ongoing|44|  
+|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2018-07-19|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_2)|[SUAO2018 - Combined Final](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eminx_c)|63|  
+|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-09-22|[SUAO2018 - Combined Final](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eminx_c)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eminx_f)|35|  
+|[Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eminx_f)|Ongoing|13|  

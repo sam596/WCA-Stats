@@ -1,6 +1,6 @@
-## Unofficial-Official World Champions History
+## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Sep 03 at 0504UTC*
+*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,7 +8,7 @@
 
 |Name|Country|Date Set|Started At|Ended At|Days Held|  
 |--|--|--|--|--|--|  
-|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2014-02-02|[2AVG2014 - Final](https://www.worldcubeassociation.org/competitions/2AVG2014/results/all#eskewb_f)|1 year passed|365|  
+|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2014-02-02|[2AVG2014 - Final](https://www.worldcubeassociation.org/competitions/2AVG2014/results/all#eskewb_f)|1 year after [DutchOpen2015](https://www.worldcubeassociation.org/competitions/DutchOpen2015/results/all#eskewb_f)|989|  
 |[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|2016-10-22|[KjellerOpen2016 - First round](https://www.worldcubeassociation.org/competitions/KjellerOpen2016/results/all#eskewb_1)|[UKChampionship2016 - Combined First round](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/all#eskewb_d)|14|  
 |[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2016-11-04|[UKChampionship2016 - Combined First round](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/all#eskewb_d)|[UKChampionship2016 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/all#eskewb_f)|0|  
 |[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2016-11-04|[UKChampionship2016 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2016/results/all#eskewb_f)|[ManchesterOpen2017 - Combined First round](https://www.worldcubeassociation.org/competitions/ManchesterOpen2017/results/all#eskewb_d)|70|  
@@ -27,4 +27,8 @@
 |[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2018-01-27|[WelshOpen2018 - Final](https://www.worldcubeassociation.org/competitions/WelshOpen2018/results/all#eskewb_f)|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_2)|175|  
 |[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-07-19|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_2)|[Euro2018 - Semi Final](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_3)|0|  
 |[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-07-19|[Euro2018 - Semi Final](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_3)|[Euro2018 - Final](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f)|0|  
-|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-07-19|[Euro2018 - Final](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f)|Ongoing|44|  
+|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-07-19|[Euro2018 - Final](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eskewb_f)|[SUAO2018 - Combined First round](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eskewb_d)|63|  
+|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2018-09-22|[SUAO2018 - Combined First round](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eskewb_d)|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_1)|35|  
+|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|2018-10-26|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_1)|[UKC2018 - Second round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_2)|0|  
+|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-10-26|[UKC2018 - Second round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_2)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_f)|0|  
+|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_f)|Ongoing|13|  
