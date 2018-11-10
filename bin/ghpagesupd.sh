@@ -421,6 +421,55 @@ do
 	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} World Champions (${finish}ms)"
 done
 
+#uoukc
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Unofficial-Official ${i} UK Champions"
+	mysql --login-path=local wca_stats -e "SET @s = 0, @sr = NULL, @sd = NULL, @e = NULL, @p = NULL;
+	SELECT
+	  CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',b.uoukcId,')') Name, 
+	  p.countryId Country, 
+	  b.startDate \`Date Set\`, 
+	  CONCAT('[',b.startComp,' - ', rs.name,'](https://www.worldcubeassociation.org/competitions/',b.startComp,'/results/all#e',b.eventId,'_',b.startRound,')') \`Started At\`, 
+	  IFNULL(IF(b.endComp LIKE '1 year after [%',b.endComp,CONCAT('[',b.endComp,' - ', re.name,'](https://www.worldcubeassociation.org/competitions/',b.endComp,'/results/all#e',b.eventId,'_',b.endRound,')')),'Ongoing') \`Ended At\`, 
+	  IF(b.endComp IS NULL,DATEDIFF(CURDATE(),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),IFNULL(DATEDIFF((SELECT end_date FROM wca_dev.competitions WHERE id = b.endComp),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)),DATEDIFF((SELECT DATE_ADD(end_date, INTERVAL 1 YEAR) FROM wca_dev.competitions WHERE id = b.competitionId),(SELECT end_date FROM wca_dev.competitions WHERE id = b.startComp)))) \`Days Held\`
+	FROM
+	  (SELECT a.*,
+	    @s := IF(a.uoukcId = @p, @s, competitionId) startComp,
+	    @sr := IF(a.uoukcId = @p, @sr, roundTypeId) startRound,
+	    @sd := IF(a.uoukcId = @p, @sd, dateSet) startDate,
+	    @e := IF((SELECT uoukcId FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uoukcId, '',  IF((SELECT dateSet FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),CONCAT(CONCAT('1 year after [',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,'/results/all#e',eventId,'_',roundTypeId,')')),
+	  (SELECT competitionId FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId))) endComp,
+	    @er := IF((SELECT uoukcId FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uoukcId, '',  IF((SELECT dateSet FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
+	  (SELECT roundTypeId FROM uoukc WHERE id = a.id + 1 AND eventId = a.eventId))) endRound,
+	    @p := a.uoukcId
+	  FROM uoukc a
+	  WHERE eventId = '${i}') b
+	LEFT JOIN wca_dev.roundtypes rs ON b.startRound = rs.id
+	LEFT JOIN wca_dev.roundtypes re ON b.endRound = re.id
+	LEFT JOIN wca_dev.persons p ON b.uoukcId = p.id AND p.subid = 1
+	WHERE (b.endComp <> '' OR b.endComp IS NULL) AND b.uoukcId IS NOT NULL
+	ORDER BY b.id;
+	" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/uoukc.md ~/pages/WCA-Stats/uoukc/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/uoukc/"$i".md.tmp
+    awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/uoukc/"$i".md.tmp > ~/pages/WCA-Stats/uoukc/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/uoukc/"$i".md.tmp2 > ~/pages/WCA-Stats/uoukc/"$i".md && \
+	rm ~/pages/WCA-Stats/uoukc/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Unofficial-Official ${i} UK Champions (${finish}ms)"
+done
+
 #alleventsrelay
 
 start=$(date +%s%N | cut -b1-13)
