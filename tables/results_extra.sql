@@ -101,3 +101,17 @@ FROM podiums WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0
 # <5 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'podiums';
+
+INSERT INTO wca_stats.last_updated VALUES ('final_missers', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
+
+SET @a = @b = @e = @c = NULL;
+CREATE TABLE wca_stats.final_missers
+SELECT a.* FROM results_extra a INNER JOIN (SELECT a.*, @a := IF(roundTypeId IN ('c','f') AND eventId = @e AND competitionId = @c, @b, NULL) precedingRound, @b := roundTypeId, @e := eventId, @c := competitionId
+FROM
+(SELECT competitionId, eventId, roundTypeId, COUNT(*) competitors FROM results_extra a GROUP BY competitionId, eventId, roundTypeId ORDER BY competitionId, eventId, (SELECT rank FROM wca_dev.roundTypes WHERE id = a.roundTypeId)) a) b
+ON a.roundTypeId = b.precedingRound AND a.competitionId = b.competitionId AND a.eventId = b.eventId AND a.pos > b.competitors
+WHERE personId NOT IN (SELECT personId FROM results_extra WHERE competitionId = a.competitionId AND eventId = a.eventId AND roundTypeId IN ('c','f'));
+
+# ~5-6 mins
+
+UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'final_missers';
