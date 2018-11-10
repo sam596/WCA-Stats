@@ -180,6 +180,30 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>Unofficial-Official UK Champions History</summary>
+Nice UK-centric Stat!
+<ul>
+<li><a href="uoukc/333.html">3x3</a></li>
+<li><a href="uoukc/222.html">2x2</a></li>
+<li><a href="uoukc/444.html">4x4</a></li>
+<li><a href="uoukc/555.html">5x5</a></li>
+<li><a href="uoukc/666.html">6x6</a></li>
+<li><a href="uoukc/777.html">7x7</a></li>
+<li><a href="uoukc/333bf.html">3BLD</a></li>
+<li><a href="uoukc/333fm.html">FMC</a></li>
+<li><a href="uoukc/333oh.html">OH</a></li>
+<li><a href="uoukc/333ft.html">Feet</a></li>
+<li><a href="uoukc/clock.html">Clock</a></li>
+<li><a href="uoukc/minx.html">Megaminx</a></li>
+<li><a href="uoukc/pyram.html">Pyraminx</a></li>
+<li><a href="uoukc/skewb.html">Skewb</a></li>
+<li><a href="uoukc/sq1.html">Square-1</a></li>
+<li><a href="uoukc/444bf.html">4BLD</a></li>
+<li><a href="uoukc/555bf.html">5BLD</a></li>
+<li><a href="uoukc/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
   <summary>Worst 3x3 Single with a Sub-X average</summary>
 <ul>
 <li><a href="worstsinglewithsubxaverage/sub6.html">Sub-6</a></li>
