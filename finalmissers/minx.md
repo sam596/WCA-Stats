@@ -8,230 +8,1005 @@ These competitors achieved the best results in a round preceding a final, withou
 
 #### EventId = minx
 
-|mysql  Ver 14.14 Distrib 5.7.24, for Linux (x86_64) using  EditLine wrapper|  
-|--|--|--|--|  
-|Copyright (c) 2000, 2018, Oracle and/or its affiliates. All rights reserved.|  
-||  
-|Oracle is a registered trademark of Oracle Corporation and/or its|  
-|affiliates. Other names may be trademarks of their respective|  
-|owners.|  
-||  
-|Usage: mysql [OPTIONS] [database]|  
-|  -?, --help          Display this help and exit.|  
-|  -I, --help          Synonym for -?|  
-|  --auto-rehash       Enable automatic rehashing. One doesn't need to use|  
-|                      'rehash' to get table and field completion, but startup|  
-|                      and reconnecting may take a longer time. Disable with|  
-|                      --disable-auto-rehash.|  
-|                      (Defaults to on; use --skip-auto-rehash to disable.)|  
-|  -A, --no-auto-rehash |  
-|                      No automatic rehashing. One has to use 'rehash' to get|  
-|                      table and field completion. This gives a quicker start of|  
-|                      mysql and disables rehashing on reconnect.|  
-|  --auto-vertical-output |  
-|                      Automatically switch to vertical output mode if the|  
-|                      result is wider than the terminal width.|  
-|  -B, --batch         Don't use history file. Disable interactive behavior.|  
-|                      (Enables --silent.)|  
-|  --bind-address=name IP address to bind to.|  
-|  --binary-as-hex     Print binary data as hex|  
-|  --character-sets-dir=name |  
-|                      Directory for character set files.|  
-|  --column-type-info  Display column type information.|  
-|  -c, --comments      Preserve comments. Send comments to the server. The|  
-|                      default is --skip-comments (discard comments), enable|  
-|                      with --comments.|  
-|  -C, --compress      Use compression in server/client protocol.|  
-|  -#, --debug[=#]     This is a non-debug version. Catch this and exit.|  
-|  --debug-check       This is a non-debug version. Catch this and exit.|  
-|  -T, --debug-info    This is a non-debug version. Catch this and exit.|  
-|  -D, --database=name Database to use.|  
-|  --default-character-set=name |  
-|                      Set the default character set.|  
-|  --delimiter=name    Delimiter to be used.|  
-|  --enable-cleartext-plugin |  
-|                      Enable/disable the clear text authentication plugin.|  
-|  -e, --execute=name  Execute command and quit. (Disables --force and history|  
-|                      file.)|  
-|  -E, --vertical      Print the output of a query (rows) vertically.|  
-|  -f, --force         Continue even if we get an SQL error.|  
-|  --histignore=name   A colon-separated list of patterns to keep statements|  
-|                      from getting logged into syslog and mysql history.|  
-|  -G, --named-commands |  
-|                      Enable named commands. Named commands mean this program's|  
-|                      internal commands; see mysql> help . When enabled, the|  
-|                      named commands can be used from any line of the query,|  
-|                      otherwise only from the first line, before an enter.|  
-|                      Disable with --disable-named-commands. This option is|  
-|                      disabled by default.|  
-|  -i, --ignore-spaces Ignore space after function names.|  
-|  --init-command=name SQL Command to execute when connecting to MySQL server.|  
-|                      Will automatically be re-executed when reconnecting.|  
-|  --local-infile      Enable/disable LOAD DATA LOCAL INFILE.|  
-|  -b, --no-beep       Turn off beep on error.|  
-|  -h, --host=name     Connect to host.|  
-|  -H, --html          Produce HTML output.|  
-|  -X, --xml           Produce XML output.|  
-|  --line-numbers      Write line numbers for errors.|  
-|                      (Defaults to on; use --skip-line-numbers to disable.)|  
-|  -L, --skip-line-numbers |  
-|                      Don't write line number for errors.|  
-|  -n, --unbuffered    Flush buffer after each query.|  
-|  --column-names      Write column names in results.|  
-|                      (Defaults to on; use --skip-column-names to disable.)|  
-|  -N, --skip-column-names |  
-|                      Don't write column names in results.|  
-|  --sigint-ignore     Ignore SIGINT (CTRL-C).|  
-|  -o, --one-database  Ignore statements except those that occur while the|  
-|                      default database is the one named at the command line.|  
-|  --pager[=name]      Pager to use to display results. If you don't supply an|  
-|                      option, the default pager is taken from your ENV variable|  
-|                      PAGER. Valid pagers are less, more, cat [> filename],|  
-|                      etc. See interactive help (\h) also. This option does not|  
-|                      work in batch mode. Disable with --disable-pager. This|  
-|                      option is disabled by default.|  
-|  -p, --password[=name] |  
-|                      Password to use when connecting to server. If password is|  
-|                      not given it's asked from the tty.|  
-|  -P, --port=#        Port number to use for connection or 0 for default to, in|  
-|                      order of preference, my.cnf, $MYSQL_TCP_PORT,|  
-|                      /etc/services, built-in default (3306).|  
-|  --prompt=name       Set the mysql prompt to this value.|  
-|  --protocol=name     The protocol to use for connection (tcp, socket, pipe,|  
-|                      memory).|  
-|  -q, --quick         Don't cache result, print it row by row. This may slow|  
-|                      down the server if the output is suspended. Doesn't use|  
-|                      history file.|  
-|  -r, --raw           Write fields without conversion. Used with --batch.|  
-|  --reconnect         Reconnect if the connection is lost. Disable with|  
-|                      --disable-reconnect. This option is enabled by default.|  
-|                      (Defaults to on; use --skip-reconnect to disable.)|  
-|  -s, --silent        Be more silent. Print results with a tab as separator,|  
-|                      each row on new line.|  
-|  -S, --socket=name   The socket file to use for connection.|  
-|  --ssl-mode=name     SSL connection mode.|  
-|  --ssl               Deprecated. Use --ssl-mode instead.|  
-|                      (Defaults to on; use --skip-ssl to disable.)|  
-|  --ssl-verify-server-cert |  
-|                      Deprecated. Use --ssl-mode=VERIFY_IDENTITY instead.|  
-|  --ssl-ca=name       CA file in PEM format.|  
-|  --ssl-capath=name   CA directory.|  
-|  --ssl-cert=name     X509 cert in PEM format.|  
-|  --ssl-cipher=name   SSL cipher to use.|  
-|  --ssl-key=name      X509 key in PEM format.|  
-|  --ssl-crl=name      Certificate revocation list.|  
-|  --ssl-crlpath=name  Certificate revocation list path.|  
-|  --tls-version=name  TLS version to use, permitted values are: TLSv1, TLSv1.1|  
-|  -t, --table         Output in table format.|  
-|  --tee=name          Append everything into outfile. See interactive help (\h)|  
-|                      also. Does not work in batch mode. Disable with|  
-|                      --disable-tee. This option is disabled by default.|  
-|  -u, --user=name     User for login if not current user.|  
-|  -U, --safe-updates  Only allow UPDATE and DELETE that uses keys.|  
-|  -U, --i-am-a-dummy  Synonym for option --safe-updates, -U.|  
-|  -v, --verbose       Write more. (-v -v -v gives the table output format).|  
-|  -V, --version       Output version information and exit.|  
-|  -w, --wait          Wait and retry if connection is down.|  
-|  --connect-timeout=# Number of seconds before connection timeout.|  
-|  --max-allowed-packet=# |  
-|                      The maximum packet length to send to or receive from|  
-|                      server.|  
-|  --net-buffer-length=# |  
-|                      The buffer size for TCP/IP and socket communication.|  
-|  --select-limit=#    Automatic limit for SELECT when using --safe-updates.|  
-|  --max-join-size=#   Automatic limit for rows in a join when using|  
-|                      --safe-updates.|  
-|  --secure-auth       Refuse client connecting to server if it uses old|  
-|                      (pre-4.1.1) protocol. Deprecated. Always TRUE|  
-|  --server-arg=name   Send embedded server this as a parameter.|  
-|  --show-warnings     Show warnings after every statement.|  
-|  -j, --syslog        Log filtered interactive commands to syslog. Filtering of|  
-|                      commands depends on the patterns supplied via histignore|  
-|                      option besides the default patterns.|  
-|  --plugin-dir=name   Directory for client-side plugins.|  
-|  --default-auth=name Default authentication client-side plugin to use.|  
-|  --binary-mode       By default, ASCII '\0' is disallowed and '\r\n' is|  
-|                      translated to '\n'. This switch turns off both features,|  
-|                      and also turns off parsing of all clientcommands except|  
-|                      \C and DELIMITER, in non-interactive mode (for input|  
-|                      piped to mysql or loaded using the 'source' command).|  
-|                      This is necessary when processing output from mysqlbinlog|  
-|                      that may contain blobs.|  
-|  --connect-expired-password |  
-|                      Notify the server that this client is prepared to handle|  
-|                      expired password sandbox mode.|  
-||  
-|Default options are read from the following files in the given order:|  
-|/etc/my.cnf /etc/mysql/my.cnf ~/.my.cnf |  
-|The following groups are read: mysql client|  
-|The following options may be given as the first argument:|  
-|--print-defaults        Print the program argument list and exit.|  
-|--no-defaults           Don't read default options from any option file,|  
-|                        except for login file.|  
-|--defaults-file=#       Only read default options from the given file #.|  
-|--defaults-extra-file=# Read this file after the global files are read.|  
-|--defaults-group-suffix=#|  
-|                        Also read groups with concat(group, suffix)|  
-|--login-path=#          Read this path from the login file.|  
-||  
-|Variables (--variable-name=value)|  
-|and boolean options {FALSE|TRUE}  Value (after reading options)|  
-|--------------------------------- ----------------------------------------|  
-|auto-rehash                       TRUE|  
-|auto-vertical-output              FALSE|  
-|bind-address                      (No default value)|  
-|binary-as-hex                     FALSE|  
-|character-sets-dir                (No default value)|  
-|column-type-info                  FALSE|  
-|comments                          FALSE|  
-|compress                          FALSE|  
-|database                          (No default value)|  
-|default-character-set             auto|  
-|delimiter                         ;|  
-|enable-cleartext-plugin           FALSE|  
-|vertical                          FALSE|  
-|force                             FALSE|  
-|histignore                        (No default value)|  
-|named-commands                    FALSE|  
-|ignore-spaces                     FALSE|  
-|init-command                      (No default value)|  
-|local-infile                      FALSE|  
-|no-beep                           FALSE|  
-|host                              (No default value)|  
-|html                              FALSE|  
-|xml                               FALSE|  
-|line-numbers                      TRUE|  
-|unbuffered                        FALSE|  
-|column-names                      TRUE|  
-|sigint-ignore                     FALSE|  
-|port                              0|  
-|prompt                            mysql> |  
-|quick                             FALSE|  
-|raw                               FALSE|  
-|reconnect                         FALSE|  
-|socket                            (No default value)|  
-|ssl                               TRUE|  
-|ssl-verify-server-cert            FALSE|  
-|ssl-ca                            (No default value)|  
-|ssl-capath                        (No default value)|  
-|ssl-cert                          (No default value)|  
-|ssl-cipher                        (No default value)|  
-|ssl-key                           (No default value)|  
-|ssl-crl                           (No default value)|  
-|ssl-crlpath                       (No default value)|  
-|tls-version                       (No default value)|  
-|table                             FALSE|  
-|user                              sam|  
-|safe-updates                      FALSE|  
-|i-am-a-dummy                      FALSE|  
-|connect-timeout                   0|  
-|max-allowed-packet                16777216|  
-|net-buffer-length                 16384|  
-|select-limit                      1000|  
-|max-join-size                     1000000|  
-|secure-auth                       TRUE|  
-|show-warnings                     FALSE|  
-|plugin-dir                        (No default value)|  
-|default-auth                      (No default value)|  
-|binary-mode                       FALSE|  
-|connect-expired-password          FALSE|  
+|Rank|Name|Country|Competition|Result|  
+|--|--|--|--|--|  
+|1|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|52.09|  
+|2|[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|53.11|  
+|3|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|53.51|  
+|4|[Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01)|Netherlands|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|53.60|  
+|5|[Ethan Misteri](https://www.worldcubeassociation.org/persons/2016MIST03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|53.89|  
+|6|[Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|54.02|  
+|7|[Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|54.03|  
+|8|[Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|54.26|  
+|9|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|54.92|  
+|10|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|55.03|  
+|11|[Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01)|Netherlands|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|55.33|  
+|12|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|55.58|  
+|13|[Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01)|Slovenia|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|55.77|  
+|14|[Muhammad Hariz Bin Azizan](https://www.worldcubeassociation.org/persons/2009AZIZ02)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|55.86|  
+|15|[Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|56.17|  
+|16|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|56.18|  
+|17|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|56.35|  
+|18|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|56.51|  
+|19|[Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02)|Canada|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|56.82|  
+|20|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|57.33|  
+|21|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|57.37|  
+|22|[Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|57.42|  
+|23|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|57.62|  
+|24|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|57.67|  
+|25|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|57.79|  
+|26|[Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01)|Thailand|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|57.87|  
+|27|[Zhengyin Chen (陈正胤)](https://www.worldcubeassociation.org/persons/2013CHEN73)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|58.05|  
+|28|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|58.06|  
+|29|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|58.17|  
+|30|[Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09)|Korea|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|58.18|  
+|31|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|58.33|  
+|32|[Márton Vancsa](https://www.worldcubeassociation.org/persons/2015VANC02)|Hungary|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|58.44|  
+|33|[Taiga Takaoka (高岡汰虎)](https://www.worldcubeassociation.org/persons/2015TAKA06)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|58.59|  
+|34|[Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01)|Italy|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|58.66|  
+|35|[Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|58.71|  
+|36|[Ricky Meiler](https://www.worldcubeassociation.org/persons/2012MEIL01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|58.79|  
+|37|[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|59.00|  
+|38|[Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01)|Japan|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.20|  
+|39|[Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04)|Spain|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.21|  
+|40|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.27|  
+|41|[Théo Paris](https://www.worldcubeassociation.org/persons/2016PARI08)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.36|  
+|42|[Melissa Su](https://www.worldcubeassociation.org/persons/2014SUME02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|59.42|  
+|43|[Mattias Uvesten](https://www.worldcubeassociation.org/persons/2013UVES01)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.56|  
+|44|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|59.65|  
+|45|[Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06)|Korea|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|59.75|  
+|46|[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|Korea|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|59.98|  
+|47|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:00.07|  
+|=|[Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:00.08|  
+|=|[Alban Reynaud](https://www.worldcubeassociation.org/persons/2011REYN02)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:00.16|  
+|=|[Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01)|Italy|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:00.30|  
+|=|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:00.42|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:00.59|  
+|=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:00.61|  
+|=|[Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12)|Poland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:00.72|  
+|=|[Alban Reynaud](https://www.worldcubeassociation.org/persons/2011REYN02)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:00.76|  
+|=|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:00.77|  
+|=|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:00.93|  
+|=|[Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:01.17|  
+|=|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:01.25|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:01.37|  
+|=|[Fung Hoi Yin (馮凱賢)](https://www.worldcubeassociation.org/persons/2010YINF01)|Hong Kong|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:01.40|  
+|=|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:01.55|  
+|=|[Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:01.57|  
+|=|[David Woner](https://www.worldcubeassociation.org/persons/2008WONE01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:01.88|  
+|=|[Ihor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|Ukraine|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:01.92|  
+|=|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:02.12|  
+|=|[Leo Högh](https://www.worldcubeassociation.org/persons/2012HAGH01)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:02.13|  
+|=|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.14|  
+|=|[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.22|  
+|=|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.27|  
+|=|[Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:02.27|  
+|=|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.30|  
+|=|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|Malaysia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:02.32|  
+|=|[Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03)|Thailand|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:02.38|  
+|=|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.42|  
+|=|[Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:02.49|  
+|=|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:02.51|  
+|=|[César Abraham Briones Arreola](https://www.worldcubeassociation.org/persons/2016ARRE02)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:02.57|  
+|=|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.64|  
+|=|[Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:02.70|  
+|=|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.85|  
+|=|[Chung-Han Hsu (許鍾瀚)](https://www.worldcubeassociation.org/persons/2007SHIU02)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:02.88|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:02.91|  
+|=|[Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:02.91|  
+|=|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:03.15|  
+|=|[Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01)|Poland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:03.31|  
+|=|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.36|  
+|=|[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.44|  
+|=|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.51|  
+|=|[Mok Mun Wai (莫滿懷)](https://www.worldcubeassociation.org/persons/2008WAIM01)|Hong Kong|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:03.52|  
+|=|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.56|  
+|=|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:03.58|  
+|=|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:03.67|  
+|=|[Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02)|India|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:03.71|  
+|=|[Monty Wain](https://www.worldcubeassociation.org/persons/2013WAIN01)|Australia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:03.75|  
+|=|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.82|  
+|=|[Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:03.87|  
+|=|[Mia Sponseller](https://www.worldcubeassociation.org/persons/2017SPON01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:03.95|  
+|=|[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:03.99|  
+|=|[Tiffany Chien](https://www.worldcubeassociation.org/persons/2012CHIE01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:04.03|  
+|=|[Jianyan Ou (欧鉴言)](https://www.worldcubeassociation.org/persons/2016OUJI01)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:04.11|  
+|=|[Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی)](https://www.worldcubeassociation.org/persons/2011FATE01)|Iran|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:04.19|  
+|=|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:04.21|  
+|=|[Alejandro Romero](https://www.worldcubeassociation.org/persons/2014ROME06)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:04.28|  
+|=|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:04.31|  
+|=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:04.47|  
+|=|[Rasmus Hagnäs](https://www.worldcubeassociation.org/persons/2016HAGN01)|Finland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:04.56|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:04.58|  
+|=|[Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:04.59|  
+|=|[Henry Helmuth](https://www.worldcubeassociation.org/persons/2013HELM02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:04.71|  
+|=|[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:04.76|  
+|=|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:04.79|  
+|=|[Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01)|Poland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:04.80|  
+|=|[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:04.84|  
+|=|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:04.89|  
+|=|[Tiffany Chien](https://www.worldcubeassociation.org/persons/2012CHIE01)|USA|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:04.94|  
+|=|[Jonathan Lin](https://www.worldcubeassociation.org/persons/2012LINJ01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:05.00|  
+|=|[Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.10|  
+|=|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.10|  
+|=|[Christoph Prasch](https://www.worldcubeassociation.org/persons/2011PRAS03)|Austria|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:05.11|  
+|=|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:05.19|  
+|=|[Alessio Giuliano](https://www.worldcubeassociation.org/persons/2016GIUL01)|Switzerland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.20|  
+|=|[Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:05.21|  
+|=|[Marie Vincent](https://www.worldcubeassociation.org/persons/2016VINC01)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.21|  
+|=|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:05.33|  
+|=|[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|Switzerland|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:05.36|  
+|=|[Eason Siew Ee Son](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:05.55|  
+|=|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:05.55|  
+|=|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:05.59|  
+|=|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.65|  
+|=|[Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01)|Italy|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:05.77|  
+|=|[Miguel Angel Garrocho Anaya](https://www.worldcubeassociation.org/persons/2016ANAY01)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:05.81|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.88|  
+|=|[Xinrui Li (李昕蕊)](https://www.worldcubeassociation.org/persons/2011LIXI02)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:05.89|  
+|=|[Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01)|Finland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.90|  
+|=|[José Antonio Navarro Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:05.91|  
+|=|[Chih-Kai Wu (吳之凱)](https://www.worldcubeassociation.org/persons/2010WUCH01)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:05.96|  
+|=|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:06.49|  
+|=|[Lovisa Eriksson](https://www.worldcubeassociation.org/persons/2015ERIK01)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:06.56|  
+|=|[Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:06.64|  
+|=|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:06.65|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:06.67|  
+|=|[Alban Reynaud](https://www.worldcubeassociation.org/persons/2011REYN02)|France|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:06.67|  
+|=|[Fung Hoi Yin (馮凱賢)](https://www.worldcubeassociation.org/persons/2010YINF01)|Hong Kong|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:06.70|  
+|=|[Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:06.77|  
+|=|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:06.83|  
+|=|[Christoph Prasch](https://www.worldcubeassociation.org/persons/2011PRAS03)|Austria|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:06.86|  
+|=|[Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:07.03|  
+|=|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:07.04|  
+|=|[Shuo Zhang (张朔)](https://www.worldcubeassociation.org/persons/2017ZHAS07)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:07.06|  
+|=|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:07.07|  
+|=|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:07.08|  
+|=|[Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:07.12|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:07.13|  
+|=|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:07.14|  
+|=|[Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:07.15|  
+|=|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:07.30|  
+|=|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:07.32|  
+|=|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:07.36|  
+|=|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:07.36|  
+|=|[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|Korea|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:07.41|  
+|=|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:07.54|  
+|=|[Lovisa Eriksson](https://www.worldcubeassociation.org/persons/2015ERIK01)|Sweden|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:07.58|  
+|=|[Alejandro Cisneros Bracho](https://www.worldcubeassociation.org/persons/2017BRAC03)|Mexico|[TunasOpen2018](https://www.worldcubeassociation.org/competitions/TunasOpen2018)|1:07.60|  
+|=|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:07.65|  
+|=|[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:07.68|  
+|=|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:07.84|  
+|=|[Teh Keng Foo (郑庆富)](https://www.worldcubeassociation.org/persons/2011FOOT01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:07.84|  
+|=|[Yiyun Chen (陈毅昀)](https://www.worldcubeassociation.org/persons/2017CHEN28)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:07.89|  
+|=|[Andreas Jensen Forsgren](https://www.worldcubeassociation.org/persons/2016FORS08)|Norway|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:07.92|  
+|=|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|Taiwan|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:07.93|  
+|=|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:08.09|  
+|=|[Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04)|Spain|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:08.13|  
+|=|[Hang Li (李航)](https://www.worldcubeassociation.org/persons/2013LIHA03)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:08.22|  
+|=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:08.22|  
+|=|[Xiaoxue Zhou (周晓学)](https://www.worldcubeassociation.org/persons/2009XUEZ01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:08.25|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:08.26|  
+|=|[Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:08.31|  
+|=|[Hang Li (李航)](https://www.worldcubeassociation.org/persons/2013LIHA03)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:08.34|  
+|=|[Chong Hau Han](https://www.worldcubeassociation.org/persons/2017HANC02)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:08.34|  
+|=|[Syuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:08.35|  
+|=|[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:08.37|  
+|=|[Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:08.41|  
+|=|[Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01)|Indonesia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:08.44|  
+|=|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:08.46|  
+|=|[Yota Ueda (上田陽太)](https://www.worldcubeassociation.org/persons/2016UEDA01)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:08.49|  
+|=|[Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:08.50|  
+|=|[James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03)|New Zealand|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:08.59|  
+|=|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:08.63|  
+|=|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:08.67|  
+|=|[Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01)|Thailand|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:08.72|  
+|=|[Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:08.80|  
+|=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:08.88|  
+|=|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:09.01|  
+|=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:09.03|  
+|=|[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:09.08|  
+|=|[Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02)|France|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:09.10|  
+|=|[Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:09.11|  
+|=|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:09.16|  
+|=|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:09.25|  
+|=|[Thomas Valles](https://www.worldcubeassociation.org/persons/2013VALL03)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:09.28|  
+|=|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:09.29|  
+|=|[Ziren Wang (王梓任)](https://www.worldcubeassociation.org/persons/2017WANZ16)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:09.33|  
+|=|[Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02)|New Zealand|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:09.43|  
+|=|[Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:09.45|  
+|=|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:09.49|  
+|=|[Martin Kraut](https://www.worldcubeassociation.org/persons/2010KRAU02)|Germany|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:09.50|  
+|=|[Chenghao Guo (国成浩)](https://www.worldcubeassociation.org/persons/2016GUOC01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:09.53|  
+|=|[Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02)|Ukraine|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:09.56|  
+|=|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:09.63|  
+|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:09.64|  
+|=|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:09.69|  
+|=|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:09.74|  
+|=|[Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01)|Austria|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:09.75|  
+|=|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:09.76|  
+|=|[Dominic Amrhein](https://www.worldcubeassociation.org/persons/2016AMRH01)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:09.78|  
+|=|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:09.83|  
+|=|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|Korea|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:09.84|  
+|=|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:09.88|  
+|=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:09.90|  
+|=|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:09.92|  
+|=|[Juan Andres Ruiz Polo](https://www.worldcubeassociation.org/persons/2014POLO01)|Colombia|[GeniusCube2016](https://www.worldcubeassociation.org/competitions/GeniusCube2016)|1:09.95|  
+|=|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:10.04|  
+|=|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:10.08|  
+|=|[Andres Uribe Pérez](https://www.worldcubeassociation.org/persons/2012PERE03)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:10.09|  
+|=|[Ng Jia Quan](https://www.worldcubeassociation.org/persons/2015QUAN03)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:10.09|  
+|=|[Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25)|Norway|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:10.10|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:10.12|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.16|  
+|=|[Fabian Emiliano Escareño Gonzalez](https://www.worldcubeassociation.org/persons/2017GONZ35)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:10.17|  
+|=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:10.18|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:10.18|  
+|=|[Waldemar Sundin](https://www.worldcubeassociation.org/persons/2017SUND09)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:10.25|  
+|=|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:10.27|  
+|=|[Ricky Meiler](https://www.worldcubeassociation.org/persons/2012MEIL01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.34|  
+|=|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.35|  
+|=|[Min Yeong Choi](https://www.worldcubeassociation.org/persons/2016CHOI01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:10.41|  
+|=|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.44|  
+|=|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:10.44|  
+|=|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.45|  
+|=|[Martin Kraut](https://www.worldcubeassociation.org/persons/2010KRAU02)|Germany|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:10.47|  
+|=|[Ziheng Ma (马子恒)](https://www.worldcubeassociation.org/persons/2012MAZI01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:10.54|  
+|=|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:10.56|  
+|=|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.59|  
+|=|[Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:10.60|  
+|=|[Huan Yuan (袁欢)](https://www.worldcubeassociation.org/persons/2010YUAN08)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:10.63|  
+|=|[Jack Manzo](https://www.worldcubeassociation.org/persons/2016MANZ01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.63|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.64|  
+|=|[Manfred Siew](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:10.70|  
+|=|[Firstian Fushada](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:10.71|  
+|=|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.71|  
+|=|[Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01)|Slovakia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:10.79|  
+|=|[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:10.84|  
+|=|[Thomas Valles](https://www.worldcubeassociation.org/persons/2013VALL03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.85|  
+|=|[Nicolas Harper](https://www.worldcubeassociation.org/persons/2016HARP02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.86|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:10.87|  
+|=|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:10.96|  
+|=|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:10.98|  
+|=|[Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:10.99|  
+|=|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:11.06|  
+|=|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:11.07|  
+|=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:11.07|  
+|=|[Anton Smolyanyy](https://www.worldcubeassociation.org/persons/2016SMOL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:11.11|  
+|=|[Daniel Gloppestad Bajer](https://www.worldcubeassociation.org/persons/2009GLOP01)|Norway|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:11.13|  
+|=|[Christian Alexis Hurtado Lopez](https://www.worldcubeassociation.org/persons/2015LOPE18)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:11.14|  
+|=|[James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03)|New Zealand|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:11.20|  
+|=|[Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:11.50|  
+|=|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:11.52|  
+|=|[Guohan Zheng (郑国涵)](https://www.worldcubeassociation.org/persons/2016ZHEN31)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:11.52|  
+|=|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:11.56|  
+|=|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:11.59|  
+|=|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:11.60|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:11.66|  
+|=|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:11.66|  
+|=|[Esteban Elías González Méndez](https://www.worldcubeassociation.org/persons/2016MEND03)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:11.74|  
+|=|[Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:11.80|  
+|=|[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:11.81|  
+|=|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|[TunasOpen2018](https://www.worldcubeassociation.org/competitions/TunasOpen2018)|1:11.82|  
+|=|[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:11.87|  
+|=|[Christian Alexis Hurtado Lopez](https://www.worldcubeassociation.org/persons/2015LOPE18)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:11.94|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[SpeedDaysKrasnik2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018)|1:11.99|  
+|=|[Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:12.04|  
+|=|[Bangyan Hu (胡邦彦)](https://www.worldcubeassociation.org/persons/2014HUBA01)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:12.05|  
+|=|[Adrian Gomez Ramirez](https://www.worldcubeassociation.org/persons/2016RAMI11)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:12.06|  
+|=|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:12.18|  
+|=|[Junlong Li (李俊龙)](https://www.worldcubeassociation.org/persons/2011LIJU01)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:12.19|  
+|=|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:12.21|  
+|=|[Xiaobo Hou (侯晓博)](https://www.worldcubeassociation.org/persons/2015HOUX01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:12.27|  
+|=|[Gavin Olson](https://www.worldcubeassociation.org/persons/2016OLSO02)|Canada|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:12.32|  
+|=|[Yi Wang (王旖)](https://www.worldcubeassociation.org/persons/2011WANG33)|China|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:12.32|  
+|=|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|1:12.34|  
+|=|[Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:12.35|  
+|=|[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|Germany|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:12.37|  
+|=|[Pau Vela García](https://www.worldcubeassociation.org/persons/2009GARC04)|Spain|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:12.37|  
+|=|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:12.40|  
+|=|[Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:12.43|  
+|=|[Noé Bourdon](https://www.worldcubeassociation.org/persons/2016BOUR01)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:12.43|  
+|=|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:12.50|  
+|=|[Zeyu Gao (高泽宇)](https://www.worldcubeassociation.org/persons/2016GAOZ05)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:12.56|  
+|=|[Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01)|Italy|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:12.62|  
+|=|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:12.65|  
+|=|[Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01)|Portugal|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:12.71|  
+|=|[Lovisa Eriksson](https://www.worldcubeassociation.org/persons/2015ERIK01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:12.83|  
+|=|[Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:12.86|  
+|=|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:12.87|  
+|=|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:12.94|  
+|=|[Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:12.96|  
+|=|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|1:13.07|  
+|=|[Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:13.15|  
+|=|[Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01)|Slovenia|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:13.19|  
+|=|[Jin Zhuo (卓金)](https://www.worldcubeassociation.org/persons/2012ZHUO01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:13.24|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[HendersonvilleWinter2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018)|1:13.24|  
+|=|[Lei Wang (汪磊)](https://www.worldcubeassociation.org/persons/2013WANG11)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:13.35|  
+|=|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:13.40|  
+|=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:13.40|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:13.45|  
+|=|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:13.47|  
+|=|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:13.49|  
+|=|[Jingming Xu (许菁铭)](https://www.worldcubeassociation.org/persons/2017XUJI06)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:13.51|  
+|=|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:13.51|  
+|=|[Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:13.53|  
+|=|[Alfonso Gabriel Garcia Lozada](https://www.worldcubeassociation.org/persons/2017LOZA06)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:13.53|  
+|=|[Abner Philip Then Yi Hao (邓奕浩)](https://www.worldcubeassociation.org/persons/2015THEN01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:13.70|  
+|=|[Carsten Matheus](https://www.worldcubeassociation.org/persons/2014MATH02)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:13.82|  
+|=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:13.85|  
+|=|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:13.90|  
+|=|[Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01)|Philippines|[CaMaNaVaOpen2018](https://www.worldcubeassociation.org/competitions/CaMaNaVaOpen2018)|1:13.93|  
+|=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:13.95|  
+|=|[Will Wooden](https://www.worldcubeassociation.org/persons/2016WOOD02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:13.97|  
+|=|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|[HendersonvilleWinter2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018)|1:13.99|  
+|=|[Maximilian Deimel](https://www.worldcubeassociation.org/persons/2010DEIM01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.02|  
+|=|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:14.04|  
+|=|[James Olarte](https://www.worldcubeassociation.org/persons/2014OLAR02)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:14.05|  
+|=|[Pia Melloh](https://www.worldcubeassociation.org/persons/2013MELL01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.08|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.10|  
+|=|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:14.12|  
+|=|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:14.14|  
+|=|[Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:14.14|  
+|=|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:14.16|  
+|=|[Karen Tu](https://www.worldcubeassociation.org/persons/2015TUKA01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:14.17|  
+|=|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|India|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:14.18|  
+|=|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:14.22|  
+|=|[Bangyan Hu (胡邦彦)](https://www.worldcubeassociation.org/persons/2014HUBA01)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:14.26|  
+|=|[Johan Thuvesen](https://www.worldcubeassociation.org/persons/2014THUV01)|Sweden|[SSL3Kungsbacka2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017)|1:14.34|  
+|=|[Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:14.35|  
+|=|[Daniel Gloppestad Bajer](https://www.worldcubeassociation.org/persons/2009GLOP01)|Norway|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:14.42|  
+|=|[Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:14.43|  
+|=|[Lang Yuan (袁朗)](https://www.worldcubeassociation.org/persons/2011YUAN05)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:14.45|  
+|=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:14.49|  
+|=|[Xiaoxue Zhou (周晓学)](https://www.worldcubeassociation.org/persons/2009XUEZ01)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:14.51|  
+|=|[Takumi Yoshida (吉田匠)](https://www.worldcubeassociation.org/persons/2007YOSH01)|Japan|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.51|  
+|=|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:14.52|  
+|=|[Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.52|  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:14.53|  
+|=|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:14.54|  
+|=|[César Abraham Briones Arreola](https://www.worldcubeassociation.org/persons/2016ARRE02)|Mexico|[TunasOpen2018](https://www.worldcubeassociation.org/competitions/TunasOpen2018)|1:14.54|  
+|=|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:14.54|  
+|=|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|Spain|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.57|  
+|=|[Lang Yuan (袁朗)](https://www.worldcubeassociation.org/persons/2011YUAN05)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:14.57|  
+|=|[Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:14.58|  
+|=|[Junlong Li (李俊龙)](https://www.worldcubeassociation.org/persons/2011LIJU01)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:14.59|  
+|=|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:14.61|  
+|=|[Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:14.66|  
+|=|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:14.70|  
+|=|[Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01)|Colombia|[GeniusCube2016](https://www.worldcubeassociation.org/competitions/GeniusCube2016)|1:14.73|  
+|=|[Yikai Wang (王奕凯)](https://www.worldcubeassociation.org/persons/2017WANY05)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:14.74|  
+|=|[Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:14.76|  
+|=|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:14.78|  
+|=|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[SSL3Kungsbacka2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017)|1:14.80|  
+|=|[Carsten Matheus](https://www.worldcubeassociation.org/persons/2014MATH02)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.82|  
+|=|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:14.82|  
+|=|[Lukas Pohořelický](https://www.worldcubeassociation.org/persons/2013POHO01)|Czech Republic|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:14.86|  
+|=|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:14.88|  
+|=|[Alban Reynaud](https://www.worldcubeassociation.org/persons/2011REYN02)|France|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:14.90|  
+|=|[Yikai Wang (王奕凯)](https://www.worldcubeassociation.org/persons/2017WANY05)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:14.92|  
+|=|[Melissa Su](https://www.worldcubeassociation.org/persons/2014SUME02)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:14.92|  
+|=|[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:14.95|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:14.96|  
+|=|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:14.97|  
+|=|[Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01)|Switzerland|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:14.99|  
+|=|[Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:15.00|  
+|=|[Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:15.00|  
+|=|[Lei Wang (汪磊)](https://www.worldcubeassociation.org/persons/2013WANG11)|China|[QianjiangSummerOpen2018](https://www.worldcubeassociation.org/competitions/QianjiangSummerOpen2018)|1:15.02|  
+|=|[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|India|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:15.05|  
+|=|[Miguel Angel Ahumada](https://www.worldcubeassociation.org/persons/2018AHUM01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:15.05|  
+|=|[Henry Helmuth](https://www.worldcubeassociation.org/persons/2013HELM02)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:15.07|  
+|=|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:15.10|  
+|=|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:15.11|  
+|=|[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|Korea|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:15.15|  
+|=|[Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:15.20|  
+|=|[Sarah Cook](https://www.worldcubeassociation.org/persons/2015COOK03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:15.22|  
+|=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:15.23|  
+|=|[Renzo Rodriguez Moreno](https://www.worldcubeassociation.org/persons/2014MORE01)|Colombia|[GeniusCube2016](https://www.worldcubeassociation.org/competitions/GeniusCube2016)|1:15.26|  
+|=|[Tomáš Szyszkowicz](https://www.worldcubeassociation.org/persons/2017SZYS01)|Czech Republic|[12SidesofSilesia2018](https://www.worldcubeassociation.org/competitions/12SidesofSilesia2018)|1:15.28|  
+|=|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|Argentina|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:15.29|  
+|=|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:15.32|  
+|=|[Midas Kiebert](https://www.worldcubeassociation.org/persons/2016KIEB01)|Netherlands|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:15.36|  
+|=|[Lev Holub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|Ukraine|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:15.39|  
+|=|[Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01)|Finland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:15.43|  
+|=|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:15.44|  
+|=|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:15.45|  
+|=|[Zixi Li (李梓熙)](https://www.worldcubeassociation.org/persons/2017LIZI06)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:15.47|  
+|=|[Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:15.50|  
+|=|[James Olarte](https://www.worldcubeassociation.org/persons/2014OLAR02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:15.53|  
+|=|[Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:15.56|  
+|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:15.56|  
+|=|[Hongyang Wang (王红洋)](https://www.worldcubeassociation.org/persons/2012WANG53)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:15.59|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:15.59|  
+|=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:15.61|  
+|=|[Eason Siew Ee Son](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:15.63|  
+|=|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:15.65|  
+|=|[Abraham Torres Ortíz Aguirre](https://www.worldcubeassociation.org/persons/2016AGUI09)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:15.69|  
+|=|[Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01)|Colombia|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:15.70|  
+|=|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:15.71|  
+|=|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:15.72|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:15.79|  
+|=|[Lovisa Eriksson](https://www.worldcubeassociation.org/persons/2015ERIK01)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:15.82|  
+|=|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:15.83|  
+|=|[Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|Poland|[12SidesofSilesia2018](https://www.worldcubeassociation.org/competitions/12SidesofSilesia2018)|1:15.84|  
+|=|[Parker Zieschang](https://www.worldcubeassociation.org/persons/2016ZIES01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:15.84|  
+|=|[Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:15.84|  
+|=|[Karen Tu](https://www.worldcubeassociation.org/persons/2015TUKA01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:15.86|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:15.86|  
+|=|[Logan McGraw](https://www.worldcubeassociation.org/persons/2013MCGR02)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:15.87|  
+|=|[Ruei-Ying Huang (黃睿穎)](https://www.worldcubeassociation.org/persons/2017HUAN63)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:15.88|  
+|=|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:15.93|  
+|=|[Anderson Ortegón Gómez](https://www.worldcubeassociation.org/persons/2014GOME01)|Colombia|[MelgarSummer2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017)|1:15.94|  
+|=|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|1:15.95|  
+|=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:16.01|  
+|=|[Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01)|Colombia|[MelgarSummer2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017)|1:16.03|  
+|=|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:16.11|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[SpeedDaysKielce2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017)|1:16.17|  
+|=|[Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:16.23|  
+|=|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:16.33|  
+|=|[Giovanny Coronado](https://www.worldcubeassociation.org/persons/2012CORO01)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:16.43|  
+|=|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:16.47|  
+|=|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:16.47|  
+|=|[Sripad Sarma Katrapati](https://www.worldcubeassociation.org/persons/2014KATR01)|India|[IndianNationals2018](https://www.worldcubeassociation.org/competitions/IndianNationals2018)|1:16.49|  
+|=|[Anderson Ortegón Gómez](https://www.worldcubeassociation.org/persons/2014GOME01)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:16.55|  
+|=|[Carlos Javier Roque García](https://www.worldcubeassociation.org/persons/2014GARC24)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:16.62|  
+|=|[Johan Thuvesen](https://www.worldcubeassociation.org/persons/2014THUV01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:16.71|  
+|=|[Misael Gómez Soria](https://www.worldcubeassociation.org/persons/2014SORI01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:16.71|  
+|=|[Axel Aronsson](https://www.worldcubeassociation.org/persons/2015ARON01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:16.75|  
+|=|[Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08)|China|[HUSTOpen2018](https://www.worldcubeassociation.org/competitions/HUSTOpen2018)|1:16.78|  
+|=|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|1:16.82|  
+|=|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:16.83|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:16.90|  
+|=|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:16.94|  
+|=|[Victor Colin](https://www.worldcubeassociation.org/persons/2013COLI02)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:16.95|  
+|=|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|[ClockNCats2018](https://www.worldcubeassociation.org/competitions/ClockNCats2018)|1:16.99|  
+|=|[Chenghao Guo (国成浩)](https://www.worldcubeassociation.org/persons/2016GUOC01)|China|[XuzhouOpen2018](https://www.worldcubeassociation.org/competitions/XuzhouOpen2018)|1:17.04|  
+|=|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:17.09|  
+|=|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:17.12|  
+|=|[Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01)|Switzerland|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:17.15|  
+|=|[Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01)|Italy|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:17.20|  
+|=|[Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:17.21|  
+|=|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:17.24|  
+|=|[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:17.41|  
+|=|[Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:17.44|  
+|=|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:17.49|  
+|=|[Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:17.51|  
+|=|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:17.52|  
+|=|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:17.55|  
+|=|[Chong Jen Foong](https://www.worldcubeassociation.org/persons/2017FOON01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:17.66|  
+|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:17.68|  
+|=|[Yuzhuo Zheng (郑钰卓)](https://www.worldcubeassociation.org/persons/2016ZHEN25)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:17.78|  
+|=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:17.85|  
+|=|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:17.90|  
+|=|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|[HUSTOpen2018](https://www.worldcubeassociation.org/competitions/HUSTOpen2018)|1:17.92|  
+|=|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:17.93|  
+|=|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:17.95|  
+|=|[Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01)|France|[SensOpen2018](https://www.worldcubeassociation.org/competitions/SensOpen2018)|1:17.99|  
+|=|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|Taiwan|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:18.00|  
+|=|[Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05)|Hong Kong|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:18.00|  
+|=|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:18.01|  
+|=|[Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)|Poland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.04|  
+|=|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:18.04|  
+|=|[Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05)|Switzerland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.05|  
+|=|[Xiaoxue Zhou (周晓学)](https://www.worldcubeassociation.org/persons/2009XUEZ01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:18.06|  
+|=|[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:18.07|  
+|=|[Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/persons/2009ISHI01)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:18.08|  
+|=|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:18.20|  
+|=|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:18.27|  
+|=|[Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04)|Netherlands|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:18.28|  
+|=|[Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02)|China|[XuzhouOpen2018](https://www.worldcubeassociation.org/competitions/XuzhouOpen2018)|1:18.29|  
+|=|[Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:18.31|  
+|=|[Jonathan Tilahun](https://www.worldcubeassociation.org/persons/2014TILA01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:18.32|  
+|=|[Muhammad Ammar Aufa B. Rosman](https://www.worldcubeassociation.org/persons/2016ROSM01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:18.33|  
+|=|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.36|  
+|=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.36|  
+|=|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:18.37|  
+|=|[Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02)|Malaysia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.38|  
+|=|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:18.39|  
+|=|[Samuel Brenner](https://www.worldcubeassociation.org/persons/2014BREN02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:18.47|  
+|=|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|[DastrupSleepover2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018)|1:18.49|  
+|=|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|[PhilippineChampionship2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|1:18.58|  
+|=|[Andres Uribe Pérez](https://www.worldcubeassociation.org/persons/2012PERE03)|Colombia|[GeniusCube2016](https://www.worldcubeassociation.org/competitions/GeniusCube2016)|1:18.63|  
+|=|[Tan Yong Jie](https://www.worldcubeassociation.org/persons/2017JIET02)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:18.65|  
+|=|[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|[NacionalPerubik2016](https://www.worldcubeassociation.org/competitions/NacionalPerubik2016)|1:18.65|  
+|=|[Justin Mallari](https://www.worldcubeassociation.org/persons/2010MALL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:18.67|  
+|=|[Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01)|Switzerland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:18.77|  
+|=|[Edoardo Disarò](https://www.worldcubeassociation.org/persons/2013DISA01)|Italy|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:18.83|  
+|=|[Jakob Obleser](https://www.worldcubeassociation.org/persons/2013OBLE01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:18.84|  
+|=|[Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01)|Germany|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:18.90|  
+|=|[Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01)|Hungary|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:18.92|  
+|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:18.94|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[SwedishChampionship2017](https://www.worldcubeassociation.org/competitions/SwedishChampionship2017)|1:18.95|  
+|=|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:19.00|  
+|=|[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Germany|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.09|  
+|=|[Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02)|Poland|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:19.18|  
+|=|[Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01)|Slovenia|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:19.19|  
+|=|[Mateo Tiul](https://www.worldcubeassociation.org/persons/2013TIUL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:19.20|  
+|=|[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|1:19.20|  
+|=|[Xiangyi Zheng (郑祥熠)](https://www.worldcubeassociation.org/persons/2017ZHEN34)|China|[XianCherryBlossom2018](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2018)|1:19.21|  
+|=|[Manfred Siew](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:19.24|  
+|=|[Gustavo Silva Sousa](https://www.worldcubeassociation.org/persons/2013SOUS01)|Brazil|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:19.32|  
+|=|[Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:19.33|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:19.36|  
+|=|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:19.39|  
+|=|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:19.39|  
+|=|[Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01)|France|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:19.41|  
+|=|[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.43|  
+|=|[Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04)|USA|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|1:19.47|  
+|=|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[DanishOpen2018](https://www.worldcubeassociation.org/competitions/DanishOpen2018)|1:19.49|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:19.50|  
+|=|[Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04)|Sweden|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:19.56|  
+|=|[Anyu Zhang (张安宇)](https://www.worldcubeassociation.org/persons/2012ZHAN08)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:19.57|  
+|=|[Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01)|Poland|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:19.58|  
+|=|[Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:19.58|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[HUSTOpen2018](https://www.worldcubeassociation.org/competitions/HUSTOpen2018)|1:19.59|  
+|=|[Jesper Frisk](https://www.worldcubeassociation.org/persons/2017FRIS01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:19.61|  
+|=|[Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01)|Hungary|[SlovakianOpen2015](https://www.worldcubeassociation.org/competitions/SlovakianOpen2015)|1:19.64|  
+|=|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:19.65|  
+|=|[Trevor Petersen](https://www.worldcubeassociation.org/persons/2011PETE04)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:19.68|  
+|=|[Hazel Moises Ruiz Gutierrez](https://www.worldcubeassociation.org/persons/2017GUTI13)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:19.69|  
+|=|[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:19.70|  
+|=|[Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08)|Sweden|[SwedishDecathlonChallenge2018](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2018)|1:19.77|  
+|=|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:19.78|  
+|=|[Laura Tarrés Gimeno](https://www.worldcubeassociation.org/persons/2015GIME02)|Spain|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:19.80|  
+|=|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.85|  
+|=|[Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:19.87|  
+|=|[Zhenyang Liu (刘振洋)](https://www.worldcubeassociation.org/persons/2018LIUZ14)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:19.87|  
+|=|[Xinjie Shi (施鑫杰)](https://www.worldcubeassociation.org/persons/2016SHIX02)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:19.87|  
+|=|[Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.90|  
+|=|[Jehosafat Porras Galicia](https://www.worldcubeassociation.org/persons/2018GALI07)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.93|  
+|=|[Hazel Moises Ruiz Gutierrez](https://www.worldcubeassociation.org/persons/2017GUTI13)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:19.99|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:20.01|  
+|=|[Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:20.07|  
+|=|[Xavier Escalante Bulbarela](https://www.worldcubeassociation.org/persons/2016BULB01)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:20.08|  
+|=|[Haibo Sui (隋海波)](https://www.worldcubeassociation.org/persons/2011SUIH01)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:20.10|  
+|=|[Xiaoxue Zhou (周晓学)](https://www.worldcubeassociation.org/persons/2009XUEZ01)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:20.11|  
+|=|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|[XuzhouOpen2018](https://www.worldcubeassociation.org/competitions/XuzhouOpen2018)|1:20.14|  
+|=|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:20.16|  
+|=|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:20.16|  
+|=|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:20.19|  
+|=|[Bernard Solomon](https://www.worldcubeassociation.org/persons/2013SOLO02)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:20.19|  
+|=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:20.20|  
+|=|[Ben Marlin](https://www.worldcubeassociation.org/persons/2015MARL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:20.21|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:20.22|  
+|=|[Emiliano Xiuhuitzilli Sanchez Olivera](https://www.worldcubeassociation.org/persons/2016OLIV14)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:20.22|  
+|=|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:20.24|  
+|=|[Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01)|Colombia|[LatinAmericaCubingTourChia2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourChia2017)|1:20.24|  
+|=|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:20.25|  
+|=|[Dominic Amrhein](https://www.worldcubeassociation.org/persons/2016AMRH01)|Germany|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:20.27|  
+|=|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|[HendersonvilleWinter2018](https://www.worldcubeassociation.org/competitions/HendersonvilleWinter2018)|1:20.28|  
+|=|[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:20.29|  
+|=|[Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|1:20.32|  
+|=|[Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01)|Mexico|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:20.35|  
+|=|[Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01)|Poland|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:20.35|  
+|=|[Sebastian Alanen](https://www.worldcubeassociation.org/persons/2015ALAN02)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:20.38|  
+|=|[Ziyue Ding (丁子越)](https://www.worldcubeassociation.org/persons/2014DING05)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:20.42|  
+|=|[Zili Jin (金子力)](https://www.worldcubeassociation.org/persons/2017JINZ02)|China|[WuxiOpen2017](https://www.worldcubeassociation.org/competitions/WuxiOpen2017)|1:20.43|  
+|=|[Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01)|Austria|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:20.54|  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:20.60|  
+|=|[Tonia Kowalczyk](https://www.worldcubeassociation.org/persons/2008KWAS01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|1:20.62|  
+|=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[TunasOpen2018](https://www.worldcubeassociation.org/competitions/TunasOpen2018)|1:20.63|  
+|=|[Ziyue Ding (丁子越)](https://www.worldcubeassociation.org/persons/2014DING05)|China|[China10years2017](https://www.worldcubeassociation.org/competitions/China10years2017)|1:20.63|  
+|=|[Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02)|Spain|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:20.67|  
+|=|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|[ClassicCity4Charity2017](https://www.worldcubeassociation.org/competitions/ClassicCity4Charity2017)|1:20.68|  
+|=|[Alonzo Escobedo](https://www.worldcubeassociation.org/persons/2016ESCO02)|Peru|[NacionalPerubik2016](https://www.worldcubeassociation.org/competitions/NacionalPerubik2016)|1:20.70|  
+|=|[Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02)|Poland|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:20.72|  
+|=|[Myagmardorj Ulziijargal (Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01)|Mongolia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:20.76|  
+|=|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:20.78|  
+|=|[Michał Mielniczek](https://www.worldcubeassociation.org/persons/2009MIEL01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:20.78|  
+|=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:20.79|  
+|=|[Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:20.81|  
+|=|[Adam Hama Gareb](https://www.worldcubeassociation.org/persons/2016GARE01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:20.82|  
+|=|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:20.85|  
+|=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:20.92|  
+|=|[Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:20.92|  
+|=|[Shilan Wang (王石蓝)](https://www.worldcubeassociation.org/persons/2017WANG03)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:20.96|  
+|=|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|Argentina|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:20.98|  
+|=|[Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:21.00|  
+|=|[Luqman Hakim Bin Hairil Azli](https://www.worldcubeassociation.org/persons/2015AZLI01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:21.01|  
+|=|[Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|1:21.02|  
+|=|[Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01)|Peru|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:21.02|  
+|=|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:21.04|  
+|=|[Gerardo Saul Lira Guerrero](https://www.worldcubeassociation.org/persons/2017GUER17)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:21.04|  
+|=|[Alese Devin](https://www.worldcubeassociation.org/persons/2012DEVI01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:21.07|  
+|=|[Erwan Kohler](https://www.worldcubeassociation.org/persons/2010KOHL02)|Switzerland|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:21.08|  
+|=|[Wanzhong Chen (陈万忠)](https://www.worldcubeassociation.org/persons/2015CHEN24)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:21.08|  
+|=|[Shawn Poh](https://www.worldcubeassociation.org/persons/2016POHS01)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:21.10|  
+|=|[Daryl Aliben](https://www.worldcubeassociation.org/persons/2017ALIB02)|Philippines|[TokyoPyraminxReturns2018](https://www.worldcubeassociation.org/competitions/TokyoPyraminxReturns2018)|1:21.10|  
+|=|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:21.11|  
+|=|[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:21.11|  
+|=|[Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01)|Mexico|[RZOpen2017](https://www.worldcubeassociation.org/competitions/RZOpen2017)|1:21.11|  
+|=|[Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:21.13|  
+|=|[Mykyta Tytar (Микита Титарь)](https://www.worldcubeassociation.org/persons/2014TYTA02)|Ukraine|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:21.13|  
+|=|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:21.14|  
+|=|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:21.16|  
+|=|[Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01)|Slovenia|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:21.18|  
+|=|[Axel Aronsson](https://www.worldcubeassociation.org/persons/2015ARON01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:21.22|  
+|=|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:21.27|  
+|=|[Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:21.30|  
+|=|[Petros Karamanides](https://www.worldcubeassociation.org/persons/2015KARA05)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:21.33|  
+|=|[Adam Hama Gareb](https://www.worldcubeassociation.org/persons/2016GARE01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:21.34|  
+|=|[Ben Marlin](https://www.worldcubeassociation.org/persons/2015MARL01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:21.38|  
+|=|[Tianze Xu (徐天泽)](https://www.worldcubeassociation.org/persons/2015XUTI01)|China|[XuzhouOpen2018](https://www.worldcubeassociation.org/competitions/XuzhouOpen2018)|1:21.39|  
+|=|[Jessica Wu (吴莳函)](https://www.worldcubeassociation.org/persons/2016WUJE01)|China|[PhilippineChampionship2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|1:21.40|  
+|=|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:21.44|  
+|=|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:21.44|  
+|=|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:21.51|  
+|=|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[UniversityofNottingham2014](https://www.worldcubeassociation.org/competitions/UniversityofNottingham2014)|1:21.51|  
+|=|[Johan Thuvesen](https://www.worldcubeassociation.org/persons/2014THUV01)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:21.52|  
+|=|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|[TCGAndFriends2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015)|1:21.53|  
+|=|[Giovanny Coronado](https://www.worldcubeassociation.org/persons/2012CORO01)|Colombia|[GeniusCube2016](https://www.worldcubeassociation.org/competitions/GeniusCube2016)|1:21.53|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:21.56|  
+|=|[Juan Bernardo Mora Alonso](https://www.worldcubeassociation.org/persons/2017ALON06)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:21.60|  
+|=|[Yu-Kai Chen (陳宇楷)](https://www.worldcubeassociation.org/persons/2015CHEN56)|Taiwan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:21.62|  
+|=|[Xinyu Li (李欣宇)](https://www.worldcubeassociation.org/persons/2017LIXI03)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:21.65|  
+|=|[Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:21.66|  
+|=|[Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01)|Austria|[SlovakianOpen2015](https://www.worldcubeassociation.org/competitions/SlovakianOpen2015)|1:21.66|  
+|=|[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:21.67|  
+|=|[Paweł Murawski](https://www.worldcubeassociation.org/persons/2015MURA05)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:21.70|  
+|=|[Chenying Pei (裴琛英)](https://www.worldcubeassociation.org/persons/2016PEIC01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:21.74|  
+|=|[Abishua James Thomas](https://www.worldcubeassociation.org/persons/2013THOM03)|Canada|[IndianNationals2018](https://www.worldcubeassociation.org/competitions/IndianNationals2018)|1:21.75|  
+|=|[Adrian Gomez Ramirez](https://www.worldcubeassociation.org/persons/2016RAMI11)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:21.75|  
+|=|[Carlos Javier Roque García](https://www.worldcubeassociation.org/persons/2014GARC24)|Mexico|[RZOpen2017](https://www.worldcubeassociation.org/competitions/RZOpen2017)|1:21.77|  
+|=|[Carlos Joaquín Sánchez Oliva](https://www.worldcubeassociation.org/persons/2017OLIV26)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:21.77|  
+|=|[Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:21.78|  
+|=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:21.79|  
+|=|[Yezhen Han (韩业臻)](https://www.worldcubeassociation.org/persons/2017HANY01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:21.81|  
+|=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|[SSL3Kungsbacka2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017)|1:21.82|  
+|=|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:21.87|  
+|=|[Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01)|Switzerland|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:21.87|  
+|=|[Yulun Wu (吴宇伦)](https://www.worldcubeassociation.org/persons/2010WUYU02)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:21.90|  
+|=|[Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04)|USA|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|1:21.90|  
+|=|[Pia Melloh](https://www.worldcubeassociation.org/persons/2013MELL01)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:21.92|  
+|=|[Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:21.93|  
+|=|[Juan Bernardo Mora Alonso](https://www.worldcubeassociation.org/persons/2017ALON06)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:21.94|  
+|=|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:21.94|  
+|=|[Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01)|China|[XianCherryBlossom2018](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2018)|1:21.95|  
+|=|[Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01)|Switzerland|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:21.98|  
+|=|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:22.01|  
+|=|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:22.02|  
+|=|[Sameer Sethuram](https://www.worldcubeassociation.org/persons/2017SETH03)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:22.02|  
+|=|[Edward Vakula](https://www.worldcubeassociation.org/persons/2013VAKU01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:22.04|  
+|=|[Angel Omar Montiel Clavel](https://www.worldcubeassociation.org/persons/2016CLAV01)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:22.05|  
+|=|[Tiffany Chien](https://www.worldcubeassociation.org/persons/2012CHIE01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:22.08|  
+|=|[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:22.12|  
+|=|[Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02)|Poland|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:22.13|  
+|=|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:22.14|  
+|=|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|[SpeedDaysKrasnik2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018)|1:22.14|  
+|=|[Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:22.22|  
+|=|[Karen Tu](https://www.worldcubeassociation.org/persons/2015TUKA01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:22.23|  
+|=|[Gerardo Saul Lira Guerrero](https://www.worldcubeassociation.org/persons/2017GUER17)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:22.24|  
+|=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:22.26|  
+|=|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[DastrupSleepover2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018)|1:22.27|  
+|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:22.30|  
+|=|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:22.31|  
+|=|[Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04)|Netherlands|[CzechOpen2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010)|1:22.36|  
+|=|[Xiaoyin Guo (郭啸寅)](https://www.worldcubeassociation.org/persons/2017GUOX04)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:22.39|  
+|=|[Qingpo Niu (牛青坡)](https://www.worldcubeassociation.org/persons/2016NIUQ01)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:22.44|  
+|=|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:22.44|  
+|=|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:22.46|  
+|=|[William Yudi Matunoshita Ito](https://www.worldcubeassociation.org/persons/2013ITOW01)|Brazil|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:22.47|  
+|=|[Waldemar Sundin](https://www.worldcubeassociation.org/persons/2017SUND09)|Sweden|[SwedishDecathlonChallenge2018](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2018)|1:22.48|  
+|=|[Kenneth Carlos](https://www.worldcubeassociation.org/persons/2016CARL11)|Philippines|[FairviewCubeDay2018](https://www.worldcubeassociation.org/competitions/FairviewCubeDay2018)|1:22.49|  
+|=|[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:22.50|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:22.53|  
+|=|[Hao Zhang (张昊)](https://www.worldcubeassociation.org/persons/2010ZHAN17)|China|[XuzhouOpen2018](https://www.worldcubeassociation.org/competitions/XuzhouOpen2018)|1:22.53|  
+|=|[Travis Burkett](https://www.worldcubeassociation.org/persons/2018BURK01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:22.53|  
+|=|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:22.56|  
+|=|[Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:22.56|  
+|=|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:22.64|  
+|=|[Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:22.68|  
+|=|[Wei Wang (王炜)](https://www.worldcubeassociation.org/persons/2015WANG88)|China|[WuxiOpen2017](https://www.worldcubeassociation.org/competitions/WuxiOpen2017)|1:22.69|  
+|=|[Efrem Blitz](https://www.worldcubeassociation.org/persons/2015BLIT01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:22.71|  
+|=|[Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01)|Canada|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:22.72|  
+|=|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:22.76|  
+|=|[Di Li (李迪)](https://www.worldcubeassociation.org/persons/2012LIDI01)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:22.77|  
+|=|[Chengxiang Cui (崔程翔)](https://www.worldcubeassociation.org/persons/2015CUIC01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:22.77|  
+|=|[Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01)|Lithuania|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:22.77|  
+|=|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:22.78|  
+|=|[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|India|[IndianNationals2018](https://www.worldcubeassociation.org/competitions/IndianNationals2018)|1:22.78|  
+|=|[Zhifang Xi (席之枋)](https://www.worldcubeassociation.org/persons/2016XIZH01)|China|[NanjingSpring2017](https://www.worldcubeassociation.org/competitions/NanjingSpring2017)|1:22.81|  
+|=|[Csaba Zsiborás](https://www.worldcubeassociation.org/persons/2014ZSIB01)|Hungary|[HungarianOpen2018](https://www.worldcubeassociation.org/competitions/HungarianOpen2018)|1:22.82|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:22.90|  
+|=|[Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:22.94|  
+|=|[Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:22.95|  
+|=|[Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:22.97|  
+|=|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|1:22.99|  
+|=|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|[HefeiOpen2016](https://www.worldcubeassociation.org/competitions/HefeiOpen2016)|1:23.04|  
+|=|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:23.05|  
+|=|[Efrem Blitz](https://www.worldcubeassociation.org/persons/2015BLIT01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:23.07|  
+|=|[Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:23.07|  
+|=|[Weijie Jian (简维杰)](https://www.worldcubeassociation.org/persons/2011JIAN07)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:23.08|  
+|=|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:23.08|  
+|=|[Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03)|Colombia|[TorneoNacionalColombia2016](https://www.worldcubeassociation.org/competitions/TorneoNacionalColombia2016)|1:23.12|  
+|=|[Juewei Hu (胡珏伟)](https://www.worldcubeassociation.org/persons/2014HUJU02)|China|[WuxiOpen2017](https://www.worldcubeassociation.org/competitions/WuxiOpen2017)|1:23.15|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:23.18|  
+|=|[Allison Li](https://www.worldcubeassociation.org/persons/2014LIAL01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:23.20|  
+|=|[María Guadalupe Magaña Chávez](https://www.worldcubeassociation.org/persons/2014CHAV14)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:23.23|  
+|=|[Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01)|Denmark|[DanishOpen2018](https://www.worldcubeassociation.org/competitions/DanishOpen2018)|1:23.24|  
+|=|[Yee Wen Foo](https://www.worldcubeassociation.org/persons/2017FOOY01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:23.25|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:23.26|  
+|=|[Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01)|Canada|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:23.26|  
+|=|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)|1:23.36|  
+|=|[Ryan Yasinko](https://www.worldcubeassociation.org/persons/2015YASI02)|Canada|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:23.37|  
+|=|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:23.42|  
+|=|[Victor Colin](https://www.worldcubeassociation.org/persons/2013COLI02)|France|[GermanBigCubeOpen2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017)|1:23.46|  
+|=|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:23.52|  
+|=|[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:23.57|  
+|=|[Shawn Poh](https://www.worldcubeassociation.org/persons/2016POHS01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:23.59|  
+|=|[Giovanni Olmedo Bones](https://www.worldcubeassociation.org/persons/2016BONE01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:23.62|  
+|=|[Giovanny Coronado](https://www.worldcubeassociation.org/persons/2012CORO01)|Colombia|[NacionalesSpeedCubing2017](https://www.worldcubeassociation.org/competitions/NacionalesSpeedCubing2017)|1:23.65|  
+|=|[Alese Devin](https://www.worldcubeassociation.org/persons/2012DEVI01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:23.66|  
+|=|[Qiao Wen (温峭)](https://www.worldcubeassociation.org/persons/2017WENQ01)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:23.69|  
+|=|[Ethan Tan Hengdi](https://www.worldcubeassociation.org/persons/2017HENG02)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:23.70|  
+|=|[Jackson DeVico](https://www.worldcubeassociation.org/persons/2015DEVI02)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:23.71|  
+|=|[Angel Omar Pérez Cuate](https://www.worldcubeassociation.org/persons/2016CUAT02)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:23.72|  
+|=|[Antoine Isselin](https://www.worldcubeassociation.org/persons/2014ISSE01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:23.72|  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|[TunasOpen2018](https://www.worldcubeassociation.org/competitions/TunasOpen2018)|1:23.77|  
+|=|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|Brazil|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:23.78|  
+|=|[Chris Brotzman](https://www.worldcubeassociation.org/persons/2013BROT01)|USA|[CubingUSANorthwestChamps2018](https://www.worldcubeassociation.org/competitions/CubingUSANorthwestChamps2018)|1:23.78|  
+|=|[Allison Li](https://www.worldcubeassociation.org/persons/2014LIAL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:23.82|  
+|=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|1:23.84|  
+|=|[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:23.87|  
+|=|[Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07)|China|[HefeiOpen2016](https://www.worldcubeassociation.org/competitions/HefeiOpen2016)|1:23.88|  
+|=|[Vojtěch Kundera](https://www.worldcubeassociation.org/persons/2015KUND04)|Czech Republic|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:23.93|  
+|=|[Chengxiang Cui (崔程翔)](https://www.worldcubeassociation.org/persons/2015CUIC01)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:23.96|  
+|=|[Mark Aeron Santos](https://www.worldcubeassociation.org/persons/2017SANT67)|Philippines|[CaMaNaVaOpen2018](https://www.worldcubeassociation.org/competitions/CaMaNaVaOpen2018)|1:23.99|  
+|=|[Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01)|Russia|[CCCAutumnOpen2014](https://www.worldcubeassociation.org/competitions/CCCAutumnOpen2014)|1:24.00|  
+|=|[Linhang Sun (孙林航)](https://www.worldcubeassociation.org/persons/2015SUNL02)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:24.01|  
+|=|[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:24.02|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[WC2011](https://www.worldcubeassociation.org/competitions/WC2011)|1:24.03|  
+|=|[Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03)|China|[WuxiOpen2017](https://www.worldcubeassociation.org/competitions/WuxiOpen2017)|1:24.03|  
+|=|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|Spain|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:24.03|  
+|=|[Veikko Rauhala](https://www.worldcubeassociation.org/persons/2017RAUH01)|Finland|[FinnishChampionship2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018)|1:24.04|  
+|=|[Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01)|Poland|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:24.06|  
+|=|[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:24.08|  
+|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|1:24.09|  
+|=|[Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01)|Slovakia|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|1:24.10|  
+|=|[Jiazheng Zhao (赵家正)](https://www.worldcubeassociation.org/persons/2014ZHAO10)|China|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:24.18|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:24.18|  
+|=|[Pablo Nicolás Oshiro Mondoñedo](https://www.worldcubeassociation.org/persons/2010MOND01)|Peru|[Spain2018](https://www.worldcubeassociation.org/competitions/Spain2018)|1:24.20|  
+|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[SwissOpen2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017)|1:24.23|  
+|=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:24.23|  
+|=|[Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:24.25|  
+|=|[Thomas Valles](https://www.worldcubeassociation.org/persons/2013VALL03)|USA|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)|1:24.25|  
+|=|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:24.26|  
+|=|[Matthew Shore](https://www.worldcubeassociation.org/persons/2015SHOR02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:24.26|  
+|=|[Yunhui Shi (石蕴辉)](https://www.worldcubeassociation.org/persons/2017SHIY01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:24.27|  
+|=|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:24.29|  
+|=|[Abraham Torres Ortíz Aguirre](https://www.worldcubeassociation.org/persons/2016AGUI09)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:24.30|  
+|=|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|[BigCubeBonanza2018](https://www.worldcubeassociation.org/competitions/BigCubeBonanza2018)|1:24.31|  
+|=|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:24.31|  
+|=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|1:24.33|  
+|=|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:24.33|  
+|=|[Marie Vincent](https://www.worldcubeassociation.org/persons/2016VINC01)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:24.37|  
+|=|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:24.38|  
+|=|[Juho Arjanne](https://www.worldcubeassociation.org/persons/2015ARJA01)|Finland|[Ark2018](https://www.worldcubeassociation.org/competitions/Ark2018)|1:24.39|  
+|=|[Syafiq Aizat Bin Shaiful Amri](https://www.worldcubeassociation.org/persons/2017AMRI03)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:24.41|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)|1:24.42|  
+|=|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|[GermanBigCubeOpen2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017)|1:24.43|  
+|=|[Hao Zhang (张昊)](https://www.worldcubeassociation.org/persons/2010ZHAN17)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:24.44|  
+|=|[Marco Antonio Garcia Franco](https://www.worldcubeassociation.org/persons/2016FRAN10)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:24.48|  
+|=|[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|[LatinAmericaCubingTourArequi2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourArequi2017)|1:24.49|  
+|=|[Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01)|Slovakia|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:24.52|  
+|=|[Yuuki Kobayashi (古林祐輝)](https://www.worldcubeassociation.org/persons/2009KOBA02)|Japan|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:24.54|  
+|=|[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:24.55|  
+|=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:24.60|  
+|=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)|1:24.63|  
+|=|[Marco Willems](https://www.worldcubeassociation.org/persons/2009WILL02)|Netherlands|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:24.64|  
+|=|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:24.68|  
+|=|[Zaiyang Zhang (张在旸)](https://www.worldcubeassociation.org/persons/2017ZHAZ09)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:24.73|  
+|=|[Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01)|Poland|[SpeedDaysKrasnik2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018)|1:24.75|  
+|=|[John Eppley](https://www.worldcubeassociation.org/persons/2014EPPL01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:24.77|  
+|=|[Ying Lin (林颖)](https://www.worldcubeassociation.org/persons/2015LINY08)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:24.78|  
+|=|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:24.80|  
+|=|[Adam Hama Gareb](https://www.worldcubeassociation.org/persons/2016GARE01)|Sweden|[SSL3Kungsbacka2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017)|1:24.81|  
+|=|[Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37)|Peru|[CampeonatoNacionalPerubik2017](https://www.worldcubeassociation.org/competitions/CampeonatoNacionalPerubik2017)|1:24.82|  
+|=|[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:24.87|  
+|=|[Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:24.90|  
+|=|[Sameer Mahmood](https://www.worldcubeassociation.org/persons/2013MAHM02)|United Kingdom|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:24.92|  
+|=|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|[RoyalCornerTwist2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018)|1:24.93|  
+|=|[Fabricio Andrés Yañez Terrazas](https://www.worldcubeassociation.org/persons/2015TERR01)|Bolivia|[LatinAmericaCubingTourLima2017](https://www.worldcubeassociation.org/competitions/LatinAmericaCubingTourLima2017)|1:24.94|  
+|=|[Jesús Jorge García López](https://www.worldcubeassociation.org/persons/2018LOPE09)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:24.98|  
+|=|[Kun Wang (王堃)](https://www.worldcubeassociation.org/persons/2017WANK01)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:24.98|  
+|=|[Logan McGraw](https://www.worldcubeassociation.org/persons/2013MCGR02)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:25.02|  
+|=|[Qi Zhou (周祺)](https://www.worldcubeassociation.org/persons/2015ZHOU07)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:25.02|  
+|=|[Eduardo Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA01)|Peru|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:25.06|  
+|=|[Xiaobin Rui (芮晓彬)](https://www.worldcubeassociation.org/persons/2013RUIX02)|China|[HefeiOpen2016](https://www.worldcubeassociation.org/competitions/HefeiOpen2016)|1:25.09|  
+|=|[Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|1:25.10|  
+|=|[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|Korea|[WC2011](https://www.worldcubeassociation.org/competitions/WC2011)|1:25.10|  
+|=|[Bartosz Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|1:25.12|  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:25.13|  
+|=|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:25.13|  
+|=|[Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01)|USA|[CubingUSANorthwestChamps2018](https://www.worldcubeassociation.org/competitions/CubingUSANorthwestChamps2018)|1:25.14|  
+|=|[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:25.16|  
+|=|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:25.22|  
+|=|[Xiaojing Zhang (张小静)](https://www.worldcubeassociation.org/persons/2012ZHAN50)|China|[FujianChampionship2018](https://www.worldcubeassociation.org/competitions/FujianChampionship2018)|1:25.22|  
+|=|[Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02)|Finland|[VantaaOpen2018](https://www.worldcubeassociation.org/competitions/VantaaOpen2018)|1:25.25|  
+|=|[Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:25.28|  
+|=|[Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07)|China|[ChinaChampionship2015](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015)|1:25.33|  
+|=|[Angel Omar Pérez Cuate](https://www.worldcubeassociation.org/persons/2016CUAT02)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:25.33|  
+|=|[Jerich Lee (李再圆)](https://www.worldcubeassociation.org/persons/2015LEEJ02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:25.34|  
+|=|[Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01)|Colombia|[TorneoNacionalColombia2016](https://www.worldcubeassociation.org/competitions/TorneoNacionalColombia2016)|1:25.43|  
+|=|[Luis Fernando Hernández Guerrero](https://www.worldcubeassociation.org/persons/2016GUER11)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:25.44|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[HefeiOpen2017](https://www.worldcubeassociation.org/competitions/HefeiOpen2017)|1:25.46|  
+|=|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|1:25.48|  
+|=|[Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01)|Japan|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:25.49|  
+|=|[Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:25.53|  
+|=|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:25.54|  
+|=|[Johan Thuvesen](https://www.worldcubeassociation.org/persons/2014THUV01)|Sweden|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:25.58|  
+|=|[Qingwei Kong (孔庆玮)](https://www.worldcubeassociation.org/persons/2012KONG01)|China|[NanjingSpring2017](https://www.worldcubeassociation.org/competitions/NanjingSpring2017)|1:25.61|  
+|=|[Sean Teh Jingshan](https://www.worldcubeassociation.org/persons/2017JING01)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:25.66|  
+|=|[Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02)|France|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:25.66|  
+|=|[Dan Cohen](https://www.worldcubeassociation.org/persons/2007COHE01)|USA|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)|1:25.71|  
+|=|[Giovanny Coronado](https://www.worldcubeassociation.org/persons/2012CORO01)|Colombia|[MelgarSummer2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017)|1:25.72|  
+|=|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:25.75|  
+|=|[Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52)|Colombia|[MelgarSummer2017](https://www.worldcubeassociation.org/competitions/MelgarSummer2017)|1:25.75|  
+|=|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:25.76|  
+|=|[Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01)|Canada|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:25.78|  
+|=|[Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01)|Colombia|[NacionalesSpeedCubing2017](https://www.worldcubeassociation.org/competitions/NacionalesSpeedCubing2017)|1:25.78|  
+|=|[Anderson De La Cruz Briceño](https://www.worldcubeassociation.org/persons/2017BRIC03)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:25.80|  
+|=|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|1:25.80|  
+|=|[Efrem Blitz](https://www.worldcubeassociation.org/persons/2015BLIT01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:25.83|  
+|=|[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)|1:25.89|  
+|=|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:25.93|  
+|=|[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:25.97|  
+|=|[Lang Yuan (袁朗)](https://www.worldcubeassociation.org/persons/2011YUAN05)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:25.98|  
+|=|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:25.99|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:26.01|  
+|=|[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|Italy|[ChinaChampionship2015](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015)|1:26.10|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:26.12|  
+|=|[Wenhao He (贺文浩)](https://www.worldcubeassociation.org/persons/2016HEWE02)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:26.13|  
+|=|[Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)](https://www.worldcubeassociation.org/persons/2008HANK01)|France|[CzechOpen2010](https://www.worldcubeassociation.org/competitions/CzechOpen2010)|1:26.13|  
+|=|[Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:26.14|  
+|=|[Karl Taagaard Hansen](https://www.worldcubeassociation.org/persons/2016HANS01)|Denmark|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)|1:26.14|  
+|=|[Hailun Su (苏海伦)](https://www.worldcubeassociation.org/persons/2018SUHA04)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:26.15|  
+|=|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:26.22|  
+|=|[Daniel Kobrzycki](https://www.worldcubeassociation.org/persons/2009KOBR01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|1:26.22|  
+|=|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:26.25|  
+|=|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:26.26|  
+|=|[Jesper Frisk](https://www.worldcubeassociation.org/persons/2017FRIS01)|Sweden|[RoyalCornerTwist2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018)|1:26.26|  
+|=|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:26.26|  
+|=|[Alexander Montoya](https://www.worldcubeassociation.org/persons/2018MONT28)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:26.27|  
+|=|[Yonghua Xie (解永华)](https://www.worldcubeassociation.org/persons/2015XIEY03)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:26.27|  
+|=|[Xiaojing Zhang (张小静)](https://www.worldcubeassociation.org/persons/2012ZHAN50)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:26.27|  
+|=|[Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:26.28|  
+|=|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:26.29|  
+|=|[David Quispe](https://www.worldcubeassociation.org/persons/2018QUIS04)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:26.35|  
+|=|[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:26.37|  
+|=|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:26.39|  
+|=|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:26.40|  
+|=|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|[ClockNCats2018](https://www.worldcubeassociation.org/competitions/ClockNCats2018)|1:26.40|  
+|=|[Clare Keddy](https://www.worldcubeassociation.org/persons/2012KEDD01)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:26.42|  
+|=|[Juho Arjanne](https://www.worldcubeassociation.org/persons/2015ARJA01)|Finland|[FinnishChampionship2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018)|1:26.45|  
+|=|[Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:26.48|  
+|=|[Eduardo González Parra](https://www.worldcubeassociation.org/persons/2011PARR03)|Mexico|[Guadalajara2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017)|1:26.48|  
+|=|[Qi Zhou (周祺)](https://www.worldcubeassociation.org/persons/2015ZHOU07)|China|[QianjiangSummerOpen2018](https://www.worldcubeassociation.org/competitions/QianjiangSummerOpen2018)|1:26.50|  
+|=|[Albin Sten](https://www.worldcubeassociation.org/persons/2012XHEM01)|Sweden|[SSL1Jonkoping2017](https://www.worldcubeassociation.org/competitions/SSL1Jonkoping2017)|1:26.50|  
+|=|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:26.50|  
+|=|[Rainie Liu (刘诗雨)](https://www.worldcubeassociation.org/persons/2016LIUR05)|Australia|[SwissOpen2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017)|1:26.52|  
+|=|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:26.52|  
+|=|[Daniel Gloppestad Bajer](https://www.worldcubeassociation.org/persons/2009GLOP01)|Norway|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:26.55|  
+|=|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)|1:26.56|  
+|=|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|[Guadalajara2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017)|1:26.59|  
+|=|[László Mészáros](https://www.worldcubeassociation.org/persons/2007MESZ01)|Hungary|[HungarianOpen2018](https://www.worldcubeassociation.org/competitions/HungarianOpen2018)|1:26.59|  
+|=|[Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11)|USA|[NoPlaceForDNFSpring2018](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018)|1:26.61|  
+|=|[Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:26.66|  
+|=|[Anthony Larco](https://www.worldcubeassociation.org/persons/2018LARC01)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:26.67|  
+|=|[Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03)|Thailand|[AsianChampionship2012](https://www.worldcubeassociation.org/competitions/AsianChampionship2012)|1:26.75|  
+|=|[Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01)|Finland|[VantaaOpen2018](https://www.worldcubeassociation.org/competitions/VantaaOpen2018)|1:26.77|  
+|=|[Karenjit Singh Gill (卡仁基)](https://www.worldcubeassociation.org/persons/2016GILL09)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|1:26.81|  
+|=|[Louis Sarthou](https://www.worldcubeassociation.org/persons/2012SART01)|France|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:26.82|  
+|=|[Mark Ostrom](https://www.worldcubeassociation.org/persons/2017OSTR01)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|1:26.83|  
+|=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|[WuxiOpen2017](https://www.worldcubeassociation.org/competitions/WuxiOpen2017)|1:26.83|  
+|=|[Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08)|Sweden|[RoyalCornerTwist2018](https://www.worldcubeassociation.org/competitions/RoyalCornerTwist2018)|1:26.89|  
+|=|[Xiang Meng (孟响)](https://www.worldcubeassociation.org/persons/2017MENG07)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:26.89|  
+|=|[Jesus Emmanuel Vergara Ayarza](https://www.worldcubeassociation.org/persons/2017AYAR01)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:26.90|  
+|=|[Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02)|China|[NanjingSpring2017](https://www.worldcubeassociation.org/competitions/NanjingSpring2017)|1:26.95|  
+|=|[Alese Devin](https://www.worldcubeassociation.org/persons/2012DEVI01)|USA|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)|1:26.96|  
+|=|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|[SSLFinalBoras2017](https://www.worldcubeassociation.org/competitions/SSLFinalBoras2017)|1:27.01|  
+|=|[Boxi Chen (陈博希)](https://www.worldcubeassociation.org/persons/2014CHEN08)|China|[HefeiOpen2017](https://www.worldcubeassociation.org/competitions/HefeiOpen2017)|1:27.05|  
+|=|[Shengjun Yang (杨胜军)](https://www.worldcubeassociation.org/persons/2014YANG22)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:27.06|  
+|=|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|USA|[FirstState2018](https://www.worldcubeassociation.org/competitions/FirstState2018)|1:27.08|  
+|=|[Haixin Yang (杨海鑫)](https://www.worldcubeassociation.org/persons/2014YANG11)|China|[XianCherryBlossom2018](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2018)|1:27.08|  
+|=|[Jiazheng Zhao (赵家正)](https://www.worldcubeassociation.org/persons/2014ZHAO10)|China|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:27.18|  
+|=|[Wanzhong Chen (陈万忠)](https://www.worldcubeassociation.org/persons/2015CHEN24)|China|[China10years2017](https://www.worldcubeassociation.org/competitions/China10years2017)|1:27.19|  
+|=|[Juan Bernardo Mora Alonso](https://www.worldcubeassociation.org/persons/2017ALON06)|Mexico|[Tlaxcala2018](https://www.worldcubeassociation.org/competitions/Tlaxcala2018)|1:27.24|  
+|=|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:27.25|  
+|=|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:27.27|  
+|=|[Jingming Xu (许菁铭)](https://www.worldcubeassociation.org/persons/2017XUJI06)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:27.29|  
+|=|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|[PhilippineChampionship2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|1:27.33|  
+|=|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|[BarbyCube732017](https://www.worldcubeassociation.org/competitions/BarbyCube732017)|1:27.34|  
+|=|[Karl Taagaard Hansen](https://www.worldcubeassociation.org/persons/2016HANS01)|Denmark|[DanishOpen2018](https://www.worldcubeassociation.org/competitions/DanishOpen2018)|1:27.39|  
+|=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[Guadalajara2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017)|1:27.40|  
+|=|[Ivan Terekh](https://www.worldcubeassociation.org/persons/2014TERE03)|Belarus|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.42|  
+|=|[Eduardo Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA01)|Peru|[TCGAndFriends2015](https://www.worldcubeassociation.org/competitions/TCGAndFriends2015)|1:27.49|  
+|=|[Eduardo González Parra](https://www.worldcubeassociation.org/persons/2011PARR03)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:27.52|  
+|=|[Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01)|Korea|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:27.54|  
+|=|[Fabio Leidwein](https://www.worldcubeassociation.org/persons/2015LEID02)|Austria|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.57|  
+|=|[Myagmardorj Ulziijargal (Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01)|Mongolia|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:27.58|  
+|=|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|[Guadalajara2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017)|1:27.58|  
+|=|[Mannessah Kani](https://www.worldcubeassociation.org/persons/2016KANI01)|Australia|[AustralianNationals2017](https://www.worldcubeassociation.org/competitions/AustralianNationals2017)|1:27.59|  
+|=|[Chenkai Shen (沈宸恺)](https://www.worldcubeassociation.org/persons/2018SHEN04)|China|[XianCherryBlossom2018](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2018)|1:27.59|  
+|=|[Julian Sico](https://www.worldcubeassociation.org/persons/2016SICO01)|New Zealand|[MindGames2018](https://www.worldcubeassociation.org/competitions/MindGames2018)|1:27.62|  
+|=|[Jiahao Deng (邓家豪)](https://www.worldcubeassociation.org/persons/2014DENG08)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:27.63|  
+|=|[Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:27.63|  
+|=|[Nestor Sokhan](https://www.worldcubeassociation.org/persons/2016SOKH01)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|1:27.63|  
+|=|[Jesús Eduardo Baeza Castillo](https://www.worldcubeassociation.org/persons/2013CAST04)|Mexico|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:27.64|  
+|=|[Yujian Song (宋雨键)](https://www.worldcubeassociation.org/persons/2018SONG06)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:27.66|  
+|=|[Yimin Lü (吕怡敏)](https://www.worldcubeassociation.org/persons/2016LUYI02)|China|[NanjingSpring2017](https://www.worldcubeassociation.org/competitions/NanjingSpring2017)|1:27.67|  
+|=|[Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02)|Argentina|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.67|  
+|=|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:27.69|  
+|=|[Aaron Stettner](https://www.worldcubeassociation.org/persons/2017STET01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:27.69|  
+|=|[Andrew Karbusicky](https://www.worldcubeassociation.org/persons/2015KARB02)|USA|[ClockNCats2018](https://www.worldcubeassociation.org/competitions/ClockNCats2018)|1:27.73|  
+|=|[Martin Šebesta](https://www.worldcubeassociation.org/persons/2015SEBE01)|Czech Republic|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|1:27.74|  
+|=|[Benjamin Pugh](https://www.worldcubeassociation.org/persons/2014PUGH01)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|1:27.76|  
+|=|[Chuanxu Yan (严传旭)](https://www.worldcubeassociation.org/persons/2016YANC02)|China|[ShanghaiWinter2018](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2018)|1:27.80|  
+|=|[Pufan Yang (杨朴凡)](https://www.worldcubeassociation.org/persons/2014YANG36)|China|[XianCherryBlossom2018](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2018)|1:27.82|  
+|=|[Zhili Zhang (张志立)](https://www.worldcubeassociation.org/persons/2012ZHAN24)|China|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)|1:27.82|  
+|=|[Parker Zieschang](https://www.worldcubeassociation.org/persons/2016ZIES01)|USA|[HeartlandChampionships2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|1:27.82|  
+|=|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|[Pennsylvania2018](https://www.worldcubeassociation.org/competitions/Pennsylvania2018)|1:27.83|  
+|=|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.83|  
+|=|[Lijiaqi Zhang (张李佳琦)](https://www.worldcubeassociation.org/persons/2011ZHAN03)|China|[BeijingOpen2018](https://www.worldcubeassociation.org/competitions/BeijingOpen2018)|1:27.85|  
+|=|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|1:27.87|  
+|=|[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|[MalaysiaCubeOpen2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|1:27.88|  
+|=|[Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:27.89|  
+|=|[Chris Brotzman](https://www.worldcubeassociation.org/persons/2013BROT01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:27.89|  
+|=|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:27.90|  
+|=|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[GermanBigCubeOpen2017](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2017)|1:27.91|  
+|=|[Zhaoshuai Zhong (仲昭帅)](https://www.worldcubeassociation.org/persons/2017ZHON01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:27.92|  
+|=|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:27.92|  
+|=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|[SwedishChampionship2017](https://www.worldcubeassociation.org/competitions/SwedishChampionship2017)|1:27.96|  
+|=|[Hua-Ting Lee (李華庭)](https://www.worldcubeassociation.org/persons/2013LIHU01)|Taiwan|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.96|  
+|=|[Jonathan Soo Min-Kit](https://www.worldcubeassociation.org/persons/2017MINK04)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:27.97|  
+|=|[Yunhui Shi (石蕴辉)](https://www.worldcubeassociation.org/persons/2017SHIY01)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:27.98|  
+|=|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:27.98|  
+|=|[Chunxiao Li (李春啸)](https://www.worldcubeassociation.org/persons/2013LICH01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|1:28.03|  
+|=|[Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:28.05|  
+|=|[Ethan Palendeng](https://www.worldcubeassociation.org/persons/2015PALE01)|New Zealand|[MindGames2018](https://www.worldcubeassociation.org/competitions/MindGames2018)|1:28.06|  
+|=|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:28.06|  
+|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:28.06|  
+|=|[Juan Delgado Sanchez](https://www.worldcubeassociation.org/persons/2015SANC09)|Mexico|[AguascalientesSummer2016](https://www.worldcubeassociation.org/competitions/AguascalientesSummer2016)|1:28.10|  
+|=|[Luis Miguel Soto Vega](https://www.worldcubeassociation.org/persons/2015VEGA03)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:28.10|  
+|=|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|1:28.11|  
+|=|[Aaron Stettner](https://www.worldcubeassociation.org/persons/2017STET01)|USA|[ClockNCats2018](https://www.worldcubeassociation.org/competitions/ClockNCats2018)|1:28.13|  
+|=|[Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01)|Finland|[FinnishChampionship2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018)|1:28.13|  
+|=|[Shihao Ou (欧世浩)](https://www.worldcubeassociation.org/persons/2014OUSH01)|China|[CrossstraitCubingExchange2018](https://www.worldcubeassociation.org/competitions/CrossstraitCubingExchange2018)|1:28.15|  
+|=|[Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|1:28.15|  
+|=|[Ethan Dennis](https://www.worldcubeassociation.org/persons/2016DENN04)|USA|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|1:28.18|  
+|=|[Fitri Nurul Ain](https://www.worldcubeassociation.org/persons/2017AINF01)|Brunei|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|1:28.18|  
+|=|[Nathapat Chawawiwat (ณัฐพัชร์ ชววิวรรธน์)](https://www.worldcubeassociation.org/persons/2010CHAW02)|Thailand|[WC2011](https://www.worldcubeassociation.org/competitions/WC2011)|1:28.21|  
+|=|[Moritz Lotz](https://www.worldcubeassociation.org/persons/2017LOTZ01)|Germany|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|1:28.21|  
+|=|[Justin Jaffray](https://www.worldcubeassociation.org/persons/2008JAFF01)|Canada|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)|1:28.27|  
+|=|[Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02)|France|[Euro2014](https://www.worldcubeassociation.org/competitions/Euro2014)|1:28.28|  
+|=|[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|[ReturnOpen2017](https://www.worldcubeassociation.org/competitions/ReturnOpen2017)|1:28.33|  
+|=|[Craig Luke Jimeno](https://www.worldcubeassociation.org/persons/2017JIME15)|Philippines|[PhilippineChampionship2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|1:28.35|  
+|=|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:28.35|  
+|=|[Miguel Reyes](https://www.worldcubeassociation.org/persons/2016REYE11)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|1:28.37|  
+|=|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|1:28.38|  
+|=|[Sirish Nutakki](https://www.worldcubeassociation.org/persons/2014NUTA01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:28.38|  
+|=|[Zixi Li (李梓熙)](https://www.worldcubeassociation.org/persons/2017LIZI06)|China|[China10years2017](https://www.worldcubeassociation.org/competitions/China10years2017)|1:28.44|  
+|=|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:28.45|  
+|=|[Xiaojing Zhang (张小静)](https://www.worldcubeassociation.org/persons/2012ZHAN50)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|1:28.48|  
+|=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[Euro2012](https://www.worldcubeassociation.org/competitions/Euro2012)|1:28.50|  
+|=|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|[ACARO2016](https://www.worldcubeassociation.org/competitions/ACARO2016)|1:28.53|  
+|=|[Reuben San Luis](https://www.worldcubeassociation.org/persons/2017LUIS01)|USA|[BASC122018](https://www.worldcubeassociation.org/competitions/BASC122018)|1:28.57|  
+|=|[Eduardo Daniel Perez Miramontes](https://www.worldcubeassociation.org/persons/2017MIRA11)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|1:28.58|  
+|=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:28.61|  
+|=|[Dominic Amrhein](https://www.worldcubeassociation.org/persons/2016AMRH01)|Germany|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:28.61|  
+|=|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|1:28.64|  
+|=|[Pontus Kristiansson](https://www.worldcubeassociation.org/persons/2018KRIS11)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|1:28.65|  
+|=|[Francis Kercy Pascual Caspellan](https://www.worldcubeassociation.org/persons/2017CASP02)|Philippines|[FairviewCubeDay2018](https://www.worldcubeassociation.org/competitions/FairviewCubeDay2018)|1:28.65|  
+|=|[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Canada|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|1:28.75|  
+|=|[Xiaojing Zhang (张小静)](https://www.worldcubeassociation.org/persons/2012ZHAN50)|China|[GuangdongOpen2018](https://www.worldcubeassociation.org/competitions/GuangdongOpen2018)|1:28.77|  
+|=|[Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01)|Poland|[LLSVIIFinal2018](https://www.worldcubeassociation.org/competitions/LLSVIIFinal2018)|1:28.78|  
+|=|[Angel Aldahir Herrera Arias](https://www.worldcubeassociation.org/persons/2017ARIA03)|Peru|[PeruNationals2018](https://www.worldcubeassociation.org/competitions/PeruNationals2018)|1:28.80|  
+|=|[Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:28.85|  
+|=|[Renzo Rodriguez Moreno](https://www.worldcubeassociation.org/persons/2014MORE01)|Colombia|[TorneoCosmocentro2016](https://www.worldcubeassociation.org/competitions/TorneoCosmocentro2016)|1:28.90|  
+|=|[Oliver Brookes](https://www.worldcubeassociation.org/persons/2016BROO05)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|1:28.91|  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|[ReturnOpen2017](https://www.worldcubeassociation.org/competitions/ReturnOpen2017)|1:28.93|  
+|=|[Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48)|Panama|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|1:28.94|  
+|=|[Chan Hay Yin (陳希言)](https://www.worldcubeassociation.org/persons/2015YINC01)|Hong Kong|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:28.94|  
+|=|[Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:28.95|  
+|=|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)|1:28.96|  
+|=|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|[NoPlaceForDNFSpring2018](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018)|1:28.97|  
