@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -15,4 +15,4 @@
 |[Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01)|United Kingdom|2009-11-21|[BristolOpen2009 - Combined First round](https://www.worldcubeassociation.org/competitions/BristolOpen2009/results/all#esq1_d)|[MacclesfieldOpen2016 - Combined First round](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016/results/all#esq1_d)|2443|  
 |[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|2016-07-30|[MacclesfieldOpen2016 - Combined First round](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016/results/all#esq1_d)|[UKChampionship2017 - First round](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#esq1_1)|455|  
 |[Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01)|United Kingdom|2017-10-27|[UKChampionship2017 - First round](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#esq1_1)|[UKChampionship2017 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#esq1_f)|0|  
-|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|2017-10-27|[UKChampionship2017 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#esq1_f)|Ongoing|377|  
+|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|2017-10-27|[UKChampionship2017 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2017/results/all#esq1_f)|Ongoing|379|  

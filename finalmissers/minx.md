@@ -1,6 +1,6 @@
 ## Final Missers
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -916,7 +916,6 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|[WeasMexico2017](https://www.worldcubeassociation.org/competitions/WeasMexico2017)|1:27.27|  
 |=|[Jingming Xu (许菁铭)](https://www.worldcubeassociation.org/persons/2017XUJI06)|China|[ShenzhenOpen2018](https://www.worldcubeassociation.org/competitions/ShenzhenOpen2018)|1:27.29|  
 |=|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|[PhilippineChampionship2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|1:27.33|  
-|=|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|[BarbyCube732017](https://www.worldcubeassociation.org/competitions/BarbyCube732017)|1:27.34|  
 |=|[Karl Taagaard Hansen](https://www.worldcubeassociation.org/persons/2016HANS01)|Denmark|[DanishOpen2018](https://www.worldcubeassociation.org/competitions/DanishOpen2018)|1:27.39|  
 |=|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|[Guadalajara2017](https://www.worldcubeassociation.org/competitions/Guadalajara2017)|1:27.40|  
 |=|[Ivan Terekh](https://www.worldcubeassociation.org/persons/2014TERE03)|Belarus|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|1:27.42|  
@@ -1010,3 +1009,4 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02)|Poland|[PolishChampionship2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018)|1:28.95|  
 |=|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)|1:28.96|  
 |=|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|[NoPlaceForDNFSpring2018](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018)|1:28.97|  
+|=|[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|1:29.00|  

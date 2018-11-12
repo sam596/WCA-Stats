@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -11,12 +11,12 @@
 |1|[Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|6.52|5.93|  
 |2|[Hyeon Kyo Kyoung](https://www.worldcubeassociation.org/persons/2013KYOU01)|Korea|6.87|5.91|  
 |3|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|5.63|  
-|4|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.58|  
-|5|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|5.22|  
-|6|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.89|5.19|  
-|7|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
-|8|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.75|5.16|  
-|9|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.86|5.13|  
+|4|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|5.22|  
+|5|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.89|5.19|  
+|6|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
+|7|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.75|5.16|  
+|8|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.86|5.13|  
+|9|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.06|  
 |10|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|6.41|5.00|  
 |11|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|6.83|4.94|  
 |12|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|6.82|4.90|  

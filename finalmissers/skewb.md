@@ -1,6 +1,6 @@
 ## Final Missers
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -890,12 +890,11 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01)|Poland|[SLSGliwice2017](https://www.worldcubeassociation.org/competitions/SLSGliwice2017)|6.74|  
 |=|[Ahmad Hazim](https://www.worldcubeassociation.org/persons/2014HAZI01)|Malaysia|[MalaysiaCubeOpen2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|6.74|  
 |=|[Chengda Ge (葛成达)](https://www.worldcubeassociation.org/persons/2016GECH01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|6.74|  
-|=|[Alexey Mikhailov](https://www.worldcubeassociation.org/persons/2013MIKH01)|Russia|[CzechOpen2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016)|6.74|  
 |=|[Callum McArthur-Mortell](https://www.worldcubeassociation.org/persons/2018MCAR01)|Finland|[Ark2018](https://www.worldcubeassociation.org/competitions/Ark2018)|6.74|  
 |=|[Joakim Johannessen](https://www.worldcubeassociation.org/persons/2016JOHA02)|Norway|[NorwegianChampionship2018](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2018)|6.74|  
 |=|[Bartek Mirecki](https://www.worldcubeassociation.org/persons/2017MIRE01)|Poland|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|6.74|  
 |=|[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|6.74|  
-|886|[Freddy Nash](https://www.worldcubeassociation.org/persons/2018NASH03)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|6.75|  
+|885|[Freddy Nash](https://www.worldcubeassociation.org/persons/2018NASH03)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|6.75|  
 |=|[Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02)|Poland|[CFLSantaClausCubeRace2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017)|6.75|  
 |=|[Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01)|Poland|[ElektrykCubeRace2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016)|6.75|  
 |=|[Tan Yong Jie](https://www.worldcubeassociation.org/persons/2017JIET02)|Malaysia|[MalaysiaCubeOpen2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|6.75|  
@@ -906,14 +905,14 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Jose Abanto Ortiz](https://www.worldcubeassociation.org/persons/2012ORTI04)|Peru|[FIGHTPeru2018](https://www.worldcubeassociation.org/competitions/FIGHTPeru2018)|6.75|  
 |=|[Alexandre Ravel](https://www.worldcubeassociation.org/persons/2016RAVE02)|France|[France2018](https://www.worldcubeassociation.org/competitions/France2018)|6.75|  
 |=|[Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02)|Poland|[GLSCupIV2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018)|6.75|  
-|897|[Michał Dusiński](https://www.worldcubeassociation.org/persons/2013DUSI01)|Poland|[SLSGliwice2015](https://www.worldcubeassociation.org/competitions/SLSGliwice2015)|6.76|  
+|896|[Michał Dusiński](https://www.worldcubeassociation.org/persons/2013DUSI01)|Poland|[SLSGliwice2015](https://www.worldcubeassociation.org/competitions/SLSGliwice2015)|6.76|  
 |=|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|[SLSZawiercie2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017)|6.76|  
 |=|[Yujun Li (李钰钧)](https://www.worldcubeassociation.org/persons/2018LIYU02)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|6.76|  
 |=|[Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04)|Poland|[DragonCubing2018](https://www.worldcubeassociation.org/competitions/DragonCubing2018)|6.76|  
 |=|[Trysten Jonutz](https://www.worldcubeassociation.org/persons/2016JONU01)|USA|[Michigan2016](https://www.worldcubeassociation.org/competitions/Michigan2016)|6.76|  
 |=|[Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04)|Poland|[ProjectWarszawa2018](https://www.worldcubeassociation.org/competitions/ProjectWarszawa2018)|6.76|  
 |=|[Ignacy Zagajewski](https://www.worldcubeassociation.org/persons/2017ZAGA01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|6.76|  
-|904|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|6.77|  
+|903|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|6.77|  
 |=|[Sicheng Gu (顾思成)](https://www.worldcubeassociation.org/persons/2017GUSI01)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|6.77|  
 |=|[Junze Zhao (赵俊泽)](https://www.worldcubeassociation.org/persons/2016ZHAO28)|China|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|6.77|  
 |=|[J.P. Noone](https://www.worldcubeassociation.org/persons/2015NOON01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|6.77|  
@@ -923,7 +922,7 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Alexander Tosting](https://www.worldcubeassociation.org/persons/2017TOST01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|6.77|  
 |=|[Eric Zahid López Parra](https://www.worldcubeassociation.org/persons/2018PARR02)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|6.77|  
 |=|[Michael Edmonds](https://www.worldcubeassociation.org/persons/2015EDMO01)|Australia|[AustralianNationals2018](https://www.worldcubeassociation.org/competitions/AustralianNationals2018)|6.77|  
-|914|[Qicong Liang (梁琪琮)](https://www.worldcubeassociation.org/persons/2017LIAN04)|China|[GuangzhouSCUT2017](https://www.worldcubeassociation.org/competitions/GuangzhouSCUT2017)|6.78|  
+|913|[Qicong Liang (梁琪琮)](https://www.worldcubeassociation.org/persons/2017LIAN04)|China|[GuangzhouSCUT2017](https://www.worldcubeassociation.org/competitions/GuangzhouSCUT2017)|6.78|  
 |=|[Daniel Greigg](https://www.worldcubeassociation.org/persons/2015GREI01)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|6.78|  
 |=|[César Abraham Briones Arreola](https://www.worldcubeassociation.org/persons/2016ARRE02)|Mexico|[Tonallan2018](https://www.worldcubeassociation.org/competitions/Tonallan2018)|6.78|  
 |=|[Min Yeong Choi](https://www.worldcubeassociation.org/persons/2016CHOI01)|USA|[KewForestOpen2018](https://www.worldcubeassociation.org/competitions/KewForestOpen2018)|6.78|  
@@ -936,12 +935,12 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Mark Stolyarov](https://www.worldcubeassociation.org/persons/2016STOL02)|Russia|[MPEIOpen2017](https://www.worldcubeassociation.org/competitions/MPEIOpen2017)|6.78|  
 |=|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|India|[SCMU2017](https://www.worldcubeassociation.org/competitions/SCMU2017)|6.78|  
 |=|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|USA|[SEChamp2018](https://www.worldcubeassociation.org/competitions/SEChamp2018)|6.78|  
-|927|[Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02)|Poland|[LLSIV2018](https://www.worldcubeassociation.org/competitions/LLSIV2018)|6.79|  
+|926|[Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02)|Poland|[LLSIV2018](https://www.worldcubeassociation.org/competitions/LLSIV2018)|6.79|  
 |=|[Xinwei Zhou (周欣伟)](https://www.worldcubeassociation.org/persons/2016ZHOU13)|China|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|6.79|  
 |=|[Justin Gou](https://www.worldcubeassociation.org/persons/2015GOUJ01)|USA|[TJHSSTFall2018](https://www.worldcubeassociation.org/competitions/TJHSSTFall2018)|6.79|  
 |=|[Shuang Liang (梁爽)](https://www.worldcubeassociation.org/persons/2016LIAN08)|China|[YangzhouOpen2017](https://www.worldcubeassociation.org/competitions/YangzhouOpen2017)|6.79|  
 |=|[Joni Ransom](https://www.worldcubeassociation.org/persons/2017RANS01)|USA|[NorthwestChampionships2017](https://www.worldcubeassociation.org/competitions/NorthwestChampionships2017)|6.79|  
-|932|[Josue Abhayan Jiménez Vasquez](https://www.worldcubeassociation.org/persons/2017VASQ06)|Peru|[CCS2018](https://www.worldcubeassociation.org/competitions/CCS2018)|6.80|  
+|931|[Josue Abhayan Jiménez Vasquez](https://www.worldcubeassociation.org/persons/2017VASQ06)|Peru|[CCS2018](https://www.worldcubeassociation.org/competitions/CCS2018)|6.80|  
 |=|[Rafał Borkowski](https://www.worldcubeassociation.org/persons/2014BORK02)|Poland|[GLSCupII2018](https://www.worldcubeassociation.org/competitions/GLSCupII2018)|6.80|  
 |=|[Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|6.80|  
 |=|[Xiaobin Rui (芮晓彬)](https://www.worldcubeassociation.org/persons/2013RUIX02)|China|[YangzhouOpen2017](https://www.worldcubeassociation.org/competitions/YangzhouOpen2017)|6.80|  
@@ -949,7 +948,7 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Alejandro Bertin Ruiz Arriaga](https://www.worldcubeassociation.org/persons/2016ARRI04)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|6.80|  
 |=|[Pablo Añover Martínez](https://www.worldcubeassociation.org/persons/2017MART08)|Spain|[SpanishChampionship2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017)|6.80|  
 |=|[Gabriel Hagman](https://www.worldcubeassociation.org/persons/2017HAGM02)|Sweden|[SSLFinalBoras2017](https://www.worldcubeassociation.org/competitions/SSLFinalBoras2017)|6.80|  
-|940|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|6.81|  
+|939|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|6.81|  
 |=|[Jonathan Tilahun](https://www.worldcubeassociation.org/persons/2014TILA01)|USA|[RallyInTheValley2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017)|6.81|  
 |=|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|[LondonOpen2017](https://www.worldcubeassociation.org/competitions/LondonOpen2017)|6.81|  
 |=|[Darren Siew Ee Yaang](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|[MalaysianCubeChampionship2017](https://www.worldcubeassociation.org/competitions/MalaysianCubeChampionship2017)|6.81|  
@@ -957,7 +956,7 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|Italy|[Euro2016](https://www.worldcubeassociation.org/competitions/Euro2016)|6.81|  
 |=|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|[GreatLakesChampionship2018](https://www.worldcubeassociation.org/competitions/GreatLakesChampionship2018)|6.81|  
 |=|[Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07)|USA|[WestCoastCubingTourCupertino2018](https://www.worldcubeassociation.org/competitions/WestCoastCubingTourCupertino2018)|6.81|  
-|948|[Chenxue Ning (宁辰雪)](https://www.worldcubeassociation.org/persons/2017NING01)|China|[ZhenjiangOpen2017](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2017)|6.82|  
+|947|[Chenxue Ning (宁辰雪)](https://www.worldcubeassociation.org/persons/2017NING01)|China|[ZhenjiangOpen2017](https://www.worldcubeassociation.org/competitions/ZhenjiangOpen2017)|6.82|  
 |=|[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|Poland|[SantaClausCubeRace2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015)|6.82|  
 |=|[Xuexuan Zhang (张雪萱)](https://www.worldcubeassociation.org/persons/2018ZHAN59)|China|[ShanghaiLoveinECNU2018](https://www.worldcubeassociation.org/competitions/ShanghaiLoveinECNU2018)|6.82|  
 |=|[Ignacy Zagajewski](https://www.worldcubeassociation.org/persons/2017ZAGA01)|Poland|[SLSZawiercie2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017)|6.82|  
@@ -968,7 +967,7 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|[AustralianNationals2018](https://www.worldcubeassociation.org/competitions/AustralianNationals2018)|6.82|  
 |=|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|USA|[BeijingSummer2018](https://www.worldcubeassociation.org/competitions/BeijingSummer2018)|6.82|  
 |=|[Shujie Fang (方述杰)](https://www.worldcubeassociation.org/persons/2011FANG02)|China|[HDUOpen2017](https://www.worldcubeassociation.org/competitions/HDUOpen2017)|6.82|  
-|959|[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|USA|[FirstState2018](https://www.worldcubeassociation.org/competitions/FirstState2018)|6.83|  
+|958|[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|USA|[FirstState2018](https://www.worldcubeassociation.org/competitions/FirstState2018)|6.83|  
 |=|[Boxi Chen (陈博希)](https://www.worldcubeassociation.org/persons/2014CHEN08)|China|[HUSTSpecialCubesOpen2017](https://www.worldcubeassociation.org/competitions/HUSTSpecialCubesOpen2017)|6.83|  
 |=|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[SlovakianOpen2017](https://www.worldcubeassociation.org/competitions/SlovakianOpen2017)|6.83|  
 |=|[Ludvig Sandh](https://www.worldcubeassociation.org/persons/2015SAND07)|Sweden|[SSL3Kungsbacka2017](https://www.worldcubeassociation.org/competitions/SSL3Kungsbacka2017)|6.83|  
@@ -978,12 +977,12 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Dominik Wojciechowski](https://www.worldcubeassociation.org/persons/2013WOJC01)|Poland|[PolishChampionship2015](https://www.worldcubeassociation.org/competitions/PolishChampionship2015)|6.83|  
 |=|[Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01)|Poland|[LLSIII2018](https://www.worldcubeassociation.org/competitions/LLSIII2018)|6.83|  
 |=|[Alexandre Ravel](https://www.worldcubeassociation.org/persons/2016RAVE02)|USA|[NancyOpen2017](https://www.worldcubeassociation.org/competitions/NancyOpen2017)|6.83|  
-|969|[Marcos Meibel Corral Murillo](https://www.worldcubeassociation.org/persons/2016MURI01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|6.84|  
+|968|[Marcos Meibel Corral Murillo](https://www.worldcubeassociation.org/persons/2016MURI01)|Mexico|[MexicanChampionship2018](https://www.worldcubeassociation.org/competitions/MexicanChampionship2018)|6.84|  
 |=|[Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01)|Russia|[SvetlyeGoryOpen2017](https://www.worldcubeassociation.org/competitions/SvetlyeGoryOpen2017)|6.84|  
-|=|[Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01)|Poland|[ElektrykCubeRace2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016)|6.84|  
 |=|[Max Hahnbück](https://www.worldcubeassociation.org/persons/2013HAHN02)|Germany|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)|6.84|  
 |=|[Juan Chacón Palacios](https://www.worldcubeassociation.org/persons/2016PALA01)|Peru|[CCS2018](https://www.worldcubeassociation.org/competitions/CCS2018)|6.84|  
 |=|[Mateusz Gąsiorkiewicz](https://www.worldcubeassociation.org/persons/2016GASI04)|Poland|[CubeFactoryLeagueDomaniewice2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueDomaniewice2018)|6.84|  
+|=|[Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01)|Poland|[ElektrykCubeRace2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016)|6.84|  
 |=|[Jakub Wróbel](https://www.worldcubeassociation.org/persons/2017WROB01)|Poland|[WarsawCubeMasters2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018)|6.84|  
 |=|[Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|6.84|  
 |=|[Siddharth Manchkanti](https://www.worldcubeassociation.org/persons/2014MANC03)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|6.84|  
@@ -994,7 +993,7 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Fernando Astasio Ávila](https://www.worldcubeassociation.org/persons/2016AVIL02)|Spain|[KubekingsVillanuevaOpen2018](https://www.worldcubeassociation.org/competitions/KubekingsVillanuevaOpen2018)|6.84|  
 |=|[Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01)|Poland|[PolishChampionship2016](https://www.worldcubeassociation.org/competitions/PolishChampionship2016)|6.84|  
 |=|[Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01)|Poland|[PolishOpen2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015)|6.84|  
-|985|[Michał Sikora](https://www.worldcubeassociation.org/persons/2014SIKO04)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|6.85|  
+|984|[Michał Sikora](https://www.worldcubeassociation.org/persons/2014SIKO04)|Poland|[PolishNationals2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017)|6.85|  
 |=|[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|Poland|[PolishOpen2015](https://www.worldcubeassociation.org/competitions/PolishOpen2015)|6.85|  
 |=|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|6.85|  
 |=|[Lewis Byng](https://www.worldcubeassociation.org/persons/2015BYNG02)|United Kingdom|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|6.85|  
@@ -1002,11 +1001,12 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Yikang Chen (陈毅康)](https://www.worldcubeassociation.org/persons/2016CHEY12)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|6.85|  
 |=|[Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01)|Poland|[CubeFactoryLeagueLuty2018](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueLuty2018)|6.85|  
 |=|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)|6.85|  
-|=|[Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01)|Poland|[CzechOpen2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016)|6.85|  
 |=|[Yuta Leffers](https://www.worldcubeassociation.org/persons/2016LEFF01)|Australia|[AustralianNationals2018](https://www.worldcubeassociation.org/competitions/AustralianNationals2018)|6.85|  
 |=|[Vladyslav Hreben (Владислав Гребень)](https://www.worldcubeassociation.org/persons/2014HREB01)|Ukraine|[SantaClausCubeRace2015](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2015)|6.85|  
 |=|[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|[SingaporeChampionship2018](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2018)|6.85|  
 |=|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|[SlowNSteadySpring2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016)|6.85|  
 |=|[Kacper Jach](https://www.worldcubeassociation.org/persons/2013JACH02)|Poland|[SLSZawiercie2015](https://www.worldcubeassociation.org/competitions/SLSZawiercie2015)|6.85|  
-|999|[Wei Wang (王炜)](https://www.worldcubeassociation.org/persons/2015WANG88)|China|[ShanghaiLoveInECNU2017](https://www.worldcubeassociation.org/competitions/ShanghaiLoveInECNU2017)|6.86|  
+|997|[Wei Wang (王炜)](https://www.worldcubeassociation.org/persons/2015WANG88)|China|[ShanghaiLoveInECNU2017](https://www.worldcubeassociation.org/competitions/ShanghaiLoveInECNU2017)|6.86|  
 |=|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|[SlovakianOpen2017](https://www.worldcubeassociation.org/competitions/SlovakianOpen2017)|6.86|  
+|=|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|[SLSGliwice2017](https://www.worldcubeassociation.org/competitions/SLSGliwice2017)|6.86|  
+|=|[Jeremy Singson](https://www.worldcubeassociation.org/persons/2015SING22)|India|[SNUOpen2018](https://www.worldcubeassociation.org/competitions/SNUOpen2018)|6.86|  

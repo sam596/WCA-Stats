@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -31,4 +31,4 @@
 |[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2018-09-22|[SUAO2018 - Combined First round](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eskewb_d)|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_1)|35|  
 |[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|2018-10-26|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_1)|[UKC2018 - Second round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_2)|0|  
 |[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-10-26|[UKC2018 - Second round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_2)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_f)|0|  
-|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_f)|Ongoing|13|  
+|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eskewb_f)|Ongoing|15|  

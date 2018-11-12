@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -37,4 +37,4 @@
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2017-09-10|[VestegnenOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/VestegnenOpen2017/results/all#eclock_c)|[TarnbyCubeTraef2018 - Final](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/all#eclock_f)|280|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-06-15|[TarnbyCubeTraef2018 - Final](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2018/results/all#eclock_f)|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_1)|133|  
 |[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|2018-10-26|[UKC2018 - First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_1)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_f)|0|  
-|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_f)|Ongoing|13|  
+|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eclock_f)|Ongoing|15|  

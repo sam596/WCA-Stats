@@ -1,6 +1,6 @@
 ## Final Missers
 
-*Last updated using WCA Developer Export from Fri Nov 09 at 0409UTC*
+*Last updated using WCA Developer Export from Mon Nov 12 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -367,8 +367,8 @@ These competitors achieved the best results in a round preceding a final, withou
 |355|[Mathias Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN02)|Denmark|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|21.04|  
 |=|[Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02)|Slovenia|[WC2017](https://www.worldcubeassociation.org/competitions/WC2017)|21.04|  
 |357|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|21.06|  
-|358|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|21.11|  
-|=|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|21.11|  
+|358|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|21.11|  
+|=|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|21.11|  
 |360|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|United Kingdom|[UKC2018](https://www.worldcubeassociation.org/competitions/UKC2018)|21.12|  
 |361|[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|USA|[TeaTimeSpring2018](https://www.worldcubeassociation.org/competitions/TeaTimeSpring2018)|21.16|  
 |=|[Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|[Euro2018](https://www.worldcubeassociation.org/competitions/Euro2018)|21.16|  
@@ -385,9 +385,9 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|[UPennCubeDayFall2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017)|21.35|  
 |=|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|21.35|  
 |375|[Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|21.37|  
-|376|[Alex Stern](https://www.worldcubeassociation.org/persons/2016STER02)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|21.38|  
-|=|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|[CuberussiainMSK2017](https://www.worldcubeassociation.org/competitions/CuberussiainMSK2017)|21.38|  
+|376|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|[CuberussiainMSK2017](https://www.worldcubeassociation.org/competitions/CuberussiainMSK2017)|21.38|  
 |=|[Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01)|Finland|[FinnishChampionship2018](https://www.worldcubeassociation.org/competitions/FinnishChampionship2018)|21.38|  
+|=|[Alex Stern](https://www.worldcubeassociation.org/persons/2016STER02)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|21.38|  
 |379|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|[Maryland2018](https://www.worldcubeassociation.org/competitions/Maryland2018)|21.39|  
 |380|[Manfred Siew](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|21.40|  
 |=|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|21.40|  
@@ -554,8 +554,8 @@ These competitors achieved the best results in a round preceding a final, withou
 |542|[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|Germany|[GermanNationals2018](https://www.worldcubeassociation.org/competitions/GermanNationals2018)|23.50|  
 |=|[Jacob Elspas](https://www.worldcubeassociation.org/persons/2015ELSP01)|USA|[SlowNSteadySpring2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2017)|23.50|  
 |=|[Justin Gou](https://www.worldcubeassociation.org/persons/2015GOUJ01)|USA|[SlowNSteadySpring2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2017)|23.50|  
-|545|[Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02)|Finland|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|23.51|  
-|=|[Alfonsus Rahardjo](https://www.worldcubeassociation.org/persons/2016RAHA02)|USA|[UPennCubeDayFall2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017)|23.51|  
+|545|[Alfonsus Rahardjo](https://www.worldcubeassociation.org/persons/2016RAHA02)|USA|[UPennCubeDayFall2017](https://www.worldcubeassociation.org/competitions/UPennCubeDayFall2017)|23.51|  
+|=|[Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02)|Finland|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|23.51|  
 |547|[Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01)|USA|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)|23.53|  
 |548|[Yan Jin (金岩)](https://www.worldcubeassociation.org/persons/2010JINY02)|China|[ChinaChampionship2017](https://www.worldcubeassociation.org/competitions/ChinaChampionship2017)|23.54|  
 |549|[Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|23.57|  
@@ -826,10 +826,10 @@ These competitors achieved the best results in a round preceding a final, withou
 |=|[Raphaël Mothe](https://www.worldcubeassociation.org/persons/2012MOTH01)|France|[France2018](https://www.worldcubeassociation.org/competitions/France2018)|26.15|  
 |815|[Johan Thuvesen](https://www.worldcubeassociation.org/persons/2014THUV01)|Sweden|[SwedishChampionship2018](https://www.worldcubeassociation.org/competitions/SwedishChampionship2018)|26.16|  
 |816|[Adam Hama Gareb](https://www.worldcubeassociation.org/persons/2016GARE01)|Sweden|[NordicChampionship2018](https://www.worldcubeassociation.org/competitions/NordicChampionship2018)|26.17|  
-|817|[Christina Rowland](https://www.worldcubeassociation.org/persons/2012BLAC02)|USA|[SouthernChampionship2018](https://www.worldcubeassociation.org/competitions/SouthernChampionship2018)|26.18|  
-|=|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|[GACubersSummerBlast2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|26.18|  
-|819|[Nicholas Schollard](https://www.worldcubeassociation.org/persons/2017SCHO02)|USA|[HillsboroOpen2018](https://www.worldcubeassociation.org/competitions/HillsboroOpen2018)|26.21|  
-|=|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|26.21|  
+|817|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|[GACubersSummerBlast2018](https://www.worldcubeassociation.org/competitions/GACubersSummerBlast2018)|26.18|  
+|=|[Christina Rowland](https://www.worldcubeassociation.org/persons/2012BLAC02)|USA|[SouthernChampionship2018](https://www.worldcubeassociation.org/competitions/SouthernChampionship2018)|26.18|  
+|819|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|[WesternChampionship2018](https://www.worldcubeassociation.org/competitions/WesternChampionship2018)|26.21|  
+|=|[Nicholas Schollard](https://www.worldcubeassociation.org/persons/2017SCHO02)|USA|[HillsboroOpen2018](https://www.worldcubeassociation.org/competitions/HillsboroOpen2018)|26.21|  
 |821|[Victor Ålsjö](https://www.worldcubeassociation.org/persons/2016ALSJ01)|Sweden|[TwistandShoutSummer2017](https://www.worldcubeassociation.org/competitions/TwistandShoutSummer2017)|26.22|  
 |822|[Brayden Gordley](https://www.worldcubeassociation.org/persons/2016GORD01)|USA|[Maryland2018](https://www.worldcubeassociation.org/competitions/Maryland2018)|26.23|  
 |823|[Eason Siew Ee Son](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[PutraSpeedcubingChallenge2018](https://www.worldcubeassociation.org/competitions/PutraSpeedcubingChallenge2018)|26.24|  
