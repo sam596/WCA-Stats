@@ -104,6 +104,7 @@ UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'podiums';
 
 INSERT INTO wca_stats.last_updated VALUES ('final_missers', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+DROP TABLE IF EXISTS wca_stats.final_missers;
 SET @a = @b = @e = @c = NULL;
 CREATE TABLE wca_stats.final_missers
 SELECT a.* FROM results_extra a INNER JOIN (SELECT a.*, @a := IF(roundTypeId IN ('c','f') AND eventId = @e AND competitionId = @c, @b, NULL) precedingRound, @b := roundTypeId, @e := eventId, @c := competitionId
