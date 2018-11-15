@@ -4,9 +4,9 @@ DROP TABLE IF EXISTS concise_results_help;
 CREATE TABLE concise_results_help
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id), KEY pef (personId, eventId, format, result))
 SELECT * FROM
-(SELECT personId, competitionId, date, weekend, eventId, roundTypeId, average result, 'a' format FROM results_extra
+(SELECT personId, competitionId, date, weekend, eventId, roundTypeId, average result, 'a' format, formatId FROM results_extra
 UNION ALL
-SELECT personId, competitionId, date, weekend, eventId, roundTypeId, best result, 's' format FROM results_extra) a
+SELECT personId, competitionId, date, weekend, eventId, roundTypeId, best result, 's' format, NULL formatId FROM results_extra) a
 ORDER BY personId, eventId, format, date, FIELD(roundTypeId,"h","0","d","1","b","2","e","g","3","c","f") ASC;
 
 # ~ 2 min 20 sec
