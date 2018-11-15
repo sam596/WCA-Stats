@@ -1345,6 +1345,54 @@ do
 	echo -e "\\r${CHECK_MARK} Worst Single with Sub ${i} Average (${finish}ms)"
 done
 
+#bestsinglewithoutsubxaverage
+
+declare -a arr=(6 7 8 9 10 11 12 13 14 15)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Best Single without Sub ${i} Average"
+	mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, Single, Average
+	FROM
+		(SELECT
+			@i := IF(@v = Single, @i, @i + @c) initrank,
+			@c := IF(@v = Single, @c + 1, 1) counter,
+			@r := IF(@v = Single, '=', @i) Rank,
+			@v := Single val,
+			b.*
+		FROM	
+			(SELECT 
+				CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') Name, 
+				p.countryId Country, 
+				ROUND(a.best/100,2) Single,
+				(SELECT ROUND(best/100,2) FROM ranksaverage WHERE eventId = '333' AND personId = a.personId) Average
+			FROM rankssingle a 
+			INNER JOIN persons p 
+				ON p.subid = 1 AND a.personId = p.id 
+			WHERE 
+				a.eventId = '333' AND 
+				personId NOT IN (SELECT personId FROM ranksaverage WHERE eventId = '333' AND best < ${i}00) 
+			ORDER BY single ASC, p.name ASC 
+			LIMIT 500) b
+		) c;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	output=$(cat ~/mysqloutput/output)
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/bestsinglewithoutsubxaverage.md ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md.tmp > ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md.tmp2 > ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/sub$i.md
+	rm ~/pages/WCA-Stats/bestsinglewithoutsubxaverage/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Best Single without Sub ${i} Average (${finish}ms)"
+done
+
 #finalmissers
 
 mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
