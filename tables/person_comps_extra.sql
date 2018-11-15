@@ -1,6 +1,6 @@
-DROP TABLE IF EXISTS person_Comps_Extra;
+DROP TABLE IF EXISTS person_comps_extra;
 SET @p = NULL, @c = 0, @dd = NULL, @d = NULL;
-CREATE TABLE person_Comps_Extra
+CREATE TABLE person_comps_extra
 SELECT a.*,
 	@c := IF(a.personId = @p,@c+1,1) 'compNumber',
 	@dd := IF(a.personId = @p,DATEDIFF(a.date,@d),NULL) 'daysLastComp',
@@ -39,4 +39,4 @@ FROM
 	ON a.personId = b.personId AND a.competitionId = b.competitionId
 	ORDER BY a.personId, date, a.competitionId) a;
 
-ALTER TABLE personCompsExtra DROP drop1, DROP drop2;
+ALTER TABLE person_comps_extra DROP drop1, DROP drop2;
