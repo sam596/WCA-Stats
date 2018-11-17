@@ -9,9 +9,29 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="bestaveragewithoutsubxsingle/sub8.html">Sub-8</a></li>
 <li><a href="bestaveragewithoutsubxsingle/sub9.html">Sub-9</a></li>
 <li><a href="bestaveragewithoutsubxsingle/sub10.html">Sub-10</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub11.html">Sub-11</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub12.html">Sub-12</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub13.html">Sub-13</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub14.html">Sub-14</a></li>
+<li><a href="bestaveragewithoutsubxsingle/sub15.html">Sub-15</a></li>
 </ul>
 </details>
-
+<details>
+<summary>Best 3x3 Single without a Sub-X Average</summary>
+<ul>
+<li><a href="bestsinglewithoutsubxaverage/sub5.html">Sub-5</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub6.html">Sub-6</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub7.html">Sub-7</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub8.html">Sub-8</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub9.html">Sub-9</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub10.html">Sub-10</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub11.html">Sub-11</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub12.html">Sub-12</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub13.html">Sub-13</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub14.html">Sub-14</a></li>
+<li><a href="bestsinglewithoutsubxaverage/sub15.html">Sub-15</a></li>
+</ul>
+</details>
 <details>
   <summary>Best Podiums</summary>
 <ul>
@@ -33,6 +53,116 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="bestpodiums/444bf.html">4BLD</a></li>
 <li><a href="bestpodiums/555bf.html">5BLD</a></li>
 <li><a href="bestpodiums/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Current Average of 5</summary>
+<ul>
+<li><a href="currentao5/333.html">3x3</a></li>
+<li><a href="currentao5/222.html">2x2</a></li>
+<li><a href="currentao5/444.html">4x4</a></li>
+<li><a href="currentao5/555.html">5x5</a></li>
+<li><a href="currentao5/666.html">6x6</a></li>
+<li><a href="currentao5/777.html">7x7</a></li>
+<li><a href="currentao5/333bf.html">3BLD</a></li>
+<li><a href="currentao5/333fm.html">FMC</a></li>
+<li><a href="currentao5/333oh.html">OH</a></li>
+<li><a href="currentao5/333ft.html">Feet</a></li>
+<li><a href="currentao5/clock.html">Clock</a></li>
+<li><a href="currentao5/minx.html">Megaminx</a></li>
+<li><a href="currentao5/pyram.html">Pyraminx</a></li>
+<li><a href="currentao5/skewb.html">Skewb</a></li>
+<li><a href="currentao5/sq1.html">Square-1</a></li>
+<li><a href="currentao5/444bf.html">4BLD</a></li>
+<li><a href="currentao5/555bf.html">5BLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Current Average of 12</summary>
+<ul>
+<li><a href="currentao12/333.html">3x3</a></li>
+<li><a href="currentao12/222.html">2x2</a></li>
+<li><a href="currentao12/444.html">4x4</a></li>
+<li><a href="currentao12/555.html">5x5</a></li>
+<li><a href="currentao12/666.html">6x6</a></li>
+<li><a href="currentao12/777.html">7x7</a></li>
+<li><a href="currentao12/333bf.html">3BLD</a></li>
+<li><a href="currentao12/333fm.html">FMC</a></li>
+<li><a href="currentao12/333oh.html">OH</a></li>
+<li><a href="currentao12/333ft.html">Feet</a></li>
+<li><a href="currentao12/clock.html">Clock</a></li>
+<li><a href="currentao12/minx.html">Megaminx</a></li>
+<li><a href="currentao12/pyram.html">Pyraminx</a></li>
+<li><a href="currentao12/skewb.html">Skewb</a></li>
+<li><a href="currentao12/sq1.html">Square-1</a></li>
+<li><a href="currentao12/444bf.html">4BLD</a></li>
+<li><a href="currentao12/555bf.html">5BLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Current Average of 25</summary>
+<ul>
+<li><a href="currentao25/333.html">3x3</a></li>
+<li><a href="currentao25/222.html">2x2</a></li>
+<li><a href="currentao25/444.html">4x4</a></li>
+<li><a href="currentao25/555.html">5x5</a></li>
+<li><a href="currentao25/666.html">6x6</a></li>
+<li><a href="currentao25/777.html">7x7</a></li>
+<li><a href="currentao25/333bf.html">3BLD</a></li>
+<li><a href="currentao25/333fm.html">FMC</a></li>
+<li><a href="currentao25/333oh.html">OH</a></li>
+<li><a href="currentao25/333ft.html">Feet</a></li>
+<li><a href="currentao25/clock.html">Clock</a></li>
+<li><a href="currentao25/minx.html">Megaminx</a></li>
+<li><a href="currentao25/pyram.html">Pyraminx</a></li>
+<li><a href="currentao25/skewb.html">Skewb</a></li>
+<li><a href="currentao25/sq1.html">Square-1</a></li>
+<li><a href="currentao25/444bf.html">4BLD</a></li>
+<li><a href="currentao25/555bf.html">5BLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Current Average of 50</summary>
+<ul>
+<li><a href="currentao50/333.html">3x3</a></li>
+<li><a href="currentao50/222.html">2x2</a></li>
+<li><a href="currentao50/444.html">4x4</a></li>
+<li><a href="currentao50/555.html">5x5</a></li>
+<li><a href="currentao50/666.html">6x6</a></li>
+<li><a href="currentao50/777.html">7x7</a></li>
+<li><a href="currentao50/333bf.html">3BLD</a></li>
+<li><a href="currentao50/333fm.html">FMC</a></li>
+<li><a href="currentao50/333oh.html">OH</a></li>
+<li><a href="currentao50/333ft.html">Feet</a></li>
+<li><a href="currentao50/clock.html">Clock</a></li>
+<li><a href="currentao50/minx.html">Megaminx</a></li>
+<li><a href="currentao50/pyram.html">Pyraminx</a></li>
+<li><a href="currentao50/skewb.html">Skewb</a></li>
+<li><a href="currentao50/sq1.html">Square-1</a></li>
+<li><a href="currentao50/444bf.html">4BLD</a></li>
+<li><a href="currentao50/555bf.html">5BLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Current Average of 100</summary>
+<ul>
+<li><a href="currentao100/333.html">3x3</a></li>
+<li><a href="currentao100/222.html">2x2</a></li>
+<li><a href="currentao100/444.html">4x4</a></li>
+<li><a href="currentao100/555.html">5x5</a></li>
+<li><a href="currentao100/666.html">6x6</a></li>
+<li><a href="currentao100/777.html">7x7</a></li>
+<li><a href="currentao100/333bf.html">3BLD</a></li>
+<li><a href="currentao100/333fm.html">FMC</a></li>
+<li><a href="currentao100/333oh.html">OH</a></li>
+<li><a href="currentao100/333ft.html">Feet</a></li>
+<li><a href="currentao100/clock.html">Clock</a></li>
+<li><a href="currentao100/minx.html">Megaminx</a></li>
+<li><a href="currentao100/pyram.html">Pyraminx</a></li>
+<li><a href="currentao100/skewb.html">Skewb</a></li>
+<li><a href="currentao100/sq1.html">Square-1</a></li>
+<li><a href="currentao100/444bf.html">4BLD</a></li>
+<li><a href="currentao100/555bf.html">5BLD</a></li>
 </ul>
 </details>
 <details>
