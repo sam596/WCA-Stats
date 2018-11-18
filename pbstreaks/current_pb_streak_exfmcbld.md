@@ -4,7 +4,7 @@
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
-#### PB Streak excluding FMC-and-BLD-Only Comps
+#### Current PB Streak excluding FMC-and-BLD-Only Comps
 
 |Rank|Name|PB Streak|Start Comp|End Comp|  
 |--|--|--|--|--|  
