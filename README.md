@@ -208,6 +208,9 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="pbstreaks/pb_streak.html">All competitions</a></li>
 <li><a href="pbstreaks/pb_streak_exfmc.html">Excluding FMC-Only comps</a></li>
 <li><a href="pbstreaks/pb_streak_exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
+<li><a href="pbstreaks/current_pb_streak.html">Current-only all competitions</a></li>
+<li><a href="pbstreaks/current_pb_streak_exfmc.html">Current-only excluding FMC-Only comps</a></li>
+<li><a href="pbstreaks/current_pb_streak_exfmcbld.html">Current-only excluding FMC-and-BLD-Only comps</a></li>
 </ul>
 </details>
 <details>
