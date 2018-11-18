@@ -7,7 +7,7 @@
 #### longestnames
 
 |Rank|Name|Country|Name Length|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Tengku Muhammad Afnan Faliq Bin Tuan Farezuddeen Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA08)|Malaysia|47|  
 |2|[Christopher Eleazar Guillermo Rodriguez Valdenegro](https://www.worldcubeassociation.org/persons/2016VALD08)|Chile|46|  
 |=|[Marcus Murillo Jacinto Ferreira Nascente de Carvalho](https://www.worldcubeassociation.org/persons/2017CARV15)|Brazil|46|  

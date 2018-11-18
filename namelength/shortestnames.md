@@ -7,7 +7,7 @@
 #### shortestnames
 
 |Rank|Name|Country|Name Length|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Ge Qu (曲歌)](https://www.worldcubeassociation.org/persons/2007GEQU01)|China|4|  
 |=|[Yu Xu](https://www.worldcubeassociation.org/persons/2007YUXU01)|China|4|  
 |=|[Di Ai (艾蒂)](https://www.worldcubeassociation.org/persons/2008AIDI01)|China|4|  
