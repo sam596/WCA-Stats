@@ -114,7 +114,7 @@ done
 
 #pbstreaks
 
-declare -a arr=(pb_streak pb_streak_exfmc pb_streak_exfmcbld)
+declare -a arr=(pb_streak pb_streak_exfmc pb_streak_exfmcbld current_pb_streak current_pb_streak_exfmc current_pb_streak_exfmcbld)
 
 for i in "${arr[@]}"
 do
@@ -122,8 +122,18 @@ do
 	if [ "$i" = "pb_streak" ]; then text=$(echo "PB Streak")
 	elif [ "$i" = "pb_streak_exfmc" ]; then text=$(echo "PB Streak excluding FMC-Only Comps")
 	elif [ "$i" = "pb_streak_exfmcbld" ]; then text=$(echo "PB Streak excluding FMC-and-BLD-Only Comps")
+	elif [ "$i" = "current_pb_streak" ]; then text=$(echo "Current PB Streak")
+	elif [ "$i" = "current_pb_streak_exfmc" ]; then text=$(echo "Current PB Streak excluding FMC-Only Comps")
+	elif [ "$i" = "current_pb_streak_exfmcbld" ]; then text=$(echo "Current PB Streak excluding FMC-and-BLD-Only Comps")
 	fi
 	echo -n "Longest ${i}"
+	if [[ $i == *"current_"* ]]; then 
+		j=$(echo $i | sed -e "s/^current_//")
+		k=" WHERE (SELECT id FROM ${j} WHERE personId = a.personId AND endcomp = a.endComp)=(SELECT MAX(id) FROM ${j} WHERE personId = a.personId) "
+	else 
+		j=$i
+		k=" WHERE 1 = 1 "
+	fi
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT
 		Rank, Name, \`PB Streak\`, \`Start Comp\`, \`End Comp\`
@@ -139,14 +149,15 @@ do
 						CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') name, 
 						a.pbStreak \`PB Streak\`, 
 						CONCAT('[',a.startcomp,'](https://www.worldcubeassociation.org/competitions/',a.startcomp,')') \`Start Comp\`, 
-						IF((SELECT id FROM ${i} WHERE personId = a.personId AND endcomp = a.endComp)=(SELECT MAX(id) FROM ${i} WHERE personId = a.personId),'',CONCAT('[',(SELECT competitionId FROM ${i} WHERE id = a.id + 1),'](https://www.worldcubeassociation.org/competitions/',(SELECT competitionId FROM ${i} WHERE id = a.id + 1),')' )) \`End Comp\` 
-					FROM ${i} a 
-					INNER JOIN (SELECT personId, startcomp, MAX(pbStreak) maxpbs FROM ${i} GROUP BY personId, startcomp) b 
+						IF((SELECT id FROM ${j} WHERE personId = a.personId AND endcomp = a.endComp)=(SELECT MAX(id) FROM ${j} WHERE personId = a.personId),'',CONCAT('[',(SELECT competitionId FROM ${j} WHERE id = a.id + 1),'](https://www.worldcubeassociation.org/competitions/',(SELECT competitionId FROM ${j} WHERE id = a.id + 1),')' )) \`End Comp\` 
+					FROM ${j} a 
+					INNER JOIN (SELECT personId, startcomp, MAX(pbStreak) maxpbs FROM ${j} GROUP BY personId, startcomp) b 
 						ON a.personId = b.personId AND 
 						a.startcomp = b.startcomp AND 
 						b.maxpbs = a.pbstreak 
 					JOIN wca_dev.persons p 
 						ON a.personId = p.id AND p.subid = 1
+					${k}
 					ORDER BY a.pbStreak DESC, p.name 
 					LIMIT 1000) a
 			) b;" > ~/mysqloutput/original && \
@@ -1437,6 +1448,489 @@ do
 	let finish=($(date +%s%N | cut -b1-13)-$start)
 	echo -e "\\r${CHECK_MARK} ${i} Final Missers (${finish}ms)"
 done
+
+#currentao5
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current Ao5"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao5,2),CENTISECONDTOTIME(ao5)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao5, @i, @i + @c) initrank, 
+			@c := IF(@v = ao5, @c + 1, 1) counter, 
+			@r := IF(@v = ao5, '=', @i) Rank, 
+			@v := ao5 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao5,
+				times,
+				eventId
+			FROM currentao5 
+			JOIN persons_extra ON currentao5.personid = persons_extra.id
+			WHERE ao5 > 0 AND eventId = '${i}'
+			ORDER BY currentao5.ao5, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao5.md ~/pages/WCA-Stats/currentao5/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao5/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao5/"$i".md.tmp > ~/pages/WCA-Stats/currentao5/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao5/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao5/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao5/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current Ao5 (${finish}ms)"
+done
+
+#currentao12
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current ao12"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao12,2),CENTISECONDTOTIME(ao12)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao12, @i, @i + @c) initrank, 
+			@c := IF(@v = ao12, @c + 1, 1) counter, 
+			@r := IF(@v = ao12, '=', @i) Rank, 
+			@v := ao12 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao12,
+				times,
+				eventId
+			FROM currentao12 
+			JOIN persons_extra ON currentao12.personid = persons_extra.id
+			WHERE ao12 > 0 AND eventId = '${i}'
+			ORDER BY currentao12.ao12, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao12.md ~/pages/WCA-Stats/currentao12/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao12/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao12/"$i".md.tmp > ~/pages/WCA-Stats/currentao12/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao12/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao12/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao12/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current ao12 (${finish}ms)"
+done
+
+#currentao25
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current ao25"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao25,2),CENTISECONDTOTIME(ao25)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao25, @i, @i + @c) initrank, 
+			@c := IF(@v = ao25, @c + 1, 1) counter, 
+			@r := IF(@v = ao25, '=', @i) Rank, 
+			@v := ao25 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao25,
+				times,
+				eventId
+			FROM currentao25 
+			JOIN persons_extra ON currentao25.personid = persons_extra.id
+			WHERE ao25 > 0 AND eventId = '${i}'
+			ORDER BY currentao25.ao25, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao25.md ~/pages/WCA-Stats/currentao25/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao25/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao25/"$i".md.tmp > ~/pages/WCA-Stats/currentao25/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao25/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao25/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao25/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current ao25 (${finish}ms)"
+done
+
+#currentao50
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current ao50"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao50,2),CENTISECONDTOTIME(ao50)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao50, @i, @i + @c) initrank, 
+			@c := IF(@v = ao50, @c + 1, 1) counter, 
+			@r := IF(@v = ao50, '=', @i) Rank, 
+			@v := ao50 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao50,
+				times,
+				eventId
+			FROM currentao50 
+			JOIN persons_extra ON currentao50.personid = persons_extra.id
+			WHERE ao50 > 0 AND eventId = '${i}'
+			ORDER BY currentao50.ao50, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao50.md ~/pages/WCA-Stats/currentao50/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao50/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao50/"$i".md.tmp > ~/pages/WCA-Stats/currentao50/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao50/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao50/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao50/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current ao50 (${finish}ms)"
+done
+
+#currentao100
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current ao100"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao100,2),CENTISECONDTOTIME(ao100)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao100, @i, @i + @c) initrank, 
+			@c := IF(@v = ao100, @c + 1, 1) counter, 
+			@r := IF(@v = ao100, '=', @i) Rank, 
+			@v := ao100 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao100,
+				times,
+				eventId
+			FROM currentao100 
+			JOIN persons_extra ON currentao100.personid = persons_extra.id
+			WHERE ao100 > 0 AND eventId = '${i}'
+			ORDER BY currentao100.ao100, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao100.md ~/pages/WCA-Stats/currentao100/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao100/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp > ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao100/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao100/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current ao100 (${finish}ms)"
+done
+
+#bestworstrank
+
+i="bestworstrank"
+start=$(date +%s%N | cut -b1-13)
+echo -n "Current ao100"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+  SELECT Rank, Name, countryId Country, maxWorldRank \`Max World Rank\`, maxWorldRankEventId Event
+  FROM
+  (SELECT 
+      @i := IF(@v = maxWorldRank, @i, @i + @c) initrank,
+      @c := IF(@v = maxWorldRank, @c + 1, 1) counter,
+      @r := IF(@v = maxWorldRank, '=', @i) Rank,
+      @v := maxWorldRank val,
+      a.*
+    FROM
+      (SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') name, countryId, maxWorldRank, maxWorldRankEventId 
+        FROM persons_extra
+        ORDER BY maxWorldRank ASC LIMIT 1000) a) b;" > ~/mysqloutput/original
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/bestworstrank.md ~/pages/WCA-Stats/bestworstrank/"$i".md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestworstrank/"$i".md.tmp
+awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestworstrank/"$i".md.tmp > ~/pages/WCA-Stats/bestworstrank/"$i".md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestworstrank/"$i".md.tmp2 > ~/pages/WCA-Stats/bestworstrank/"$i".md && \
+rm ~/pages/WCA-Stats/bestworstrank/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Best Worst Rank (${finish}ms)"
+
+#bestworstresult
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Best Worst Single"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, countryId Country, worst \`Worst Single\`
+FROM
+(SELECT 
+    @i := IF(@v = worst, @i, @i + @c) initrank,
+    @c := IF(@v = worst, @c + 1, 1) counter,
+    @r := IF(@v = worst, '=', @i) Rank,
+    @v := worst val,
+    c.*
+FROM
+  (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
+  (SELECT personId, MAX(value) worstorder, IF(eventId = '333fm', MAX(value), IF(eventId = '333mbf', CONCAT(99-LEFT(MAX(value),2)+RIGHT(MAX(value),2),'/',99-LEFT(MAX(value),2)+(2*RIGHT(MAX(value),2)),' ',CENTISECONDTOTIME(MID(MAX(value),4,4)*100)), CENTISECONDTOTIME(MAX(value)))) worst FROM all_attempts WHERE eventId = '${i}' AND value > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
+  JOIN persons_extra b ON a.personId = b.id
+  ORDER BY a.worstorder, b.id) c) d;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/bestworstresult.md ~/pages/WCA-Stats/bestworstresult/"$i"s.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestworstresult/"$i"s.md.tmp
+	awk -v r="$i Single" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestworstresult/"$i"s.md.tmp > ~/pages/WCA-Stats/bestworstresult/"$i"s.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestworstresult/"$i"s.md.tmp2 > ~/pages/WCA-Stats/bestworstresult/"$i"s.md && \
+	rm ~/pages/WCA-Stats/bestworstresult/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Best Worst Single (${finish}ms)"
+done
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Best Worst Average"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, countryId Country, worst \`Worst Average\`
+FROM
+(SELECT 
+    @i := IF(@v = worst, @i, @i + @c) initrank,
+    @c := IF(@v = worst, @c + 1, 1) counter,
+    @r := IF(@v = worst, '=', @i) Rank,
+    @v := worst val,
+    c.*
+FROM
+  (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
+  (SELECT personId, MAX(average) worstorder, IF(eventId = '333fm', MAX(average), IF(eventId = '333mbf', CONCAT(99-LEFT(MAX(average),2)+RIGHT(MAX(average),2),'/',99-LEFT(MAX(average),2)+(2*RIGHT(MAX(average),2)),' ',CENTISECONDTOTIME(MID(MAX(average),4,4)*100)), CENTISECONDTOTIME(MAX(average)))) worst FROM results_extra WHERE eventId = '${i}' AND average > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
+  JOIN persons_extra b ON a.personId = b.id
+  ORDER BY a.worstorder, b.id) c) d;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/bestworstresult.md ~/pages/WCA-Stats/bestworstresult/"$i"a.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestworstresult/"$i"a.md.tmp
+	awk -v r="$i Average" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestworstresult/"$i"a.md.tmp > ~/pages/WCA-Stats/bestworstresult/"$i"a.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestworstresult/"$i"a.md.tmp2 > ~/pages/WCA-Stats/bestworstresult/"$i"a.md && \
+	rm ~/pages/WCA-Stats/bestworstresult/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Best Worst Average (${finish}ms)"
+done
+
+#totalsolvetime
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Current ao100"
+	mysql --login-path=local wca_stats -e "
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao100,2),CENTISECONDTOTIME(ao100)) Average, Times 
+	FROM 
+		(SELECT 
+			@i := IF(@v = ao100, @i, @i + @c) initrank, 
+			@c := IF(@v = ao100, @c + 1, 1) counter, 
+			@r := IF(@v = ao100, '=', @i) Rank, 
+			@v := ao100 val, 
+			a.*  
+		FROM 
+			(SELECT 
+				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
+				countryId,
+				ao100,
+				times,
+				eventId
+			FROM currentao100 
+			JOIN persons_extra ON currentao100.personid = persons_extra.id
+			WHERE ao100 > 0 AND eventId = '${i}'
+			ORDER BY currentao100.ao100, personId
+			LIMIT 250) a) b;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/currentao100.md ~/pages/WCA-Stats/currentao100/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao100/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp > ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao100/"$i".md && \
+	rm ~/pages/WCA-Stats/currentao100/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Current ao100 (${finish}ms)"
+done
+
+#namelength
+
+i="longestnames"
+start=$(date +%s%N | cut -b1-13)
+echo -n "Longest Names"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, countryId Country, length \`Name Length\`
+FROM
+(SELECT 
+@i := IF(@v = length, @i, @i + @c) initrank,
+@c := IF(@v = length, @c + 1, 1) counter,
+@r := IF(@v = length, '=', @i) Rank,
+@v := length val,
+a.*
+FROM
+(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, countryId, CHAR_LENGTH(IF(POSITION(' (' IN name) = 0, REPLACE(name,' ',''), REPLACE(LEFT(name,POSITION(' (' IN name)),' ',''))) length 
+FROM persons_extra ORDER BY length DESC, id LIMIT 1000) a) b;" > ~/mysqloutput/original
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/namelength.md ~/pages/WCA-Stats/namelength/"$i".md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/namelength/"$i".md.tmp
+awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/namelength/"$i".md.tmp > ~/pages/WCA-Stats/namelength/"$i".md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/namelength/"$i".md.tmp2 > ~/pages/WCA-Stats/namelength/"$i".md && \
+rm ~/pages/WCA-Stats/namelength/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Longest Names (${finish}ms)"
+
+i="shortestnames"
+start=$(date +%s%N | cut -b1-13)
+echo -n "Shortest Names"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, countryId Country, length \`Name Length\`
+FROM
+(SELECT 
+@i := IF(@v = length, @i, @i + @c) initrank,
+@c := IF(@v = length, @c + 1, 1) counter,
+@r := IF(@v = length, '=', @i) Rank,
+@v := length val,
+a.*
+FROM
+(SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, countryId, CHAR_LENGTH(IF(POSITION(' (' IN name) = 0, REPLACE(name,' ',''), REPLACE(LEFT(name,POSITION(' (' IN name)),' ',''))) length 
+FROM persons_extra ORDER BY length ASC, id LIMIT 1000) a) b;" > ~/mysqloutput/original
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+sed -i.bak '2i\
+--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/namelength.md ~/pages/WCA-Stats/namelength/"$i".md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/namelength/"$i".md.tmp
+awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/namelength/"$i".md.tmp > ~/pages/WCA-Stats/namelength/"$i".md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/namelength/"$i".md.tmp2 > ~/pages/WCA-Stats/namelength/"$i".md && \
+rm ~/pages/WCA-Stats/namelength/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Shortest Names (${finish}ms)"
+
+i="mostcommonfirstnames"
+start=$(date +%s%N | cut -b1-13)
+echo -n "Most Common First Names"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, firstName \`First Name\`, Number
+FROM
+(SELECT 
+@i := IF(@v = number, @i, @i + @c) initrank,
+@c := IF(@v = number, @c + 1, 1) counter,
+@r := IF(@v = number, '=', @i) Rank,
+@v := number val,
+a.*
+FROM
+(SELECT IF(name LIKE '% %',LEFT(name,POSITION(' ' IN name)),name) firstName, COUNT(*) Number FROM persons_extra GROUP BY IF(name LIKE '% %',LEFT(name,POSITION(' ' IN name)),name) ORDER BY COUNT(*) DESC LIMIT 1000) a) b;" > ~/mysqloutput/original
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+sed -i.bak '2i\
+--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/commonfirstnames.md ~/pages/WCA-Stats/commonfirstnames/"$i".md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/commonfirstnames/"$i".md.tmp
+awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/commonfirstnames/"$i".md.tmp > ~/pages/WCA-Stats/commonfirstnames/"$i".md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/commonfirstnames/"$i".md.tmp2 > ~/pages/WCA-Stats/commonfirstnames/"$i".md && \
+rm ~/pages/WCA-Stats/commonfirstnames/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Most Common First Names (${finish}ms)"
+
+i="mostcommonwcamiddles"
+start=$(date +%s%N | cut -b1-13)
+echo -n "Most Common WCA Middles"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, wcaMiddle \`WCA Middle\`, Number
+FROM
+(SELECT 
+@i := IF(@v = number, @i, @i + @c) initrank,
+@c := IF(@v = number, @c + 1, 1) counter,
+@r := IF(@v = number, '=', @i) Rank,
+@v := number val,
+a.*
+FROM
+(SELECT MID(id,5,4) wcaMiddle, COUNT(*) Number FROM persons_extra GROUP BY MID(id,5,4) ORDER BY COUNT(*) DESC LIMIT 1000) a) b;" > ~/mysqloutput/original
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+sed -i.bak '2i\
+--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/commonwcamiddles.md ~/pages/WCA-Stats/commonwcamiddles/"$i".md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/commonwcamiddles/"$i".md.tmp
+awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/commonwcamiddles/"$i".md.tmp > ~/pages/WCA-Stats/commonwcamiddles/"$i".md.tmp2 && \
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/commonwcamiddles/"$i".md.tmp2 > ~/pages/WCA-Stats/commonwcamiddles/"$i".md && \
+rm ~/pages/WCA-Stats/commonwcamiddles/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Most Common WCA Middles (${finish}ms)"
+
 
 rm ~/mysqloutput/*
 
