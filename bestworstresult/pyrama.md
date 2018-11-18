@@ -7,7 +7,7 @@
 #### EventId = pyram Average
 
 |Rank|Name|Country|Worst Average|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14)|China|3.64|  
 |2|[Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06)|Bolivia|4.21|  
 |3|[Yanjun Zhang (张彦君)](https://www.worldcubeassociation.org/persons/2018ZHAN58)|China|4.62|  

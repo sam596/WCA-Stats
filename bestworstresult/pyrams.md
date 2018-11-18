@@ -7,7 +7,7 @@
 #### EventId = pyram Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14)|China|4.59|  
 |2|[Yanjun Zhang (张彦君)](https://www.worldcubeassociation.org/persons/2018ZHAN58)|China|5.13|  
 |3|[Kartik Bhide](https://www.worldcubeassociation.org/persons/2014BHID02)|India|6.06|  

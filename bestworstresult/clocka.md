@@ -7,7 +7,7 @@
 #### EventId = clock Average
 
 |Rank|Name|Country|Worst Average|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Mason Klewin](https://www.worldcubeassociation.org/persons/2018KLEW01)|USA|7.19|  
 |2|[Yunho Nam (남윤호)](https://www.worldcubeassociation.org/persons/2014NAMY01)|Korea|7.64|  
 |3|[Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01)|USA|7.78|  

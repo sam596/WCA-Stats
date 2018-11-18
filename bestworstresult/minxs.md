@@ -7,7 +7,7 @@
 #### EventId = minx Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|54.76|  
 |2|[Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03)|Malaysia|1:01.74|  
 |=|[Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01)|USA|1:06.38|  

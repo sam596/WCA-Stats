@@ -7,7 +7,7 @@
 #### EventId = sq1 Average
 
 |Rank|Name|Country|Worst Average|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32)|China|11.75|  
 |2|[Tatsuya Kusanagi (草彅達也)](https://www.worldcubeassociation.org/persons/2018KUSA02)|Japan|13.04|  
 |3|[Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02)|Korea|13.32|  

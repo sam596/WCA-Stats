@@ -7,7 +7,7 @@
 #### EventId = clock Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Winda Wardani](https://www.worldcubeassociation.org/persons/2018WARD05)|Indonesia|9.82|  
 |2|[Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01)|Chile|9.83|  
 |3|[James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02)|United Kingdom|9.96|  

@@ -7,7 +7,7 @@
 #### EventId = skewb Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Dylan Johnston](https://www.worldcubeassociation.org/persons/2018JOHN34)|Australia|6.04|  
 |2|[Joey Saia](https://www.worldcubeassociation.org/persons/2017SAIA01)|USA|6.15|  
 |3|[Luis Angel Huerta Barrales](https://www.worldcubeassociation.org/persons/2017BARR34)|Mexico|6.16|  

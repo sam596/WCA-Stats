@@ -7,7 +7,7 @@
 #### EventId = sq1 Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Boqin Zhao (赵博钦)](https://www.worldcubeassociation.org/persons/2017ZHAO32)|China|16.02|  
 |2|[Matthew Yep](https://www.worldcubeassociation.org/persons/2010YEPM01)|Canada|16.84|  
 |3|[Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2017HUNG03)|Vietnam|16.93|  

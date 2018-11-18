@@ -7,7 +7,7 @@
 #### EventId = minx Average
 
 |Rank|Name|Country|Worst Average|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|48.69|  
 |2|[Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03)|Malaysia|54.46|  
 |3|[Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01)|USA|59.50|  

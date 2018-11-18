@@ -7,7 +7,7 @@
 #### EventId = 333mbf Single
 
 |Rank|Name|Country|Worst Single|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Tong Jiang (蒋彤)](https://www.worldcubeassociation.org/persons/2009JIAN03)|China|15/15 52:01.00|  
 |2|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|18/25 58:42.00|  
 |=|[Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01)|Singapore|18/25 01:00:00.00|  

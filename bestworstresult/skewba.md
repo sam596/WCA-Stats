@@ -7,7 +7,7 @@
 #### EventId = skewb Average
 
 |Rank|Name|Country|Worst Average|  
-|--|--|--|--|--|  
+|--|--|--|--|  
 |1|[Jiawei Zhang (张嘉伟)](https://www.worldcubeassociation.org/persons/2018ZHAJ17)|China|4.20|  
 |2|[Luis Angel Huerta Barrales](https://www.worldcubeassociation.org/persons/2017BARR34)|Mexico|4.69|  
 |3|[Vicente Esteban Morales Salgado](https://www.worldcubeassociation.org/persons/2017SALG03)|Chile|4.76|  
