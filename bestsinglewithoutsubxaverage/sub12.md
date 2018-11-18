@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Thu Nov 15 at 0607UTC*
+*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -292,7 +292,7 @@
 |=|[Roman Varkuta (Роман Варкута)](https://www.worldcubeassociation.org/persons/2014VARK03)|Ukraine|9.38|12.58|  
 |=|[Ronit Singh Rawat](https://www.worldcubeassociation.org/persons/2016RAWA04)|India|9.38|13.68|  
 |=|[Ruiming Chang (常芮铭)](https://www.worldcubeassociation.org/persons/2016CHAN26)|China|9.38|12.38|  
-|=|[Spondon Nath](https://www.worldcubeassociation.org/persons/2015NATH01)|India|9.38|12.55|  
+|=|[Spondon Nath](https://www.worldcubeassociation.org/persons/2015NATH01)|India|9.38|12.47|  
 |=|[Victor Ayala](https://www.worldcubeassociation.org/persons/2014AYAL02)|Paraguay|9.38|12.78|  
 |=|[Zachary Leung](https://www.worldcubeassociation.org/persons/2014LEUN01)|Canada|9.38|12.49|  
 |287|[David Zaheri Prieto](https://www.worldcubeassociation.org/persons/2016PRIE04)|Spain|9.39|12.47|  

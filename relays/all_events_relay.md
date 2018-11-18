@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Thu Nov 15 at 0607UTC*
+*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -131,7 +131,7 @@
 |121|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|USA|**51:37.59**|2.03|7.22|52.91|1:35.73|17.46|35.24|8:41.47|1:09.46|30:37.00|2:24.60|3:43.10|9.24|51.46|2.52|6.16|21.99|  
 |122|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|**51:39.74**|1.10|5.31|1:20.01|1:18.40|9.41|25.42|6:23.23|1:01.48|32:29.00|2:21.64|4:13.01|15.62|1:09.59|4.29|5.97|16.26|  
 |123|[Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01)|Japan|**53:24.81**|3.04|9.35|41.28|2:20.90|19.57|35.39|8:40.08|1:15.39|28:08.00|3:21.33|5:16.82|23.54|1:15.96|6.38|12.66|35.12|  
-|124|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**53:54.29**|1.72|7.47|1:18.27|45.49|18.03|43.59|10:54.00|1:25.70|28:04.00|3:37.92|4:22.68|6.75|1:38.53|2.55|4.98|22.61|  
+|124|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**53:48.20**|1.53|7.47|1:18.27|45.49|17.47|43.59|10:54.00|1:20.36|28:04.00|3:37.92|4:22.68|6.75|1:38.53|2.55|4.98|22.61|  
 |125|[José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01)|Colombia|**54:05.25**|1.78|7.16|1:19.02|1:49.90|14.16|34.80|13:22.00|1:13.48|28:01.00|2:31.73|3:35.52|10.48|44.16|3.47|2.59|14.00|  
 |126|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|**54:07.87**|0.84|4.77|45.84|2:13.47|9.43|29.57|9:28.00|54.82|31:49.00|2:20.07|3:32.41|11.13|1:28.19|3.96|15.96|20.41|  
 |127|[Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03)|China|**54:15.87**|6.09|18.03|1:22.23|1:44.96|48.52|1:09.97|8:29.26|2:17.84|24:54.00|4:08.78|5:34.89|23.04|2:08.05|10.44|12.07|27.70|  

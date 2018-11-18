@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Thu Nov 15 at 0607UTC*
+*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -48,50 +48,50 @@
 |38|[Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2017SONT01)|Vietnam|19.04|  
 |39|[Tyler LaChance](https://www.worldcubeassociation.org/persons/2017LACH03)|Canada|19.09|  
 |40|[Murilo Cidade Nogueira de Lima](https://www.worldcubeassociation.org/persons/2016LIMA09)|Brazil|19.39|  
-|=|[Yelysei Hovorun (Єлисей Говорун)](https://www.worldcubeassociation.org/persons/2018HOVO01)|Ukraine|19.39|  
 |=|[Kynan Yan](https://www.worldcubeassociation.org/persons/2018YANK02)|Australia|19.39|  
-|43|[Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03)|USA|19.45|  
+|42|[Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03)|USA|19.45|  
 |=|[Alex Truitt](https://www.worldcubeassociation.org/persons/2017TRUI01)|USA|19.45|  
-|45|[Adam Tran](https://www.worldcubeassociation.org/persons/2017TRAN08)|USA|19.51|  
-|46|[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|USA|19.56|  
-|47|[Kazuhito Iimura (飯村数人)](https://www.worldcubeassociation.org/persons/2008IIMU01)|Japan|19.57|  
-|48|[Gergely Kulcsár](https://www.worldcubeassociation.org/persons/2018KULC01)|Hungary|19.60|  
-|49|[Hudson Sakai](https://www.worldcubeassociation.org/persons/2017SAKA02)|USA|19.62|  
-|50|[Valerii Kolesnichenko (Валерій Колесніченко)](https://www.worldcubeassociation.org/persons/2014KOLE02)|Ukraine|19.63|  
-|51|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|19.76|  
-|52|[Xuyang Zhang (张煦阳)](https://www.worldcubeassociation.org/persons/2014ZHAN43)|China|19.99|  
+|44|[Adam Tran](https://www.worldcubeassociation.org/persons/2017TRAN08)|USA|19.51|  
+|45|[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|USA|19.56|  
+|46|[Kazuhito Iimura (飯村数人)](https://www.worldcubeassociation.org/persons/2008IIMU01)|Japan|19.57|  
+|47|[Gergely Kulcsár](https://www.worldcubeassociation.org/persons/2018KULC01)|Hungary|19.60|  
+|48|[Hudson Sakai](https://www.worldcubeassociation.org/persons/2017SAKA02)|USA|19.62|  
+|49|[Valerii Kolesnichenko (Валерій Колесніченко)](https://www.worldcubeassociation.org/persons/2014KOLE02)|Ukraine|19.63|  
+|50|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|19.76|  
+|51|[Xuyang Zhang (张煦阳)](https://www.worldcubeassociation.org/persons/2014ZHAN43)|China|19.99|  
 |=|[Yepeng Sun (孙叶芃)](https://www.worldcubeassociation.org/persons/2017SUNY01)|China|19.99|  
-|54|[Elias Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI01)|Bolivia|20.08|  
-|55|[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|20.09|  
-|56|[Caleb Bradley](https://www.worldcubeassociation.org/persons/2016BRAD10)|Canada|20.10|  
-|57|[Cheung Ka Lok](https://www.worldcubeassociation.org/persons/2009LOKC01)|Hong Kong|20.11|  
+|53|[Elias Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI01)|Bolivia|20.08|  
+|54|[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|20.09|  
+|55|[Caleb Bradley](https://www.worldcubeassociation.org/persons/2016BRAD10)|Canada|20.10|  
+|56|[Cheung Ka Lok](https://www.worldcubeassociation.org/persons/2009LOKC01)|Hong Kong|20.11|  
 |=|[Min Chiang](https://www.worldcubeassociation.org/persons/2017CHIA03)|USA|20.11|  
-|59|[Justin He](https://www.worldcubeassociation.org/persons/2015HEJU02)|Australia|20.12|  
-|60|[Bruno Alonso Villacorta Montoya](https://www.worldcubeassociation.org/persons/2016MONT33)|Peru|20.16|  
+|58|[Justin He](https://www.worldcubeassociation.org/persons/2015HEJU02)|Australia|20.12|  
+|59|[Bruno Alonso Villacorta Montoya](https://www.worldcubeassociation.org/persons/2016MONT33)|Peru|20.16|  
 |=|[Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17)|USA|20.16|  
-|62|[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|United Kingdom|20.17|  
+|61|[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|United Kingdom|20.17|  
 |=|[Ernar Kaliev (Ернар Калиев)](https://www.worldcubeassociation.org/persons/2018KALI10)|Kazakhstan|20.17|  
-|64|[Gabriel Brasil Lima](https://www.worldcubeassociation.org/persons/2015LIMA22)|Brazil|20.23|  
-|65|[JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01)|Korea|20.25|  
+|63|[Gabriel Brasil Lima](https://www.worldcubeassociation.org/persons/2015LIMA22)|Brazil|20.23|  
+|64|[JeongMin Yu (유정민)](https://www.worldcubeassociation.org/persons/2007JEON01)|Korea|20.25|  
 |=|[Ruzhen Ye (叶儒臻)](https://www.worldcubeassociation.org/persons/2009YERU01)|China|20.25|  
-|67|[Shin Hyuk Kyo (신혁교)](https://www.worldcubeassociation.org/persons/2014SHIN01)|Korea|20.26|  
-|68|[Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06)|Vietnam|20.29|  
-|69|[Gooi Ying Chyi](https://www.worldcubeassociation.org/persons/2009CHYI01)|Malaysia|20.32|  
+|66|[Shin Hyuk Kyo (신혁교)](https://www.worldcubeassociation.org/persons/2014SHIN01)|Korea|20.26|  
+|67|[Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06)|Vietnam|20.29|  
+|68|[Gooi Ying Chyi](https://www.worldcubeassociation.org/persons/2009CHYI01)|Malaysia|20.32|  
 |=|[John Loyd Pillo](https://www.worldcubeassociation.org/persons/2015PILL02)|Philippines|20.32|  
-|71|[Shanghong Li (李尚鸿)](https://www.worldcubeassociation.org/persons/2014LISH01)|China|20.38|  
-|72|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|20.40|  
+|70|[Shanghong Li (李尚鸿)](https://www.worldcubeassociation.org/persons/2014LISH01)|China|20.38|  
+|71|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|20.40|  
 |=|[Junhan Park (박준한)](https://www.worldcubeassociation.org/persons/2016PARK30)|Korea|20.40|  
-|74|[An Li (李安)](https://www.worldcubeassociation.org/persons/2018LIAN23)|China|20.52|  
-|75|[Andreas Jensen Forsgren](https://www.worldcubeassociation.org/persons/2016FORS08)|Norway|20.58|  
-|76|[Zhanheng Liu (刘展恒)](https://www.worldcubeassociation.org/persons/2017LIUZ05)|China|20.69|  
+|73|[An Li (李安)](https://www.worldcubeassociation.org/persons/2018LIAN23)|China|20.52|  
+|74|[Andreas Jensen Forsgren](https://www.worldcubeassociation.org/persons/2016FORS08)|Norway|20.58|  
+|75|[Zhanheng Liu (刘展恒)](https://www.worldcubeassociation.org/persons/2017LIUZ05)|China|20.69|  
 |=|[Dylan Barton Bagley](https://www.worldcubeassociation.org/persons/2018BAGL02)|USA|20.69|  
-|78|[Fan Wu (吴凡)](https://www.worldcubeassociation.org/persons/2011WUFA01)|China|20.71|  
-|79|[Firstian Fushada](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|20.80|  
-|80|[Mario Ramón Sebastián](https://www.worldcubeassociation.org/persons/2016SEBA01)|Spain|20.84|  
-|81|[Eshan Arora](https://www.worldcubeassociation.org/persons/2017AROR08)|USA|20.85|  
-|82|[Danish Farhan](https://www.worldcubeassociation.org/persons/2016FARH06)|Malaysia|20.88|  
-|83|[Astrid Lacotte](https://www.worldcubeassociation.org/persons/2018LACO02)|France|20.93|  
-|84|[Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01)|Korea|21.02|  
+|77|[Fan Wu (吴凡)](https://www.worldcubeassociation.org/persons/2011WUFA01)|China|20.71|  
+|78|[Firstian Fushada](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|20.80|  
+|79|[Mario Ramón Sebastián](https://www.worldcubeassociation.org/persons/2016SEBA01)|Spain|20.84|  
+|80|[Eshan Arora](https://www.worldcubeassociation.org/persons/2017AROR08)|USA|20.85|  
+|81|[Danish Farhan](https://www.worldcubeassociation.org/persons/2016FARH06)|Malaysia|20.88|  
+|82|[Astrid Lacotte](https://www.worldcubeassociation.org/persons/2018LACO02)|France|20.93|  
+|83|[Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01)|Korea|21.02|  
+|84|[Yelysei Hovorun (Єлисей Говорун)](https://www.worldcubeassociation.org/persons/2018HOVO01)|Ukraine|21.04|  
 |85|[Brandon Alejandro Carpio Garita](https://www.worldcubeassociation.org/persons/2017GARI05)|Costa Rica|21.12|  
 |86|[Yuttana Suputthayangkun (ยุทธนา สุพุทธยางกูร)](https://www.worldcubeassociation.org/persons/2009SUPU01)|Thailand|21.21|  
 |=|[Emiliano Xiuhuitzilli Sanchez Olivera](https://www.worldcubeassociation.org/persons/2016OLIV14)|Mexico|21.21|  

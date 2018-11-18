@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Nov 15 at 0607UTC*
+*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -242,19 +242,19 @@
 |232|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|9.33|8.11|  
 |233|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|9.89|8.11|  
 |234|[Dominik Pankros](https://www.worldcubeassociation.org/persons/2015PANK02)|Poland|9.08|8.10|  
-|235|[Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01)|Belarus|9.53|8.10|  
-|236|[Zhengtao Yu (俞正涛)](https://www.worldcubeassociation.org/persons/2017YUZH02)|China|9.12|8.10|  
-|237|[Hampus Hellqvist](https://www.worldcubeassociation.org/persons/2014HELL01)|Sweden|9.65|8.09|  
-|238|[Mohammad Soroush Hoseini (محمد سروش حسینی)](https://www.worldcubeassociation.org/persons/2016HOSE01)|Iran|9.66|8.09|  
-|239|[Nathanael Tung Wei An](https://www.worldcubeassociation.org/persons/2016ANNA01)|Singapore|8.55|8.09|  
-|240|[Yi-Jen Hsueh (薛以仁)](https://www.worldcubeassociation.org/persons/2016HSUE02)|Taiwan|9.22|8.09|  
-|241|[Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02)|USA|9.56|8.08|  
-|242|[Bryce Rohloff](https://www.worldcubeassociation.org/persons/2016ROHL01)|USA|9.47|8.08|  
-|243|[Gabriel Gaza](https://www.worldcubeassociation.org/persons/2017GAZA01)|Philippines|9.39|8.08|  
-|244|[Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07)|Finland|9.13|8.08|  
-|245|[Omkar Chavan](https://www.worldcubeassociation.org/persons/2015CHAV08)|India|9.24|8.08|  
-|246|[Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08)|China|9.26|8.08|  
-|247|[Yulian Kaplyuk (Юліан Каплюк)](https://www.worldcubeassociation.org/persons/2013KAPL01)|Ukraine|9.69|8.08|  
-|248|[Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01)|Canada|9.80|8.07|  
-|249|[Sebastián Benites Wong](https://www.worldcubeassociation.org/persons/2014WONG06)|Peru|9.12|8.07|  
-|250|[Kabyanil Talukdar](https://www.worldcubeassociation.org/persons/2013TALU01)|India|8.90|8.06|  
+|235|[Zhengtao Yu (俞正涛)](https://www.worldcubeassociation.org/persons/2017YUZH02)|China|9.12|8.10|  
+|236|[Hampus Hellqvist](https://www.worldcubeassociation.org/persons/2014HELL01)|Sweden|9.65|8.09|  
+|237|[Mohammad Soroush Hoseini (محمد سروش حسینی)](https://www.worldcubeassociation.org/persons/2016HOSE01)|Iran|9.66|8.09|  
+|238|[Nathanael Tung Wei An](https://www.worldcubeassociation.org/persons/2016ANNA01)|Singapore|8.55|8.09|  
+|239|[Yi-Jen Hsueh (薛以仁)](https://www.worldcubeassociation.org/persons/2016HSUE02)|Taiwan|9.22|8.09|  
+|240|[Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02)|USA|9.56|8.08|  
+|241|[Bryce Rohloff](https://www.worldcubeassociation.org/persons/2016ROHL01)|USA|9.47|8.08|  
+|242|[Gabriel Gaza](https://www.worldcubeassociation.org/persons/2017GAZA01)|Philippines|9.39|8.08|  
+|243|[Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07)|Finland|9.13|8.08|  
+|244|[Omkar Chavan](https://www.worldcubeassociation.org/persons/2015CHAV08)|India|9.24|8.08|  
+|245|[Yongan Liu (刘永安)](https://www.worldcubeassociation.org/persons/2009LIUY08)|China|9.26|8.08|  
+|246|[Yulian Kaplyuk (Юліан Каплюк)](https://www.worldcubeassociation.org/persons/2013KAPL01)|Ukraine|9.69|8.08|  
+|247|[Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01)|Canada|9.80|8.07|  
+|248|[Sebastián Benites Wong](https://www.worldcubeassociation.org/persons/2014WONG06)|Peru|9.12|8.07|  
+|249|[Kabyanil Talukdar](https://www.worldcubeassociation.org/persons/2013TALU01)|India|8.90|8.06|  
+|250|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|9.77|8.06|  
