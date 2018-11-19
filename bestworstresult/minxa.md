@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
+*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -169,6 +169,7 @@
 |=|[Dagne Poveda](https://www.worldcubeassociation.org/persons/2017POVE02)|Costa Rica|1:20.03|  
 |=|[Marshal Nathan](https://www.worldcubeassociation.org/persons/2011NATH01)|Indonesia|1:20.06|  
 |=|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|1:20.20|  
+|=|[Annemarie Meyer](https://www.worldcubeassociation.org/persons/2018MEYE02)|Germany|1:20.23|  
 |=|[Henrique Luiz Souza de Oliveira](https://www.worldcubeassociation.org/persons/2015OLIV20)|Brazil|1:20.33|  
 |=|[Khairur Rachim](https://www.worldcubeassociation.org/persons/2011RACH01)|Indonesia|1:20.37|  
 |=|[Evan Liu](https://www.worldcubeassociation.org/persons/2017LIUE01)|Canada|1:20.41|  
@@ -421,7 +422,6 @@
 |=|[Isaac Salomón Rojas Lima](https://www.worldcubeassociation.org/persons/2014LIMA03)|Mexico|1:29.87|  
 |=|[Devin Kennedy](https://www.worldcubeassociation.org/persons/2015KENN01)|USA|1:29.88|  
 |=|[Song Bi (毕崧)](https://www.worldcubeassociation.org/persons/2013BISO01)|China|1:29.89|  
-|=|[Michael Wittwer](https://www.worldcubeassociation.org/persons/2011WITT02)|Germany|1:29.97|  
 |=|[Ansh Roopesh Iyer](https://www.worldcubeassociation.org/persons/2018IYER03)|India|1:30.05|  
 |=|[Nathaniel Ross](https://www.worldcubeassociation.org/persons/2017ROSS01)|USA|1:30.07|  
 |=|[Sumeet Agarwal](https://www.worldcubeassociation.org/persons/2011AGAR05)|USA|1:30.11|  
@@ -518,6 +518,7 @@
 |=|[Nikodem Rudy](https://www.worldcubeassociation.org/persons/2017RUDY01)|Poland|1:32.95|  
 |=|[Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01)|USA|1:32.97|  
 |=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|1:32.97|  
+|=|[Michael Wittwer](https://www.worldcubeassociation.org/persons/2011WITT02)|Germany|1:33.08|  
 |=|[Mingyue Gao (高明月)](https://www.worldcubeassociation.org/persons/2013GAOM01)|China|1:33.13|  
 |=|[Haoyang Yan (晏浩洋)](https://www.worldcubeassociation.org/persons/2016YANH01)|China|1:33.13|  
 |=|[Bruno Boza Ñahuinripa](https://www.worldcubeassociation.org/persons/2017NAHU03)|Peru|1:33.15|  
@@ -525,7 +526,6 @@
 |=|[Xingyan Ding (丁醒炎)](https://www.worldcubeassociation.org/persons/2014DING02)|China|1:33.17|  
 |=|[Fumiya Matsui (松井郁也)](https://www.worldcubeassociation.org/persons/2013MATS02)|Japan|1:33.25|  
 |=|[Munkh-Erdene Natsagdorj (Мөнх-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2017NATS02)|Mongolia|1:33.25|  
-|=|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|1:33.28|  
 |=|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|1:33.29|  
 |=|[Imants Liepiņš](https://www.worldcubeassociation.org/persons/2015LIEP02)|Latvia|1:33.30|  
 |=|[Yifan Meng (孟一凡)](https://www.worldcubeassociation.org/persons/2016MENG01)|China|1:33.30|  
@@ -565,7 +565,7 @@
 |=|[Li Yifei (李逸飞)](https://www.worldcubeassociation.org/persons/2015YIFE01)|China|1:34.06|  
 |=|[Yexin Zhang (张业鑫)](https://www.worldcubeassociation.org/persons/2013ZHAN11)|China|1:34.07|  
 |=|[Zhiya Li (李知雅)](https://www.worldcubeassociation.org/persons/2018LIZH14)|China|1:34.10|  
-|=|[Bennett Patrick Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:34.12|  
+|=|[Bennett Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:34.12|  
 |=|[Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08)|United Kingdom|1:34.12|  
 |=|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|1:34.14|  
 |=|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|1:34.18|  
@@ -655,6 +655,7 @@
 |=|[Luigi Angelo Enghoy](https://www.worldcubeassociation.org/persons/2017ENGH01)|Philippines|1:36.41|  
 |=|[Shreyan Jaiswal](https://www.worldcubeassociation.org/persons/2014JAIS02)|USA|1:36.46|  
 |=|[Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01)|Poland|1:36.46|  
+|=|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|1:36.47|  
 |=|[Sebastian Alanen](https://www.worldcubeassociation.org/persons/2015ALAN02)|Sweden|1:36.51|  
 |=|[Isaac Wappes](https://www.worldcubeassociation.org/persons/2007WAPP01)|USA|1:36.52|  
 |=|[Han-Cyun Chen (陳翰群)](https://www.worldcubeassociation.org/persons/2008CHEN06)|Taiwan|1:36.55|  
@@ -922,7 +923,6 @@
 |=|[Ronald Josué Sicá Alvarado](https://www.worldcubeassociation.org/persons/2017ALVA25)|Guatemala|1:42.36|  
 |=|[Alfrisa Diva Wandana](https://www.worldcubeassociation.org/persons/2010WAND03)|Indonesia|1:42.37|  
 |=|[Hendrik Alexis Hurtarte Rodríguez](https://www.worldcubeassociation.org/persons/2017RODR48)|Guatemala|1:42.37|  
-|=|[Callum McArthur-Mortell](https://www.worldcubeassociation.org/persons/2018MCAR01)|Finland|1:42.37|  
 |=|[Giovanni Marchetti](https://www.worldcubeassociation.org/persons/2011MARC02)|Italy|1:42.38|  
 |=|[He Li (李贺)](https://www.worldcubeassociation.org/persons/2016LIHE01)|China|1:42.39|  
 |=|[Cristopher Arturo Pérez Riquelme](https://www.worldcubeassociation.org/persons/2017RIQU01)|Chile|1:42.39|  

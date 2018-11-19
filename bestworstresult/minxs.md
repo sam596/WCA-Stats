@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
+*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -140,6 +140,7 @@
 |=|[Jaka Wahyu Hidayat](https://www.worldcubeassociation.org/persons/2010HIDA01)|Indonesia|1:28.41|  
 |=|[Shubin Ou (欧书彬)](https://www.worldcubeassociation.org/persons/2018OUSH01)|China|1:28.47|  
 |=|[Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01)|China|1:28.51|  
+|=|[Annemarie Meyer](https://www.worldcubeassociation.org/persons/2018MEYE02)|Germany|1:28.86|  
 |=|[Kenneth Carlos](https://www.worldcubeassociation.org/persons/2016CARL11)|Philippines|1:28.90|  
 |=|[Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09)|Korea|1:28.93|  
 |=|[Trevor Petersen](https://www.worldcubeassociation.org/persons/2011PETE04)|USA|1:28.95|  
@@ -311,7 +312,7 @@
 |=|[Matthew Cook](https://www.worldcubeassociation.org/persons/2016COOK02)|Australia|1:38.80|  
 |=|[Yunhui Shi (石蕴辉)](https://www.worldcubeassociation.org/persons/2017SHIY01)|China|1:38.84|  
 |=|[Jhoan Andrade](https://www.worldcubeassociation.org/persons/2017ANDR22)|Ecuador|1:38.86|  
-|=|[Bennett Patrick Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:38.86|  
+|=|[Bennett Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:38.86|  
 |=|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|1:38.90|  
 |=|[Cheah Gee Nung Ian](https://www.worldcubeassociation.org/persons/2016IANC01)|Singapore|1:38.93|  
 |=|[Bruno Boza Ñahuinripa](https://www.worldcubeassociation.org/persons/2017NAHU03)|Peru|1:38.94|  
@@ -630,7 +631,6 @@
 |=|[Yikang Mao (毛逸康)](https://www.worldcubeassociation.org/persons/2018MAOY01)|China|1:50.06|  
 |=|[Alex Chen](https://www.worldcubeassociation.org/persons/2013CHEN84)|Australia|1:50.07|  
 |=|[Malcolm Wong](https://www.worldcubeassociation.org/persons/2016WONG09)|Malaysia|1:50.07|  
-|=|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|1:50.11|  
 |=|[Rémi Perrin](https://www.worldcubeassociation.org/persons/2018PERR04)|France|1:50.12|  
 |=|[Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01)|USA|1:50.14|  
 |=|[Melwin Andersson](https://www.worldcubeassociation.org/persons/2016ANDE17)|Sweden|1:50.16|  
@@ -825,7 +825,6 @@
 |=|[Alfredo Jhohanson Rios](https://www.worldcubeassociation.org/persons/2017RIOS05)|Peru|1:55.37|  
 |=|[Mok Mun Wai (莫滿懷)](https://www.worldcubeassociation.org/persons/2008WAIM01)|Hong Kong|1:55.39|  
 |=|[Ariunbold Bayanmonkh (Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|1:55.42|  
-|=|[Joni Hiisvirta](https://www.worldcubeassociation.org/persons/2018HIIS01)|Finland|1:55.43|  
 |=|[Shuai Hu (胡帅)](https://www.worldcubeassociation.org/persons/2017HUSH01)|China|1:55.44|  
 |=|[Christian Dirks](https://www.worldcubeassociation.org/persons/2010DIRK01)|Germany|1:55.47|  
 |=|[Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01)|Hungary|1:55.50|  
@@ -898,6 +897,7 @@
 |=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|1:57.42|  
 |=|[Anthony Larco](https://www.worldcubeassociation.org/persons/2018LARC01)|Peru|1:57.46|  
 |=|[Daniel Martinez](https://www.worldcubeassociation.org/persons/2017MART72)|Colombia|1:57.47|  
+|=|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|1:57.56|  
 |=|[Alexander Batz](https://www.worldcubeassociation.org/persons/2017BATZ01)|Guatemala|1:57.58|  
 |=|[Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01)|Vietnam|1:57.59|  
 |=|[Avishek Prajapati](https://www.worldcubeassociation.org/persons/2016PRAJ02)|Nepal|1:57.60|  

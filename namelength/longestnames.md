@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
+*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -380,14 +380,16 @@
 |=|[Victor Rampinelli Villar de Medeiros](https://www.worldcubeassociation.org/persons/2018MEDE01)|Brazil|32|  
 |=|[Vicente Pascual Alonso Mejias Mejias](https://www.worldcubeassociation.org/persons/2018MEJI07)|Chile|32|  
 |=|[Matias Sebastian Vacherand Mongelos](https://www.worldcubeassociation.org/persons/2018MONG01)|Paraguay|32|  
+|=|[Fabrizzio Nicolai Chaparro Morantes](https://www.worldcubeassociation.org/persons/2018MORA36)|Colombia|32|  
 |=|[Mohamad Danisy Asyraf Bin Abdul Razak](https://www.worldcubeassociation.org/persons/2018RAZA04)|Malaysia|32|  
 |=|[Gustavo Bacelar Barreoros Rodrigues](https://www.worldcubeassociation.org/persons/2018RODR51)|Brazil|32|  
 |=|[Wan Muhammad Rizqi Bin Wan Mohd Roslan](https://www.worldcubeassociation.org/persons/2018ROSL02)|Malaysia|32|  
+|=|[Cristian Fernando Escamilla Sánchez](https://www.worldcubeassociation.org/persons/2018SANC36)|Colombia|32|  
 |=|[Francisca Alessandra de Souza Santos](https://www.worldcubeassociation.org/persons/2018SANT06)|Brazil|32|  
 |=|[Izz Aisya Sofea Binti Mohd Nor Shaarol](https://www.worldcubeassociation.org/persons/2018SHAA02)|Malaysia|32|  
 |=|[Vincentius Haholongan Tito Sihaloho](https://www.worldcubeassociation.org/persons/2018SIHA01)|Indonesia|32|  
 |=|[Muhammad Fuzhail Bin Mohamad Sondier](https://www.worldcubeassociation.org/persons/2018SOND03)|Malaysia|32|  
-|380|[Antonio Roberto Martínez Fernández](https://www.worldcubeassociation.org/persons/2007MART01)|Spain|31|  
+|382|[Antonio Roberto Martínez Fernández](https://www.worldcubeassociation.org/persons/2007MART01)|Spain|31|  
 |=|[Leonardo Ignacio Martínez Sandoval](https://www.worldcubeassociation.org/persons/2008SAND02)|Mexico|31|  
 |=|[Iñaki Zenikazelaia Ibañez de Opacua](https://www.worldcubeassociation.org/persons/2008ZENI01)|Spain|31|  
 |=|[Muhammad Irfan Syafiq bin Mohd Anuar](https://www.worldcubeassociation.org/persons/2009ANUA01)|Malaysia|31|  
@@ -596,7 +598,7 @@
 |=|[Guilherme Albuquerque Vasconcelos](https://www.worldcubeassociation.org/persons/2018VASC03)|Brazil|31|  
 |=|[I Nengah Prama Baswara Andakara Yasa](https://www.worldcubeassociation.org/persons/2018YASA01)|Indonesia|31|  
 |=|[Eduardo Pinheiro do Valle Zawitoski](https://www.worldcubeassociation.org/persons/2018ZAWI01)|Brazil|31|  
-|589|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|591|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -837,6 +839,7 @@
 |=|[João Pedro Silva Viana de Alcântara](https://www.worldcubeassociation.org/persons/2018ALCA03)|Brazil|30|  
 |=|[Sebastian Rodriguez Pereda Alonso](https://www.worldcubeassociation.org/persons/2018ALON09)|Peru|30|  
 |=|[Wan Adam Iskandar Bin Wan Abdul Aziz](https://www.worldcubeassociation.org/persons/2018AZIZ03)|Malaysia|30|  
+|=|[Edward Alejandro Rincon Balaguera](https://www.worldcubeassociation.org/persons/2018BALA31)|Colombia|30|  
 |=|[Jhoan Jhunior Alvarado Balderrama](https://www.worldcubeassociation.org/persons/2018BALD03)|Bolivia|30|  
 |=|[Javier Alejandro Valdivia Barrios](https://www.worldcubeassociation.org/persons/2018BARR01)|Chile|30|  
 |=|[Nicolas Cavalcanti de Brito Barros](https://www.worldcubeassociation.org/persons/2018BARR02)|Brazil|30|  
@@ -850,6 +853,7 @@
 |=|[Claudia Cristina Jiménez Castillo](https://www.worldcubeassociation.org/persons/2018CAST40)|Mexico|30|  
 |=|[Leonardo Fabricio Rivera Chamorro](https://www.worldcubeassociation.org/persons/2018CHAM02)|Ecuador|30|  
 |=|[Carlos Arturo Rodriguez Cifuentes](https://www.worldcubeassociation.org/persons/2018CIFU01)|Colombia|30|  
+|=|[Miguel Francisco Vargas Contreras](https://www.worldcubeassociation.org/persons/2018CONT11)|Colombia|30|  
 |=|[Haiani Stella Barbosa Siebra David](https://www.worldcubeassociation.org/persons/2018DAVI30)|Brazil|30|  
 |=|[Marcus Samuel Burgarelli Denicolo](https://www.worldcubeassociation.org/persons/2018DENI02)|Brazil|30|  
 |=|[Vicente Fernando Rodriguez Donoso](https://www.worldcubeassociation.org/persons/2018DONO03)|Chile|30|  
@@ -878,6 +882,7 @@
 |=|[Anagabriel Solange Garcia Rengifo](https://www.worldcubeassociation.org/persons/2018RENG02)|Peru|30|  
 |=|[Antonio Weverson Angelo Rodrigues](https://www.worldcubeassociation.org/persons/2018RODR52)|Brazil|30|  
 |=|[Cristian Igancio Jorquera Rosales](https://www.worldcubeassociation.org/persons/2018ROSA12)|Chile|30|  
+|=|[Maria Fernanda Martinez Salamanca](https://www.worldcubeassociation.org/persons/2018SALA12)|Colombia|30|  
 |=|[Harold Alexander Castillo Sánchez](https://www.worldcubeassociation.org/persons/2018SANC35)|Colombia|30|  
 |=|[Luana Geraldine Sandoval Sandoval](https://www.worldcubeassociation.org/persons/2018SAND11)|Peru|30|  
 |=|[David Ricardo Montepeque Sandoval](https://www.worldcubeassociation.org/persons/2018SAND17)|El Salvador|30|  
@@ -896,7 +901,7 @@
 |=|[Matheus Henrique Rodrigues Vieira](https://www.worldcubeassociation.org/persons/2018VIEI05)|Brazil|30|  
 |=|[Allison Victoria Guillen Zamarron](https://www.worldcubeassociation.org/persons/2018ZAMA01)|Mexico|30|  
 |=|[Martín Sebastian Aguilar Zambrano](https://www.worldcubeassociation.org/persons/2018ZAMB04)|Ecuador|30|  
-|889|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
+|894|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
 |=|[Maria Josefina Razazi Fuenzalida](https://www.worldcubeassociation.org/persons/2009FUEN01)|Chile|29|  
 |=|[Umar Yunan Kurnia Septo Hediyanto](https://www.worldcubeassociation.org/persons/2009HEDI02)|Indonesia|29|  
 |=|[Mohammad Hassan Azri Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM02)|Malaysia|29|  
@@ -1003,8 +1008,3 @@
 |=|[Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17)|Brazil|29|  
 |=|[José Eduardo Gaboardi de Carvalho](https://www.worldcubeassociation.org/persons/2015CARV04)|Brazil|29|  
 |=|[Alexander Piero Ramos de Carvalho](https://www.worldcubeassociation.org/persons/2015CARV10)|Brazil|29|  
-|=|[Daniel Alejandro Acevedo Castaño](https://www.worldcubeassociation.org/persons/2015CAST18)|Colombia|29|  
-|=|[Francisco Alfonso Mayorga Cetina](https://www.worldcubeassociation.org/persons/2015CETI01)|Colombia|29|  
-|=|[Ariel Alexander Galicia Gallardo](https://www.worldcubeassociation.org/persons/2015GALL09)|Guatemala|29|  
-|=|[Cesar Emmanuel Sánchez Hernández](https://www.worldcubeassociation.org/persons/2015HERN04)|Mexico|29|  
-|=|[Kevin Fabián Rodriguez Hernandez](https://www.worldcubeassociation.org/persons/2015HERN13)|Mexico|29|  

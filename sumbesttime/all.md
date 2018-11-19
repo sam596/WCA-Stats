@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Sun Nov 18 at 0708UTC*
+*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -68,24 +68,24 @@
 |57|[SwissOpen2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017)|Switzerland|00:21:18.34|  
 |58|[Cubelonia2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016)|Germany|00:21:24.74|  
 |59|[KansaiOpen2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018)|Japan|00:21:25.80|  
-|60|[BelgorodOpen2016](https://www.worldcubeassociation.org/competitions/BelgorodOpen2016)|Russia|00:21:35.41|  
-|61|[SCMU2016](https://www.worldcubeassociation.org/competitions/SCMU2016)|India|00:21:48.23|  
-|62|[SloveniaNationals2018](https://www.worldcubeassociation.org/competitions/SloveniaNationals2018)|Slovenia|00:21:55.95|  
-|63|[Cubelonia2017](https://www.worldcubeassociation.org/competitions/Cubelonia2017)|Germany|00:22:06.50|  
-|64|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|Brazil|00:22:17.53|  
-|65|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)|Germany|00:22:25.34|  
-|66|[NCROpen2017](https://www.worldcubeassociation.org/competitions/NCROpen2017)|India|00:22:42.30|  
-|67|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|United Kingdom|00:22:42.54|  
-|68|[MedanAllEvents2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018)|Indonesia|00:22:49.43|  
-|69|[BSUCubingDays2016](https://www.worldcubeassociation.org/competitions/BSUCubingDays2016)|Belarus|00:22:58.19|  
-|70|[StaszicOpen2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017)|Poland|00:22:59.96|  
-|71|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|Germany|00:23:00.74|  
-|72|[Spain2018](https://www.worldcubeassociation.org/competitions/Spain2018)|Spain|00:23:17.69|  
-|73|[OxfordOpen2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014)|United Kingdom|00:23:28.55|  
-|74|[SpanishChampionship2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017)|Spain|00:23:40.54|  
-|75|[DastrupSleepover2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018)|Denmark|00:23:48.64|  
-|76|[HungarianOpen2016](https://www.worldcubeassociation.org/competitions/HungarianOpen2016)|Hungary|00:24:05.19|  
-|77|[Brasileiro2018](https://www.worldcubeassociation.org/competitions/Brasileiro2018)|Brazil|00:24:05.57|  
+|60|[Pikkujoulut2018](https://www.worldcubeassociation.org/competitions/Pikkujoulut2018)|Finland|00:21:30.28|  
+|61|[BelgorodOpen2016](https://www.worldcubeassociation.org/competitions/BelgorodOpen2016)|Russia|00:21:35.41|  
+|62|[SCMU2016](https://www.worldcubeassociation.org/competitions/SCMU2016)|India|00:21:48.23|  
+|63|[SloveniaNationals2018](https://www.worldcubeassociation.org/competitions/SloveniaNationals2018)|Slovenia|00:21:55.95|  
+|64|[Cubelonia2017](https://www.worldcubeassociation.org/competitions/Cubelonia2017)|Germany|00:22:06.50|  
+|65|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)|Brazil|00:22:17.53|  
+|66|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)|Germany|00:22:25.34|  
+|67|[NCROpen2017](https://www.worldcubeassociation.org/competitions/NCROpen2017)|India|00:22:42.30|  
+|68|[UKChampionship2017](https://www.worldcubeassociation.org/competitions/UKChampionship2017)|United Kingdom|00:22:42.54|  
+|69|[MedanAllEvents2018](https://www.worldcubeassociation.org/competitions/MedanAllEvents2018)|Indonesia|00:22:49.43|  
+|70|[BSUCubingDays2016](https://www.worldcubeassociation.org/competitions/BSUCubingDays2016)|Belarus|00:22:58.19|  
+|71|[StaszicOpen2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017)|Poland|00:22:59.96|  
+|72|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|Germany|00:23:00.74|  
+|73|[Spain2018](https://www.worldcubeassociation.org/competitions/Spain2018)|Spain|00:23:17.69|  
+|74|[OxfordOpen2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014)|United Kingdom|00:23:28.55|  
+|75|[SpanishChampionship2017](https://www.worldcubeassociation.org/competitions/SpanishChampionship2017)|Spain|00:23:40.54|  
+|76|[DastrupSleepover2018](https://www.worldcubeassociation.org/competitions/DastrupSleepover2018)|Denmark|00:23:48.64|  
+|77|[HungarianOpen2016](https://www.worldcubeassociation.org/competitions/HungarianOpen2016)|Hungary|00:24:05.19|  
 |78|[WelwynGardenCity2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014)|United Kingdom|00:24:06.21|  
 |79|[SantaClausCubeRace2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016)|Poland|00:24:07.17|  
 |80|[GermanOpen2018](https://www.worldcubeassociation.org/competitions/GermanOpen2018)|Germany|00:24:07.74|  
