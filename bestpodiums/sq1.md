@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
+*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -1007,4 +1007,4 @@
 |997|[ChojniceOpen2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013)|Poland|1:01.99|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01), [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01), [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01)|17.48, 18.66, 25.85|  
 |=|[PolishOpen2014](https://www.worldcubeassociation.org/competitions/PolishOpen2014)|Poland|1:01.99|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01), [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01), [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01)|18.26, 21.82, 21.91|  
 |999|[LPCubeBattle2018](https://www.worldcubeassociation.org/competitions/LPCubeBattle2018)|Bolivia|1:02.01|[Elias Mamani Tumiri](https://www.worldcubeassociation.org/persons/2017TUMI01), [Claudio Andre Gomez Villca](https://www.worldcubeassociation.org/persons/2017VILL42), [Jose Antonio Campero Morales](https://www.worldcubeassociation.org/persons/2016MORA10)|19.35, 19.55, 23.11|  
-|1000|[VisayasChampionship2018](https://www.worldcubeassociation.org/competitions/VisayasChampionship2018)|Philippines|1:02.08|[Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04), [Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01), [Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02)|19.81, 20.20, 22.07|  
+|1000|[NovemberDaysinMinsk2018](https://www.worldcubeassociation.org/competitions/NovemberDaysinMinsk2018)|Belarus|1:02.04|[Yauheni Zviazdou](https://www.worldcubeassociation.org/persons/2016ZVIA01), [Yahor Lahunovich (Егор Лагунович)](https://www.worldcubeassociation.org/persons/2018LAGU01), [Vadzim Smirnou](https://www.worldcubeassociation.org/persons/2017SMIR01)|19.28, 21.06, 21.70|  

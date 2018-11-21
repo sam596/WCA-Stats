@@ -1,6 +1,6 @@
 ## Current Average of 12
 
-*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
+*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -83,178 +83,178 @@
 |73|[Kai-Jui Chang (張凱睿)](https://www.worldcubeassociation.org/persons/2016CHAN21)|Taiwan|13.36|22.06, 21.00, 13.63, 10.37, 11.89, 13.32, 15.11, 9.97, 13.99, 11.98, 10.66, 11.62|  
 |74|[Harsh Maheshwari](https://www.worldcubeassociation.org/persons/2017MAHE08)|India|13.38|23.17, 27.28, 10.01, 10.46, DNF, 8.80, 7.37, 13.14, 8.09, 12.34, 10.89, 9.57|  
 |75|[Tiziano Arcifa Agatino](https://www.worldcubeassociation.org/persons/2017AGAT03)|Italy|13.48|16.20, 12.08, 15.28, 13.32, 13.02, 16.22, 14.11, 11.30, 12.10, 9.77, 11.19, DNF|  
-|76|[Enzo Boncinelli](https://www.worldcubeassociation.org/persons/2016BONC01)|France|13.54|21.11, 10.69, 11.12, 11.34, 11.39, 12.91, 7.29, 14.84, 10.67, 15.55, 17.07, 19.81|  
-|77|[Guanchen Zhou (周冠辰)](https://www.worldcubeassociation.org/persons/2014ZHOU10)|China|13.56|15.96, 13.47, 23.22, 15.13, 8.01, 13.27, 10.52, 11.52, 12.92, 8.40, 17.98, 16.45|  
-|78|[Haolin Lu (路昊霖)](https://www.worldcubeassociation.org/persons/2017LUHA02)|China|13.60|24.86, 36.95, 12.14, 15.79, 8.79, 12.58, 8.27, 13.91, 14.41, 8.93, 10.72, 13.90|  
-|79|[Óscar Goñi Rodríguez](https://www.worldcubeassociation.org/persons/2016RODR54)|Spain|13.61|19.05, 19.87, 14.66, 13.34, 10.60, 9.82, 13.04, 10.92, 16.36, 11.22, 11.86, 15.00|  
-|80|[Ana Almeida](https://www.worldcubeassociation.org/persons/2017ALME03)|Portugal|13.67|20.89, 16.17, 11.93, 21.79, 14.87, 19.35, 11.80, 8.46, 7.63, 8.66, 10.27, 14.30|  
-|81|[Arvid Strömdahl](https://www.worldcubeassociation.org/persons/2018STRO04)|Sweden|13.69|13.34, 14.46, 10.21, 9.03, 14.78, 19.09, 14.44, 11.49, 27.38, 10.66, 13.39, 14.99|  
-|82|[Karol Poniedzielnik](https://www.worldcubeassociation.org/persons/2018PONI01)|Poland|13.70|29.72, DNF, 9.09, 12.21, 12.04, 13.13, 10.98, 10.70, 12.22, 12.28, 12.22, 11.49|  
-|83|[Agastya Bhatia](https://www.worldcubeassociation.org/persons/2016BHAT12)|USA|13.75|22.44, 22.93, 8.80, 17.00, 13.70, 12.80, 13.26, 12.01, 9.76, 5.39, 8.45, 19.23|  
-|84|[Luke Rumbaugh](https://www.worldcubeassociation.org/persons/2018RUMB01)|USA|13.75|20.02, 14.79, 15.52, 11.88, 17.43, 14.31, 17.10, 8.10, 13.04, 13.74, 6.44, 11.56|  
-|85|[Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02)|USA|13.77|13.38, 12.95, 13.67, 11.41, 16.64, 11.51, 13.43, 13.32, 10.10, 13.17, 18.75, 18.25|  
-|86|[Pierre Morice-Le Moel](https://www.worldcubeassociation.org/persons/2017MOEL01)|France|13.91|8.16, 22.22, 11.76, 14.06, DNF, 12.53, 13.88, 9.98, 11.67, 11.96, 8.95, 22.07|  
-|87|[Linus Axelsson](https://www.worldcubeassociation.org/persons/2017AXEL02)|Sweden|13.92|DNF, 17.74, 18.60, 11.46, 12.83, 19.96, 9.66, 10.49, 15.57, 10.70, 6.85, 12.23|  
-|88|[Jordan Théodore](https://www.worldcubeassociation.org/persons/2017THEO02)|France|13.96|17.83, 18.12, 5.64, 16.76, 19.92, 15.67, 12.14, 13.37, 9.97, 9.37, 15.59, 10.82|  
-|89|[Maxwell Williamson](https://www.worldcubeassociation.org/persons/2015WILL11)|USA|14.14|15.81, 16.19, 14.23, 17.46, 39.45, 9.61, 11.72, 12.00, 11.79, 11.38, 15.08, 15.72|  
-|90|[Ignacio Andres Inzunza Vega](https://www.worldcubeassociation.org/persons/2017VEGA01)|Chile|14.26|16.86, 16.70, 15.94, 13.51, 14.05, 12.24, 11.15, 13.79, 12.48, 12.24, 16.94, 14.81|  
-|91|[Elie Ramette](https://www.worldcubeassociation.org/persons/2016RAME06)|France|14.29|21.99, 9.09, 13.51, 12.82, 15.99, 13.07, 23.33, 13.94, 16.41, 8.79, 14.52, 11.58|  
-|92|[Anish Krishnan Ganesh](https://www.worldcubeassociation.org/persons/2016GANE02)|USA|14.32|15.22, 15.53, 22.25, 13.33, 13.77, 14.68, 14.42, 10.97, 11.49, 15.47, 12.42, 16.85|  
-|93|[Juliusz Czakon](https://www.worldcubeassociation.org/persons/2012CZAK01)|Poland|14.37|15.61, 14.21, 12.65, 8.80, 12.72, 21.86, 18.25, 13.44, 13.32, 7.46, 12.83, 21.82|  
+|76|[Guanchen Zhou (周冠辰)](https://www.worldcubeassociation.org/persons/2014ZHOU10)|China|13.56|15.96, 13.47, 23.22, 15.13, 8.01, 13.27, 10.52, 11.52, 12.92, 8.40, 17.98, 16.45|  
+|77|[Haolin Lu (路昊霖)](https://www.worldcubeassociation.org/persons/2017LUHA02)|China|13.60|24.86, 36.95, 12.14, 15.79, 8.79, 12.58, 8.27, 13.91, 14.41, 8.93, 10.72, 13.90|  
+|78|[Óscar Goñi Rodríguez](https://www.worldcubeassociation.org/persons/2016RODR54)|Spain|13.61|19.05, 19.87, 14.66, 13.34, 10.60, 9.82, 13.04, 10.92, 16.36, 11.22, 11.86, 15.00|  
+|79|[Ana Almeida](https://www.worldcubeassociation.org/persons/2017ALME03)|Portugal|13.67|20.89, 16.17, 11.93, 21.79, 14.87, 19.35, 11.80, 8.46, 7.63, 8.66, 10.27, 14.30|  
+|80|[Arvid Strömdahl](https://www.worldcubeassociation.org/persons/2018STRO04)|Sweden|13.69|13.34, 14.46, 10.21, 9.03, 14.78, 19.09, 14.44, 11.49, 27.38, 10.66, 13.39, 14.99|  
+|81|[Karol Poniedzielnik](https://www.worldcubeassociation.org/persons/2018PONI01)|Poland|13.70|29.72, DNF, 9.09, 12.21, 12.04, 13.13, 10.98, 10.70, 12.22, 12.28, 12.22, 11.49|  
+|82|[Agastya Bhatia](https://www.worldcubeassociation.org/persons/2016BHAT12)|USA|13.75|22.44, 22.93, 8.80, 17.00, 13.70, 12.80, 13.26, 12.01, 9.76, 5.39, 8.45, 19.23|  
+|83|[Luke Rumbaugh](https://www.worldcubeassociation.org/persons/2018RUMB01)|USA|13.75|20.02, 14.79, 15.52, 11.88, 17.43, 14.31, 17.10, 8.10, 13.04, 13.74, 6.44, 11.56|  
+|84|[Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02)|USA|13.77|13.38, 12.95, 13.67, 11.41, 16.64, 11.51, 13.43, 13.32, 10.10, 13.17, 18.75, 18.25|  
+|85|[Pierre Morice-Le Moel](https://www.worldcubeassociation.org/persons/2017MOEL01)|France|13.91|8.16, 22.22, 11.76, 14.06, DNF, 12.53, 13.88, 9.98, 11.67, 11.96, 8.95, 22.07|  
+|86|[Linus Axelsson](https://www.worldcubeassociation.org/persons/2017AXEL02)|Sweden|13.92|DNF, 17.74, 18.60, 11.46, 12.83, 19.96, 9.66, 10.49, 15.57, 10.70, 6.85, 12.23|  
+|87|[Jordan Théodore](https://www.worldcubeassociation.org/persons/2017THEO02)|France|13.96|17.83, 18.12, 5.64, 16.76, 19.92, 15.67, 12.14, 13.37, 9.97, 9.37, 15.59, 10.82|  
+|88|[Maxwell Williamson](https://www.worldcubeassociation.org/persons/2015WILL11)|USA|14.14|15.81, 16.19, 14.23, 17.46, 39.45, 9.61, 11.72, 12.00, 11.79, 11.38, 15.08, 15.72|  
+|89|[Ignacio Andres Inzunza Vega](https://www.worldcubeassociation.org/persons/2017VEGA01)|Chile|14.26|16.86, 16.70, 15.94, 13.51, 14.05, 12.24, 11.15, 13.79, 12.48, 12.24, 16.94, 14.81|  
+|90|[Elie Ramette](https://www.worldcubeassociation.org/persons/2016RAME06)|France|14.29|21.99, 9.09, 13.51, 12.82, 15.99, 13.07, 23.33, 13.94, 16.41, 8.79, 14.52, 11.58|  
+|91|[Anish Krishnan Ganesh](https://www.worldcubeassociation.org/persons/2016GANE02)|USA|14.32|15.22, 15.53, 22.25, 13.33, 13.77, 14.68, 14.42, 10.97, 11.49, 15.47, 12.42, 16.85|  
+|92|[Juliusz Czakon](https://www.worldcubeassociation.org/persons/2012CZAK01)|Poland|14.37|15.61, 14.21, 12.65, 8.80, 12.72, 21.86, 18.25, 13.44, 13.32, 7.46, 12.83, 21.82|  
 |=|[Chaz Gomes](https://www.worldcubeassociation.org/persons/2017GOME24)|USA|14.37|15.49, 19.33, 18.46, 15.87, 12.53, 16.46, 14.53, 9.61, 11.17, 14.38, 13.00, 11.76|  
-|95|[Jaime Aguilera](https://www.worldcubeassociation.org/persons/2016AGUI15)|Chile|14.39|10.47, 14.19, 7.21, 10.21, 15.86, 18.62, 11.69, 29.39, 14.30, 11.20, 21.41, 15.91|  
-|96|[Douglas Toyne](https://www.worldcubeassociation.org/persons/2015TOYN01)|Australia|14.43|14.57, 17.93, 12.05, 17.88, 13.15, 15.91, 8.66, 13.06, 16.00, 12.34, 19.43, 11.39|  
-|97|[Italo Chacón Torres](https://www.worldcubeassociation.org/persons/2015TORR14)|Peru|14.45|15.70, 10.56, 23.15, 14.36, 12.79, 12.90, 14.45, 21.33, 13.40, 8.28, 11.23, 17.77|  
-|98|[Tobiasz Gromotka](https://www.worldcubeassociation.org/persons/2014GROM01)|Poland|14.52|5.83, 18.03, 19.22, 18.48, 16.77, 13.29, 13.14, 12.55, 14.22, 11.81, 13.87, 13.08|  
-|99|[Luke Speechley](https://www.worldcubeassociation.org/persons/2015SPEE01)|Australia|14.53|15.05, 20.42, 17.53, 14.40, 18.46, 3.89, 15.65, 14.58, 11.60, 13.04, 14.45, 10.54|  
-|100|[Carlos Cubillos](https://www.worldcubeassociation.org/persons/2017CUBI01)|Chile|14.63|20.40, 14.21, 13.81, 17.58, 15.07, 17.93, 20.79, 9.49, 13.17, 13.08, 10.55, 10.46|  
-|101|[Julián Mauricio Valentín Sánchez](https://www.worldcubeassociation.org/persons/2018SANC21)|Colombia|14.69|23.09, 17.97, 11.16, 9.00, 15.53, 16.38, 15.18, 19.58, 21.55, 9.08, 9.89, 10.62|  
-|102|[Alessandro Calanna](https://www.worldcubeassociation.org/persons/2017CALA07)|Italy|14.74|12.10, 20.76, 15.05, 10.30, 14.09, 12.19, 11.93, 9.10, 21.78, DNF, 14.06, 15.15|  
-|103|[Cole Summerhays](https://www.worldcubeassociation.org/persons/2015SUMM01)|USA|14.77|34.96, 16.90, 14.78, 13.94, 16.36, 8.73, 10.65, 10.87, 11.38, 13.90, 19.12, 19.82|  
-|104|[Chang Liu (刘畅)](https://www.worldcubeassociation.org/persons/2017LIUC06)|China|14.79|19.50, 14.47, 14.47, 16.72, 9.49, 15.16, 16.96, 16.13, 9.66, DNF, 11.77, 13.01|  
-|105|[Jędrzej Majdan](https://www.worldcubeassociation.org/persons/2014MAJD01)|Poland|14.81|16.83, 9.97, 15.30, 15.13, 13.75, 8.30, 14.00, 13.59, 21.88, 16.32, 18.50, 14.74|  
-|106|[Adrian Niemiec](https://www.worldcubeassociation.org/persons/2016NIEM01)|Poland|14.87|23.95, 11.39, 19.11, 19.12, 15.19, 12.72, 11.87, 15.09, 10.37, 19.83, 12.06, 12.34|  
-|107|[Jinzhou Huang (黄金洲)](https://www.worldcubeassociation.org/persons/2017HUAN34)|China|14.88|15.90, 19.97, 15.07, 8.56, 18.29, 15.01, DNF, 8.27, 16.00, 8.91, 16.84, 14.27|  
-|108|[Nicholas Iperti](https://www.worldcubeassociation.org/persons/2018IPER01)|Italy|14.91|9.15, 14.21, 15.22, 9.20, 17.83, 15.31, 10.16, 12.55, 18.82, 20.43, 15.38, DNF|  
-|109|[Sebastian Eguez](https://www.worldcubeassociation.org/persons/2016EGUE01)|Bolivia|15.02|12.49, 16.15, 7.87, 14.37, 14.70, 12.70, 11.01, DNF, 16.29, 28.18, 12.89, 11.41|  
-|110|[Tianxing Wang (王天行)](https://www.worldcubeassociation.org/persons/2010WANG54)|China|15.02|22.20, DNF, 14.12, 15.71, 6.49, 19.12, 15.23, 20.55, 11.77, 8.83, 12.59, 10.10|  
-|111|[Sara Waniołka](https://www.worldcubeassociation.org/persons/2013WANI01)|Poland|15.03|18.52, 15.41, 18.66, 17.96, 16.26, 18.55, 10.47, 15.41, 10.94, 11.55, 8.36, 15.22|  
-|112|[Ivan Kovalev](https://www.worldcubeassociation.org/persons/2017KOVA07)|Russia|15.13|27.35, 16.27, 10.13, 16.23, 15.18, 9.34, 18.16, 10.71, 13.48, 14.71, 11.46, 24.95|  
-|113|[Wong Tak Man (黃德文)](https://www.worldcubeassociation.org/persons/2015MANW01)|Hong Kong|15.13|25.48, 18.83, 26.79, 16.31, 11.35, 10.72, 10.47, 9.08, 13.25, 13.00, 11.09, 20.79|  
-|114|[Tong Fa (法童)](https://www.worldcubeassociation.org/persons/2016FATO01)|China|15.25|25.51, 42.07, 16.20, 12.54, 12.47, 21.70, 15.73, 13.35, 11.65, 13.63, 9.71, 9.65|  
-|115|[Charlie Scholefield](https://www.worldcubeassociation.org/persons/2016SCHO07)|Australia|15.28|17.13, 14.11, 11.31, 13.19, 17.98, 16.43, 13.09, 15.27, 18.28, 18.01, 11.36, 16.27|  
-|116|[Ximing Chen (陈玺鸣)](https://www.worldcubeassociation.org/persons/2016CHEN22)|China|15.35|33.85, 31.78, 15.02, 8.93, 11.77, 15.48, 16.42, 14.43, 11.67, 14.78, 13.19, 8.31|  
-|117|[Cade Carter](https://www.worldcubeassociation.org/persons/2018CART03)|USA|15.35|16.05, 16.34, 12.57, 20.24, 17.00, 13.06, 14.43, 17.58, 17.35, 11.72, 12.41, 16.70|  
-|118|[Alex Boyle](https://www.worldcubeassociation.org/persons/2014BOYL01)|Australia|15.36|17.44, 17.00, 15.56, 15.27, 13.27, 12.16, 17.25, 13.36, 13.33, 16.77, 15.13, 16.68|  
-|119|[Nicolas Lattarulo](https://www.worldcubeassociation.org/persons/2015LATT01)|USA|15.43|18.67, 15.70, 21.57, 15.23, 15.50, 7.29, 19.06, 19.24, 16.38, 10.16, 14.99, 9.33|  
-|120|[You-Hsiang Lu (呂祐翔)](https://www.worldcubeassociation.org/persons/2016LUYO01)|Taiwan|15.58|13.56, DNF, 14.92, 9.15, 20.18, 17.28, 8.36, 7.86, 10.58, 16.96, 27.27, 17.57|  
-|121|[Epari Satwik](https://www.worldcubeassociation.org/persons/2015RAOS01)|India|15.71|21.21, 20.74, 18.31, 17.90, 6.43, 18.04, 7.62, 11.68, 7.36, 18.21, 19.08, 18.17|  
-|122|[Amogh Umesh](https://www.worldcubeassociation.org/persons/2013UMES01)|India|15.75|10.16, 12.91, 11.86, 11.28, 14.65, 15.09, 21.88, 22.74, 17.70, 11.72, 17.71, DNF|  
-|123|[Maciej Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL01)|Poland|15.77|18.03, 17.83, 16.38, 13.52, 13.54, 21.16, 9.22, 16.55, 18.40, 14.56, 11.90, 17.00|  
-|124|[Cristobal Urrutia Reyes](https://www.worldcubeassociation.org/persons/2017REYE01)|Chile|15.84|20.03, 18.04, 23.63, 12.23, 15.43, 15.32, 7.35, 11.35, 20.57, 15.00, 18.85, 11.57|  
-|125|[Farid Brazales Flores](https://www.worldcubeassociation.org/persons/2018FLOR01)|Ecuador|15.85|20.32, 18.70, 16.79, DNF, 22.38, 14.57, 14.99, 9.25, 11.65, 15.20, 11.61, 12.32|  
-|126|[Jillian Ylagan](https://www.worldcubeassociation.org/persons/2015YLAG02)|USA|15.91|DNF, 16.92, 17.29, 16.69, 17.91, 13.96, 16.09, 14.07, 14.04, 12.77, 10.13, 19.39|  
-|127|[Jon Garretson](https://www.worldcubeassociation.org/persons/2018GARR05)|USA|15.94|19.20, 13.95, 21.62, 15.27, 18.02, 14.28, 16.92, 13.58, 14.78, 17.14, 16.23, 13.57|  
-|128|[Carter Paden](https://www.worldcubeassociation.org/persons/2016PADE01)|USA|16.00|13.76, DNF, 20.19, 24.41, 16.18, 13.38, 17.07, 13.40, 8.27, 11.42, 14.96, 15.18|  
-|129|[Robert Drozdek](https://www.worldcubeassociation.org/persons/2015DROZ01)|Poland|16.02|13.13, 18.62, 15.64, 12.24, 14.75, 11.50, 12.59, 18.07, 21.87, 18.75, 16.83, 19.53|  
-|130|[Pedro Cortes Garrido](https://www.worldcubeassociation.org/persons/2016GARR06)|Chile|16.03|24.23, 23.25, 11.73, 18.78, 13.54, 14.04, 11.76, 8.67, 17.05, 17.28, 19.35, 13.47|  
-|131|[Guanghua Liang (梁光华)](https://www.worldcubeassociation.org/persons/2016LIAN23)|China|16.04|DNF, 28.54, 17.29, 12.43, 18.54, 12.78, 17.11, 14.29, 13.07, 10.67, 14.95, 11.41|  
-|132|[Benjamin Ashman](https://www.worldcubeassociation.org/persons/2016ASHM01)|Canada|16.06|12.26, 21.29, 10.74, 22.39, 14.89, 17.21, 14.62, 13.68, 9.69, 7.66, DNF, 23.82|  
-|133|[Daniel An](https://www.worldcubeassociation.org/persons/2017ANDA04)|Finland|16.08|16.33, 10.59, DNF, 12.04, 23.00, 15.81, 18.36, 12.99, 12.02, 13.30, 13.19, 23.78|  
-|134|[Alexis Olivares Miranda](https://www.worldcubeassociation.org/persons/2016MIRA05)|Peru|16.09|19.73, 18.50, 12.15, 6.93, 14.68, 18.80, 8.46, 11.41, DNF, 23.50, 12.71, 20.91|  
-|135|[Arturo Pinto](https://www.worldcubeassociation.org/persons/2018PINT02)|Bolivia|16.10|8.25, 14.13, DNF, 21.55, 17.27, 16.67, 19.70, 13.73, 14.73, 13.45, 15.21, 14.57|  
-|136|[Kristians Kisis](https://www.worldcubeassociation.org/persons/2018KISI01)|Latvia|16.12|29.85, 15.89, 18.07, 16.78, 16.49, 13.86, 18.34, 13.77, 12.76, 12.48, 13.90, 21.38|  
-|137|[Tyler Ayers](https://www.worldcubeassociation.org/persons/2016AYER01)|USA|16.15|44.83, DNF, 13.34, 12.73, 9.10, 17.21, 14.80, 14.45, 12.12, 12.20, 9.01, 10.67|  
-|138|[Max Olschok](https://www.worldcubeassociation.org/persons/2010OLSC01)|Germany|16.25|20.41, 14.53, DNF, 21.65, 11.68, 12.21, 14.38, 16.09, 12.31, 21.18, 15.08, 14.63|  
-|139|[Juan Sebastian Serna Cobo](https://www.worldcubeassociation.org/persons/2016COBO01)|Colombia|16.28|12.83, 21.98, 21.02, 12.73, 14.48, 13.31, 14.36, 24.48, 15.58, 19.16, 13.39, 16.71|  
-|140|[Yuhang Deng (邓宇航)](https://www.worldcubeassociation.org/persons/2014DENG02)|China|16.43|32.68, 16.79, 11.39, 14.53, 23.13, 17.89, 23.08, 17.60, 8.21, 13.55, 12.39, 13.99|  
-|141|[Quinn Mierlak](https://www.worldcubeassociation.org/persons/2014MIER01)|USA|16.45|16.21, 25.67, 24.15, 19.11, 15.74, 13.68, 14.93, 19.87, 10.17, 16.04, 9.53, 14.63|  
-|142|[Manning Chen](https://www.worldcubeassociation.org/persons/2015CHEN96)|USA|16.55|11.92, 14.58, 12.58, 11.49, 15.77, DNF, 14.79, 15.55, 12.60, 12.68, 32.39, 22.61|  
-|143|[Pranav Krishna](https://www.worldcubeassociation.org/persons/2017KRIS09)|India|16.56|22.36, 22.82, 14.50, 18.12, 15.30, 12.65, 14.69, 17.63, 17.19, 18.33, 14.81, 12.25|  
-|144|[Max Bradley-McFawn](https://www.worldcubeassociation.org/persons/2018BRAD06)|Australia|16.57|16.53, 20.75, 12.34, 10.52, 15.13, 21.85, DNF, 7.17, 14.33, 18.74, 19.39, 16.11|  
-|145|[Yixiao Luo (罗怡枭)](https://www.worldcubeassociation.org/persons/2016LUOY03)|China|16.58|10.30, 11.75, 20.98, 17.98, 20.34, 23.55, 19.60, 22.67, 14.46, 13.69, 13.24, 11.06|  
-|146|[Nguyễn Hữu Minh](https://www.worldcubeassociation.org/persons/2016MINH04)|Vietnam|16.58|20.49, 14.81, 22.74, 17.81, 11.60, 10.97, 17.16, 16.05, 13.07, 14.77, 17.32, 25.13|  
-|147|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|16.60|16.02, 18.00, 19.05, 13.76, 4.45, 25.03, 13.99, 12.81, 11.82, 22.32, DNF, 13.24|  
-|148|[David Fevre](https://www.worldcubeassociation.org/persons/2016FEVR01)|Chile|16.63|21.37, 20.04, 7.31, 18.28, 16.72, 21.34, 16.12, 19.72, 13.18, 15.16, 14.06, 11.72|  
-|149|[Regan Yan](https://www.worldcubeassociation.org/persons/2016YANR01)|Australia|16.67|18.80, 15.45, 18.90, 21.13, 17.40, 16.52, 16.35, 8.05, 11.98, 13.71, DNF, 16.50|  
-|150|[Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01)|Korea|16.77|17.11, 13.28, 20.58, 17.40, 19.16, 18.55, 18.59, 24.06, 12.44, 12.90, 15.62, 14.46|  
-|151|[Mario Alejandro De León Godinez](https://www.worldcubeassociation.org/persons/2017GODI02)|Guatemala|16.79|15.71, 19.73, 14.21, 13.29, 11.00, 24.80, 13.61, 19.06, 24.13, 12.76, 17.01, 18.35|  
-|152|[Joaquin Ortega Del Aguila](https://www.worldcubeassociation.org/persons/2016AGUI14)|Peru|16.80|13.03, 8.71, 17.60, 9.33, DNF, 12.90, 12.00, 9.08, 31.53, 22.42, 15.47, 24.66|  
-|153|[Cy Kurd](https://www.worldcubeassociation.org/persons/2017KURD01)|USA|16.88|12.91, 12.78, 13.03, 12.49, 19.03, 20.91, 21.88, 27.49, 15.48, 21.27, 19.00, 9.91|  
-|154|[Leszek Czech](https://www.worldcubeassociation.org/persons/2012CZEC01)|Poland|16.90|20.18, 30.28, 16.86, 9.75, 10.90, 15.27, 24.41, 16.18, 14.55, 13.62, 20.20, 16.82|  
-|155|[Jude Langhout](https://www.worldcubeassociation.org/persons/2018LANG09)|USA|16.92|25.49, 22.57, 18.29, 11.12, 21.64, 12.56, 20.20, 16.76, 11.83, 11.90, 14.60, 18.81|  
-|156|[Joseph Hirsch](https://www.worldcubeassociation.org/persons/2018HIRS01)|USA|16.92|17.29, 16.70, 16.16, DNF, 17.88, 22.64, 18.67, 14.20, 18.70, 11.30, 14.08, 12.92|  
-|157|[Tristan Lezeau](https://www.worldcubeassociation.org/persons/2018LEZE01)|France|16.98|12.40, 12.48, 17.98, 24.01, 12.59, 24.40, 19.48, 18.69, 18.57, 13.73, 14.88, 17.34|  
-|158|[Charles Vallade](https://www.worldcubeassociation.org/persons/2018VALL01)|France|17.04|26.71, 24.10, 15.28, 15.65, 10.64, 12.07, 13.42, 25.91, 19.31, 14.30, 14.34, 15.99|  
-|159|[Manav Mody](https://www.worldcubeassociation.org/persons/2013MODY01)|India|17.11|32.30, 10.34, 14.55, 14.47, 19.61, 15.74, 16.32, 18.62, 14.88, 16.19, 23.37, 17.32|  
-|160|[Daniel Freymann](https://www.worldcubeassociation.org/persons/2013FREY01)|Luxembourg|17.16|DNF, 16.21, 21.97, 14.38, 17.25, 13.68, 13.02, 25.01, 15.31, 14.12, 16.47, 17.17|  
-|161|[Jun-Ning Yueh (葉鈞寧)](https://www.worldcubeassociation.org/persons/2017YUEH02)|Taiwan|17.17|17.07, 17.40, 17.68, 20.77, 13.77, 13.90, 10.60, 22.19, 17.67, 13.21, 18.03, DNF|  
-|162|[Ilham Ramadhan](https://www.worldcubeassociation.org/persons/2010RAMA08)|Indonesia|17.29|24.58, 24.45, 14.42, 38.71, 17.41, 17.35, 25.44, 9.74, 12.53, 12.23, 9.87, 14.61|  
-|163|[Johan George Mattapallil](https://www.worldcubeassociation.org/persons/2014MATT02)|India|17.41|20.99, 22.77, 13.66, 14.63, 15.41, 11.72, 17.38, 27.53, 17.22, 17.23, 20.36, 14.44|  
-|164|[Maksymilian Godula](https://www.worldcubeassociation.org/persons/2014GODU02)|Poland|17.41|12.80, 17.21, 21.70, 19.26, 14.53, 24.65, 18.58, 16.36, 13.76, 20.58, 19.33, 10.38|  
-|165|[Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01)|Poland|17.45|19.94, 14.68, 21.53, 18.03, 14.10, 15.03, 19.87, 28.42, 9.68, 12.84, 19.13, 19.34|  
-|166|[Max Boettinger](https://www.worldcubeassociation.org/persons/2014BOET01)|USA|17.47|23.50, 23.77, 11.89, 14.21, 7.35, 6.38, 12.20, 17.84, 26.21, 22.76, 28.67, 15.01|  
-|167|[Matias Concha](https://www.worldcubeassociation.org/persons/2016CONC02)|Chile|17.48|19.39, 18.60, 28.10, 16.52, 22.23, 12.52, 18.07, 15.36, 17.72, 12.91, 15.70, 18.25|  
-|168|[Clément Pan](https://www.worldcubeassociation.org/persons/2017PANC01)|France|17.50|20.51, 13.19, 12.91, 21.36, 13.88, 21.95, 24.66, 23.21, 8.92, 15.16, 15.32, 17.50|  
-|169|[Abdul Qadir](https://www.worldcubeassociation.org/persons/2014QADI01)|India|17.54|25.13, 17.14, 14.78, 8.90, 12.62, 12.93, 20.17, 24.11, 20.71, 10.88, 28.89, 16.89|  
-|170|[Aleix Bossa Gonzàlez](https://www.worldcubeassociation.org/persons/2016GONZ56)|Andorra|17.57|16.91, 14.86, 25.94, 12.62, 12.52, 19.33, 14.87, 15.78, 28.67, 11.88, 14.19, DNF|  
-|171|[Quentin Bourgeois](https://www.worldcubeassociation.org/persons/2017BOUR02)|France|17.61|13.89, 17.98, 17.73, 12.05, 12.37, 23.91, 12.16, 21.91, 17.19, 15.07, 23.85, 24.86|  
-|172|[Alex Niedan-Olsen](https://www.worldcubeassociation.org/persons/2016NIED01)|USA|17.79|31.84, 21.27, 16.56, 17.86, 25.75, 13.56, 12.28, 26.04, 14.28, 11.74, 15.74, 14.54|  
-|173|[Santiago Reyes Idarraga](https://www.worldcubeassociation.org/persons/2018IDAR01)|Colombia|17.93|11.37, 14.05, 18.85, 14.80, DNF, 16.42, 17.87, 20.08, 29.28, 13.60, 16.70, 17.64|  
-|174|[Miguel Berganza](https://www.worldcubeassociation.org/persons/2017BERG04)|El Salvador|17.96|20.95, DNF, 12.99, 13.22, 21.93, 15.49, 17.91, 19.61, 15.76, 22.95, 17.73, 14.09|  
-|175|[Karman Singh](https://www.worldcubeassociation.org/persons/2015SING13)|India|17.97|21.35, 22.18, 5.55, 19.04, 14.26, 11.75, 18.96, 13.88, DNF, 15.91, 22.23, 20.09|  
-|176|[Abhijeet Singh](https://www.worldcubeassociation.org/persons/2014SING25)|India|18.07|44.01, 35.69, 19.16, 19.89, 14.31, 14.76, 10.16, 19.57, 11.08, 13.96, 14.58, 17.65|  
-|177|[Nan Bai (柏楠)](https://www.worldcubeassociation.org/persons/2011BAIN01)|China|18.19|10.97, 15.11, 34.88, 17.05, 16.63, 23.31, 16.18, 16.28, 23.94, 12.91, 20.04, 20.45|  
-|178|[Daniil Ilyich](https://www.worldcubeassociation.org/persons/2014ILYI01)|Belarus|18.20|19.32, 27.58, 14.53, 18.75, 19.39, 19.80, 14.08, 23.01, 19.88, 13.19, 14.95, 18.29|  
-|179|[Nico Groh](https://www.worldcubeassociation.org/persons/2009GROH01)|Germany|18.23|26.03, 24.34, 16.94, 16.47, 13.94, 18.28, 23.28, 11.30, 15.03, 19.68, 17.77, 16.61|  
-|180|[Piotr Sawecki](https://www.worldcubeassociation.org/persons/2018SAWE01)|Poland|18.25|10.55, 34.25, 22.60, 14.01, 24.20, 12.41, 19.14, 12.68, 10.30, 19.36, 13.33, 35.68|  
-|181|[Isaac James Dunn](https://www.worldcubeassociation.org/persons/2017DUNN03)|USA|18.28|19.03, 16.60, 22.30, 16.97, 12.00, 17.76, 14.27, 14.47, 25.48, 16.63, 23.82, 20.92|  
-|182|[Gavin Johnson](https://www.worldcubeassociation.org/persons/2016JOHN14)|USA|18.33|15.79, 26.87, 27.50, 10.17, 14.05, 16.97, 14.28, 27.24, 16.83, 15.47, 14.38, 21.44|  
-|183|[Andrew D. Pierce](https://www.worldcubeassociation.org/persons/2018PIER03)|USA|18.40|DNF, 16.06, 16.69, 8.96, 28.50, 19.14, 22.86, 20.30, 10.95, 18.13, 11.78, 19.61|  
-|184|[Ali Aksu](https://www.worldcubeassociation.org/persons/2016AKSU01)|USA|18.40|13.82, DNF, 16.02, 25.58, 6.30, 25.17, 19.28, 26.44, 11.73, 13.78, 21.77, 10.44|  
-|185|[Christopher Parker](https://www.worldcubeassociation.org/persons/2014PARK05)|USA|18.53|13.36, 17.02, 13.05, 19.33, 16.47, 16.09, 15.41, 29.35, 19.93, 28.93, 13.09, 25.63|  
-|186|[Nahckjoon Kim](https://www.worldcubeassociation.org/persons/2011KIMN01)|USA|18.53|14.58, 14.08, 25.59, 17.47, 27.75, 7.43, 12.23, 14.29, 13.17, DNF, 21.12, 25.05|  
-|187|[Edoardo Ricci](https://www.worldcubeassociation.org/persons/2017RICC03)|Italy|18.59|DNF, 38.59, 16.97, 19.41, 17.42, 13.05, 14.42, 10.63, 10.74, 22.75, 14.08, 18.44|  
-|188|[Martin Smolarczyk](https://www.worldcubeassociation.org/persons/2009SMOL01)|Germany|18.60|26.36, 22.53, 18.94, 14.33, 14.47, 18.18, 18.08, 14.88, 12.47, 22.13, 19.59, 22.83|  
-|189|[Kai Park](https://www.worldcubeassociation.org/persons/2016PARK01)|USA|18.63|14.05, 10.09, 8.79, 15.82, 10.57, DNF, 39.01, 14.02, 17.87, 14.23, 39.46, 11.13|  
-|190|[Raghav Agrawal](https://www.worldcubeassociation.org/persons/2016AGRA04)|India|18.65|22.78, DNF, 25.05, 28.87, 8.78, 19.16, 12.84, 19.89, 14.53, 12.33, 13.62, 17.38|  
-|191|[Joseph Ragona](https://www.worldcubeassociation.org/persons/2014RAGO02)|United Kingdom|18.66|20.84, 6.99, 26.24, 14.09, 16.75, 18.49, 21.03, 17.04, 14.86, 17.53, 30.80, 19.75|  
-|192|[Yankun Qiu (邱焱坤)](https://www.worldcubeassociation.org/persons/2010QIUY01)|China|18.84|19.24, 20.55, 17.59, 14.68, 14.41, 28.31, 18.18, 23.15, 19.93, 20.91, 18.02, 16.16|  
-|193|[Arghadeep Mukherjee](https://www.worldcubeassociation.org/persons/2014MUKH04)|India|18.93|19.24, 7.92, 17.53, 20.73, 8.28, 21.21, 15.53, 19.18, 21.59, 18.95, 27.05, 39.96|  
-|194|[Ángel Arráez Castellanos](https://www.worldcubeassociation.org/persons/2016CAST28)|Spain|18.95|20.23, 27.72, 14.52, 21.18, 16.38, 13.05, 15.10, 15.86, 18.39, 27.87, 19.78, 20.29|  
-|195|[Tevin Hagstedt](https://www.worldcubeassociation.org/persons/2016HAGS01)|Sweden|18.98|14.57, 16.88, DNF, 16.43, 23.97, 13.86, 16.70, 15.44, 18.29, 15.71, 18.97, 32.83|  
-|196|[Yongqiang Yan (闫永强)](https://www.worldcubeassociation.org/persons/2018YANY04)|China|19.02|16.46, 20.09, 19.28, 14.21, DNF, 18.46, 15.47, 32.47, 17.41, 8.96, 17.41, 18.94|  
-|197|[Bastian Moises Castillo Catalán](https://www.worldcubeassociation.org/persons/2017CATA03)|Chile|19.04|26.39, 21.51, 16.33, 53.61, 29.67, 10.51, 15.16, 19.27, 11.64, 15.12, 17.22, 18.04|  
-|198|[Zengchu Wu (吴增初)](https://www.worldcubeassociation.org/persons/2014WUZE01)|China|19.04|26.39, 29.02, 11.23, 8.52, 22.06, 21.40, 37.79, 18.29, 12.21, 11.31, 20.25, 18.27|  
-|199|[Nikhil Banerjee](https://www.worldcubeassociation.org/persons/2014BANE03)|India|19.12|18.21, 13.95, 20.36, 19.81, 21.78, 15.00, 23.61, 17.35, 20.29, 24.36, 19.11, 15.68|  
-|200|[Théo Dupuis](https://www.worldcubeassociation.org/persons/2017DUPU01)|France|19.19|17.77, 23.26, 22.85, DNF, 17.03, 14.56, 13.30, 20.24, 13.35, 22.02, 17.25, 23.52|  
-|201|[Emik Lakunishok](https://www.worldcubeassociation.org/persons/2016LAKU01)|Sweden|19.50|16.83, 19.53, 22.86, 15.00, DNF, 13.66, 30.38, 18.24, 14.95, 17.77, 15.74, 23.65|  
-|202|[Sumit Sarkar](https://www.worldcubeassociation.org/persons/2009SARK01)|India|19.56|26.36, 24.81, 17.09, 11.72, 30.63, 11.77, 13.91, 16.68, 13.61, 15.71, 25.02, DNF|  
-|203|[Yipin Lü (吕一品)](https://www.worldcubeassociation.org/persons/2015LYIP01)|China|19.59|20.52, 25.27, 17.83, 20.49, 16.20, 13.86, 29.37, 18.42, 23.50, 15.90, 17.72, 20.00|  
-|204|[Daniel Brojerski](https://www.worldcubeassociation.org/persons/2013BROJ01)|Poland|19.61|20.46, DNF, 15.03, 27.85, 20.33, 25.21, 15.03, 13.63, 12.70, 21.04, 17.33, 20.16|  
-|205|[Isabella Bosia](https://www.worldcubeassociation.org/persons/2009BOSI01)|Italy|19.70|13.25, 20.15, 18.80, 14.95, 14.07, 21.31, 22.43, 17.94, 18.77, 25.02, 29.53, 23.53|  
-|206|[Muthu Kannan](https://www.worldcubeassociation.org/persons/2017KANN03)|India|19.78|31.82, 30.61, 21.29, 20.03, 26.10, 21.64, 15.65, 18.06, 11.05, 14.46, 14.01, 15.94|  
-|207|[Alex Ridley](https://www.worldcubeassociation.org/persons/2015RIDL01)|USA|19.82|26.30, 30.35, 23.27, 19.03, 13.63, 15.09, 7.69, 15.88, 20.58, 16.80, DNF, 17.27|  
-|208|[Cristóbal Soto](https://www.worldcubeassociation.org/persons/2016SOTO09)|Chile|19.97|17.17, 18.01, 18.66, 12.19, 16.47, 18.69, 13.42, 34.19, 14.40, 36.51, 12.18, DNF|  
-|209|[Simone Cutrona](https://www.worldcubeassociation.org/persons/2017CUTR01)|Italy|20.03|18.11, 20.96, 18.57, 16.29, 24.39, 16.78, 18.43, 13.49, 14.89, 31.58, 31.60, 20.27|  
-|210|[Mircea Crisan Córdoba](https://www.worldcubeassociation.org/persons/2017CORD08)|Spain|20.15|15.99, 36.29, 13.49, DNF, 29.39, 15.44, 14.87, 12.55, 16.44, 19.92, 27.13, 7.67|  
-|211|[Zhiyuan Chen (陈智源)](https://www.worldcubeassociation.org/persons/2015CHEZ01)|China|20.19|24.50, 18.83, 21.73, 23.44, 23.28, 30.60, DNF, 13.86, 14.92, 17.11, 13.66, 9.24|  
-|212|[Sandro Ballad](https://www.worldcubeassociation.org/persons/2008BALL02)|Philippines|20.20|23.33, 14.94, 17.94, 18.28, 19.69, 22.84, 32.55, 14.96, 19.15, 27.36, 21.94, 16.50|  
-|213|[Ángel Marqués García](https://www.worldcubeassociation.org/persons/2016GARC25)|Spain|20.21|30.02, 13.51, 37.03, 29.61, 13.97, 17.22, 15.69, 16.96, 14.12, 18.44, 25.15, 20.89|  
-|214|[Kaspar Norberg](https://www.worldcubeassociation.org/persons/2015NORB01)|Sweden|20.31|16.03, 17.44, 11.72, 31.70, 22.06, 39.28, DNF, 14.69, 11.56, 14.19, 8.42, 24.41|  
-|215|[Benjamin Calderón](https://www.worldcubeassociation.org/persons/2016CALD02)|Chile|20.31|25.40, 23.26, 22.48, 27.90, 24.23, 18.10, 13.08, 13.10, 12.93, 18.47, DNF, 17.10|  
-|216|[Nathan Weber](https://www.worldcubeassociation.org/persons/2014WEBE02)|USA|20.39|36.61, 19.78, 18.90, 19.69, 20.75, 57.05, 41.11, 9.96, 8.77, 13.63, 11.20, 12.22|  
-|217|[Marcello Molisse](https://www.worldcubeassociation.org/persons/2016MOLI02)|USA|20.39|31.64, 31.33, 19.34, 26.61, 19.49, 20.42, 32.58, 13.11, 12.96, 16.85, 10.75, 12.18|  
-|218|[Aditya Anand Rao](https://www.worldcubeassociation.org/persons/2014RAOA01)|India|20.51|22.03, 38.15, 10.54, 18.89, 27.10, 10.96, 25.76, 17.61, 12.12, 23.51, 32.96, 14.19|  
-|219|[Joshua Satterfield](https://www.worldcubeassociation.org/persons/2006SATT01)|USA|20.56|51.71, 12.17, 27.56, 28.79, 17.22, 15.56, 17.02, 23.59, 20.33, 28.25, 10.97, 15.13|  
-|220|[Lucas Maillard](https://www.worldcubeassociation.org/persons/2016MAIL01)|France|20.58|24.05, 18.95, 23.55, 18.51, 17.79, 14.12, 16.19, 26.24, 25.94, 17.48, 20.30, 23.08|  
-|221|[Gabriel Francisco Lis Castiblanco](https://www.worldcubeassociation.org/persons/2018CAST24)|Colombia|20.60|18.27, 11.46, 11.78, 20.02, 21.45, DNF, 19.60, 18.99, 19.84, 26.10, 19.88, 30.11|  
-|222|[Thierry Boisivon](https://www.worldcubeassociation.org/persons/2011BOIS01)|France|20.69|15.03, 17.36, 25.08, 13.05, 18.56, 10.66, 11.14, 14.65, 16.71, DNF, 31.28, 44.06|  
-|223|[Taufan Aditomo](https://www.worldcubeassociation.org/persons/2010ADIT01)|Indonesia|20.74|21.61, 21.13, 15.33, 19.11, 35.81, 15.40, 15.94, 22.94, 19.41, 16.67, 19.42, DNF|  
-|224|[Sam Viju Varghese](https://www.worldcubeassociation.org/persons/2016VARG01)|India|20.82|27.84, 21.99, 17.34, 17.10, 24.31, 28.30, 21.29, 16.74, 20.03, 20.36, 21.20, 16.33|  
-|225|[Raul Esteo](https://www.worldcubeassociation.org/persons/2016ESTE03)|Spain|20.84|18.72, 21.91, 15.07, 18.32, 17.32, 20.70, 40.33, 16.48, 22.93, 27.54, 12.19, 29.45|  
-|226|[Jacob Rosen](https://www.worldcubeassociation.org/persons/2015ROSE03)|USA|20.99|19.13, 28.82, 19.40, 28.73, 48.45, 27.55, 15.27, 15.18, 15.95, 17.04, 22.79, 10.95|  
-|227|[Jacob Hillner](https://www.worldcubeassociation.org/persons/2016HILL08)|USA|21.14|32.29, 21.00, 27.32, 20.91, 18.39, 17.79, 21.93, 30.46, 22.08, 14.41, 13.90, 17.14|  
-|228|[Canon King](https://www.worldcubeassociation.org/persons/2018KING04)|USA|21.15|19.49, 30.07, 18.88, 24.05, 22.62, 14.13, 26.90, 17.62, 18.96, 14.70, 19.28, 28.95|  
-|229|[Dev Ravindra Munvar](https://www.worldcubeassociation.org/persons/2015MUNV01)|India|21.15|26.84, 36.99, 24.64, 17.93, 24.00, 27.72, 54.05, 11.63, 14.61, 14.32, 12.83, 11.38|  
-|230|[Oksana Ruzaeva](https://www.worldcubeassociation.org/persons/2010RUZA01)|Russia|21.18|22.02, DNF, 15.09, 23.33, 18.34, 17.94, 22.71, 32.19, 22.02, 14.59, 19.55, 18.61|  
-|231|[Aurelien Marion](https://www.worldcubeassociation.org/persons/2017MARI20)|Belgium|21.32|14.03, 20.35, 23.61, 14.28, 15.07, 23.82, 28.62, 30.50, 31.54, 13.01, 22.95, 19.94|  
-|232|[Mitch Smoot](https://www.worldcubeassociation.org/persons/2011SMOO01)|USA|21.36|14.11, 14.17, 39.89, 11.29, DNF, 27.96, 20.41, 17.71, 16.89, 15.21, 22.08, 25.20|  
-|233|[Vel Raam](https://www.worldcubeassociation.org/persons/2013RAAM01)|India|21.39|18.34, 25.55, 29.57, 20.52, 17.03, DNF, 16.92, 12.29, 20.64, 20.26, 21.89, 23.15|  
-|234|[Mustafa Kafar](https://www.worldcubeassociation.org/persons/2015KAFA01)|Turkey|21.74|13.68, 30.64, 45.16, 17.25, 14.42, 17.19, 30.15, 21.26, 11.23, 20.51, 17.03, 35.24|  
-|235|[Anton Niinikoski](https://www.worldcubeassociation.org/persons/2018NIIN01)|Finland|21.93|14.01, 20.44, 14.25, 21.80, 26.30, 16.81, 39.42, 20.68, 27.03, 26.76, 18.59, 26.64|  
-|236|[Tamás Kelemen](https://www.worldcubeassociation.org/persons/2009KELE01)|Hungary|22.05|21.27, 22.88, 25.66, 22.41, 17.65, 15.52, 18.18, 18.09, 25.83, 23.44, 25.78, 25.13|  
-|237|[Jaineel Joshi](https://www.worldcubeassociation.org/persons/2014JOSH04)|India|22.10|32.17, 17.76, 12.73, DNF, 21.44, 19.31, 16.15, 23.64, 33.21, 8.98, 24.19, 20.38|  
-|238|[Aditya Mahesh](https://www.worldcubeassociation.org/persons/2014MAHE04)|India|22.11|31.87, 16.63, 27.13, 23.11, 34.57, 22.15, 26.01, 16.91, 11.66, 11.98, 21.32, 23.98|  
-|239|[Angelika Gaweł](https://www.worldcubeassociation.org/persons/2012GAWE01)|Poland|22.28|20.88, 32.75, 58.99, 22.49, 20.50, 20.95, 17.11, 20.65, 15.50, 27.12, 15.46, 24.80|  
-|240|[Choi Young-Cheol](https://www.worldcubeassociation.org/persons/2008YOUN07)|Korea|22.32|38.71, 17.55, 16.75, DNF, 18.84, 32.00, 24.03, 29.08, 13.15, 13.46, 16.34, 16.47|  
-|241|[François Sechet](https://www.worldcubeassociation.org/persons/2004SECH01)|France|22.80|48.29, 19.41, 16.05, 19.80, DNF, 15.16, 16.25, 20.59, 24.80, 15.30, 23.38, 24.11|  
-|242|[Jose Miguel Angel Ramirez Contreras](https://www.worldcubeassociation.org/persons/2014CONT03)|Mexico|22.84|41.61, 24.08, 20.32, 28.24, 30.25, 11.17, 24.25, 10.40, 14.33, 29.61, 21.84, 24.34|  
-|243|[James Barden](https://www.worldcubeassociation.org/persons/2013BARD01)|USA|22.92|20.81, 22.77, 24.33, 31.52, 20.71, 21.93, 21.94, 27.71, 16.62, 7.08, 28.38, 23.95|  
-|244|[Miika Rosvall](https://www.worldcubeassociation.org/persons/2016ROSV01)|Finland|22.95|20.00, 10.15, 18.98, 24.52, 20.46, 22.93, 20.46, 1:12.91, 9.44, 31.07, 17.88, 43.01|  
-|245|[Siddharth Palaniappan](https://www.worldcubeassociation.org/persons/2011PALA05)|India|23.06|10.66, 17.60, 16.28, 22.06, 15.75, 26.11, DNF, 21.72, 29.81, 23.06, 25.46, 32.71|  
-|246|[Krish Garg](https://www.worldcubeassociation.org/persons/2015GARG04)|India|23.06|DNF, 26.23, 24.48, 24.53, 27.20, 23.50, 18.28, 22.18, 23.99, 12.51, 20.15, 20.05|  
+|94|[Jaime Aguilera](https://www.worldcubeassociation.org/persons/2016AGUI15)|Chile|14.39|10.47, 14.19, 7.21, 10.21, 15.86, 18.62, 11.69, 29.39, 14.30, 11.20, 21.41, 15.91|  
+|95|[Douglas Toyne](https://www.worldcubeassociation.org/persons/2015TOYN01)|Australia|14.43|14.57, 17.93, 12.05, 17.88, 13.15, 15.91, 8.66, 13.06, 16.00, 12.34, 19.43, 11.39|  
+|96|[Italo Chacón Torres](https://www.worldcubeassociation.org/persons/2015TORR14)|Peru|14.45|15.70, 10.56, 23.15, 14.36, 12.79, 12.90, 14.45, 21.33, 13.40, 8.28, 11.23, 17.77|  
+|97|[Tobiasz Gromotka](https://www.worldcubeassociation.org/persons/2014GROM01)|Poland|14.52|5.83, 18.03, 19.22, 18.48, 16.77, 13.29, 13.14, 12.55, 14.22, 11.81, 13.87, 13.08|  
+|98|[Luke Speechley](https://www.worldcubeassociation.org/persons/2015SPEE01)|Australia|14.53|15.05, 20.42, 17.53, 14.40, 18.46, 3.89, 15.65, 14.58, 11.60, 13.04, 14.45, 10.54|  
+|99|[Carlos Cubillos](https://www.worldcubeassociation.org/persons/2017CUBI01)|Chile|14.63|20.40, 14.21, 13.81, 17.58, 15.07, 17.93, 20.79, 9.49, 13.17, 13.08, 10.55, 10.46|  
+|100|[Julián Mauricio Valentín Sánchez](https://www.worldcubeassociation.org/persons/2018SANC21)|Colombia|14.69|23.09, 17.97, 11.16, 9.00, 15.53, 16.38, 15.18, 19.58, 21.55, 9.08, 9.89, 10.62|  
+|101|[Alessandro Calanna](https://www.worldcubeassociation.org/persons/2017CALA07)|Italy|14.74|12.10, 20.76, 15.05, 10.30, 14.09, 12.19, 11.93, 9.10, 21.78, DNF, 14.06, 15.15|  
+|102|[Cole Summerhays](https://www.worldcubeassociation.org/persons/2015SUMM01)|USA|14.77|34.96, 16.90, 14.78, 13.94, 16.36, 8.73, 10.65, 10.87, 11.38, 13.90, 19.12, 19.82|  
+|103|[Chang Liu (刘畅)](https://www.worldcubeassociation.org/persons/2017LIUC06)|China|14.79|19.50, 14.47, 14.47, 16.72, 9.49, 15.16, 16.96, 16.13, 9.66, DNF, 11.77, 13.01|  
+|104|[Jędrzej Majdan](https://www.worldcubeassociation.org/persons/2014MAJD01)|Poland|14.81|16.83, 9.97, 15.30, 15.13, 13.75, 8.30, 14.00, 13.59, 21.88, 16.32, 18.50, 14.74|  
+|105|[Adrian Niemiec](https://www.worldcubeassociation.org/persons/2016NIEM01)|Poland|14.87|23.95, 11.39, 19.11, 19.12, 15.19, 12.72, 11.87, 15.09, 10.37, 19.83, 12.06, 12.34|  
+|106|[Jinzhou Huang (黄金洲)](https://www.worldcubeassociation.org/persons/2017HUAN34)|China|14.88|15.90, 19.97, 15.07, 8.56, 18.29, 15.01, DNF, 8.27, 16.00, 8.91, 16.84, 14.27|  
+|107|[Nicholas Iperti](https://www.worldcubeassociation.org/persons/2018IPER01)|Italy|14.91|9.15, 14.21, 15.22, 9.20, 17.83, 15.31, 10.16, 12.55, 18.82, 20.43, 15.38, DNF|  
+|108|[Sebastian Eguez](https://www.worldcubeassociation.org/persons/2016EGUE01)|Bolivia|15.02|12.49, 16.15, 7.87, 14.37, 14.70, 12.70, 11.01, DNF, 16.29, 28.18, 12.89, 11.41|  
+|109|[Tianxing Wang (王天行)](https://www.worldcubeassociation.org/persons/2010WANG54)|China|15.02|22.20, DNF, 14.12, 15.71, 6.49, 19.12, 15.23, 20.55, 11.77, 8.83, 12.59, 10.10|  
+|110|[Sara Waniołka](https://www.worldcubeassociation.org/persons/2013WANI01)|Poland|15.03|18.52, 15.41, 18.66, 17.96, 16.26, 18.55, 10.47, 15.41, 10.94, 11.55, 8.36, 15.22|  
+|111|[Ivan Kovalev](https://www.worldcubeassociation.org/persons/2017KOVA07)|Russia|15.13|27.35, 16.27, 10.13, 16.23, 15.18, 9.34, 18.16, 10.71, 13.48, 14.71, 11.46, 24.95|  
+|112|[Wong Tak Man (黃德文)](https://www.worldcubeassociation.org/persons/2015MANW01)|Hong Kong|15.13|25.48, 18.83, 26.79, 16.31, 11.35, 10.72, 10.47, 9.08, 13.25, 13.00, 11.09, 20.79|  
+|113|[Tong Fa (法童)](https://www.worldcubeassociation.org/persons/2016FATO01)|China|15.25|25.51, 42.07, 16.20, 12.54, 12.47, 21.70, 15.73, 13.35, 11.65, 13.63, 9.71, 9.65|  
+|114|[Charlie Scholefield](https://www.worldcubeassociation.org/persons/2016SCHO07)|Australia|15.28|17.13, 14.11, 11.31, 13.19, 17.98, 16.43, 13.09, 15.27, 18.28, 18.01, 11.36, 16.27|  
+|115|[Ximing Chen (陈玺鸣)](https://www.worldcubeassociation.org/persons/2016CHEN22)|China|15.35|33.85, 31.78, 15.02, 8.93, 11.77, 15.48, 16.42, 14.43, 11.67, 14.78, 13.19, 8.31|  
+|116|[Cade Carter](https://www.worldcubeassociation.org/persons/2018CART03)|USA|15.35|16.05, 16.34, 12.57, 20.24, 17.00, 13.06, 14.43, 17.58, 17.35, 11.72, 12.41, 16.70|  
+|117|[Alex Boyle](https://www.worldcubeassociation.org/persons/2014BOYL01)|Australia|15.36|17.44, 17.00, 15.56, 15.27, 13.27, 12.16, 17.25, 13.36, 13.33, 16.77, 15.13, 16.68|  
+|118|[Nicolas Lattarulo](https://www.worldcubeassociation.org/persons/2015LATT01)|USA|15.43|18.67, 15.70, 21.57, 15.23, 15.50, 7.29, 19.06, 19.24, 16.38, 10.16, 14.99, 9.33|  
+|119|[You-Hsiang Lu (呂祐翔)](https://www.worldcubeassociation.org/persons/2016LUYO01)|Taiwan|15.58|13.56, DNF, 14.92, 9.15, 20.18, 17.28, 8.36, 7.86, 10.58, 16.96, 27.27, 17.57|  
+|120|[Epari Satwik](https://www.worldcubeassociation.org/persons/2015RAOS01)|India|15.71|21.21, 20.74, 18.31, 17.90, 6.43, 18.04, 7.62, 11.68, 7.36, 18.21, 19.08, 18.17|  
+|121|[Amogh Umesh](https://www.worldcubeassociation.org/persons/2013UMES01)|India|15.75|10.16, 12.91, 11.86, 11.28, 14.65, 15.09, 21.88, 22.74, 17.70, 11.72, 17.71, DNF|  
+|122|[Maciej Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL01)|Poland|15.77|18.03, 17.83, 16.38, 13.52, 13.54, 21.16, 9.22, 16.55, 18.40, 14.56, 11.90, 17.00|  
+|123|[Cristobal Urrutia Reyes](https://www.worldcubeassociation.org/persons/2017REYE01)|Chile|15.84|20.03, 18.04, 23.63, 12.23, 15.43, 15.32, 7.35, 11.35, 20.57, 15.00, 18.85, 11.57|  
+|124|[Farid Brazales Flores](https://www.worldcubeassociation.org/persons/2018FLOR01)|Ecuador|15.85|20.32, 18.70, 16.79, DNF, 22.38, 14.57, 14.99, 9.25, 11.65, 15.20, 11.61, 12.32|  
+|125|[Jillian Ylagan](https://www.worldcubeassociation.org/persons/2015YLAG02)|USA|15.91|DNF, 16.92, 17.29, 16.69, 17.91, 13.96, 16.09, 14.07, 14.04, 12.77, 10.13, 19.39|  
+|126|[Jon Garretson](https://www.worldcubeassociation.org/persons/2018GARR05)|USA|15.94|19.20, 13.95, 21.62, 15.27, 18.02, 14.28, 16.92, 13.58, 14.78, 17.14, 16.23, 13.57|  
+|127|[Carter Paden](https://www.worldcubeassociation.org/persons/2016PADE01)|USA|16.00|13.76, DNF, 20.19, 24.41, 16.18, 13.38, 17.07, 13.40, 8.27, 11.42, 14.96, 15.18|  
+|128|[Robert Drozdek](https://www.worldcubeassociation.org/persons/2015DROZ01)|Poland|16.02|13.13, 18.62, 15.64, 12.24, 14.75, 11.50, 12.59, 18.07, 21.87, 18.75, 16.83, 19.53|  
+|129|[Pedro Cortes Garrido](https://www.worldcubeassociation.org/persons/2016GARR06)|Chile|16.03|24.23, 23.25, 11.73, 18.78, 13.54, 14.04, 11.76, 8.67, 17.05, 17.28, 19.35, 13.47|  
+|130|[Guanghua Liang (梁光华)](https://www.worldcubeassociation.org/persons/2016LIAN23)|China|16.04|DNF, 28.54, 17.29, 12.43, 18.54, 12.78, 17.11, 14.29, 13.07, 10.67, 14.95, 11.41|  
+|131|[Benjamin Ashman](https://www.worldcubeassociation.org/persons/2016ASHM01)|Canada|16.06|12.26, 21.29, 10.74, 22.39, 14.89, 17.21, 14.62, 13.68, 9.69, 7.66, DNF, 23.82|  
+|132|[Daniel An](https://www.worldcubeassociation.org/persons/2017ANDA04)|Finland|16.08|16.33, 10.59, DNF, 12.04, 23.00, 15.81, 18.36, 12.99, 12.02, 13.30, 13.19, 23.78|  
+|133|[Alexis Olivares Miranda](https://www.worldcubeassociation.org/persons/2016MIRA05)|Peru|16.09|19.73, 18.50, 12.15, 6.93, 14.68, 18.80, 8.46, 11.41, DNF, 23.50, 12.71, 20.91|  
+|134|[Arturo Pinto](https://www.worldcubeassociation.org/persons/2018PINT02)|Bolivia|16.10|8.25, 14.13, DNF, 21.55, 17.27, 16.67, 19.70, 13.73, 14.73, 13.45, 15.21, 14.57|  
+|135|[Kristians Kisis](https://www.worldcubeassociation.org/persons/2018KISI01)|Latvia|16.12|29.85, 15.89, 18.07, 16.78, 16.49, 13.86, 18.34, 13.77, 12.76, 12.48, 13.90, 21.38|  
+|136|[Tyler Ayers](https://www.worldcubeassociation.org/persons/2016AYER01)|USA|16.15|44.83, DNF, 13.34, 12.73, 9.10, 17.21, 14.80, 14.45, 12.12, 12.20, 9.01, 10.67|  
+|137|[Max Olschok](https://www.worldcubeassociation.org/persons/2010OLSC01)|Germany|16.25|20.41, 14.53, DNF, 21.65, 11.68, 12.21, 14.38, 16.09, 12.31, 21.18, 15.08, 14.63|  
+|138|[Juan Sebastian Serna Cobo](https://www.worldcubeassociation.org/persons/2016COBO01)|Colombia|16.28|12.83, 21.98, 21.02, 12.73, 14.48, 13.31, 14.36, 24.48, 15.58, 19.16, 13.39, 16.71|  
+|139|[Yuhang Deng (邓宇航)](https://www.worldcubeassociation.org/persons/2014DENG02)|China|16.43|32.68, 16.79, 11.39, 14.53, 23.13, 17.89, 23.08, 17.60, 8.21, 13.55, 12.39, 13.99|  
+|140|[Quinn Mierlak](https://www.worldcubeassociation.org/persons/2014MIER01)|USA|16.45|16.21, 25.67, 24.15, 19.11, 15.74, 13.68, 14.93, 19.87, 10.17, 16.04, 9.53, 14.63|  
+|141|[Manning Chen](https://www.worldcubeassociation.org/persons/2015CHEN96)|USA|16.55|11.92, 14.58, 12.58, 11.49, 15.77, DNF, 14.79, 15.55, 12.60, 12.68, 32.39, 22.61|  
+|142|[Pranav Krishna](https://www.worldcubeassociation.org/persons/2017KRIS09)|India|16.56|22.36, 22.82, 14.50, 18.12, 15.30, 12.65, 14.69, 17.63, 17.19, 18.33, 14.81, 12.25|  
+|143|[Max Bradley-McFawn](https://www.worldcubeassociation.org/persons/2018BRAD06)|Australia|16.57|16.53, 20.75, 12.34, 10.52, 15.13, 21.85, DNF, 7.17, 14.33, 18.74, 19.39, 16.11|  
+|144|[Yixiao Luo (罗怡枭)](https://www.worldcubeassociation.org/persons/2016LUOY03)|China|16.58|10.30, 11.75, 20.98, 17.98, 20.34, 23.55, 19.60, 22.67, 14.46, 13.69, 13.24, 11.06|  
+|145|[Nguyễn Hữu Minh](https://www.worldcubeassociation.org/persons/2016MINH04)|Vietnam|16.58|20.49, 14.81, 22.74, 17.81, 11.60, 10.97, 17.16, 16.05, 13.07, 14.77, 17.32, 25.13|  
+|146|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|16.60|16.02, 18.00, 19.05, 13.76, 4.45, 25.03, 13.99, 12.81, 11.82, 22.32, DNF, 13.24|  
+|147|[David Fevre](https://www.worldcubeassociation.org/persons/2016FEVR01)|Chile|16.63|21.37, 20.04, 7.31, 18.28, 16.72, 21.34, 16.12, 19.72, 13.18, 15.16, 14.06, 11.72|  
+|148|[Regan Yan](https://www.worldcubeassociation.org/persons/2016YANR01)|Australia|16.67|18.80, 15.45, 18.90, 21.13, 17.40, 16.52, 16.35, 8.05, 11.98, 13.71, DNF, 16.50|  
+|149|[Nam Yun-Sang (남윤상)](https://www.worldcubeassociation.org/persons/2008YUNS01)|Korea|16.77|17.11, 13.28, 20.58, 17.40, 19.16, 18.55, 18.59, 24.06, 12.44, 12.90, 15.62, 14.46|  
+|150|[Mario Alejandro De León Godinez](https://www.worldcubeassociation.org/persons/2017GODI02)|Guatemala|16.79|15.71, 19.73, 14.21, 13.29, 11.00, 24.80, 13.61, 19.06, 24.13, 12.76, 17.01, 18.35|  
+|151|[Joaquin Ortega Del Aguila](https://www.worldcubeassociation.org/persons/2016AGUI14)|Peru|16.80|13.03, 8.71, 17.60, 9.33, DNF, 12.90, 12.00, 9.08, 31.53, 22.42, 15.47, 24.66|  
+|152|[Cy Kurd](https://www.worldcubeassociation.org/persons/2017KURD01)|USA|16.88|12.91, 12.78, 13.03, 12.49, 19.03, 20.91, 21.88, 27.49, 15.48, 21.27, 19.00, 9.91|  
+|153|[Leszek Czech](https://www.worldcubeassociation.org/persons/2012CZEC01)|Poland|16.90|20.18, 30.28, 16.86, 9.75, 10.90, 15.27, 24.41, 16.18, 14.55, 13.62, 20.20, 16.82|  
+|154|[Jude Langhout](https://www.worldcubeassociation.org/persons/2018LANG09)|USA|16.92|25.49, 22.57, 18.29, 11.12, 21.64, 12.56, 20.20, 16.76, 11.83, 11.90, 14.60, 18.81|  
+|155|[Joseph Hirsch](https://www.worldcubeassociation.org/persons/2018HIRS01)|USA|16.92|17.29, 16.70, 16.16, DNF, 17.88, 22.64, 18.67, 14.20, 18.70, 11.30, 14.08, 12.92|  
+|156|[Tristan Lezeau](https://www.worldcubeassociation.org/persons/2018LEZE01)|France|16.98|12.40, 12.48, 17.98, 24.01, 12.59, 24.40, 19.48, 18.69, 18.57, 13.73, 14.88, 17.34|  
+|157|[Charles Vallade](https://www.worldcubeassociation.org/persons/2018VALL01)|France|17.04|26.71, 24.10, 15.28, 15.65, 10.64, 12.07, 13.42, 25.91, 19.31, 14.30, 14.34, 15.99|  
+|158|[Manav Mody](https://www.worldcubeassociation.org/persons/2013MODY01)|India|17.11|32.30, 10.34, 14.55, 14.47, 19.61, 15.74, 16.32, 18.62, 14.88, 16.19, 23.37, 17.32|  
+|159|[Daniel Freymann](https://www.worldcubeassociation.org/persons/2013FREY01)|Luxembourg|17.16|DNF, 16.21, 21.97, 14.38, 17.25, 13.68, 13.02, 25.01, 15.31, 14.12, 16.47, 17.17|  
+|160|[Jun-Ning Yueh (葉鈞寧)](https://www.worldcubeassociation.org/persons/2017YUEH02)|Taiwan|17.17|17.07, 17.40, 17.68, 20.77, 13.77, 13.90, 10.60, 22.19, 17.67, 13.21, 18.03, DNF|  
+|161|[Ilham Ramadhan](https://www.worldcubeassociation.org/persons/2010RAMA08)|Indonesia|17.29|24.58, 24.45, 14.42, 38.71, 17.41, 17.35, 25.44, 9.74, 12.53, 12.23, 9.87, 14.61|  
+|162|[Johan George Mattapallil](https://www.worldcubeassociation.org/persons/2014MATT02)|India|17.41|20.99, 22.77, 13.66, 14.63, 15.41, 11.72, 17.38, 27.53, 17.22, 17.23, 20.36, 14.44|  
+|163|[Maksymilian Godula](https://www.worldcubeassociation.org/persons/2014GODU02)|Poland|17.41|12.80, 17.21, 21.70, 19.26, 14.53, 24.65, 18.58, 16.36, 13.76, 20.58, 19.33, 10.38|  
+|164|[Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01)|Poland|17.45|19.94, 14.68, 21.53, 18.03, 14.10, 15.03, 19.87, 28.42, 9.68, 12.84, 19.13, 19.34|  
+|165|[Max Boettinger](https://www.worldcubeassociation.org/persons/2014BOET01)|USA|17.47|23.50, 23.77, 11.89, 14.21, 7.35, 6.38, 12.20, 17.84, 26.21, 22.76, 28.67, 15.01|  
+|166|[Matias Concha](https://www.worldcubeassociation.org/persons/2016CONC02)|Chile|17.48|19.39, 18.60, 28.10, 16.52, 22.23, 12.52, 18.07, 15.36, 17.72, 12.91, 15.70, 18.25|  
+|167|[Clément Pan](https://www.worldcubeassociation.org/persons/2017PANC01)|France|17.50|20.51, 13.19, 12.91, 21.36, 13.88, 21.95, 24.66, 23.21, 8.92, 15.16, 15.32, 17.50|  
+|168|[Abdul Qadir](https://www.worldcubeassociation.org/persons/2014QADI01)|India|17.54|25.13, 17.14, 14.78, 8.90, 12.62, 12.93, 20.17, 24.11, 20.71, 10.88, 28.89, 16.89|  
+|169|[Aleix Bossa Gonzàlez](https://www.worldcubeassociation.org/persons/2016GONZ56)|Andorra|17.57|16.91, 14.86, 25.94, 12.62, 12.52, 19.33, 14.87, 15.78, 28.67, 11.88, 14.19, DNF|  
+|170|[Quentin Bourgeois](https://www.worldcubeassociation.org/persons/2017BOUR02)|France|17.61|13.89, 17.98, 17.73, 12.05, 12.37, 23.91, 12.16, 21.91, 17.19, 15.07, 23.85, 24.86|  
+|171|[Alex Niedan-Olsen](https://www.worldcubeassociation.org/persons/2016NIED01)|USA|17.79|31.84, 21.27, 16.56, 17.86, 25.75, 13.56, 12.28, 26.04, 14.28, 11.74, 15.74, 14.54|  
+|172|[Santiago Reyes Idarraga](https://www.worldcubeassociation.org/persons/2018IDAR01)|Colombia|17.93|11.37, 14.05, 18.85, 14.80, DNF, 16.42, 17.87, 20.08, 29.28, 13.60, 16.70, 17.64|  
+|173|[Miguel Berganza](https://www.worldcubeassociation.org/persons/2017BERG04)|El Salvador|17.96|20.95, DNF, 12.99, 13.22, 21.93, 15.49, 17.91, 19.61, 15.76, 22.95, 17.73, 14.09|  
+|174|[Karman Singh](https://www.worldcubeassociation.org/persons/2015SING13)|India|17.97|21.35, 22.18, 5.55, 19.04, 14.26, 11.75, 18.96, 13.88, DNF, 15.91, 22.23, 20.09|  
+|175|[Abhijeet Singh](https://www.worldcubeassociation.org/persons/2014SING25)|India|18.07|44.01, 35.69, 19.16, 19.89, 14.31, 14.76, 10.16, 19.57, 11.08, 13.96, 14.58, 17.65|  
+|176|[Nan Bai (柏楠)](https://www.worldcubeassociation.org/persons/2011BAIN01)|China|18.19|10.97, 15.11, 34.88, 17.05, 16.63, 23.31, 16.18, 16.28, 23.94, 12.91, 20.04, 20.45|  
+|177|[Daniil Ilyich](https://www.worldcubeassociation.org/persons/2014ILYI01)|Belarus|18.20|19.32, 27.58, 14.53, 18.75, 19.39, 19.80, 14.08, 23.01, 19.88, 13.19, 14.95, 18.29|  
+|178|[Nico Groh](https://www.worldcubeassociation.org/persons/2009GROH01)|Germany|18.23|26.03, 24.34, 16.94, 16.47, 13.94, 18.28, 23.28, 11.30, 15.03, 19.68, 17.77, 16.61|  
+|179|[Piotr Sawecki](https://www.worldcubeassociation.org/persons/2018SAWE01)|Poland|18.25|10.55, 34.25, 22.60, 14.01, 24.20, 12.41, 19.14, 12.68, 10.30, 19.36, 13.33, 35.68|  
+|180|[Isaac James Dunn](https://www.worldcubeassociation.org/persons/2017DUNN03)|USA|18.28|19.03, 16.60, 22.30, 16.97, 12.00, 17.76, 14.27, 14.47, 25.48, 16.63, 23.82, 20.92|  
+|181|[Gavin Johnson](https://www.worldcubeassociation.org/persons/2016JOHN14)|USA|18.33|15.79, 26.87, 27.50, 10.17, 14.05, 16.97, 14.28, 27.24, 16.83, 15.47, 14.38, 21.44|  
+|182|[Andrew D. Pierce](https://www.worldcubeassociation.org/persons/2018PIER03)|USA|18.40|DNF, 16.06, 16.69, 8.96, 28.50, 19.14, 22.86, 20.30, 10.95, 18.13, 11.78, 19.61|  
+|183|[Ali Aksu](https://www.worldcubeassociation.org/persons/2016AKSU01)|USA|18.40|13.82, DNF, 16.02, 25.58, 6.30, 25.17, 19.28, 26.44, 11.73, 13.78, 21.77, 10.44|  
+|184|[Christopher Parker](https://www.worldcubeassociation.org/persons/2014PARK05)|USA|18.53|13.36, 17.02, 13.05, 19.33, 16.47, 16.09, 15.41, 29.35, 19.93, 28.93, 13.09, 25.63|  
+|185|[Nahckjoon Kim](https://www.worldcubeassociation.org/persons/2011KIMN01)|USA|18.53|14.58, 14.08, 25.59, 17.47, 27.75, 7.43, 12.23, 14.29, 13.17, DNF, 21.12, 25.05|  
+|186|[Edoardo Ricci](https://www.worldcubeassociation.org/persons/2017RICC03)|Italy|18.59|DNF, 38.59, 16.97, 19.41, 17.42, 13.05, 14.42, 10.63, 10.74, 22.75, 14.08, 18.44|  
+|187|[Martin Smolarczyk](https://www.worldcubeassociation.org/persons/2009SMOL01)|Germany|18.60|26.36, 22.53, 18.94, 14.33, 14.47, 18.18, 18.08, 14.88, 12.47, 22.13, 19.59, 22.83|  
+|188|[Kai Park](https://www.worldcubeassociation.org/persons/2016PARK01)|USA|18.63|14.05, 10.09, 8.79, 15.82, 10.57, DNF, 39.01, 14.02, 17.87, 14.23, 39.46, 11.13|  
+|189|[Raghav Agrawal](https://www.worldcubeassociation.org/persons/2016AGRA04)|India|18.65|22.78, DNF, 25.05, 28.87, 8.78, 19.16, 12.84, 19.89, 14.53, 12.33, 13.62, 17.38|  
+|190|[Joseph Ragona](https://www.worldcubeassociation.org/persons/2014RAGO02)|United Kingdom|18.66|20.84, 6.99, 26.24, 14.09, 16.75, 18.49, 21.03, 17.04, 14.86, 17.53, 30.80, 19.75|  
+|191|[Yankun Qiu (邱焱坤)](https://www.worldcubeassociation.org/persons/2010QIUY01)|China|18.84|19.24, 20.55, 17.59, 14.68, 14.41, 28.31, 18.18, 23.15, 19.93, 20.91, 18.02, 16.16|  
+|192|[Arghadeep Mukherjee](https://www.worldcubeassociation.org/persons/2014MUKH04)|India|18.93|19.24, 7.92, 17.53, 20.73, 8.28, 21.21, 15.53, 19.18, 21.59, 18.95, 27.05, 39.96|  
+|193|[Ángel Arráez Castellanos](https://www.worldcubeassociation.org/persons/2016CAST28)|Spain|18.95|20.23, 27.72, 14.52, 21.18, 16.38, 13.05, 15.10, 15.86, 18.39, 27.87, 19.78, 20.29|  
+|194|[Tevin Hagstedt](https://www.worldcubeassociation.org/persons/2016HAGS01)|Sweden|18.98|14.57, 16.88, DNF, 16.43, 23.97, 13.86, 16.70, 15.44, 18.29, 15.71, 18.97, 32.83|  
+|195|[Yongqiang Yan (闫永强)](https://www.worldcubeassociation.org/persons/2018YANY04)|China|19.02|16.46, 20.09, 19.28, 14.21, DNF, 18.46, 15.47, 32.47, 17.41, 8.96, 17.41, 18.94|  
+|196|[Bastian Moises Castillo Catalán](https://www.worldcubeassociation.org/persons/2017CATA03)|Chile|19.04|26.39, 21.51, 16.33, 53.61, 29.67, 10.51, 15.16, 19.27, 11.64, 15.12, 17.22, 18.04|  
+|197|[Zengchu Wu (吴增初)](https://www.worldcubeassociation.org/persons/2014WUZE01)|China|19.04|26.39, 29.02, 11.23, 8.52, 22.06, 21.40, 37.79, 18.29, 12.21, 11.31, 20.25, 18.27|  
+|198|[Nikhil Banerjee](https://www.worldcubeassociation.org/persons/2014BANE03)|India|19.12|18.21, 13.95, 20.36, 19.81, 21.78, 15.00, 23.61, 17.35, 20.29, 24.36, 19.11, 15.68|  
+|199|[Théo Dupuis](https://www.worldcubeassociation.org/persons/2017DUPU01)|France|19.19|17.77, 23.26, 22.85, DNF, 17.03, 14.56, 13.30, 20.24, 13.35, 22.02, 17.25, 23.52|  
+|200|[Emik Lakunishok](https://www.worldcubeassociation.org/persons/2016LAKU01)|Sweden|19.50|16.83, 19.53, 22.86, 15.00, DNF, 13.66, 30.38, 18.24, 14.95, 17.77, 15.74, 23.65|  
+|201|[Sumit Sarkar](https://www.worldcubeassociation.org/persons/2009SARK01)|India|19.56|26.36, 24.81, 17.09, 11.72, 30.63, 11.77, 13.91, 16.68, 13.61, 15.71, 25.02, DNF|  
+|202|[Yipin Lü (吕一品)](https://www.worldcubeassociation.org/persons/2015LYIP01)|China|19.59|20.52, 25.27, 17.83, 20.49, 16.20, 13.86, 29.37, 18.42, 23.50, 15.90, 17.72, 20.00|  
+|203|[Daniel Brojerski](https://www.worldcubeassociation.org/persons/2013BROJ01)|Poland|19.61|20.46, DNF, 15.03, 27.85, 20.33, 25.21, 15.03, 13.63, 12.70, 21.04, 17.33, 20.16|  
+|204|[Isabella Bosia](https://www.worldcubeassociation.org/persons/2009BOSI01)|Italy|19.70|13.25, 20.15, 18.80, 14.95, 14.07, 21.31, 22.43, 17.94, 18.77, 25.02, 29.53, 23.53|  
+|205|[Muthu Kannan](https://www.worldcubeassociation.org/persons/2017KANN03)|India|19.78|31.82, 30.61, 21.29, 20.03, 26.10, 21.64, 15.65, 18.06, 11.05, 14.46, 14.01, 15.94|  
+|206|[Alex Ridley](https://www.worldcubeassociation.org/persons/2015RIDL01)|USA|19.82|26.30, 30.35, 23.27, 19.03, 13.63, 15.09, 7.69, 15.88, 20.58, 16.80, DNF, 17.27|  
+|207|[Cristóbal Soto](https://www.worldcubeassociation.org/persons/2016SOTO09)|Chile|19.97|17.17, 18.01, 18.66, 12.19, 16.47, 18.69, 13.42, 34.19, 14.40, 36.51, 12.18, DNF|  
+|208|[Simone Cutrona](https://www.worldcubeassociation.org/persons/2017CUTR01)|Italy|20.03|18.11, 20.96, 18.57, 16.29, 24.39, 16.78, 18.43, 13.49, 14.89, 31.58, 31.60, 20.27|  
+|209|[Mircea Crisan Córdoba](https://www.worldcubeassociation.org/persons/2017CORD08)|Spain|20.15|15.99, 36.29, 13.49, DNF, 29.39, 15.44, 14.87, 12.55, 16.44, 19.92, 27.13, 7.67|  
+|210|[Zhiyuan Chen (陈智源)](https://www.worldcubeassociation.org/persons/2015CHEZ01)|China|20.19|24.50, 18.83, 21.73, 23.44, 23.28, 30.60, DNF, 13.86, 14.92, 17.11, 13.66, 9.24|  
+|211|[Sandro Ballad](https://www.worldcubeassociation.org/persons/2008BALL02)|Philippines|20.20|23.33, 14.94, 17.94, 18.28, 19.69, 22.84, 32.55, 14.96, 19.15, 27.36, 21.94, 16.50|  
+|212|[Ángel Marqués García](https://www.worldcubeassociation.org/persons/2016GARC25)|Spain|20.21|30.02, 13.51, 37.03, 29.61, 13.97, 17.22, 15.69, 16.96, 14.12, 18.44, 25.15, 20.89|  
+|213|[Kaspar Norberg](https://www.worldcubeassociation.org/persons/2015NORB01)|Sweden|20.31|16.03, 17.44, 11.72, 31.70, 22.06, 39.28, DNF, 14.69, 11.56, 14.19, 8.42, 24.41|  
+|214|[Benjamin Calderón](https://www.worldcubeassociation.org/persons/2016CALD02)|Chile|20.31|25.40, 23.26, 22.48, 27.90, 24.23, 18.10, 13.08, 13.10, 12.93, 18.47, DNF, 17.10|  
+|215|[Nathan Weber](https://www.worldcubeassociation.org/persons/2014WEBE02)|USA|20.39|36.61, 19.78, 18.90, 19.69, 20.75, 57.05, 41.11, 9.96, 8.77, 13.63, 11.20, 12.22|  
+|216|[Marcello Molisse](https://www.worldcubeassociation.org/persons/2016MOLI02)|USA|20.39|31.64, 31.33, 19.34, 26.61, 19.49, 20.42, 32.58, 13.11, 12.96, 16.85, 10.75, 12.18|  
+|217|[Aditya Anand Rao](https://www.worldcubeassociation.org/persons/2014RAOA01)|India|20.51|22.03, 38.15, 10.54, 18.89, 27.10, 10.96, 25.76, 17.61, 12.12, 23.51, 32.96, 14.19|  
+|218|[Joshua Satterfield](https://www.worldcubeassociation.org/persons/2006SATT01)|USA|20.56|51.71, 12.17, 27.56, 28.79, 17.22, 15.56, 17.02, 23.59, 20.33, 28.25, 10.97, 15.13|  
+|219|[Lucas Maillard](https://www.worldcubeassociation.org/persons/2016MAIL01)|France|20.58|24.05, 18.95, 23.55, 18.51, 17.79, 14.12, 16.19, 26.24, 25.94, 17.48, 20.30, 23.08|  
+|220|[Gabriel Francisco Lis Castiblanco](https://www.worldcubeassociation.org/persons/2018CAST24)|Colombia|20.60|18.27, 11.46, 11.78, 20.02, 21.45, DNF, 19.60, 18.99, 19.84, 26.10, 19.88, 30.11|  
+|221|[Thierry Boisivon](https://www.worldcubeassociation.org/persons/2011BOIS01)|France|20.69|15.03, 17.36, 25.08, 13.05, 18.56, 10.66, 11.14, 14.65, 16.71, DNF, 31.28, 44.06|  
+|222|[Taufan Aditomo](https://www.worldcubeassociation.org/persons/2010ADIT01)|Indonesia|20.74|21.61, 21.13, 15.33, 19.11, 35.81, 15.40, 15.94, 22.94, 19.41, 16.67, 19.42, DNF|  
+|223|[Sam Viju Varghese](https://www.worldcubeassociation.org/persons/2016VARG01)|India|20.82|27.84, 21.99, 17.34, 17.10, 24.31, 28.30, 21.29, 16.74, 20.03, 20.36, 21.20, 16.33|  
+|224|[Raul Esteo](https://www.worldcubeassociation.org/persons/2016ESTE03)|Spain|20.84|18.72, 21.91, 15.07, 18.32, 17.32, 20.70, 40.33, 16.48, 22.93, 27.54, 12.19, 29.45|  
+|225|[Jacob Rosen](https://www.worldcubeassociation.org/persons/2015ROSE03)|USA|20.99|19.13, 28.82, 19.40, 28.73, 48.45, 27.55, 15.27, 15.18, 15.95, 17.04, 22.79, 10.95|  
+|226|[Jacob Hillner](https://www.worldcubeassociation.org/persons/2016HILL08)|USA|21.14|32.29, 21.00, 27.32, 20.91, 18.39, 17.79, 21.93, 30.46, 22.08, 14.41, 13.90, 17.14|  
+|227|[Canon King](https://www.worldcubeassociation.org/persons/2018KING04)|USA|21.15|19.49, 30.07, 18.88, 24.05, 22.62, 14.13, 26.90, 17.62, 18.96, 14.70, 19.28, 28.95|  
+|228|[Dev Ravindra Munvar](https://www.worldcubeassociation.org/persons/2015MUNV01)|India|21.15|26.84, 36.99, 24.64, 17.93, 24.00, 27.72, 54.05, 11.63, 14.61, 14.32, 12.83, 11.38|  
+|229|[Oksana Ruzaeva](https://www.worldcubeassociation.org/persons/2010RUZA01)|Russia|21.18|22.02, DNF, 15.09, 23.33, 18.34, 17.94, 22.71, 32.19, 22.02, 14.59, 19.55, 18.61|  
+|230|[Aurelien Marion](https://www.worldcubeassociation.org/persons/2017MARI20)|Belgium|21.32|14.03, 20.35, 23.61, 14.28, 15.07, 23.82, 28.62, 30.50, 31.54, 13.01, 22.95, 19.94|  
+|231|[Mitch Smoot](https://www.worldcubeassociation.org/persons/2011SMOO01)|USA|21.36|14.11, 14.17, 39.89, 11.29, DNF, 27.96, 20.41, 17.71, 16.89, 15.21, 22.08, 25.20|  
+|232|[Vel Raam](https://www.worldcubeassociation.org/persons/2013RAAM01)|India|21.39|18.34, 25.55, 29.57, 20.52, 17.03, DNF, 16.92, 12.29, 20.64, 20.26, 21.89, 23.15|  
+|233|[Mustafa Kafar](https://www.worldcubeassociation.org/persons/2015KAFA01)|Turkey|21.74|13.68, 30.64, 45.16, 17.25, 14.42, 17.19, 30.15, 21.26, 11.23, 20.51, 17.03, 35.24|  
+|234|[Anton Niinikoski](https://www.worldcubeassociation.org/persons/2018NIIN01)|Finland|21.93|14.01, 20.44, 14.25, 21.80, 26.30, 16.81, 39.42, 20.68, 27.03, 26.76, 18.59, 26.64|  
+|235|[Tamás Kelemen](https://www.worldcubeassociation.org/persons/2009KELE01)|Hungary|22.05|21.27, 22.88, 25.66, 22.41, 17.65, 15.52, 18.18, 18.09, 25.83, 23.44, 25.78, 25.13|  
+|236|[Jaineel Joshi](https://www.worldcubeassociation.org/persons/2014JOSH04)|India|22.10|32.17, 17.76, 12.73, DNF, 21.44, 19.31, 16.15, 23.64, 33.21, 8.98, 24.19, 20.38|  
+|237|[Aditya Mahesh](https://www.worldcubeassociation.org/persons/2014MAHE04)|India|22.11|31.87, 16.63, 27.13, 23.11, 34.57, 22.15, 26.01, 16.91, 11.66, 11.98, 21.32, 23.98|  
+|238|[Angelika Gaweł](https://www.worldcubeassociation.org/persons/2012GAWE01)|Poland|22.28|20.88, 32.75, 58.99, 22.49, 20.50, 20.95, 17.11, 20.65, 15.50, 27.12, 15.46, 24.80|  
+|239|[Choi Young-Cheol](https://www.worldcubeassociation.org/persons/2008YOUN07)|Korea|22.32|38.71, 17.55, 16.75, DNF, 18.84, 32.00, 24.03, 29.08, 13.15, 13.46, 16.34, 16.47|  
+|240|[François Sechet](https://www.worldcubeassociation.org/persons/2004SECH01)|France|22.80|48.29, 19.41, 16.05, 19.80, DNF, 15.16, 16.25, 20.59, 24.80, 15.30, 23.38, 24.11|  
+|241|[Jose Miguel Angel Ramirez Contreras](https://www.worldcubeassociation.org/persons/2014CONT03)|Mexico|22.84|41.61, 24.08, 20.32, 28.24, 30.25, 11.17, 24.25, 10.40, 14.33, 29.61, 21.84, 24.34|  
+|242|[James Barden](https://www.worldcubeassociation.org/persons/2013BARD01)|USA|22.92|20.81, 22.77, 24.33, 31.52, 20.71, 21.93, 21.94, 27.71, 16.62, 7.08, 28.38, 23.95|  
+|243|[Miika Rosvall](https://www.worldcubeassociation.org/persons/2016ROSV01)|Finland|22.95|20.00, 10.15, 18.98, 24.52, 20.46, 22.93, 20.46, 1:12.91, 9.44, 31.07, 17.88, 43.01|  
+|244|[Siddharth Palaniappan](https://www.worldcubeassociation.org/persons/2011PALA05)|India|23.06|10.66, 17.60, 16.28, 22.06, 15.75, 26.11, DNF, 21.72, 29.81, 23.06, 25.46, 32.71|  
+|245|[Krish Garg](https://www.worldcubeassociation.org/persons/2015GARG04)|India|23.06|DNF, 26.23, 24.48, 24.53, 27.20, 23.50, 18.28, 22.18, 23.99, 12.51, 20.15, 20.05|  
 |=|[María Claudia Pizarro Esguerra](https://www.worldcubeassociation.org/persons/2016ESGU01)|Colombia|23.06|19.70, 36.00, 11.34, 15.35, 19.65, 37.22, 18.61, 35.30, 20.09, 19.77, 17.89, 28.23|  
-|248|[Shashwat Jolly](https://www.worldcubeassociation.org/persons/2013JOLL01)|India|23.08|30.64, DNF, 12.75, 32.50, 27.97, 20.94, 23.59, 16.14, 23.79, 24.84, 13.80, 16.62|  
-|249|[Casper Deij](https://www.worldcubeassociation.org/persons/2017DEIJ01)|Netherlands|23.15|28.09, 26.12, 24.33, 19.82, 20.71, 29.75, 21.33, 20.48, 25.14, 25.50, 19.99, 19.01|  
-|250|[Tom Newcombe](https://www.worldcubeassociation.org/persons/2017NEWC01)|Ireland|23.42|15.56, 18.10, 17.76, 18.29, 17.96, 15.56, 34.53, 29.22, 29.40, 18.98, DNF, 34.42|  
+|247|[Shashwat Jolly](https://www.worldcubeassociation.org/persons/2013JOLL01)|India|23.08|30.64, DNF, 12.75, 32.50, 27.97, 20.94, 23.59, 16.14, 23.79, 24.84, 13.80, 16.62|  
+|248|[Casper Deij](https://www.worldcubeassociation.org/persons/2017DEIJ01)|Netherlands|23.15|28.09, 26.12, 24.33, 19.82, 20.71, 29.75, 21.33, 20.48, 25.14, 25.50, 19.99, 19.01|  
+|249|[Tom Newcombe](https://www.worldcubeassociation.org/persons/2017NEWC01)|Ireland|23.42|15.56, 18.10, 17.76, 18.29, 17.96, 15.56, 34.53, 29.22, 29.40, 18.98, DNF, 34.42|  
+|250|[Andy Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04)|United Kingdom|23.56|29.64, 22.46, 23.11, 27.44, 21.31, DNF, 17.96, 22.18, 20.43, 17.69, 27.07, 23.96|  

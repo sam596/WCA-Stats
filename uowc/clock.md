@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
+*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -37,4 +37,4 @@
 |[Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01)|Poland|2016-08-27|[IIMasovianOpenPlock2016 - Final](https://www.worldcubeassociation.org/competitions/IIMasovianOpenPlock2016/results/all#eclock_f)|[PolishChampionship2016 - Combined First round](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/all#eclock_d)|105|  
 |[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2016-12-09|[PolishChampionship2016 - Combined First round](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/all#eclock_d)|[SantaClausCubeRace2016 - Combined Final](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016/results/all#eclock_c)|7|  
 |[Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01)|Poland|2016-12-17|[SantaClausCubeRace2016 - Combined Final](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016/results/all#eclock_c)|[SLSBedzinOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017/results/all#eclock_c)|161|  
-|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2017-05-27|[SLSBedzinOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017/results/all#eclock_c)|Ongoing|540|  
+|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2017-05-27|[SLSBedzinOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017/results/all#eclock_c)|Ongoing|542|  

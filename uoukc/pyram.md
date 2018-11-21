@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
+*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -32,4 +32,4 @@
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-06-02|[HastingsOpen2018 - First round](https://www.worldcubeassociation.org/competitions/HastingsOpen2018/results/all#epyram_1)|[ABHC2018 - Final](https://www.worldcubeassociation.org/competitions/ABHC2018/results/all#epyram_f)|84|  
 |[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|2018-08-25|[ABHC2018 - Final](https://www.worldcubeassociation.org/competitions/ABHC2018/results/all#epyram_f)|[UKC2018 - Combined First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_d)|63|  
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2018-10-26|[UKC2018 - Combined First round](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_d)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_f)|0|  
-|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_f)|Ongoing|22|  
+|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|2018-10-26|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#epyram_f)|Ongoing|24|  

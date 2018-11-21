@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Mon Nov 19 at 2014UTC*
+*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -246,7 +246,6 @@
 |=|[Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2017KHAN37)|Vietnam|9.00|9.92|  
 |237|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|8.15|9.93|  
 |=|[Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05)|USA|8.15|9.93|  
-|=|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|France|8.19|9.93|  
 |=|[Hadyan Jade Santosa](https://www.worldcubeassociation.org/persons/2017SANT03)|Indonesia|8.28|9.93|  
 |=|[José Miguel Lanz Mendoza](https://www.worldcubeassociation.org/persons/2013MEND05)|Venezuela|8.38|9.93|  
 |=|[Ilyas Arystanbekov (Ильяс Арыстанбеков)](https://www.worldcubeassociation.org/persons/2014ARYS01)|Kazakhstan|8.41|9.93|  
@@ -254,7 +253,8 @@
 |=|[Jakob Obleser](https://www.worldcubeassociation.org/persons/2013OBLE01)|Germany|8.84|9.93|  
 |=|[Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01)|Spain|8.87|9.93|  
 |=|[Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01)|South Africa|8.99|9.93|  
-|247|[Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01)|Poland|8.14|9.94|  
+|246|[Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01)|Poland|8.14|9.94|  
 |=|[Alexey Elokhin](https://www.worldcubeassociation.org/persons/2015ELOK01)|Russia|8.25|9.94|  
 |=|[Andrew Sopchak](https://www.worldcubeassociation.org/persons/2010SOPC01)|USA|8.31|9.94|  
 |=|[Lianhao Xu (徐廉浩)](https://www.worldcubeassociation.org/persons/2014XULI02)|China|8.33|9.94|  
+|=|[Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02)|Italy|8.36|9.94|  
