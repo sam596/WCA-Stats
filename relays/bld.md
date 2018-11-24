@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
+*Last updated using WCA Developer Export from Sat Nov 24 at 0908UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -13,7 +13,7 @@
 |3|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  
 |4|[Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01)|Russia|**6:28.33**|21.45|1:53.98|4:12.90|  
 |5|[Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01)|New Zealand|**6:34.40**|26.39|1:56.80|4:11.21|  
-|6|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|**6:50.16**|24.10|2:01.81|4:24.25|  
+|6|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|**6:46.89**|24.10|1:58.54|4:24.25|  
 |7|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:58.39**|29.96|1:57.57|4:30.86|  
 |8|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:19.44**|26.55|1:55.27|4:57.62|  
 |9|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|**7:23.89**|24.44|2:06.18|4:53.27|  

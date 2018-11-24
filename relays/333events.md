@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Wed Nov 21 at 0808UTC*
+*Last updated using WCA Developer Export from Sat Nov 24 at 0908UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -50,14 +50,14 @@
 |40|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|**1:46.14**|8.65|40.41|41.94|15.14|  
 |41|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|**1:47.62**|8.16|46.56|39.25|13.65|  
 |42|[Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01)|India|**1:48.73**|8.47|28.74|54.69|16.83|  
-|43|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|**1:49.65**|7.86|46.78|42.18|12.83|  
-|44|[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|Russia|**1:49.91**|6.85|50.17|38.10|14.79|  
-|45|[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Germany|**1:50.04**|8.74|35.06|51.15|15.09|  
-|46|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|**1:50.82**|7.77|1:08.82|21.67|12.56|  
-|47|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|**1:52.08**|5.69|46.68|48.60|11.11|  
-|48|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|**1:52.15**|6.59|55.18|39.52|10.86|  
-|49|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|**1:52.35**|10.23|31.83|53.06|17.23|  
-|50|[Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01)|Spain|**1:52.37**|7.14|58.61|33.82|12.80|  
+|43|[Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01)|Spain|**1:49.56**|7.14|58.61|31.01|12.80|  
+|44|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|**1:49.65**|7.86|46.78|42.18|12.83|  
+|45|[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|Russia|**1:49.91**|6.85|50.17|38.10|14.79|  
+|46|[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Germany|**1:50.04**|8.74|35.06|51.15|15.09|  
+|47|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|**1:50.82**|7.77|1:08.82|21.67|12.56|  
+|48|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|**1:52.08**|5.69|46.68|48.60|11.11|  
+|49|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|**1:52.15**|6.59|55.18|39.52|10.86|  
+|50|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|**1:52.35**|10.23|31.83|53.06|17.23|  
 |51|[Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02)|Korea|**1:52.43**|9.20|41.79|44.88|16.56|  
 |52|[Ruohan Qiu (邱若寒)](https://www.worldcubeassociation.org/persons/2012QIUR01)|China|**1:52.88**|7.03|1:11.67|24.53|9.65|  
 |53|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|**1:53.65**|6.13|1:09.73|27.89|9.90|  
@@ -156,7 +156,7 @@
 |146|[Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04)|Spain|**2:38.03**|5.85|1:21.08|58.86|12.24|  
 |147|[Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01)|Czech Republic|**2:38.06**|8.44|1:14.58|1:00.97|14.07|  
 |148|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|**2:38.29**|8.68|43.37|1:32.77|13.47|  
-|149|[Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02)|USA|**2:39.71**|8.98|49.28|1:26.70|14.75|  
+|149|[Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02)|USA|**2:39.39**|8.66|49.28|1:26.70|14.75|  
 |150|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|**2:39.72**|8.25|59.59|1:16.08|15.80|  
 |151|[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|Germany|**2:40.04**|7.86|56.64|1:26.03|9.51|  
 |152|[Xiaojie Jiang (蒋孝杰)](https://www.worldcubeassociation.org/persons/2011JIAN15)|China|**2:40.10**|7.45|1:49.75|29.65|13.25|  
