@@ -1,6 +1,6 @@
 ## Longest PB Streaks
 
-*Last updated using WCA Developer Export from Sat Nov 24 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Nov 27 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -9,11 +9,11 @@
 |Rank|Name|PB Streak|Start Comp|End Comp|  
 |--|--|--|--|--|  
 |1|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|74|[CumberlandValley2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009)||  
-|2|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|66|[RiverHillSummer2012](https://www.worldcubeassociation.org/competitions/RiverHillSummer2012)||  
+|2|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|67|[RiverHillSummer2012](https://www.worldcubeassociation.org/competitions/RiverHillSummer2012)||  
 |3|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|61|[NEMOAmsterdamOpen2012](https://www.worldcubeassociation.org/competitions/NEMOAmsterdamOpen2012)||  
 |=|[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|61|[Germany2010](https://www.worldcubeassociation.org/competitions/Germany2010)||  
 |5|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|56|[TorontoOpenFall2008](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2008)||  
-|6|[Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03)|51|[UKOpen2011](https://www.worldcubeassociation.org/competitions/UKOpen2011)||  
+|6|[Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03)|52|[UKOpen2011](https://www.worldcubeassociation.org/competitions/UKOpen2011)||  
 |7|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|50|[SmallCubesOpen2010](https://www.worldcubeassociation.org/competitions/SmallCubesOpen2010)||  
 |8|[Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01)|45|[RussiaOpen2010](https://www.worldcubeassociation.org/competitions/RussiaOpen2010)||  
 |9|[Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02)|44|[SwedishOpen2008](https://www.worldcubeassociation.org/competitions/SwedishOpen2008)||  
@@ -22,14 +22,15 @@
 |12|[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|42|[RutgersFall2006](https://www.worldcubeassociation.org/competitions/RutgersFall2006)||  
 |13|[Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01)|41|[France2010](https://www.worldcubeassociation.org/competitions/France2010)||  
 |14|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|40|[HarvardFall2013](https://www.worldcubeassociation.org/competitions/HarvardFall2013)||  
-|15|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|39|[UKChampionship2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014)||  
-|=|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|39|[Monmouth2013](https://www.worldcubeassociation.org/competitions/Monmouth2013)||  
-|=|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|39|[RiverHillSummer2014](https://www.worldcubeassociation.org/competitions/RiverHillSummer2014)||  
+|=|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|40|[UKChampionship2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014)||  
+|=|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|40|[Monmouth2013](https://www.worldcubeassociation.org/competitions/Monmouth2013)||  
+|17|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|39|[RiverHillSummer2014](https://www.worldcubeassociation.org/competitions/RiverHillSummer2014)||  
 |18|[David Woner](https://www.worldcubeassociation.org/persons/2008WONE01)|38|[DrexelFall2008](https://www.worldcubeassociation.org/competitions/DrexelFall2008)||  
 |=|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|38|[AmstelveenOpen2012](https://www.worldcubeassociation.org/competitions/AmstelveenOpen2012)||  
 |=|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|38|[USNationals2011](https://www.worldcubeassociation.org/competitions/USNationals2011)||  
 |21|[Daniel Greigg](https://www.worldcubeassociation.org/persons/2015GREI01)|37|[RiverHillWinter2015](https://www.worldcubeassociation.org/competitions/RiverHillWinter2015)||  
 |=|[Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02)|37|[MadridOpenRubik2010](https://www.worldcubeassociation.org/competitions/MadridOpenRubik2010)||  
+|=|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|37|[CuthbertsOpen2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013)||  
 |=|[Jay Benedict Alfaras](https://www.worldcubeassociation.org/persons/2009ALFA01)|37|[SingaporeOpen2009](https://www.worldcubeassociation.org/competitions/SingaporeOpen2009)||  
 |=|[Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08)|37|[UABOpenChallenge2016](https://www.worldcubeassociation.org/competitions/UABOpenChallenge2016)||  
 |=|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|37|[SlowNSteadyFall2014](https://www.worldcubeassociation.org/competitions/SlowNSteadyFall2014)||  
@@ -37,15 +38,14 @@
 |=|[Lev Holub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|37|[KharkivSpecial2014](https://www.worldcubeassociation.org/competitions/KharkivSpecial2014)||  
 |=|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|37|[RoskildeChristmas2013](https://www.worldcubeassociation.org/competitions/RoskildeChristmas2013)||  
 |=|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|37|[MichiganCubingClubBeta2016](https://www.worldcubeassociation.org/competitions/MichiganCubingClubBeta2016)||  
-|30|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|36|[CuthbertsOpen2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013)||  
+|31|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|36|[IrishOpen2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012)||  
 |=|[Jonathan Tilahun](https://www.worldcubeassociation.org/persons/2014TILA01)|36|[SlownSteadyFall2015](https://www.worldcubeassociation.org/competitions/SlownSteadyFall2015)||  
 |=|[Jungwoo Kim](https://www.worldcubeassociation.org/persons/2014KIMJ02)|36|[CaltechWinter2014](https://www.worldcubeassociation.org/competitions/CaltechWinter2014)||  
 |=|[Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01)|36|[SCMU2015](https://www.worldcubeassociation.org/competitions/SCMU2015)||  
 |=|[Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01)|36|[ZonhovenOpen2016](https://www.worldcubeassociation.org/competitions/ZonhovenOpen2016)||  
-|35|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|35|[IrishOpen2012](https://www.worldcubeassociation.org/competitions/IrishOpen2012)||  
-|=|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|35|[JohnsHopkinsWinter2015](https://www.worldcubeassociation.org/competitions/JohnsHopkinsWinter2015)||  
-|37|[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02)|34|[PuneFallOpen2015](https://www.worldcubeassociation.org/competitions/PuneFallOpen2015)||  
-|=|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|34|[WelwynGardenCity2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014)||  
+|36|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|35|[JohnsHopkinsWinter2015](https://www.worldcubeassociation.org/competitions/JohnsHopkinsWinter2015)||  
+|=|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|35|[WelwynGardenCity2014](https://www.worldcubeassociation.org/competitions/WelwynGardenCity2014)||  
+|38|[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02)|34|[PuneFallOpen2015](https://www.worldcubeassociation.org/competitions/PuneFallOpen2015)||  
 |=|[Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02)|34|[KansaiOpen2013](https://www.worldcubeassociation.org/competitions/KansaiOpen2013)||  
 |=|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|34|[CannesOpen2013](https://www.worldcubeassociation.org/competitions/CannesOpen2013)||  
 |=|[Shubhayan Kabir](https://www.worldcubeassociation.org/persons/2012KABI01)|34|[Amrita2012](https://www.worldcubeassociation.org/competitions/Amrita2012)||  
@@ -63,12 +63,12 @@
 |=|[Mitchell Hum](https://www.worldcubeassociation.org/persons/2017HUMM01)|32|[SlowNSteadySpring2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2017)||  
 |=|[Willi Mickein](https://www.worldcubeassociation.org/persons/2012MICK01)|32|[BerlinOpen2012](https://www.worldcubeassociation.org/competitions/BerlinOpen2012)||  
 |55|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|31|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)||  
-|=|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|31|[WelcomeToCambridge2014](https://www.worldcubeassociation.org/competitions/WelcomeToCambridge2014)||  
 |=|[Jan van Dorst](https://www.worldcubeassociation.org/persons/2016DORS01)|31|[Cubelonia2016](https://www.worldcubeassociation.org/competitions/Cubelonia2016)||  
 |=|[Russel Bocalbos](https://www.worldcubeassociation.org/persons/2016BOCA01)|31|[BaguioCityOpen2016](https://www.worldcubeassociation.org/competitions/BaguioCityOpen2016)||  
 |=|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|31|[ForTheLoveOfCubing2016](https://www.worldcubeassociation.org/competitions/ForTheLoveOfCubing2016)||  
 |=|[Tomek Bogdanik](https://www.worldcubeassociation.org/persons/2013BOGD04)|31|[SLSJastrzebie2013](https://www.worldcubeassociation.org/competitions/SLSJastrzebie2013)||  
-|61|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|30|[Cubetcha2013](https://www.worldcubeassociation.org/competitions/Cubetcha2013)||  
+|60|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|30|[Cubetcha2013](https://www.worldcubeassociation.org/competitions/Cubetcha2013)||  
+|=|[Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02)|30|[BeijingSummer2013](https://www.worldcubeassociation.org/competitions/BeijingSummer2013)||  
 |=|[Efrem Blitz](https://www.worldcubeassociation.org/persons/2015BLIT01)|30|[BayAreaSpeedcubin52015](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin52015)||  
 |=|[Marco Belotti](https://www.worldcubeassociation.org/persons/2010BELO01)|30|[HalloweenOpen2010](https://www.worldcubeassociation.org/competitions/HalloweenOpen2010)||  
 |=|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|30|[MunichOpen2014](https://www.worldcubeassociation.org/competitions/MunichOpen2014)||  
@@ -80,18 +80,19 @@
 |=|[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|29|[UKMasters2009](https://www.worldcubeassociation.org/competitions/UKMasters2009)||  
 |=|[Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03)|29|[IdahoOpen2014](https://www.worldcubeassociation.org/competitions/IdahoOpen2014)||  
 |=|[Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01)|29|[VirginiaOpenSpring2016](https://www.worldcubeassociation.org/competitions/VirginiaOpenSpring2016)||  
-|=|[Chengzhang Lin (林成璋)](https://www.worldcubeassociation.org/persons/2013LINC02)|29|[BeijingSummer2013](https://www.worldcubeassociation.org/competitions/BeijingSummer2013)||  
 |=|[Daan Baartmans](https://www.worldcubeassociation.org/persons/2014BAAR01)|29|[DutchOpen2016](https://www.worldcubeassociation.org/competitions/DutchOpen2016)||  
+|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|29|[DementeQueretaroOpen2014](https://www.worldcubeassociation.org/competitions/DementeQueretaroOpen2014)||  
 |=|[Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08)|29|[AFSwedishCubeOpen2016](https://www.worldcubeassociation.org/competitions/AFSwedishCubeOpen2016)||  
 |=|[Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02)|29|[CaltechFall2007](https://www.worldcubeassociation.org/competitions/CaltechFall2007)||  
 |=|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|29|[Couve2012](https://www.worldcubeassociation.org/competitions/Couve2012)||  
 |=|[Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01)|29|[WC2007](https://www.worldcubeassociation.org/competitions/WC2007)||  
 |=|[Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01)|29|[NorwegianChampionship2014](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2014)||  
 |=|[Wiktor Smorąg](https://www.worldcubeassociation.org/persons/2015SMOR01)|29|[SLSRybnik2015](https://www.worldcubeassociation.org/competitions/SLSRybnik2015)||  
-|81|[Abhi Gawande](https://www.worldcubeassociation.org/persons/2013GAWA01)|28|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
+|=|[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|29|[MelakaOpen2014](https://www.worldcubeassociation.org/competitions/MelakaOpen2014)||  
+|=|[Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04)|29|[GuangdongOpen2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014)||  
+|83|[Abhi Gawande](https://www.worldcubeassociation.org/persons/2013GAWA01)|28|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
 |=|[Caleb Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01)|28|[PDXCubingAlpha2016](https://www.worldcubeassociation.org/competitions/PDXCubingAlpha2016)||  
 |=|[Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03)|28|[IdahoOpen2014](https://www.worldcubeassociation.org/competitions/IdahoOpen2014)||  
-|=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|28|[DementeQueretaroOpen2014](https://www.worldcubeassociation.org/competitions/DementeQueretaroOpen2014)||  
 |=|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|28|[HamburgOpen2014](https://www.worldcubeassociation.org/competitions/HamburgOpen2014)||  
 |=|[Huan Yuan (袁欢)](https://www.worldcubeassociation.org/persons/2010YUAN08)|28|[NanjingWinter2010](https://www.worldcubeassociation.org/competitions/NanjingWinter2010)||  
 |=|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|28|[Eugene2016](https://www.worldcubeassociation.org/competitions/Eugene2016)||  
@@ -99,26 +100,28 @@
 |=|[Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01)|28|[ValceaRubikOpen2013](https://www.worldcubeassociation.org/competitions/ValceaRubikOpen2013)||  
 |=|[Midas Kiebert](https://www.worldcubeassociation.org/persons/2016KIEB01)|28|[TulipOpen2016](https://www.worldcubeassociation.org/competitions/TulipOpen2016)||  
 |=|[Robin Verstraten](https://www.worldcubeassociation.org/persons/2012VERS02)|28|[ZeelandOpen2016](https://www.worldcubeassociation.org/competitions/ZeelandOpen2016)||  
-|=|[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|28|[MelakaOpen2014](https://www.worldcubeassociation.org/competitions/MelakaOpen2014)||  
-|=|[Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04)|28|[GuangdongOpen2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014)||  
+|=|[Shifei Dai (代时飞)](https://www.worldcubeassociation.org/persons/2015DAIS01)|28|[NanjingSpring2015](https://www.worldcubeassociation.org/competitions/NanjingSpring2015)||  
 |94|[Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12)|27|[NewAlbany2013](https://www.worldcubeassociation.org/competitions/NewAlbany2013)||  
 |=|[Adam Gradess](https://www.worldcubeassociation.org/persons/2014GRAD03)|27|[RedCrossCubingOpen2014](https://www.worldcubeassociation.org/competitions/RedCrossCubingOpen2014)||  
 |=|[Adithyaa Anand](https://www.worldcubeassociation.org/persons/2013ANAN03)|27|[VITCubeOpen2013](https://www.worldcubeassociation.org/competitions/VITCubeOpen2013)||  
+|=|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|27|[CyberOpen2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012)||  
 |=|[Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23)|27|[UMassODSFall2016](https://www.worldcubeassociation.org/competitions/UMassODSFall2016)||  
 |=|[Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01)|27|[BerkeleyWinter2016](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2016)||  
 |=|[Fritz Löhr](https://www.worldcubeassociation.org/persons/2011LOHR01)|27|[AustrianOpen2011](https://www.worldcubeassociation.org/competitions/AustrianOpen2011)||  
 |=|[Jason Lee](https://www.worldcubeassociation.org/persons/2015LEEJ12)|27|[DallasWinter2015](https://www.worldcubeassociation.org/competitions/DallasWinter2015)||  
+|=|[Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01)|27|[GuateMayaOpen2013](https://www.worldcubeassociation.org/competitions/GuateMayaOpen2013)||  
 |=|[Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02)|27|[RoseCity2017](https://www.worldcubeassociation.org/competitions/RoseCity2017)||  
 |=|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|27|[OdenseClassic2014](https://www.worldcubeassociation.org/competitions/OdenseClassic2014)||  
 |=|[Rishabh Sanghavi](https://www.worldcubeassociation.org/persons/2012SANG02)|27|[DJSpeedcubing2012](https://www.worldcubeassociation.org/competitions/DJSpeedcubing2012)||  
 |=|[Sean Skinner](https://www.worldcubeassociation.org/persons/2016SKIN01)|27|[AthensSummerOmega2016](https://www.worldcubeassociation.org/competitions/AthensSummerOmega2016)||  
-|=|[Shifei Dai (代时飞)](https://www.worldcubeassociation.org/persons/2015DAIS01)|27|[NanjingSpring2015](https://www.worldcubeassociation.org/competitions/NanjingSpring2015)||  
 |=|[Steven Wintringham](https://www.worldcubeassociation.org/persons/2015WINT02)|27|[Dayton2015](https://www.worldcubeassociation.org/competitions/Dayton2015)||  
 |=|[Theodore Chow](https://www.worldcubeassociation.org/persons/2012CHOW03)|27|[Guangdong2012](https://www.worldcubeassociation.org/competitions/Guangdong2012)||  
 |=|[Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05)|27|[SuzhouOpen2016](https://www.worldcubeassociation.org/competitions/SuzhouOpen2016)||  
 |=|[Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01)|27|[Wiscube2ndEdition2015](https://www.worldcubeassociation.org/competitions/Wiscube2ndEdition2015)||  
-|110|[Aaron Abramowitz](https://www.worldcubeassociation.org/persons/2009ABRA01)|26|[Thankscubing2009](https://www.worldcubeassociation.org/competitions/Thankscubing2009)||  
-|=|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|26|[CyberOpen2012](https://www.worldcubeassociation.org/competitions/CyberOpen2012)||  
+|=|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|27|[NanchangSpring2017](https://www.worldcubeassociation.org/competitions/NanchangSpring2017)||  
+|=|[Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01)|27|[CambridgeOpen2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013)||  
+|=|[Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07)|27|[ShantouOpen2015](https://www.worldcubeassociation.org/competitions/ShantouOpen2015)||  
+|114|[Aaron Abramowitz](https://www.worldcubeassociation.org/persons/2009ABRA01)|26|[Thankscubing2009](https://www.worldcubeassociation.org/competitions/Thankscubing2009)||  
 |=|[Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01)|26|[SpanishChampionship2009](https://www.worldcubeassociation.org/competitions/SpanishChampionship2009)||  
 |=|[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|26|[MunichOpen2013](https://www.worldcubeassociation.org/competitions/MunichOpen2013)||  
 |=|[Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01)|26|[ThailandOpen2009](https://www.worldcubeassociation.org/competitions/ThailandOpen2009)||  
@@ -130,13 +133,12 @@
 |=|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|26|[HEMMariCubikOpen2013](https://www.worldcubeassociation.org/competitions/HEMMariCubikOpen2013)||  
 |=|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|26|[SCCOpen2015](https://www.worldcubeassociation.org/competitions/SCCOpen2015)||  
 |=|[Marco Minici](https://www.worldcubeassociation.org/persons/2011MINI01)|26|[TrentinOpen2011](https://www.worldcubeassociation.org/competitions/TrentinOpen2011)||  
-|=|[Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01)|26|[GuateMayaOpen2013](https://www.worldcubeassociation.org/competitions/GuateMayaOpen2013)||  
+|=|[Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37)|26|[ManhassetFall2015](https://www.worldcubeassociation.org/competitions/ManhassetFall2015)||  
 |=|[Samuel Brenner](https://www.worldcubeassociation.org/persons/2014BREN02)|26|[WilliamsWinter2014](https://www.worldcubeassociation.org/competitions/WilliamsWinter2014)||  
-|=|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|26|[NanchangSpring2017](https://www.worldcubeassociation.org/competitions/NanchangSpring2017)||  
-|=|[Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01)|26|[CambridgeOpen2013](https://www.worldcubeassociation.org/competitions/CambridgeOpen2013)||  
-|=|[Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07)|26|[ShantouOpen2015](https://www.worldcubeassociation.org/competitions/ShantouOpen2015)||  
-|128|[Alexis Margaret Magtibay](https://www.worldcubeassociation.org/persons/2016MAGT01)|25|[GoodNutritionCubeDay2016](https://www.worldcubeassociation.org/competitions/GoodNutritionCubeDay2016)||  
+|128|[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|25|[HaywardRubiksRumble2016](https://www.worldcubeassociation.org/competitions/HaywardRubiksRumble2016)||  
+|=|[Alexis Margaret Magtibay](https://www.worldcubeassociation.org/persons/2016MAGT01)|25|[GoodNutritionCubeDay2016](https://www.worldcubeassociation.org/competitions/GoodNutritionCubeDay2016)||  
 |=|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|25|[PBSmashathon2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015)||  
+|=|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|25|[WelcomeBackToGuildford2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015)||  
 |=|[James Gonsalves](https://www.worldcubeassociation.org/persons/2015GONS01)|25|[MumbaiOpen2015](https://www.worldcubeassociation.org/competitions/MumbaiOpen2015)||  
 |=|[Jens Diewald](https://www.worldcubeassociation.org/persons/2008DIEW01)|25|[GermanOpen2008](https://www.worldcubeassociation.org/competitions/GermanOpen2008)||  
 |=|[Jiawen Wu (吴嘉文)](https://www.worldcubeassociation.org/persons/2010WUJI01)|25|[ShanghaiWinter2010](https://www.worldcubeassociation.org/competitions/ShanghaiWinter2010)||  
@@ -146,14 +148,12 @@
 |=|[Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01)|25|[SpanishChampionship2014](https://www.worldcubeassociation.org/competitions/SpanishChampionship2014)||  
 |=|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|25|[SlowNSteadySummer2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2017)||  
 |=|[Matthew Bahner](https://www.worldcubeassociation.org/persons/2009BAHN01)|25|[SafeHaven2009](https://www.worldcubeassociation.org/competitions/SafeHaven2009)||  
-|=|[Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37)|25|[ManhassetFall2015](https://www.worldcubeassociation.org/competitions/ManhassetFall2015)||  
+|=|[Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01)|25|[UKChampionship2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014)||  
 |=|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|25|[PugetSoundWinter2017](https://www.worldcubeassociation.org/competitions/PugetSoundWinter2017)||  
 |=|[Maxime Clapié](https://www.worldcubeassociation.org/persons/2013CLAP01)|25|[France2013](https://www.worldcubeassociation.org/competitions/France2013)||  
-|=|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|25|[UKChampionship2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015)||  
 |=|[Stefan Lidström](https://www.worldcubeassociation.org/persons/2008LIDS01)|25|[SwedishOpen2008](https://www.worldcubeassociation.org/competitions/SwedishOpen2008)||  
-|144|[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|24|[HaywardRubiksRumble2016](https://www.worldcubeassociation.org/competitions/HaywardRubiksRumble2016)||  
-|=|[Alan Ma](https://www.worldcubeassociation.org/persons/2010MAAL01)|24|[AustralianNationals2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010)||  
-|=|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|24|[WelcomeBackToGuildford2015](https://www.worldcubeassociation.org/competitions/WelcomeBackToGuildford2015)||  
+|145|[Alan Ma](https://www.worldcubeassociation.org/persons/2010MAAL01)|24|[AustralianNationals2010](https://www.worldcubeassociation.org/competitions/AustralianNationals2010)||  
+|=|[Anton Smolyanyy](https://www.worldcubeassociation.org/persons/2016SMOL01)|24|[BigAppleSpring2016](https://www.worldcubeassociation.org/competitions/BigAppleSpring2016)||  
 |=|[Christian Collado Calderón](https://www.worldcubeassociation.org/persons/2013CALD01)|24|[CampeonatoSudamericano2013](https://www.worldcubeassociation.org/competitions/CampeonatoSudamericano2013)||  
 |=|[David Armstrong](https://www.worldcubeassociation.org/persons/2016ARMS04)|24|[RoseCity2016](https://www.worldcubeassociation.org/competitions/RoseCity2016)||  
 |=|[Eason Siew Ee Son](https://www.worldcubeassociation.org/persons/2009SIEW02)|24|[JohorOpen2016](https://www.worldcubeassociation.org/competitions/JohorOpen2016)||  
@@ -166,7 +166,6 @@
 |=|[Marvin Llaneta](https://www.worldcubeassociation.org/persons/2009LLAN01)|24|[PhilippinesOpen2009](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2009)||  
 |=|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|24|[CzechOpen2015](https://www.worldcubeassociation.org/competitions/CzechOpen2015)||  
 |=|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|24|[PolishOpen2013](https://www.worldcubeassociation.org/competitions/PolishOpen2013)||  
-|=|[Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01)|24|[UKChampionship2014](https://www.worldcubeassociation.org/competitions/UKChampionship2014)||  
 |=|[Max Hahnbück](https://www.worldcubeassociation.org/persons/2013HAHN02)|24|[GermanNationals2013](https://www.worldcubeassociation.org/competitions/GermanNationals2013)||  
 |=|[Maxence Baudry](https://www.worldcubeassociation.org/persons/2014BAUD02)|24|[ChampagneOpen2014](https://www.worldcubeassociation.org/competitions/ChampagneOpen2014)||  
 |=|[Naren Ramesh](https://www.worldcubeassociation.org/persons/2015RAME02)|24|[SSNCubeOpen2016](https://www.worldcubeassociation.org/competitions/SSNCubeOpen2016)||  
@@ -179,8 +178,7 @@
 |=|[Tyler Brodzinski](https://www.worldcubeassociation.org/persons/2014BROD03)|24|[MichiganMayMadness2014](https://www.worldcubeassociation.org/competitions/MichiganMayMadness2014)||  
 |=|[Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11)|24|[BeijingSpring2014](https://www.worldcubeassociation.org/competitions/BeijingSpring2014)||  
 |=|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|24|[SlowNSteadySpring2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016)||  
-|172|[Anton Smolyanyy](https://www.worldcubeassociation.org/persons/2016SMOL01)|23|[BigAppleSpring2016](https://www.worldcubeassociation.org/competitions/BigAppleSpring2016)||  
-|=|[Austin Thielemier](https://www.worldcubeassociation.org/persons/2009THIE03)|23|[CumberlandValley2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009)||  
+|171|[Austin Thielemier](https://www.worldcubeassociation.org/persons/2009THIE03)|23|[CumberlandValley2009](https://www.worldcubeassociation.org/competitions/CumberlandValley2009)||  
 |=|[Ben Coppin](https://www.worldcubeassociation.org/persons/2013COPP01)|23|[UKChampionship2013](https://www.worldcubeassociation.org/competitions/UKChampionship2013)||  
 |=|[Ben Marlin](https://www.worldcubeassociation.org/persons/2015MARL01)|23|[LexingtonSpring2015](https://www.worldcubeassociation.org/competitions/LexingtonSpring2015)||  
 |=|[Bence Kovács](https://www.worldcubeassociation.org/persons/2014KOVA07)|23|[CroatianOpen2014](https://www.worldcubeassociation.org/competitions/CroatianOpen2014)||  
@@ -204,7 +202,6 @@
 |=|[Omkar Iyer](https://www.worldcubeassociation.org/persons/2014IYER03)|23|[CCFCBLDDay2014](https://www.worldcubeassociation.org/competitions/CCFCBLDDay2014)||  
 |=|[Prin Kijviwattanakarn (ปริญ กิจวิวัฒนการ)](https://www.worldcubeassociation.org/persons/2009KIJV01)|23|[ThailandOpen2009](https://www.worldcubeassociation.org/competitions/ThailandOpen2009)||  
 |=|[Raúl Banacloche Biot](https://www.worldcubeassociation.org/persons/2015BANA01)|23|[MADCubeWeekend2015](https://www.worldcubeassociation.org/competitions/MADCubeWeekend2015)||  
-|=|[Roman Fesenko](https://www.worldcubeassociation.org/persons/2013FESE01)|23|[SaintPetersburgOpen2013](https://www.worldcubeassociation.org/competitions/SaintPetersburgOpen2013)||  
 |=|[Ronald Mansveld](https://www.worldcubeassociation.org/persons/2015MANS04)|23|[TheGloriousNorth2015](https://www.worldcubeassociation.org/competitions/TheGloriousNorth2015)||  
 |=|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|23|[BayAreaSpeedcubin42014](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin42014)||  
 |=|[Spencer Stutzman](https://www.worldcubeassociation.org/persons/2014STUT01)|23|[BerkeleySpring2014](https://www.worldcubeassociation.org/competitions/BerkeleySpring2014)||  
@@ -213,10 +210,11 @@
 |=|[Volodymyr Korol (Володимир Король)](https://www.worldcubeassociation.org/persons/2015KORO02)|23|[UkrainianOpen2015](https://www.worldcubeassociation.org/competitions/UkrainianOpen2015)||  
 |=|[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|23|[Suwon2008](https://www.worldcubeassociation.org/competitions/Suwon2008)||  
 |=|[Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06)|23|[Wiscube2ndEdition2015](https://www.worldcubeassociation.org/competitions/Wiscube2ndEdition2015)||  
-|206|[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|22|[Singapore3332016](https://www.worldcubeassociation.org/competitions/Singapore3332016)||  
+|203|[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|22|[Singapore3332016](https://www.worldcubeassociation.org/competitions/Singapore3332016)||  
 |=|[Benjamin Pugh](https://www.worldcubeassociation.org/persons/2014PUGH01)|22|[Michigan2014](https://www.worldcubeassociation.org/competitions/Michigan2014)||  
 |=|[Christophe Grosjean](https://www.worldcubeassociation.org/persons/2016GROS06)|22|[SwissNationals2016](https://www.worldcubeassociation.org/competitions/SwissNationals2016)||  
 |=|[Chun-Chen Chu (朱峻辰)](https://www.worldcubeassociation.org/persons/2013CHUC01)|22|[TaiwanWinterOpen2013](https://www.worldcubeassociation.org/competitions/TaiwanWinterOpen2013)||  
+|=|[Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02)|22|[IGARubik2014](https://www.worldcubeassociation.org/competitions/IGARubik2014)||  
 |=|[Daniel Pavelich](https://www.worldcubeassociation.org/persons/2015PAVE01)|22|[MishawakaWinter2017](https://www.worldcubeassociation.org/competitions/MishawakaWinter2017)||  
 |=|[Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01)|22|[MonumentMountainWinter2017](https://www.worldcubeassociation.org/competitions/MonumentMountainWinter2017)||  
 |=|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|22|[AustrianOpen2016](https://www.worldcubeassociation.org/competitions/AustrianOpen2016)||  
@@ -226,6 +224,7 @@
 |=|[Francisco José Campos Rocamora](https://www.worldcubeassociation.org/persons/2013ROCA01)|22|[MolinaOpen2013](https://www.worldcubeassociation.org/competitions/MolinaOpen2013)||  
 |=|[Fung Hoi Yin (馮凱賢)](https://www.worldcubeassociation.org/persons/2010YINF01)|22|[HongKongCubeDay2010](https://www.worldcubeassociation.org/competitions/HongKongCubeDay2010)||  
 |=|[Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01)|22|[Michigan2016](https://www.worldcubeassociation.org/competitions/Michigan2016)||  
+|=|[Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08)|22|[MadridOpen2017](https://www.worldcubeassociation.org/competitions/MadridOpen2017)||  
 |=|[Jia-Hong Lu (陸嘉宏)](https://www.worldcubeassociation.org/persons/2007LUJI01)|22|[TaiwanSummer2010](https://www.worldcubeassociation.org/competitions/TaiwanSummer2010)||  
 |=|[Jiacheng Peng (彭家诚)](https://www.worldcubeassociation.org/persons/2012PENG05)|22|[Guangdong2012](https://www.worldcubeassociation.org/competitions/Guangdong2012)||  
 |=|[Jonathan Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01)|22|[USNationals2010](https://www.worldcubeassociation.org/competitions/USNationals2010)||  
@@ -240,29 +239,33 @@
 |=|[Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04)|22|[ShaastraCubeOpen2016](https://www.worldcubeassociation.org/competitions/ShaastraCubeOpen2016)||  
 |=|[Philip Moore](https://www.worldcubeassociation.org/persons/2013MOOR02)|22|[MunichOpen2013](https://www.worldcubeassociation.org/competitions/MunichOpen2013)||  
 |=|[Riley Norrid](https://www.worldcubeassociation.org/persons/2014NORR01)|22|[USNationals2016](https://www.worldcubeassociation.org/competitions/USNationals2016)||  
+|=|[Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01)|22|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)||  
 |=|[Shinichiro Sato (佐藤真一郎)](https://www.worldcubeassociation.org/persons/2009SATO02)|22|[OsakaOpen2009](https://www.worldcubeassociation.org/competitions/OsakaOpen2009)||  
 |=|[Steffen Nielsen](https://www.worldcubeassociation.org/persons/2013NIEL02)|22|[RoskildeChristmas2013](https://www.worldcubeassociation.org/competitions/RoskildeChristmas2013)||  
 |=|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|22|[SaintMauriceOpen2018](https://www.worldcubeassociation.org/competitions/SaintMauriceOpen2018)||  
-|236|[Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01)|21|[FinnishOpen2016](https://www.worldcubeassociation.org/competitions/FinnishOpen2016)||  
+|=|[Yan-Jou Lin (林彥州)](https://www.worldcubeassociation.org/persons/2011LINY05)|22|[TaipeiOpen2011](https://www.worldcubeassociation.org/competitions/TaipeiOpen2011)||  
+|=|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|22|[NanjingSpring2015](https://www.worldcubeassociation.org/competitions/NanjingSpring2015)||  
+|238|[Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01)|21|[FinnishOpen2016](https://www.worldcubeassociation.org/competitions/FinnishOpen2016)||  
+|=|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|21|[MathSocOpen2017](https://www.worldcubeassociation.org/competitions/MathSocOpen2017)||  
 |=|[Ben Wakelin](https://www.worldcubeassociation.org/persons/2015WAKE01)|21|[CubeForCambodia2015](https://www.worldcubeassociation.org/competitions/CubeForCambodia2015)||  
 |=|[Brayden Beckman](https://www.worldcubeassociation.org/persons/2016BECK07)|21|[MasonCubingChallenge2016](https://www.worldcubeassociation.org/competitions/MasonCubingChallenge2016)||  
 |=|[Chad Batten](https://www.worldcubeassociation.org/persons/2009BATT01)|21|[NewarkWinter2009](https://www.worldcubeassociation.org/competitions/NewarkWinter2009)||  
 |=|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|21|[HessenOpen2015](https://www.worldcubeassociation.org/competitions/HessenOpen2015)||  
 |=|[Cyril Barigand](https://www.worldcubeassociation.org/persons/2012BARI01)|21|[ZuneOpen2012](https://www.worldcubeassociation.org/competitions/ZuneOpen2012)||  
 |=|[Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07)|21|[AZCubingFall2015](https://www.worldcubeassociation.org/competitions/AZCubingFall2015)||  
-|=|[Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02)|21|[IGARubik2014](https://www.worldcubeassociation.org/competitions/IGARubik2014)||  
 |=|[Daniel Yakhkind](https://www.worldcubeassociation.org/persons/2015YAKH01)|21|[KharkivCubeDay2015](https://www.worldcubeassociation.org/competitions/KharkivCubeDay2015)||  
 |=|[Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05)|21|[CubeateWeekend2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016)||  
 |=|[Davi de Andrade Iácono](https://www.worldcubeassociation.org/persons/2015IACO01)|21|[SantaremOpen2015](https://www.worldcubeassociation.org/competitions/SantaremOpen2015)||  
 |=|[Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01)|21|[ZurichOpen2016](https://www.worldcubeassociation.org/competitions/ZurichOpen2016)||  
+|=|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|21|[CuthbertsOpen2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015)||  
 |=|[Haibo Sui (隋海波)](https://www.worldcubeassociation.org/persons/2011SUIH01)|21|[ShandongOpen2011](https://www.worldcubeassociation.org/competitions/ShandongOpen2011)||  
 |=|[Hector David Martinez Argaez](https://www.worldcubeassociation.org/persons/2014ARGA01)|21|[SpeedcubingMedellin2014](https://www.worldcubeassociation.org/competitions/SpeedcubingMedellin2014)||  
 |=|[Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01)|21|[PolishNationals2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013)||  
 |=|[Jacob Hutnyk](https://www.worldcubeassociation.org/persons/2011HUTN01)|21|[VancouverWinter2011](https://www.worldcubeassociation.org/competitions/VancouverWinter2011)||  
-|=|[Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08)|21|[MadridOpen2017](https://www.worldcubeassociation.org/competitions/MadridOpen2017)||  
 |=|[Jiahao Deng (邓家豪)](https://www.worldcubeassociation.org/persons/2014DENG08)|21|[GuangdongOpen2014](https://www.worldcubeassociation.org/competitions/GuangdongOpen2014)||  
 |=|[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|21|[BUAAOpen2010](https://www.worldcubeassociation.org/competitions/BUAAOpen2010)||  
 |=|[Johan Svensson](https://www.worldcubeassociation.org/persons/2011SVEN02)|21|[SwedishCubedays2011](https://www.worldcubeassociation.org/competitions/SwedishCubedays2011)||  
+|=|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|21|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)||  
 |=|[Kyle Olsen](https://www.worldcubeassociation.org/persons/2016OLSE02)|21|[SlowNSteadyFall2016](https://www.worldcubeassociation.org/competitions/SlowNSteadyFall2016)||  
 |=|[Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01)|21|[BrnoOpen2015](https://www.worldcubeassociation.org/competitions/BrnoOpen2015)||  
 |=|[Mads Mohr Christensen](https://www.worldcubeassociation.org/persons/2007CHRI02)|21|[BeneluxOpen2010](https://www.worldcubeassociation.org/competitions/BeneluxOpen2010)||  
@@ -279,24 +282,20 @@
 |=|[Rahul Kulkarni](https://www.worldcubeassociation.org/persons/2015KULK06)|21|[MumbaiOpen2015](https://www.worldcubeassociation.org/competitions/MumbaiOpen2015)||  
 |=|[Richard Espinosa](https://www.worldcubeassociation.org/persons/2014ESPI01)|21|[ShoeCapital2014](https://www.worldcubeassociation.org/competitions/ShoeCapital2014)||  
 |=|[Robert Horvath](https://www.worldcubeassociation.org/persons/2013HORV02)|21|[WC2013](https://www.worldcubeassociation.org/competitions/WC2013)||  
-|=|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|21|[HamburgOpen2017](https://www.worldcubeassociation.org/competitions/HamburgOpen2017)||  
 |=|[Ryan Przybocki](https://www.worldcubeassociation.org/persons/2013PRZY02)|21|[BayAreaSummer2013](https://www.worldcubeassociation.org/competitions/BayAreaSummer2013)||  
 |=|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|21|[PugetSoundWinter2017](https://www.worldcubeassociation.org/competitions/PugetSoundWinter2017)||  
-|=|[Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01)|21|[USNationals2015](https://www.worldcubeassociation.org/competitions/USNationals2015)||  
 |=|[Staš Zupanc](https://www.worldcubeassociation.org/persons/2014ZUPA01)|21|[SlovenianOpen2014](https://www.worldcubeassociation.org/competitions/SlovenianOpen2014)||  
 |=|[Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02)|21|[MelbourneAutumn2015](https://www.worldcubeassociation.org/competitions/MelbourneAutumn2015)||  
 |=|[Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01)|21|[JRCAKansaiSummer2014](https://www.worldcubeassociation.org/competitions/JRCAKansaiSummer2014)||  
 |=|[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|21|[BerkeleyFall2016](https://www.worldcubeassociation.org/competitions/BerkeleyFall2016)||  
 |=|[Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01)|21|[DoSeum2016](https://www.worldcubeassociation.org/competitions/DoSeum2016)||  
-|=|[Yan-Jou Lin (林彥州)](https://www.worldcubeassociation.org/persons/2011LINY05)|21|[TaipeiOpen2011](https://www.worldcubeassociation.org/competitions/TaipeiOpen2011)||  
+|=|[Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02)|21|[ChongqingOpen2016](https://www.worldcubeassociation.org/competitions/ChongqingOpen2016)||  
 |=|[Yannick Balsiger](https://www.worldcubeassociation.org/persons/2017BALS01)|21|[SwissOpen2017](https://www.worldcubeassociation.org/competitions/SwissOpen2017)||  
-|=|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|21|[NanjingSpring2015](https://www.worldcubeassociation.org/competitions/NanjingSpring2015)||  
 |=|[Yu Byeong-Seon (유병선)](https://www.worldcubeassociation.org/persons/2008BYEO01)|21|[KCAKoreaOpen2008](https://www.worldcubeassociation.org/competitions/KCAKoreaOpen2008)||  
 |=|[Zack Brandon](https://www.worldcubeassociation.org/persons/2016BRAN02)|21|[SlowNSteadySpring2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016)||  
 |286|[Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01)|20|[SaoLuisOpen2014](https://www.worldcubeassociation.org/competitions/SaoLuisOpen2014)||  
 |=|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|20|[MoscowSpringOpen2015](https://www.worldcubeassociation.org/competitions/MoscowSpringOpen2015)||  
 |=|[Ansh Arora](https://www.worldcubeassociation.org/persons/2014AROR02)|20|[DelhiOpen2014](https://www.worldcubeassociation.org/competitions/DelhiOpen2014)||  
-|=|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|20|[MathSocOpen2017](https://www.worldcubeassociation.org/competitions/MathSocOpen2017)||  
 |=|[Athul Vikas](https://www.worldcubeassociation.org/persons/2017VIKA01)|20|[CrossroadsCubing2017](https://www.worldcubeassociation.org/competitions/CrossroadsCubing2017)||  
 |=|[Bálint Bodor](https://www.worldcubeassociation.org/persons/2008BODO01)|20|[HungarianOpen2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008)||  
 |=|[Bernard Solomon](https://www.worldcubeassociation.org/persons/2013SOLO02)|20|[CuthbertsOpen2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013)||  
@@ -304,8 +303,10 @@
 |=|[Caleb Hoffman](https://www.worldcubeassociation.org/persons/2016HOFF03)|20|[StFrancisIIGYM2016](https://www.worldcubeassociation.org/competitions/StFrancisIIGYM2016)||  
 |=|[Carson Penticuff](https://www.worldcubeassociation.org/persons/2008PENT01)|20|[USOpen2008](https://www.worldcubeassociation.org/competitions/USOpen2008)||  
 |=|[Christian Lacquio](https://www.worldcubeassociation.org/persons/2010LACQ01)|20|[PhilippinesOpen2010](https://www.worldcubeassociation.org/competitions/PhilippinesOpen2010)||  
+|=|[Chunhao Liu (柳春浩)](https://www.worldcubeassociation.org/persons/2017LIUC11)|20|[HUSTSpecialCubesOpen2017](https://www.worldcubeassociation.org/competitions/HUSTSpecialCubesOpen2017)||  
 |=|[Claudio Bentivoglio](https://www.worldcubeassociation.org/persons/2014BENT01)|20|[LegnanoOpen2014](https://www.worldcubeassociation.org/competitions/LegnanoOpen2014)||  
 |=|[Congjian Zhang (张丛健)](https://www.worldcubeassociation.org/persons/2011ZHAN56)|20|[TianjinOpen2011](https://www.worldcubeassociation.org/competitions/TianjinOpen2011)||  
+|=|[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|20|[NottinghamOpen2013](https://www.worldcubeassociation.org/competitions/NottinghamOpen2013)||  
 |=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|20|[HongKongSummerCubeDay2015](https://www.worldcubeassociation.org/competitions/HongKongSummerCubeDay2015)||  
 |=|[Daniel C. Bedoya](https://www.worldcubeassociation.org/persons/2016CALI04)|20|[OruroOpen2016](https://www.worldcubeassociation.org/competitions/OruroOpen2016)||  
 |=|[Dennis Strehlau](https://www.worldcubeassociation.org/persons/2007STRE01)|20|[Germany2007](https://www.worldcubeassociation.org/competitions/Germany2007)||  
@@ -313,20 +314,22 @@
 |=|[Erwan Kohler](https://www.worldcubeassociation.org/persons/2010KOHL02)|20|[MuseeduJeu2015](https://www.worldcubeassociation.org/competitions/MuseeduJeu2015)||  
 |=|[Ethan Littlejohn](https://www.worldcubeassociation.org/persons/2016LITT01)|20|[BerkeleyWinter2017](https://www.worldcubeassociation.org/competitions/BerkeleyWinter2017)||  
 |=|[Firstian Fushada](https://www.worldcubeassociation.org/persons/2015FUSH01)|20|[MalaysianCubeOpen2015](https://www.worldcubeassociation.org/competitions/MalaysianCubeOpen2015)||  
-|=|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|20|[CuthbertsOpen2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015)||  
+|=|[Gabriel Ignacio Fernández Albarracin](https://www.worldcubeassociation.org/persons/2015FERN07)|20|[InstitutoNacionalOpen2015](https://www.worldcubeassociation.org/competitions/InstitutoNacionalOpen2015)||  
 |=|[Grégoire Gsell](https://www.worldcubeassociation.org/persons/2016GSEL01)|20|[AnnecyOpen2016](https://www.worldcubeassociation.org/competitions/AnnecyOpen2016)||  
 |=|[Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01)|20|[GuangzhouCubeDay2011](https://www.worldcubeassociation.org/competitions/GuangzhouCubeDay2011)||  
 |=|[Hao Chang (常皓)](https://www.worldcubeassociation.org/persons/2015CHAN33)|20|[WuhanUniversityOpen2015](https://www.worldcubeassociation.org/competitions/WuhanUniversityOpen2015)||  
 |=|[Ihor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|20|[SlavonicGymnasiumOpen2016](https://www.worldcubeassociation.org/competitions/SlavonicGymnasiumOpen2016)||  
 |=|[Jacob Sanchez](https://www.worldcubeassociation.org/persons/2013SANC05)|20|[VenezuelaOpen2013](https://www.worldcubeassociation.org/competitions/VenezuelaOpen2013)||  
+|=|[Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23)|20|[ElEscorialOpen2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016)||  
 |=|[Jessica Moens](https://www.worldcubeassociation.org/persons/2015MOEN01)|20|[N8W8Summer2015](https://www.worldcubeassociation.org/competitions/N8W8Summer2015)||  
 |=|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|20|[CuthbertsOpen2015](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2015)||  
 |=|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|20|[AmericanaOpen2012](https://www.worldcubeassociation.org/competitions/AmericanaOpen2012)||  
 |=|[Juho Arjanne](https://www.worldcubeassociation.org/persons/2015ARJA01)|20|[KirkkonummiOpen2015](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2015)||  
 |=|[Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01)|20|[UIUCSpring2013](https://www.worldcubeassociation.org/competitions/UIUCSpring2013)||  
 |=|[Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01)|20|[ArtCapitalOpen2013](https://www.worldcubeassociation.org/competitions/ArtCapitalOpen2013)||  
+|=|[Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01)|20|[ExeterOpen2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016)||  
 |=|[Kevin McGaire](https://www.worldcubeassociation.org/persons/2014MCGA01)|20|[TorontoOpenSpring2014](https://www.worldcubeassociation.org/competitions/TorontoOpenSpring2014)||  
-|=|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|20|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)||  
+|=|[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|20|[AugustBankHolidayCompetition2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015)||  
 |=|[Maciej Lyer](https://www.worldcubeassociation.org/persons/2014LYER01)|20|[SLSBielskoBiala2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014)||  
 |=|[Matthew Feldmann](https://www.worldcubeassociation.org/persons/2016FELD01)|20|[AthensFallLateNight2016](https://www.worldcubeassociation.org/competitions/AthensFallLateNight2016)||  
 |=|[Michael Zavalza](https://www.worldcubeassociation.org/persons/2012ZAVA01)|20|[Couve2012](https://www.worldcubeassociation.org/competitions/Couve2012)||  
@@ -348,12 +351,12 @@
 |=|[Tristan Paulussen](https://www.worldcubeassociation.org/persons/2009PAUL01)|20|[DutchOpen2009](https://www.worldcubeassociation.org/competitions/DutchOpen2009)||  
 |=|[Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04)|20|[BASC32014](https://www.worldcubeassociation.org/competitions/BASC32014)||  
 |=|[Viktor Ejlertsson](https://www.worldcubeassociation.org/persons/2012EJLE01)|20|[SwedishChampionship2012](https://www.worldcubeassociation.org/competitions/SwedishChampionship2012)||  
-|=|[Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02)|20|[ChongqingOpen2016](https://www.worldcubeassociation.org/competitions/ChongqingOpen2016)||  
 |=|[Wenxuan Tang (唐文轩)](https://www.worldcubeassociation.org/persons/2014TANG07)|20|[SuzhouOpen2014](https://www.worldcubeassociation.org/competitions/SuzhouOpen2014)||  
 |=|[Wesley Miller](https://www.worldcubeassociation.org/persons/2011MILL01)|20|[USNationals2011](https://www.worldcubeassociation.org/competitions/USNationals2011)||  
+|=|[Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04)|20|[NanjingSpring2016](https://www.worldcubeassociation.org/competitions/NanjingSpring2016)||  
 |=|[Yang Li (李扬)](https://www.worldcubeassociation.org/persons/2012LIYA01)|20|[ShanghaiSummer2012](https://www.worldcubeassociation.org/competitions/ShanghaiSummer2012)||  
 |=|[Zhiyang Chen (陈至扬)](https://www.worldcubeassociation.org/persons/2011CHAN10)|20|[XiamenOpen2011](https://www.worldcubeassociation.org/competitions/XiamenOpen2011)||  
-|346|[Aaron Lester](https://www.worldcubeassociation.org/persons/2009LEST01)|19|[SanFranciscoOpen2009](https://www.worldcubeassociation.org/competitions/SanFranciscoOpen2009)||  
+|349|[Aaron Lester](https://www.worldcubeassociation.org/persons/2009LEST01)|19|[SanFranciscoOpen2009](https://www.worldcubeassociation.org/competitions/SanFranciscoOpen2009)||  
 |=|[Abhishrut Khanna](https://www.worldcubeassociation.org/persons/2013KHAN04)|19|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
 |=|[Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02)|19|[MammutOpen2009](https://www.worldcubeassociation.org/competitions/MammutOpen2009)||  
 |=|[Adinath Durugkar](https://www.worldcubeassociation.org/persons/2015DURU01)|19|[ICTOpen2015](https://www.worldcubeassociation.org/competitions/ICTOpen2015)||  
@@ -365,31 +368,29 @@
 |=|[Benjamin Wong](https://www.worldcubeassociation.org/persons/2010WONG01)|19|[TorontoWinter2010](https://www.worldcubeassociation.org/competitions/TorontoWinter2010)||  
 |=|[Calvin Sall](https://www.worldcubeassociation.org/persons/2015SALL01)|19|[TexasShowdown2015](https://www.worldcubeassociation.org/competitions/TexasShowdown2015)||  
 |=|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|19|[MichiganCubingClubAlpha2018](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2018)||  
-|=|[Chunhao Liu (柳春浩)](https://www.worldcubeassociation.org/persons/2017LIUC11)|19|[HUSTSpecialCubesOpen2017](https://www.worldcubeassociation.org/competitions/HUSTSpecialCubesOpen2017)||  
-|=|[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|19|[NottinghamOpen2013](https://www.worldcubeassociation.org/competitions/NottinghamOpen2013)||  
+|=|[Celia López Martín](https://www.worldcubeassociation.org/persons/2014MART44)|19|[CamarmaOpen2014](https://www.worldcubeassociation.org/competitions/CamarmaOpen2014)||  
 |=|[Daiki Matsumoto (松本大輝)](https://www.worldcubeassociation.org/persons/2008MATS02)|19|[KashiwaOpen2008](https://www.worldcubeassociation.org/competitions/KashiwaOpen2008)||  
 |=|[Devin Guerrero](https://www.worldcubeassociation.org/persons/2015GUER04)|19|[CubicCatastrophe2015](https://www.worldcubeassociation.org/competitions/CubicCatastrophe2015)||  
 |=|[Dhruv Arora](https://www.worldcubeassociation.org/persons/2015AROR05)|19|[DelhiAutumnOpen2015](https://www.worldcubeassociation.org/competitions/DelhiAutumnOpen2015)||  
+|=|[Diwen Xu (许帝文)](https://www.worldcubeassociation.org/persons/2014XUDI01)|19|[ShenyangOpen2014](https://www.worldcubeassociation.org/competitions/ShenyangOpen2014)||  
 |=|[Emmet Hobbs](https://www.worldcubeassociation.org/persons/2016HOBB01)|19|[AustralianNationals2016](https://www.worldcubeassociation.org/competitions/AustralianNationals2016)||  
 |=|[Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02)|19|[MasovianOpen2015](https://www.worldcubeassociation.org/competitions/MasovianOpen2015)||  
 |=|[Ethan Stevens](https://www.worldcubeassociation.org/persons/2015STEV03)|19|[CubeForCambodia2015](https://www.worldcubeassociation.org/competitions/CubeForCambodia2015)||  
 |=|[Felix Strasser](https://www.worldcubeassociation.org/persons/2014STRA03)|19|[AustrianOpen2014](https://www.worldcubeassociation.org/competitions/AustrianOpen2014)||  
 |=|[Fred Quong](https://www.worldcubeassociation.org/persons/2015QUON01)|19|[TorontoOpenFall2015](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2015)||  
-|=|[Gabriel Ignacio Fernández Albarracin](https://www.worldcubeassociation.org/persons/2015FERN07)|19|[InstitutoNacionalOpen2015](https://www.worldcubeassociation.org/competitions/InstitutoNacionalOpen2015)||  
+|=|[Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02)|19|[GuateRubik2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014)||  
 |=|[Garrett Webster](https://www.worldcubeassociation.org/persons/2015WEBS01)|19|[LawrenceSpring2015](https://www.worldcubeassociation.org/competitions/LawrenceSpring2015)||  
 |=|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|19|[KjellerOpen2015](https://www.worldcubeassociation.org/competitions/KjellerOpen2015)||  
 |=|[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|19|[LiechtensteinOpen2018](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2018)||  
 |=|[Isaac Myers](https://www.worldcubeassociation.org/persons/2015MYER02)|19|[UtahMegacomp2015](https://www.worldcubeassociation.org/competitions/UtahMegacomp2015)||  
 |=|[Jack Doyle](https://www.worldcubeassociation.org/persons/2016DOYL02)|19|[RoseCity2016](https://www.worldcubeassociation.org/competitions/RoseCity2016)||  
-|=|[Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23)|19|[ElEscorialOpen2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016)||  
+|=|[Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10)|19|[SilentSpring2017](https://www.worldcubeassociation.org/competitions/SilentSpring2017)||  
 |=|[Jayson Frascatore](https://www.worldcubeassociation.org/persons/2011FRAS01)|19|[MITFall2011](https://www.worldcubeassociation.org/competitions/MITFall2011)||  
 |=|[Jonathan Monroy Morales](https://www.worldcubeassociation.org/persons/2015MORA14)|19|[CUCEI2015](https://www.worldcubeassociation.org/competitions/CUCEI2015)||  
 |=|[Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07)|19|[KirkkonummiOpen2016](https://www.worldcubeassociation.org/competitions/KirkkonummiOpen2016)||  
-|=|[Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01)|19|[ExeterOpen2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016)||  
 |=|[Konstantin Ushakov](https://www.worldcubeassociation.org/persons/2014USHA02)|19|[CCCAutumnOpen2014](https://www.worldcubeassociation.org/competitions/CCCAutumnOpen2014)||  
 |=|[Lee Glendenning](https://www.worldcubeassociation.org/persons/2011GLEN02)|19|[CanadianOpen2011](https://www.worldcubeassociation.org/competitions/CanadianOpen2011)||  
 |=|[Lorenzo Franco Kasilag](https://www.worldcubeassociation.org/persons/2016KASI01)|19|[GoodNutritionCubeDay2016](https://www.worldcubeassociation.org/competitions/GoodNutritionCubeDay2016)||  
-|=|[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|19|[AugustBankHolidayCompetition2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015)||  
 |=|[Luis Alonso Inestroza Henriquez](https://www.worldcubeassociation.org/persons/2015HENR02)|19|[SivarOpen2015](https://www.worldcubeassociation.org/competitions/SivarOpen2015)||  
 |=|[M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02)|19|[PragyanCubeOpen2013](https://www.worldcubeassociation.org/competitions/PragyanCubeOpen2013)||  
 |=|[Maksymilian Kutyła](https://www.worldcubeassociation.org/persons/2011KUTY01)|19|[GrudziadzOpen2011](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2011)||  
@@ -413,6 +414,7 @@
 |=|[Santosh Naranapatty](https://www.worldcubeassociation.org/persons/2013NARA02)|19|[CMIFiestaOpen2013](https://www.worldcubeassociation.org/competitions/CMIFiestaOpen2013)||  
 |=|[Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01)|19|[DallasFall2016](https://www.worldcubeassociation.org/competitions/DallasFall2016)||  
 |=|[Simon Kalhofer](https://www.worldcubeassociation.org/persons/2012KALH01)|19|[GermanOpen2016](https://www.worldcubeassociation.org/competitions/GermanOpen2016)||  
+|=|[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|19|[UKChampionship2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015)||  
 |=|[Tiffany Soh](https://www.worldcubeassociation.org/persons/2010SOHT01)|19|[FoonYewOpen2017](https://www.worldcubeassociation.org/competitions/FoonYewOpen2017)||  
 |=|[Tim Xie](https://www.worldcubeassociation.org/persons/2015XIET01)|19|[HamiltonSpring2015](https://www.worldcubeassociation.org/competitions/HamiltonSpring2015)||  
 |=|[Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10)|19|[SanRamon2017](https://www.worldcubeassociation.org/competitions/SanRamon2017)||  
@@ -421,9 +423,10 @@
 |=|[Vladimir Kostin](https://www.worldcubeassociation.org/persons/2012KOST02)|19|[MPEIOpen2013](https://www.worldcubeassociation.org/competitions/MPEIOpen2013)||  
 |=|[Waden Cho](https://www.worldcubeassociation.org/persons/2016CHOW04)|19|[SlowNSteadySpring2016](https://www.worldcubeassociation.org/competitions/SlowNSteadySpring2016)||  
 |=|[Wesley Allen](https://www.worldcubeassociation.org/persons/2015ALLE03)|19|[AustralianNationals2015](https://www.worldcubeassociation.org/competitions/AustralianNationals2015)||  
-|=|[Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04)|19|[NanjingSpring2016](https://www.worldcubeassociation.org/competitions/NanjingSpring2016)||  
+|=|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|19|[BignBlind2017](https://www.worldcubeassociation.org/competitions/BignBlind2017)||  
 |=|[Yuanzhao Kang (康远昭)](https://www.worldcubeassociation.org/persons/2010KANG03)|19|[TianjinOpen2010](https://www.worldcubeassociation.org/competitions/TianjinOpen2010)||  
-|416|[Acchyut Jolly](https://www.worldcubeassociation.org/persons/2015JOLL02)|18|[AkashOpen2015](https://www.worldcubeassociation.org/competitions/AkashOpen2015)||  
+|=|[Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01)|19|[NanjingAutumn2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015)||  
+|419|[Acchyut Jolly](https://www.worldcubeassociation.org/persons/2015JOLL02)|18|[AkashOpen2015](https://www.worldcubeassociation.org/competitions/AkashOpen2015)||  
 |=|[Alex Chen](https://www.worldcubeassociation.org/persons/2013CHEN84)|18|[MelbourneSpring2013](https://www.worldcubeassociation.org/competitions/MelbourneSpring2013)||  
 |=|[Alex Seidler](https://www.worldcubeassociation.org/persons/2007SEID01)|18|[CaltechFall2007](https://www.worldcubeassociation.org/competitions/CaltechFall2007)||  
 |=|[Alexey Yarygin](https://www.worldcubeassociation.org/persons/2017YARY01)|18|[WhiteCityCubing2017](https://www.worldcubeassociation.org/competitions/WhiteCityCubing2017)||  
@@ -437,29 +440,26 @@
 |=|[Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04)|18|[ZaragozaOpen2014](https://www.worldcubeassociation.org/competitions/ZaragozaOpen2014)||  
 |=|[Anukun Supcharoenkun (อนุกูล ทรัพย์เจริญกุล)](https://www.worldcubeassociation.org/persons/2009SUPC01)|18|[ThailandOpen2009](https://www.worldcubeassociation.org/competitions/ThailandOpen2009)||  
 |=|[Bence János Csuti](https://www.worldcubeassociation.org/persons/2014CSUT01)|18|[HungarianOpen2014](https://www.worldcubeassociation.org/competitions/HungarianOpen2014)||  
+|=|[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|18|[OxfordWinter2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014)||  
 |=|[Blaž Dobravec](https://www.worldcubeassociation.org/persons/2012DOBR01)|18|[SlovenianOpen2012](https://www.worldcubeassociation.org/competitions/SlovenianOpen2012)||  
 |=|[Can Gücüyener](https://www.worldcubeassociation.org/persons/2011GUCU01)|18|[BarcelonaSummerOpen2011](https://www.worldcubeassociation.org/competitions/BarcelonaSummerOpen2011)||  
 |=|[Carter Audet Marrero](https://www.worldcubeassociation.org/persons/2017MARR02)|18|[CoPEN2017](https://www.worldcubeassociation.org/competitions/CoPEN2017)||  
-|=|[Celia López Martín](https://www.worldcubeassociation.org/persons/2014MART44)|18|[CamarmaOpen2014](https://www.worldcubeassociation.org/competitions/CamarmaOpen2014)||  
 |=|[Chenxiao He (何辰骁)](https://www.worldcubeassociation.org/persons/2015HECH02)|18|[ZiboOpen2015](https://www.worldcubeassociation.org/competitions/ZiboOpen2015)||  
 |=|[Colin Boyd](https://www.worldcubeassociation.org/persons/2011BOYD01)|18|[MITSpring2011](https://www.worldcubeassociation.org/competitions/MITSpring2011)||  
 |=|[Connor McLaughlin](https://www.worldcubeassociation.org/persons/2016MCLA02)|18|[SlowNSteadyFall2016](https://www.worldcubeassociation.org/competitions/SlowNSteadyFall2016)||  
 |=|[Dale Stephen M. Palmares](https://www.worldcubeassociation.org/persons/2016STEP05)|18|[JohorOpen2016](https://www.worldcubeassociation.org/competitions/JohorOpen2016)||  
-|=|[Daniel Delgado Candia](https://www.worldcubeassociation.org/persons/2015CAND01)|18|[CochabambaOpen2015](https://www.worldcubeassociation.org/competitions/CochabambaOpen2015)||  
 |=|[Daniel Houghton](https://www.worldcubeassociation.org/persons/2016HOUG03)|18|[WiehnachtswurfelazBarn2016](https://www.worldcubeassociation.org/competitions/WiehnachtswurfelazBarn2016)||  
 |=|[Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03)|18|[HudsonValleyOpenFall2016](https://www.worldcubeassociation.org/competitions/HudsonValleyOpenFall2016)||  
 |=|[Dinh-Anh Tran](https://www.worldcubeassociation.org/persons/2011TRAN04)|18|[France2011](https://www.worldcubeassociation.org/competitions/France2011)||  
-|=|[Diwen Xu (许帝文)](https://www.worldcubeassociation.org/persons/2014XUDI01)|18|[ShenyangOpen2014](https://www.worldcubeassociation.org/competitions/ShenyangOpen2014)||  
 |=|[Dylan Rene Centeno Chevez](https://www.worldcubeassociation.org/persons/2015CHEV01)|18|[RubiksXelaOpen2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015)||  
 |=|[Erik Johansson](https://www.worldcubeassociation.org/persons/2006JOHA01)|18|[Svekub2006](https://www.worldcubeassociation.org/competitions/Svekub2006)||  
 |=|[Evan Ressel](https://www.worldcubeassociation.org/persons/2013RESS01)|18|[LibertyScience2013](https://www.worldcubeassociation.org/competitions/LibertyScience2013)||  
 |=|[Freddy Fernández Córdova](https://www.worldcubeassociation.org/persons/2014CORD04)|18|[TCGLima2014](https://www.worldcubeassociation.org/competitions/TCGLima2014)||  
-|=|[Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02)|18|[GuateRubik2014](https://www.worldcubeassociation.org/competitions/GuateRubik2014)||  
 |=|[Gonzalo Serrano](https://www.worldcubeassociation.org/persons/2010SERR02)|18|[CampeonatoInvierno2010](https://www.worldcubeassociation.org/competitions/CampeonatoInvierno2010)||  
 |=|[Hao Tian (田浩)](https://www.worldcubeassociation.org/persons/2012TIAN01)|18|[NanjingSpring2012](https://www.worldcubeassociation.org/competitions/NanjingSpring2012)||  
+|=|[He-Ping Zheng (鄭和平)](https://www.worldcubeassociation.org/persons/2015ZHEN20)|18|[TaiwanCubingLeagueKaohsiung2015](https://www.worldcubeassociation.org/competitions/TaiwanCubingLeagueKaohsiung2015)||  
 |=|[Hideaki Komami (駒見英明)](https://www.worldcubeassociation.org/persons/2009KOMA01)|18|[JRCAKantoSummer2009](https://www.worldcubeassociation.org/competitions/JRCAKantoSummer2009)||  
 |=|[Holger Stadel Borum](https://www.worldcubeassociation.org/persons/2008BORU01)|18|[DanishCubeDay2008](https://www.worldcubeassociation.org/competitions/DanishCubeDay2008)||  
-|=|[Jackey Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN10)|18|[SilentSpring2017](https://www.worldcubeassociation.org/competitions/SilentSpring2017)||  
 |=|[Jaden Burkhardt](https://www.worldcubeassociation.org/persons/2017BURK01)|18|[CaltechWinter2017](https://www.worldcubeassociation.org/competitions/CaltechWinter2017)||  
 |=|[Jaime Tadeo Perez Cardona](https://www.worldcubeassociation.org/persons/2015CARD01)|18|[Clasico2015](https://www.worldcubeassociation.org/competitions/Clasico2015)||  
 |=|[Jake Ruth](https://www.worldcubeassociation.org/persons/2008RUTH01)|18|[NewarkOpen2008](https://www.worldcubeassociation.org/competitions/NewarkOpen2008)||  
@@ -501,14 +501,12 @@
 |=|[Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01)|18|[KoreanKAISTstyle2015](https://www.worldcubeassociation.org/competitions/KoreanKAISTstyle2015)||  
 |=|[Spencer Andersen](https://www.worldcubeassociation.org/persons/2016ANDE02)|18|[WilliamsWinter2016](https://www.worldcubeassociation.org/competitions/WilliamsWinter2016)||  
 |=|[Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03)|18|[CFLSantaClausCubeRace2017](https://www.worldcubeassociation.org/competitions/CFLSantaClausCubeRace2017)||  
-|=|[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|18|[UKChampionship2015](https://www.worldcubeassociation.org/competitions/UKChampionship2015)||  
 |=|[Ustsin Vashchanka](https://www.worldcubeassociation.org/persons/2012VASH01)|18|[UkraineOpen2012](https://www.worldcubeassociation.org/competitions/UkraineOpen2012)||  
 |=|[Vladyslav Zhydkov (Владислав Жидков)](https://www.worldcubeassociation.org/persons/2015ZHYD01)|18|[UkrainianOpen2015](https://www.worldcubeassociation.org/competitions/UkrainianOpen2015)||  
 |=|[Xinjie Shi (施鑫杰)](https://www.worldcubeassociation.org/persons/2016SHIX02)|18|[JinhuaOpen2016](https://www.worldcubeassociation.org/competitions/JinhuaOpen2016)||  
-|=|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|18|[BignBlind2017](https://www.worldcubeassociation.org/competitions/BignBlind2017)||  
 |=|[Yujie Rao (饶喻杰)](https://www.worldcubeassociation.org/persons/2014RAOY01)|18|[ChengduOpen2014](https://www.worldcubeassociation.org/competitions/ChengduOpen2014)||  
-|=|[Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01)|18|[NanjingAutumn2015](https://www.worldcubeassociation.org/competitions/NanjingAutumn2015)||  
-|501|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|17|[AvenuesCUBELELO2015](https://www.worldcubeassociation.org/competitions/AvenuesCUBELELO2015)||  
+|=|[Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04)|18|[SuzhouOpen2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017)||  
+|499|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|17|[AvenuesCUBELELO2015](https://www.worldcubeassociation.org/competitions/AvenuesCUBELELO2015)||  
 |=|[Agustín Bernasconi](https://www.worldcubeassociation.org/persons/2015BERN02)|17|[SanLorenzoOpen2015](https://www.worldcubeassociation.org/competitions/SanLorenzoOpen2015)||  
 |=|[Alejandro Isaza](https://www.worldcubeassociation.org/persons/2015ISAZ01)|17|[AquarelaSpeedcubing2015](https://www.worldcubeassociation.org/competitions/AquarelaSpeedcubing2015)||  
 |=|[Alex Walker](https://www.worldcubeassociation.org/persons/2014WALK05)|17|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)||  
@@ -520,10 +518,10 @@
 |=|[Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02)|17|[MunichOpen2010](https://www.worldcubeassociation.org/competitions/MunichOpen2010)||  
 |=|[Antoine Isselin](https://www.worldcubeassociation.org/persons/2014ISSE01)|17|[ChampagneOpen2014](https://www.worldcubeassociation.org/competitions/ChampagneOpen2014)||  
 |=|[Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06)|17|[SlowNSteadySummer2017](https://www.worldcubeassociation.org/competitions/SlowNSteadySummer2017)||  
+|=|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|17|[KeepPortlandWeird2017](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2017)||  
 |=|[Atsuto Takemura (竹村篤人)](https://www.worldcubeassociation.org/persons/2013TAKE01)|17|[LakeBiwa2013](https://www.worldcubeassociation.org/competitions/LakeBiwa2013)||  
 |=|[Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01)|17|[CaltechWinter2011](https://www.worldcubeassociation.org/competitions/CaltechWinter2011)||  
 |=|[Benito Benítez Ruiz](https://www.worldcubeassociation.org/persons/2015RUIZ08)|17|[SpanishChampionship2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015)||  
-|=|[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|17|[OxfordWinter2014](https://www.worldcubeassociation.org/competitions/OxfordWinter2014)||  
 |=|[Bodun Zhu (朱博楯)](https://www.worldcubeassociation.org/persons/2016ZHUB01)|17|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)||  
 |=|[Calvin Brauer](https://www.worldcubeassociation.org/persons/2015BRAU02)|17|[SlownSteadyFall2015](https://www.worldcubeassociation.org/competitions/SlownSteadyFall2015)||  
 |=|[Christian Smedegaard](https://www.worldcubeassociation.org/persons/2015SMED01)|17|[DanishOpen2015](https://www.worldcubeassociation.org/competitions/DanishOpen2015)||  
@@ -540,7 +538,6 @@
 |=|[György Pintér](https://www.worldcubeassociation.org/persons/2014PINT05)|17|[HungarianOpen2014](https://www.worldcubeassociation.org/competitions/HungarianOpen2014)||  
 |=|[Hanns Hub](https://www.worldcubeassociation.org/persons/2013HUBH01)|17|[BWOpen2013](https://www.worldcubeassociation.org/competitions/BWOpen2013)||  
 |=|[Hargun Singh Tikku](https://www.worldcubeassociation.org/persons/2017TIKK01)|17|[MathSocOpen2017](https://www.worldcubeassociation.org/competitions/MathSocOpen2017)||  
-|=|[He-Ping Zheng (鄭和平)](https://www.worldcubeassociation.org/persons/2015ZHEN20)|17|[TaiwanCubingLeagueKaohsiung2015](https://www.worldcubeassociation.org/competitions/TaiwanCubingLeagueKaohsiung2015)||  
 |=|[Heron Sato](https://www.worldcubeassociation.org/persons/2011SATO01)|17|[SESCSantos2011](https://www.worldcubeassociation.org/competitions/SESCSantos2011)||  
 |=|[Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02)|17|[NorwegianOpen2009](https://www.worldcubeassociation.org/competitions/NorwegianOpen2009)||  
 |=|[Hongzhi Chen (陈泓知)](https://www.worldcubeassociation.org/persons/2011CHEN01)|17|[ChangzhouSpring2011](https://www.worldcubeassociation.org/competitions/ChangzhouSpring2011)||  
@@ -572,6 +569,8 @@
 |=|[Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02)|17|[TunisiaSummerOpen2015](https://www.worldcubeassociation.org/competitions/TunisiaSummerOpen2015)||  
 |=|[Muhammad Zhafran Al-Allam](https://www.worldcubeassociation.org/persons/2011ALAL01)|17|[UKDWOpen2011](https://www.worldcubeassociation.org/competitions/UKDWOpen2011)||  
 |=|[Nan Bai (柏楠)](https://www.worldcubeassociation.org/persons/2011BAIN01)|17|[ShandongOpen2011](https://www.worldcubeassociation.org/competitions/ShandongOpen2011)||  
+|=|[Nathan Azaria](https://www.worldcubeassociation.org/persons/2010AZAR01)|17|[JakartaOpen2010](https://www.worldcubeassociation.org/competitions/JakartaOpen2010)||  
+|=|[Noé Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO02)|17|[CubeateWeekend2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016)||  
 |=|[Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01)|17|[HunterOpen2015](https://www.worldcubeassociation.org/competitions/HunterOpen2015)||  
 |=|[Peter Grassard](https://www.worldcubeassociation.org/persons/2016GRAS01)|17|[BelfortOpen2016](https://www.worldcubeassociation.org/competitions/BelfortOpen2016)||  
 |=|[Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02)|17|[SpeedDaysKrasnik2018](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2018)||  
@@ -583,6 +582,7 @@
 |=|[Ryan Potts](https://www.worldcubeassociation.org/persons/2010POTT01)|17|[OklahomaOpen2010](https://www.worldcubeassociation.org/competitions/OklahomaOpen2010)||  
 |=|[Ryota Aoki (青木涼太)](https://www.worldcubeassociation.org/persons/2016AOKI02)|17|[KansaiSmallCubes2016](https://www.worldcubeassociation.org/competitions/KansaiSmallCubes2016)||  
 |=|[Sam Folkes](https://www.worldcubeassociation.org/persons/2013FOLK01)|17|[CuthbertsOpen2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013)||  
+|=|[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|17|[ExeterOpen2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016)||  
 |=|[Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01)|17|[SCMUOpen2016](https://www.worldcubeassociation.org/competitions/SCMUOpen2016)||  
 |=|[Simon Jansson](https://www.worldcubeassociation.org/persons/2015JANS02)|17|[KjellerOpen2015](https://www.worldcubeassociation.org/competitions/KjellerOpen2015)||  
 |=|[Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01)|17|[GermanNationals2017](https://www.worldcubeassociation.org/competitions/GermanNationals2017)||  
@@ -600,7 +600,7 @@
 |=|[Will Wooden](https://www.worldcubeassociation.org/persons/2016WOOD02)|17|[OKCubing2016](https://www.worldcubeassociation.org/competitions/OKCubing2016)||  
 |=|[Yong Rong Seng (杨荣盛)](https://www.worldcubeassociation.org/persons/2010SENG01)|17|[PerakOpen2010](https://www.worldcubeassociation.org/competitions/PerakOpen2010)||  
 |=|[Yufei Shi (史宇斐)](https://www.worldcubeassociation.org/persons/2016SHIY03)|17|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)||  
-|=|[Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04)|17|[SuzhouOpen2017](https://www.worldcubeassociation.org/competitions/SuzhouOpen2017)||  
+|=|[Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01)|17|[CubeEliteUnionCafe2014](https://www.worldcubeassociation.org/competitions/CubeEliteUnionCafe2014)||  
 |594|[Abraham Torres Ortíz Aguirre](https://www.worldcubeassociation.org/persons/2016AGUI09)|16|[RubikExpomagyc2016](https://www.worldcubeassociation.org/competitions/RubikExpomagyc2016)||  
 |=|[Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01)|16|[NegrosSpeedcubingOpen2016](https://www.worldcubeassociation.org/competitions/NegrosSpeedcubingOpen2016)||  
 |=|[Aditya Ghidora](https://www.worldcubeassociation.org/persons/2015GHID01)|16|[SCMU2015](https://www.worldcubeassociation.org/competitions/SCMU2015)||  
@@ -615,7 +615,6 @@
 |=|[Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01)|16|[MinnesotaCubeMelt2016](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2016)||  
 |=|[Andrey Kurochkin](https://www.worldcubeassociation.org/persons/2016KURO01)|16|[SPBChampionship2016](https://www.worldcubeassociation.org/competitions/SPBChampionship2016)||  
 |=|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|16|[APJBLDOpen2015](https://www.worldcubeassociation.org/competitions/APJBLDOpen2015)||  
-|=|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|16|[KeepPortlandWeird2017](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2017)||  
 |=|[Atharva R. Bhat](https://www.worldcubeassociation.org/persons/2017BHAT02)|16|[IIASummerOpen2017](https://www.worldcubeassociation.org/competitions/IIASummerOpen2017)||  
 |=|[Aziz Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS03)|16|[TunisiaWinterOpen2015](https://www.worldcubeassociation.org/competitions/TunisiaWinterOpen2015)||  
 |=|[Ben MacGregor](https://www.worldcubeassociation.org/persons/2015MACG02)|16|[VirginiaOpenSpring2015](https://www.worldcubeassociation.org/competitions/VirginiaOpenSpring2015)||  
@@ -639,6 +638,7 @@
 |=|[Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03)|16|[LjubljanaOpen2013](https://www.worldcubeassociation.org/competitions/LjubljanaOpen2013)||  
 |=|[Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01)|16|[KingscubeToulouseOpen2014](https://www.worldcubeassociation.org/competitions/KingscubeToulouseOpen2014)||  
 |=|[Enol Matilla](https://www.worldcubeassociation.org/persons/2014MATI01)|16|[GijonOpen2014](https://www.worldcubeassociation.org/competitions/GijonOpen2014)||  
+|=|[Erick Lemus Fuentes](https://www.worldcubeassociation.org/persons/2013FUEN01)|16|[CampeonatoBlind2013](https://www.worldcubeassociation.org/competitions/CampeonatoBlind2013)||  
 |=|[Estefanía Jordán García](https://www.worldcubeassociation.org/persons/2014GARC14)|16|[MoratallaOpenRubik2014](https://www.worldcubeassociation.org/competitions/MoratallaOpenRubik2014)||  
 |=|[Fanny Pousset](https://www.worldcubeassociation.org/persons/2016POUS01)|16|[OpenCubeProject2016](https://www.worldcubeassociation.org/competitions/OpenCubeProject2016)||  
 |=|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|16|[SPBAutumnOpen2015](https://www.worldcubeassociation.org/competitions/SPBAutumnOpen2015)||  
@@ -652,15 +652,23 @@
 |=|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|16|[Norrkubing2015](https://www.worldcubeassociation.org/competitions/Norrkubing2015)||  
 |=|[Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01)|16|[CubeFactory2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013)||  
 |=|[Imants Liepiņš](https://www.worldcubeassociation.org/persons/2015LIEP02)|16|[LatvianOpen2015](https://www.worldcubeassociation.org/competitions/LatvianOpen2015)||  
+|=|[Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44)|16|[VillanuevaOpen2016](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2016)||  
 |=|[Ivan Katkov](https://www.worldcubeassociation.org/persons/2014KATK01)|16|[UralOpen2014](https://www.worldcubeassociation.org/competitions/UralOpen2014)||  
 |=|[Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01)|16|[AZCubingFall2015](https://www.worldcubeassociation.org/competitions/AZCubingFall2015)||  
+|=|[Jackie Vásquez](https://www.worldcubeassociation.org/persons/2013VASQ03)|16|[GuateMayaOpen2013](https://www.worldcubeassociation.org/competitions/GuateMayaOpen2013)||  
+|=|[James Gutiérrez](https://www.worldcubeassociation.org/persons/2015GUTI07)|16|[CochabambaOpen2015](https://www.worldcubeassociation.org/competitions/CochabambaOpen2015)||  
 |=|[James Olarte](https://www.worldcubeassociation.org/persons/2014OLAR02)|16|[Florida2014](https://www.worldcubeassociation.org/competitions/Florida2014)||  
 |=|[Jarry Tapia Vasquez](https://www.worldcubeassociation.org/persons/2015VASQ06)|16|[TCGSpringOpen2015](https://www.worldcubeassociation.org/competitions/TCGSpringOpen2015)||  
+|=|[Jing-Heng Ling (凌敬恒)](https://www.worldcubeassociation.org/persons/2013LING03)|16|[HsinchuWinter2013](https://www.worldcubeassociation.org/competitions/HsinchuWinter2013)||  
+|=|[Jingbin Li (李晶斌)](https://www.worldcubeassociation.org/persons/2016LIJI01)|16|[HuizhouOpen2016](https://www.worldcubeassociation.org/competitions/HuizhouOpen2016)||  
 |=|[Karthikeyan Eswaran](https://www.worldcubeassociation.org/persons/2014ESWA01)|16|[IndianCubeChallenge2014](https://www.worldcubeassociation.org/competitions/IndianCubeChallenge2014)||  
+|=|[Kayla Brown](https://www.worldcubeassociation.org/persons/2017BROW08)|16|[Michigan2017](https://www.worldcubeassociation.org/competitions/Michigan2017)||  
+|=|[Kevin Coulter](https://www.worldcubeassociation.org/persons/2016COUL02)|16|[PrincetonFall2016](https://www.worldcubeassociation.org/competitions/PrincetonFall2016)||  
 |=|[Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04)|16|[AthensFall2015](https://www.worldcubeassociation.org/competitions/AthensFall2015)||  
 |=|[Kyler Smith](https://www.worldcubeassociation.org/persons/2016SMIT32)|16|[AthensFallLateNight2016](https://www.worldcubeassociation.org/competitions/AthensFallLateNight2016)||  
 |=|[Lei Wang (王磊)](https://www.worldcubeassociation.org/persons/2014WANG64)|16|[XianWinterOpen2014](https://www.worldcubeassociation.org/competitions/XianWinterOpen2014)||  
 |=|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|16|[CebuOpen2015](https://www.worldcubeassociation.org/competitions/CebuOpen2015)||  
+|=|[Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01)|16|[MijasOpen2016](https://www.worldcubeassociation.org/competitions/MijasOpen2016)||  
 |=|[Liam Wickett](https://www.worldcubeassociation.org/persons/2015WICK01)|16|[MichiganCubingClubAlpha2015](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2015)||  
 |=|[Ling Yan (严铃)](https://www.worldcubeassociation.org/persons/2015YANL02)|16|[XianOpen2015](https://www.worldcubeassociation.org/competitions/XianOpen2015)||  
 |=|[Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02)|16|[PalmerstonNorth2016](https://www.worldcubeassociation.org/competitions/PalmerstonNorth2016)||  
@@ -670,17 +678,16 @@
 |=|[Marjorie Marbly Miranda Nunes](https://www.worldcubeassociation.org/persons/2015MARB01)|16|[WC2015](https://www.worldcubeassociation.org/competitions/WC2015)||  
 |=|[Marvin Orlando Salguero Pardo](https://www.worldcubeassociation.org/persons/2015PARD02)|16|[SantaCruzOpen2015](https://www.worldcubeassociation.org/competitions/SantaCruzOpen2015)||  
 |=|[Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01)|16|[SLSGliwice2017](https://www.worldcubeassociation.org/competitions/SLSGliwice2017)||  
+|=|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|16|[MacclesfieldOpen2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016)||  
 |=|[Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44)|16|[ArnoldOpen2016](https://www.worldcubeassociation.org/competitions/ArnoldOpen2016)||  
 |=|[Max Sjöberg](https://www.worldcubeassociation.org/persons/2013SJOB01)|16|[StockholmOpen2013](https://www.worldcubeassociation.org/competitions/StockholmOpen2013)||  
 |=|[Michael Bame](https://www.worldcubeassociation.org/persons/2016BAME01)|16|[MusicCityWinter2016](https://www.worldcubeassociation.org/competitions/MusicCityWinter2016)||  
 |=|[Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03)|16|[ODUBigBlueSpring2017](https://www.worldcubeassociation.org/competitions/ODUBigBlueSpring2017)||  
 |=|[Mircea Simionica](https://www.worldcubeassociation.org/persons/2014SIMI01)|16|[BigCubingItaly2014](https://www.worldcubeassociation.org/competitions/BigCubingItaly2014)||  
 |=|[Mohammad Sarlaki (محمد سرلکی)](https://www.worldcubeassociation.org/persons/2012SARL01)|16|[IranOpen2012](https://www.worldcubeassociation.org/competitions/IranOpen2012)||  
-|=|[Nathan Azaria](https://www.worldcubeassociation.org/persons/2010AZAR01)|16|[JakartaOpen2010](https://www.worldcubeassociation.org/competitions/JakartaOpen2010)||  
 |=|[Neel Shah](https://www.worldcubeassociation.org/persons/2009SHAH04)|16|[CanadianOpen2009](https://www.worldcubeassociation.org/competitions/CanadianOpen2009)||  
 |=|[Nicholas Daneshvari](https://www.worldcubeassociation.org/persons/2012DANE01)|16|[CubingUSANationals2017](https://www.worldcubeassociation.org/competitions/CubingUSANationals2017)||  
 |=|[Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01)|16|[SanDiego2007](https://www.worldcubeassociation.org/competitions/SanDiego2007)||  
-|=|[Noé Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO02)|16|[CubeateWeekend2016](https://www.worldcubeassociation.org/competitions/CubeateWeekend2016)||  
 |=|[Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01)|16|[QueenCity2016](https://www.worldcubeassociation.org/competitions/QueenCity2016)||  
 |=|[Oscar Jones](https://www.worldcubeassociation.org/persons/2015JONE07)|16|[AugustBankHolidayCompetition2015](https://www.worldcubeassociation.org/competitions/AugustBankHolidayCompetition2015)||  
 |=|[Paarth Arora](https://www.worldcubeassociation.org/persons/2014AROR06)|16|[MumbaiOpen2014](https://www.worldcubeassociation.org/competitions/MumbaiOpen2014)||  
@@ -693,7 +700,6 @@
 |=|[Ritwik Pattnaik](https://www.worldcubeassociation.org/persons/2014PATT03)|16|[IndianNationals2014](https://www.worldcubeassociation.org/competitions/IndianNationals2014)||  
 |=|[Sai Mrudhun](https://www.worldcubeassociation.org/persons/2017MRUD01)|16|[NITTrichyOpen2017](https://www.worldcubeassociation.org/competitions/NITTrichyOpen2017)||  
 |=|[Sam Nave](https://www.worldcubeassociation.org/persons/2011NAVE03)|16|[DixonOpen2011](https://www.worldcubeassociation.org/competitions/DixonOpen2011)||  
-|=|[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|16|[ExeterOpen2016](https://www.worldcubeassociation.org/competitions/ExeterOpen2016)||  
 |=|[Sammy Tawakkol](https://www.worldcubeassociation.org/persons/2013TAWA01)|16|[HoustonWinter2013](https://www.worldcubeassociation.org/competitions/HoustonWinter2013)||  
 |=|[Samuel Djian](https://www.worldcubeassociation.org/persons/2007DJIA01)|16|[LyonWinterOpen2007](https://www.worldcubeassociation.org/competitions/LyonWinterOpen2007)||  
 |=|[Sebastian Alanen](https://www.worldcubeassociation.org/persons/2015ALAN02)|16|[SwedishDecathlonChallenge2015](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2015)||  
@@ -702,6 +708,7 @@
 |=|[Sirish Nutakki](https://www.worldcubeassociation.org/persons/2014NUTA01)|16|[BASC32014](https://www.worldcubeassociation.org/competitions/BASC32014)||  
 |=|[Srish Udayakumar](https://www.worldcubeassociation.org/persons/2014UDAY01)|16|[USNationals2014](https://www.worldcubeassociation.org/competitions/USNationals2014)||  
 |=|[Sukesh Subaharan](https://www.worldcubeassociation.org/persons/2011SUBA02)|16|[PragyanOpen2011](https://www.worldcubeassociation.org/competitions/PragyanOpen2011)||  
+|=|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|16|[Indiana2013](https://www.worldcubeassociation.org/competitions/Indiana2013)||  
 |=|[Szabolcs Balázsi](https://www.worldcubeassociation.org/persons/2008BALA01)|16|[HungarianOpen2008](https://www.worldcubeassociation.org/competitions/HungarianOpen2008)||  
 |=|[Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02)|16|[CzechOpen2014](https://www.worldcubeassociation.org/competitions/CzechOpen2014)||  
 |=|[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|16|[SloboziaSpringOpen2017](https://www.worldcubeassociation.org/competitions/SloboziaSpringOpen2017)||  
@@ -715,14 +722,15 @@
 |=|[Yann Droy](https://www.worldcubeassociation.org/persons/2012DROY01)|16|[VCubeCannesOpen2012](https://www.worldcubeassociation.org/competitions/VCubeCannesOpen2012)||  
 |=|[Zachary Forino](https://www.worldcubeassociation.org/persons/2017FORI01)|16|[RallyInTheValley2017](https://www.worldcubeassociation.org/competitions/RallyInTheValley2017)||  
 |=|[Zachary Nikolaus](https://www.worldcubeassociation.org/persons/2014NIKO01)|16|[RiverHillWinter2014](https://www.worldcubeassociation.org/competitions/RiverHillWinter2014)||  
-|=|[Zeyu Hu (胡泽宇)](https://www.worldcubeassociation.org/persons/2014HUZE01)|16|[CubeEliteUnionCafe2014](https://www.worldcubeassociation.org/competitions/CubeEliteUnionCafe2014)||  
 |=|[Zhangyuan He (何章元)](https://www.worldcubeassociation.org/persons/2016HEZH01)|16|[ShanghaiWinterisComing2016](https://www.worldcubeassociation.org/competitions/ShanghaiWinterisComing2016)||  
 |=|[Zhihao Zhou (周志豪)](https://www.worldcubeassociation.org/persons/2010ZHOU17)|16|[NanjingWinter2010](https://www.worldcubeassociation.org/competitions/NanjingWinter2010)||  
-|711|[Abhay Gupta](https://www.worldcubeassociation.org/persons/2015GUPT01)|15|[PBSmashathon2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015)||  
+|717|[Abhay Gupta](https://www.worldcubeassociation.org/persons/2015GUPT01)|15|[PBSmashathon2015](https://www.worldcubeassociation.org/competitions/PBSmashathon2015)||  
+|=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|15|[TemblequeOpen2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017)||  
 |=|[Adrian Panszczyk](https://www.worldcubeassociation.org/persons/2015PANS01)|15|[Michigan2015](https://www.worldcubeassociation.org/competitions/Michigan2015)||  
 |=|[Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06)|15|[ODUBigBlueFall2017](https://www.worldcubeassociation.org/competitions/ODUBigBlueFall2017)||  
 |=|[Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01)|15|[BandungOpen2011](https://www.worldcubeassociation.org/competitions/BandungOpen2011)||  
 |=|[Aidar Aminev](https://www.worldcubeassociation.org/persons/2016AMIN02)|15|[SPBWinter2016](https://www.worldcubeassociation.org/competitions/SPBWinter2016)||  
+|=|[Aldo José Gramajo de León](https://www.worldcubeassociation.org/persons/2015LEON08)|15|[RubiksXelaOpen2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015)||  
 |=|[Alyssa Bernardo](https://www.worldcubeassociation.org/persons/2016BERN18)|15|[DallasFall2016](https://www.worldcubeassociation.org/competitions/DallasFall2016)||  
 |=|[An Hu (胡安)](https://www.worldcubeassociation.org/persons/2014HUAN07)|15|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)||  
 |=|[Andrew Perlak](https://www.worldcubeassociation.org/persons/2015PERL01)|15|[ManhassetFall2015](https://www.worldcubeassociation.org/competitions/ManhassetFall2015)||  
@@ -740,6 +748,7 @@
 |=|[Chenge Liu (刘晨舸)](https://www.worldcubeassociation.org/persons/2011LIUC02)|15|[HangzhouOpen2011](https://www.worldcubeassociation.org/competitions/HangzhouOpen2011)||  
 |=|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|15|[NanjingSpring2016](https://www.worldcubeassociation.org/competitions/NanjingSpring2016)||  
 |=|[Chilin Fang (方炽霖)](https://www.worldcubeassociation.org/persons/2016FANG12)|15|[ShantouOpen2016](https://www.worldcubeassociation.org/competitions/ShantouOpen2016)||  
+|=|[Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01)|15|[GuildfordSummerOpen2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011)||  
 |=|[Christian Meyer](https://www.worldcubeassociation.org/persons/2016MEYE02)|15|[WilerWurfelfest2016](https://www.worldcubeassociation.org/competitions/WilerWurfelfest2016)||  
 |=|[Ciro Vignotto](https://www.worldcubeassociation.org/persons/2014VIGN02)|15|[PoliMiItalianOpen2014](https://www.worldcubeassociation.org/competitions/PoliMiItalianOpen2014)||  
 |=|[Congbiao Jiang (蒋丛骉)](https://www.worldcubeassociation.org/persons/2009JIAN12)|15|[NanjingOpen2009](https://www.worldcubeassociation.org/competitions/NanjingOpen2009)||  
@@ -749,12 +758,12 @@
 |=|[David Beugnon](https://www.worldcubeassociation.org/persons/2015BEUG01)|15|[ClassicCitySpooks2017](https://www.worldcubeassociation.org/competitions/ClassicCitySpooks2017)||  
 |=|[David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02)|15|[MelbourneCubeDays2016](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2016)||  
 |=|[David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01)|15|[WellingtonAutumn2016](https://www.worldcubeassociation.org/competitions/WellingtonAutumn2016)||  
+|=|[Deyang Wang (王德阳)](https://www.worldcubeassociation.org/persons/2013WANG76)|15|[DalianOpen2013](https://www.worldcubeassociation.org/competitions/DalianOpen2013)||  
 |=|[Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91)|15|[DualGamesAlicante2016](https://www.worldcubeassociation.org/competitions/DualGamesAlicante2016)||  
 |=|[Dmitry Korolev](https://www.worldcubeassociation.org/persons/2015KORO05)|15|[MPEIOpen2015](https://www.worldcubeassociation.org/competitions/MPEIOpen2015)||  
 |=|[Eli Hawkins](https://www.worldcubeassociation.org/persons/2014HAWK01)|15|[RiceUniversity2014](https://www.worldcubeassociation.org/competitions/RiceUniversity2014)||  
 |=|[Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01)|15|[ErfurtOpen2013](https://www.worldcubeassociation.org/competitions/ErfurtOpen2013)||  
 |=|[Elijah Sippel](https://www.worldcubeassociation.org/persons/2015SIPP01)|15|[CaltechFall2015](https://www.worldcubeassociation.org/competitions/CaltechFall2015)||  
-|=|[Erick Lemus Fuentes](https://www.worldcubeassociation.org/persons/2013FUEN01)|15|[CampeonatoBlind2013](https://www.worldcubeassociation.org/competitions/CampeonatoBlind2013)||  
 |=|[Filip Chodziutko](https://www.worldcubeassociation.org/persons/2014CHOD01)|15|[ChojniceOpen2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014)||  
 |=|[Florian Herzog](https://www.worldcubeassociation.org/persons/2009HERZ01)|15|[WC2009](https://www.worldcubeassociation.org/competitions/WC2009)||  
 |=|[Frank Provoost](https://www.worldcubeassociation.org/persons/2007PROV01)|15|[DutchOpen2007](https://www.worldcubeassociation.org/competitions/DutchOpen2007)||  
@@ -764,11 +773,9 @@
 |=|[Haonan Su (苏浩楠)](https://www.worldcubeassociation.org/persons/2016SUHA02)|15|[AsianChampionship2016](https://www.worldcubeassociation.org/competitions/AsianChampionship2016)||  
 |=|[Huafan Shi (史华帆)](https://www.worldcubeassociation.org/persons/2014SHIH03)|15|[YanglingOpen2014](https://www.worldcubeassociation.org/competitions/YanglingOpen2014)||  
 |=|[Ishaan Bhattacharyya](https://www.worldcubeassociation.org/persons/2014BHAT01)|15|[MathSocOpen2014](https://www.worldcubeassociation.org/competitions/MathSocOpen2014)||  
-|=|[Iván Brigidano Pérez](https://www.worldcubeassociation.org/persons/2016PERE44)|15|[VillanuevaOpen2016](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2016)||  
-|=|[Jackie Vásquez](https://www.worldcubeassociation.org/persons/2013VASQ03)|15|[GuateMayaOpen2013](https://www.worldcubeassociation.org/competitions/GuateMayaOpen2013)||  
+|=|[Jaime Andrés Escobar Chan](https://www.worldcubeassociation.org/persons/2015CHAN26)|15|[RubiksXelaOpen2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015)||  
 |=|[Jake Geren](https://www.worldcubeassociation.org/persons/2014GERE01)|15|[DixonSpring2014](https://www.worldcubeassociation.org/competitions/DixonSpring2014)||  
 |=|[Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01)|15|[SlovakianOpen2016](https://www.worldcubeassociation.org/competitions/SlovakianOpen2016)||  
-|=|[James Gutiérrez](https://www.worldcubeassociation.org/persons/2015GUTI07)|15|[CochabambaOpen2015](https://www.worldcubeassociation.org/competitions/CochabambaOpen2015)||  
 |=|[James Shearwood](https://www.worldcubeassociation.org/persons/2015SHEA01)|15|[CubeForCambodia2015](https://www.worldcubeassociation.org/competitions/CubeForCambodia2015)||  
 |=|[Jarle Kvåle](https://www.worldcubeassociation.org/persons/2008KVAL01)|15|[NorwegianOpen2008](https://www.worldcubeassociation.org/competitions/NorwegianOpen2008)||  
 |=|[Javier Rangel](https://www.worldcubeassociation.org/persons/2013RANG05)|15|[CubingMerida2013](https://www.worldcubeassociation.org/competitions/CubingMerida2013)||  
@@ -776,26 +783,22 @@
 |=|[Jefferson Andres Durango Argaez](https://www.worldcubeassociation.org/persons/2014ARGA02)|15|[SpeedcubingMedellin2014](https://www.worldcubeassociation.org/competitions/SpeedcubingMedellin2014)||  
 |=|[Jesslyn Valerie](https://www.worldcubeassociation.org/persons/2015VALE04)|15|[MinnesotaCubeMelt2015](https://www.worldcubeassociation.org/competitions/MinnesotaCubeMelt2015)||  
 |=|[Jichen Zha (查吉辰)](https://www.worldcubeassociation.org/persons/2013ZHAJ01)|15|[ShanghaiSummer2013](https://www.worldcubeassociation.org/competitions/ShanghaiSummer2013)||  
-|=|[Jing-Heng Ling (凌敬恒)](https://www.worldcubeassociation.org/persons/2013LING03)|15|[HsinchuWinter2013](https://www.worldcubeassociation.org/competitions/HsinchuWinter2013)||  
-|=|[Jingbin Li (李晶斌)](https://www.worldcubeassociation.org/persons/2016LIJI01)|15|[HuizhouOpen2016](https://www.worldcubeassociation.org/competitions/HuizhouOpen2016)||  
 |=|[Jit Parmar](https://www.worldcubeassociation.org/persons/2014PARM01)|15|[CanadianCubingFifty2014](https://www.worldcubeassociation.org/competitions/CanadianCubingFifty2014)||  
 |=|[Johannes Neugebauer](https://www.worldcubeassociation.org/persons/2014NEUG01)|15|[GermanNationals2014](https://www.worldcubeassociation.org/competitions/GermanNationals2014)||  
 |=|[John Coon](https://www.worldcubeassociation.org/persons/2016COON01)|15|[QueenCity2016](https://www.worldcubeassociation.org/competitions/QueenCity2016)||  
 |=|[John Linder](https://www.worldcubeassociation.org/persons/2015LIND08)|15|[PDXCubingBeta2015](https://www.worldcubeassociation.org/competitions/PDXCubingBeta2015)||  
 |=|[Jordan Mosakowski](https://www.worldcubeassociation.org/persons/2014MOSA01)|15|[RiceUniversity2014](https://www.worldcubeassociation.org/competitions/RiceUniversity2014)||  
 |=|[Jordi Borrell](https://www.worldcubeassociation.org/persons/2016BORR02)|15|[SpanishChampionship2016](https://www.worldcubeassociation.org/competitions/SpanishChampionship2016)||  
+|=|[Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02)|15|[VillanuevaOpen2016](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2016)||  
 |=|[Jose Antonio Campero Morales](https://www.worldcubeassociation.org/persons/2016MORA10)|15|[RockCubersOpen2016](https://www.worldcubeassociation.org/competitions/RockCubersOpen2016)||  
 |=|[Josué Esteban Bacilio Chicoma](https://www.worldcubeassociation.org/persons/2013CHIC01)|15|[TrujilloOpen2013](https://www.worldcubeassociation.org/competitions/TrujilloOpen2013)||  
 |=|[Juan Pablo Silvera Prieto](https://www.worldcubeassociation.org/persons/2012PRIE01)|15|[IVBogota2012](https://www.worldcubeassociation.org/competitions/IVBogota2012)||  
 |=|[Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28)|15|[CUCEIchampionship2014](https://www.worldcubeassociation.org/competitions/CUCEIchampionship2014)||  
 |=|[Kasper Koster](https://www.worldcubeassociation.org/persons/2016KOST03)|15|[DutchNationals2016](https://www.worldcubeassociation.org/competitions/DutchNationals2016)||  
-|=|[Kayla Brown](https://www.worldcubeassociation.org/persons/2017BROW08)|15|[Michigan2017](https://www.worldcubeassociation.org/competitions/Michigan2017)||  
 |=|[Ke Pan (潘轲)](https://www.worldcubeassociation.org/persons/2010PANK01)|15|[XianSpring2010](https://www.worldcubeassociation.org/competitions/XianSpring2010)||  
-|=|[Kevin Coulter](https://www.worldcubeassociation.org/persons/2016COUL02)|15|[PrincetonFall2016](https://www.worldcubeassociation.org/competitions/PrincetonFall2016)||  
 |=|[Kevin Lee](https://www.worldcubeassociation.org/persons/2015LEEK01)|15|[OrangeCoastPuzzleMeet2015](https://www.worldcubeassociation.org/competitions/OrangeCoastPuzzleMeet2015)||  
 |=|[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|15|[BergenOpen2015](https://www.worldcubeassociation.org/competitions/BergenOpen2015)||  
 |=|[Koen van den Berg](https://www.worldcubeassociation.org/persons/2016BERG03)|15|[HessenOpen2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016)||  
-|=|[Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01)|15|[MijasOpen2016](https://www.worldcubeassociation.org/competitions/MijasOpen2016)||  
 |=|[Letian Hu (胡乐天)](https://www.worldcubeassociation.org/persons/2014HULE02)|15|[ShantouOpen2014](https://www.worldcubeassociation.org/competitions/ShantouOpen2014)||  
 |=|[Levente Baráth](https://www.worldcubeassociation.org/persons/2017BARA04)|15|[HungarianNationals2017](https://www.worldcubeassociation.org/competitions/HungarianNationals2017)||  
 |=|[Levi Raber](https://www.worldcubeassociation.org/persons/2015RABE04)|15|[KeepPortlandWeird2015](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2015)||  
@@ -815,7 +818,6 @@
 |=|[Mateusz Laskus](https://www.worldcubeassociation.org/persons/2013LASK01)|15|[CubeFactory2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013)||  
 |=|[Mathias Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN02)|15|[Generalforsamlingen2017](https://www.worldcubeassociation.org/competitions/Generalforsamlingen2017)||  
 |=|[Mathieu Preston](https://www.worldcubeassociation.org/persons/2014PRES03)|15|[TorontoOpenFall2014](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2014)||  
-|=|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|15|[MacclesfieldOpen2016](https://www.worldcubeassociation.org/competitions/MacclesfieldOpen2016)||  
 |=|[Mikkel Svartveit](https://www.worldcubeassociation.org/persons/2014SVAR02)|15|[KjellerOpen2014](https://www.worldcubeassociation.org/competitions/KjellerOpen2014)||  
 |=|[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|15|[SwedishOpen2006](https://www.worldcubeassociation.org/competitions/SwedishOpen2006)||  
 |=|[Mingshi Zheng (郑铭师)](https://www.worldcubeassociation.org/persons/2016ZHEN28)|15|[ShantouOpen2016](https://www.worldcubeassociation.org/competitions/ShantouOpen2016)||  
@@ -837,6 +839,7 @@
 |=|[Pim Kloet](https://www.worldcubeassociation.org/persons/2016KLOE01)|15|[TulipOpen2016](https://www.worldcubeassociation.org/competitions/TulipOpen2016)||  
 |=|[Rafael Alvarez](https://www.worldcubeassociation.org/persons/2014ALVA10)|15|[ValenciaSummer2014](https://www.worldcubeassociation.org/competitions/ValenciaSummer2014)||  
 |=|[Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19)|15|[ValenciaSummer2014](https://www.worldcubeassociation.org/competitions/ValenciaSummer2014)||  
+|=|[Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01)|15|[UberlandiaOpen2015](https://www.worldcubeassociation.org/competitions/UberlandiaOpen2015)||  
 |=|[Rainie Liu (刘诗雨)](https://www.worldcubeassociation.org/persons/2016LIUR05)|15|[MelbourneCubeDays2016](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2016)||  
 |=|[Riel Grumal](https://www.worldcubeassociation.org/persons/2013GRUM01)|15|[SNESOpen2013](https://www.worldcubeassociation.org/competitions/SNESOpen2013)||  
 |=|[Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01)|15|[Skillcon2017](https://www.worldcubeassociation.org/competitions/Skillcon2017)||  
@@ -851,11 +854,9 @@
 |=|[Seb van den Beemt](https://www.worldcubeassociation.org/persons/2017BEEM01)|15|[TheHagueOpen2017](https://www.worldcubeassociation.org/competitions/TheHagueOpen2017)||  
 |=|[Shlok Mongia](https://www.worldcubeassociation.org/persons/2014MONG01)|15|[BrainStudio2014](https://www.worldcubeassociation.org/competitions/BrainStudio2014)||  
 |=|[Siddhi Venkatesh](https://www.worldcubeassociation.org/persons/2016VENK03)|15|[RubiksCubeMumbaiOpen2016](https://www.worldcubeassociation.org/competitions/RubiksCubeMumbaiOpen2016)||  
-|=|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|15|[Indiana2013](https://www.worldcubeassociation.org/competitions/Indiana2013)||  
 |=|[Takuto Suga (菅拓人)](https://www.worldcubeassociation.org/persons/2014SUGA01)|15|[NewportWinter2014](https://www.worldcubeassociation.org/competitions/NewportWinter2014)||  
 |=|[Tim Rinehart](https://www.worldcubeassociation.org/persons/2016RINE02)|15|[DiscoveryPlace2016](https://www.worldcubeassociation.org/competitions/DiscoveryPlace2016)||  
 |=|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|15|[VeikkolaOpen2017](https://www.worldcubeassociation.org/competitions/VeikkolaOpen2017)||  
-|=|[Ting-Guang Chang (張廷光)](https://www.worldcubeassociation.org/persons/2010CHAN19)|15|[TaiwanAutumn2010](https://www.worldcubeassociation.org/competitions/TaiwanAutumn2010)||  
 |=|[Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01)|15|[WroclawOpen2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007)||  
 |=|[Travis Walls](https://www.worldcubeassociation.org/persons/2015WALL02)|15|[FloridaSpring2015](https://www.worldcubeassociation.org/competitions/FloridaSpring2015)||  
 |=|[Vaishnav Nitesh](https://www.worldcubeassociation.org/persons/2017NITE01)|15|[SRMCubeOpen2017](https://www.worldcubeassociation.org/competitions/SRMCubeOpen2017)||  
@@ -870,12 +871,10 @@
 |=|[Zayden Zmyslo](https://www.worldcubeassociation.org/persons/2015ZMYS01)|15|[MichiganCubingClubAlpha2015](https://www.worldcubeassociation.org/competitions/MichiganCubingClubAlpha2015)||  
 |=|[Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01)|15|[LuoyangOpen2017](https://www.worldcubeassociation.org/competitions/LuoyangOpen2017)||  
 |=|[Zongyang Li (李宗阳)](https://www.worldcubeassociation.org/persons/2013LIZO01)|15|[ShijiazhuangOpen2017](https://www.worldcubeassociation.org/competitions/ShijiazhuangOpen2017)||  
-|863|[Abhay Agarwal](https://www.worldcubeassociation.org/persons/2013AGAR01)|14|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
+|864|[Abhay Agarwal](https://www.worldcubeassociation.org/persons/2013AGAR01)|14|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
 |=|[Adrian Cheung](https://www.worldcubeassociation.org/persons/2010CHEU01)|14|[TorontoSummer2010](https://www.worldcubeassociation.org/competitions/TorontoSummer2010)||  
 |=|[Adrian Dudek](https://www.worldcubeassociation.org/persons/2014DUDE01)|14|[KielceCubeAttack2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014)||  
-|=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|14|[TemblequeOpen2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017)||  
 |=|[Alastair Whitely](https://www.worldcubeassociation.org/persons/2010WHIT01)|14|[MelbourneSummerOpen2010](https://www.worldcubeassociation.org/competitions/MelbourneSummerOpen2010)||  
-|=|[Aldo José Gramajo de León](https://www.worldcubeassociation.org/persons/2015LEON08)|14|[RubiksXelaOpen2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015)||  
 |=|[Alexandru Constantin Stoica](https://www.worldcubeassociation.org/persons/2013STOI01)|14|[ConstantaOpen2013](https://www.worldcubeassociation.org/competitions/ConstantaOpen2013)||  
 |=|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|14|[NacionalPerubik2016](https://www.worldcubeassociation.org/competitions/NacionalPerubik2016)||  
 |=|[Andres Vanegas Velandia](https://www.worldcubeassociation.org/persons/2013VELA07)|14|[Profecia2013](https://www.worldcubeassociation.org/competitions/Profecia2013)||  
@@ -901,7 +900,6 @@
 |=|[Catherine McCarthy](https://www.worldcubeassociation.org/persons/2015MCCA03)|14|[KeepPortlandWeird2015](https://www.worldcubeassociation.org/competitions/KeepPortlandWeird2015)||  
 |=|[Chi-Tung Chen (陳智彤)](https://www.worldcubeassociation.org/persons/2014CHEN23)|14|[SuzhouOpen2014](https://www.worldcubeassociation.org/competitions/SuzhouOpen2014)||  
 |=|[Chloé Demuynck](https://www.worldcubeassociation.org/persons/2016DEMU01)|14|[OpenCubeProject2016](https://www.worldcubeassociation.org/competitions/OpenCubeProject2016)||  
-|=|[Chris Wright](https://www.worldcubeassociation.org/persons/2011WRIG01)|14|[GuildfordSummerOpen2011](https://www.worldcubeassociation.org/competitions/GuildfordSummerOpen2011)||  
 |=|[Christian Baier](https://www.worldcubeassociation.org/persons/2011BAIE01)|14|[GermanNationals2011](https://www.worldcubeassociation.org/competitions/GermanNationals2011)||  
 |=|[Christopher Haslinger](https://www.worldcubeassociation.org/persons/2016HASL01)|14|[SchwandorfOpen2016](https://www.worldcubeassociation.org/competitions/SchwandorfOpen2016)||  
 |=|[Christopher Milburn](https://www.worldcubeassociation.org/persons/2010MILB01)|14|[RenoWinter2010](https://www.worldcubeassociation.org/competitions/RenoWinter2010)||  
@@ -916,7 +914,6 @@
 |=|[Dartagnan Mullins](https://www.worldcubeassociation.org/persons/2016MULL05)|14|[PugetSoundFall2016](https://www.worldcubeassociation.org/competitions/PugetSoundFall2016)||  
 |=|[Deepshika Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA03)|14|[ShaastraOpen2011](https://www.worldcubeassociation.org/competitions/ShaastraOpen2011)||  
 |=|[Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01)|14|[IncrediblePencilMania2018](https://www.worldcubeassociation.org/competitions/IncrediblePencilMania2018)||  
-|=|[Deyang Wang (王德阳)](https://www.worldcubeassociation.org/persons/2013WANG76)|14|[DalianOpen2013](https://www.worldcubeassociation.org/competitions/DalianOpen2013)||  
 |=|[Diego Arche Andradas](https://www.worldcubeassociation.org/persons/2015ANDR06)|14|[ArnoldClassicRubik2015](https://www.worldcubeassociation.org/competitions/ArnoldClassicRubik2015)||  
 |=|[Dmytro Zhyhai (Дмитро Жигай)](https://www.worldcubeassociation.org/persons/2014ZHYH01)|14|[DneprCubeDay2014](https://www.worldcubeassociation.org/competitions/DneprCubeDay2014)||  
 |=|[Dominic Amrhein](https://www.worldcubeassociation.org/persons/2016AMRH01)|14|[HessenOpen2016](https://www.worldcubeassociation.org/competitions/HessenOpen2016)||  
@@ -931,7 +928,6 @@
 |=|[Eric Berg](https://www.worldcubeassociation.org/persons/2016BERG09)|14|[PetoskeyCubing2016](https://www.worldcubeassociation.org/competitions/PetoskeyCubing2016)||  
 |=|[Esteban Daniel Rivera Diban](https://www.worldcubeassociation.org/persons/2017DIBA01)|14|[YuraSpeedcubers2017](https://www.worldcubeassociation.org/competitions/YuraSpeedcubers2017)||  
 |=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|14|[MontrealOpenWinter2017](https://www.worldcubeassociation.org/competitions/MontrealOpenWinter2017)||  
-|=|[Ethan Mayo](https://www.worldcubeassociation.org/persons/2014MAYO01)|14|[OxfordOpen2014](https://www.worldcubeassociation.org/competitions/OxfordOpen2014)||  
 |=|[Ethan Misteri](https://www.worldcubeassociation.org/persons/2016MIST03)|14|[CubingKnights2016](https://www.worldcubeassociation.org/competitions/CubingKnights2016)||  
 |=|[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|14|[CanberraSpring2016](https://www.worldcubeassociation.org/competitions/CanberraSpring2016)||  
 |=|[Federico Rinalduzzi](https://www.worldcubeassociation.org/persons/2015RINA01)|14|[MonterotondoOpen2015](https://www.worldcubeassociation.org/competitions/MonterotondoOpen2015)||  
@@ -944,10 +940,11 @@
 |=|[Gloryan Casimir Nursewan](https://www.worldcubeassociation.org/persons/2011NURS01)|14|[IndonesianOpen2011](https://www.worldcubeassociation.org/competitions/IndonesianOpen2011)||  
 |=|[Hansheng Xu (徐菡声)](https://www.worldcubeassociation.org/persons/2017XUHA02)|14|[NanjingSpring2017](https://www.worldcubeassociation.org/competitions/NanjingSpring2017)||  
 |=|[Hongfei Tian (田洪飞)](https://www.worldcubeassociation.org/persons/2010TIAN03)|14|[ChicagoOpen2010](https://www.worldcubeassociation.org/competitions/ChicagoOpen2010)||  
+|=|[Isaac Adair Nava Ozorio](https://www.worldcubeassociation.org/persons/2016OZOR01)|14|[LiveYourDream2016](https://www.worldcubeassociation.org/competitions/LiveYourDream2016)||  
 |=|[Jack Haviland](https://www.worldcubeassociation.org/persons/2013HAVI01)|14|[TreeTown2013](https://www.worldcubeassociation.org/competitions/TreeTown2013)||  
+|=|[Jackson DeVico](https://www.worldcubeassociation.org/persons/2015DEVI02)|14|[PhillipsExeterCubeDay2015](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2015)||  
 |=|[Jackson Taylor](https://www.worldcubeassociation.org/persons/2012TAYL02)|14|[RaleighOpen2012](https://www.worldcubeassociation.org/competitions/RaleighOpen2012)||  
 |=|[Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09)|14|[AlpharettaOpen2016](https://www.worldcubeassociation.org/competitions/AlpharettaOpen2016)||  
-|=|[Jaime Andrés Escobar Chan](https://www.worldcubeassociation.org/persons/2015CHAN26)|14|[RubiksXelaOpen2015](https://www.worldcubeassociation.org/competitions/RubiksXelaOpen2015)||  
 |=|[Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01)|14|[SLSBielskoBiala2014](https://www.worldcubeassociation.org/competitions/SLSBielskoBiala2014)||  
 |=|[Jandell Ryan Ko](https://www.worldcubeassociation.org/persons/2017KOJA01)|14|[CaltechWinter2017](https://www.worldcubeassociation.org/competitions/CaltechWinter2017)||  
 |=|[Jason Bauer](https://www.worldcubeassociation.org/persons/2013BAUE01)|14|[HarvardSpring2013](https://www.worldcubeassociation.org/competitions/HarvardSpring2013)||  
@@ -962,11 +959,12 @@
 |=|[Jonas Rajagopal](https://www.worldcubeassociation.org/persons/2016RAJA06)|14|[PhillipsExeterCubeDay2016](https://www.worldcubeassociation.org/competitions/PhillipsExeterCubeDay2016)||  
 |=|[Jonas Schober](https://www.worldcubeassociation.org/persons/2012SCHO01)|14|[BWOpen2012](https://www.worldcubeassociation.org/competitions/BWOpen2012)||  
 |=|[Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01)|14|[PerthSummer2016](https://www.worldcubeassociation.org/competitions/PerthSummer2016)||  
+|=|[Jonathan Culbertson](https://www.worldcubeassociation.org/persons/2017CULB01)|14|[RedCrossCubingOpen2017](https://www.worldcubeassociation.org/competitions/RedCrossCubingOpen2017)||  
 |=|[Jonathan Lööv](https://www.worldcubeassociation.org/persons/2015LOOV01)|14|[SwedishDecathlonChallenge2015](https://www.worldcubeassociation.org/competitions/SwedishDecathlonChallenge2015)||  
 |=|[Jörg Seidler](https://www.worldcubeassociation.org/persons/2010SEID01)|14|[AachenOpen2010](https://www.worldcubeassociation.org/competitions/AachenOpen2010)||  
-|=|[Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02)|14|[VillanuevaOpen2016](https://www.worldcubeassociation.org/competitions/VillanuevaOpen2016)||  
 |=|[José Libardo Moreno Rodríguez](https://www.worldcubeassociation.org/persons/2015RODR37)|14|[RubiKolombia2015](https://www.worldcubeassociation.org/competitions/RubiKolombia2015)||  
 |=|[Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07)|14|[SumerSpeedCubeOlympics2016](https://www.worldcubeassociation.org/competitions/SumerSpeedCubeOlympics2016)||  
+|=|[Justus Danielsen](https://www.worldcubeassociation.org/persons/2016DANI08)|14|[CubeIsGood2016](https://www.worldcubeassociation.org/competitions/CubeIsGood2016)||  
 |=|[Kacper Wiłkojć](https://www.worldcubeassociation.org/persons/2013WIKO01)|14|[ManufakturaOpen2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013)||  
 |=|[Kairui Huang](https://www.worldcubeassociation.org/persons/2015HUAN51)|14|[TorontoOpenFall2015](https://www.worldcubeassociation.org/competitions/TorontoOpenFall2015)||  
 |=|[Karl Taagaard Hansen](https://www.worldcubeassociation.org/persons/2016HANS01)|14|[HamburgOpen2017](https://www.worldcubeassociation.org/competitions/HamburgOpen2017)||  
@@ -1003,8 +1001,10 @@
 |=|[Mohan Balaji](https://www.worldcubeassociation.org/persons/2014BALA07)|14|[C3Open2014](https://www.worldcubeassociation.org/competitions/C3Open2014)||  
 |=|[Muhammad Badruddin](https://www.worldcubeassociation.org/persons/2010BADR01)|14|[CelebesOpen2010](https://www.worldcubeassociation.org/competitions/CelebesOpen2010)||  
 |=|[Naufal Aqil Himawan](https://www.worldcubeassociation.org/persons/2016HIMA01)|14|[BekasiCubeDays2016](https://www.worldcubeassociation.org/competitions/BekasiCubeDays2016)||  
+|=|[Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04)|14|[OficinaOpen2017](https://www.worldcubeassociation.org/competitions/OficinaOpen2017)||  
 |=|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|14|[DneprNeverFails2018](https://www.worldcubeassociation.org/competitions/DneprNeverFails2018)||  
 |=|[Nikolay Golovenko](https://www.worldcubeassociation.org/persons/2015GOLO03)|14|[SPBSpringOpen2015](https://www.worldcubeassociation.org/competitions/SPBSpringOpen2015)||  
 |=|[Noah Schulhof](https://www.worldcubeassociation.org/persons/2014SCHU02)|14|[SlowNSteadyFall2014](https://www.worldcubeassociation.org/competitions/SlowNSteadyFall2014)||  
 |=|[Noah Stelting](https://www.worldcubeassociation.org/persons/2014STEL02)|14|[VanCubingWinter2014](https://www.worldcubeassociation.org/competitions/VanCubingWinter2014)||  
 |=|[Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01)|14|[BerkeleyFall2016](https://www.worldcubeassociation.org/competitions/BerkeleyFall2016)||  
+|=|[Omkar Kibe](https://www.worldcubeassociation.org/persons/2011KIBE01)|14|[SCMU2011](https://www.worldcubeassociation.org/competitions/SCMU2011)||  

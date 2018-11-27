@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Sat Nov 24 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Nov 27 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -84,11 +84,11 @@
 |74|[Justin Robert C. Abiang](https://www.worldcubeassociation.org/persons/2017ABIA01)|Philippines|7.35|4.96, 8.33, 8.76, 11.74, 4.27|  
 |75|[Hongfei Chen (陈红飞)](https://www.worldcubeassociation.org/persons/2017CHEN79)|China|7.35|8.39, 5.64, 9.74, 7.30, 6.37|  
 |76|[Haoran Wang (王浩然)](https://www.worldcubeassociation.org/persons/2015WANG97)|China|7.44|6.87, 7.95, 8.02, 6.90, 7.46|  
-|77|[Binghe Su (苏炳赫)](https://www.worldcubeassociation.org/persons/2016SUBI03)|China|7.46|6.05, 8.65, 7.95, 8.38, 5.85|  
+|77|[Richard Li](https://www.worldcubeassociation.org/persons/2018LIWE05)|Canada|7.46|7.40, 7.63, 12.17, 4.82, 7.34|  
+|78|[Binghe Su (苏炳赫)](https://www.worldcubeassociation.org/persons/2016SUBI03)|China|7.46|6.05, 8.65, 7.95, 8.38, 5.85|  
 |=|[Luigi Angelo Enghoy](https://www.worldcubeassociation.org/persons/2017ENGH01)|Philippines|7.46|8.03, 8.41, 5.61, 5.94, 10.46|  
-|79|[Yinghao Zhang (张英豪)](https://www.worldcubeassociation.org/persons/2016ZHAY01)|China|7.47|7.49, 6.07, 7.71, 8.33, 7.22|  
-|80|[Yung Tin Ho (容天顥)](https://www.worldcubeassociation.org/persons/2016HOYU01)|Hong Kong|7.49|6.63, 12.05, 7.77, 7.00, 7.71|  
-|81|[Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26)|USA|7.52|6.43, 6.54, 8.91, 8.94, 7.11|  
+|80|[Yinghao Zhang (张英豪)](https://www.worldcubeassociation.org/persons/2016ZHAY01)|China|7.47|7.49, 6.07, 7.71, 8.33, 7.22|  
+|81|[Yung Tin Ho (容天顥)](https://www.worldcubeassociation.org/persons/2016HOYU01)|Hong Kong|7.49|6.63, 12.05, 7.77, 7.00, 7.71|  
 |82|[David Alberto García Moreno](https://www.worldcubeassociation.org/persons/2012MORE01)|Mexico|7.53|9.13, DNF, 6.54, 6.93, 6.48|  
 |83|[Luca Spataro](https://www.worldcubeassociation.org/persons/2018SPAT01)|USA|7.54|7.37, 7.14, 7.23, 10.27, 8.03|  
 |84|[Brett Barry](https://www.worldcubeassociation.org/persons/2017BARR15)|USA|7.57|9.32, 4.73, 9.26, 6.93, 6.51|  
@@ -144,117 +144,117 @@
 |134|[Piotr Góraj](https://www.worldcubeassociation.org/persons/2018GORA01)|Poland|8.02|5.49, 3.01, 10.03, 11.73, 8.55|  
 |=|[Yaao Song (宋亚傲)](https://www.worldcubeassociation.org/persons/2018SONG11)|China|8.02|4.37, 6.64, 8.51, 11.44, 8.92|  
 |136|[Alexander Teague](https://www.worldcubeassociation.org/persons/2018TEAG01)|United Kingdom|8.04|7.52, 7.98, 7.15, DNF, 8.61|  
-|137|[Haoyan Meng (孟昊岩)](https://www.worldcubeassociation.org/persons/2018MENG03)|China|8.07|6.10, 6.79, 9.10, DNF, 8.31|  
-|138|[Shun Suzuki (鈴木峻)](https://www.worldcubeassociation.org/persons/2016SUZU04)|Japan|8.07|4.79, 9.65, DNF, 7.51, 7.05|  
+|137|[Shun Suzuki (鈴木峻)](https://www.worldcubeassociation.org/persons/2016SUZU04)|Japan|8.07|4.79, 9.65, DNF, 7.51, 7.05|  
 |=|[Kan Ka Hei (簡嘉曦)](https://www.worldcubeassociation.org/persons/2017HEIK02)|Hong Kong|8.07|6.76, 9.59, 13.22, 6.54, 7.86|  
-|140|[Uriel Santana Suarez](https://www.worldcubeassociation.org/persons/2017SUAR02)|Mexico|8.08|7.28, 9.02, 6.12, 7.93, 10.34|  
-|141|[Naheon Lee (이나헌)](https://www.worldcubeassociation.org/persons/2014LEEN01)|Korea|8.08|8.92, 6.69, 7.37, 10.37, 7.95|  
+|139|[Uriel Santana Suarez](https://www.worldcubeassociation.org/persons/2017SUAR02)|Mexico|8.08|7.28, 9.02, 6.12, 7.93, 10.34|  
+|140|[Naheon Lee (이나헌)](https://www.worldcubeassociation.org/persons/2014LEEN01)|Korea|8.08|8.92, 6.69, 7.37, 10.37, 7.95|  
 |=|[Yiwei Meng (孟一为)](https://www.worldcubeassociation.org/persons/2018MENG01)|China|8.08|14.32, 8.51, 8.77, 6.96, 6.90|  
-|143|[Botao He (何博涛)](https://www.worldcubeassociation.org/persons/2016HEBO01)|China|8.09|9.23, 6.49, 8.54, 6.34, 14.84|  
-|144|[Azizbek Khakimov](https://www.worldcubeassociation.org/persons/2017KHAK03)|Uzbekistan|8.10|8.65, 8.34, 10.30, 6.93, 7.32|  
-|145|[Jereson Goh](https://www.worldcubeassociation.org/persons/2016GOHJ01)|Singapore|8.12|9.31, 8.97, 5.25, 6.68, 8.71|  
-|146|[Zhuoxi Yin (尹卓曦)](https://www.worldcubeassociation.org/persons/2018YINZ03)|China|8.13|9.83, 8.12, 7.89, 6.78, 8.37|  
-|147|[Goh Kai Joon](https://www.worldcubeassociation.org/persons/2016JOON01)|Singapore|8.13|7.63, 9.30, 7.46, 10.55, 5.33|  
-|148|[Ong Siong Kuan](https://www.worldcubeassociation.org/persons/2018KUAN03)|Singapore|8.14|11.16, 7.65, 8.36, 6.19, 8.40|  
-|149|[Ryan Baiano](https://www.worldcubeassociation.org/persons/2017BAIA01)|USA|8.14|6.45, 8.55, 9.43, 5.74, 14.91|  
+|142|[Botao He (何博涛)](https://www.worldcubeassociation.org/persons/2016HEBO01)|China|8.09|9.23, 6.49, 8.54, 6.34, 14.84|  
+|143|[Azizbek Khakimov](https://www.worldcubeassociation.org/persons/2017KHAK03)|Uzbekistan|8.10|8.65, 8.34, 10.30, 6.93, 7.32|  
+|144|[Jereson Goh](https://www.worldcubeassociation.org/persons/2016GOHJ01)|Singapore|8.12|9.31, 8.97, 5.25, 6.68, 8.71|  
+|145|[Zhuoxi Yin (尹卓曦)](https://www.worldcubeassociation.org/persons/2018YINZ03)|China|8.13|9.83, 8.12, 7.89, 6.78, 8.37|  
+|146|[Goh Kai Joon](https://www.worldcubeassociation.org/persons/2016JOON01)|Singapore|8.13|7.63, 9.30, 7.46, 10.55, 5.33|  
+|147|[Ong Siong Kuan](https://www.worldcubeassociation.org/persons/2018KUAN03)|Singapore|8.14|11.16, 7.65, 8.36, 6.19, 8.40|  
+|148|[Ryan Baiano](https://www.worldcubeassociation.org/persons/2017BAIA01)|USA|8.14|6.45, 8.55, 9.43, 5.74, 14.91|  
 |=|[Haddy Alchaer](https://www.worldcubeassociation.org/persons/2018ALCH01)|USA|8.14|7.26, 11.51, 6.67, 6.60, 10.50|  
-|151|[Aidan Schauer](https://www.worldcubeassociation.org/persons/2016SCHA03)|USA|8.15|6.83, 7.89, 6.47, 9.73, 13.39|  
-|152|[Ansh Roopesh Iyer](https://www.worldcubeassociation.org/persons/2018IYER03)|India|8.16|8.55, 4.00, 8.84, 7.08, 11.28|  
-|153|[Michael Jeon](https://www.worldcubeassociation.org/persons/2018JEON05)|USA|8.16|5.69, 6.16, 11.47, 9.67, 8.65|  
-|154|[Sebastian Król](https://www.worldcubeassociation.org/persons/2015KROL02)|Poland|8.16|7.36, 7.35, 8.87, 17.71, 8.26|  
+|150|[Aidan Schauer](https://www.worldcubeassociation.org/persons/2016SCHA03)|USA|8.15|6.83, 7.89, 6.47, 9.73, 13.39|  
+|151|[Ansh Roopesh Iyer](https://www.worldcubeassociation.org/persons/2018IYER03)|India|8.16|8.55, 4.00, 8.84, 7.08, 11.28|  
+|152|[Michael Jeon](https://www.worldcubeassociation.org/persons/2018JEON05)|USA|8.16|5.69, 6.16, 11.47, 9.67, 8.65|  
+|153|[Sebastian Król](https://www.worldcubeassociation.org/persons/2015KROL02)|Poland|8.16|7.36, 7.35, 8.87, 17.71, 8.26|  
 |=|[Bohan Zhao (赵柏涵)](https://www.worldcubeassociation.org/persons/2017ZHAO81)|China|8.16|9.60, 7.45, 8.10, 6.17, 8.94|  
-|156|[Luis Fernando Hernández Guerrero](https://www.worldcubeassociation.org/persons/2016GUER11)|Mexico|8.17|5.75, 8.30, 8.37, 11.83, 7.84|  
-|157|[Israr Rizvi](https://www.worldcubeassociation.org/persons/2018RIZV01)|India|8.18|7.03, 10.10, 7.57, 9.67, 7.30|  
-|158|[Graciela Antonia Araneda Cortes](https://www.worldcubeassociation.org/persons/2016CART07)|Chile|8.19|16.28, 6.49, 8.13, 9.94, 6.42|  
-|159|[Daniel Overton](https://www.worldcubeassociation.org/persons/2017OVER01)|USA|8.19|7.83, 6.55, 8.49, 8.25, 9.35|  
-|160|[Ilia Vakulenko](https://www.worldcubeassociation.org/persons/2014VAKU02)|Russia|8.20|9.02, 7.85, 4.69, 7.91, 8.84|  
-|161|[Arttu Ilmari Rämet](https://www.worldcubeassociation.org/persons/2017RAME03)|Finland|8.21|5.57, 6.96, 8.96, 8.72, 10.89|  
-|162|[Oliver Douglas](https://www.worldcubeassociation.org/persons/2015DOUG02)|Australia|8.22|10.00, 7.06, 10.66, 6.94, 7.59|  
-|163|[Samuel Kuchár](https://www.worldcubeassociation.org/persons/2017KUCH02)|Slovakia|8.22|8.35, 10.12, 5.08, 7.33, 8.98|  
-|164|[Dandy Meyrizal](https://www.worldcubeassociation.org/persons/2018MEYR01)|Indonesia|8.24|9.15, 7.24, 6.69, 9.12, 8.35|  
-|165|[Xiaoyu Bian (边笑域)](https://www.worldcubeassociation.org/persons/2018BIAN06)|China|8.24|6.37, 9.71, 8.20, 8.88, 7.64|  
-|166|[Kahlil Marc Yagao](https://www.worldcubeassociation.org/persons/2017YAGA01)|Philippines|8.25|5.22, 9.40, 16.00, 8.83, 6.51|  
-|167|[Ugustiningtyas Supriatno](https://www.worldcubeassociation.org/persons/2017UGUS01)|Indonesia|8.25|11.20, 6.05, 9.46, 5.77, 9.24|  
-|168|[Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02)|USA|8.26|10.24, 7.69, 3.80, 8.32, 8.77|  
-|169|[Sebastián Mateo España Chango](https://www.worldcubeassociation.org/persons/2018CHAN23)|Ecuador|8.27|7.62, 9.06, 9.39, 6.82, 8.14|  
+|155|[Luis Fernando Hernández Guerrero](https://www.worldcubeassociation.org/persons/2016GUER11)|Mexico|8.17|5.75, 8.30, 8.37, 11.83, 7.84|  
+|156|[Israr Rizvi](https://www.worldcubeassociation.org/persons/2018RIZV01)|India|8.18|7.03, 10.10, 7.57, 9.67, 7.30|  
+|157|[Graciela Antonia Araneda Cortes](https://www.worldcubeassociation.org/persons/2016CART07)|Chile|8.19|16.28, 6.49, 8.13, 9.94, 6.42|  
+|158|[Daniel Overton](https://www.worldcubeassociation.org/persons/2017OVER01)|USA|8.19|7.83, 6.55, 8.49, 8.25, 9.35|  
+|159|[Ilia Vakulenko](https://www.worldcubeassociation.org/persons/2014VAKU02)|Russia|8.20|9.02, 7.85, 4.69, 7.91, 8.84|  
+|160|[Arttu Ilmari Rämet](https://www.worldcubeassociation.org/persons/2017RAME03)|Finland|8.21|5.57, 6.96, 8.96, 8.72, 10.89|  
+|161|[Oliver Douglas](https://www.worldcubeassociation.org/persons/2015DOUG02)|Australia|8.22|10.00, 7.06, 10.66, 6.94, 7.59|  
+|162|[Samuel Kuchár](https://www.worldcubeassociation.org/persons/2017KUCH02)|Slovakia|8.22|8.35, 10.12, 5.08, 7.33, 8.98|  
+|163|[Dandy Meyrizal](https://www.worldcubeassociation.org/persons/2018MEYR01)|Indonesia|8.24|9.15, 7.24, 6.69, 9.12, 8.35|  
+|164|[Xiaoyu Bian (边笑域)](https://www.worldcubeassociation.org/persons/2018BIAN06)|China|8.24|6.37, 9.71, 8.20, 8.88, 7.64|  
+|165|[Kahlil Marc Yagao](https://www.worldcubeassociation.org/persons/2017YAGA01)|Philippines|8.25|5.22, 9.40, 16.00, 8.83, 6.51|  
+|166|[Ugustiningtyas Supriatno](https://www.worldcubeassociation.org/persons/2017UGUS01)|Indonesia|8.25|11.20, 6.05, 9.46, 5.77, 9.24|  
+|167|[Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02)|USA|8.26|10.24, 7.69, 3.80, 8.32, 8.77|  
+|168|[Sebastián Mateo España Chango](https://www.worldcubeassociation.org/persons/2018CHAN23)|Ecuador|8.27|7.62, 9.06, 9.39, 6.82, 8.14|  
 |=|[Scott B. Shoemaker](https://www.worldcubeassociation.org/persons/2018SHOE01)|USA|8.27|8.36, 6.68, 9.53, 8.76, 7.70|  
-|171|[Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01)|France|8.28|14.41, 5.86, 8.00, 10.13, 6.71|  
-|172|[Chang Hu (胡昶)](https://www.worldcubeassociation.org/persons/2017HUCH01)|China|8.29|7.78, 6.55, 11.46, 6.41, 10.55|  
-|173|[Andro Gvaramadze](https://www.worldcubeassociation.org/persons/2018GVAR01)|Georgia|8.30|9.48, 6.79, 8.62, 6.74, 11.82|  
-|174|[Adrian Goh Jia Qian](https://www.worldcubeassociation.org/persons/2018QIAN12)|Malaysia|8.30|5.88, 6.57, 10.45, 8.43, 9.90|  
-|175|[Brandon Pierel](https://www.worldcubeassociation.org/persons/2018PIER02)|USA|8.32|7.61, 5.41, 9.87, 9.02, 8.32|  
-|176|[Joel Del Pilar](https://www.worldcubeassociation.org/persons/2017PILA01)|Philippines|8.32|8.90, 9.06, 6.11, 10.00, 7.01|  
-|177|[Fasyin Haziq Bin Rahimi](https://www.worldcubeassociation.org/persons/2017RAHI01)|Malaysia|8.33|11.32, 7.40, 7.57, 10.03, 6.33|  
-|178|[John DeFranco](https://www.worldcubeassociation.org/persons/2017DEFR02)|USA|8.35|9.27, 4.52, 6.83, 12.51, 8.95|  
-|179|[Álvaro Gala López](https://www.worldcubeassociation.org/persons/2016LOPE04)|Spain|8.36|9.32, 8.24, 7.52, 10.69, 7.41|  
-|180|[Ohad Fefer](https://www.worldcubeassociation.org/persons/2017FEFE01)|Israel|8.37|8.50, 7.63, 8.15, 8.46, 8.57|  
-|181|[Ernar Sadybekov (Ернар Садыбеков)](https://www.worldcubeassociation.org/persons/2017SADY02)|Kazakhstan|8.37|7.85, 6.82, 12.91, 9.13, 8.14|  
-|182|[Amir Haziq Bin Mohd Wira](https://www.worldcubeassociation.org/persons/2017WIRA01)|Malaysia|8.39|6.87, 7.41, 7.73, 11.70, 10.02|  
+|170|[Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01)|France|8.28|14.41, 5.86, 8.00, 10.13, 6.71|  
+|171|[Chang Hu (胡昶)](https://www.worldcubeassociation.org/persons/2017HUCH01)|China|8.29|7.78, 6.55, 11.46, 6.41, 10.55|  
+|172|[Andro Gvaramadze](https://www.worldcubeassociation.org/persons/2018GVAR01)|Georgia|8.30|9.48, 6.79, 8.62, 6.74, 11.82|  
+|173|[Adrian Goh Jia Qian](https://www.worldcubeassociation.org/persons/2018QIAN12)|Malaysia|8.30|5.88, 6.57, 10.45, 8.43, 9.90|  
+|174|[Brandon Pierel](https://www.worldcubeassociation.org/persons/2018PIER02)|USA|8.32|7.61, 5.41, 9.87, 9.02, 8.32|  
+|175|[Joel Del Pilar](https://www.worldcubeassociation.org/persons/2017PILA01)|Philippines|8.32|8.90, 9.06, 6.11, 10.00, 7.01|  
+|176|[Fasyin Haziq Bin Rahimi](https://www.worldcubeassociation.org/persons/2017RAHI01)|Malaysia|8.33|11.32, 7.40, 7.57, 10.03, 6.33|  
+|177|[John DeFranco](https://www.worldcubeassociation.org/persons/2017DEFR02)|USA|8.35|9.27, 4.52, 6.83, 12.51, 8.95|  
+|178|[Álvaro Gala López](https://www.worldcubeassociation.org/persons/2016LOPE04)|Spain|8.36|9.32, 8.24, 7.52, 10.69, 7.41|  
+|179|[Ohad Fefer](https://www.worldcubeassociation.org/persons/2017FEFE01)|Israel|8.37|8.50, 7.63, 8.15, 8.46, 8.57|  
+|180|[Ernar Sadybekov (Ернар Садыбеков)](https://www.worldcubeassociation.org/persons/2017SADY02)|Kazakhstan|8.37|7.85, 6.82, 12.91, 9.13, 8.14|  
+|181|[Amir Haziq Bin Mohd Wira](https://www.worldcubeassociation.org/persons/2017WIRA01)|Malaysia|8.39|6.87, 7.41, 7.73, 11.70, 10.02|  
 |=|[Kacper Zborowski](https://www.worldcubeassociation.org/persons/2018ZBOR01)|Poland|8.39|16.73, 9.01, 9.44, 5.29, 6.71|  
-|184|[Nguyễn Minh Khang](https://www.worldcubeassociation.org/persons/2017KHAN44)|Vietnam|8.39|10.39, 8.51, 5.83, 9.24, 7.42|  
+|183|[Nguyễn Minh Khang](https://www.worldcubeassociation.org/persons/2017KHAN44)|Vietnam|8.39|10.39, 8.51, 5.83, 9.24, 7.42|  
 |=|[Ranjun Jia (贾然钧)](https://www.worldcubeassociation.org/persons/2018JIAR01)|China|8.39|11.28, 7.83, 7.99, 8.61, 8.57|  
-|186|[Roy Mahilum](https://www.worldcubeassociation.org/persons/2017MAHI01)|Philippines|8.40|15.05, 9.11, 6.68, 6.09, 9.40|  
+|185|[Roy Mahilum](https://www.worldcubeassociation.org/persons/2017MAHI01)|Philippines|8.40|15.05, 9.11, 6.68, 6.09, 9.40|  
 |=|[Michael Wu](https://www.worldcubeassociation.org/persons/2017WUMI01)|USA|8.40|6.96, 10.16, 6.81, 8.07, 11.41|  
-|188|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|USA|8.40|7.61, 12.19, 7.44, 8.39, 9.20|  
+|187|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|USA|8.40|7.61, 12.19, 7.44, 8.39, 9.20|  
 |=|[Jake Hurst](https://www.worldcubeassociation.org/persons/2016HURS01)|United Kingdom|8.40|9.36, 8.93, 9.80, 6.91, 6.38|  
-|190|[Zailin Ma (马再霖)](https://www.worldcubeassociation.org/persons/2013MAZA01)|China|8.40|10.03, 6.73, 8.21, 6.97, 10.81|  
-|191|[Esra Mehmedova](https://www.worldcubeassociation.org/persons/2018MEHM02)|Bulgaria|8.41|6.49, 14.77, 7.64, 8.52, 9.08|  
-|192|[Mane Pastor](https://www.worldcubeassociation.org/persons/2017PAST03)|USA|8.42|6.67, 9.05, 8.48, 8.71, 8.06|  
+|189|[Zailin Ma (马再霖)](https://www.worldcubeassociation.org/persons/2013MAZA01)|China|8.40|10.03, 6.73, 8.21, 6.97, 10.81|  
+|190|[Esra Mehmedova](https://www.worldcubeassociation.org/persons/2018MEHM02)|Bulgaria|8.41|6.49, 14.77, 7.64, 8.52, 9.08|  
+|191|[Mane Pastor](https://www.worldcubeassociation.org/persons/2017PAST03)|USA|8.42|6.67, 9.05, 8.48, 8.71, 8.06|  
 |=|[Sebastian Gonzalez](https://www.worldcubeassociation.org/persons/2018GONZ12)|Costa Rica|8.42|9.66, 9.98, 7.12, 8.47, 7.11|  
-|194|[Mikel Martinez Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR71)|Chile|8.43|6.53, 8.96, 12.70, 9.37, 6.95|  
-|195|[Domantas Kuzinkovas](https://www.worldcubeassociation.org/persons/2014KUZI02)|Australia|8.43|5.46, 10.11, 9.08, 7.09, 9.12|  
-|196|[Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28)|USA|8.43|8.29, 9.06, 5.87, 7.97, 9.04|  
-|197|[Dongyoon Kwak (곽동윤)](https://www.worldcubeassociation.org/persons/2015KWAK01)|Korea|8.44|8.74, 7.55, 11.04, 7.52, 9.04|  
-|198|[Toh Zhe Ming](https://www.worldcubeassociation.org/persons/2017MING05)|Malaysia|8.45|11.06, 6.56, 12.77, 5.71, 7.74|  
+|193|[Mikel Martinez Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR71)|Chile|8.43|6.53, 8.96, 12.70, 9.37, 6.95|  
+|194|[Domantas Kuzinkovas](https://www.worldcubeassociation.org/persons/2014KUZI02)|Australia|8.43|5.46, 10.11, 9.08, 7.09, 9.12|  
+|195|[Dongyoon Kwak (곽동윤)](https://www.worldcubeassociation.org/persons/2015KWAK01)|Korea|8.44|8.74, 7.55, 11.04, 7.52, 9.04|  
+|196|[Toh Zhe Ming](https://www.worldcubeassociation.org/persons/2017MING05)|Malaysia|8.45|11.06, 6.56, 12.77, 5.71, 7.74|  
 |=|[Ansh Shah](https://www.worldcubeassociation.org/persons/2017SHAH32)|USA|8.45|4.90, 9.55, 10.36, 5.45, 13.19|  
-|200|[Moisés Ignacio Villena Mejía](https://www.worldcubeassociation.org/persons/2018MEJI04)|Ecuador|8.46|6.56, 6.02, 9.14, DNF, 9.69|  
-|201|[Junxiao Li (李俊潇)](https://www.worldcubeassociation.org/persons/2014LIJU01)|China|8.47|7.04, 7.23, 12.44, 7.83, 10.34|  
+|198|[Moisés Ignacio Villena Mejía](https://www.worldcubeassociation.org/persons/2018MEJI04)|Ecuador|8.46|6.56, 6.02, 9.14, DNF, 9.69|  
+|199|[Junxiao Li (李俊潇)](https://www.worldcubeassociation.org/persons/2014LIJU01)|China|8.47|7.04, 7.23, 12.44, 7.83, 10.34|  
 |=|[Shera Mae Manzano](https://www.worldcubeassociation.org/persons/2018MANZ01)|Philippines|8.47|7.38, 7.89, 8.58, 10.33, 8.93|  
-|203|[William Kenyon](https://www.worldcubeassociation.org/persons/2015KENY01)|USA|8.49|7.39, 6.66, 6.09, 11.41, 15.09|  
-|204|[Andrés Mardones](https://www.worldcubeassociation.org/persons/2018MARD02)|Chile|8.49|8.02, 9.78, 6.60, 9.83, 7.68|  
-|205|[Tegar Fauzan Fadil Tagalih](https://www.worldcubeassociation.org/persons/2017TAGA01)|Indonesia|8.51|8.93, 7.37, 7.37, 9.22, DNF|  
-|206|[Ruliang Tian (田如亮)](https://www.worldcubeassociation.org/persons/2018TIAN15)|China|8.51|27.89, 7.24, 6.85, 9.42, 8.88|  
-|207|[Solomon Decksheimer](https://www.worldcubeassociation.org/persons/2016DECK02)|Canada|8.52|8.57, 10.10, 9.05, 7.03, 7.95|  
+|201|[William Kenyon](https://www.worldcubeassociation.org/persons/2015KENY01)|USA|8.49|7.39, 6.66, 6.09, 11.41, 15.09|  
+|202|[Andrés Mardones](https://www.worldcubeassociation.org/persons/2018MARD02)|Chile|8.49|8.02, 9.78, 6.60, 9.83, 7.68|  
+|203|[Tegar Fauzan Fadil Tagalih](https://www.worldcubeassociation.org/persons/2017TAGA01)|Indonesia|8.51|8.93, 7.37, 7.37, 9.22, DNF|  
+|204|[Ruliang Tian (田如亮)](https://www.worldcubeassociation.org/persons/2018TIAN15)|China|8.51|27.89, 7.24, 6.85, 9.42, 8.88|  
+|205|[Solomon Decksheimer](https://www.worldcubeassociation.org/persons/2016DECK02)|Canada|8.52|8.57, 10.10, 9.05, 7.03, 7.95|  
 |=|[Rudra Pratap Singh](https://www.worldcubeassociation.org/persons/2018SING28)|India|8.52|7.88, 5.64, 7.12, 17.23, 10.57|  
-|209|[Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01)|Japan|8.53|8.31, 8.18, 7.22, 9.09, 11.40|  
-|210|[Zachary Trudell](https://www.worldcubeassociation.org/persons/2018TRUD02)|USA|8.54|8.96, 4.37, 10.88, 8.00, 8.67|  
-|211|[Surya Diana Kusuma](https://www.worldcubeassociation.org/persons/2016KUSU01)|Indonesia|8.55|8.70, 8.17, 7.61, 12.35, 8.77|  
-|212|[Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13)|Hong Kong|8.55|10.57, 11.23, 6.48, 5.58, 8.60|  
+|207|[Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01)|Japan|8.53|8.31, 8.18, 7.22, 9.09, 11.40|  
+|208|[Zachary Trudell](https://www.worldcubeassociation.org/persons/2018TRUD02)|USA|8.54|8.96, 4.37, 10.88, 8.00, 8.67|  
+|209|[Surya Diana Kusuma](https://www.worldcubeassociation.org/persons/2016KUSU01)|Indonesia|8.55|8.70, 8.17, 7.61, 12.35, 8.77|  
+|210|[Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13)|Hong Kong|8.55|10.57, 11.23, 6.48, 5.58, 8.60|  
 |=|[Drake Denton Richard](https://www.worldcubeassociation.org/persons/2018RICH05)|USA|8.55|12.65, 7.03, 10.66, 7.96, 5.82|  
-|214|[Adam Attia](https://www.worldcubeassociation.org/persons/2014ATTI01)|USA|8.56|9.16, 19.00, 7.41, 6.10, 9.12|  
-|215|[Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14)|India|8.57|14.65, 9.36, 7.93, 5.85, 8.41|  
-|216|[Constantin Popp](https://www.worldcubeassociation.org/persons/2016POPP01)|Germany|8.57|6.11, 7.56, 8.82, 9.33, 10.12|  
+|212|[Adam Attia](https://www.worldcubeassociation.org/persons/2014ATTI01)|USA|8.56|9.16, 19.00, 7.41, 6.10, 9.12|  
+|213|[Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14)|India|8.57|14.65, 9.36, 7.93, 5.85, 8.41|  
+|214|[Constantin Popp](https://www.worldcubeassociation.org/persons/2016POPP01)|Germany|8.57|6.11, 7.56, 8.82, 9.33, 10.12|  
 |=|[Marek Tomanec](https://www.worldcubeassociation.org/persons/2017TOMA04)|Czech Republic|8.57|8.79, 8.03, 8.89, 11.73, 7.21|  
-|218|[Kyle Stewart](https://www.worldcubeassociation.org/persons/2016STEW02)|USA|8.57|7.39, 8.71, 7.75, 9.26, 10.93|  
-|219|[Rafael Martínez Retta](https://www.worldcubeassociation.org/persons/2017RETT01)|Uruguay|8.58|8.63, 16.64, 8.71, 8.39, 6.71|  
-|220|[Zhirun Lin (林芝润)](https://www.worldcubeassociation.org/persons/2018LINZ09)|China|8.58|10.08, 9.23, 7.56, 7.78, 8.74|  
-|221|[Dewin Lei M. Cañete](https://www.worldcubeassociation.org/persons/2017CANE03)|Philippines|8.59|8.60, 8.41, 8.75, 2.81, 10.29|  
-|222|[Ben Rogers](https://www.worldcubeassociation.org/persons/2015ROGE02)|USA|8.59|9.92, 6.11, 8.38, 10.16, 7.48|  
-|223|[Abhishek Krishan](https://www.worldcubeassociation.org/persons/2017KRIS24)|USA|8.60|8.93, 6.33, 9.09, 7.77, 10.15|  
+|216|[Kyle Stewart](https://www.worldcubeassociation.org/persons/2016STEW02)|USA|8.57|7.39, 8.71, 7.75, 9.26, 10.93|  
+|217|[Rafael Martínez Retta](https://www.worldcubeassociation.org/persons/2017RETT01)|Uruguay|8.58|8.63, 16.64, 8.71, 8.39, 6.71|  
+|218|[Zhirun Lin (林芝润)](https://www.worldcubeassociation.org/persons/2018LINZ09)|China|8.58|10.08, 9.23, 7.56, 7.78, 8.74|  
+|219|[Dewin Lei M. Cañete](https://www.worldcubeassociation.org/persons/2017CANE03)|Philippines|8.59|8.60, 8.41, 8.75, 2.81, 10.29|  
+|220|[Ben Rogers](https://www.worldcubeassociation.org/persons/2015ROGE02)|USA|8.59|9.92, 6.11, 8.38, 10.16, 7.48|  
+|221|[Abhishek Krishan](https://www.worldcubeassociation.org/persons/2017KRIS24)|USA|8.60|8.93, 6.33, 9.09, 7.77, 10.15|  
 |=|[Hong Xiang Loke](https://www.worldcubeassociation.org/persons/2017LOKE01)|Malaysia|8.60|6.35, 7.82, 10.87, 10.33, 7.64|  
-|225|[Trần Việt Quang](https://www.worldcubeassociation.org/persons/2018QUAN05)|Vietnam|8.61|8.72, 5.86, 7.69, 10.98, 9.41|  
-|226|[Zonghao Zhang (张宗灏)](https://www.worldcubeassociation.org/persons/2016ZHAZ02)|China|8.61|14.29, 8.32, 7.59, 9.80, 7.71|  
-|227|[Alejandro Guanilo Vasquez](https://www.worldcubeassociation.org/persons/2018VASQ16)|Peru|8.63|10.27, 11.35, 8.83, 6.64, 6.79|  
-|228|[Vi Khánh Linh](https://www.worldcubeassociation.org/persons/2016LINH02)|Vietnam|8.65|8.32, 8.58, 6.84, 11.77, 9.04|  
+|223|[Ryan Schell](https://www.worldcubeassociation.org/persons/2018SCHE09)|USA|8.60|9.03, 10.44, 6.34, 4.44, DNF|  
+|224|[Trần Việt Quang](https://www.worldcubeassociation.org/persons/2018QUAN05)|Vietnam|8.61|8.72, 5.86, 7.69, 10.98, 9.41|  
+|225|[Zonghao Zhang (张宗灏)](https://www.worldcubeassociation.org/persons/2016ZHAZ02)|China|8.61|14.29, 8.32, 7.59, 9.80, 7.71|  
+|226|[Alejandro Guanilo Vasquez](https://www.worldcubeassociation.org/persons/2018VASQ16)|Peru|8.63|10.27, 11.35, 8.83, 6.64, 6.79|  
+|227|[Vi Khánh Linh](https://www.worldcubeassociation.org/persons/2016LINH02)|Vietnam|8.65|8.32, 8.58, 6.84, 11.77, 9.04|  
 |=|[Dwipa Al-Farisi](https://www.worldcubeassociation.org/persons/2017ALFA09)|Indonesia|8.65|8.96, 10.92, 7.29, 9.69, 6.56|  
-|230|[Ziheng Jin (金子恒)](https://www.worldcubeassociation.org/persons/2018JINZ01)|China|8.65|9.72, 8.69, 8.45, 8.82, 7.35|  
-|231|[Lucas Daniel McKerr](https://www.worldcubeassociation.org/persons/2018MCKE02)|United Kingdom|8.66|8.92, 9.92, 7.69, 7.01, 9.36|  
-|232|[Siyu Lu (卢思宇)](https://www.worldcubeassociation.org/persons/2018LUSI03)|China|8.67|10.40, 8.76, 6.93, 8.35, 8.91|  
-|233|[Lingbei Zhang (张龄北)](https://www.worldcubeassociation.org/persons/2018ZHAN44)|China|8.68|11.09, 7.36, 7.58, 6.97, 12.08|  
-|234|[Blagomyr Popok (Благомир Попок)](https://www.worldcubeassociation.org/persons/2015POPO06)|Ukraine|8.68|7.47, 10.50, 8.08, 7.26, 12.43|  
+|229|[Ziheng Jin (金子恒)](https://www.worldcubeassociation.org/persons/2018JINZ01)|China|8.65|9.72, 8.69, 8.45, 8.82, 7.35|  
+|230|[Lucas Daniel McKerr](https://www.worldcubeassociation.org/persons/2018MCKE02)|United Kingdom|8.66|8.92, 9.92, 7.69, 7.01, 9.36|  
+|231|[Siyu Lu (卢思宇)](https://www.worldcubeassociation.org/persons/2018LUSI03)|China|8.67|10.40, 8.76, 6.93, 8.35, 8.91|  
+|232|[Lingbei Zhang (张龄北)](https://www.worldcubeassociation.org/persons/2018ZHAN44)|China|8.68|11.09, 7.36, 7.58, 6.97, 12.08|  
+|233|[Blagomyr Popok (Благомир Попок)](https://www.worldcubeassociation.org/persons/2015POPO06)|Ukraine|8.68|7.47, 10.50, 8.08, 7.26, 12.43|  
 |=|[Joshua Philip Cagayon](https://www.worldcubeassociation.org/persons/2017CAGA01)|Singapore|8.68|10.93, 9.90, 6.15, 6.84, 9.31|  
-|236|[Carlos Adan Perez-Hijar](https://www.worldcubeassociation.org/persons/2017PERE48)|USA|8.69|8.60, 6.62, 13.97, 10.16, 7.31|  
+|235|[Carlos Adan Perez-Hijar](https://www.worldcubeassociation.org/persons/2017PERE48)|USA|8.69|8.60, 6.62, 13.97, 10.16, 7.31|  
 |=|[Demetrius Swainston-Harrison](https://www.worldcubeassociation.org/persons/2017SWAI02)|United Kingdom|8.69|9.77, 7.01, 10.58, 9.29, 6.62|  
-|238|[Qiyao Chen (陈琦瑶)](https://www.worldcubeassociation.org/persons/2016CHEQ01)|China|8.70|7.22, 11.14, DNF, 7.74, 6.29|  
+|237|[Qiyao Chen (陈琦瑶)](https://www.worldcubeassociation.org/persons/2016CHEQ01)|China|8.70|7.22, 11.14, DNF, 7.74, 6.29|  
 |=|[Amir Afiq](https://www.worldcubeassociation.org/persons/2017AFIQ01)|Malaysia|8.70|8.38, 6.91, 16.27, 9.48, 8.24|  
 |=|[Vicente Alveal](https://www.worldcubeassociation.org/persons/2017ALVE01)|Chile|8.70|5.70, 13.75, 13.92, 6.31, 6.04|  
-|241|[Christian Ferdie L. Maglaya](https://www.worldcubeassociation.org/persons/2017MAGL01)|Philippines|8.70|6.76, 7.96, 8.79, 11.01, 9.36|  
-|242|[Bryan Renzoni](https://www.worldcubeassociation.org/persons/2015RENZ01)|USA|8.71|6.98, 6.79, 12.36, 12.92, 4.70|  
-|243|[Tock You Bin](https://www.worldcubeassociation.org/persons/2016BINT01)|Malaysia|8.72|11.01, 8.13, 7.63, 10.39, 4.46|  
-|244|[Kaitlyn Finkel](https://www.worldcubeassociation.org/persons/2017FINK01)|USA|8.72|8.50, 8.84, 6.85, 11.39, 8.82|  
-|245|[Joshua Hartleroad](https://www.worldcubeassociation.org/persons/2015HART02)|USA|8.73|9.74, 7.07, 10.28, 6.71, 9.37|  
-|246|[Mark Aeron Santos](https://www.worldcubeassociation.org/persons/2017SANT67)|Philippines|8.73|9.57, 9.71, 6.56, 8.47, 8.15|  
-|247|[David Lozano-Posada](https://www.worldcubeassociation.org/persons/2017LOZA04)|USA|8.74|8.43, 8.52, 9.26, 8.17, 12.20|  
-|248|[Cash Williams](https://www.worldcubeassociation.org/persons/2016WILL08)|USA|8.75|9.58, 9.20, 6.72, 9.97, 7.48|  
-|249|[Yitao Hong (洪奕涛)](https://www.worldcubeassociation.org/persons/2016HONG21)|China|8.76|6.53, 14.70, 7.76, 10.27, 8.26|  
+|240|[Christian Ferdie L. Maglaya](https://www.worldcubeassociation.org/persons/2017MAGL01)|Philippines|8.70|6.76, 7.96, 8.79, 11.01, 9.36|  
+|241|[Bryan Renzoni](https://www.worldcubeassociation.org/persons/2015RENZ01)|USA|8.71|6.98, 6.79, 12.36, 12.92, 4.70|  
+|242|[Tock You Bin](https://www.worldcubeassociation.org/persons/2016BINT01)|Malaysia|8.72|11.01, 8.13, 7.63, 10.39, 4.46|  
+|243|[Kaitlyn Finkel](https://www.worldcubeassociation.org/persons/2017FINK01)|USA|8.72|8.50, 8.84, 6.85, 11.39, 8.82|  
+|244|[Joshua Hartleroad](https://www.worldcubeassociation.org/persons/2015HART02)|USA|8.73|9.74, 7.07, 10.28, 6.71, 9.37|  
+|245|[Mark Aeron Santos](https://www.worldcubeassociation.org/persons/2017SANT67)|Philippines|8.73|9.57, 9.71, 6.56, 8.47, 8.15|  
+|246|[David Lozano-Posada](https://www.worldcubeassociation.org/persons/2017LOZA04)|USA|8.74|8.43, 8.52, 9.26, 8.17, 12.20|  
+|247|[Cash Williams](https://www.worldcubeassociation.org/persons/2016WILL08)|USA|8.75|9.58, 9.20, 6.72, 9.97, 7.48|  
+|248|[Yitao Hong (洪奕涛)](https://www.worldcubeassociation.org/persons/2016HONG21)|China|8.76|6.53, 14.70, 7.76, 10.27, 8.26|  
 |=|[Đoàn Minh Quang](https://www.worldcubeassociation.org/persons/2018QUAN15)|Vietnam|8.76|9.24, DNF, 7.33, 9.72, 6.78|  
+|250|[Andrew Mitchell](https://www.worldcubeassociation.org/persons/2017MITC08)|USA|8.77|6.03, 9.70, 8.30, 9.66, 8.34|  

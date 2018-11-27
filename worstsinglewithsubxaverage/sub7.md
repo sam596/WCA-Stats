@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sat Nov 24 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Nov 27 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -22,8 +22,8 @@
 |12|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|6.82|4.90|  
 |13|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|6.38|4.90|  
 |14|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|6.75|4.86|  
-|15|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.69|4.83|  
-|16|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|6.64|4.76|  
+|15|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.64|4.83|  
+|=|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|6.64|4.76|  
 |17|[Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01)|Netherlands|6.46|4.74|  
 |18|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|6.31|4.69|  
 |19|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|6.70|4.64|  
