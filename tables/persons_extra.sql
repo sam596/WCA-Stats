@@ -14,6 +14,7 @@ CREATE TABLE persons_extra
       q.gender previousGender,
       q.countryId previousCountryId,
       r.continentId previousContinentId,
+      IF(POSITION(" " IN a.name)=0,a.name,LEFT(a.name,POSITION(" " IN a.name))) firstName,
       c.competitions, 
       c.homeCountryComps, 
       c.foreignCountryComps, 
