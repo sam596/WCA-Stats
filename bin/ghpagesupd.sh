@@ -1713,10 +1713,10 @@ do
 SELECT Rank, Name, countryId Country, worst \`Worst Single\`
 FROM
 (SELECT 
-    @i := IF(@v = worst, @i, @i + @c) initrank,
-    @c := IF(@v = worst, @c + 1, 1) counter,
-    @r := IF(@v = worst, '=', @i) Rank,
-    @v := worst val,
+    @i := IF(@v = worstorder, @i, @i + @c) initrank,
+    @c := IF(@v = worstorder, @c + 1, 1) counter,
+    @r := IF(@v = worstorder, '=', @i) Rank,
+    @v := worstorder val,
     c.*
 FROM
   (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
@@ -1746,10 +1746,10 @@ do
 SELECT Rank, Name, countryId Country, worst \`Worst Average\`
 FROM
 (SELECT 
-    @i := IF(@v = worst, @i, @i + @c) initrank,
-    @c := IF(@v = worst, @c + 1, 1) counter,
-    @r := IF(@v = worst, '=', @i) Rank,
-    @v := worst val,
+    @i := IF(@v = worstorder, @i, @i + @c) initrank,
+    @c := IF(@v = worstorder, @c + 1, 1) counter,
+    @r := IF(@v = worstorder, '=', @i) Rank,
+    @v := worstorder val,
     c.*
 FROM
   (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
