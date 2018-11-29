@@ -32,7 +32,7 @@ FROM
 				MAX(pos) 'worstPos'
 		FROM results_extra
 		GROUP BY personId, competitionId) a
-	JOIN
+	LEFT JOIN
 		(SELECT personId, competitionId, COUNT(*) 'PBs', COUNT(CASE WHEN format = 's' THEN 1 END) 'singlePBs', COUNT(CASE WHEN format = 'a' THEN 1 END) 'averagePBs'
 		FROM pbs
 		GROUP BY personId, competitionId) b
