@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Nov 27 at 1008UTC*
+*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -49,7 +49,7 @@
 |39|[Andrew Nam](https://www.worldcubeassociation.org/persons/2016NAMA03)|USA|10.88|9.82|  
 |40|[Cameron Jones](https://www.worldcubeassociation.org/persons/2017JONE14)|United Kingdom|10.81|9.82|  
 |41|[Adam Pugner](https://www.worldcubeassociation.org/persons/2014PUGN01)|Czech Republic|10.10|9.81|  
-|42|[Azizxon Mahkamov Bohodir o'g'li](https://www.worldcubeassociation.org/persons/2017OGLI02)|Uzbekistan|10.41|9.81|  
+|42|[Azizxon Mahkamov](https://www.worldcubeassociation.org/persons/2017OGLI02)|Uzbekistan|10.41|9.81|  
 |43|[Markus Immonen](https://www.worldcubeassociation.org/persons/2015IMMO01)|Finland|10.38|9.81|  
 |44|[Ng Jun Jie](https://www.worldcubeassociation.org/persons/2016JIEN01)|Singapore|10.96|9.80|  
 |45|[Enoch Koay](https://www.worldcubeassociation.org/persons/2017KOAY02)|Malaysia|10.01|9.77|  
