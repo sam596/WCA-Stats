@@ -4,7 +4,7 @@
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
-#	Most solves of the years
+#	Most solves
 ```sql
 SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE value > 0 AND YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -20,7 +20,7 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT compCountryId) FROM
 bbbbb
 
 
-#	Most gold
+#	Most golds
 ```sql
 SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 1 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -28,7 +28,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 ccccc
 
 
-#	Most silver
+#	Most silvers
 ```sql
 SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 2 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -36,7 +36,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 ddddd
 
 
-#	Most bronze
+#	Most bronzes
 ```sql
 SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 3 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -52,7 +52,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 fffff
 
 
-#	Most competitions organized (regional orgs/individuals)
+#	Most competitions organized
 ```sql
 SELECT u.name, COUNT(*) FROM wca_dev.competition_organizers co JOIN wca_dev.users u ON co.organizer_id = u.id WHERE competition_id LIKE '%2018' GROUP BY co.organizer_id ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -68,7 +68,7 @@ SELECT countryId FROM competitions_extra GROUP BY countryId HAVING MIN(YEAR(endD
 hhhhh
 
 
-#	City with the most competitions
+#	Cities with the most competitions
 ```sql
 SELECT cityName, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GROUP BY cityName ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -76,7 +76,7 @@ SELECT cityName, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GRO
 iiiii
 
 
-#	City with the most competitions
+#	Countries with the most competitions
 ```sql
 SELECT countryId, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GROUP BY countryId ORDER BY COUNT(*) DESC LIMIT 10;
 ```
@@ -132,7 +132,7 @@ SELECT a.id, a.name, a.countryId, b.membership `2017`, a.membership `2018` FROM 
 ppppp
 
 
-#	Smallest competition
+#	Smallest competitions
 ```sql
 SELECT name, competitors FROM competitions_extra WHERE YEAR(endDate) = 2018 AND competitors > 0 ORDER BY competitors ASC LIMIT 10;
 ```
@@ -140,7 +140,7 @@ SELECT name, competitors FROM competitions_extra WHERE YEAR(endDate) = 2018 AND 
 qqqqq
 
 
-#	PB streak
+#	PB streaks (only 2018 comps)
 ```sql
 SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak, @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp, @ecomp := IF(@val = 0, NULL, competitionId) endComp, @pid := personId pidhelp FROM (SELECT * FROM competition_PBs WHERE competitionId LIKE '%2018' ORDER BY id ASC) a GROUP BY a.personId, a.competitionId ORDER BY a.id ASC) pbs JOIN persons_extra p ON pbs.personid = p.id GROUP BY p.id ORDER BY MAX(pbStreak) DESC LIMIT 10;
 ```
