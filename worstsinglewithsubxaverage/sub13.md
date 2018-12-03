@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
+*Last updated using WCA Developer Export from Mon Dec 03 at 1209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -24,23 +24,23 @@
 |14|[Jorge Moreno Aguilera](https://www.worldcubeassociation.org/persons/2016AGUI01)|Spain|12.32|12.28|  
 |15|[Jan Derick Axibal Arevalo](https://www.worldcubeassociation.org/persons/2016AREV04)|Philippines|12.48|12.26|  
 |16|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|12.62|12.25|  
-|17|[Dilshodbek Kholmurodov](https://www.worldcubeassociation.org/persons/2017KHOL05)|Uzbekistan|12.96|12.22|  
-|18|[Alvin O'Garro](https://www.worldcubeassociation.org/persons/2016OGAR01)|USA|12.93|12.20|  
-|19|[Shoutaro Kikuchi (菊地章太郎)](https://www.worldcubeassociation.org/persons/2018KIKU02)|Japan|12.84|12.18|  
-|20|[Naoki Yamamoto (山本直樹)](https://www.worldcubeassociation.org/persons/2013YAMA03)|Japan|12.79|12.13|  
-|21|[Juan de Dios Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC24)|Mexico|12.85|12.10|  
-|22|[Rongbo Tang (唐荣博)](https://www.worldcubeassociation.org/persons/2017TANG39)|China|12.82|12.09|  
-|23|[Luke Russell Orduña](https://www.worldcubeassociation.org/persons/2016ORDU01)|Philippines|12.56|12.08|  
-|24|[Mohammad Hossein Zandiye (محمدحسین زندیه)](https://www.worldcubeassociation.org/persons/2016ZAND01)|Iran|12.94|12.08|  
-|25|[Sergey Kachanov](https://www.worldcubeassociation.org/persons/2017KACH02)|Russia|12.93|12.06|  
-|26|[Shunsuke Uchiyama (内山峻輔)](https://www.worldcubeassociation.org/persons/2010UCHI01)|Japan|12.70|12.05|  
-|27|[José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18)|Paraguay|12.92|12.04|  
-|28|[Nikos Michalopoulos](https://www.worldcubeassociation.org/persons/2017MICH05)|Greece|12.97|12.04|  
-|29|[Rafly Hanggaraksa](https://www.worldcubeassociation.org/persons/2017HANG02)|Indonesia|12.79|12.04|  
-|30|[Zhongqi Miao (缪中琦)](https://www.worldcubeassociation.org/persons/2017MIAO06)|China|12.68|12.04|  
-|31|[Alonso David Suarez Rengifo](https://www.worldcubeassociation.org/persons/2016RENG02)|Peru|12.84|12.03|  
-|32|[Junhao Mu (慕俊豪)](https://www.worldcubeassociation.org/persons/2013MUJU01)|China|12.91|12.03|  
-|33|[Ethan Benedict Labajo](https://www.worldcubeassociation.org/persons/2018LABA01)|Philippines|12.70|12.02|  
+|17|[Wentan Zhang (张文坦)](https://www.worldcubeassociation.org/persons/2014ZHAN32)|China|12.84|12.24|  
+|18|[Dilshodbek Kholmurodov](https://www.worldcubeassociation.org/persons/2017KHOL05)|Uzbekistan|12.96|12.22|  
+|19|[Alvin O'Garro](https://www.worldcubeassociation.org/persons/2016OGAR01)|USA|12.93|12.20|  
+|20|[Shoutaro Kikuchi (菊地章太郎)](https://www.worldcubeassociation.org/persons/2018KIKU02)|Japan|12.84|12.18|  
+|21|[Naoki Yamamoto (山本直樹)](https://www.worldcubeassociation.org/persons/2013YAMA03)|Japan|12.79|12.13|  
+|22|[Juan de Dios Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC24)|Mexico|12.85|12.10|  
+|23|[Rongbo Tang (唐荣博)](https://www.worldcubeassociation.org/persons/2017TANG39)|China|12.82|12.09|  
+|24|[Luke Russell Orduña](https://www.worldcubeassociation.org/persons/2016ORDU01)|Philippines|12.56|12.08|  
+|25|[Mohammad Hossein Zandiye (محمدحسین زندیه)](https://www.worldcubeassociation.org/persons/2016ZAND01)|Iran|12.94|12.08|  
+|26|[Sergey Kachanov](https://www.worldcubeassociation.org/persons/2017KACH02)|Russia|12.93|12.06|  
+|27|[Shunsuke Uchiyama (内山峻輔)](https://www.worldcubeassociation.org/persons/2010UCHI01)|Japan|12.70|12.05|  
+|28|[José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18)|Paraguay|12.92|12.04|  
+|29|[Nikos Michalopoulos](https://www.worldcubeassociation.org/persons/2017MICH05)|Greece|12.97|12.04|  
+|30|[Rafly Hanggaraksa](https://www.worldcubeassociation.org/persons/2017HANG02)|Indonesia|12.79|12.04|  
+|31|[Zhongqi Miao (缪中琦)](https://www.worldcubeassociation.org/persons/2017MIAO06)|China|12.68|12.04|  
+|32|[Alonso David Suarez Rengifo](https://www.worldcubeassociation.org/persons/2016RENG02)|Peru|12.84|12.03|  
+|33|[Junhao Mu (慕俊豪)](https://www.worldcubeassociation.org/persons/2013MUJU01)|China|12.91|12.03|  
 |34|[Jihoon Kwon](https://www.worldcubeassociation.org/persons/2015KWON02)|Canada|12.92|12.02|  
 |35|[Feruz Gulomov](https://www.worldcubeassociation.org/persons/2017GULO01)|Uzbekistan|12.96|12.01|  
 |36|[Sanjay Chintapally](https://www.worldcubeassociation.org/persons/2017CHIN04)|USA|12.98|12.01|  

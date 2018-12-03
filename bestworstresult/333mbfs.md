@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
+*Last updated using WCA Developer Export from Mon Dec 03 at 1209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -712,7 +712,7 @@
 |702|[Oskar Fridell](https://www.worldcubeassociation.org/persons/2011FRID01)|Sweden|2/3 25:17.00|  
 |=|[Varun Gudibanda](https://www.worldcubeassociation.org/persons/2016GUDI01)|USA|2/3 25:17.00|  
 |704|[Yohei Oka (岡要平)](https://www.worldcubeassociation.org/persons/2006OKAY01)|Japan|2/3 25:21.00|  
-|705|[Alexander Katyukov](https://www.worldcubeassociation.org/persons/2015KATY01)|Russia|2/3 25:22.00|  
+|705|[Alexander Katyukov (Александр Катюков)](https://www.worldcubeassociation.org/persons/2015KATY01)|Russia|2/3 25:22.00|  
 |706|[Hayden Dempsey](https://www.worldcubeassociation.org/persons/2015DEMP01)|USA|2/3 25:23.00|  
 |707|[Bohao Guo](https://www.worldcubeassociation.org/persons/2018GUOB02)|Singapore|2/3 25:28.00|  
 |708|[Stepan Tsarev](https://www.worldcubeassociation.org/persons/2015TSAR01)|Russia|2/3 25:33.00|  

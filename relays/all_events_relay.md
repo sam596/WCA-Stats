@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
+*Last updated using WCA Developer Export from Mon Dec 03 at 1209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -114,7 +114,7 @@
 |104|[Jonathan Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01)|USA|**45:15.13**|2.75|10.01|1:46.50|1:19.67|17.63|41.02|8:33.96|1:25.55|22:13.00|2:40.18|4:44.05|10.98|40.75|4.91|5.76|18.41|  
 |105|[Yan Xuan (宣炎)](https://www.worldcubeassociation.org/persons/2009XUAN03)|China|**46:01.94**|3.40|9.23|1:26.36|1:20.05|16.18|51.45|8:43.77|1:22.88|23:13.00|2:25.92|3:40.98|16.31|1:33.77|4.47|12.08|22.09|  
 |106|[Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01)|USA|**46:09.47**|1.97|8.94|1:44.06|1:02.86|15.95|34.91|8:49.93|1:12.42|24:57.00|2:18.49|3:29.88|10.18|1:06.84|3.29|2.51|10.24|  
-|107|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|**46:14.33**|1.43|10.14|1:03.26|1:11.10|17.14|37.86|9:26.66|1:13.84|24:08.00|2:28.91|4:08.52|10.54|47.58|3.38|5.84|20.13|  
+|107|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|**46:09.53**|1.43|10.14|1:03.26|1:11.10|13.91|37.86|9:26.66|1:12.27|24:08.00|2:28.91|4:08.52|10.54|47.58|3.38|5.84|20.13|  
 |108|[Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01)|Japan|**46:15.35**|1.59|7.26|1:08.63|1:28.56|11.11|30.01|7:31.93|1:01.28|27:44.00|2:06.68|2:58.09|10.18|58.34|3.25|3.39|11.05|  
 |109|[Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05)|China|**46:19.56**|4.41|10.94|2:06.58|1:36.94|24.40|41.82|11:31.00|1:15.41|18:55.00|2:54.50|4:18.66|11.77|1:35.28|5.98|6.74|20.13|  
 |110|[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|**46:56.84**|1.43|8.33|1:14.90|2:08.83|12.14|38.25|9:02.58|1:16.76|23:26.00|2:45.81|4:22.54|10.17|1:15.31|2.40|3.52|7.87|  

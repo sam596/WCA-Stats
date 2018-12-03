@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
+*Last updated using WCA Developer Export from Mon Dec 03 at 1209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -594,6 +594,7 @@
 |=|[Bia Wu](https://www.worldcubeassociation.org/persons/2018WUBI02)|Brazil|5|  
 |=|[Han Wu (吴寒)](https://www.worldcubeassociation.org/persons/2018WUHA03)|China|5|  
 |=|[Hao Wu (吴昊)](https://www.worldcubeassociation.org/persons/2018WUHA04)|China|5|  
+|=|[Hao Wu (吴昊)](https://www.worldcubeassociation.org/persons/2018WUHA06)|China|5|  
 |=|[Ken Wu](https://www.worldcubeassociation.org/persons/2018WUKE01)|Canada|5|  
 |=|[You Wu (吴优)](https://www.worldcubeassociation.org/persons/2018WUYO02)|China|5|  
 |=|[Li Xie](https://www.worldcubeassociation.org/persons/2018XIEL02)|USA|5|  
@@ -605,7 +606,7 @@
 |=|[Lei Ye (叶镭)](https://www.worldcubeassociation.org/persons/2018YELE01)|China|5|  
 |=|[Pua Yi](https://www.worldcubeassociation.org/persons/2018YIPU01)|Malaysia|5|  
 |=|[Ian Yu](https://www.worldcubeassociation.org/persons/2018YUIA01)|Canada|5|  
-|598|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|599|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Hu Yang (胡杨)](https://www.worldcubeassociation.org/persons/2013YANG14)|China|6|  
 |=|[Qi Yang (杨祺)](https://www.worldcubeassociation.org/persons/2013YANG27)|China|6|  
 |=|[Shen Ye (叶深)](https://www.worldcubeassociation.org/persons/2013YESH02)|China|6|  
-|=|[Qi Zhao (赵琦)](https://www.worldcubeassociation.org/persons/2013ZHAO14)|China|6|  

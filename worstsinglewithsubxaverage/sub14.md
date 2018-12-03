@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Nov 30 at 1109UTC*
+*Last updated using WCA Developer Export from Mon Dec 03 at 1209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -244,17 +244,17 @@
 |234|[Jose Smith Caldas Reyes](https://www.worldcubeassociation.org/persons/2017REYE27)|Peru|13.57|12.43|  
 |235|[Po-Kai Tseng (曾柏凱)](https://www.worldcubeassociation.org/persons/2018TSEN01)|Taiwan|13.82|12.43|  
 |236|[Santiago Antonio Jofré Montano](https://www.worldcubeassociation.org/persons/2017MONT16)|Chile|13.75|12.43|  
-|237|[Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40)|China|13.59|12.43|  
-|238|[Caleb Talley](https://www.worldcubeassociation.org/persons/2016TALL01)|USA|13.25|12.42|  
-|239|[Christopher Kwek](https://www.worldcubeassociation.org/persons/2016KWEK01)|Malaysia|13.79|12.42|  
-|240|[James Laase](https://www.worldcubeassociation.org/persons/2017LAAS01)|USA|13.46|12.42|  
-|241|[Jason Tan](https://www.worldcubeassociation.org/persons/2017TANJ01)|Indonesia|13.83|12.42|  
-|242|[Juan David Pareja Salas](https://www.worldcubeassociation.org/persons/2016SALA19)|Colombia|13.55|12.42|  
-|243|[Karol Przedwojewski](https://www.worldcubeassociation.org/persons/2016PRZE01)|Poland|13.72|12.42|  
-|244|[Lorenzo T. Ubongen](https://www.worldcubeassociation.org/persons/2017UBON01)|Philippines|13.52|12.42|  
-|245|[Sebastián Yuste Lucero](https://www.worldcubeassociation.org/persons/2017LUCE03)|Chile|13.00|12.42|  
-|246|[Weirong Huang (黄蔚溶)](https://www.worldcubeassociation.org/persons/2016HUAN08)|China|13.92|12.42|  
-|247|[Fabrizzio José Trujillo Abello](https://www.worldcubeassociation.org/persons/2017ABEL02)|Colombia|13.72|12.41|  
-|248|[Jiawei Niu (牛佳伟)](https://www.worldcubeassociation.org/persons/2016NIUJ01)|China|13.85|12.41|  
-|249|[Liam Wood](https://www.worldcubeassociation.org/persons/2017WOOD01)|Australia|13.75|12.41|  
-|250|[Michael Adrian P. Labrador](https://www.worldcubeassociation.org/persons/2017LABR01)|Philippines|13.62|12.41|  
+|237|[Caleb Talley](https://www.worldcubeassociation.org/persons/2016TALL01)|USA|13.25|12.42|  
+|238|[Christopher Kwek](https://www.worldcubeassociation.org/persons/2016KWEK01)|Malaysia|13.79|12.42|  
+|239|[James Laase](https://www.worldcubeassociation.org/persons/2017LAAS01)|USA|13.46|12.42|  
+|240|[Jason Tan](https://www.worldcubeassociation.org/persons/2017TANJ01)|Indonesia|13.83|12.42|  
+|241|[Juan David Pareja Salas](https://www.worldcubeassociation.org/persons/2016SALA19)|Colombia|13.55|12.42|  
+|242|[Karol Przedwojewski](https://www.worldcubeassociation.org/persons/2016PRZE01)|Poland|13.72|12.42|  
+|243|[Lorenzo T. Ubongen](https://www.worldcubeassociation.org/persons/2017UBON01)|Philippines|13.52|12.42|  
+|244|[Sebastián Yuste Lucero](https://www.worldcubeassociation.org/persons/2017LUCE03)|Chile|13.00|12.42|  
+|245|[Weirong Huang (黄蔚溶)](https://www.worldcubeassociation.org/persons/2016HUAN08)|China|13.92|12.42|  
+|246|[Fabrizzio José Trujillo Abello](https://www.worldcubeassociation.org/persons/2017ABEL02)|Colombia|13.72|12.41|  
+|247|[Jiawei Niu (牛佳伟)](https://www.worldcubeassociation.org/persons/2016NIUJ01)|China|13.85|12.41|  
+|248|[Liam Wood](https://www.worldcubeassociation.org/persons/2017WOOD01)|Australia|13.75|12.41|  
+|249|[Michael Adrian P. Labrador](https://www.worldcubeassociation.org/persons/2017LABR01)|Philippines|13.62|12.41|  
+|250|[Nathanael Heavilin](https://www.worldcubeassociation.org/persons/2016HEAV01)|USA|13.54|12.41|  
