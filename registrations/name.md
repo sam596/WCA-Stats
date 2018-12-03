@@ -729,8 +729,8 @@ Key:
 |[Bhavya Goyal](https://www.worldcubeassociation.org/persons/2016GOYA02)|India|[VJTIMumbaiCubeOpen2018](https://www.worldcubeassociation.org/competitions/VJTIMumbaiCubeOpen2018)|Pending|333,222,444,555,666,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Bhavya Kant Vikram](https://www.worldcubeassociation.org/persons/2017VIKR01)|India|[FrozenFingersGhaziabad2018](https://www.worldcubeassociation.org/competitions/FrozenFingersGhaziabad2018)|Pending|333oh,pyram|  
 |[Bianca Power](https://www.worldcubeassociation.org/persons/2016POWE04)|Australia|[MelbourneCubeDays2018](https://www.worldcubeassociation.org/competitions/MelbourneCubeDays2018)|Accepted|333,222|  
-|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
-|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
+|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|NULL|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
+|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|NULL|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Bille Janssen Lagarde](https://www.worldcubeassociation.org/persons/2014LAGA02)|Philippines|[CaviteOpen22018](https://www.worldcubeassociation.org/competitions/CaviteOpen22018)|Accepted|333,222,444,666,777,minx,pyram|  
 |[Bimantyo Cesa Afandi](https://www.worldcubeassociation.org/persons/2018AFAN01)|Indonesia|[JakartaCubing2018](https://www.worldcubeassociation.org/competitions/JakartaCubing2018)|Pending|333,222,444|  
 |[Bintoro Cokro Amijoyo](https://www.worldcubeassociation.org/persons/2017AMIJ01)|Indonesia|[SumatraOpen2018](https://www.worldcubeassociation.org/competitions/SumatraOpen2018)|Accepted|333,222,444,333bf,333oh,pyram|  

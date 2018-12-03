@@ -489,7 +489,6 @@
 |=|[Willian Dias](https://www.worldcubeassociation.org/persons/2015DIAS03)|Brazil|8.33|10.40|  
 |479|[Alex Seidler](https://www.worldcubeassociation.org/persons/2007SEID01)|USA|8.34|11.21|  
 |=|[Alexander Tosting](https://www.worldcubeassociation.org/persons/2017TOST01)|Sweden|8.34|10.61|  
-|=|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|8.34|10.51|  
 |=|[David Doty](https://www.worldcubeassociation.org/persons/2016DOTY01)|USA|8.34|10.57|  
 |=|[Joshua Hounslow](https://www.worldcubeassociation.org/persons/2016HOUN01)|Australia|8.34|10.44|  
 |=|[Keita Nomura (野村啓太)](https://www.worldcubeassociation.org/persons/2008NOMU01)|Japan|8.34|10.91|  
@@ -499,13 +498,14 @@
 |=|[Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01)|Poland|8.34|10.52|  
 |=|[Robert Clarke](https://www.worldcubeassociation.org/persons/2014CLAR01)|United Kingdom|8.34|10.12|  
 |=|[Viktor Stepanovich](https://www.worldcubeassociation.org/persons/2011STEP01)|Russia|8.34|10.75|  
-|491|[Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01)|USA|8.35|10.30|  
+|490|[Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01)|USA|8.35|10.30|  
 |=|[Leo Kopper](https://www.worldcubeassociation.org/persons/2015KOPP02)|USA|8.35|10.05|  
 |=|[Nathan Cho](https://www.worldcubeassociation.org/persons/2017CHON07)|USA|8.35|10.78|  
 |=|[Pietro Gasparetto](https://www.worldcubeassociation.org/persons/2016GASP01)|Italy|8.35|10.42|  
-|495|[Chi Zhang (张弛)](https://www.worldcubeassociation.org/persons/2016ZHAC01)|China|8.36|10.95|  
+|494|[Chi Zhang (张弛)](https://www.worldcubeassociation.org/persons/2016ZHAC01)|China|8.36|10.95|  
 |=|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|8.36|10.31|  
 |=|[Daiki Matsumoto (松本大輝)](https://www.worldcubeassociation.org/persons/2008MATS02)|Japan|8.36|10.66|  
 |=|[Haibo Sui (隋海波)](https://www.worldcubeassociation.org/persons/2011SUIH01)|China|8.36|10.95|  
 |=|[Jack Smith](https://www.worldcubeassociation.org/persons/2016SMIT09)|United Kingdom|8.36|11.32|  
 |=|[Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08)|Korea|8.36|10.50|  
+|=|[Nick Rech](https://www.worldcubeassociation.org/persons/2011RECH01)|USA|8.36|10.38|  

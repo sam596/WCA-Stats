@@ -883,7 +883,7 @@ Key:
 |[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
 |[Bertie Cartwright](https://www.worldcubeassociation.org/persons/2015CART01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444|  
 |[Bertie Shaw](https://www.worldcubeassociation.org/persons/2014SHAW01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333|  
-|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
+|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|NULL|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
 |Bochang Lu|NULL|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,333oh|  
 |[Breandan Vallance](https://www.worldcubeassociation.org/persons/2007VALL01)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333oh|  
 |[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|[CambridgeOpen2018](https://www.worldcubeassociation.org/competitions/CambridgeOpen2018)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx|  
@@ -6058,7 +6058,7 @@ Key:
 |[Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27)|France|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,444bf,555bf,333mbf|  
 |[Berta García Parra](https://www.worldcubeassociation.org/persons/2014PARR02)|Spain|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,444bf,333mbf|  
 |[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
-|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
+|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|NULL|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04)|United Kingdom|[TGBBO2019](https://www.worldcubeassociation.org/competitions/TGBBO2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
