@@ -7,7 +7,7 @@ SELECT a.*,
 	@p := a.personId 'drop1',
 	@d := a.date 'drop2'
 FROM
-	(SELECT a.*, b.PBs, b.singlePBs, b.averagePBs
+	(SELECT a.*, b.PBs, b.singlePBs, b.averagePBs, c.latitude, c.longitude
 	FROM
 		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date, weekend,
 				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsAttempted',
@@ -29,14 +29,18 @@ FROM
 				COUNT(CASE WHEN regionalSingleRecord NOT IN ('','NR','WR') THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord NOT IN ('','NR','WR') THEN 1 END) 'CRs',
 				COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) 'NRs',
 				MIN(CASE WHEN best > 0 THEN pos END) 'bestPos',
-				MAX(pos) 'worstPos'
-		FROM results_extra
+				MAX(pos) 'worstPos',
+				GROUP_CONCAT(eventId) `events`
+		FROM results_extra r
 		GROUP BY personId, competitionId) a
-	JOIN
+	LEFT JOIN
 		(SELECT personId, competitionId, COUNT(*) 'PBs', COUNT(CASE WHEN format = 's' THEN 1 END) 'singlePBs', COUNT(CASE WHEN format = 'a' THEN 1 END) 'averagePBs'
 		FROM pbs
 		GROUP BY personId, competitionId) b
 	ON a.personId = b.personId AND a.competitionId = b.competitionId
+	JOIN
+		competitions_extra c
+	ON a.competitionId = c.id
 	ORDER BY a.personId, date, a.competitionId) a;
 
 ALTER TABLE person_comps_extra DROP drop1, DROP drop2;
