@@ -163,3 +163,12 @@ SELECT u.name, COUNT(*) FROM wca_dev.competition_delegates co JOIN wca_dev.users
 
 ttttt
 
+
+#	Biggest percentage improvement on 3x3 Average
+```sql
+SELECT p.id, p.name, p.countryId, CENTISECONDTOTIME(a.average) `2017`, CENTISECONDTOTIME(b.result) `2018`, 100*(a.average-b.result)/a.average percentImproved FROM (SELECT personId, MIN(average) average FROM results_extra WHERE average > 0 AND eventId = '333' AND YEAR(date) < 2018 GROUP BY personId) a JOIN (SELECT * FROM ranks_all WHERE eventId = '333' AND succeeded = 1 AND format = 'a') b ON a.personid = b.personId JOIN persons_extra p ON a.personId = p.id ORDER BY percentImproved DESC LIMIT 10;
+```
+
+uuuuu
+
+
