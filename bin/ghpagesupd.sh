@@ -2115,9 +2115,35 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/ttttt/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
 cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md
+mysql --login-path=local wca_stats -e "SELECT p.id, p.name, p.countryId, CENTISECONDTOTIME(a.average) \`2017\`, CENTISECONDTOTIME(b.result) \`2018\`, 100*(a.average-b.result)/a.average percentImproved FROM (SELECT personId, MIN(average) average FROM results_extra WHERE average > 0 AND eventId = '333' AND YEAR(date) < 2018 GROUP BY personId) a JOIN (SELECT * FROM ranks_all WHERE eventId = '333' AND succeeded = 1 AND format = 'a') b ON a.personid = b.personId JOIN persons_extra p ON a.personId = p.id ORDER BY percentImproved DESC LIMIT 10;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+output=$(cat ~/mysqloutput/output)
+awk -v r="$output" '{gsub(/uuuuu/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
+cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md
 rm ~/pages/WCA-Stats/endofyearstats/*.tmp*
+
+# My PBs
+
+declare -a arr=(2015SPEN01 2017GOLD02)
+
+for i in "${arr[@]}"
+do
+	mysql --login-path=local wca_stats -e "SELECT eventId, format, succeeded, IF(eventId = '333mbf',IF(result > 0,CONCAT(99-LEFT(result,2)+RIGHT(result,2),'/',99-LEFT(result,2)+(2*RIGHT(result,2)),' ',CENTISECONDTOTIME(MID(result,4,4)*100)),'DNF'),IF(eventId = '333fm' AND format = 's', result, CENTISECONDTOTIME(result))) result, worldRank, continentRank, countryRank, competitionId, date FROM ranks_all WHERE personId = '${i}';" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+	sed -i.bak '2i\
+	--|--|--|--|--|--|--|--|--|--|--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	cp ~/pages/WCA-Stats/templates/misc.md ~/pages/WCA-Stats/misc/"$i".md
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/misc/"$i".md
+done
 
 rm ~/mysqloutput/*
 
 d=$(date +%Y-%m-%d)
 cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
+
