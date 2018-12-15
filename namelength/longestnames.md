@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Wed Dec 12 at 1508UTC*
+*Last updated using WCA Developer Export from Sat Dec 15 at 1608UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -861,6 +861,7 @@
 |=|[Claudia Cristina Jiménez Castillo](https://www.worldcubeassociation.org/persons/2018CAST40)|Mexico|30|  
 |=|[Leonardo Fabricio Rivera Chamorro](https://www.worldcubeassociation.org/persons/2018CHAM02)|Ecuador|30|  
 |=|[Carlos Arturo Rodriguez Cifuentes](https://www.worldcubeassociation.org/persons/2018CIFU01)|Colombia|30|  
+|=|[Guilherme Henrique Ribeiro Coelho](https://www.worldcubeassociation.org/persons/2018COEL02)|Brazil|30|  
 |=|[Miguel Francisco Vargas Contreras](https://www.worldcubeassociation.org/persons/2018CONT11)|Colombia|30|  
 |=|[Haiani Stella Barbosa Siebra David](https://www.worldcubeassociation.org/persons/2018DAVI30)|Brazil|30|  
 |=|[Marcus Samuel Burgarelli Denicolo](https://www.worldcubeassociation.org/persons/2018DENI02)|Brazil|30|  
@@ -910,7 +911,7 @@
 |=|[Matheus Henrique Rodrigues Vieira](https://www.worldcubeassociation.org/persons/2018VIEI05)|Brazil|30|  
 |=|[Allison Victoria Guillen Zamarron](https://www.worldcubeassociation.org/persons/2018ZAMA01)|Mexico|30|  
 |=|[Martín Sebastian Aguilar Zambrano](https://www.worldcubeassociation.org/persons/2018ZAMB04)|Ecuador|30|  
-|903|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
+|904|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
 |=|[Maria Josefina Razazi Fuenzalida](https://www.worldcubeassociation.org/persons/2009FUEN01)|Chile|29|  
 |=|[Umar Yunan Kurnia Septo Hediyanto](https://www.worldcubeassociation.org/persons/2009HEDI02)|Indonesia|29|  
 |=|[Mohammad Hassan Azri Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM02)|Malaysia|29|  
@@ -1007,4 +1008,3 @@
 |=|[Jorge Luis Jr. Quintero Rodriguez](https://www.worldcubeassociation.org/persons/2014RODR12)|Venezuela|29|  
 |=|[Alejandro de Jesús Romero Serrano](https://www.worldcubeassociation.org/persons/2014SERR02)|Mexico|29|  
 |=|[Jéssica Cristina Medeiros Soares](https://www.worldcubeassociation.org/persons/2014SOAR02)|Brazil|29|  
-|=|[Giovanna Carolina Soares de Sousa](https://www.worldcubeassociation.org/persons/2014SOUS04)|Brazil|29|  
