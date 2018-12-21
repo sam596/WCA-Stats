@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Tue Dec 18 at 1718UTC*
+*Last updated using WCA Developer Export from Fri Dec 21 at 1808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -97,18 +97,18 @@
 |=|[Yuqi Liu (刘瑜琪)](https://www.worldcubeassociation.org/persons/2016LIUY30)|China|6.32|  
 |88|[Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17)|Korea|6.33|  
 |89|[Yurii Hnidko (Юрій Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID02)|Ukraine|6.34|  
-|=|[Kui-En Chiu (邱奎恩)](https://www.worldcubeassociation.org/persons/2017CHIU07)|Taiwan|6.34|  
-|91|[Ewen Chai](https://www.worldcubeassociation.org/persons/2016CHAI01)|Singapore|6.35|  
+|90|[Ewen Chai](https://www.worldcubeassociation.org/persons/2016CHAI01)|Singapore|6.35|  
 |=|[Jun Hu (胡骏)](https://www.worldcubeassociation.org/persons/2016HUJU02)|China|6.35|  
-|93|[Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01)|Poland|6.36|  
-|94|[Aidan Cerenzie](https://www.worldcubeassociation.org/persons/2017CERE01)|USA|6.37|  
+|92|[Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01)|Poland|6.36|  
+|93|[Aidan Cerenzie](https://www.worldcubeassociation.org/persons/2017CERE01)|USA|6.37|  
 |=|[Daniele Moretti](https://www.worldcubeassociation.org/persons/2017MORE27)|Italy|6.37|  
-|96|[Anton Shcherbakov](https://www.worldcubeassociation.org/persons/2016SHCH01)|Russia|6.38|  
-|97|[Calvin Betzner](https://www.worldcubeassociation.org/persons/2014BETZ01)|USA|6.39|  
+|95|[Anton Shcherbakov](https://www.worldcubeassociation.org/persons/2016SHCH01)|Russia|6.38|  
+|96|[Calvin Betzner](https://www.worldcubeassociation.org/persons/2014BETZ01)|USA|6.39|  
 |=|[Guoliang Wang (王国梁)](https://www.worldcubeassociation.org/persons/2017WAGU02)|China|6.39|  
 |=|[András Gelencsér](https://www.worldcubeassociation.org/persons/2018GELE01)|Hungary|6.39|  
-|100|[Emanuel Capule](https://www.worldcubeassociation.org/persons/2017CAPU01)|Philippines|6.40|  
-|101|[Kaimu Chen (陈楷沐)](https://www.worldcubeassociation.org/persons/2018CHEK05)|China|6.43|  
+|99|[Emanuel Capule](https://www.worldcubeassociation.org/persons/2017CAPU01)|Philippines|6.40|  
+|100|[Kui-En Chiu (邱奎恩)](https://www.worldcubeassociation.org/persons/2017CHIU07)|Taiwan|6.43|  
+|=|[Kaimu Chen (陈楷沐)](https://www.worldcubeassociation.org/persons/2018CHEK05)|China|6.43|  
 |=|[Emir Yusuf Çiçekdemir](https://www.worldcubeassociation.org/persons/2018CICE01)|Turkey|6.43|  
 |103|[Andrés Rodríguez Galán](https://www.worldcubeassociation.org/persons/2016GALA04)|Spain|6.44|  
 |=|[Brian Hambeck](https://www.worldcubeassociation.org/persons/2016HAMB02)|Uruguay|6.44|  

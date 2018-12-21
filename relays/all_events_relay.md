@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Tue Dec 18 at 1718UTC*
+*Last updated using WCA Developer Export from Fri Dec 21 at 1808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -77,7 +77,7 @@
 |67|[Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01)|Netherlands|**37:06.52**|1.90|7.99|37.09|1:05.86|11.54|31.07|5:52.73|1:12.29|18:05.00|2:43.05|4:45.10|12.97|1:19.96|3.02|2.54|14.41|  
 |68|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|China|**37:13.59**|4.18|12.72|59.29|1:24.23|27.69|1:06.29|5:56.68|1:57.28|15:10.00|3:14.94|4:15.97|8.44|1:46.76|6.11|5.22|17.79|  
 |69|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|**37:17.61**|0.94|5.10|19.84|31.71|8.37|26.12|8:10.44|1:00.79|20:32.00|1:59.17|2:55.93|6.39|46.66|2.07|2.33|9.75|  
-|70|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|Korea|**37:19.28**|1.39|6.88|24.60|1:15.09|11.84|27.18|6:28.30|53.67|20:57.00|1:59.21|3:11.94|15.44|48.05|3.07|2.86|12.76|  
+|70|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|Korea|**37:19.01**|1.39|6.88|24.60|1:15.09|11.84|27.18|6:28.30|53.67|20:57.00|1:59.21|3:11.94|15.44|47.78|3.07|2.86|12.76|  
 |71|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|**37:20.57**|1.87|8.27|56.69|51.86|15.10|33.59|6:59.01|1:06.68|19:35.00|2:12.87|3:26.70|4.69|48.93|2.40|3.85|13.06|  
 |72|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|**37:22.39**|0.96|6.86|43.01|29.19|10.97|28.04|8:50.90|1:00.82|18:34.00|2:05.06|3:31.69|7.15|1:02.13|2.83|1.39|7.39|  
 |73|[Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01)|USA|**37:42.03**|4.18|15.97|56.25|1:44.56|29.81|1:12.31|6:07.47|1:57.44|11:35.00|4:25.28|5:51.68|12.98|2:11.28|9.97|7.47|20.38|  
@@ -141,7 +141,7 @@
 |131|[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|USA|**54:00.09**|2.33|7.63|1:30.89|1:55.77|12.23|35.13|8:58.77|1:08.90|32:31.00|2:32.44|3:18.83|8.17|34.47|3.46|6.76|13.31|  
 |132|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|**54:07.87**|0.84|4.77|45.84|2:13.47|9.43|29.57|9:28.00|54.82|31:49.00|2:20.07|3:32.41|11.13|1:28.19|3.96|15.96|20.41|  
 |133|[Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03)|China|**54:15.87**|6.09|18.03|1:22.23|1:44.96|48.52|1:09.97|8:29.26|2:17.84|24:54.00|4:08.78|5:34.89|23.04|2:08.05|10.44|12.07|27.70|  
-|134|[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Japan|**54:31.19**|1.86|8.44|1:12.75|2:07.53|19.25|32.10|11:32.00|1:07.13|31:02.00|1:59.31|3:03.45|11.82|49.68|3.77|3.17|16.93|  
+|134|[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Japan|**54:23.64**|1.86|8.44|1:12.75|2:07.53|16.25|32.10|11:32.00|1:02.58|31:02.00|1:59.31|3:03.45|11.82|49.68|3.77|3.17|16.93|  
 |135|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|**54:31.89**|6.68|23.25|1:02.80|1:32.33|34.97|1:24.40|7:48.99|2:28.39|23:02.00|5:21.98|6:50.89|16.23|2:47.33|12.42|8.23|31.00|  
 |136|[Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02)|Japan|**54:36.17**|1.61|6.09|55.16|50.68|11.52|30.41|8:41.85|1:07.84|31:13.00|3:12.05|5:12.08|14.22|1:44.91|6.38|8.93|19.44|  
 |137|[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|**54:56.46**|3.08|10.55|1:40.53|5:09.70|21.54|44.56|7:23.49|2:02.83|21:51.00|4:48.09|7:16.54|8.70|2:43.76|4.57|4.77|22.75|  
