@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Fri Dec 21 at 1808UTC*
+*Last updated using WCA Developer Export from Mon Dec 24 at 1908UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -551,6 +551,7 @@
 |=|[Tai An (安泰)](https://www.worldcubeassociation.org/persons/2018ANTA02)|China|5|  
 |=|[Bo Cui (崔博)](https://www.worldcubeassociation.org/persons/2018CUIB01)|China|5|  
 |=|[Le Dai (代乐)](https://www.worldcubeassociation.org/persons/2018DAIL02)|China|5|  
+|=|[Yi Fan (范懿)](https://www.worldcubeassociation.org/persons/2018FANY04)|China|5|  
 |=|[Qi Gao (高旗)](https://www.worldcubeassociation.org/persons/2018GAOQ01)|China|5|  
 |=|[Qi Gao (高齐)](https://www.worldcubeassociation.org/persons/2018GAOQ02)|China|5|  
 |=|[Wei Ge (葛伟)](https://www.worldcubeassociation.org/persons/2018GEWE01)|China|5|  
@@ -608,6 +609,7 @@
 |=|[Yue Wu (吴越)](https://www.worldcubeassociation.org/persons/2018WUYU14)|China|5|  
 |=|[Li Xie](https://www.worldcubeassociation.org/persons/2018XIEL02)|USA|5|  
 |=|[Hao Xu (徐昊)](https://www.worldcubeassociation.org/persons/2018XUHA01)|China|5|  
+|=|[Tao Xu (徐涛)](https://www.worldcubeassociation.org/persons/2018XUTA01)|China|5|  
 |=|[Yue Xu (徐悦)](https://www.worldcubeassociation.org/persons/2018XUYU01)|China|5|  
 |=|[An Yan (闫安)](https://www.worldcubeassociation.org/persons/2018YANA02)|China|5|  
 |=|[Li Yan (严立)](https://www.worldcubeassociation.org/persons/2018YANL01)|China|5|  
@@ -617,7 +619,7 @@
 |=|[Ian Yu](https://www.worldcubeassociation.org/persons/2018YUIA01)|Canada|5|  
 |=|[Shi Yu (余释)](https://www.worldcubeassociation.org/persons/2018YUSH05)|China|5|  
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
-|610|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|612|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1006,5 +1008,3 @@
 |=|[Tina Tu](https://www.worldcubeassociation.org/persons/2013TUTI01)|USA|6|  
 |=|[Tim Wai](https://www.worldcubeassociation.org/persons/2013WAIT01)|Canada|6|  
 |=|[Li Wang (王礼)](https://www.worldcubeassociation.org/persons/2013WANG12)|China|6|  
-|=|[Bo Wang (王擘)](https://www.worldcubeassociation.org/persons/2013WANG69)|China|6|  
-|=|[Yu Wang (王昱)](https://www.worldcubeassociation.org/persons/2013WANG71)|China|6|  
