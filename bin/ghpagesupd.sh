@@ -2165,7 +2165,7 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/bbbbb/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
 cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId ='China' YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 1 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
+mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId ='China' AND YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 1 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--\' ~/mysqloutput/output
