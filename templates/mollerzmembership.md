@@ -20,31 +20,31 @@ Bronze -> Silver -> Gold -> Platinum -> Opal -> Diamond
 
 This reduces region bias with CR/NR and also makes Gold obtainable only on personal talent. Gold is considered the pinnacle of a lot of things (Olympics, World Championships at sports, etc.) but getting past this point requires that bit extra to be on the next level.
 
-#### Diamond
+### Diamond
 
 aaaaa
 
-#### Opal
+### Opal
 
 bbbbb
 
-#### Platinum
+### Platinum
 
 ccccc
 
-#### Gold
+### Gold
 
 ddddd
 
-#### Silver
+### Silver
 
 eeeee
 
-#### Bronze
+### Bronze
 
 fffff
 
-#### One Event Missing
+### One Event Missing
 
 ggggg
 
