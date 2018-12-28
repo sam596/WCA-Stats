@@ -22,13 +22,13 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### Diamond
 
-|Name|All Events|Speedsolving Averages|BLD aaaaa FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Y|Y|Y|Y|Y|Y|  
 
 #### Opal
 
-|Name|All Events|Speedsolving Averages|BLD bbbbb FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Y|Y|N (3/4)|Y|Y|Y|  
 |[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|Y|Y|N (3/4)|Y|Y|Y|  
@@ -37,7 +37,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### Platinum
 
-|Name|All Events|Speedsolving Averages|BLD ccccc FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|Y|Y|Y|N|Y|N (5/18)|  
 |[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|Y|Y|N (3/4)|Y|Y|N (8/18)|  
@@ -62,7 +62,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### Gold
 
-|Name|All Events|Speedsolving Averages|BLD ddddd FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|Y|Y|Y|N|N|N (15/18)|  
 |[Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01)|Y|Y|Y|N|N|N (15/18)|  
@@ -98,7 +98,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### Silver
 
-|Name|All Events|Speedsolving Averages|BLD eeeee FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|Y|Y|N (3/4)|N|N|N (16/18)|  
 |[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Y|Y|N (3/4)|N|N|N (16/18)|  
@@ -221,7 +221,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### Bronze
 
-|Name|All Events|Speedsolving Averages|BLD fffff FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02)|Y|N (12/13)|N (3/4)|N|N|N (5/18)|  
 |[Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13)|Y|N (12/13)|N (3/4)|N|N|N (3/18)|  
@@ -245,7 +245,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 
 #### One Event Missing
 
-|Name|All Events|Speedsolving Averages|BLD ggggg FMC Means|WC Podium|WR|Events Won|  
+|Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04)|N (17/18)|Y|N (3/4)|N|N|N (14/18)|  
 |[Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03)|N (17/18)|Y|N (3/4)|N|N|N (10/18)|  
