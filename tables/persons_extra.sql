@@ -23,6 +23,8 @@ CREATE TABLE persons_extra
       c.eventsAttempted, 
       c.eventsSucceeded, 
       c.eventsAverage, 
+      c.speedsolvingEventsAverage,
+      c.bldfmcEventsAverage,
       d.completedSolves, 
       d.DNFs, 
       c.finals, 
@@ -31,7 +33,9 @@ CREATE TABLE persons_extra
       c.silver, 
       c.bronze, 
       c.eventsPodiumed, 
-      c.eventsWon, 
+      c.eventsWon,
+      c.currentEventsPodiumed, 
+      c.currentEventsWon, 
       c.records, 
       c.WRs, 
       c.CRs, 
@@ -81,6 +85,8 @@ CREATE TABLE persons_extra
       n.maxPBStreak,
       n.currentPBStreak,
       (CASE WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND c.WRs > 0 AND c.CRs > 0 AND l.wcPodiums > 0 THEN 'Platinum' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 AND (c.WRs > 0 OR c.CRs > 0 OR l.wcPodiums > 0) THEN 'Gold' WHEN c.eventsSucceeded = 18 AND c.eventsAverage = 15 THEN 'Silver' WHEN c.eventsSucceeded = 18 THEN 'Bronze' ELSE NULL END) `membership`, 
+      @m := (CASE WHEN c.eventsSucceeded <> 18 THEN 0 ELSE 1 + (CASE WHEN c.speedsolvingEventsAverage = 13 THEN 1 ELSE 0 END) + (CASE WHEN c.bldfmcEventsAverage = 4 THEN 1 ELSE 0 END) + (CASE WHEN l.wcPodiums > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.WRs > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.currentEventsWon = 18 THEN 1 ELSE 0 END) END) mhelp,
+      (CASE WHEN @m = 0 THEN NULL WHEN @m = 1 THEN 'Bronze' WHEN @m = 2 THEN 'Silver' WHEN @m = 3 THEN 'Gold' WHEN @m = 4 THEN 'Platinum' WHEN @m = 5 THEN 'Opal' WHEN @m = 6 THEN 'Diamond' END) mollerzMembership,
       p.firstComp,
       p.previousComp,
       o.upcomingComps,
@@ -105,6 +111,8 @@ CREATE TABLE persons_extra
         COUNT(DISTINCT (CASE WHEN eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAttempted`, 
         COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsSucceeded`,
         COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAverage`,
+        COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic','333bf','444bf','555bf','333mbf','333fm') THEN eventId END)) `speedsolvingEventsAverage`,
+        COUNT(DISTINCT (CASE WHEN average > 0 AND eventId IN ('333bf','444bf','555bf','333fm') THEN eventId END)) `bldfmcEventsAverage`,
         COUNT(CASE WHEN roundTypeId IN ('c','f') THEN 1 END) `finals`,
         COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN 1 END) `podiums`,
         COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN 1 END) `gold`,
@@ -112,6 +120,8 @@ CREATE TABLE persons_extra
         COUNT(CASE WHEN roundTypeId IN ('c','f') AND pos = 3 AND best > 0 THEN 1 END) `bronze`,
         COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND best > 0 THEN eventId END)) `eventsPodiumed`,
         COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND best > 0 THEN eventId END)) `eventsWon`,
+        COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos < 4 AND eventId NOT IN ('333mbo','magic','mmagic')AND best > 0 THEN eventId END)) `currentEventsPodiumed`,
+        COUNT(DISTINCT (CASE WHEN roundTypeId IN ('c','f') AND pos = 1 AND eventId NOT IN ('333mbo','magic','mmagic')AND best > 0 THEN eventId END)) `currentEventsWon`,
         COUNT(CASE WHEN regionalaverageRecord != '' THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord != '' THEN 1 END) `records`,
         COUNT(CASE WHEN regionalaverageRecord = 'WR' THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord = 'WR' THEN 1 END) `WRs`,
         COUNT(CASE WHEN regionalaverageRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END)+COUNT(CASE WHEN regionalSingleRecord IN ('ER','AsR','OcR','AfR','NAR','SAR') THEN 1 END) `CRs`,
@@ -226,6 +236,9 @@ CREATE TABLE persons_extra
     LEFT JOIN wca_dev.countries r
     ON q.countryId = r.id
     ;
+;
+
+ALTER TABLE persons_extra DROP COLUMN mhelp;
 
 # ~ 7 mins 15 secs
 
