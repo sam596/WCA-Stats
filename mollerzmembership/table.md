@@ -4,29 +4,29 @@
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
-###### Mollerz Membership Description
+##### Description
 
-Bronze: A result in every event. (Because this is an all-rounder thing)
+> Bronze: A result in every event. (Because this is an all-rounder thing)
+> 
+> Then you get a ranking stage each time you complete any one of the following:
+> - Averages in all sighted speedsolve events (Not BLD/FMC)
+> - Means in FMC/BLD
+> - WC Podium
+> - WR
+> - Win all events
+>
+> Ranking stages go
+> Bronze -> Silver -> Gold -> Platinum -> Opal -> Diamond
+>
+> This reduces region bias with CR/NR and also makes Gold obtainable only on personal talent. Gold is considered the pinnacle of a lot of things (Olympics, World Championships at sports, etc.) but getting past this point requires that bit extra to be on the next level.
 
-Then you get a ranking stage each time you complete any one of the following:
-- Averages in all sighted speedsolve events (Not BLD/FMC)
-- Means in FMC/BLD
-- WC Podium
-- WR
-- Win all events
-
-Ranking stages go
-Bronze -> Silver -> Gold -> Platinum -> Opal -> Diamond
-
-This reduces region bias with CR/NR and also makes Gold obtainable only on personal talent. Gold is considered the pinnacle of a lot of things (Olympics, World Championships at sports, etc.) but getting past this point requires that bit extra to be on the next level.
-
-#### Diamond
+### Diamond
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Y|Y|Y|Y|Y|Y|  
 
-#### Opal
+### Opal
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
@@ -35,7 +35,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|Y|Y|N (2/4)|Y|Y|Y|  
 |[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Y|Y|N (2/4)|Y|Y|Y|  
 
-#### Platinum
+### Platinum
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
@@ -60,7 +60,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 |[Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02)|Y|Y|N (2/4)|Y|Y|N (9/18)|  
 |[Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02)|Y|Y|N (1/4)|Y|Y|N (9/18)|  
 
-#### Gold
+### Gold
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
@@ -96,7 +96,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 |[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|Y|Y|N (2/4)|N|Y|N (6/18)|  
 |[Hong Zhang (张宏)](https://www.worldcubeassociation.org/persons/2008ZHAN13)|Y|Y|N (2/4)|N|Y|N (4/18)|  
 
-#### Silver
+### Silver
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
@@ -219,7 +219,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 |[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|Y|Y|N (0/4)|N|N|N (4/18)|  
 |[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Y|N (12/13)|N (2/4)|Y|N|N (10/18)|  
 
-#### Bronze
+### Bronze
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
@@ -243,7 +243,7 @@ This reduces region bias with CR/NR and also makes Gold obtainable only on perso
 |[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Y|N (9/13)|N (2/4)|N|N|N (5/18)|  
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (9/13)|N (2/4)|N|N|N (1/18)|  
 
-#### One Event Missing
+### One Event Missing
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
