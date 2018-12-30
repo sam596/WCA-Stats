@@ -30,7 +30,7 @@ FROM
 				COUNT(CASE WHEN regionalSingleRecord = 'NR' THEN 1 END)+COUNT(CASE WHEN regionalAverageRecord = 'NR' THEN 1 END) 'NRs',
 				MIN(CASE WHEN best > 0 THEN pos END) 'bestPos',
 				MAX(pos) 'worstPos',
-				GROUP_CONCAT(eventId) `events`
+				GROUP_CONCAT(DISTINCT eventId ORDER BY eventId) 'events'
 		FROM results_extra r
 		GROUP BY personId, competitionId) a
 	LEFT JOIN

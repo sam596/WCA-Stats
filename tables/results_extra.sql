@@ -37,7 +37,7 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.roundTypeId, 
   	r.formatId, 
   	r.pos, 
-  	r.average, 
+  	IF(r.eventId IN ('444bf','555bf') AND value1 > 0 AND value2 > 0 AND value3 > 0, ROUND((value1+value2+value3)/3,0), r.average) average, 
   	r.best, 
   	r.regionalAverageRecord, 
   	r.regionalSingleRecord,
