@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Thu Dec 27 at 2008UTC*
+*Last updated using WCA Developer Export from Sun Dec 30 at 2108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -159,6 +159,7 @@
 |[Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01)|Y|Y|N (2/4)|N|N|N (5/18)|  
 |[Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05)|Y|Y|N (2/4)|N|N|N (5/18)|  
 |[Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11)|Y|Y|N (2/4)|N|N|N (5/18)|  
+|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|Y|Y|N (2/4)|N|N|N (5/18)|  
 |[Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01)|Y|Y|N (2/4)|N|N|N (5/18)|  
 |[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|Y|Y|N (2/4)|N|N|N (5/18)|  
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|Y|Y|N (2/4)|N|N|N (5/18)|  
@@ -298,7 +299,6 @@
 |[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
-|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
@@ -402,7 +402,7 @@
 |[M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02)|N (17/18)|N (11/13)|N (1/4)|N|N|N (2/18)|  
 |[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|N (17/18)|N (11/13)|N (1/4)|N|N|N (1/18)|  
 |[Yash Mehta](https://www.worldcubeassociation.org/persons/2015MEHT08)|N (17/18)|N (11/13)|N (1/4)|N|N|N (1/18)|  
-|[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|N (17/18)|N (11/13)|N (0/4)|N|N|N (0/18)|  
+|[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|N (17/18)|N (11/13)|N (1/4)|N|N|N (0/18)|  
 |[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|N (17/18)|N (10/13)|Y|N|N|N (0/18)|  
 |[Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01)|N (17/18)|N (10/13)|N (3/4)|Y|Y|N (4/18)|  
 |[Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04)|N (17/18)|N (10/13)|N (1/4)|N|N|N (3/18)|  

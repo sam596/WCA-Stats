@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Dec 27 at 2008UTC*
+*Last updated using WCA Developer Export from Sun Dec 30 at 2108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -50,7 +50,7 @@
 |40|[Maksym Yeli (Максим Єлі)](https://www.worldcubeassociation.org/persons/2014YELI01)|Ukraine|7.49|6.42|  
 |41|[Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01)|USA|7.63|6.42|  
 |42|[Haluk Ulkusal](https://www.worldcubeassociation.org/persons/2016ULKU01)|Romania|7.62|6.37|  
-|43|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|7.57|6.36|  
+|43|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|7.32|6.36|  
 |44|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|7.83|6.35|  
 |45|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|7.84|6.35|  
 |46|[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30)|Peru|7.97|6.34|  
