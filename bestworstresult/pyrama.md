@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Sun Dec 30 at 2108UTC*
+*Last updated using WCA Developer Export from Wed Jan 02 at 2208UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,36 +8,36 @@
 
 |Rank|Name|Country|Worst Average|  
 |--|--|--|--|  
-|1|[Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14)|China|3.64|  
-|2|[Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06)|Bolivia|4.21|  
-|3|[Yanjun Zhang (张彦君)](https://www.worldcubeassociation.org/persons/2018ZHAN58)|China|4.62|  
-|4|[Siyu Wang (王思予)](https://www.worldcubeassociation.org/persons/2017WANG32)|China|4.71|  
-|5|[Junjie Weng (翁俊杰)](https://www.worldcubeassociation.org/persons/2016WENG03)|China|4.78|  
-|6|[Ruslan Braer (Руслан Браер)](https://www.worldcubeassociation.org/persons/2013BRAE01)|Ukraine|4.82|  
-|7|[Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01)|Korea|4.85|  
-|8|[Hongrun Li (李虹润)](https://www.worldcubeassociation.org/persons/2018LIHO07)|China|4.93|  
-|9|[Casper Wang Lai Man (王禮敏)](https://www.worldcubeassociation.org/persons/2017MANC03)|Hong Kong|4.99|  
-|10|[Michael Ho](https://www.worldcubeassociation.org/persons/2017HOMI01)|USA|5.10|  
-|11|[Victor Villa](https://www.worldcubeassociation.org/persons/2018VILL10)|Philippines|5.20|  
-|12|[Shakhzod Takhirov](https://www.worldcubeassociation.org/persons/2018TAKH02)|Uzbekistan|5.22|  
-|13|[Fanyang Zeng (曾凡洋)](https://www.worldcubeassociation.org/persons/2017ZENG04)|China|5.23|  
-|14|[Yanjing He (何彦憬)](https://www.worldcubeassociation.org/persons/2017HEYA04)|China|5.26|  
-|15|[Yuxuan Wu (吴雨轩)](https://www.worldcubeassociation.org/persons/2017WUYU10)|China|5.29|  
-|16|[Chun-Yu Yang (楊竣宇)](https://www.worldcubeassociation.org/persons/2014YANG38)|Taiwan|5.36|  
+|1|[Josué Pardo Chambi](https://www.worldcubeassociation.org/persons/2017CHAM06)|Bolivia|4.21|  
+|2|[Yanjun Zhang (张彦君)](https://www.worldcubeassociation.org/persons/2018ZHAN58)|China|4.62|  
+|3|[Siyu Wang (王思予)](https://www.worldcubeassociation.org/persons/2017WANG32)|China|4.71|  
+|4|[Junjie Weng (翁俊杰)](https://www.worldcubeassociation.org/persons/2016WENG03)|China|4.78|  
+|5|[Ruslan Braer (Руслан Браер)](https://www.worldcubeassociation.org/persons/2013BRAE01)|Ukraine|4.82|  
+|6|[Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01)|Korea|4.85|  
+|7|[Hongrun Li (李虹润)](https://www.worldcubeassociation.org/persons/2018LIHO07)|China|4.93|  
+|8|[Casper Wang Lai Man (王禮敏)](https://www.worldcubeassociation.org/persons/2017MANC03)|Hong Kong|4.99|  
+|9|[Michael Ho](https://www.worldcubeassociation.org/persons/2017HOMI01)|USA|5.10|  
+|10|[Victor Villa](https://www.worldcubeassociation.org/persons/2018VILL10)|Philippines|5.20|  
+|11|[Shakhzod Takhirov](https://www.worldcubeassociation.org/persons/2018TAKH02)|Uzbekistan|5.22|  
+|12|[Fanyang Zeng (曾凡洋)](https://www.worldcubeassociation.org/persons/2017ZENG04)|China|5.23|  
+|13|[Yanjing He (何彦憬)](https://www.worldcubeassociation.org/persons/2017HEYA04)|China|5.26|  
+|14|[Yuxuan Wu (吴雨轩)](https://www.worldcubeassociation.org/persons/2017WUYU10)|China|5.29|  
+|15|[Chun-Yu Yang (楊竣宇)](https://www.worldcubeassociation.org/persons/2014YANG38)|Taiwan|5.36|  
 |=|[Yiming Zhu (祝一鸣)](https://www.worldcubeassociation.org/persons/2016ZHUY07)|China|5.36|  
-|18|[Jiwon Mun](https://www.worldcubeassociation.org/persons/2016MUNJ03)|Korea|5.47|  
-|19|[Ardavan Jebelli (اردوان جبلی)](https://www.worldcubeassociation.org/persons/2017JEBE01)|Iran|5.51|  
-|20|[Se-jun Ahn](https://www.worldcubeassociation.org/persons/2013AHNS01)|Korea|5.53|  
-|21|[Aleksandar Mihajlovski](https://www.worldcubeassociation.org/persons/2016MIHA02)|Slovenia|5.58|  
-|22|[Astrid Lacotte](https://www.worldcubeassociation.org/persons/2018LACO02)|France|5.60|  
+|17|[Jiwon Mun](https://www.worldcubeassociation.org/persons/2016MUNJ03)|Korea|5.47|  
+|18|[Ardavan Jebelli (اردوان جبلی)](https://www.worldcubeassociation.org/persons/2017JEBE01)|Iran|5.51|  
+|19|[Se-jun Ahn](https://www.worldcubeassociation.org/persons/2013AHNS01)|Korea|5.53|  
+|20|[Aleksandar Mihajlovski](https://www.worldcubeassociation.org/persons/2016MIHA02)|Slovenia|5.58|  
+|21|[Astrid Lacotte](https://www.worldcubeassociation.org/persons/2018LACO02)|France|5.60|  
 |=|[Samuel Pérez Ocampo](https://www.worldcubeassociation.org/persons/2018OCAM02)|Mexico|5.60|  
-|24|[Kunaal Purohit](https://www.worldcubeassociation.org/persons/2018PURO02)|USA|5.65|  
-|25|[Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07)|Peru|5.68|  
+|23|[Kunaal Purohit](https://www.worldcubeassociation.org/persons/2018PURO02)|USA|5.65|  
+|24|[Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07)|Peru|5.68|  
 |=|[Alan Mussin (Алан Муссин)](https://www.worldcubeassociation.org/persons/2018MUSS01)|Kazakhstan|5.68|  
 |=|[Oleksandr Savchenko (Олександр Савченко)](https://www.worldcubeassociation.org/persons/2018SAVC02)|Ukraine|5.68|  
-|28|[Oleksandr Kibenko (Олександр Кібенко)](https://www.worldcubeassociation.org/persons/2016KIBE01)|Ukraine|5.70|  
+|27|[Oleksandr Kibenko (Олександр Кібенко)](https://www.worldcubeassociation.org/persons/2016KIBE01)|Ukraine|5.70|  
 |=|[Yu Zhao (赵予)](https://www.worldcubeassociation.org/persons/2017ZHAO75)|China|5.70|  
-|30|[Devin McAtamney](https://www.worldcubeassociation.org/persons/2016MCAT02)|USA|5.74|  
+|29|[Devin McAtamney](https://www.worldcubeassociation.org/persons/2016MCAT02)|USA|5.74|  
+|=|[Yixuan Li (李逸轩)](https://www.worldcubeassociation.org/persons/2018LIYI14)|China|5.74|  
 |=|[Kwon SeongGu (권성구)](https://www.worldcubeassociation.org/persons/2018SEON02)|Korea|5.74|  
 |32|[Grayson Goh](https://www.worldcubeassociation.org/persons/2017GOHG01)|Malaysia|5.79|  
 |33|[Otgonbayar Bombish (Отгонбаяр)](https://www.worldcubeassociation.org/persons/2016BOMB01)|Mongolia|5.83|  
