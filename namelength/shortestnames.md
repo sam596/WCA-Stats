@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Wed Jan 02 at 2208UTC*
+*Last updated using WCA Developer Export from Sat Jan 05 at 2308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -139,9 +139,10 @@
 |=|[Di Wu (吴迪)](https://www.worldcubeassociation.org/persons/2018WUDI01)|China|4|  
 |=|[Ke Xu (许可)](https://www.worldcubeassociation.org/persons/2018XUKE01)|China|4|  
 |=|[Pu Xu (徐朴)](https://www.worldcubeassociation.org/persons/2018XUPU01)|China|4|  
+|=|[Yu Xu (徐煜)](https://www.worldcubeassociation.org/persons/2018XUYU03)|China|4|  
 |=|[Li Ye (叶丽)](https://www.worldcubeassociation.org/persons/2018YELI01)|China|4|  
 |=|[Ye Yu (余烨)](https://www.worldcubeassociation.org/persons/2018YUYE01)|China|4|  
-|134|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
+|135|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
 |=|[Yi Hsu](https://www.worldcubeassociation.org/persons/2006HSUY01)|Taiwan|5|  
 |=|[Jim Li](https://www.worldcubeassociation.org/persons/2006LIJI01)|USA|5|  
 |=|[Rui Qi](https://www.worldcubeassociation.org/persons/2007RUIQ01)|China|5|  
@@ -570,6 +571,7 @@
 |=|[Lin Ke (柯霖)](https://www.worldcubeassociation.org/persons/2018KELI01)|China|5|  
 |=|[Fan Li (李凡)](https://www.worldcubeassociation.org/persons/2018LIFA01)|China|5|  
 |=|[Hao Li (李昊)](https://www.worldcubeassociation.org/persons/2018LIHA06)|China|5|  
+|=|[Qi Lin (林奇)](https://www.worldcubeassociation.org/persons/2018LINQ03)|China|5|  
 |=|[Xi Lin (林熙)](https://www.worldcubeassociation.org/persons/2018LINX05)|China|5|  
 |=|[Ye Lin (林烨)](https://www.worldcubeassociation.org/persons/2018LINY12)|China|5|  
 |=|[Yi Lin (林逸)](https://www.worldcubeassociation.org/persons/2018LINY14)|China|5|  
@@ -597,11 +599,13 @@
 |=|[Yu Shi (石钰)](https://www.worldcubeassociation.org/persons/2018SHIY11)|China|5|  
 |=|[He Sui (隋鹤)](https://www.worldcubeassociation.org/persons/2018SUIH01)|China|5|  
 |=|[Jie Su (苏洁)](https://www.worldcubeassociation.org/persons/2018SUJI06)|China|5|  
+|=|[Qi Sun (孙琪)](https://www.worldcubeassociation.org/persons/2018SUNQ04)|China|5|  
 |=|[Yu Sun (孙裕)](https://www.worldcubeassociation.org/persons/2018SUNY12)|China|5|  
 |=|[Yue Su (苏越)](https://www.worldcubeassociation.org/persons/2018SUYU03)|China|5|  
 |=|[Zi Tan (谭自)](https://www.worldcubeassociation.org/persons/2018TANZ03)|China|5|  
 |=|[Yi Wen (文一)](https://www.worldcubeassociation.org/persons/2018WENY01)|China|5|  
 |=|[Bia Wu](https://www.worldcubeassociation.org/persons/2018WUBI02)|Brazil|5|  
+|=|[Fan Wu (吴凡)](https://www.worldcubeassociation.org/persons/2018WUFA01)|China|5|  
 |=|[Han Wu (吴寒)](https://www.worldcubeassociation.org/persons/2018WUHA03)|China|5|  
 |=|[Hao Wu (吴昊)](https://www.worldcubeassociation.org/persons/2018WUHA04)|China|5|  
 |=|[Hao Wu (吴昊)](https://www.worldcubeassociation.org/persons/2018WUHA06)|China|5|  
@@ -620,7 +624,7 @@
 |=|[Ian Yu](https://www.worldcubeassociation.org/persons/2018YUIA01)|Canada|5|  
 |=|[Shi Yu (余释)](https://www.worldcubeassociation.org/persons/2018YUSH05)|China|5|  
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
-|613|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|617|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1004,7 +1008,3 @@
 |=|[Wei Sun (孙玮)](https://www.worldcubeassociation.org/persons/2013SUNW01)|China|6|  
 |=|[Wei Sun (孙巍)](https://www.worldcubeassociation.org/persons/2013SUNW02)|China|6|  
 |=|[Ying Su (苏映)](https://www.worldcubeassociation.org/persons/2013SUYI01)|China|6|  
-|=|[Zeyu Su (苏泽宇)](https://www.worldcubeassociation.org/persons/2013SUZE01)|China|6|  
-|=|[Yi Tang (唐义)](https://www.worldcubeassociation.org/persons/2013TANG10)|China|6|  
-|=|[Jack Tu](https://www.worldcubeassociation.org/persons/2013TUJA01)|USA|6|  
-|=|[Tina Tu](https://www.worldcubeassociation.org/persons/2013TUTI01)|USA|6|  
