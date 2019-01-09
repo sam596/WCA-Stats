@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sat Jan 05 at 2308UTC*
+*Last updated using WCA Developer Export from Wed Jan 09 at 0007UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -10,19 +10,19 @@
 |--|--|--|--|--|  
 |1|[Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|6.52|5.93|  
 |2|[Hyeon Kyo Kyoung](https://www.worldcubeassociation.org/persons/2013KYOU01)|Korea|6.87|5.91|  
-|3|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|5.63|  
+|3|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.59|  
 |4|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|5.22|  
 |5|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.89|5.19|  
 |6|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
-|7|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.75|5.16|  
-|8|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.86|5.13|  
-|9|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|Philippines|6.37|5.12|  
-|10|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.06|  
-|11|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|6.76|4.97|  
-|12|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|6.83|4.94|  
-|13|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|6.82|4.90|  
-|14|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|6.38|4.90|  
-|15|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|6.75|4.86|  
+|7|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.86|5.13|  
+|8|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|Philippines|6.37|5.12|  
+|9|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.06|  
+|10|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|6.76|4.97|  
+|11|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|6.83|4.94|  
+|12|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|6.82|4.90|  
+|13|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|6.38|4.90|  
+|14|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|6.75|4.88|  
+|=|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|6.75|4.86|  
 |16|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.64|4.83|  
 |17|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|6.06|4.81|  
 |18|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|6.64|4.76|  

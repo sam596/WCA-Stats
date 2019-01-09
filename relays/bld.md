@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Sat Jan 05 at 2308UTC*
+*Last updated using WCA Developer Export from Wed Jan 09 at 0007UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -10,7 +10,7 @@
 |--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|**4:50.37**|21.66|1:27.70|3:01.01|  
 |2|[Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01)|China|**5:31.29**|18.32|1:26.41|3:46.56|  
-|3|[Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01)|Russia|**5:57.68**|21.45|1:53.98|3:42.25|  
+|3|[Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01)|Russia|**5:57.21**|20.98|1:53.98|3:42.25|  
 |4|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  
 |5|[Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01)|New Zealand|**6:32.74**|26.39|1:55.14|4:11.21|  
 |6|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|**6:40.72**|23.44|1:58.54|4:18.74|  

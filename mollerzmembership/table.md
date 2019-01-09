@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Sat Jan 05 at 2308UTC*
+*Last updated using WCA Developer Export from Wed Jan 09 at 0007UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -30,6 +30,7 @@
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
+|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Y|Y|Y|Y|Y|N (4/18)|  
 |[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Y|Y|N (3/4)|Y|Y|Y|  
 |[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|Y|Y|N (3/4)|Y|Y|Y|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|Y|Y|N (2/4)|Y|Y|Y|  
