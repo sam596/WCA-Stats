@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Wed Jan 09 at 0007UTC*
+*Last updated using WCA Developer Export from Sat Jan 12 at 0108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -177,6 +177,7 @@
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|Y|Y|N (2/4)|N|N|N (3/18)|  
 |[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Y|Y|N (2/4)|N|N|N (3/18)|  
 |[Zian Song (宋子安)](https://www.worldcubeassociation.org/persons/2014SONG08)|Y|Y|N (2/4)|N|N|N (3/18)|  
+|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|Y|Y|N (2/4)|N|N|N (3/18)|  
 |[Minhyun Kim (김민현)](https://www.worldcubeassociation.org/persons/2007MINH01)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Qirun Zhong (钟奇润)](https://www.worldcubeassociation.org/persons/2008ZHON01)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|Y|Y|N (2/4)|N|N|N (1/18)|  
@@ -185,7 +186,6 @@
 |[Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|Y|Y|N (2/4)|N|N|N (2/18)|  
-|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Xun Zhao (赵洵)](https://www.worldcubeassociation.org/persons/2015ZHAO07)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|Y|Y|N (2/4)|N|N|N (2/18)|  
