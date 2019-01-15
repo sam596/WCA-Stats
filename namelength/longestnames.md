@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sat Jan 12 at 0108UTC*
+*Last updated using WCA Developer Export from Tue Jan 15 at 0208UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -928,7 +928,8 @@
 |=|[Jorge Sebastián Bernardo Zevallos](https://www.worldcubeassociation.org/persons/2018ZEVA03)|Peru|30|  
 |=|[Gonzalo Gabriel Gonzalez Pumalazo](https://www.worldcubeassociation.org/persons/2019PUMA01)|Peru|30|  
 |=|[Lucas Daniel Esteban Tobar Quezada](https://www.worldcubeassociation.org/persons/2019QUEZ01)|Chile|30|  
-|921|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
+|=|[Hyeonbin Kasidit Sirichanchaikul](https://www.worldcubeassociation.org/persons/2019SIRI01)|Australia|30|  
+|922|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
 |=|[Maria Josefina Razazi Fuenzalida](https://www.worldcubeassociation.org/persons/2009FUEN01)|Chile|29|  
 |=|[Umar Yunan Kurnia Septo Hediyanto](https://www.worldcubeassociation.org/persons/2009HEDI02)|Indonesia|29|  
 |=|[Mohammad Hassan Azri Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM02)|Malaysia|29|  
@@ -1007,4 +1008,3 @@
 |=|[Martin Ricardo Gutiérrez Jiménez](https://www.worldcubeassociation.org/persons/2014JIME06)|Mexico|29|  
 |=|[Srinikethan Raghuprasad Komarla](https://www.worldcubeassociation.org/persons/2014KOMA02)|India|29|  
 |=|[Francisco Alberto Castañeda Lima](https://www.worldcubeassociation.org/persons/2014LIMA09)|Guatemala|29|  
-|=|[Giovanni Melo de Oliveira Linares](https://www.worldcubeassociation.org/persons/2014LINA03)|Brazil|29|  

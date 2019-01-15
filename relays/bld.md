@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Sat Jan 12 at 0108UTC*
+*Last updated using WCA Developer Export from Tue Jan 15 at 0208UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -21,7 +21,7 @@
 |11|[Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01)|Poland|**7:51.55**|21.45|2:17.20|5:12.90|  
 |12|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|**7:54.17**|20.07|2:21.47|5:12.63|  
 |13|[Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01)|United Kingdom|**8:05.54**|30.89|2:02.75|5:31.90|  
-|14|[Tomoya Firman](https://www.worldcubeassociation.org/persons/2015FIRM01)|Australia|**8:32.10**|19.23|1:50.26|6:22.61|  
+|14|[Tomoya Firman](https://www.worldcubeassociation.org/persons/2015FIRM01)|Australia|**8:20.33**|19.23|1:38.49|6:22.61|  
 |15|[William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01)|France|**8:38.22**|39.67|2:14.72|5:43.83|  
 |16|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|**8:53.60**|22.26|2:30.14|6:01.20|  
 |17|[Ádám Barta](https://www.worldcubeassociation.org/persons/2009BART02)|Hungary|**8:57.31**|20.60|2:17.69|6:19.02|  
@@ -74,8 +74,8 @@
 |64|[Neel Gore](https://www.worldcubeassociation.org/persons/2016GORE02)|USA|**14:23.02**|20.14|1:59.88|12:03.00|  
 |65|[Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02)|Philippines|**14:30.81**|55.58|3:44.71|9:50.52|  
 |66|[Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01)|Germany|**14:38.37**|24.50|4:21.12|9:52.75|  
-|67|[Leonardo Ezequiel Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ11)|Argentina|**14:51.04**|33.61|3:43.43|10:34.00|  
-|68|[Naoto Shinagawa (品川直登)](https://www.worldcubeassociation.org/persons/2017SHIN02)|Japan|**14:53.50**|57.44|3:10.06|10:46.00|  
+|67|[Naoto Shinagawa (品川直登)](https://www.worldcubeassociation.org/persons/2017SHIN02)|Japan|**14:49.09**|53.03|3:10.06|10:46.00|  
+|68|[Leonardo Ezequiel Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ11)|Argentina|**14:51.04**|33.61|3:43.43|10:34.00|  
 |69|[Ramses Amaya](https://www.worldcubeassociation.org/persons/2014AMAY01)|Colombia|**14:57.44**|24.40|3:24.04|11:09.00|  
 |70|[Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01)|Japan|**15:03.01**|26.83|3:59.18|10:37.00|  
 |71|[Ville Seppänen](https://www.worldcubeassociation.org/persons/2008SEPP01)|Finland|**15:10.45**|39.53|4:42.34|9:48.58|  
@@ -201,13 +201,13 @@
 |191|[Vladimir Kostin](https://www.worldcubeassociation.org/persons/2012KOST02)|Russia|**27:41.10**|58.25|7:44.85|18:58.00|  
 |192|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|Korea|**27:49.90**|24.60|6:28.30|20:57.00|  
 |193|[Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01)|Taiwan|**27:55.66**|24.80|4:45.86|22:45.00|  
-|194|[Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01)|Australia|**28:03.28**|1:24.47|7:01.81|19:37.00|  
+|194|[Nathan Seeto](https://www.worldcubeassociation.org/persons/2012SEET01)|Australia|**28:03.00**|1:24.19|7:01.81|19:37.00|  
 |195|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|**28:07.91**|43.01|8:50.90|18:34.00|  
 |196|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|Switzerland|**28:20.07**|1:24.26|9:10.81|17:45.00|  
 |197|[Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01)|Germany|**28:33.41**|1:21.50|8:25.91|18:46.00|  
 |198|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|**29:02.28**|19.84|8:10.44|20:32.00|  
 |199|[Lee Seung Ha (이승하)](https://www.worldcubeassociation.org/persons/2014HALE02)|Korea|**29:03.66**|1:25.66|10:18.00|17:20.00|  
-|200|[Naoki Tani (谷直輝)](https://www.worldcubeassociation.org/persons/2017TANI04)|Japan|**29:24.69**|1:10.53|8:54.16|19:20.00|  
+|200|[Naoki Tani (谷直輝)](https://www.worldcubeassociation.org/persons/2017TANI04)|Japan|**29:06.07**|51.91|8:54.16|19:20.00|  
 |201|[Tomoki Kubo (久保友樹)](https://www.worldcubeassociation.org/persons/2009KUBO01)|Japan|**29:28.96**|1:02.36|8:46.60|19:40.00|  
 |202|[Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01)|USA|**29:57.63**|1:39.94|9:10.69|19:07.00|  
 |203|[Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01)|Poland|**30:06.61**|23.17|6:30.44|23:13.00|  
