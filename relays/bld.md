@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Tue Jan 15 at 0208UTC*
+*Last updated using WCA Developer Export from Sun Jan 20 at 2208UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -14,9 +14,9 @@
 |4|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  
 |5|[Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01)|New Zealand|**6:32.74**|26.39|1:55.14|4:11.21|  
 |6|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|**6:35.58**|23.44|1:53.40|4:18.74|  
-|7|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:58.39**|29.96|1:57.57|4:30.86|  
-|8|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:19.44**|26.55|1:55.27|4:57.62|  
-|9|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|**7:23.89**|24.44|2:06.18|4:53.27|  
+|7|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|**6:38.50**|24.44|2:06.18|4:07.88|  
+|8|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:58.39**|29.96|1:57.57|4:30.86|  
+|9|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:19.44**|26.55|1:55.27|4:57.62|  
 |10|[Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01)|USA|**7:45.71**|25.06|2:19.43|5:01.22|  
 |11|[Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01)|Poland|**7:51.55**|21.45|2:17.20|5:12.90|  
 |12|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|**7:54.17**|20.07|2:21.47|5:12.63|  
@@ -356,7 +356,7 @@
 |346|[Wicaksono Adi](https://www.worldcubeassociation.org/persons/2009ADIW01)|Indonesia|**52:25.81**|1:21.81|14:52.00|36:12.00|  
 |347|[Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11)|China|**53:05.35**|1:15.35|17:47.00|34:03.00|  
 |348|[Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01)|India|**53:33.23**|48.16|7:10.07|45:35.00|  
-|349|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**53:39.98**|41.98|14:00.00|38:58.00|  
+|349|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**53:36.54**|38.54|14:00.00|38:58.00|  
 |350|[Arvis Tilgalis](https://www.worldcubeassociation.org/persons/2012TILG02)|Latvia|**53:42.93**|1:36.93|14:15.00|37:51.00|  
 |351|[Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01)|Korea|**54:29.12**|1:27.12|13:12.00|39:50.00|  
 |352|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|**54:35.08**|49.40|8:28.68|45:17.00|  
