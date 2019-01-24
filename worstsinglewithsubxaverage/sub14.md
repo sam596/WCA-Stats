@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Jan 21 at 2156UTC*
+*Last updated using WCA Developer Export from Wed Jan 23 at 2308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -18,12 +18,12 @@
 |8|[Jose Arco](https://www.worldcubeassociation.org/persons/2013ARCO01)|Philippines|13.87|13.38|  
 |9|[Isaiah Loresco](https://www.worldcubeassociation.org/persons/2016LORE03)|Philippines|13.82|13.34|  
 |10|[Bin Yang (杨斌)](https://www.worldcubeassociation.org/persons/2017YANG23)|China|13.90|13.33|  
-|11|[Samuel Wexler](https://www.worldcubeassociation.org/persons/2017WEXL01)|USA|13.63|13.30|  
-|12|[Gustavo Santiago Capistrano](https://www.worldcubeassociation.org/persons/2014CAPI02)|Brazil|13.81|13.29|  
-|13|[Zhaisan Madiev (Жайсан Мадиев)](https://www.worldcubeassociation.org/persons/2017MADI04)|Kyrgyzstan|13.96|13.28|  
-|14|[Aayan Alam](https://www.worldcubeassociation.org/persons/2018ALAM04)|Pakistan|13.84|13.27|  
-|15|[James Daniel Callanta](https://www.worldcubeassociation.org/persons/2017CALL02)|Philippines|13.68|13.25|  
-|16|[Ana Burguez](https://www.worldcubeassociation.org/persons/2017BURG01)|Paraguay|13.75|13.24|  
+|11|[Gustavo Santiago Capistrano](https://www.worldcubeassociation.org/persons/2014CAPI02)|Brazil|13.81|13.29|  
+|12|[Zhaisan Madiev (Жайсан Мадиев)](https://www.worldcubeassociation.org/persons/2017MADI04)|Kyrgyzstan|13.96|13.28|  
+|13|[Aayan Alam](https://www.worldcubeassociation.org/persons/2018ALAM04)|Pakistan|13.84|13.27|  
+|14|[James Daniel Callanta](https://www.worldcubeassociation.org/persons/2017CALL02)|Philippines|13.68|13.25|  
+|15|[Ana Burguez](https://www.worldcubeassociation.org/persons/2017BURG01)|Paraguay|13.75|13.24|  
+|16|[Samuel Wexler](https://www.worldcubeassociation.org/persons/2017WEXL01)|USA|13.63|13.24|  
 |17|[Yanding Wang (王彦丁)](https://www.worldcubeassociation.org/persons/2016WANY02)|China|13.87|13.24|  
 |18|[Phí Văn Dũng](https://www.worldcubeassociation.org/persons/2015DUNG01)|Vietnam|13.96|13.21|  
 |19|[Tiancheng Yang (杨天成)](https://www.worldcubeassociation.org/persons/2017YANG86)|China|13.76|13.20|  

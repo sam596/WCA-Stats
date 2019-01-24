@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Mon Jan 21 at 2156UTC*
+*Last updated using WCA Developer Export from Wed Jan 23 at 2308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -625,7 +625,8 @@
 |=|[Shi Yu (余释)](https://www.worldcubeassociation.org/persons/2018YUSH05)|China|5|  
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
 |=|[Yu Liu (刘聿)](https://www.worldcubeassociation.org/persons/2019LIUY01)|China|5|  
-|618|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
+|619|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Yi Song (宋毅)](https://www.worldcubeassociation.org/persons/2013SONG14)|China|6|  
 |=|[Hao Sun (孙浩)](https://www.worldcubeassociation.org/persons/2013SUNH01)|China|6|  
 |=|[Wei Sun (孙玮)](https://www.worldcubeassociation.org/persons/2013SUNW01)|China|6|  
-|=|[Wei Sun (孙巍)](https://www.worldcubeassociation.org/persons/2013SUNW02)|China|6|  

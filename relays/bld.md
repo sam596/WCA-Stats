@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Mon Jan 21 at 2156UTC*
+*Last updated using WCA Developer Export from Wed Jan 23 at 2308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -98,7 +98,7 @@
 |88|[Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02)|China|**16:06.28**|1:19.38|5:22.22|9:24.68|  
 |89|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|**16:09.25**|35.45|3:37.80|11:56.00|  
 |90|[Oleksandr Ivanchak (Олександр Іванчак)](https://www.worldcubeassociation.org/persons/2015IVAN03)|Ukraine|**16:14.15**|22.95|4:27.20|11:24.00|  
-|91|[Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02)|Australia|**16:19.00**|19.20|3:13.80|12:46.00|  
+|91|[Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02)|Australia|**16:16.84**|17.04|3:13.80|12:46.00|  
 |92|[Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01)|Japan|**16:34.44**|35.47|4:53.97|11:05.00|  
 |93|[Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01)|Poland|**16:43.38**|31.80|3:53.58|12:18.00|  
 |94|[Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20)|Malaysia|**16:43.58**|1:10.66|5:21.92|10:11.00|  
@@ -111,10 +111,10 @@
 |101|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|**17:37.06**|46.34|4:17.72|12:33.00|  
 |102|[Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01)|Austria|**17:37.84**|43.81|4:50.03|12:04.00|  
 |103|[Ragil Setyadi](https://www.worldcubeassociation.org/persons/2011SETY02)|Indonesia|**17:52.97**|43.19|4:57.78|12:12.00|  
-|104|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|**18:04.21**|43.37|4:34.84|12:46.00|  
-|105|[Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01)|China|**18:17.30**|42.34|4:34.96|13:00.00|  
-|106|[Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04)|USA|**18:17.33**|46.65|5:52.68|11:38.00|  
-|107|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|USA|**18:22.27**|51.58|5:05.69|12:25.00|  
+|104|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|USA|**18:01.57**|51.58|4:44.99|12:25.00|  
+|105|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|**18:04.21**|43.37|4:34.84|12:46.00|  
+|106|[Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01)|China|**18:17.30**|42.34|4:34.96|13:00.00|  
+|107|[Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04)|USA|**18:17.33**|46.65|5:52.68|11:38.00|  
 |108|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|Brazil|**18:25.34**|1:32.68|6:33.66|10:19.00|  
 |109|[Zian Song (宋子安)](https://www.worldcubeassociation.org/persons/2014SONG08)|China|**18:31.53**|1:01.62|6:07.91|11:22.00|  
 |110|[Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01)|USA|**18:38.72**|56.25|6:07.47|11:35.00|  
@@ -163,7 +163,7 @@
 |153|[Chen-Pin Sun (孫振斌)](https://www.worldcubeassociation.org/persons/2017SUNC03)|Taiwan|**22:45.75**|1:17.97|5:57.78|15:30.00|  
 |154|[Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24)|China|**22:52.01**|1:11.02|6:11.99|15:29.00|  
 |155|[Liliya Kamaltdinova](https://www.worldcubeassociation.org/persons/2012KAMA01)|Russia|**22:52.14**|31.21|4:54.93|17:26.00|  
-|156|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|**22:55.89**|40.39|5:02.50|17:13.00|  
+|156|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|**22:52.15**|40.39|4:58.76|17:13.00|  
 |157|[Anton Rostovikov](https://www.worldcubeassociation.org/persons/2009ROST01)|Russia|**23:19.72**|32.69|5:40.03|17:07.00|  
 |158|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|**23:24.98**|52.32|5:56.66|16:36.00|  
 |159|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|**23:46.31**|1:26.07|6:54.24|15:26.00|  
