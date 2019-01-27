@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Wed Jan 23 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Jan 27 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -487,7 +487,7 @@
 |477|[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Sweden|3/4 38:45.00|  
 |478|[Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06)|Italy|6/10 39:18.00|  
 |479|[Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01)|Denmark|4/6 39:33.00|  
-|480|[Chong Jen Foong](https://www.worldcubeassociation.org/persons/2017FOON01)|Malaysia|3/4 39:34.00|  
+|480|[Chong Jen Foong (莊振峰)](https://www.worldcubeassociation.org/persons/2017FOON01)|Malaysia|3/4 39:34.00|  
 |481|[Simon Lai](https://www.worldcubeassociation.org/persons/2015LAIS02)|Singapore|3/4 39:41.00|  
 |482|[Ethan Woll](https://www.worldcubeassociation.org/persons/2014WOLL01)|USA|3/4 39:53.00|  
 |483|[Evgeny Skachkov](https://www.worldcubeassociation.org/persons/2015SKAC02)|Russia|3/4 40:02.00|  

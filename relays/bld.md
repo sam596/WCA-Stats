@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Wed Jan 23 at 2308UTC*
+*Last updated using WCA Developer Export from Sun Jan 27 at 0008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -282,7 +282,7 @@
 |272|[Carlos Pedro Casado de Achával](https://www.worldcubeassociation.org/persons/2012ACHA01)|Argentina|**37:35.98**|1:30.34|7:53.64|28:12.00|  
 |273|[Bértil Estrugo](https://www.worldcubeassociation.org/persons/2014ESTR01)|Uruguay|**37:54.74**|1:37.74|10:19.00|25:58.00|  
 |274|[Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08)|Spain|**38:14.75**|1:19.36|8:15.39|28:40.00|  
-|275|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|**38:28.45**|1:23.45|12:53.00|24:12.00|  
+|275|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|**38:17.68**|1:12.68|12:53.00|24:12.00|  
 |276|[Javier Hernandez Requena](https://www.worldcubeassociation.org/persons/2012REQU01)|Spain|**38:49.67**|59.95|7:18.72|30:31.00|  
 |277|[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|Australia|**39:04.34**|26.34|10:41.00|27:57.00|  
 |278|[Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01)|Spain|**39:06.68**|58.61|9:21.07|28:47.00|  
