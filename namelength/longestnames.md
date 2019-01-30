@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sun Jan 27 at 0008UTC*
+*Last updated using WCA Developer Export from Wed Jan 30 at 0108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -934,7 +934,8 @@
 |=|[Gonzalo Gabriel Gonzalez Pumalazo](https://www.worldcubeassociation.org/persons/2019PUMA01)|Peru|30|  
 |=|[Lucas Daniel Esteban Tobar Quezada](https://www.worldcubeassociation.org/persons/2019QUEZ01)|Chile|30|  
 |=|[Hyeonbin Kasidit Sirichanchaikul](https://www.worldcubeassociation.org/persons/2019SIRI01)|Australia|30|  
-|927|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
+|=|[Antonio Fernandes Carvalho Vecoso](https://www.worldcubeassociation.org/persons/2019VECO01)|Brazil|30|  
+|928|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
 |=|[Maria Josefina Razazi Fuenzalida](https://www.worldcubeassociation.org/persons/2009FUEN01)|Chile|29|  
 |=|[Umar Yunan Kurnia Septo Hediyanto](https://www.worldcubeassociation.org/persons/2009HEDI02)|Indonesia|29|  
 |=|[Mohammad Hassan Azri Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM02)|Malaysia|29|  
@@ -1007,4 +1008,3 @@
 |=|[Alana Gabriele Valverde Ferreira](https://www.worldcubeassociation.org/persons/2014FERR08)|Brazil|29|  
 |=|[Ricardo Emmanuel Olvera Gonzalez](https://www.worldcubeassociation.org/persons/2014GONZ04)|Mexico|29|  
 |=|[Herberth Jonathan Figueroa Guitz](https://www.worldcubeassociation.org/persons/2014GUIT02)|Guatemala|29|  
-|=|[Piero Giusseppe Gutierrez Guzmán](https://www.worldcubeassociation.org/persons/2014GUZM01)|Peru|29|  
