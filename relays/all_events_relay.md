@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Wed Jan 30 at 0108UTC*
+*Last updated using WCA Developer Export from Sat Feb 02 at 0209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -143,7 +143,7 @@
 |133|[José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01)|Colombia|**53:42.77**|1.78|7.16|1:19.02|1:33.27|14.16|34.80|13:22.00|1:13.48|28:01.00|2:25.95|3:35.52|10.48|44.09|3.47|2.59|14.00|  
 |134|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**53:48.20**|1.53|7.47|1:18.27|45.49|17.47|43.59|10:54.00|1:20.36|28:04.00|3:37.92|4:22.68|6.75|1:38.53|2.55|4.98|22.61|  
 |135|[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|USA|**54:00.09**|2.33|7.63|1:30.89|1:55.77|12.23|35.13|8:58.77|1:08.90|32:31.00|2:32.44|3:18.83|8.17|34.47|3.46|6.76|13.31|  
-|136|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|**54:07.87**|0.84|4.77|45.84|2:13.47|9.43|29.57|9:28.00|54.82|31:49.00|2:20.07|3:32.41|11.13|1:28.19|3.96|15.96|20.41|  
+|136|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|**54:07.02**|0.84|4.77|45.84|2:13.47|9.43|28.72|9:28.00|54.82|31:49.00|2:20.07|3:32.41|11.13|1:28.19|3.96|15.96|20.41|  
 |137|[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Japan|**54:14.99**|1.86|8.44|1:12.75|2:07.53|16.25|32.10|11:32.00|1:02.58|31:02.00|1:59.31|2:54.80|11.82|49.68|3.77|3.17|16.93|  
 |138|[Yikang Xie (谢轶康)](https://www.worldcubeassociation.org/persons/2016XIEY03)|China|**54:15.87**|6.09|18.03|1:22.23|1:44.96|48.52|1:09.97|8:29.26|2:17.84|24:54.00|4:08.78|5:34.89|23.04|2:08.05|10.44|12.07|27.70|  
 |139|[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|**54:28.57**|2.87|10.55|1:29.16|5:09.70|21.54|44.56|7:23.49|2:02.83|21:51.00|4:31.78|7:16.54|8.70|2:43.76|4.57|4.77|22.75|  
