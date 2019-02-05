@@ -1,6 +1,6 @@
 ## End of Year Stats for WCT
 
-*Last updated using WCA Developer Export from Sat Feb 02 at 0209UTC*
+*Last updated using WCA Developer Export from Tue Feb 05 at 0308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -31,15 +31,15 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT compCountryId) FROM
 |personId|personName|personCountryId|COUNT(DISTINCT compCountryId)|  
 |--|--|--|--|  
 |2013LINK01|Kaijun Lin (林恺俊)|China|6|  
-|2015CHEN49|Yucheng Chen (陈裕铖)|China|4|  
-|2009YINM01|Mulun Yin (阴目仑)|China|4|  
 |2014HEYO01|Young He (何嘉炀)|China|4|  
-|2018SHEN07|Mengfei Shen (沈梦非)|China|4|  
+|2009YINM01|Mulun Yin (阴目仑)|China|4|  
+|2015CHEN49|Yucheng Chen (陈裕铖)|China|4|  
 |2013ZHEN11|Yuyang Zhen (甄禹扬)|China|4|  
-|2010WANG53|Jiayu Wang (王佳宇)|China|3|  
-|2012QIUR01|Ruohan Qiu (邱若寒)|China|3|  
+|2018SHEN07|Mengfei Shen (沈梦非)|China|4|  
+|2014ZHAO12|Tianyu Zhao (赵天愉)|China|3|  
 |2013SUCH02|Chengming Su (苏成明)|China|3|  
 |2013WANG67|Xuming Wang (王旭明)|China|3|  
+|2017SHEN31|Yixiao Shen (沈逸霄)|China|3|  
 
 
 #	Most golds
@@ -96,7 +96,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 |2012QIUR01|Ruohan Qiu (邱若寒)|China|11|  
 |2015XION03|Max Xiong (熊锐明)|China|9|  
 |2013WANG69|Bo Wang (王擘)|China|9|  
-|2014SONG08|Zian Song (宋子安)|China|8|  
+|2013WANG67|Xuming Wang (王旭明)|China|8|  
 
 
 #	Most podiums
@@ -115,7 +115,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 |2013LINK01|Kaijun Lin (林恺俊)|China|38|  
 |2013FENG02|Zijia Feng (冯子甲)|China|37|  
 |2016ZHAO28|Junze Zhao (赵俊泽)|China|36|  
-|2015XION03|Max Xiong (熊锐明)|China|35|  
+|2016FANG01|Shenghai Fang (方胜海)|China|35|  
 
 
 #	Most competitions organized
@@ -164,15 +164,15 @@ SELECT cityName, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GRO
 |cityName|COUNT(*)|  
 |--|--|  
 |Beijing|6|  
-|Shanghai|5|  
 |Wuhan, Hubei|5|  
-|Guangzhou, Guangdong|3|  
+|Shanghai|5|  
 |Nanchang, Jiangxi|3|  
-|Zhongshan, Guangdong|2|  
-|Zhuhai, Guangdong|2|  
+|Guangzhou, Guangdong|3|  
 |Lanzhou, Gansu|2|  
 |Suzhou|2|  
 |Xi'an, Shaanxi|2|  
+|Xiamen, Fujian|2|  
+|Nanjing, Jiangsu|2|  
 
 
 #	Countries with the most competitions
@@ -220,7 +220,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE v
 |2017WANY29|Yifan Wang (王逸帆)|China|41|  
 |2010SHIX01|Xin Shi (石欣)|China|35|  
 |2009QIAO03|Zhi Qiao (乔智)|China|32|  
-|2008DONG06|Baiqiang Dong (董百强)|China|27|  
+|2014HANJ02|Jiachi Han (韩佳池)|China|27|  
 
 
 #	Most 3x3 Blindfolded successes in a row
@@ -257,8 +257,8 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT competitionId) FROM
 |2016FANG01|Shenghai Fang (方胜海)|China|25|  
 |2016FEIJ02|Jun Fei (费俊)|China|24|  
 |2014WANG22|Wenjing Wang (王文静)|China|24|  
-|2015KANY01|Yikuan Kan (阚亦宽)|China|24|  
 |2014CHEN08|Boxi Chen (陈博希)|China|24|  
+|2015KANY01|Yikuan Kan (阚亦宽)|China|24|  
 
 
 #	Potentially seen world records
@@ -271,13 +271,13 @@ SELECT pce.personId, pce.personName, pce.personCountryId, SUM(ce.WRs) FROM perso
 |2008DONG06|Baiqiang Dong (董百强)|China|10|  
 |2007YUNQ01|Yunqi Ouyang (欧阳韵奇)|China|10|  
 |2015CHEN49|Yucheng Chen (陈裕铖)|China|10|  
-|2012LIUY03|Yiwei Liu (刘伊玮)|China|9|  
 |2013FENG02|Zijia Feng (冯子甲)|China|9|  
-|2012PANJ02|Jiekang Pan (潘杰康)|China|8|  
+|2012LIUY03|Yiwei Liu (刘伊玮)|China|9|  
 |2011WANG33|Yi Wang (王旖)|China|8|  
-|2013ZHON04|Tairan Zhong (钟泰然)|China|7|  
-|2014WANG22|Wenjing Wang (王文静)|China|7|  
+|2012PANJ02|Jiekang Pan (潘杰康)|China|8|  
 |2014HANJ02|Jiachi Han (韩佳池)|China|7|  
+|2010WUYU02|Yulun Wu (吴宇伦)|China|7|  
+|2013LINK01|Kaijun Lin (林恺俊)|China|7|  
 
 
 #	New Platinum/Gold/Silver members
@@ -305,6 +305,7 @@ SELECT a.id, a.name, a.countryId, b.membership `2017`, a.membership `2018` FROM 
 |2016FANG01|Shenghai Fang (方胜海)|China|Silver|Bronze|  
 |2012SUNL03|Liudi Sun (孙柳笛)|China|None|Bronze|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|None|Bronze|  
+|2015XION03|Max Xiong (熊锐明)|China|None|Bronze|  
 |2016XUWE02|Wenjie Xu (徐文杰)|China|None|Bronze|  
 |2017WANY29|Yifan Wang (王逸帆)|China|None|Bronze|  
 
@@ -336,15 +337,15 @@ SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.P
 |id|name|countryId|MAX(pbStreak)|  
 |--|--|--|--|  
 |2017CHEN36|Xinyun Chen (陈新运)|China|21|  
-|2017WANY29|Yifan Wang (王逸帆)|China|18|  
 |2013LIZO01|Zongyang Li (李宗阳)|China|18|  
+|2017WANY29|Yifan Wang (王逸帆)|China|18|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|16|  
-|2011YUAN05|Lang Yuan (袁朗)|China|15|  
 |2016ZHUB01|Bodun Zhu (朱博楯)|China|15|  
+|2011YUAN05|Lang Yuan (袁朗)|China|15|  
+|2017MAZH04|Zhiyuan Ma (马之元)|China|14|  
 |2014XUDI01|Diwen Xu (许帝文)|China|14|  
 |2016FANG01|Shenghai Fang (方胜海)|China|14|  
 |2017LOUY01|Yunhao Lou (娄云皓)|China|14|  
-|2010WANG53|Jiayu Wang (王佳宇)|China|14|  
 
 
 #	Most PBs at a single competition
@@ -355,8 +356,8 @@ SELECT p.id, p.name, p.countryId, pbs.pbs, pbs.competitionId FROM competition_pb
 |id|name|countryId|pbs|competitionId|  
 |--|--|--|--|--|  
 |2018LIUL05|Lichao Liu (刘立超)|China|31|HangzhouOpen2018|  
-|2017MACH03|Chenhao Ma (马晨皓)|China|28|ChinaChampionship2018|  
 |2018FANG10|Weijie Fang (方伟杰)|China|28|GuangdongOpen2018|  
+|2017MACH03|Chenhao Ma (马晨皓)|China|28|ChinaChampionship2018|  
 |2018LIUJ06|Jiaqi Liu (刘家奇)|China|25|NanjingSpring2018|  
 |2016SHIK02|Kanting Shi (史勘霆)|China|25|NanjingSpring2018|  
 |2017FENG09|Yu Feng (冯煜)|China|25|ChinaChampionship2018|  
