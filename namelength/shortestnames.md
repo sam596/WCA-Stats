@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Tue Feb 05 at 0308UTC*
+*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -628,7 +628,8 @@
 |=|[Ao Liu (刘澳)](https://www.worldcubeassociation.org/persons/2019LIUA01)|China|5|  
 |=|[Yu Liu (刘聿)](https://www.worldcubeassociation.org/persons/2019LIUY01)|China|5|  
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
-|621|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|=|[Saien](https://www.worldcubeassociation.org/persons/2019SAIE01)|India|5|  
+|622|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Wei Shi (师玮)](https://www.worldcubeassociation.org/persons/2013SHIW01)|China|6|  
 |=|[Xi Song (宋喜)](https://www.worldcubeassociation.org/persons/2013SONG02)|China|6|  
 |=|[Bo Song (宋博)](https://www.worldcubeassociation.org/persons/2013SONG04)|China|6|  
-|=|[Yi Song (宋毅)](https://www.worldcubeassociation.org/persons/2013SONG14)|China|6|  
