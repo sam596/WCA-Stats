@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -114,6 +114,7 @@
 |[Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01)|Y|Y|N (3/4)|N|N|N (5/18)|  
 |[Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01)|Y|Y|N (3/4)|N|N|N (6/18)|  
 |[Jiawen Wu (吴嘉文)](https://www.worldcubeassociation.org/persons/2010WUJI01)|Y|Y|N (3/4)|N|N|N (5/18)|  
+|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Y|Y|N (3/4)|N|N|N (4/18)|  
 |[Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01)|Y|Y|N (3/4)|N|N|N (4/18)|  
 |[Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04)|Y|Y|N (3/4)|N|N|N (4/18)|  
 |[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|Y|Y|N (3/4)|N|N|N (4/18)|  
@@ -135,8 +136,8 @@
 |[Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01)|Y|Y|N (2/4)|N|N|N (15/18)|  
 |[Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01)|Y|Y|N (2/4)|N|N|N (14/18)|  
 |[Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06)|Y|Y|N (2/4)|N|N|N (13/18)|  
+|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|Y|Y|N (2/4)|N|N|N (12/18)|  
 |[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Y|Y|N (2/4)|N|N|N (12/18)|  
-|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|Y|Y|N (2/4)|N|N|N (11/18)|  
 |[Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24)|Y|Y|N (2/4)|N|N|N (10/18)|  
 |[Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02)|Y|Y|N (2/4)|N|N|N (11/18)|  
 |[José Antonio Navarro Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18)|Y|Y|N (2/4)|N|N|N (11/18)|  
@@ -256,7 +257,6 @@
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
 |[Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04)|N (17/18)|Y|N (3/4)|N|N|N (14/18)|  
-|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|N (17/18)|Y|N (3/4)|N|N|N (0/18)|  
 |[Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01)|N (17/18)|Y|N (2/4)|Y|N|N (5/18)|  
 |[Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01)|N (17/18)|Y|N (2/4)|Y|Y|N (14/18)|  
 |[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|N (17/18)|Y|N (2/4)|Y|N|N (12/18)|  
@@ -400,6 +400,7 @@
 |[Ian Drake](https://www.worldcubeassociation.org/persons/2017DRAK01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03)|N (17/18)|N (12/13)|N (0/4)|N|N|N (5/18)|  
 |[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|N (17/18)|N (12/13)|N (0/4)|N|N|N (1/18)|  
+|[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|N (17/18)|N (11/13)|Y|N|N|N (0/18)|  
 |[Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01)|N (17/18)|N (11/13)|N (2/4)|Y|Y|N (6/18)|  
 |[Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (9/18)|  
 |[Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (4/18)|  
@@ -407,13 +408,13 @@
 |[Deni Mintsaev](https://www.worldcubeassociation.org/persons/2013MINT01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (3/18)|  
 |[Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (3/18)|  
 |[Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02)|N (17/18)|N (11/13)|N (2/4)|N|N|N (2/18)|  
+|[Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (1/18)|  
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|N (17/18)|N (11/13)|N (1/4)|Y|Y|N (7/18)|  
 |[Eng Dickson](https://www.worldcubeassociation.org/persons/2016DICK03)|N (17/18)|N (11/13)|N (1/4)|N|N|N (3/18)|  
 |[Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01)|N (17/18)|N (11/13)|N (1/4)|N|N|N (0/18)|  
 |[M Aashrit Krishna Sankaran](https://www.worldcubeassociation.org/persons/2013MAHE02)|N (17/18)|N (11/13)|N (1/4)|N|N|N (2/18)|  
 |[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|N (17/18)|N (11/13)|N (1/4)|N|N|N (1/18)|  
 |[Yash Mehta](https://www.worldcubeassociation.org/persons/2015MEHT08)|N (17/18)|N (11/13)|N (1/4)|N|N|N (1/18)|  
-|[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|N (17/18)|N (10/13)|Y|N|N|N (0/18)|  
 |[Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01)|N (17/18)|N (10/13)|N (3/4)|Y|Y|N (4/18)|  
 |[Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04)|N (17/18)|N (10/13)|N (1/4)|N|N|N (3/18)|  
 |[Petr Michovský](https://www.worldcubeassociation.org/persons/2015MICH01)|N (17/18)|N (10/13)|N (1/4)|N|N|N (0/18)|  

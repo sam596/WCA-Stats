@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -245,16 +245,16 @@
 |235|[Marcos Rodriguez](https://www.worldcubeassociation.org/persons/2014RODR03)|Peru|9.04|10.77|  
 |=|[Rey-Ann Constantino](https://www.worldcubeassociation.org/persons/2012CONS02)|Philippines|9.04|10.77|  
 |=|[Anthony Camavilca](https://www.worldcubeassociation.org/persons/2016CAMA07)|Peru|9.07|10.77|  
+|=|[Vladimir Fedorov](https://www.worldcubeassociation.org/persons/2017FEDO13)|Russia|9.08|10.77|  
 |=|[Rama Temmink](https://www.worldcubeassociation.org/persons/2006TEMM01)|Netherlands|9.32|10.77|  
 |=|[Samuel Klingström](https://www.worldcubeassociation.org/persons/2012KLIN03)|Sweden|9.32|10.77|  
 |=|[Bogdan Tănăsescu](https://www.worldcubeassociation.org/persons/2012TANA04)|Romania|9.36|10.77|  
 |=|[Daniel Penilla Jiménez](https://www.worldcubeassociation.org/persons/2016JIME14)|Mexico|9.52|10.77|  
 |=|[Tariq Ali](https://www.worldcubeassociation.org/persons/2012ALIT01)|USA|9.62|10.77|  
 |=|[Isaac Sánchez Aguilar](https://www.worldcubeassociation.org/persons/2012AGUI02)|Mexico|10.34|10.77|  
-|244|[Kevin Montano](https://www.worldcubeassociation.org/persons/2011MONT02)|Italy|9.03|10.78|  
+|245|[Kevin Montano](https://www.worldcubeassociation.org/persons/2011MONT02)|Italy|9.03|10.78|  
 |=|[Sepehr Mahboob Jeddi (سپهر محبوب جدی)](https://www.worldcubeassociation.org/persons/2015JEDD01)|Iran|9.05|10.78|  
 |=|[Maxwell Landes](https://www.worldcubeassociation.org/persons/2008LAND01)|USA|9.13|10.78|  
 |=|[Hsuan Chang (張璿)](https://www.worldcubeassociation.org/persons/2008CHAN09)|Taiwan|9.14|10.78|  
 |=|[Luis Carlos Morales Zubia](https://www.worldcubeassociation.org/persons/2015ZUBI01)|Mexico|9.20|10.78|  
 |=|[Alexandre Ravel](https://www.worldcubeassociation.org/persons/2016RAVE02)|France|9.28|10.78|  
-|=|[Muhammad Fitri Hakim Bin Dzulkarnain](https://www.worldcubeassociation.org/persons/2017DZUL02)|Malaysia|9.30|10.78|  

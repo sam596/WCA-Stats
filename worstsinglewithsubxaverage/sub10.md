@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -83,15 +83,15 @@
 |73|[Alfonso Esteban Cepeda Cádiz](https://www.worldcubeassociation.org/persons/2017CADI02)|Chile|9.74|8.57|  
 |74|[Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01)|Romania|9.86|8.57|  
 |75|[Trang Bảo Minh](https://www.worldcubeassociation.org/persons/2017MINH58)|Vietnam|9.55|8.57|  
-|76|[Kounosuke Udou (有働幸之助)](https://www.worldcubeassociation.org/persons/2012UDOU01)|Japan|9.94|8.56|  
-|77|[Yiting Chen (陈怡廷)](https://www.worldcubeassociation.org/persons/2017CHEY18)|China|9.62|8.56|  
-|78|[Yunzhe Jia (贾云哲)](https://www.worldcubeassociation.org/persons/2017JIAY05)|China|9.77|8.56|  
-|79|[Sang Uk Park (박상욱)](https://www.worldcubeassociation.org/persons/2015PARK18)|Korea|9.63|8.55|  
-|80|[Aditya Ghidora](https://www.worldcubeassociation.org/persons/2015GHID01)|India|9.53|8.54|  
-|81|[Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01)|Netherlands|9.81|8.53|  
-|82|[Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01)|Tunisia|9.60|8.52|  
-|83|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|9.76|8.51|  
-|84|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|9.64|8.51|  
+|76|[Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01)|Russia|9.75|8.56|  
+|77|[Kounosuke Udou (有働幸之助)](https://www.worldcubeassociation.org/persons/2012UDOU01)|Japan|9.94|8.56|  
+|78|[Yiting Chen (陈怡廷)](https://www.worldcubeassociation.org/persons/2017CHEY18)|China|9.62|8.56|  
+|79|[Yunzhe Jia (贾云哲)](https://www.worldcubeassociation.org/persons/2017JIAY05)|China|9.77|8.56|  
+|80|[Sang Uk Park (박상욱)](https://www.worldcubeassociation.org/persons/2015PARK18)|Korea|9.63|8.55|  
+|81|[Aditya Ghidora](https://www.worldcubeassociation.org/persons/2015GHID01)|India|9.53|8.54|  
+|82|[Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01)|Netherlands|9.81|8.53|  
+|83|[Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01)|Tunisia|9.60|8.52|  
+|84|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|9.76|8.51|  
 |85|[Vu Nguyen](https://www.worldcubeassociation.org/persons/2015NGUY11)|USA|9.94|8.51|  
 |86|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|9.57|8.50|  
 |87|[Đorđe Vuković](https://www.worldcubeassociation.org/persons/2016VUKO01)|Serbia|9.59|8.50|  
@@ -227,7 +227,7 @@
 |217|[Yeon Kyun Park](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|9.85|8.16|  
 |218|[Andy Tsao](https://www.worldcubeassociation.org/persons/2006TSAO01)|USA|9.27|8.15|  
 |219|[Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01)|Korea|8.47|8.15|  
-|220|[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|9.99|8.15|  
+|220|[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|9.82|8.15|  
 |221|[Lorenzo Layug](https://www.worldcubeassociation.org/persons/2016LAYU01)|Philippines|9.81|8.15|  
 |222|[Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05)|USA|9.93|8.15|  
 |223|[Walter Dominguez Giron](https://www.worldcubeassociation.org/persons/2015GIRO02)|Peru|9.90|8.15|  

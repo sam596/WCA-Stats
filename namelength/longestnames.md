@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -807,7 +807,7 @@
 |=|[Jaafar Hayder Noori Al-Ulsaed Essa](https://www.worldcubeassociation.org/persons/2017ESSA01)|Iraq|30|  
 |=|[João Gabriel Cavalcante Fernandes](https://www.worldcubeassociation.org/persons/2017FERN16)|Brazil|30|  
 |=|[Ruben Uriel López Portillo Galaviz](https://www.worldcubeassociation.org/persons/2017GALA05)|Mexico|30|  
-|=|[Luis Gabriel D´marco Mendoza Gómez](https://www.worldcubeassociation.org/persons/2017GOME12)|Guatemala|30|  
+|=|[Luis Gabriel D'marco Mendoza Gómez](https://www.worldcubeassociation.org/persons/2017GOME12)|Guatemala|30|  
 |=|[Marco Antonio Raúl Madrid Gonzales](https://www.worldcubeassociation.org/persons/2017GONZ27)|Peru|30|  
 |=|[Fabian Emiliano Escareño Gonzalez](https://www.worldcubeassociation.org/persons/2017GONZ35)|Mexico|30|  
 |=|[Christian Albert Hasiholan Gultom](https://www.worldcubeassociation.org/persons/2017GULT01)|Indonesia|30|  

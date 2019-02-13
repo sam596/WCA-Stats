@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -49,32 +49,32 @@
 |=|[Nathanael Tung Wei An](https://www.worldcubeassociation.org/persons/2016ANNA01)|Singapore|8.09|8.55|  
 |40|[Xuming Wang (王旭明)](https://www.worldcubeassociation.org/persons/2013WANG67)|China|7.21|8.56|  
 |41|[Sakib Ibn Rashid Rhivu](https://www.worldcubeassociation.org/persons/2017RHIV01)|Bangladesh|7.18|8.57|  
-|42|[Kunal Oak](https://www.worldcubeassociation.org/persons/2015OAKK01)|India|7.05|8.59|  
+|42|[Florian Truckenthanner](https://www.worldcubeassociation.org/persons/2013TRUC01)|Austria|7.88|8.58|  
+|43|[Kunal Oak](https://www.worldcubeassociation.org/persons/2015OAKK01)|India|7.05|8.59|  
 |=|[Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01)|Canada|7.21|8.59|  
 |=|[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|Indonesia|7.30|8.59|  
 |=|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|7.64|8.59|  
-|46|[Daniil Lee](https://www.worldcubeassociation.org/persons/2010LEED02)|Russia|7.11|8.60|  
+|47|[Daniil Lee](https://www.worldcubeassociation.org/persons/2010LEED02)|Russia|7.11|8.60|  
 |=|[Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05)|Hong Kong|7.44|8.60|  
 |=|[Teo Kai Xiang](https://www.worldcubeassociation.org/persons/2009XIAN01)|Singapore|7.51|8.60|  
-|49|[Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01)|USA|7.05|8.61|  
+|50|[Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01)|USA|7.05|8.61|  
 |=|[Connor Kempf](https://www.worldcubeassociation.org/persons/2015KEMP02)|USA|7.22|8.61|  
 |=|[Moshi Tang](https://www.worldcubeassociation.org/persons/2016TANG01)|USA|7.43|8.61|  
-|52|[Adhemar Mizushima](https://www.worldcubeassociation.org/persons/2015MIZU01)|Bolivia|7.18|8.62|  
+|53|[Adhemar Mizushima](https://www.worldcubeassociation.org/persons/2015MIZU01)|Bolivia|7.18|8.62|  
 |=|[Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08)|Canada|7.51|8.62|  
 |=|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|7.76|8.62|  
-|55|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|Argentina|7.24|8.63|  
+|56|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|Argentina|7.24|8.63|  
 |=|[Hsiang-kuang Zhuang](https://www.worldcubeassociation.org/persons/2015ZHUA02)|Taiwan|7.57|8.63|  
-|57|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|7.15|8.64|  
+|58|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|7.15|8.64|  
 |=|[Ruihang Xu (许瑞航)](https://www.worldcubeassociation.org/persons/2017XURU04)|China|7.15|8.64|  
 |=|[Jimeng Guo (郭冀蒙)](https://www.worldcubeassociation.org/persons/2016GUOJ02)|China|7.45|8.64|  
 |=|[Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01)|Singapore|7.65|8.64|  
-|61|[Peter Nielsen](https://www.worldcubeassociation.org/persons/2016NIEL01)|Denmark|7.53|8.65|  
-|62|[Holden Moritz](https://www.worldcubeassociation.org/persons/2017MORI01)|USA|7.20|8.66|  
+|62|[Peter Nielsen](https://www.worldcubeassociation.org/persons/2016NIEL01)|Denmark|7.53|8.65|  
+|63|[Holden Moritz](https://www.worldcubeassociation.org/persons/2017MORI01)|USA|7.20|8.66|  
 |=|[Jonathan Chng](https://www.worldcubeassociation.org/persons/2015CHNG01)|Singapore|7.22|8.66|  
 |=|[Jackson DeVico](https://www.worldcubeassociation.org/persons/2015DEVI02)|USA|7.38|8.66|  
 |=|[Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01)|Argentina|7.63|8.66|  
-|66|[Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04)|United Kingdom|7.10|8.67|  
-|=|[Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|7.17|8.67|  
+|67|[Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|7.17|8.67|  
 |=|[Thanaporn Sichanugrist (ธนพร สิชฌนุกฤษฎ์)](https://www.worldcubeassociation.org/persons/2010SICH01)|Thailand|7.33|8.67|  
 |=|[Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01)|USA|7.40|8.67|  
 |=|[Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01)|Philippines|7.43|8.67|  

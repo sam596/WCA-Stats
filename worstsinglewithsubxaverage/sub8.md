@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Feb 11 at 0509UTC*
+*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -139,7 +139,7 @@
 |129|[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|7.67|5.37|  
 |130|[Mykyta Tytar (Микита Титарь)](https://www.worldcubeassociation.org/persons/2014TYTA02)|Ukraine|7.92|5.34|  
 |131|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|7.23|5.34|  
-|132|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|7.63|5.33|  
+|132|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|7.22|5.33|  
 |133|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|7.55|5.31|  
 |134|[Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01)|USA|7.38|5.25|  
 |135|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|7.05|5.24|  
