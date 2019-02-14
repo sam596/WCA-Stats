@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
+*Last updated using WCA Developer Export from Thu Feb 14 at 0608UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -27,4 +27,4 @@
 |[Madhav Singh](https://www.worldcubeassociation.org/persons/2016SING27)|India|2017-09-01|[SCMU2017 - First round](https://www.worldcubeassociation.org/competitions/SCMU2017/results/all#eskewb_1)|[SCMU2017 - Second round](https://www.worldcubeassociation.org/competitions/SCMU2017/results/all#eskewb_2)|0|  
 |[Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01)|India|2017-09-01|[SCMU2017 - Second round](https://www.worldcubeassociation.org/competitions/SCMU2017/results/all#eskewb_2)|[IndianNationals2018 - Second round](https://www.worldcubeassociation.org/competitions/IndianNationals2018/results/all#eskewb_2)|266|  
 |[Paarth Arora](https://www.worldcubeassociation.org/persons/2014AROR06)|India|2018-05-25|[IndianNationals2018 - Second round](https://www.worldcubeassociation.org/competitions/IndianNationals2018/results/all#eskewb_2)|[IndianNationals2018 - Final](https://www.worldcubeassociation.org/competitions/IndianNationals2018/results/all#eskewb_f)|0|  
-|[Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01)|India|2018-05-25|[IndianNationals2018 - Final](https://www.worldcubeassociation.org/competitions/IndianNationals2018/results/all#eskewb_f)|Ongoing|262|  
+|[Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01)|India|2018-05-25|[IndianNationals2018 - Final](https://www.worldcubeassociation.org/competitions/IndianNationals2018/results/all#eskewb_f)|Ongoing|263|  

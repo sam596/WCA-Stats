@@ -1,6 +1,6 @@
 ## End of Year Stats for WCT
 
-*Last updated using WCA Developer Export from Wed Feb 13 at 0159UTC*
+*Last updated using WCA Developer Export from Thu Feb 14 at 0608UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -88,15 +88,15 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 |personId|personName|personCountryId|COUNT(*)|  
 |--|--|--|--|  
 |2007YUNQ01|Yunqi Ouyang (欧阳韵奇)|China|19|  
+|2011CAOS01|Sheng Cao (曹晟)|China|18|  
 |2015DUYU01|Yusheng Du (杜宇生)|China|18|  
 |2010WANG53|Jiayu Wang (王佳宇)|China|18|  
-|2011CAOS01|Sheng Cao (曹晟)|China|18|  
 |2010WANG07|Yinghao Wang (王鹰豪)|China|14|  
 |2016ZHAO28|Junze Zhao (赵俊泽)|China|12|  
 |2012QIUR01|Ruohan Qiu (邱若寒)|China|11|  
-|2015XION03|Max Xiong (熊锐明)|China|9|  
 |2013WANG69|Bo Wang (王擘)|China|9|  
-|2012LIUY03|Yiwei Liu (刘伊玮)|China|8|  
+|2015XION03|Max Xiong (熊锐明)|China|9|  
+|2015LIUZ07|Zixuan Liu (刘子瑄)|China|8|  
 
 
 #	Most podiums
@@ -220,7 +220,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE v
 |2017WANY29|Yifan Wang (王逸帆)|China|41|  
 |2010SHIX01|Xin Shi (石欣)|China|35|  
 |2009QIAO03|Zhi Qiao (乔智)|China|32|  
-|2014HANJ02|Jiachi Han (韩佳池)|China|27|  
+|2008DONG06|Baiqiang Dong (董百强)|China|27|  
 
 
 #	Most 3x3 Blindfolded successes in a row
@@ -233,13 +233,13 @@ SET @a = 0, @p = ''; SELECT personId, personName, personCountryId, MAX(streak) F
 |2015KANY01|Yikuan Kan (阚亦宽)|China|16|  
 |2017ZHOU44|Yumeng Zhou (周雨萌)|China|14|  
 |2015CHEN49|Yucheng Chen (陈裕铖)|China|14|  
-|2012LIYA01|Yang Li (李扬)|China|11|  
 |2017SHIM06|Minyang Shi (时旻扬)|China|11|  
+|2012LIYA01|Yang Li (李扬)|China|11|  
 |2012LIUY03|Yiwei Liu (刘伊玮)|China|10|  
 |2013LINK01|Kaijun Lin (林恺俊)|China|10|  
 |2016FANG01|Shenghai Fang (方胜海)|China|9|  
-|2013ZHAN41|Lanshi Zhang (张岚石)|China|8|  
 |2013TANG07|Feilong Tang (唐飞龙)|China|8|  
+|2018SHEN07|Mengfei Shen (沈梦非)|China|8|  
 
 
 #	Most competitions competed in 
@@ -255,10 +255,10 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT competitionId) FROM
 |2013WANG67|Xuming Wang (王旭明)|China|28|  
 |2008DONG06|Baiqiang Dong (董百强)|China|26|  
 |2016FANG01|Shenghai Fang (方胜海)|China|25|  
-|2016FEIJ02|Jun Fei (费俊)|China|24|  
-|2014WANG22|Wenjing Wang (王文静)|China|24|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|24|  
 |2014CHEN08|Boxi Chen (陈博希)|China|24|  
+|2016FEIJ02|Jun Fei (费俊)|China|24|  
+|2014WANG22|Wenjing Wang (王文静)|China|24|  
 
 
 #	Potentially seen world records
@@ -271,13 +271,13 @@ SELECT pce.personId, pce.personName, pce.personCountryId, SUM(ce.WRs) FROM perso
 |2008DONG06|Baiqiang Dong (董百强)|China|10|  
 |2007YUNQ01|Yunqi Ouyang (欧阳韵奇)|China|10|  
 |2015CHEN49|Yucheng Chen (陈裕铖)|China|10|  
-|2012LIUY03|Yiwei Liu (刘伊玮)|China|9|  
 |2013FENG02|Zijia Feng (冯子甲)|China|9|  
+|2012LIUY03|Yiwei Liu (刘伊玮)|China|9|  
 |2012PANJ02|Jiekang Pan (潘杰康)|China|8|  
 |2011WANG33|Yi Wang (王旖)|China|8|  
-|2013ZHON04|Tairan Zhong (钟泰然)|China|7|  
+|2013LINK01|Kaijun Lin (林恺俊)|China|7|  
+|2012ZHAN08|Anyu Zhang (张安宇)|China|7|  
 |2014WANG22|Wenjing Wang (王文静)|China|7|  
-|2010WUYU02|Yulun Wu (吴宇伦)|China|7|  
 
 
 #	New Platinum/Gold/Silver members
@@ -337,8 +337,8 @@ SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.P
 |id|name|countryId|MAX(pbStreak)|  
 |--|--|--|--|  
 |2017CHEN36|Xinyun Chen (陈新运)|China|21|  
-|2017WANY29|Yifan Wang (王逸帆)|China|18|  
 |2013LIZO01|Zongyang Li (李宗阳)|China|18|  
+|2017WANY29|Yifan Wang (王逸帆)|China|18|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|16|  
 |2016ZHUB01|Bodun Zhu (朱博楯)|China|15|  
 |2011YUAN05|Lang Yuan (袁朗)|China|15|  
@@ -356,8 +356,8 @@ SELECT p.id, p.name, p.countryId, pbs.pbs, pbs.competitionId FROM competition_pb
 |id|name|countryId|pbs|competitionId|  
 |--|--|--|--|--|  
 |2018LIUL05|Lichao Liu (刘立超)|China|31|HangzhouOpen2018|  
-|2018FANG10|Weijie Fang (方伟杰)|China|28|GuangdongOpen2018|  
 |2017MACH03|Chenhao Ma (马晨皓)|China|28|ChinaChampionship2018|  
+|2018FANG10|Weijie Fang (方伟杰)|China|28|GuangdongOpen2018|  
 |2018LIUJ06|Jiaqi Liu (刘家奇)|China|25|NanjingSpring2018|  
 |2016SHIK02|Kanting Shi (史勘霆)|China|25|NanjingSpring2018|  
 |2017FENG09|Yu Feng (冯煜)|China|25|ChinaChampionship2018|  
