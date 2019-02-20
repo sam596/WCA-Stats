@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Sun Feb 17 at 0708UTC*
+*Last updated using WCA Developer Export from Wed Feb 20 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -208,7 +208,7 @@
 |197|[TorneoNacionalColombia2016](https://www.worldcubeassociation.org/competitions/TorneoNacionalColombia2016)|Colombia|00:44:39.81|  
 |198|[SwedishChampionship2015](https://www.worldcubeassociation.org/competitions/SwedishChampionship2015)|Sweden|00:44:57.83|  
 |199|[BeijingOpen2015](https://www.worldcubeassociation.org/competitions/BeijingOpen2015)|China|00:45:46.06|  
-|200|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:47:00.67|  
+|200|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:47:02.46|  
 |201|[HefeiSpring2014](https://www.worldcubeassociation.org/competitions/HefeiSpring2014)|China|00:47:05.66|  
 |202|[SingaporeOpen2016](https://www.worldcubeassociation.org/competitions/SingaporeOpen2016)|Singapore|00:47:10.41|  
 |203|[DanishOpen2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014)|Denmark|00:49:17.81|  

@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Sun Feb 17 at 0708UTC*
+*Last updated using WCA Developer Export from Wed Feb 20 at 0808UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -125,8 +125,8 @@
 |114|[BrnoOpen2018](https://www.worldcubeassociation.org/competitions/BrnoOpen2018)|Czech Republic|00:08:51.33|  
 |115|[Cubelonia2017](https://www.worldcubeassociation.org/competitions/Cubelonia2017)|Germany|00:08:52.27|  
 |116|[SCMU2017](https://www.worldcubeassociation.org/competitions/SCMU2017)|India|00:08:53.36|  
-|117|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:08:53.80|  
-|118|[KansaiOpen2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018)|Japan|00:08:54.53|  
+|117|[KansaiOpen2018](https://www.worldcubeassociation.org/competitions/KansaiOpen2018)|Japan|00:08:54.53|  
+|118|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:08:55.59|  
 |119|[DallasFortWorth2018](https://www.worldcubeassociation.org/competitions/DallasFortWorth2018)|USA|00:08:56.31|  
 |120|[Ark2018](https://www.worldcubeassociation.org/competitions/Ark2018)|Finland|00:08:56.39|  
 |121|[GermanNationals2016](https://www.worldcubeassociation.org/competitions/GermanNationals2016)|Germany|00:08:56.52|  
