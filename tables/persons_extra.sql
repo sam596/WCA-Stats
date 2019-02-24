@@ -110,7 +110,7 @@ CREATE TABLE persons_extra
         COUNT(DISTINCT (CASE WHEN personCountryId != compCountryId AND compCountryId NOT LIKE 'X_' THEN competitionId END)) `foreignCountryComps`, 
         COUNT(DISTINCT (CASE WHEN eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAttempted`, 
         COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsSucceeded`,
-        COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic') THEN eventId END)) `eventsAverage`,
+        COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('444bf','555bf','333mbo','magic','mmagic') THEN eventId END)) `eventsAverage`,
         COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('333mbo','magic','mmagic','333bf','444bf','555bf','333mbf','333fm') THEN eventId END)) `speedsolvingEventsAverage`,
         COUNT(DISTINCT (CASE WHEN average > 0 AND eventId IN ('333bf','444bf','555bf','333fm') THEN eventId END)) `bldfmcEventsAverage`,
         COUNT(CASE WHEN roundTypeId IN ('c','f') THEN 1 END) `finals`,
