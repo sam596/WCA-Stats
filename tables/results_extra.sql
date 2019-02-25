@@ -47,7 +47,8 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.value4,
   	r.value5,
   	@date := DATE(CONCAT(year, '-', month, '-', day)) date,
- 	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend
+ 	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend,
+  @weeksago := FLOOR(DATEDIFF(DATE_SUB(CURDATE(), INTERVAL (DAYOFWEEK(CURDATE()) + 2) % 7 DAY),@weekend)/7) weeksAgo
   FROM 
   	wca_dev.results r
   JOIN 
