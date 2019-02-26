@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Sat Feb 23 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -286,7 +286,7 @@
 |276|[Mateusz Bytner](https://www.worldcubeassociation.org/persons/2014BYTN01)|Poland|13.61|  
 |=|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|13.61|  
 |278|[Jakub Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE02)|Poland|13.62|  
-|=|[Yeon Kyun Park](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|13.62|  
+|=|[Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|13.62|  
 |280|[Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06)|Korea|13.64|  
 |=|[Bruno Kurdybowicz](https://www.worldcubeassociation.org/persons/2014KURD01)|Poland|13.64|  
 |=|[Wen-Ching Hsu (徐文清)](https://www.worldcubeassociation.org/persons/2015HSUW01)|Taiwan|13.64|  

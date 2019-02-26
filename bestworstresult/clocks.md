@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Sat Feb 23 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -442,7 +442,7 @@
 |432|[Stanisław Ozga](https://www.worldcubeassociation.org/persons/2015OZGA01)|Poland|18.65|  
 |=|[Yerammy Sebastián Ponce España](https://www.worldcubeassociation.org/persons/2017ESPA01)|Ecuador|18.65|  
 |434|[Szabolcs Obriton](https://www.worldcubeassociation.org/persons/2008OBRI01)|Hungary|18.66|  
-|435|[Yeon Kyun Park](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|18.67|  
+|435|[Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|18.67|  
 |436|[Mingxuan Ni (倪铭轩)](https://www.worldcubeassociation.org/persons/2016NIMI01)|China|18.68|  
 |=|[Kanting Shi (史勘霆)](https://www.worldcubeassociation.org/persons/2016SHIK02)|China|18.68|  
 |438|[Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01)|Russia|18.77|  

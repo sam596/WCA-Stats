@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Sat Feb 23 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -239,6 +239,7 @@
 |[Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02)|Y|N (12/13)|N (3/4)|N|N|N (5/18)|  
 |[Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13)|Y|N (12/13)|N (3/4)|N|N|N (3/18)|  
 |[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Y|N (12/13)|N (2/4)|N|N|N (9/18)|  
+|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Y|N (12/13)|N (2/4)|N|N|N (6/18)|  
 |[Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03)|Y|N (12/13)|N (2/4)|N|N|N (5/18)|  
 |[Anton Krokhmal (Антон Крохмаль)](https://www.worldcubeassociation.org/persons/2012KROK01)|Y|N (12/13)|N (2/4)|N|N|N (5/18)|  
 |[Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02)|Y|N (12/13)|N (2/4)|N|N|N (4/18)|  
@@ -398,6 +399,7 @@
 |[Jae Hyun Jeong](https://www.worldcubeassociation.org/persons/2016JEON02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (2/18)|  
 |[Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94)|N (17/18)|N (12/13)|N (1/4)|N|N|N (2/18)|  
 |[Péter Trombitás](https://www.worldcubeassociation.org/persons/2008TROM01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (1/18)|  
+|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Ian Drake](https://www.worldcubeassociation.org/persons/2017DRAK01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03)|N (17/18)|N (12/13)|N (0/4)|N|N|N (5/18)|  

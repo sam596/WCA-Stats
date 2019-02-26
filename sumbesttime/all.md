@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Sat Feb 23 at 0908UTC*
+*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -192,43 +192,44 @@
 |181|[XianCherryBlossom2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015)|China|00:36:03.94|  
 |182|[UkrainianNationals2016](https://www.worldcubeassociation.org/competitions/UkrainianNationals2016)|Ukraine|00:36:28.34|  
 |183|[NorwegianChampionship2016](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2016)|Norway|00:36:41.05|  
-|184|[ChojniceOpen2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014)|Poland|00:37:15.29|  
-|185|[SwedishChampionship2014](https://www.worldcubeassociation.org/competitions/SwedishChampionship2014)|Sweden|00:37:15.58|  
-|186|[SLSZawiercie2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017)|Poland|00:37:22.36|  
-|187|[KaliskaOpen2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015)|Poland|00:37:38.38|  
-|188|[PoliMiItalianOpen2014](https://www.worldcubeassociation.org/competitions/PoliMiItalianOpen2014)|Italy|00:37:44.82|  
-|189|[FinnishChampionship2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017)|Finland|00:38:32.54|  
-|190|[MariupolOpen2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018)|Ukraine|00:41:02.85|  
-|191|[IndianNationals2016](https://www.worldcubeassociation.org/competitions/IndianNationals2016)|India|00:41:43.11|  
-|192|[DFWCubingFiestaAugust2018](https://www.worldcubeassociation.org/competitions/DFWCubingFiestaAugust2018)|USA|00:42:17.79|  
-|193|[MalaysiaCubeOpen2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|Malaysia|00:43:13.31|  
-|194|[KansaiOpen2014](https://www.worldcubeassociation.org/competitions/KansaiOpen2014)|Japan|00:43:27.85|  
-|195|[AsianChampionship2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014)|Japan|00:43:48.04|  
-|196|[UkrainianNationals2018](https://www.worldcubeassociation.org/competitions/UkrainianNationals2018)|Ukraine|00:43:52.74|  
-|197|[TorneoNacionalColombia2016](https://www.worldcubeassociation.org/competitions/TorneoNacionalColombia2016)|Colombia|00:44:39.81|  
-|198|[SwedishChampionship2015](https://www.worldcubeassociation.org/competitions/SwedishChampionship2015)|Sweden|00:44:57.83|  
-|199|[BeijingOpen2015](https://www.worldcubeassociation.org/competitions/BeijingOpen2015)|China|00:45:46.06|  
-|200|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:47:02.46|  
-|201|[HefeiSpring2014](https://www.worldcubeassociation.org/competitions/HefeiSpring2014)|China|00:47:05.66|  
-|202|[SingaporeOpen2016](https://www.worldcubeassociation.org/competitions/SingaporeOpen2016)|Singapore|00:47:10.41|  
-|203|[DanishOpen2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014)|Denmark|00:49:17.81|  
-|204|[SingaporeOpen2014](https://www.worldcubeassociation.org/competitions/SingaporeOpen2014)|Singapore|00:50:29.96|  
-|205|[ColoradoQualifier2018](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2018)|USA|00:50:38.24|  
-|206|[TaiwanSummerOpen2014](https://www.worldcubeassociation.org/competitions/TaiwanSummerOpen2014)|Taiwan|00:51:18.88|  
-|207|[ElEscorialOpen2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016)|Spain|00:52:27.07|  
-|208|[OktoberBrest2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014)|Belarus|00:52:32.51|  
-|209|[QuijoteOpen2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016)|Spain|00:53:23.09|  
-|210|[RebildOpen2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014)|Denmark|00:54:17.51|  
-|211|[SCMU2015](https://www.worldcubeassociation.org/competitions/SCMU2015)|India|00:55:06.32|  
-|212|[LesSantesOpen2014](https://www.worldcubeassociation.org/competitions/LesSantesOpen2014)|Spain|00:57:08.17|  
-|213|[LatvianOpen2018](https://www.worldcubeassociation.org/competitions/LatvianOpen2018)|Latvia|00:57:35.62|  
-|214|[ColombiaNationals2018](https://www.worldcubeassociation.org/competitions/ColombiaNationals2018)|Colombia|00:59:44.11|  
-|215|[SpanishChampionship2014](https://www.worldcubeassociation.org/competitions/SpanishChampionship2014)|Spain|00:59:50.37|  
-|216|[UkrainianNationals2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017)|Ukraine|01:00:17.58|  
-|217|[Brasileiro2017](https://www.worldcubeassociation.org/competitions/Brasileiro2017)|Brazil|01:02:07.76|  
-|218|[CastellonOpen2014](https://www.worldcubeassociation.org/competitions/CastellonOpen2014)|Spain|01:02:26.13|  
-|219|[SpanishChampionship2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015)|Spain|01:02:26.16|  
-|220|[BSTUOpen2015](https://www.worldcubeassociation.org/competitions/BSTUOpen2015)|Belarus|01:05:30.75|  
-|221|[KharkivWinter2014](https://www.worldcubeassociation.org/competitions/KharkivWinter2014)|Ukraine|01:07:01.34|  
-|222|[PhilippineChampionship2016](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2016)|Philippines|01:11:07.44|  
-|223|[KalmykiaOpen2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018)|Russia|01:17:03.69|  
+|184|[OsijekOpen2019](https://www.worldcubeassociation.org/competitions/OsijekOpen2019)|Croatia|00:37:13.86|  
+|185|[ChojniceOpen2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014)|Poland|00:37:15.29|  
+|186|[SwedishChampionship2014](https://www.worldcubeassociation.org/competitions/SwedishChampionship2014)|Sweden|00:37:15.58|  
+|187|[SLSZawiercie2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017)|Poland|00:37:22.36|  
+|188|[KaliskaOpen2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015)|Poland|00:37:38.38|  
+|189|[PoliMiItalianOpen2014](https://www.worldcubeassociation.org/competitions/PoliMiItalianOpen2014)|Italy|00:37:44.82|  
+|190|[FinnishChampionship2017](https://www.worldcubeassociation.org/competitions/FinnishChampionship2017)|Finland|00:38:32.54|  
+|191|[MariupolOpen2018](https://www.worldcubeassociation.org/competitions/MariupolOpen2018)|Ukraine|00:41:02.85|  
+|192|[IndianNationals2016](https://www.worldcubeassociation.org/competitions/IndianNationals2016)|India|00:41:43.11|  
+|193|[DFWCubingFiestaAugust2018](https://www.worldcubeassociation.org/competitions/DFWCubingFiestaAugust2018)|USA|00:42:17.79|  
+|194|[MalaysiaCubeOpen2017](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2017)|Malaysia|00:43:13.31|  
+|195|[KansaiOpen2014](https://www.worldcubeassociation.org/competitions/KansaiOpen2014)|Japan|00:43:27.85|  
+|196|[AsianChampionship2014](https://www.worldcubeassociation.org/competitions/AsianChampionship2014)|Japan|00:43:48.04|  
+|197|[UkrainianNationals2018](https://www.worldcubeassociation.org/competitions/UkrainianNationals2018)|Ukraine|00:43:52.74|  
+|198|[TorneoNacionalColombia2016](https://www.worldcubeassociation.org/competitions/TorneoNacionalColombia2016)|Colombia|00:44:39.81|  
+|199|[SwedishChampionship2015](https://www.worldcubeassociation.org/competitions/SwedishChampionship2015)|Sweden|00:44:57.83|  
+|200|[BeijingOpen2015](https://www.worldcubeassociation.org/competitions/BeijingOpen2015)|China|00:45:46.06|  
+|201|[MedanLunarNewYear2019](https://www.worldcubeassociation.org/competitions/MedanLunarNewYear2019)|Indonesia|00:47:02.46|  
+|202|[HefeiSpring2014](https://www.worldcubeassociation.org/competitions/HefeiSpring2014)|China|00:47:05.66|  
+|203|[SingaporeOpen2016](https://www.worldcubeassociation.org/competitions/SingaporeOpen2016)|Singapore|00:47:10.41|  
+|204|[DanishOpen2014](https://www.worldcubeassociation.org/competitions/DanishOpen2014)|Denmark|00:49:17.81|  
+|205|[SingaporeOpen2014](https://www.worldcubeassociation.org/competitions/SingaporeOpen2014)|Singapore|00:50:29.96|  
+|206|[ColoradoQualifier2018](https://www.worldcubeassociation.org/competitions/ColoradoQualifier2018)|USA|00:50:38.24|  
+|207|[TaiwanSummerOpen2014](https://www.worldcubeassociation.org/competitions/TaiwanSummerOpen2014)|Taiwan|00:51:18.88|  
+|208|[ElEscorialOpen2016](https://www.worldcubeassociation.org/competitions/ElEscorialOpen2016)|Spain|00:52:27.07|  
+|209|[OktoberBrest2014](https://www.worldcubeassociation.org/competitions/OktoberBrest2014)|Belarus|00:52:32.51|  
+|210|[QuijoteOpen2016](https://www.worldcubeassociation.org/competitions/QuijoteOpen2016)|Spain|00:53:23.09|  
+|211|[RebildOpen2014](https://www.worldcubeassociation.org/competitions/RebildOpen2014)|Denmark|00:54:17.51|  
+|212|[SCMU2015](https://www.worldcubeassociation.org/competitions/SCMU2015)|India|00:55:06.32|  
+|213|[LesSantesOpen2014](https://www.worldcubeassociation.org/competitions/LesSantesOpen2014)|Spain|00:57:08.17|  
+|214|[LatvianOpen2018](https://www.worldcubeassociation.org/competitions/LatvianOpen2018)|Latvia|00:57:35.62|  
+|215|[ColombiaNationals2018](https://www.worldcubeassociation.org/competitions/ColombiaNationals2018)|Colombia|00:59:44.11|  
+|216|[SpanishChampionship2014](https://www.worldcubeassociation.org/competitions/SpanishChampionship2014)|Spain|00:59:50.37|  
+|217|[UkrainianNationals2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017)|Ukraine|01:00:17.58|  
+|218|[Brasileiro2017](https://www.worldcubeassociation.org/competitions/Brasileiro2017)|Brazil|01:02:07.76|  
+|219|[CastellonOpen2014](https://www.worldcubeassociation.org/competitions/CastellonOpen2014)|Spain|01:02:26.13|  
+|220|[SpanishChampionship2015](https://www.worldcubeassociation.org/competitions/SpanishChampionship2015)|Spain|01:02:26.16|  
+|221|[BSTUOpen2015](https://www.worldcubeassociation.org/competitions/BSTUOpen2015)|Belarus|01:05:30.75|  
+|222|[KharkivWinter2014](https://www.worldcubeassociation.org/competitions/KharkivWinter2014)|Ukraine|01:07:01.34|  
+|223|[PhilippineChampionship2016](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2016)|Philippines|01:11:07.44|  
+|224|[KalmykiaOpen2018](https://www.worldcubeassociation.org/competitions/KalmykiaOpen2018)|Russia|01:17:03.69|  
