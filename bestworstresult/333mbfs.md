@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
+*Last updated using WCA Developer Export from Fri Mar 01 at 1110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -499,31 +499,31 @@
 |489|[Simon Lai](https://www.worldcubeassociation.org/persons/2015LAIS02)|Singapore|3/4 39:41.00|  
 |490|[Ethan Woll](https://www.worldcubeassociation.org/persons/2014WOLL01)|USA|3/4 39:53.00|  
 |491|[Evgeny Skachkov](https://www.worldcubeassociation.org/persons/2015SKAC02)|Russia|3/4 40:02.00|  
-|492|[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|Thailand|5/8 40:16.00|  
-|493|[Lau Jun Jie](https://www.worldcubeassociation.org/persons/2015JIEL01)|Singapore|4/6 40:29.00|  
-|494|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|5/8 40:38.00|  
-|495|[Seiya Tsuji (辻聖也)](https://www.worldcubeassociation.org/persons/2017TSUJ02)|Japan|4/6 41:28.00|  
-|496|[Bintoro Cokro Amijoyo](https://www.worldcubeassociation.org/persons/2017AMIJ01)|Indonesia|4/6 42:45.00|  
-|497|[Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02)|Korea|5/8 43:16.00|  
-|498|[Zhaoli Zheng (郑召利)](https://www.worldcubeassociation.org/persons/2011ZHEN12)|China|4/6 43:23.00|  
-|499|[Gloryan Casimir Nursewan](https://www.worldcubeassociation.org/persons/2011NURS01)|Indonesia|4/6 43:26.00|  
-|500|[Arjun Shetty](https://www.worldcubeassociation.org/persons/2015SHET05)|India|4/6 43:34.00|  
-|501|[Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02)|Poland|6/10 43:37.00|  
-|502|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|5/8 44:00.00|  
-|503|[Chunjie Shan (单淳劼)](https://www.worldcubeassociation.org/persons/2013SHAN02)|China|10/18 45:30.00|  
-|504|[Liubov Blagoveshchenskaya](https://www.worldcubeassociation.org/persons/2017BLAG01)|Russia|5/8 45:59.00|  
-|505|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|11/20 46:06.00|  
-|506|[Martial Bonarek](https://www.worldcubeassociation.org/persons/2013BONA01)|France|4/6 46:12.00|  
-|507|[Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01)|Germany|7/12 47:03.00|  
-|508|[Eivind Fonn](https://www.worldcubeassociation.org/persons/2004FONN01)|Norway|4/6 47:07.00|  
-|509|[Chaohui Lin (林朝辉)](https://www.worldcubeassociation.org/persons/2013LINC01)|China|6/10 47:38.00|  
-|510|[Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01)|Australia|5/8 47:51.00|  
-|511|[Thomas Dooley](https://www.worldcubeassociation.org/persons/2017DOOL01)|United Kingdom|5/8 47:53.00|  
-|512|[Hasabi Sailendra](https://www.worldcubeassociation.org/persons/2017SAIL01)|Indonesia|4/6 47:59.00|  
-|513|[Dan Sarnelli](https://www.worldcubeassociation.org/persons/2011SARN01)|USA|5/8 48:19.00|  
-|514|[Thomas Stock](https://www.worldcubeassociation.org/persons/2011STOC01)|United Kingdom|4/6 48:34.00|  
-|515|[Dennis Josue Blanco](https://www.worldcubeassociation.org/persons/2018BLAN01)|Honduras|4/6 48:41.00|  
-|516|[Jan Hetman](https://www.worldcubeassociation.org/persons/2012HETM01)|Poland|5/8 49:44.00|  
+|492|[Lau Jun Jie](https://www.worldcubeassociation.org/persons/2015JIEL01)|Singapore|4/6 40:29.00|  
+|493|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|5/8 40:38.00|  
+|494|[Seiya Tsuji (辻聖也)](https://www.worldcubeassociation.org/persons/2017TSUJ02)|Japan|4/6 41:28.00|  
+|495|[Bintoro Cokro Amijoyo](https://www.worldcubeassociation.org/persons/2017AMIJ01)|Indonesia|4/6 42:45.00|  
+|496|[Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02)|Korea|5/8 43:16.00|  
+|497|[Zhaoli Zheng (郑召利)](https://www.worldcubeassociation.org/persons/2011ZHEN12)|China|4/6 43:23.00|  
+|498|[Gloryan Casimir Nursewan](https://www.worldcubeassociation.org/persons/2011NURS01)|Indonesia|4/6 43:26.00|  
+|499|[Arjun Shetty](https://www.worldcubeassociation.org/persons/2015SHET05)|India|4/6 43:34.00|  
+|500|[Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02)|Poland|6/10 43:37.00|  
+|501|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|5/8 44:00.00|  
+|502|[Chunjie Shan (单淳劼)](https://www.worldcubeassociation.org/persons/2013SHAN02)|China|10/18 45:30.00|  
+|503|[Liubov Blagoveshchenskaya](https://www.worldcubeassociation.org/persons/2017BLAG01)|Russia|5/8 45:59.00|  
+|504|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|11/20 46:06.00|  
+|505|[Martial Bonarek](https://www.worldcubeassociation.org/persons/2013BONA01)|France|4/6 46:12.00|  
+|506|[Tim Habermaas](https://www.worldcubeassociation.org/persons/2007HABE01)|Germany|7/12 47:03.00|  
+|507|[Eivind Fonn](https://www.worldcubeassociation.org/persons/2004FONN01)|Norway|4/6 47:07.00|  
+|508|[Chaohui Lin (林朝辉)](https://www.worldcubeassociation.org/persons/2013LINC01)|China|6/10 47:38.00|  
+|509|[Dallas McNeil](https://www.worldcubeassociation.org/persons/2017MCNE01)|Australia|5/8 47:51.00|  
+|510|[Thomas Dooley](https://www.worldcubeassociation.org/persons/2017DOOL01)|United Kingdom|5/8 47:53.00|  
+|511|[Hasabi Sailendra](https://www.worldcubeassociation.org/persons/2017SAIL01)|Indonesia|4/6 47:59.00|  
+|512|[Dan Sarnelli](https://www.worldcubeassociation.org/persons/2011SARN01)|USA|5/8 48:19.00|  
+|513|[Thomas Stock](https://www.worldcubeassociation.org/persons/2011STOC01)|United Kingdom|4/6 48:34.00|  
+|514|[Dennis Josue Blanco](https://www.worldcubeassociation.org/persons/2018BLAN01)|Honduras|4/6 48:41.00|  
+|515|[Jan Hetman](https://www.worldcubeassociation.org/persons/2012HETM01)|Poland|5/8 49:44.00|  
+|516|[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|Thailand|6/10 50:00.00|  
 |517|[Syougo Kamo (加茂翔吾)](https://www.worldcubeassociation.org/persons/2015KAMO01)|Japan|4/6 50:04.00|  
 |518|[Yannick Tonatiuh Napsuciale Heredia](https://www.worldcubeassociation.org/persons/2011HERE01)|Mexico|5/8 50:54.00|  
 |519|[Gintaras Grėbliūnas](https://www.worldcubeassociation.org/persons/2017GRBL01)|Lithuania|4/6 50:59.00|  

@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
+*Last updated using WCA Developer Export from Fri Mar 01 at 1110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -248,13 +248,13 @@
 |238|[Anchris Cepeda Hess](https://www.worldcubeassociation.org/persons/2013HESS01)|Mexico|11.61|10.41|  
 |239|[Athanasios Iasonas Mulonas (Αθανάσιος Ιάσονας Μυλωνας)](https://www.worldcubeassociation.org/persons/2015MULO01)|Greece|11.68|10.41|  
 |240|[Connor Chai](https://www.worldcubeassociation.org/persons/2018CHAI01)|Canada|11.91|10.41|  
-|241|[Danilo Hidalgo Uribe](https://www.worldcubeassociation.org/persons/2014URIB01)|Dominican Republic|11.97|10.41|  
-|242|[Martin Minnaert](https://www.worldcubeassociation.org/persons/2011MINN01)|France|11.93|10.41|  
-|243|[Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04)|Ukraine|11.15|10.41|  
-|244|[Peng Zhou (周鹏)](https://www.worldcubeassociation.org/persons/2013ZHOU23)|China|11.40|10.41|  
-|245|[Wenjun Wang (王文军)](https://www.worldcubeassociation.org/persons/2017WANG80)|China|11.66|10.41|  
-|246|[Xinyu Li (李欣宇)](https://www.worldcubeassociation.org/persons/2017LIXI03)|China|11.80|10.41|  
-|247|[Adam Tran](https://www.worldcubeassociation.org/persons/2017TRAN08)|USA|11.71|10.40|  
-|248|[Chris Wilkinson](https://www.worldcubeassociation.org/persons/2010WILK01)|Australia|11.82|10.40|  
-|249|[Didi Stone](https://www.worldcubeassociation.org/persons/2016STON01)|USA|11.15|10.40|  
-|250|[Leyan Lo](https://www.worldcubeassociation.org/persons/2004LOLE01)|USA|11.91|10.40|  
+|241|[Corwin Cheung](https://www.worldcubeassociation.org/persons/2018CHEU02)|USA|11.84|10.41|  
+|242|[Danilo Hidalgo Uribe](https://www.worldcubeassociation.org/persons/2014URIB01)|Dominican Republic|11.97|10.41|  
+|243|[Martin Minnaert](https://www.worldcubeassociation.org/persons/2011MINN01)|France|11.93|10.41|  
+|244|[Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04)|Ukraine|11.15|10.41|  
+|245|[Peng Zhou (周鹏)](https://www.worldcubeassociation.org/persons/2013ZHOU23)|China|11.40|10.41|  
+|246|[Wenjun Wang (王文军)](https://www.worldcubeassociation.org/persons/2017WANG80)|China|11.66|10.41|  
+|247|[Xinyu Li (李欣宇)](https://www.worldcubeassociation.org/persons/2017LIXI03)|China|11.80|10.41|  
+|248|[Adam Tran](https://www.worldcubeassociation.org/persons/2017TRAN08)|USA|11.71|10.40|  
+|249|[Chris Wilkinson](https://www.worldcubeassociation.org/persons/2010WILK01)|Australia|11.82|10.40|  
+|250|[Didi Stone](https://www.worldcubeassociation.org/persons/2016STON01)|USA|11.15|10.40|  

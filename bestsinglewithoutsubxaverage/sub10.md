@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
+*Last updated using WCA Developer Export from Fri Mar 01 at 1110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -116,7 +116,7 @@
 |=|[John Edison Ubaldo](https://www.worldcubeassociation.org/persons/2010UBAL01)|Philippines|7.57|10.68|  
 |=|[Joseph Briggs](https://www.worldcubeassociation.org/persons/2017BRIG03)|United Kingdom|7.57|10.30|  
 |107|[Artem Melikian (Артем Мелікян)](https://www.worldcubeassociation.org/persons/2011MELI01)|Ukraine|7.59|10.76|  
-|=|[Jared Astrof](https://www.worldcubeassociation.org/persons/2016ASTR01)|USA|7.59|10.45|  
+|=|[Jared Astrof](https://www.worldcubeassociation.org/persons/2016ASTR01)|USA|7.59|10.09|  
 |=|[Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02)|USA|7.59|10.34|  
 |=|[Phil Yu](https://www.worldcubeassociation.org/persons/2010YUPH01)|USA|7.59|10.19|  
 |=|[Rafka Athallah Putra Hasyim](https://www.worldcubeassociation.org/persons/2015HASY01)|Indonesia|7.59|10.58|  

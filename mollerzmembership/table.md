@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Tue Feb 26 at 1008UTC*
+*Last updated using WCA Developer Export from Fri Mar 01 at 1110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -283,6 +283,7 @@
 |[Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02)|N (17/18)|Y|N (2/4)|N|N|N (9/18)|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|N (17/18)|Y|N (2/4)|N|N|N (9/18)|  
 |[Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
+|[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
 |[Zhiyang Chen (陈至扬)](https://www.worldcubeassociation.org/persons/2011CHAN10)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
 |[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
 |[Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
@@ -361,6 +362,7 @@
 |[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
+|[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|N (17/18)|Y|N (0/4)|N|N|N (5/18)|  
 |[Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01)|N (17/18)|Y|N (0/4)|N|N|N (2/18)|  
 |[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|N (17/18)|Y|N (0/4)|N|N|N (0/18)|  
