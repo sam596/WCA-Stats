@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Mon Mar 04 at 1209UTC*
+*Last updated using WCA Developer Export from Thu Mar 07 at 1308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -194,7 +194,7 @@
 |183|[XianCherryBlossom2015](https://www.worldcubeassociation.org/competitions/XianCherryBlossom2015)|China|00:36:03.94|  
 |184|[UkrainianNationals2016](https://www.worldcubeassociation.org/competitions/UkrainianNationals2016)|Ukraine|00:36:28.34|  
 |185|[NorwegianChampionship2016](https://www.worldcubeassociation.org/competitions/NorwegianChampionship2016)|Norway|00:36:41.05|  
-|186|[OsijekOpen2019](https://www.worldcubeassociation.org/competitions/OsijekOpen2019)|Croatia|00:37:13.86|  
+|186|[OsijeKOpen2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019)|Croatia|00:37:13.86|  
 |187|[ChojniceOpen2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014)|Poland|00:37:15.29|  
 |188|[SwedishChampionship2014](https://www.worldcubeassociation.org/competitions/SwedishChampionship2014)|Sweden|00:37:15.58|  
 |189|[SLSZawiercie2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017)|Poland|00:37:22.36|  

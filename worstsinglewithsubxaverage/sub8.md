@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Mar 04 at 1209UTC*
+*Last updated using WCA Developer Export from Thu Mar 07 at 1308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -9,12 +9,12 @@
 |Rank|Name|Country|Average|Single|  
 |--|--|--|--|--|  
 |1|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|7.99|7.49|  
-|2|[Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|7.92|7.48|  
-|3|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|7.88|7.28|  
-|4|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|7.98|6.98|  
-|5|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
-|6|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|7.88|6.82|  
-|7|[Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01)|Hungary|7.92|6.79|  
+|2|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|7.88|7.28|  
+|3|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|7.98|6.98|  
+|4|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
+|5|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|7.88|6.82|  
+|6|[Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01)|Hungary|7.92|6.79|  
+|=|[Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|7.92|6.76|  
 |8|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
 |9|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|7.81|6.74|  
 |10|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
@@ -120,14 +120,14 @@
 |110|[Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04)|USA|7.77|5.62|  
 |111|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|7.58|5.62|  
 |112|[Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05)|Switzerland|7.14|5.61|  
-|113|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.59|  
-|114|[Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01)|USA|7.28|5.58|  
-|115|[Pavan Ravindra](https://www.worldcubeassociation.org/persons/2013RAVI06)|USA|7.75|5.58|  
-|116|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|7.33|5.57|  
-|117|[Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01)|USA|7.27|5.56|  
+|113|[Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01)|USA|7.28|5.58|  
+|114|[Pavan Ravindra](https://www.worldcubeassociation.org/persons/2013RAVI06)|USA|7.75|5.58|  
+|115|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|7.33|5.57|  
+|116|[Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01)|USA|7.27|5.56|  
+|117|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.56|  
 |118|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|7.21|5.55|  
 |119|[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|Norway|7.99|5.54|  
-|120|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|7.22|5.53|  
+|120|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|7.15|5.53|  
 |121|[Dario Roa Sánchez](https://www.worldcubeassociation.org/persons/2011SANC02)|Spain|7.25|5.52|  
 |122|[Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08)|USA|7.84|5.52|  
 |123|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|7.66|5.52|  

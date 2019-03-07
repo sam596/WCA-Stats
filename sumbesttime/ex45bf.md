@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Mon Mar 04 at 1209UTC*
+*Last updated using WCA Developer Export from Thu Mar 07 at 1308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -195,7 +195,7 @@
 |184|[MalaysiaCubeOpen2016](https://www.worldcubeassociation.org/competitions/MalaysiaCubeOpen2016)|Malaysia|00:09:42.88|  
 |185|[OsijekOpen2017](https://www.worldcubeassociation.org/competitions/OsijekOpen2017)|Croatia|00:09:45.01|  
 |186|[FullStepsinBrest2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016)|Belarus|00:09:46.30|  
-|187|[OsijekOpen2019](https://www.worldcubeassociation.org/competitions/OsijekOpen2019)|Croatia|00:09:46.89|  
+|187|[OsijeKOpen2019](https://www.worldcubeassociation.org/competitions/OsijeKOpen2019)|Croatia|00:09:46.89|  
 |188|[HungarianOpen2015](https://www.worldcubeassociation.org/competitions/HungarianOpen2015)|Hungary|00:09:47.41|  
 |189|[WarsawOpen2014](https://www.worldcubeassociation.org/competitions/WarsawOpen2014)|Poland|00:09:48.88|  
 |190|[KansaiOpen2015](https://www.worldcubeassociation.org/competitions/KansaiOpen2015)|Japan|00:09:49.11|  

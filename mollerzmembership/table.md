@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Mon Mar 04 at 1209UTC*
+*Last updated using WCA Developer Export from Thu Mar 07 at 1308UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -313,6 +313,7 @@
 |[Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
+|[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
