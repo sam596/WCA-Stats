@@ -33,7 +33,7 @@ then
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW() WHERE query = 'wca_dev'"
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/results_extra.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`results_extra` has been updated! :tada:"}' $discordwh
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`results_extra` and `wfc_dues` have been updated! :tada: \n <@118059908628348935> <3"}' $discordwh
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_attempts.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_attempts` has been updated! :tada:"}' $discordwh
