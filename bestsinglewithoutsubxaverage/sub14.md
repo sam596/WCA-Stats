@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Thu Mar 07 at 1308UTC*
+*Last updated using WCA Developer Export from Sun Mar 10 at 1409UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -497,8 +497,7 @@
 |=|[Josua Scholze](https://www.worldcubeassociation.org/persons/2016SCHO02)|Germany|10.92|14.05|  
 |=|[Kazutaka Watanabe (渡部和孝)](https://www.worldcubeassociation.org/persons/2016WATA01)|Japan|10.92|14.13|  
 |=|[Matei Galatanu](https://www.worldcubeassociation.org/persons/2016GALA02)|Romania|10.92|15.29|  
-|=|[Vikram Gopinath](https://www.worldcubeassociation.org/persons/2019GOPI01)|India|10.92|14.28|  
-|490|[Cheah Gee Nung Ian](https://www.worldcubeassociation.org/persons/2016IANC01)|Singapore|10.93|14.35|  
+|489|[Cheah Gee Nung Ian](https://www.worldcubeassociation.org/persons/2016IANC01)|Singapore|10.93|14.35|  
 |=|[Deven Mallamo](https://www.worldcubeassociation.org/persons/2013MALL03)|USA|10.93|14.40|  
 |=|[Edward Hsueh](https://www.worldcubeassociation.org/persons/2017HSUE01)|USA|10.93|14.18|  
 |=|[José Luis Rodríguez Castillo](https://www.worldcubeassociation.org/persons/2016CAST36)|Peru|10.93|14.27|  
@@ -509,3 +508,4 @@
 |=|[Santiago Lopez Gallego](https://www.worldcubeassociation.org/persons/2014GALL06)|Colombia|10.93|14.35|  
 |=|[Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01)|Japan|10.93|17.19|  
 |=|[Viktor Volden](https://www.worldcubeassociation.org/persons/2016VOLD01)|Norway|10.93|14.54|  
+|=|[Wenjie Li (李文杰)](https://www.worldcubeassociation.org/persons/2017LIWE13)|China|10.93|14.64|  
