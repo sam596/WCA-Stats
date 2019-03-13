@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sun Mar 10 at 1409UTC*
+*Last updated using WCA Developer Export from Wed Mar 13 at 1508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -142,8 +142,9 @@
 |=|[Yu Xu (徐煜)](https://www.worldcubeassociation.org/persons/2018XUYU03)|China|4|  
 |=|[Li Ye (叶丽)](https://www.worldcubeassociation.org/persons/2018YELI01)|China|4|  
 |=|[Ye Yu (余烨)](https://www.worldcubeassociation.org/persons/2018YUYE01)|China|4|  
+|=|[Ansh](https://www.worldcubeassociation.org/persons/2019ANSH01)|India|4|  
 |=|[Bo Li (李博)](https://www.worldcubeassociation.org/persons/2019LIBO01)|China|4|  
-|136|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
+|137|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
 |=|[Yi Hsu](https://www.worldcubeassociation.org/persons/2006HSUY01)|Taiwan|5|  
 |=|[Jim Li](https://www.worldcubeassociation.org/persons/2006LIJI01)|USA|5|  
 |=|[Rui Qi](https://www.worldcubeassociation.org/persons/2007RUIQ01)|China|5|  
@@ -631,7 +632,7 @@
 |=|[Yu Liu (刘聿)](https://www.worldcubeassociation.org/persons/2019LIUY01)|China|5|  
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
 |=|[Saien](https://www.worldcubeassociation.org/persons/2019SAIE01)|India|5|  
-|624|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|625|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Yini Qi](https://www.worldcubeassociation.org/persons/2013QIYI01)|USA|6|  
 |=|[Hao Ren (任浩)](https://www.worldcubeassociation.org/persons/2013RENH01)|China|6|  
 |=|[Lin Shi (石霖)](https://www.worldcubeassociation.org/persons/2013SHIL02)|China|6|  
-|=|[Wei Shi (师玮)](https://www.worldcubeassociation.org/persons/2013SHIW01)|China|6|  
