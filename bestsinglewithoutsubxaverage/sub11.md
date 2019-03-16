@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Wed Mar 13 at 1508UTC*
+*Last updated using WCA Developer Export from Sat Mar 16 at 1610UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -197,7 +197,7 @@
 |=|[Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01)|Austria|8.47|11.49|  
 |=|[Sebastián Herrera Pomares](https://www.worldcubeassociation.org/persons/2017POMA02)|Costa Rica|8.47|11.20|  
 |=|[Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01)|India|8.47|11.06|  
-|=|[Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09)|USA|8.47|12.41|  
+|=|[Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09)|USA|8.47|11.19|  
 |190|[Andrew Dressman](https://www.worldcubeassociation.org/persons/2014DRES01)|USA|8.48|11.91|  
 |=|[Benjamin Lippsmeier](https://www.worldcubeassociation.org/persons/2017LIPP01)|Switzerland|8.48|13.08|  
 |=|[Christopher Ng](https://www.worldcubeassociation.org/persons/2018NGCH01)|USA|8.48|12.80|  

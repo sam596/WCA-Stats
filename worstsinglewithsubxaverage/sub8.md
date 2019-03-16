@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Mar 13 at 1508UTC*
+*Last updated using WCA Developer Export from Sat Mar 16 at 1610UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -18,24 +18,24 @@
 |8|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
 |9|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|7.81|6.74|  
 |10|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
-|11|[David Nguyen](https://www.worldcubeassociation.org/persons/2012NGUY08)|USA|7.73|6.71|  
-|12|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|7.99|6.67|  
-|13|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|7.77|6.64|  
-|14|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|7.94|6.62|  
-|15|[Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28)|Mexico|7.87|6.62|  
-|16|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|7.76|6.61|  
-|17|[Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|7.85|6.60|  
-|18|[Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12)|Taiwan|7.65|6.59|  
-|19|[Haowei Fan (樊浩玮)](https://www.worldcubeassociation.org/persons/2009FANH01)|China|7.62|6.58|  
-|20|[Nathaniel Ortega](https://www.worldcubeassociation.org/persons/2015ORTE02)|Philippines|7.81|6.58|  
-|21|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|7.77|6.58|  
-|22|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|7.43|6.55|  
-|23|[Muhammad Hariz Bin Azizan](https://www.worldcubeassociation.org/persons/2009AZIZ02)|Malaysia|7.91|6.55|  
-|24|[Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59)|Malaysia|7.71|6.54|  
-|25|[Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01)|Bolivia|7.76|6.52|  
-|26|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|7.93|6.50|  
-|27|[Massimiliano Iovane](https://www.worldcubeassociation.org/persons/2009IOVA01)|Italy|7.94|6.50|  
-|28|[Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02)|France|7.87|6.50|  
+|11|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|7.99|6.67|  
+|12|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|7.77|6.64|  
+|13|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|7.94|6.62|  
+|14|[Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28)|Mexico|7.87|6.62|  
+|15|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|7.76|6.61|  
+|16|[Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|7.85|6.60|  
+|17|[Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12)|Taiwan|7.65|6.59|  
+|18|[Haowei Fan (樊浩玮)](https://www.worldcubeassociation.org/persons/2009FANH01)|China|7.62|6.58|  
+|19|[Nathaniel Ortega](https://www.worldcubeassociation.org/persons/2015ORTE02)|Philippines|7.81|6.58|  
+|20|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|7.77|6.58|  
+|21|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|7.43|6.55|  
+|22|[Muhammad Hariz Bin Azizan](https://www.worldcubeassociation.org/persons/2009AZIZ02)|Malaysia|7.91|6.55|  
+|23|[Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59)|Malaysia|7.71|6.54|  
+|24|[Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01)|Bolivia|7.76|6.52|  
+|25|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|7.93|6.50|  
+|26|[Massimiliano Iovane](https://www.worldcubeassociation.org/persons/2009IOVA01)|Italy|7.94|6.50|  
+|27|[Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02)|France|7.87|6.50|  
+|28|[David Nguyen](https://www.worldcubeassociation.org/persons/2012NGUY08)|USA|7.73|6.47|  
 |29|[Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01)|Canada|7.89|6.47|  
 |30|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|7.96|6.45|  
 |31|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|7.97|6.45|  

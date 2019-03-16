@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Wed Mar 13 at 1508UTC*
+*Last updated using WCA Developer Export from Sat Mar 16 at 1610UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -15,7 +15,7 @@
 |5|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  
 |6|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|**6:35.18**|23.04|1:53.40|4:18.74|  
 |7|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|**6:38.50**|24.44|2:06.18|4:07.88|  
-|8|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:58.39**|29.96|1:57.57|4:30.86|  
+|8|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:44.62**|29.96|1:52.13|4:22.53|  
 |9|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:19.44**|26.55|1:55.27|4:57.62|  
 |10|[Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01)|USA|**7:45.71**|25.06|2:19.43|5:01.22|  
 |11|[Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01)|Poland|**7:51.55**|21.45|2:17.20|5:12.90|  
@@ -316,7 +316,7 @@
 |306|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|**40:16.27**|1:18.27|10:54.00|28:04.00|  
 |307|[Ryota Aoki (青木涼太)](https://www.worldcubeassociation.org/persons/2016AOKI02)|Japan|**40:24.67**|1:10.67|10:55.00|28:19.00|  
 |308|[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|USA|**40:28.46**|1:54.46|10:19.00|28:15.00|  
-|309|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|**40:31.91**|1:13.91|10:37.00|28:41.00|  
+|309|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|**40:34.18**|1:16.18|10:37.00|28:41.00|  
 |310|[Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01)|Russia|**40:37.45**|1:29.39|9:35.06|29:33.00|  
 |311|[Calvin Sall](https://www.worldcubeassociation.org/persons/2015SALL01)|USA|**40:38.47**|1:19.47|9:15.00|30:04.00|  
 |312|[Mao-te Hsieh (謝茂德)](https://www.worldcubeassociation.org/persons/2010SIEM01)|Taiwan|**40:40.82**|2:46.73|9:20.09|28:34.00|  
