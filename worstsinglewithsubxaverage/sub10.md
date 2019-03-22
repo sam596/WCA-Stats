@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Mar 19 at 1708UTC*
+*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -17,15 +17,15 @@
 |7|[Facundo Finola](https://www.worldcubeassociation.org/persons/2012FINO02)|Argentina|9.94|9.19|  
 |8|[Ruotong Wang (王若同)](https://www.worldcubeassociation.org/persons/2015WANG92)|China|9.62|9.07|  
 |9|[Alexis Margaret Magtibay](https://www.worldcubeassociation.org/persons/2016MAGT01)|Philippines|9.90|9.05|  
-|10|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|9.97|9.01|  
-|11|[Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2017KHAN37)|Vietnam|9.92|9.00|  
-|12|[Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01)|South Africa|9.93|8.99|  
-|13|[Emil Pawelczyk](https://www.worldcubeassociation.org/persons/2015PAWE01)|Poland|9.59|8.93|  
-|14|[Zixiong Xu (徐梓雄)](https://www.worldcubeassociation.org/persons/2017XUZI03)|China|9.42|8.93|  
-|15|[Jacob Marinas](https://www.worldcubeassociation.org/persons/2016MARI14)|USA|9.41|8.92|  
-|16|[Iván Pérez](https://www.worldcubeassociation.org/persons/2015PERE10)|Chile|9.99|8.90|  
-|17|[Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02)|Germany|9.94|8.88|  
-|18|[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|USA|9.85|8.88|  
+|10|[Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2017KHAN37)|Vietnam|9.92|9.00|  
+|11|[Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01)|South Africa|9.93|8.99|  
+|12|[Emil Pawelczyk](https://www.worldcubeassociation.org/persons/2015PAWE01)|Poland|9.59|8.93|  
+|13|[Zixiong Xu (徐梓雄)](https://www.worldcubeassociation.org/persons/2017XUZI03)|China|9.42|8.93|  
+|14|[Jacob Marinas](https://www.worldcubeassociation.org/persons/2016MARI14)|USA|9.41|8.92|  
+|15|[Iván Pérez](https://www.worldcubeassociation.org/persons/2015PERE10)|Chile|9.99|8.90|  
+|16|[Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02)|Germany|9.94|8.88|  
+|17|[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|USA|9.85|8.88|  
+|18|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|9.97|8.87|  
 |19|[Santiago Osorio Cristóbal](https://www.worldcubeassociation.org/persons/2015CRIS01)|Spain|9.93|8.87|  
 |20|[Hargun Singh Tikku](https://www.worldcubeassociation.org/persons/2017TIKK01)|India|9.89|8.86|  
 |21|[Leong Wing Sik](https://www.worldcubeassociation.org/persons/2009SIKL01)|Malaysia|9.82|8.86|  

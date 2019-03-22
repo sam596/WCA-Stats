@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Tue Mar 19 at 1708UTC*
+*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -179,16 +179,16 @@
 |=|[Stefan Huber](https://www.worldcubeassociation.org/persons/2007HUBE01)|Austria|7.83|8.98|  
 |=|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|France|7.89|8.98|  
 |171|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|7.08|8.99|  
+|=|[Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01)|Romania|7.11|8.99|  
 |=|[Qingbin Chen (陈庆斌)](https://www.worldcubeassociation.org/persons/2011CHEN19)|China|7.31|8.99|  
 |=|[Nikolay Evdokimov](https://www.worldcubeassociation.org/persons/2010EVDO01)|Russia|7.49|8.99|  
 |=|[Raphael Lee](https://www.worldcubeassociation.org/persons/2017LEER01)|New Zealand|7.74|8.99|  
 |=|[Max Wang](https://www.worldcubeassociation.org/persons/2014WANG17)|Canada|7.76|8.99|  
 |=|[Tomoya Yamashita (山下智也)](https://www.worldcubeassociation.org/persons/2013YAMA01)|Japan|8.13|8.99|  
-|177|[Lance Bastien Loy](https://www.worldcubeassociation.org/persons/2016LOYL01)|Philippines|7.58|9.00|  
+|178|[Lance Bastien Loy](https://www.worldcubeassociation.org/persons/2016LOYL01)|Philippines|7.58|9.00|  
 |=|[Phillip Espinoza](https://www.worldcubeassociation.org/persons/2007ESPI01)|USA|7.80|9.00|  
 |=|[Diego Núñez](https://www.worldcubeassociation.org/persons/2017NUNE05)|Chile|7.91|9.00|  
-|180|[Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01)|Romania|7.11|9.01|  
-|=|[Jan Martin Villostas](https://www.worldcubeassociation.org/persons/2017VILL03)|Philippines|7.15|9.01|  
+|181|[Jan Martin Villostas](https://www.worldcubeassociation.org/persons/2017VILL03)|Philippines|7.15|9.01|  
 |=|[Athul Vikas](https://www.worldcubeassociation.org/persons/2017VIKA01)|USA|7.18|9.01|  
 |=|[Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03)|United Kingdom|7.37|9.01|  
 |=|[Renz Alexander Lumban](https://www.worldcubeassociation.org/persons/2012LUMB01)|Philippines|7.58|9.01|  

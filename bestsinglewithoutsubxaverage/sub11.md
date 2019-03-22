@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Tue Mar 19 at 1708UTC*
+*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -90,7 +90,7 @@
 |=|[Yuyuan Wu (吴宇羱)](https://www.worldcubeassociation.org/persons/2016WUYU09)|China|8.11|11.33|  
 |80|[Đinh Minh Thông](https://www.worldcubeassociation.org/persons/2014THON02)|Vietnam|8.13|11.41|  
 |81|[Brayden McAcy](https://www.worldcubeassociation.org/persons/2015MCAC01)|USA|8.14|11.22|  
-|=|[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|8.14|11.75|  
+|=|[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|8.14|11.71|  
 |=|[Tan Yong Jie](https://www.worldcubeassociation.org/persons/2017JIET02)|Malaysia|8.14|11.16|  
 |=|[Vivek Shirke](https://www.worldcubeassociation.org/persons/2016SHIR06)|India|8.14|12.33|  
 |85|[Parker Powell](https://www.worldcubeassociation.org/persons/2015POWE03)|USA|8.15|12.21|  

@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Tue Mar 19 at 1708UTC*
+*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -230,7 +230,7 @@
 |219|[Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01)|USA|6.43|8.35|  
 |=|[Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01)|Germany|6.43|9.12|  
 |221|[Austin Moore](https://www.worldcubeassociation.org/persons/2009MOOR01)|USA|6.44|8.22|  
-|=|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|6.44|8.06|  
+|=|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|6.44|7.98|  
 |=|[Roger Lightbody III](https://www.worldcubeassociation.org/persons/2016LIGH01)|USA|6.44|7.77|  
 |=|[Tomoya Iida (飯田朋也)](https://www.worldcubeassociation.org/persons/2011IIDA01)|Japan|6.44|8.52|  
 |=|[Weixing Zhang (张炜星)](https://www.worldcubeassociation.org/persons/2009ZHAN53)|China|6.44|7.86|  
@@ -399,7 +399,7 @@
 |=|[Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01)|Hungary|6.79|7.92|  
 |=|[Mark Cheung](https://www.worldcubeassociation.org/persons/2017CHEU01)|United Kingdom|6.79|9.17|  
 |=|[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Germany|6.79|8.25|  
-|391|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|6.80|8.17|  
+|391|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|6.80|7.99|  
 |=|[Róbert Maróti](https://www.worldcubeassociation.org/persons/2012MARA03)|Hungary|6.80|8.49|  
 |=|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|6.80|8.66|  
 |394|[Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03)|USA|6.81|8.57|  

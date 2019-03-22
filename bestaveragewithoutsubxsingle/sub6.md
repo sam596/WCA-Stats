@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Tue Mar 19 at 1708UTC*
+*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -74,40 +74,40 @@
 |=|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|6.45|7.97|  
 |=|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|6.74|7.97|  
 |66|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|6.13|7.98|  
+|=|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|6.44|7.98|  
 |=|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|6.98|7.98|  
-|68|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|6.67|7.99|  
+|69|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|6.67|7.99|  
+|=|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|6.80|7.99|  
 |=|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|7.49|7.99|  
-|70|[Jeriel James Thomas](https://www.worldcubeassociation.org/persons/2013THOM04)|Canada|6.57|8.02|  
+|72|[Jeriel James Thomas](https://www.worldcubeassociation.org/persons/2013THOM04)|Canada|6.57|8.02|  
 |=|[Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01)|China|6.83|8.02|  
 |=|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|USA|6.99|8.02|  
-|73|[Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01)|India|6.02|8.04|  
+|75|[Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01)|India|6.02|8.04|  
 |=|[Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03)|Thailand|6.50|8.04|  
 |=|[Vishantak Srikrishna](https://www.worldcubeassociation.org/persons/2014SRIK03)|USA|6.66|8.04|  
 |=|[Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01)|USA|6.68|8.04|  
-|77|[Jacob Hutnyk](https://www.worldcubeassociation.org/persons/2011HUTN01)|Canada|6.04|8.05|  
+|79|[Jacob Hutnyk](https://www.worldcubeassociation.org/persons/2011HUTN01)|Canada|6.04|8.05|  
 |=|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|6.97|8.05|  
-|79|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|6.14|8.06|  
+|81|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|6.14|8.06|  
 |=|[Alex Johnson](https://www.worldcubeassociation.org/persons/2014JOHN04)|USA|6.15|8.06|  
-|=|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|6.44|8.06|  
 |=|[Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01)|Poland|6.48|8.06|  
-|83|[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|6.67|8.07|  
-|84|[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|6.35|8.08|  
+|84|[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|6.67|8.07|  
+|85|[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|6.35|8.08|  
 |=|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|6.54|8.08|  
-|86|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|7.13|8.09|  
-|87|[Ramón Dersch](https://www.worldcubeassociation.org/persons/2011DERS01)|Germany|6.77|8.10|  
-|88|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|6.35|8.11|  
+|87|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|7.13|8.09|  
+|88|[Ramón Dersch](https://www.worldcubeassociation.org/persons/2011DERS01)|Germany|6.77|8.10|  
+|89|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|6.35|8.11|  
 |=|[Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01)|USA|6.37|8.11|  
 |=|[Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01)|Poland|6.38|8.11|  
 |=|[Valerii Pochtar (Валерій Почтар)](https://www.worldcubeassociation.org/persons/2013POCH01)|Ukraine|6.48|8.11|  
-|92|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|India|6.02|8.12|  
+|93|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|India|6.02|8.12|  
 |=|[Che-Ting Chu (朱哲廷)](https://www.worldcubeassociation.org/persons/2008CHUC02)|Taiwan|6.38|8.12|  
 |=|[Matthew Shay](https://www.worldcubeassociation.org/persons/2015SHAY01)|USA|6.42|8.12|  
 |=|[Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01)|USA|6.91|8.12|  
-|96|[Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01)|Hong Kong|6.18|8.13|  
+|97|[Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01)|Hong Kong|6.18|8.13|  
 |=|[Jody Jones](https://www.worldcubeassociation.org/persons/2016JONE04)|Australia|6.97|8.13|  
-|98|[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|6.72|8.16|  
-|99|[DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05)|Korea|6.15|8.17|  
-|=|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|6.80|8.17|  
+|99|[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|6.72|8.16|  
+|100|[DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05)|Korea|6.15|8.17|  
 |101|[Shonathon Collins](https://www.worldcubeassociation.org/persons/2011COLL02)|USA|6.59|8.18|  
 |102|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|6.59|8.19|  
 |=|[Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02)|USA|6.65|8.19|  
