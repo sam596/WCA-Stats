@@ -10,6 +10,7 @@ CREATE TABLE persons_extra
       a.gender, 
       a.countryId, 
       b.continentId,
+      s.county ukCounty
       q.name previousName,
       q.gender previousGender,
       q.countryId previousCountryId,
@@ -235,10 +236,13 @@ CREATE TABLE persons_extra
     ON a.id = q.id
     LEFT JOIN wca_dev.countries r
     ON q.countryId = r.id
+    LEFT JOIN wca_stats.county_dir s
+    ON a.id = s.personId
     ;
 ;
 
-ALTER TABLE persons_extra DROP COLUMN mhelp;
+ALTER TABLE persons_extra 
+  DROP COLUMN mhelp;
 
 # ~ 7 mins 15 secs
 
