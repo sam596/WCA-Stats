@@ -1,6 +1,6 @@
 ## End of Year Stats for WCT
 
-*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
+*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -31,15 +31,15 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT compCountryId) FROM
 |personId|personName|personCountryId|COUNT(DISTINCT compCountryId)|  
 |--|--|--|--|  
 |2013LINK01|Kaijun Lin (林恺俊)|China|6|  
+|2018SHEN07|Mengfei Shen (沈梦非)|China|4|  
+|2015CHEN49|Yucheng Chen (陈裕铖)|China|4|  
 |2014HEYO01|Young He (何嘉炀)|China|4|  
 |2009YINM01|Mulun Yin (阴目仑)|China|4|  
-|2015CHEN49|Yucheng Chen (陈裕铖)|China|4|  
 |2013ZHEN11|Yuyang Zhen (甄禹扬)|China|4|  
-|2018SHEN07|Mengfei Shen (沈梦非)|China|4|  
-|2017SHEN31|Yixiao Shen (沈逸霄)|China|3|  
+|2010WANG53|Jiayu Wang (王佳宇)|China|3|  
+|2016DAIM01|Mingmin Dai (戴铭民)|China|3|  
 |2016SUHA02|Haonan Su (苏浩楠)|China|3|  
-|2014HUZE01|Zeyu Hu (胡泽宇)|China|3|  
-|2009CHAN04|Fangyuan Chang (常方圆)|China|3|  
+|2013SUCH02|Chengming Su (苏成明)|China|3|  
 
 
 #	Most golds
@@ -96,7 +96,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 |2012QIUR01|Ruohan Qiu (邱若寒)|China|11|  
 |2015XION03|Max Xiong (熊锐明)|China|9|  
 |2013WANG69|Bo Wang (王擘)|China|9|  
-|2016LIJI05|Jiazhou Li (李佳洲)|China|8|  
+|2013RUIX02|Xiaobin Rui (芮晓彬)|China|8|  
 
 
 #	Most podiums
@@ -115,7 +115,7 @@ SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE 
 |2013LINK01|Kaijun Lin (林恺俊)|China|38|  
 |2013FENG02|Zijia Feng (冯子甲)|China|37|  
 |2016ZHAO28|Junze Zhao (赵俊泽)|China|36|  
-|2015XION03|Max Xiong (熊锐明)|China|35|  
+|2016FANG01|Shenghai Fang (方胜海)|China|35|  
 
 
 #	Most competitions organized
@@ -127,14 +127,14 @@ SELECT u.name, COUNT(*) FROM wca_dev.competition_organizers co JOIN wca_dev.user
 |--|--|  
 |Baiqiang Dong (董百强)|3|  
 |Anhui Cube Association|3|  
+|Xi'an Cube Association (西安魔方协会)|2|  
+|Xiaobin Rui (芮晓彬)|2|  
+|Bodun Zhu (朱博楯)|2|  
+|Zhengwu Chen (陈政武)|2|  
 |Qiang Gong (龚强)|2|  
 |Kun Zhu (朱坤)|2|  
-|Xianhong Shi (师先宏)|2|  
 |Cong Wen (文聪)|2|  
-|Zengchu Wu (吴增初)|2|  
-|Zhijun Li (李芷筠)|2|  
-|Qingbin Chen (陈庆斌)|2|  
-|Junjie Fu (傅俊杰)|2|  
+|Xianhong Shi (师先宏)|2|  
 
 
 #	New countries in WCA this year
@@ -164,15 +164,15 @@ SELECT cityName, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GRO
 |cityName|COUNT(*)|  
 |--|--|  
 |Beijing|6|  
-|Shanghai|5|  
 |Wuhan, Hubei|5|  
+|Shanghai|5|  
 |Nanchang, Jiangxi|3|  
 |Guangzhou, Guangdong|3|  
-|Zhuhai, Guangdong|2|  
 |Lanzhou, Gansu|2|  
-|Suzhou|2|  
 |Xi'an, Shaanxi|2|  
+|Suzhou|2|  
 |Xiamen, Fujian|2|  
+|Nanjing, Jiangsu|2|  
 
 
 #	Countries with the most competitions
@@ -231,15 +231,15 @@ SET @a = 0, @p = ''; SELECT personId, personName, personCountryId, MAX(streak) F
 |personId|personName|personCountryId|MAX(streak)|  
 |--|--|--|--|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|16|  
-|2017ZHOU44|Yumeng Zhou (周雨萌)|China|14|  
 |2015CHEN49|Yucheng Chen (陈裕铖)|China|14|  
-|2012LIYA01|Yang Li (李扬)|China|11|  
+|2017ZHOU44|Yumeng Zhou (周雨萌)|China|14|  
 |2017SHIM06|Minyang Shi (时旻扬)|China|11|  
+|2012LIYA01|Yang Li (李扬)|China|11|  
 |2012LIUY03|Yiwei Liu (刘伊玮)|China|10|  
 |2013LINK01|Kaijun Lin (林恺俊)|China|10|  
 |2016FANG01|Shenghai Fang (方胜海)|China|9|  
 |2013TANG07|Feilong Tang (唐飞龙)|China|8|  
-|2018SHEN07|Mengfei Shen (沈梦非)|China|8|  
+|2013ZHAN41|Lanshi Zhang (张岚石)|China|8|  
 
 
 #	Most competitions competed in 
@@ -255,10 +255,10 @@ SELECT personId, personName, personCountryId, COUNT(DISTINCT competitionId) FROM
 |2013WANG67|Xuming Wang (王旭明)|China|28|  
 |2008DONG06|Baiqiang Dong (董百强)|China|26|  
 |2016FANG01|Shenghai Fang (方胜海)|China|25|  
-|2014WANG22|Wenjing Wang (王文静)|China|24|  
 |2016FEIJ02|Jun Fei (费俊)|China|24|  
-|2015KANY01|Yikuan Kan (阚亦宽)|China|24|  
+|2014WANG22|Wenjing Wang (王文静)|China|24|  
 |2014CHEN08|Boxi Chen (陈博希)|China|24|  
+|2015KANY01|Yikuan Kan (阚亦宽)|China|24|  
 
 
 #	Potentially seen world records
@@ -271,13 +271,13 @@ SELECT pce.personId, pce.personName, pce.personCountryId, SUM(ce.WRs) FROM perso
 |2008DONG06|Baiqiang Dong (董百强)|China|10|  
 |2007YUNQ01|Yunqi Ouyang (欧阳韵奇)|China|10|  
 |2015CHEN49|Yucheng Chen (陈裕铖)|China|10|  
-|2013FENG02|Zijia Feng (冯子甲)|China|9|  
 |2012LIUY03|Yiwei Liu (刘伊玮)|China|9|  
+|2013FENG02|Zijia Feng (冯子甲)|China|9|  
 |2011WANG33|Yi Wang (王旖)|China|8|  
 |2012PANJ02|Jiekang Pan (潘杰康)|China|8|  
-|2013ZHON04|Tairan Zhong (钟泰然)|China|7|  
-|2014WANG22|Wenjing Wang (王文静)|China|7|  
-|2014HANJ02|Jiachi Han (韩佳池)|China|7|  
+|2010WUYU02|Yulun Wu (吴宇伦)|China|7|  
+|2013LINK01|Kaijun Lin (林恺俊)|China|7|  
+|2012ZHAN08|Anyu Zhang (张安宇)|China|7|  
 
 
 #	New Platinum/Gold/Silver members
@@ -336,12 +336,12 @@ SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.P
 |2017WANY29|Yifan Wang (王逸帆)|China|18|  
 |2013LIZO01|Zongyang Li (李宗阳)|China|18|  
 |2015KANY01|Yikuan Kan (阚亦宽)|China|16|  
-|2011YUAN05|Lang Yuan (袁朗)|China|15|  
 |2016ZHUB01|Bodun Zhu (朱博楯)|China|15|  
-|2014XUDI01|Diwen Xu (许帝文)|China|14|  
-|2016FANG01|Shenghai Fang (方胜海)|China|14|  
+|2011YUAN05|Lang Yuan (袁朗)|China|15|  
 |2017LOUY01|Yunhao Lou (娄云皓)|China|14|  
 |2010WANG53|Jiayu Wang (王佳宇)|China|14|  
+|2017MAZH04|Zhiyuan Ma (马之元)|China|14|  
+|2014XUDI01|Diwen Xu (许帝文)|China|14|  
 
 
 #	Most PBs at a single competition
@@ -352,13 +352,13 @@ SELECT p.id, p.name, p.countryId, pbs.pbs, pbs.competitionId FROM competition_pb
 |id|name|countryId|pbs|competitionId|  
 |--|--|--|--|--|  
 |2018LIUL05|Lichao Liu (刘立超)|China|31|HangzhouOpen2018|  
-|2018FANG10|Weijie Fang (方伟杰)|China|28|GuangdongOpen2018|  
 |2017MACH03|Chenhao Ma (马晨皓)|China|28|ChinaChampionship2018|  
+|2018FANG10|Weijie Fang (方伟杰)|China|28|GuangdongOpen2018|  
 |2017FENG09|Yu Feng (冯煜)|China|25|ChinaChampionship2018|  
 |2018LIUJ06|Jiaqi Liu (刘家奇)|China|25|NanjingSpring2018|  
 |2016SHIK02|Kanting Shi (史勘霆)|China|25|NanjingSpring2018|  
-|2018LIUC07|Chunxi Liu (柳淳曦)|China|24|BeijingOpen2018|  
 |2013QIAO01|Disheng Qiao (乔涤生)|China|24|NanjingAutumn2018|  
+|2018LIUC07|Chunxi Liu (柳淳曦)|China|24|BeijingOpen2018|  
 |2016ZHUY04|Yunzhou Zhu (朱云舟)|China|24|TaiyuanWinter2018|  
 |2017ZHAX02|Xuechao Zhang (张学超)|China|23|NanjingSpring2018|  
 
@@ -371,8 +371,8 @@ SELECT u.name, COUNT(*) FROM wca_dev.competition_delegates co JOIN wca_dev.users
 |name|COUNT(*)|  
 |--|--|  
 |Ming Zheng (郑鸣)|30|  
-|Fangyuan Chang (常方圆)|25|  
 |Baiqiang Dong (董百强)|25|  
+|Fangyuan Chang (常方圆)|25|  
 |Xiaobo Jin (金晓波)|17|  
 |Baocheng Wu (吴宝城)|14|  
 |Donglei Li (李冬雷)|10|  
@@ -391,8 +391,8 @@ SELECT p.id, p.name, p.countryId, CENTISECONDTOTIME(a.average) `2017`, CENTISECO
 |2016LIUZ07|Ziyi Liu (刘子逸)|China|1:09.07|17.48|74.6923|  
 |2015FENG09|Yuan Feng (冯源)|China|59.97|15.71|73.8036|  
 |2017ZHUL02|Lianhao Zhu (褚连皓)|China|41.33|12.38|70.0460|  
+|2017WANC10|Chenjin Wang (王晨锦)|China|1:01.07|19.33|68.3478|  
 |2017HANL04|Leixinyu Han (韩雷薪豫)|China|42.98|14.13|67.1242|  
-|2017WANC10|Chenjin Wang (王晨锦)|China|1:01.07|20.97|65.6624|  
 |2017SHIM06|Minyang Shi (时旻扬)|China|1:17.39|26.79|65.3831|  
 |2016LIUZ05|Zixi Liu (刘子熙)|China|1:30.25|31.42|65.1856|  
 |2016SUYU02|Yunpeng Su (苏云鹏)|China|45.09|15.81|64.9368|  

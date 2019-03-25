@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Mar 22 at 1809UTC*
+*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -33,5 +33,5 @@
 |23|[Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01)|China|6.55|4.72|  
 |24|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|6.70|4.64|  
 |25|[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|USA|5.83|4.40|  
-|26|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|6.29|4.24|  
+|26|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|6.14|4.24|  
 |27|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|5.80|4.22|  
