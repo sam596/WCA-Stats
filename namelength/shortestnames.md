@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
+*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -633,7 +633,9 @@
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
 |=|[Saien](https://www.worldcubeassociation.org/persons/2019SAIE01)|India|5|  
 |=|[Hao Si (斯豪)](https://www.worldcubeassociation.org/persons/2019SIHA01)|China|5|  
-|626|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|=|[Hao Xu (徐浩)](https://www.worldcubeassociation.org/persons/2019XUHA01)|China|5|  
+|=|[Fei Ye (叶飞)](https://www.worldcubeassociation.org/persons/2019YEFE01)|China|5|  
+|628|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1006,5 +1008,3 @@
 |=|[Tao Pan (潘韬)](https://www.worldcubeassociation.org/persons/2013PANT02)|China|6|  
 |=|[Tim Pow](https://www.worldcubeassociation.org/persons/2013POWT01)|USA|6|  
 |=|[Zhu Qin (秦铸)](https://www.worldcubeassociation.org/persons/2013QINZ02)|China|6|  
-|=|[Yini Qi](https://www.worldcubeassociation.org/persons/2013QIYI01)|USA|6|  
-|=|[Hao Ren (任浩)](https://www.worldcubeassociation.org/persons/2013RENH01)|China|6|  

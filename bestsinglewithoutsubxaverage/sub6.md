@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
+*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -120,7 +120,7 @@
 |=|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|5.86|7.86|  
 |110|[Benjamin Christie](https://www.worldcubeassociation.org/persons/2014CHRI04)|USA|5.87|8.12|  
 |111|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|USA|5.89|7.78|  
-|=|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|5.89|7.37|  
+|=|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|5.89|7.29|  
 |=|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|5.89|7.86|  
 |114|[Hyeon Kyo Kyoung](https://www.worldcubeassociation.org/persons/2013KYOU01)|Korea|5.91|6.87|  
 |=|[Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01)|China|5.91|7.54|  

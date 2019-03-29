@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
+*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -44,14 +44,14 @@
 |34|[Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01)|USA|5.58|7.28|  
 |=|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|5.82|7.28|  
 |36|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|5.86|7.29|  
-|37|[Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01)|USA|5.74|7.30|  
-|38|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|5.35|7.31|  
-|39|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|6.36|7.32|  
-|40|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|5.57|7.33|  
+|=|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|5.89|7.29|  
+|38|[Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01)|USA|5.74|7.30|  
+|39|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|5.35|7.31|  
+|40|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|6.36|7.32|  
+|41|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|5.57|7.33|  
 |=|[Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01)|Netherlands|5.63|7.33|  
-|42|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|5.48|7.36|  
-|43|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|5.89|7.37|  
-|=|[Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01)|United Kingdom|5.96|7.37|  
+|43|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|5.48|7.36|  
+|44|[Alexander Lau](https://www.worldcubeassociation.org/persons/2011LAUA01)|United Kingdom|5.96|7.37|  
 |45|[Collin Burns](https://www.worldcubeassociation.org/persons/2010BURN01)|USA|5.25|7.38|  
 |=|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|5.81|7.38|  
 |47|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|5.08|7.39|  

@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
+*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -243,10 +243,10 @@
 |233|[Denis Fokin](https://www.worldcubeassociation.org/persons/2016FOKI02)|Russia|**32:01.80**|1:19.80|10:43.00|19:59.00|  
 |234|[Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01)|USA|**32:02.65**|1:18.57|8:57.08|21:47.00|  
 |235|[Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13)|Spain|**32:07.53**|1:21.53|9:42.00|21:04.00|  
-|236|[Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01)|USA|**32:17.34**|1:21.44|9:06.90|21:49.00|  
-|237|[Raluca Ioana Grigoraș](https://www.worldcubeassociation.org/persons/2016GRIG01)|Romania|**32:19.94**|1:00.24|9:07.70|22:12.00|  
-|238|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|**32:24.84**|1:09.97|9:37.87|21:37.00|  
-|239|[Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05)|China|**32:32.58**|2:06.58|11:31.00|18:55.00|  
+|236|[Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05)|China|**32:11.24**|1:45.24|11:31.00|18:55.00|  
+|237|[Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01)|USA|**32:17.34**|1:21.44|9:06.90|21:49.00|  
+|238|[Raluca Ioana Grigoraș](https://www.worldcubeassociation.org/persons/2016GRIG01)|Romania|**32:19.94**|1:00.24|9:07.70|22:12.00|  
+|239|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|**32:24.84**|1:09.97|9:37.87|21:37.00|  
 |240|[Jonathan Cookmeyer](https://www.worldcubeassociation.org/persons/2010COOK01)|USA|**32:33.46**|1:46.50|8:33.96|22:13.00|  
 |241|[Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01)|Germany|**32:35.19**|49.12|7:15.07|24:31.00|  
 |242|[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Denmark|**32:41.19**|1:07.21|8:09.98|23:24.00|  

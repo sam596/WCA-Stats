@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Mar 25 at 1909UTC*
+*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -93,7 +93,7 @@
 |83|[Hyeon Kyo Kyoung](https://www.worldcubeassociation.org/persons/2013KYOU01)|Korea|6.87|5.91|  
 |84|[Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01)|China|7.54|5.91|  
 |85|[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|USA|7.78|5.89|  
-|86|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|7.37|5.89|  
+|86|[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|7.29|5.89|  
 |87|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|7.86|5.89|  
 |88|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|7.29|5.86|  
 |89|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|7.86|5.86|  
