@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
+*Last updated using WCA Developer Export from Sun Mar 31 at 2110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -154,7 +154,7 @@
 |=|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|7.07|8.29|  
 |145|[Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01)|France|6.55|8.30|  
 |=|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|6.74|8.30|  
-|147|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|6.41|8.31|  
+|147|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|6.12|8.31|  
 |=|[Heidi Chan](https://www.worldcubeassociation.org/persons/2018CHAN50)|USA|6.42|8.31|  
 |149|[James Karras](https://www.worldcubeassociation.org/persons/2017KARR01)|USA|6.03|8.32|  
 |=|[Julian Favell](https://www.worldcubeassociation.org/persons/2013FAVE01)|Canada|6.36|8.32|  

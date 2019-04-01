@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
+*Last updated using WCA Developer Export from Sun Mar 31 at 2110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -87,6 +87,7 @@
 |[Tomas Kristiansson](https://www.worldcubeassociation.org/persons/2007KRIS01)|Y|Y|N (2/4)|Y|N|N (6/18)|  
 |[Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01)|Y|Y|N (2/4)|Y|N|N (6/18)|  
 |[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Y|Y|N (2/4)|Y|N|N (5/18)|  
+|[Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01)|Y|Y|N (2/4)|Y|N|N (3/18)|  
 |[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|Y|Y|N (2/4)|N|Y|N (14/18)|  
 |[Brandon Lin](https://www.worldcubeassociation.org/persons/2011LINB01)|Y|Y|N (2/4)|N|Y|N (4/18)|  
 |[Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01)|Y|Y|N (2/4)|N|Y|N (2/18)|  
@@ -252,6 +253,7 @@
 |[Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02)|Y|N (12/13)|N (2/4)|N|N|N (4/18)|  
 |[Chung Tze Yang (鍾志扬)](https://www.worldcubeassociation.org/persons/2009YANG31)|Y|N (12/13)|N (2/4)|N|N|N (2/18)|  
 |[Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02)|Y|N (12/13)|N (2/4)|N|N|N (1/18)|  
+|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|Y|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Y|N (12/13)|N (1/4)|N|N|N (4/18)|  
 |[Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02)|Y|N (12/13)|N (1/4)|N|N|N (1/18)|  
 |[Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01)|Y|N (12/13)|N (1/4)|N|N|N (0/18)|  
@@ -273,7 +275,6 @@
 |[Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01)|N (17/18)|Y|N (2/4)|Y|N|N (5/18)|  
 |[Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01)|N (17/18)|Y|N (2/4)|Y|Y|N (14/18)|  
 |[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|N (17/18)|Y|N (2/4)|Y|N|N (12/18)|  
-|[Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01)|N (17/18)|Y|N (2/4)|Y|N|N (3/18)|  
 |[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|N (17/18)|Y|N (2/4)|N|Y|N (10/18)|  
 |[Craig Bouchard](https://www.worldcubeassociation.org/persons/2005BOUC01)|N (17/18)|Y|N (2/4)|N|Y|N (3/18)|  
 |[Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01)|N (17/18)|Y|N (2/4)|N|Y|N (7/18)|  
@@ -321,6 +322,7 @@
 |[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Choi Go-Ho (최고호)](https://www.worldcubeassociation.org/persons/2007GOHO01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
+|[Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01)|N (17/18)|Y|N (2/4)|N|N|N (2/18)|  
 |[José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Lakshay Modi](https://www.worldcubeassociation.org/persons/2014MODI01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
@@ -362,13 +364,13 @@
 |[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|N (17/18)|Y|N (1/4)|N|N|N (5/18)|  
 |[Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01)|N (17/18)|Y|N (1/4)|N|N|N (4/18)|  
 |[Jiacheng Peng (彭家诚)](https://www.worldcubeassociation.org/persons/2012PENG05)|N (17/18)|Y|N (1/4)|N|N|N (4/18)|  
-|[Takuma Shirahase (白波瀬拓磨)](https://www.worldcubeassociation.org/persons/2007SHIR01)|N (17/18)|Y|N (1/4)|N|N|N (2/18)|  
 |[Prakhar Gupta](https://www.worldcubeassociation.org/persons/2014GUPT09)|N (17/18)|Y|N (1/4)|N|N|N (3/18)|  
 |[Lee Jia Yong (李伽榮)](https://www.worldcubeassociation.org/persons/2009YONG02)|N (17/18)|Y|N (1/4)|N|N|N (2/18)|  
 |[Acchyut Jolly](https://www.worldcubeassociation.org/persons/2015JOLL02)|N (17/18)|Y|N (1/4)|N|N|N (2/18)|  
 |[Robert Paus](https://www.worldcubeassociation.org/persons/2015PAUS01)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
+|[Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|N (17/18)|Y|N (0/4)|N|N|N (5/18)|  
 |[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (17/18)|Y|N (0/4)|N|N|N (3/18)|  
@@ -420,7 +422,6 @@
 |[Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (3/18)|  
 |[Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02)|N (17/18)|N (11/13)|N (2/4)|N|N|N (1/18)|  
 |[Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (1/18)|  
-|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (0/18)|  
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|N (17/18)|N (11/13)|N (1/4)|Y|Y|N (7/18)|  
 |[Eng Dickson](https://www.worldcubeassociation.org/persons/2016DICK03)|N (17/18)|N (11/13)|N (1/4)|N|N|N (3/18)|  
 |[Gilberto Caracciolo Morelli](https://www.worldcubeassociation.org/persons/2008CARA01)|N (17/18)|N (11/13)|N (1/4)|N|N|N (0/18)|  

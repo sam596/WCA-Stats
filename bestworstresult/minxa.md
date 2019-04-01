@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Thu Mar 28 at 2009UTC*
+*Last updated using WCA Developer Export from Sun Mar 31 at 2110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -628,12 +628,12 @@
 |618|[David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02)|Australia|1:33.99|  
 |619|[Kacper Rafalski](https://www.worldcubeassociation.org/persons/2017RAFA02)|Poland|1:34.02|  
 |620|[Fabián Ricardo Hernández Gafaro](https://www.worldcubeassociation.org/persons/2017GAFA01)|Colombia|1:34.03|  
-|621|[Li Yifei (李逸飞)](https://www.worldcubeassociation.org/persons/2015YIFE01)|China|1:34.06|  
-|622|[Yexin Zhang (张业鑫)](https://www.worldcubeassociation.org/persons/2013ZHAN11)|China|1:34.07|  
-|623|[Chen Ruan (阮晨)](https://www.worldcubeassociation.org/persons/2014RUAN02)|China|1:34.08|  
-|624|[Zhiya Li (李知雅)](https://www.worldcubeassociation.org/persons/2018LIZH14)|China|1:34.10|  
-|625|[Bennett Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:34.12|  
-|=|[Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08)|United Kingdom|1:34.12|  
+|621|[Edward Nutter](https://www.worldcubeassociation.org/persons/2018NUTT01)|United Kingdom|1:34.05|  
+|622|[Li Yifei (李逸飞)](https://www.worldcubeassociation.org/persons/2015YIFE01)|China|1:34.06|  
+|623|[Yexin Zhang (张业鑫)](https://www.worldcubeassociation.org/persons/2013ZHAN11)|China|1:34.07|  
+|624|[Chen Ruan (阮晨)](https://www.worldcubeassociation.org/persons/2014RUAN02)|China|1:34.08|  
+|625|[Zhiya Li (李知雅)](https://www.worldcubeassociation.org/persons/2018LIZH14)|China|1:34.10|  
+|626|[Bennett Bamsey](https://www.worldcubeassociation.org/persons/2017BAMS01)|USA|1:34.12|  
 |627|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|1:34.14|  
 |628|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|1:34.16|  
 |629|[Faheem Arif](https://www.worldcubeassociation.org/persons/2017ARIF04)|India|1:34.17|  
