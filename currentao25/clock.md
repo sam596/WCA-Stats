@@ -1,6 +1,6 @@
 ## Current Average of 25
 
-*Last updated using WCA Developer Export from Sun Mar 31 at 2110UTC*
+*Last updated using WCA Developer Export from Wed Apr 03 at 2209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,13 +8,13 @@
 
 |Rank|Name|Country|Average|Times|  
 |--|--|--|--|--|  
-|1|[Tomas Macadam](https://www.worldcubeassociation.org/persons/2010MACA01)|Australia|8.18|7.83, 7.47, 9.07, 10.34, 9.21, 7.15, 7.55, 7.91, 9.47, 8.16, 6.68, 7.42, 7.95, DNF, 13.96, DNF, 7.55, 7.89, 9.53, 7.09, 8.99, 6.92, 10.02, 9.55, 6.73, 8.40, 9.35, 8.61, 8.89, 8.90|  
-|2|[Ge Song (宋鸽)](https://www.worldcubeassociation.org/persons/2008SONG01)|China|8.53|10.50, 9.78, 11.31, 8.94, DNF, 8.15, 8.83, 8.91, 7.41, 9.11, 8.72, 7.46, 8.58, 9.40, 7.75, 7.68, 8.22, 7.96, 10.30, 6.40, 7.80, 8.84, 9.28, 8.61, 8.50, 10.11, 8.97, 8.40, 9.06, 10.18|  
-|3|[Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01)|China|8.63|11.19, 11.10, 14.55, 16.00, 9.90, 11.99, 14.01, 13.04, 10.45, 10.47, 9.64, 6.38, 7.65, 8.37, 12.15, 8.77, 10.92, DNF, 8.17, 7.16, 9.30, 11.64, 8.99, 9.95, 8.61, 9.21, DNF, 7.06, 8.07, 8.64, 9.13, 7.59, 6.64, 6.75, 7.40|  
-|4|[Jonathan Irvin Gunawan](https://www.worldcubeassociation.org/persons/2011GUNA02)|Indonesia|8.74|15.06, 11.90, 9.90, 12.21, 13.75, 8.43, 8.65, 10.77, 9.38, 8.33, 8.30, 6.81, 7.56, 6.90, 6.75, 9.50, DNF, 10.06, 9.80, 9.08, 6.25, 7.52, 11.63, DNF, 7.03, 9.56, 8.75, 9.43, 8.41, 9.34|  
-|5|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|8.75|11.03, 10.08, 11.98, 18.04, 12.16, 7.64, 7.50, 11.82, 8.50, 8.90, 7.61, 6.95, 6.38, 9.31, 8.64, 8.57, 8.48, 8.21, 8.52, 7.70, 6.85, 9.06, 8.09, 7.63, 7.61|  
-|6|[Anastasia Dyurdeeva](https://www.worldcubeassociation.org/persons/2015DYUR01)|Russia|8.77|34.33, 50.79, 54.03, 32.29, 42.79, 12.36, 12.10, 13.03, DNF, DNF, 10.53, 10.28, 10.08, 9.34, 7.83, 11.06, 7.58, 9.95, 7.76, 9.43, 9.69, 8.19, 7.21, 7.67, 9.39, 8.76, 7.25, 7.09, 9.36, 7.44, 8.35, 8.15, 9.03, 11.00, 8.05|  
-|7|[Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01)|USA|8.86|10.16, 8.10, 9.23, 7.37, 9.26, 8.48, 6.24, DNF, 7.58, 8.14, 10.35, 15.33, 8.11, 9.11, 8.14, 8.09, DNF, 9.15, 6.88, 8.45, 7.83, 9.00, 5.20, 10.96, 5.81|  
+|1|[Jake Buckley](https://www.worldcubeassociation.org/persons/2017BUCK01)|USA|7.50|10.16, 8.10, 9.23, 7.37, 9.26, 8.48, 6.24, DNF, 7.58, 8.14, 10.35, 15.33, 8.11, 9.11, 8.14, 8.09, DNF, 9.15, 6.88, 8.45, 7.83, 9.00, 5.20, 10.96, 5.81, 6.39, 7.23, 7.15, 7.41, 10.39, 6.29, 5.46, 8.83, 7.74, 7.34|  
+|2|[Tomas Macadam](https://www.worldcubeassociation.org/persons/2010MACA01)|Australia|8.18|7.83, 7.47, 9.07, 10.34, 9.21, 7.15, 7.55, 7.91, 9.47, 8.16, 6.68, 7.42, 7.95, DNF, 13.96, DNF, 7.55, 7.89, 9.53, 7.09, 8.99, 6.92, 10.02, 9.55, 6.73, 8.40, 9.35, 8.61, 8.89, 8.90|  
+|3|[Ge Song (宋鸽)](https://www.worldcubeassociation.org/persons/2008SONG01)|China|8.53|10.50, 9.78, 11.31, 8.94, DNF, 8.15, 8.83, 8.91, 7.41, 9.11, 8.72, 7.46, 8.58, 9.40, 7.75, 7.68, 8.22, 7.96, 10.30, 6.40, 7.80, 8.84, 9.28, 8.61, 8.50, 10.11, 8.97, 8.40, 9.06, 10.18|  
+|4|[Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01)|China|8.63|11.19, 11.10, 14.55, 16.00, 9.90, 11.99, 14.01, 13.04, 10.45, 10.47, 9.64, 6.38, 7.65, 8.37, 12.15, 8.77, 10.92, DNF, 8.17, 7.16, 9.30, 11.64, 8.99, 9.95, 8.61, 9.21, DNF, 7.06, 8.07, 8.64, 9.13, 7.59, 6.64, 6.75, 7.40|  
+|5|[Jonathan Irvin Gunawan](https://www.worldcubeassociation.org/persons/2011GUNA02)|Indonesia|8.74|15.06, 11.90, 9.90, 12.21, 13.75, 8.43, 8.65, 10.77, 9.38, 8.33, 8.30, 6.81, 7.56, 6.90, 6.75, 9.50, DNF, 10.06, 9.80, 9.08, 6.25, 7.52, 11.63, DNF, 7.03, 9.56, 8.75, 9.43, 8.41, 9.34|  
+|6|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|8.75|11.03, 10.08, 11.98, 18.04, 12.16, 7.64, 7.50, 11.82, 8.50, 8.90, 7.61, 6.95, 6.38, 9.31, 8.64, 8.57, 8.48, 8.21, 8.52, 7.70, 6.85, 9.06, 8.09, 7.63, 7.61|  
+|7|[Anastasia Dyurdeeva](https://www.worldcubeassociation.org/persons/2015DYUR01)|Russia|8.77|34.33, 50.79, 54.03, 32.29, 42.79, 12.36, 12.10, 13.03, DNF, DNF, 10.53, 10.28, 10.08, 9.34, 7.83, 11.06, 7.58, 9.95, 7.76, 9.43, 9.69, 8.19, 7.21, 7.67, 9.39, 8.76, 7.25, 7.09, 9.36, 7.44, 8.35, 8.15, 9.03, 11.00, 8.05|  
 |8|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|9.35|12.27, 11.95, 12.43, DNF, 16.01, 10.23, 12.37, 10.72, 11.28, 12.25, 8.37, 9.30, 13.07, 9.55, 9.81, 8.73, 11.15, 13.06, 8.53, 9.37, DNF, 11.89, 8.93, 8.97, 12.84, 10.44, 9.54, 8.95, 10.04, 8.20, 9.03, 8.78, 8.99, 8.07, 10.25, 11.21, 9.59, 10.21, 10.15, 8.93|  
 |9|[Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01)|Germany|9.55|45.69, 11.16, 11.94, 15.90, 10.19, 9.45, 12.04, 12.19, 11.77, 8.58, 10.40, 9.11, 11.42, 10.25, 10.21, 10.13, DNF, 10.33, 9.68, 10.41, 10.94, 8.86, 11.55, 11.41, 11.72, 11.19, 9.84, 10.75, 10.08, 9.48, 7.22, 16.65, 9.00, 8.84, 8.38, 9.72, 9.11, 12.43, 10.30, 9.06, 9.94, 11.19, DNF, 8.13, 10.96|  
 |10|[Ivan Kravchenko (Іван Кравченко)](https://www.worldcubeassociation.org/persons/2013KRAV01)|Ukraine|9.58|12.24, 10.80, 9.94, 9.20, 10.37, 8.37, 10.45, 10.76, 9.51, 9.23, 8.95, 8.54, 9.60, DNF, 9.83, 8.87, 8.71, 9.77, 10.24, 8.22, 11.25, 10.56, 10.78, 11.46, 8.77, 9.73, 10.25, 9.78, 11.02, 9.40, DNF, 9.41, 13.60, 16.10, 11.04|  

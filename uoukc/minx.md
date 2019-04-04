@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Sun Mar 31 at 2110UTC*
+*Last updated using WCA Developer Export from Wed Apr 03 at 2209UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -35,4 +35,4 @@
 ||||||||||||||||[Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01)|China|2014-04-20|[CubeSplashing2014 - Combined Final](https://www.worldcubeassociation.org/competitions/CubeSplashing2014/results/all#esq1_c)|[ChinaChampionship2015 - Combined First round](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015/results/all#esq1_d)|532|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 ||||||||||||||||[Ruzhen Ye (叶儒臻)](https://www.worldcubeassociation.org/persons/2009YERU01)|China|2015-10-02|[ChinaChampionship2015 - Combined First round](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015/results/all#esq1_d)|[ChinaChampionship2015 - Final](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015/results/all#esq1_f)|0|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
 ||||||||||||||||[Bingliang Li (李炳良)](https://www.worldcubeassociation.org/persons/2008LIBI01)|China|2015-10-02|[ChinaChampionship2015 - Final](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015/results/all#esq1_f)|1 year after [CrossstraitCubing2016](https://www.worldcubeassociation.org/competitions/CrossstraitCubing2016/results/all#esq1_c)|680|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||||||[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|2017-08-19|[BichoLegalOpen2017 - Combined First round](https://www.worldcubeassociation.org/competitions/BichoLegalOpen2017/results/all#esq1_d)|Ongoing|589|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
+||||||||||||||||[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|2017-08-19|[BichoLegalOpen2017 - Combined First round](https://www.worldcubeassociation.org/competitions/BichoLegalOpen2017/results/all#esq1_d)|Ongoing|592|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  
