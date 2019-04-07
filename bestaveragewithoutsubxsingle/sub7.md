@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Apr 03 at 2209UTC*
+*Last updated using WCA Developer Export from Sat Apr 06 at 2309UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -153,9 +153,9 @@
 |=|[Kabyanil Talukdar](https://www.worldcubeassociation.org/persons/2013TALU01)|India|8.06|8.90|  
 |144|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|7.02|8.91|  
 |=|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Slovenia|7.67|8.91|  
+|=|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|7.69|8.91|  
 |=|[José Cruz Lara Rojas](https://www.worldcubeassociation.org/persons/2016ROJA03)|Mexico|7.69|8.91|  
 |=|[Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01)|China|7.77|8.91|  
-|=|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|7.82|8.91|  
 |149|[Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01)|Poland|7.02|8.92|  
 |=|[Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02)|Poland|7.40|8.92|  
 |=|[Fabian Arfire](https://www.worldcubeassociation.org/persons/2017ARFI01)|France|8.46|8.92|  

@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Apr 03 at 2209UTC*
+*Last updated using WCA Developer Export from Sat Apr 06 at 2309UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -30,20 +30,20 @@
 |20|[Letian Hu (胡乐天)](https://www.worldcubeassociation.org/persons/2014HULE02)|China|8.32|7.83|  
 |21|[Om Joshi](https://www.worldcubeassociation.org/persons/2018JOSH01)|USA|8.90|7.83|  
 |22|[Stefan Huber](https://www.worldcubeassociation.org/persons/2007HUBE01)|Austria|8.98|7.83|  
-|23|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|8.91|7.82|  
-|24|[Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01)|Russia|8.90|7.78|  
-|25|[Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01)|China|8.91|7.77|  
-|26|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|8.42|7.76|  
-|27|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|8.62|7.76|  
-|28|[Max Wang](https://www.worldcubeassociation.org/persons/2014WANG17)|Canada|8.99|7.76|  
-|29|[Kyle Gyawali](https://www.worldcubeassociation.org/persons/2017GYAW01)|USA|8.94|7.75|  
-|30|[Raphael Lee](https://www.worldcubeassociation.org/persons/2017LEER01)|New Zealand|8.99|7.74|  
-|31|[Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03)|Portugal|8.87|7.71|  
-|32|[Casey Ngo](https://www.worldcubeassociation.org/persons/2017NGOC03)|USA|8.73|7.71|  
-|33|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|8.97|7.71|  
-|34|[Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02)|USA|8.81|7.71|  
-|35|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|8.86|7.70|  
-|36|[José Cruz Lara Rojas](https://www.worldcubeassociation.org/persons/2016ROJA03)|Mexico|8.91|7.69|  
+|23|[Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01)|Russia|8.90|7.78|  
+|24|[Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01)|China|8.91|7.77|  
+|25|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|8.42|7.76|  
+|26|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|8.62|7.76|  
+|27|[Max Wang](https://www.worldcubeassociation.org/persons/2014WANG17)|Canada|8.99|7.76|  
+|28|[Kyle Gyawali](https://www.worldcubeassociation.org/persons/2017GYAW01)|USA|8.94|7.75|  
+|29|[Raphael Lee](https://www.worldcubeassociation.org/persons/2017LEER01)|New Zealand|8.99|7.74|  
+|30|[Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03)|Portugal|8.87|7.71|  
+|31|[Casey Ngo](https://www.worldcubeassociation.org/persons/2017NGOC03)|USA|8.73|7.71|  
+|32|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|8.97|7.71|  
+|33|[Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02)|USA|8.81|7.71|  
+|34|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|8.86|7.70|  
+|35|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|8.91|7.69|  
+|=|[José Cruz Lara Rojas](https://www.worldcubeassociation.org/persons/2016ROJA03)|Mexico|8.91|7.69|  
 |=|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Slovenia|8.91|7.67|  
 |38|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|8.82|7.65|  
 |39|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|8.59|7.64|  
@@ -218,7 +218,7 @@
 |208|[Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01)|Peru|8.39|6.92|  
 |209|[Samuel Brenner](https://www.worldcubeassociation.org/persons/2014BREN02)|USA|8.29|6.92|  
 |210|[Liam Chen](https://www.worldcubeassociation.org/persons/2014CHEN37)|USA|8.83|6.91|  
-|211|[Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01)|USA|8.12|6.91|  
+|211|[Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01)|USA|7.99|6.91|  
 |212|[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|8.76|6.90|  
 |213|[Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45)|China|8.83|6.90|  
 |214|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
