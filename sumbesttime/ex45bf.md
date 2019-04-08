@@ -8,7 +8,7 @@
 
 
 |Rank|Competition|Country|Sum|  
-|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|USA|5:47.42|  
 |2|[AsianChampionship2018](https://www.worldcubeassociation.org/competitions/AsianChampionship2018)|Taiwan|5:54.14|  
 |3|[BUWinter2019](https://www.worldcubeassociation.org/competitions/BUWinter2019)|USA|6:04.63|  

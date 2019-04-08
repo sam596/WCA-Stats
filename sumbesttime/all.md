@@ -8,7 +8,7 @@
 
 
 |Rank|Competition|Country|Sum|  
-|--|--|--|--|  
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|  
 |1|[CubingUSANationals2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018)|USA|11:14.47|  
 |2|[OregonChampionship2019](https://www.worldcubeassociation.org/competitions/OregonChampionship2019)|USA|11:33.24|  
 |3|[ChinaChampionship2018](https://www.worldcubeassociation.org/competitions/ChinaChampionship2018)|China|12:21.78|  
