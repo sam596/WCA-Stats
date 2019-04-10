@@ -57,46 +57,51 @@ done
 
 # bestpodiums
 
-mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events")
 
 for i in "${arr[@]}"
 do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "Best ${i} Podiums"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Competition, Country, Sum, Podiummers, Results
-	FROM	
-		(SELECT
-				@i := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @i, @i + @c) initrank,
-				@c := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @c + 1, 1) counter,
-				@r := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), '=', @i) Rank,
-				@v := CAST(sum AS CHAR) val,
-				a.*	
-			FROM
-				(SELECT 
-					CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition,
-					com.countryId Country, 
-					IF('${i}' = '333mbf', CONCAT(297-SUM(LEFT(result,2))+SUM(RIGHT(result,2)),'/',297-SUM(LEFT(result,2))+(2*SUM(RIGHT(result,2))),' ',LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(MID(result,4,4))),'%H:%i:%s'),8)), IF('${i}' = '333fm',SUM(ROUND(result/100,2)),IF( SUM(result) >= 360000, LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(result/100)),'%H:%i:%s.%f'),11), IF( SUM(result) >= 6000, IF( SUM(result) < 60000, RIGHT(LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(result/100)),'%i:%s.%f'),8),7), LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(result/100)),'%i:%s.%f'),8)), IF( SUM(result) < 1000, RIGHT(LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(result/100)),'%s.%f'),5),4), LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(result/100)),'%s.%f'),5)))))) sum,
-					GROUP_CONCAT(CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',personId,')') SEPARATOR ', ') Podiummers,
-					GROUP_CONCAT(IF('${i}'='333mbf',CONCAT(99-LEFT(result,2)+RIGHT(result,2),'/',99-LEFT(result,2)+(2*RIGHT(result,2)),' ',LEFT(TIME_FORMAT(SEC_TO_TIME(MID(result,4,4)),'%H:%i:%s'),8)),IF( result >= 360000, LEFT(TIME_FORMAT(SEC_TO_TIME(result/100),'%H:%i:%s.%f'),11), IF( result >= 6000, IF( result < 60000, RIGHT(LEFT(TIME_FORMAT(SEC_TO_TIME(result/100),'%i:%s.%f'),8),7), LEFT(TIME_FORMAT(SEC_TO_TIME(result/100),'%i:%s.%f'),8)), IF(result < 1000, RIGHT(LEFT(TIME_FORMAT(SEC_TO_TIME(result/100),'%s.%f'),5),4), LEFT(TIME_FORMAT(SEC_TO_TIME(result/100),'%s.%f'),5))))) SEPARATOR ', ') Results
-				FROM 
-					(SELECT 
-						competitionId, 
-						eventId, 
-						pos, 
-						personId, 
-						personname, 
-						(CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result 
-					FROM podiums 
-					WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a 
-				JOIN wca_dev.persons p 
-					ON a.personId = p.id AND p.subid = 1
-				JOIN wca_dev.competitions com 
-					ON a.competitionid = com.id
-				WHERE eventId = '${i}'
-				GROUP BY competitionId, eventId HAVING COUNT(*) = 3
-				ORDER BY SUM(result), com.start_date LIMIT 1000) a
-			) b;" > ~/mysqloutput/original && \
+  SELECT Rank, Competition, Country, Sum, Podiummers, Results
+  FROM  
+    (SELECT
+        @i := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @i, @i + @c) initrank,
+        @c := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), @c + 1, 1) counter,
+        @r := IF(CAST(@v AS CHAR) = CAST(sum AS CHAR), '=', @i) Rank,
+        @v := CAST(sum AS CHAR) val,
+        a.* 
+      FROM
+        (SELECT 
+          CONCAT('[',com.name,'](https://www.worldcubeassociation.org/competitions/',com.id,')') Competition,
+          cou.name Country, 
+          IF(eventId = '333mbf', 
+            CONCAT(297-SUM(LEFT(result,2))+SUM(RIGHT(result,2)),'/',297-SUM(LEFT(result,2))+(2*SUM(RIGHT(result,2))),' ',LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(MID(result,4,4))),'%H:%i:%s'),8)),
+            FORMAT_RESULT(SUM(a.result),a.eventId,a.format)) sum,
+          GROUP_CONCAT(CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',personId,')') SEPARATOR ', ') Podiummers,
+          GROUP_CONCAT(FORMAT_RESULT(a.result,a.eventId,a.format) SEPARATOR ', ') Results
+        FROM 
+          (SELECT 
+            competitionId, 
+            eventId, 
+            pos, 
+            personId, 
+            personname, 
+            (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result,
+            (CASE WHEN eventId LIKE '%bf' THEN 's' ELSE 'a' END) format 
+          FROM podiums 
+          WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a 
+        JOIN wca_dev.persons p 
+          ON a.personId = p.id AND p.subid = 1
+        JOIN wca_dev.competitions com 
+          ON a.competitionid = com.id
+        JOIN wca_dev.Countries cou
+          ON com.countryId = cou.id
+        WHERE eventId = '${i}'
+        GROUP BY competitionId, eventId HAVING COUNT(*) = 3
+        ORDER BY SUM(result), com.start_date LIMIT 100) a
+      ) b;" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
     sed -i.bak '2i\
 --|--|--|--|--|--\' ~/mysqloutput/output
@@ -294,7 +299,7 @@ do
 		then 
 			text=$(echo "All competitions excluding MBLD and FMC")
 			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-			SELECT Rank, Competition, Country, \`Sum\`
+			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, Feet, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`, 4BLD, 5BLD
 			FROM
 				(SELECT
 					@i := IF(CAST(@v AS CHAR) = CAST(\`Sum\` AS CHAR), @i, @i + @c) initrank,
@@ -306,7 +311,23 @@ do
 					(SELECT 
 						CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition, 
 						(SELECT countryId FROM competitions WHERE id = a.competitionId) Country, 
-						LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(best)/100),'%H:%i:%s.%f'),11) \`Sum\` 
+						wca_stats.FORMAT_RESULT(SUM(best),'333','s') \`Sum\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333' THEN best END),'333','s') \`3x3\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '222' THEN best END),'222','s') \`2x2\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '444' THEN best END),'444','s') \`4x4\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '555' THEN best END),'555','s') \`5x5\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '666' THEN best END),'666','s') \`6x6\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '777' THEN best END),'777','s') \`7x7\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333bf' THEN best END),'333bf','s') \`3BLD\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333ft' THEN best END),'333ft','s') \`Feet\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333oh' THEN best END),'333oh','s') \`OH\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'clock' THEN best END),'clock','s') \`Clock\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'minx' THEN best END),'minx','s') \`Mega\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'pyram' THEN best END),'pyram','s') \`Pyra\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'skewb' THEN best END),'skewb','s') \`Skewb\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'sq1' THEN best END),'sq1','s') \`SQ-1\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '444bf' THEN best END),'444bf','s') \`4BLD\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '555bf' THEN best END),'555bf','s') \`5BLD\`
 					FROM 
 						(SELECT 
 							competitionId, 
@@ -332,7 +353,7 @@ do
 		else 
 			text=$(echo "All competitions excluding MBLD, FMC, 4BLD and 5BLD")
 			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-			SELECT Rank, Competition, Country, \`Sum\`
+			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, Feet, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`
 			FROM
 				(SELECT
 					@i := IF(CAST(@v AS CHAR) = CAST(\`Sum\` AS CHAR), @i, @i + @c) initrank,
@@ -344,7 +365,21 @@ do
 					(SELECT 
 						CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition, 
 						(SELECT countryId FROM competitions WHERE id = a.competitionId) Country, 
-						LEFT(TIME_FORMAT(SEC_TO_TIME(SUM(best)/100),'%H:%i:%s.%f'),11) \`Sum\` 
+						wca_stats.FORMAT_RESULT(SUM(best),'333','s') \`Sum\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333' THEN best END),'333','s') \`3x3\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '222' THEN best END),'222','s') \`2x2\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '444' THEN best END),'444','s') \`4x4\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '555' THEN best END),'555','s') \`5x5\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '666' THEN best END),'666','s') \`6x6\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '777' THEN best END),'777','s') \`7x7\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333bf' THEN best END),'333bf','s') \`3BLD\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333ft' THEN best END),'333ft','s') \`Feet\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333oh' THEN best END),'333oh','s') \`OH\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'clock' THEN best END),'clock','s') \`Clock\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'minx' THEN best END),'minx','s') \`Mega\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'pyram' THEN best END),'pyram','s') \`Pyra\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'skewb' THEN best END),'skewb','s') \`Skewb\`,
+						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'sq1' THEN best END),'sq1','s') \`SQ-1\`
 					FROM 
 						(SELECT 
 							competitionId, 
@@ -369,8 +404,14 @@ do
 				) b;" > ~/mysqloutput/original
 	fi
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
-	sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
+	if [ "$i" = "all" ]; 
+		then 
+			sed -i.bak '2i\
+--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--\' ~/mysqloutput/output
+		else
+			sed -i.bak '2i\
+--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--\' ~/mysqloutput/output
+	fi
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
@@ -499,23 +540,23 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`333bfs\`) \`333bf\`,
-      CentisecondToTime(\`333fts\`) \`333ft\`,
-      CentisecondToTime(\`333ohs\`) \`333oh\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`444bfs\`) \`444bf\`,
-      CentisecondToTime(\`555s\`) \`555\`,
-      CentisecondToTime(\`555bfs\`) \`555bf\`,
-      CentisecondToTime(\`666s\`) \`666\`,
-      CentisecondToTime(\`777s\`) \`777\`,
-      CentisecondToTime(\`clocks\`) \`clock\`,
-      CentisecondToTime(\`minxs\`) \`minx\`,
-      CentisecondToTime(\`pyrams\`) \`pyram\`,
-      CentisecondToTime(\`skewbs\`) \`skewb\`,
-      CentisecondToTime(\`sq1s\`) \`sq1\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
+      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
+      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`444bfs\`,'333','s') \`444bf\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
+      FORMAT_RESULT(\`555bfs\`,'333','s') \`555bf\`,
+      FORMAT_RESULT(\`666s\`,'333','s') \`666\`,
+      FORMAT_RESULT(\`777s\`,'333','s') \`777\`,
+      FORMAT_RESULT(\`clocks\`,'333','s') \`clock\`,
+      FORMAT_RESULT(\`minxs\`,'333','s') \`minx\`,
+      FORMAT_RESULT(\`pyrams\`,'333','s') \`pyram\`,
+      FORMAT_RESULT(\`skewbs\`,'333','s') \`skewb\`,
+      FORMAT_RESULT(\`sq1s\`,'333','s') \`sq1\`
     FROM
       all_events_rank
     WHERE
@@ -544,20 +585,20 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`333fts\`) \`333ft\`,
-      CentisecondToTime(\`333ohs\`) \`333oh\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`555s\`) \`555\`,
-      CentisecondToTime(\`666s\`) \`666\`,
-      CentisecondToTime(\`777s\`) \`777\`,
-      CentisecondToTime(\`clocks\`) \`clock\`,
-      CentisecondToTime(\`minxs\`) \`minx\`,
-      CentisecondToTime(\`pyrams\`) \`pyram\`,
-      CentisecondToTime(\`skewbs\`) \`skewb\`,
-      CentisecondToTime(\`sq1s\`) \`sq1\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
+      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
+      FORMAT_RESULT(\`666s\`,'333','s') \`666\`,
+      FORMAT_RESULT(\`777s\`,'333','s') \`777\`,
+      FORMAT_RESULT(\`clocks\`,'333','s') \`clock\`,
+      FORMAT_RESULT(\`minxs\`,'333','s') \`minx\`,
+      FORMAT_RESULT(\`pyrams\`,'333','s') \`pyram\`,
+      FORMAT_RESULT(\`skewbs\`,'333','s') \`skewb\`,
+      FORMAT_RESULT(\`sq1s\`,'333','s') \`sq1\`
     FROM
       all_events_rank
     WHERE
@@ -586,17 +627,17 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`333ohs\`) \`333oh\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`555s\`) \`555\`,
-      CentisecondToTime(\`clocks\`) \`clock\`,
-      CentisecondToTime(\`minxs\`) \`minx\`,
-      CentisecondToTime(\`pyrams\`) \`pyram\`,
-      CentisecondToTime(\`skewbs\`) \`skewb\`,
-      CentisecondToTime(\`sq1s\`) \`sq1\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
+      FORMAT_RESULT(\`clocks\`,'333','s') \`clock\`,
+      FORMAT_RESULT(\`minxs\`,'333','s') \`minx\`,
+      FORMAT_RESULT(\`pyrams\`,'333','s') \`pyram\`,
+      FORMAT_RESULT(\`skewbs\`,'333','s') \`skewb\`,
+      FORMAT_RESULT(\`sq1s\`,'333','s') \`sq1\`
     FROM
       all_events_rank
     WHERE
@@ -625,13 +666,13 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`555s\`) \`555\`,
-      CentisecondToTime(\`666s\`) \`666\`,
-      CentisecondToTime(\`777s\`) \`777\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
+      FORMAT_RESULT(\`666s\`,'333','s') \`666\`,
+      FORMAT_RESULT(\`777s\`,'333','s') \`777\`
     FROM
       all_events_rank
     WHERE
@@ -660,12 +701,12 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`555s\`) \`555\`,
-      CentisecondToTime(\`666s\`) \`666\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`444s\`+\`555s\`+\`666s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
+      FORMAT_RESULT(\`666s\`,'333','s') \`666\`
     FROM
       all_events_rank
     WHERE
@@ -694,11 +735,11 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`444s\`+\`555s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`444s\`) \`444\`,
-      CentisecondToTime(\`555s\`) \`555\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`444s\`+\`555s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
+      FORMAT_RESULT(\`555s\`,'333','s') \`555\`
     FROM
       all_events_rank
     WHERE
@@ -727,10 +768,10 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`333s\`+\`444s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`444s\`) \`444\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`444s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`444s\`,'333','s') \`444\`
     FROM
       all_events_rank
     WHERE
@@ -759,11 +800,11 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`333bfs\`) \`333bf\`,
-      CentisecondToTime(\`333fts\`) \`333ft\`,
-      CentisecondToTime(\`333ohs\`) \`333oh\`
+      CONCAT('**',FORMAT_RESULT(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
+      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
+      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`
     FROM
       all_events_rank
     WHERE
@@ -792,10 +833,10 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`333s\`+\`333bfs\`+\`333ohs\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`333s\`) \`333\`,
-      CentisecondToTime(\`333bfs\`) \`333bf\`,
-      CentisecondToTime(\`333ohs\`) \`333oh\`
+      CONCAT('**',FORMAT_RESULT(\`333s\`+\`333bfs\`+\`333ohs\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
+      FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
+      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`
     FROM
       all_events_rank
     WHERE
@@ -824,10 +865,10 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`333bfs\`+\`444bfs\`+\`555bfs\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`333bfs\`) \`333bf\`,
-      CentisecondToTime(\`444bfs\`) \`444bf\`,
-      CentisecondToTime(\`555bfs\`) \`555bf\`
+      CONCAT('**',FORMAT_RESULT(\`333bfs\`+\`444bfs\`+\`555bfs\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
+      FORMAT_RESULT(\`444bfs\`,'333','s') \`444bf\`,
+      FORMAT_RESULT(\`555bfs\`,'333','s') \`555bf\`
     FROM
       all_events_rank
     WHERE
@@ -856,12 +897,12 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`clocks\`) \`clock\`,
-      CentisecondToTime(\`minxs\`) \`minx\`,
-      CentisecondToTime(\`pyrams\`) \`pyram\`,
-      CentisecondToTime(\`skewbs\`) \`skewb\`,
-      CentisecondToTime(\`sq1s\`) \`sq1\`
+      CONCAT('**',FORMAT_RESULT(\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`clocks\`,'333','s') \`clock\`,
+      FORMAT_RESULT(\`minxs\`,'333','s') \`minx\`,
+      FORMAT_RESULT(\`pyrams\`,'333','s') \`pyram\`,
+      FORMAT_RESULT(\`skewbs\`,'333','s') \`skewb\`,
+      FORMAT_RESULT(\`sq1s\`,'333','s') \`sq1\`
     FROM
       all_events_rank
     WHERE
@@ -890,10 +931,10 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',CentisecondToTime(\`222s\`+\`pyrams\`+\`skewbs\`),'**') \`Relay Time\`,
-      CentisecondToTime(\`222s\`) \`222\`,
-      CentisecondToTime(\`pyrams\`) \`pyram\`,
-      CentisecondToTime(\`skewbs\`) \`skewb\`
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`pyrams\`+\`skewbs\`,'333','s'),'**') \`Relay Time\`,
+      FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
+      FORMAT_RESULT(\`pyrams\`,'333','s') \`pyram\`,
+      FORMAT_RESULT(\`skewbs\`,'333','s') \`skewb\`
     FROM
       all_events_rank
     WHERE
@@ -1404,51 +1445,6 @@ do
 	echo -e "\\r${CHECK_MARK} Best Single without Sub ${i} Average (${finish}ms)"
 done
 
-#finalmissers
-
-mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
-
-for i in "${arr[@]}"
-do
-	start=$(date +%s%N | cut -b1-13)
-	echo -n "${i} Final Missers"
-	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, Country, Competition, Result 
-	FROM 
-		(SELECT 
-			@i := IF(@v = result, @i, @i + @c) initrank, 
-			@c := IF(@v = result, @c + 1, 1) counter, 
-			@r := IF(@v = result, '=', @i) Rank, 
-			@v := result val, 
-			a.*  
-		FROM 
-			(SELECT 
-				CONCAT('[',personName,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
-				personcountryId Country, 
-				CONCAT('[',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,')') Competition, 
-				IF(eventId = '333mbf',
-					CONCAT(99-LEFT(best,2)+RIGHT(best,2),'/',99-LEFT(best,2)+(2*RIGHT(best,2)),' ',wca_stats.CENTISECONDTOTIME(MID(best,4,4)*100)),
-					wca_stats.CENTISECONDTOTIME(IF(eventId LIKE '%bf', best, average))) Result 
-			FROM final_missers 
-			WHERE eventId = '${i}' AND 
-				IF(eventId LIKE '%bf', best, average) > 0 
-			ORDER BY IF(eventId LIKE '%bf', best, average) 
-			LIMIT 1000) a) b;" > ~/mysqloutput/original
-	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
-    sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-	sed -i.bak 's/^/|/' ~/mysqloutput/output
-	sed -i.bak 's/$/|  /' ~/mysqloutput/output
-    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/finalmissers.md ~/pages/WCA-Stats/finalmissers/"$i".md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/finalmissers/"$i".md.tmp
-	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i".md.tmp > ~/pages/WCA-Stats/finalmissers/"$i".md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i".md.tmp2 > ~/pages/WCA-Stats/finalmissers/"$i".md && \
-	rm ~/pages/WCA-Stats/finalmissers/*.tmp*
-	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} ${i} Final Missers (${finish}ms)"
-done
-
 #currentao5
 
 mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900 AND id <> '333mbf'")
@@ -1458,7 +1454,7 @@ do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "${i} Current Ao5"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao5,2),CENTISECONDTOTIME(ao5)) Average, Times 
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao5,2),FORMAT_RESULT(ao5,eventId,'s')) Average, Times 
 	FROM 
 		(SELECT 
 			@i := IF(@v = ao5, @i, @i + @c) initrank, 
@@ -1502,7 +1498,7 @@ do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "${i} Current ao12"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao12,2),CENTISECONDTOTIME(ao12)) Average, Times 
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao12,2),FORMAT_RESULT(ao12,eventId,'s')) Average, Times 
 	FROM 
 		(SELECT 
 			@i := IF(@v = ao12, @i, @i + @c) initrank, 
@@ -1546,7 +1542,7 @@ do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "${i} Current ao25"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao25,2),CENTISECONDTOTIME(ao25)) Average, Times 
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao25,2),FORMAT_RESULT(ao25,eventId,'s')) Average, Times 
 	FROM 
 		(SELECT 
 			@i := IF(@v = ao25, @i, @i + @c) initrank, 
@@ -1590,7 +1586,7 @@ do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "${i} Current ao50"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao50,2),CENTISECONDTOTIME(ao50)) Average, Times 
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao50,2),FORMAT_RESULT(ao50,eventId,'s')) Average, Times 
 	FROM 
 		(SELECT 
 			@i := IF(@v = ao50, @i, @i + @c) initrank, 
@@ -1634,7 +1630,7 @@ do
 	start=$(date +%s%N | cut -b1-13)
 	echo -n "${i} Current ao100"
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao100,2),CENTISECONDTOTIME(ao100)) Average, Times 
+	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao100,2),FORMAT_RESULT(ao100,eventId,'s')) Average, Times 
 	FROM 
 		(SELECT 
 			@i := IF(@v = ao100, @i, @i + @c) initrank, 
@@ -1673,7 +1669,7 @@ done
 
 i="bestworstrank"
 start=$(date +%s%N | cut -b1-13)
-echo -n "Current ao100"
+echo -n "bestworstrank"
 mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
   SELECT Rank, Name, countryId Country, maxWorldRank \`Max World Rank\`, maxWorldRankEventId Event
   FROM
@@ -1720,7 +1716,7 @@ FROM
     c.*
 FROM
   (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
-  (SELECT personId, MAX(value) worstorder, IF(eventId = '333fm', MAX(value), IF(eventId = '333mbf', CONCAT(99-LEFT(MAX(value),2)+RIGHT(MAX(value),2),'/',99-LEFT(MAX(value),2)+(2*RIGHT(MAX(value),2)),' ',CENTISECONDTOTIME(MID(MAX(value),4,4)*100)), CENTISECONDTOTIME(MAX(value)))) worst FROM all_attempts WHERE eventId = '${i}' AND value > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
+  (SELECT personId, MAX(value) worstorder, FORMAT_RESULT(MAX(value),eventId,'s') worst FROM all_attempts WHERE eventId = '${i}' AND value > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
   JOIN persons_extra b ON a.personId = b.id
   ORDER BY a.worstorder, b.id) c) d;" > ~/mysqloutput/original
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
@@ -1753,7 +1749,7 @@ FROM
     c.*
 FROM
   (SELECT CONCAT('[',b.name,'](https://www.worldcubeassociation.org/persons/',b.id,')') Name, b.countryId, a.worst, a.worstorder FROM
-  (SELECT personId, MAX(average) worstorder, IF(eventId = '333fm', MAX(average), IF(eventId = '333mbf', CONCAT(99-LEFT(MAX(average),2)+RIGHT(MAX(average),2),'/',99-LEFT(MAX(average),2)+(2*RIGHT(MAX(average),2)),' ',CENTISECONDTOTIME(MID(MAX(average),4,4)*100)), CENTISECONDTOTIME(MAX(average)))) worst FROM results_extra WHERE eventId = '${i}' AND average > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
+  (SELECT personId, MAX(average) worstorder, FORMAT_RESULT(MAX(average),eventId,'a') worst FROM results_extra WHERE eventId = '${i}' AND average > 0 GROUP BY personId, eventId ORDER BY worstorder, personId LIMIT 1000) a
   JOIN persons_extra b ON a.personId = b.id
   ORDER BY a.worstorder, b.id) c) d;" > ~/mysqloutput/original
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
@@ -1769,50 +1765,6 @@ FROM
 	rm ~/pages/WCA-Stats/bestworstresult/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
 	echo -e "\\r${CHECK_MARK} ${i} Best Worst Average (${finish}ms)"
-done
-
-#totalsolvetime
-
-mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
-
-for i in "${arr[@]}"
-do
-	start=$(date +%s%N | cut -b1-13)
-	echo -n "${i} Current ao100"
-	mysql --login-path=local wca_stats -e "
-	SELECT Rank, Name, countryId Country, IF(eventId = '333fm',ROUND(ao100,2),CENTISECONDTOTIME(ao100)) Average, Times 
-	FROM 
-		(SELECT 
-			@i := IF(@v = ao100, @i, @i + @c) initrank, 
-			@c := IF(@v = ao100, @c + 1, 1) counter, 
-			@r := IF(@v = ao100, '=', @i) Rank, 
-			@v := ao100 val, 
-			a.*  
-		FROM 
-			(SELECT 
-				CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name,
-				countryId,
-				ao100,
-				times,
-				eventId
-			FROM currentao100 
-			JOIN persons_extra ON currentao100.personid = persons_extra.id
-			WHERE ao100 > 0 AND eventId = '${i}'
-			ORDER BY currentao100.ao100, personId
-			LIMIT 250) a) b;" > ~/mysqloutput/original
-	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
-    sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-	sed -i.bak 's/^/|/' ~/mysqloutput/output
-	sed -i.bak 's/$/|  /' ~/mysqloutput/output
-    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/currentao100.md ~/pages/WCA-Stats/currentao100/"$i".md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/currentao100/"$i".md.tmp
-	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp > ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/currentao100/"$i".md.tmp2 > ~/pages/WCA-Stats/currentao100/"$i".md && \
-	rm ~/pages/WCA-Stats/currentao100/*.tmp*
-	let finish=($(date +%s%N | cut -b1-13)-$start)
-	echo -e "\\r${CHECK_MARK} ${i} Current ao100 (${finish}ms)"
 done
 
 #namelength
@@ -2029,7 +1981,7 @@ declare -a arr=(2015SPEN01 2017GOLD02)
 
 for i in "${arr[@]}"
 do
-	mysql --login-path=local wca_stats -e "SELECT eventId, format, succeeded, IF(eventId = '333mbf',IF(result > 0,CONCAT(99-LEFT(result,2)+RIGHT(result,2),'/',99-LEFT(result,2)+(2*RIGHT(result,2)),' ',CENTISECONDTOTIME(MID(result,4,4)*100)),'DNF'),IF(eventId = '333fm' AND format = 's', result, CENTISECONDTOTIME(result))) result, worldRank, continentRank, countryRank, competitionId, date FROM ranks_all WHERE personId = '${i}';" > ~/mysqloutput/original && \
+	mysql --login-path=local wca_stats -e "SELECT eventId, format, succeeded, FORMAT_RESULT(result,eventId,format) result, worldRank, continentRank, countryRank, competitionId, date FROM ranks_all WHERE personId = '${i}';" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
 	sed -i.bak '2i\
 	--|--|--|--|--|--|--|--|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -2038,408 +1990,6 @@ do
 	cp ~/pages/WCA-Stats/templates/misc.md ~/pages/WCA-Stats/misc/"$i".md
 	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/misc/"$i".md
 done
-
-#End of Year Stats for WCT
-
-cp ~/pages/WCA-Stats/templates/endofyearstats.md ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE value > 0 AND YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/aaaaa/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(DISTINCT compCountryId) FROM results_extra WHERE YEAR(date) = 2018 AND compCountryId NOT LIKE 'X_' GROUP BY personId ORDER BY COUNT(DISTINCT compCountryId) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/bbbbb/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 1 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ccccc/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 2 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ddddd/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 3 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/eeeee/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos <= 3 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/fffff/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT u.name, COUNT(*) FROM wca_dev.competition_organizers co JOIN wca_dev.users u ON co.organizer_id = u.id WHERE competition_id LIKE '%2018' GROUP BY co.organizer_id ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ggggg/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT countryId FROM competitions_extra GROUP BY countryId HAVING MIN(YEAR(endDate)) = 2018;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/hhhhh/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT cityName, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GROUP BY cityName ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/iiiii/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT countryId, COUNT(*) FROM competitions_extra WHERE YEAR(endDate) = 2018 GROUP BY countryId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/jjjjj/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE value = -1 AND YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/kkkkk/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE value > 0 AND YEAR(date) = 2018 AND eventId = '333bf' GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/lllll/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SET @a = 0, @p = ''; SELECT personId, personName, personCountryId, MAX(streak) FROM (SELECT *, @a := IF(@p = personId AND value > 0, @a + 1, 1) streak, @p := personId FROM (SELECT personId, personName, personCountryId, value, id FROM all_attempts WHERE YEAR(date) = 2018 AND eventId = '333bf' ORDER BY personId, id) a ORDER BY personId, id) b GROUP BY personId ORDER BY MAX(streak) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/mmmmm/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(DISTINCT competitionId) FROM results_extra WHERE YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(DISTINCT competitionId) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/nnnnn/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT pce.personId, pce.personName, pce.personCountryId, SUM(ce.WRs) FROM person_comps_extra pce JOIN competitions_extra ce ON pce.competitionId = ce.id WHERE YEAR(ce.endDate) = 2018 GROUP BY pce.personId ORDER BY SUM(ce.WRs) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ooooo/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT a.id, a.name, a.countryId, b.membership \`2017\`, a.membership \`2018\` FROM persons_extra a INNER JOIN persons_extra_2017 b ON a.id = b.id WHERE a.membership <> b.membership ORDER BY FIELD(a.membership,'Platinum','Gold','Silver','Bronze','None'), FIELD(b.membership,'Platinum','Gold','Silver','Bronze','None'), a.id;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ppppp/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT name, competitors FROM competitions_extra WHERE YEAR(endDate) = 2018 AND competitors > 0 ORDER BY competitors ASC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/qqqqq/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SET @val = 0, @pid = ''; SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak, @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp, @ecomp := IF(@val = 0, NULL, competitionId) endComp, @pid := personId pidhelp FROM (SELECT * FROM competition_PBs WHERE competitionId LIKE '%2018' ORDER BY id ASC) a GROUP BY a.personId, a.competitionId ORDER BY a.id ASC) pbs JOIN persons_extra p ON pbs.personid = p.id GROUP BY p.id ORDER BY MAX(pbStreak) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/rrrrr/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT p.id, p.name, p.countryId, pbs.pbs, pbs.competitionId FROM competition_pbs pbs JOIN persons_extra p ON pbs.personId = p.id WHERE competitionId IN (SELECT id FROM competitions_extra WHERE YEAR(endDate) = 2018) ORDER BY PBs DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/sssss/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT u.name, COUNT(*) FROM wca_dev.competition_delegates co JOIN wca_dev.users u ON co.delegate_id = u.id WHERE competition_id LIKE '%2018' GROUP BY co.delegate_id ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ttttt/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md.tmp
-mysql --login-path=local wca_stats -e "SELECT p.id, p.name, p.countryId, CENTISECONDTOTIME(a.average) \`2017\`, CENTISECONDTOTIME(b.result) \`2018\`, 100*(a.average-b.result)/a.average percentImproved FROM (SELECT personId, MIN(average) average FROM results_extra WHERE average > 0 AND eventId = '333' AND YEAR(date) < 2018 GROUP BY personId) a JOIN (SELECT * FROM ranks_all WHERE eventId = '333' AND succeeded = 1 AND format = 'a') b ON a.personid = b.personId JOIN persons_extra p ON a.personId = p.id ORDER BY percentImproved DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/uuuuu/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018.md
-rm ~/pages/WCA-Stats/endofyearstats/*.tmp*
-
-#End of Year Stats for WCT China
-
-cp ~/pages/WCA-Stats/templates/endofyearstats.md ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE personCountryId = 'China' AND value > 0 AND YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/aaaaa/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(DISTINCT compCountryId) FROM results_extra WHERE personCountryId = 'China' AND YEAR(date) = 2018 AND compCountryId NOT LIKE 'X_' GROUP BY personId ORDER BY COUNT(DISTINCT compCountryId) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/bbbbb/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId ='China' AND YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 1 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ccccc/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId = 'China' AND YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 2 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ddddd/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId = 'China' AND YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos = 3 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/eeeee/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM results_extra WHERE personCountryId = 'China' AND YEAR(date) = 2018 AND roundTypeId IN ('c','f') AND pos <= 3 AND best > 0 GROUP BY personID ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/fffff/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT u.name, COUNT(*) FROM wca_dev.competition_organizers co JOIN wca_dev.users u ON co.organizer_id = u.id WHERE u.country_iso2 = 'CN' AND competition_id LIKE '%2018' GROUP BY co.organizer_id ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ggggg/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT countryId FROM competitions_extra GROUP BY countryId HAVING MIN(YEAR(endDate)) = 2018;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/hhhhh/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT cityName, COUNT(*) FROM competitions_extra WHERE countryId = 'China' AND YEAR(endDate) = 2018 GROUP BY cityName ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/iiiii/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT countryId, COUNT(*) FROM competitions_extra WHERE countryId = 'China' AND YEAR(endDate) = 2018 GROUP BY countryId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/jjjjj/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE personCountryId = 'China' AND value = -1 AND YEAR(date) = 2018 GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/kkkkk/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(*) FROM all_attempts WHERE personCountryId = 'China' AND value > 0 AND YEAR(date) = 2018 AND eventId = '333bf' GROUP BY personId ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/lllll/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SET @a = 0, @p = ''; SELECT personId, personName, personCountryId, MAX(streak) FROM (SELECT *, @a := IF(@p = personId AND value > 0, @a + 1, 1) streak, @p := personId FROM (SELECT personId, personName, personCountryId, value, id FROM all_attempts WHERE personCountryId = 'China' AND YEAR(date) = 2018 AND eventId = '333bf' ORDER BY personId, id) a ORDER BY personId, id) b GROUP BY personId ORDER BY MAX(streak) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/mmmmm/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT personId, personName, personCountryId, COUNT(DISTINCT competitionId) FROM results_extra WHERE YEAR(date) = 2018 AND personCountryId = 'China' GROUP BY personId ORDER BY COUNT(DISTINCT competitionId) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/nnnnn/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT pce.personId, pce.personName, pce.personCountryId, SUM(ce.WRs) FROM person_comps_extra pce JOIN competitions_extra ce ON pce.competitionId = ce.id WHERE YEAR(ce.endDate) = 2018 AND pce.personCountryId = 'China' GROUP BY pce.personId ORDER BY SUM(ce.WRs) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ooooo/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT a.id, a.name, a.countryId, b.membership \`2017\`, a.membership \`2018\` FROM persons_extra a INNER JOIN persons_extra_2017 b ON a.id = b.id WHERE a.countryId = 'China' AND a.membership <> b.membership ORDER BY FIELD(a.membership,'Platinum','Gold','Silver','Bronze','None'), FIELD(b.membership,'Platinum','Gold','Silver','Bronze','None'), a.id;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ppppp/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT name, competitors FROM competitions_extra WHERE countryId = 'China' AND YEAR(endDate) = 2018 AND competitors > 0 ORDER BY competitors ASC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/qqqqq/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SET @val = 0, @pid = ''; SELECT p.id, p.name, p.countryId, MAX(pbStreak) FROM (SELECT a.*, @val := IF(a.PBs = 0, 0, IF(a.personId = @pid, @val + 1, 1)) pbStreak, @scomp := IF(@val = 0, NULL, IF(@val = 1, competitionId, @scomp)) startComp, @ecomp := IF(@val = 0, NULL, competitionId) endComp, @pid := personId pidhelp FROM (SELECT * FROM competition_PBs WHERE competitionId LIKE '%2018' ORDER BY id ASC) a GROUP BY a.personId, a.competitionId ORDER BY a.id ASC) pbs JOIN persons_extra p ON pbs.personid = p.id WHERE p.countryId = 'China' GROUP BY p.id ORDER BY MAX(pbStreak) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/rrrrr/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT p.id, p.name, p.countryId, pbs.pbs, pbs.competitionId FROM competition_pbs pbs JOIN persons_extra p ON pbs.personId = p.id WHERE p.countryId = 'China' AND competitionId IN (SELECT id FROM competitions_extra WHERE YEAR(endDate) = 2018) ORDER BY PBs DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--|--|--|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/sssss/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT u.name, COUNT(*) FROM wca_dev.competition_delegates co JOIN wca_dev.users u ON co.delegate_id = u.id WHERE u.country_iso2 = 'CN' AND competition_id LIKE '%2018' GROUP BY co.delegate_id ORDER BY COUNT(*) DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/ttttt/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp
-mysql --login-path=local wca_stats -e "SELECT p.id, p.name, p.countryId, CENTISECONDTOTIME(a.average) \`2017\`, CENTISECONDTOTIME(b.result) \`2018\`, 100*(a.average-b.result)/a.average percentImproved FROM (SELECT personId, MIN(average) average FROM results_extra WHERE personCountryId = 'China' AND average > 0 AND eventId = '333' AND YEAR(date) < 2018 GROUP BY personId) a JOIN (SELECT * FROM ranks_all WHERE eventId = '333' AND succeeded = 1 AND format = 'a') b ON a.personid = b.personId JOIN persons_extra p ON a.personId = p.id ORDER BY percentImproved DESC LIMIT 10;" > ~/mysqloutput/original && \
-sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
-sed -i.bak '2i\
---|--\' ~/mysqloutput/output
-sed -i.bak 's/^/|/' ~/mysqloutput/output
-sed -i.bak 's/$/|  /' ~/mysqloutput/output
-output=$(cat ~/mysqloutput/output)
-awk -v r="$output" '{gsub(/uuuuu/,r)}1' ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp > ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2
-cp ~/pages/WCA-Stats/endofyearstats/2018china.md.tmp2 ~/pages/WCA-Stats/endofyearstats/2018china.md
-rm ~/pages/WCA-Stats/endofyearstats/*.tmp*
-
-
-
-
-
-
-
-
 
 rm ~/mysqloutput/*
 

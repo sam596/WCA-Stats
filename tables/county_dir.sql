@@ -50,4 +50,6 @@ INSERT INTO county_dir VALUES
 ('2018ADAM11','Northamptonshire'),
 ('2018GRZE01','Greater Manchester'),
 ('2015KEAR01','Northamptonshire'),
-('2015JONE10','Lincolnshire');
+('2015JONE10','Lincolnshire'),
+('2018HARV03','Greater London'),
+('2015SCHO05','Northamptonshire');
