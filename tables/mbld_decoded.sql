@@ -20,7 +20,7 @@ SELECT
     IF(value > 0,CONVERT(RIGHT(value,2),unsigned),NULL) missed,
     IF(value > 0,99-LEFT(value,2)+(2*RIGHT(value,2)),NULL) attempted,
     IF(value > 0,99-LEFT(value,2)+RIGHT(value,2),NULL) solved,
-    IF(value > 0,CONCAT(99-LEFT(value,2)+RIGHT(value,2),"/",99-LEFT(value,2)+(2*RIGHT(value,2))," ",CENTISECONDTOTIME(MID(value,4,4)*100)),'DNF') result
+    FORMAT_RESULT(value,eventId,'s') result
 FROM
     all_attempts
 WHERE
