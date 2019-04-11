@@ -10,7 +10,7 @@ CREATE TABLE persons_extra
       a.gender, 
       a.countryId, 
       b.continentId,
-      s.county ukCounty
+      s.county ukCounty,
       q.name previousName,
       q.gender previousGender,
       q.countryId previousCountryId,
