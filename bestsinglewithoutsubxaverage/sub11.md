@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Wed Apr 10 at 0009UTC*
+*Last updated using WCA Developer Export from Sat Apr 13 at 0108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -239,7 +239,7 @@
 |=|[Santino Maiorino](https://www.worldcubeassociation.org/persons/2017MAIO01)|USA|8.53|12.63|  
 |=|[Wenzheng Huang (黄文政)](https://www.worldcubeassociation.org/persons/2015HUAN07)|China|8.53|13.42|  
 |=|[Yannic Waser](https://www.worldcubeassociation.org/persons/2016WASE01)|Switzerland|8.53|11.13|  
-|=|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|China|8.53|13.34|  
+|=|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|China|8.53|12.96|  
 |=|[Yue Shen (沈樾)](https://www.worldcubeassociation.org/persons/2014SHEN06)|China|8.53|12.95|  
 |233|[Blake Feero](https://www.worldcubeassociation.org/persons/2015FEER01)|USA|8.54|12.23|  
 |=|[Felipe Baltierra](https://www.worldcubeassociation.org/persons/2018BALT03)|Chile|8.54|11.25|  
@@ -306,7 +306,7 @@
 |=|[Jie Zheng (郑杰)](https://www.worldcubeassociation.org/persons/2017ZHEN53)|China|8.65|11.71|  
 |=|[John Meador](https://www.worldcubeassociation.org/persons/2017MEAD01)|USA|8.65|11.87|  
 |=|[Karol Tomík](https://www.worldcubeassociation.org/persons/2016TOMI01)|Slovakia|8.65|11.49|  
-|=|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|8.65|11.27|  
+|=|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|8.65|11.22|  
 |=|[Leudy Rodríguez](https://www.worldcubeassociation.org/persons/2014RODR31)|Dominican Republic|8.65|11.07|  
 |=|[Marquez Phan](https://www.worldcubeassociation.org/persons/2015PHAN02)|Australia|8.65|11.04|  
 |=|[Martias Try Wardhana](https://www.worldcubeassociation.org/persons/2010WARD02)|Indonesia|8.65|13.20|  

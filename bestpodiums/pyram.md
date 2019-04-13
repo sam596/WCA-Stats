@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Wed Apr 10 at 0009UTC*
+*Last updated using WCA Developer Export from Sat Apr 13 at 0108UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -106,5 +106,5 @@
 |96|[Santa Claus Cube Race 2016](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016)|Poland|10.03|[Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01), [Marko Striieshyn](https://www.worldcubeassociation.org/persons/2014STRI01), [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01)|3.24, 3.32, 3.47|  
 |97|[Hessen Open 2017](https://www.worldcubeassociation.org/competitions/HessenOpen2017)|Germany|10.04|[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01), [Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02), [Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|2.55, 3.16, 4.33|  
 |=|[Hudson Valley Winter 2019](https://www.worldcubeassociation.org/competitions/HudsonValleyWinter2019)|United States|10.04|[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03), [Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17), [Abner Brijesh](https://www.worldcubeassociation.org/persons/2016BRIJ01)|2.92, 3.07, 4.05|  
-|99|[Rubik's Cube Mumbai Open 2017](https://www.worldcubeassociation.org/competitions/RubiksCubeMumbaiOpen2017)|India|10.08|[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02), [Aneesh Sawant](https://www.worldcubeassociation.org/persons/2013SAWA01), [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|2.73, 3.44, 3.91|  
-|100|[Philippine Championship 2018](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2018)|Philippines|10.11|[Justin Andrew Dee](https://www.worldcubeassociation.org/persons/2015DEEJ02), [Michael Angelo Zafra](https://www.worldcubeassociation.org/persons/2008ZAFR01), [Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|2.79, 3.42, 3.90|  
+|99|[Weihai Open 2019](https://www.worldcubeassociation.org/competitions/WeihaiOpen2019)|China|10.05|[Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01), [Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29), [Fazhen Wu (吴法臻)](https://www.worldcubeassociation.org/persons/2013WUFA03)|2.70, 3.55, 3.80|  
+|100|[Rubik's Cube Mumbai Open 2017](https://www.worldcubeassociation.org/competitions/RubiksCubeMumbaiOpen2017)|India|10.08|[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02), [Aneesh Sawant](https://www.worldcubeassociation.org/persons/2013SAWA01), [Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|2.73, 3.44, 3.91|  
