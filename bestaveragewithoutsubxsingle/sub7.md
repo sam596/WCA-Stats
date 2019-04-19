@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Tue Apr 16 at 0209UTC*
+*Last updated using WCA Developer Export from Fri Apr 19 at 0309UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -34,14 +34,14 @@
 |=|[Toby Litiatco](https://www.worldcubeassociation.org/persons/2018LITI01)|Philippines|7.78|8.41|  
 |25|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|7.76|8.42|  
 |26|[Mharr Justhinne Ampong](https://www.worldcubeassociation.org/persons/2012AMPO01)|Philippines|7.18|8.44|  
+|=|[Eyal Alfasi](https://www.worldcubeassociation.org/persons/2010ALFA03)|Israel|7.58|8.44|  
 |=|[Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03)|China|7.62|8.44|  
-|28|[Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01)|Italy|7.03|8.46|  
-|=|[Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01)|USA|7.14|8.46|  
+|29|[Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01)|USA|7.14|8.46|  
 |=|[Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03)|Belarus|7.25|8.46|  
 |=|[Piti Pichedpan (ปิติ พิเชษฐพันธ์)](https://www.worldcubeassociation.org/persons/2009PICH01)|Thailand|7.33|8.46|  
 |32|[Vladyslav Zhyhailo (Владислав Жигайло)](https://www.worldcubeassociation.org/persons/2013ZHYH01)|Ukraine|7.07|8.47|  
 |=|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|7.22|8.47|  
-|=|[Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01)|Kosovo|7.59|8.47|  
+|=|[Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01)|Kosovo|7.28|8.47|  
 |=|[Hong Seungbin](https://www.worldcubeassociation.org/persons/2014SEUN01)|Korea|8.15|8.47|  
 |36|[Swann Castel](https://www.worldcubeassociation.org/persons/2011CAST01)|France|7.41|8.48|  
 |37|[Ivaylo Tanev](https://www.worldcubeassociation.org/persons/2015TANE02)|Bulgaria|7.04|8.49|  
@@ -114,18 +114,18 @@
 |=|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|7.51|8.78|  
 |105|[Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03)|Japan|7.00|8.79|  
 |=|[Sripad Sarma Katrapati](https://www.worldcubeassociation.org/persons/2014KATR01)|India|7.09|8.79|  
-|=|[Eyal Alfasi](https://www.worldcubeassociation.org/persons/2010ALFA03)|Israel|7.58|8.79|  
-|108|[Gabriel Dechichi Barbar](https://www.worldcubeassociation.org/persons/2009BARB01)|Brazil|7.16|8.80|  
+|107|[Gabriel Dechichi Barbar](https://www.worldcubeassociation.org/persons/2009BARB01)|Brazil|7.16|8.80|  
 |=|[Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01)|Poland|7.27|8.80|  
 |=|[An Le](https://www.worldcubeassociation.org/persons/2015LEAN01)|USA|7.45|8.80|  
-|111|[Fardin Bahadory Nejad (فردین بهادری نژاد)](https://www.worldcubeassociation.org/persons/2011NEJA02)|Iran|7.15|8.81|  
+|110|[Fardin Bahadory Nejad (فردین بهادری نژاد)](https://www.worldcubeassociation.org/persons/2011NEJA02)|Iran|7.15|8.81|  
 |=|[Martin Köhler](https://www.worldcubeassociation.org/persons/2014KOHL02)|Germany|7.21|8.81|  
 |=|[Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02)|USA|7.71|8.81|  
-|114|[Boxuan Fan (范柏轩)](https://www.worldcubeassociation.org/persons/2016FANB01)|China|7.07|8.82|  
+|113|[Boxuan Fan (范柏轩)](https://www.worldcubeassociation.org/persons/2016FANB01)|China|7.07|8.82|  
 |=|[Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02)|Malaysia|7.35|8.82|  
 |=|[Grégoire Gsell](https://www.worldcubeassociation.org/persons/2016GSEL01)|France|7.47|8.82|  
 |=|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|7.65|8.82|  
-|118|[Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01)|Philippines|7.22|8.83|  
+|117|[Joaquín Infante Medrano](https://www.worldcubeassociation.org/persons/2017MEDR01)|Mexico|7.12|8.83|  
+|=|[Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01)|Philippines|7.22|8.83|  
 |=|[Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01)|Slovakia|7.64|8.83|  
 |=|[Jnus Macalalad](https://www.worldcubeassociation.org/persons/2018MACA02)|Philippines|7.96|8.83|  
 |121|[Mitsuki Gunji (郡司光貴)](https://www.worldcubeassociation.org/persons/2006GUNJ01)|Japan|7.03|8.84|  

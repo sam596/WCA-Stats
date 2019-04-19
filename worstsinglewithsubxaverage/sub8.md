@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Apr 16 at 0209UTC*
+*Last updated using WCA Developer Export from Fri Apr 19 at 0309UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -16,14 +16,14 @@
 |6|[Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01)|USA|7.82|6.87|  
 |7|[Ethan Jan](https://www.worldcubeassociation.org/persons/2014JANE02)|USA|7.87|6.86|  
 |8|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|7.88|6.82|  
-|9|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|7.99|6.80|  
-|10|[Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01)|Hungary|7.92|6.79|  
+|9|[Hunor Mogyorósi](https://www.worldcubeassociation.org/persons/2015MOGY01)|Hungary|7.92|6.79|  
 |=|[Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|7.92|6.76|  
-|12|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
-|13|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
-|14|[Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11)|USA|7.77|6.69|  
-|15|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|7.99|6.67|  
-|16|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|7.77|6.64|  
+|11|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|7.97|6.74|  
+|12|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|7.91|6.72|  
+|13|[Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11)|USA|7.77|6.69|  
+|14|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|7.99|6.67|  
+|15|[Jr-Wei Jang (張智瑋)](https://www.worldcubeassociation.org/persons/2010JANG01)|Taiwan|7.77|6.64|  
+|16|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|7.99|6.63|  
 |17|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|7.94|6.62|  
 |18|[Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28)|Mexico|7.87|6.62|  
 |19|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|7.76|6.61|  

@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Tue Apr 16 at 0209UTC*
+*Last updated using WCA Developer Export from Fri Apr 19 at 0309UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -267,7 +267,7 @@
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/13)|N (2/4)|N|N|N (0/18)|  
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (10/13)|N (0/4)|N|N|N (2/18)|  
 |[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Y|N (9/13)|N (2/4)|N|N|N (5/18)|  
-|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (9/13)|N (2/4)|N|N|N (1/18)|  
+|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (9/13)|N (2/4)|N|N|N (2/18)|  
 
 ### One Event Missing
 
@@ -338,6 +338,7 @@
 |[Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02)|N (17/18)|Y|N (2/4)|N|N|N (2/18)|  
 |[Gang Yong-Jin](https://www.worldcubeassociation.org/persons/2015YONG02)|N (17/18)|Y|N (2/4)|N|N|N (2/18)|  
 |[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|N (17/18)|Y|N (2/4)|N|N|N (2/18)|  
+|[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Corentin Furet](https://www.worldcubeassociation.org/persons/2014FURE01)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
@@ -389,6 +390,7 @@
 |[Tim Reynolds](https://www.worldcubeassociation.org/persons/2005REYN01)|N (17/18)|N (12/13)|N (2/4)|Y|N|N (12/18)|  
 |[Kristopher De Asis](https://www.worldcubeassociation.org/persons/2008ASIS01)|N (17/18)|N (12/13)|N (2/4)|N|Y|N (8/18)|  
 |[Tommy Szeliga](https://www.worldcubeassociation.org/persons/2012SZEL01)|N (17/18)|N (12/13)|N (2/4)|N|Y|N (2/18)|  
+|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (12/18)|  
 |[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (10/18)|  
 |[Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (9/18)|  
 |[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (7/18)|  
@@ -406,7 +408,6 @@
 |[Hung Lo (羅鴻)](https://www.worldcubeassociation.org/persons/2009LOHU01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
-|[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Alexander Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (9/18)|  
 |[Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (4/18)|  
