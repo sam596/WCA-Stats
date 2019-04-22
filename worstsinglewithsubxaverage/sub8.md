@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Apr 19 at 0309UTC*
+*Last updated using WCA Developer Export from Mon Apr 22 at 0411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -46,7 +46,7 @@
 |36|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|7.98|6.44|  
 |37|[Roger Lightbody III](https://www.worldcubeassociation.org/persons/2016LIGH01)|USA|7.73|6.44|  
 |38|[Weixing Zhang (张炜星)](https://www.worldcubeassociation.org/persons/2009ZHAN53)|China|7.86|6.44|  
-|39|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|7.41|6.43|  
+|39|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|7.27|6.43|  
 |40|[Maksym Yeli (Максим Єлі)](https://www.worldcubeassociation.org/persons/2014YELI01)|Ukraine|7.49|6.42|  
 |41|[Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01)|USA|7.63|6.42|  
 |42|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|7.76|6.41|  
@@ -82,8 +82,8 @@
 |72|[Sean Belke](https://www.worldcubeassociation.org/persons/2014BELK01)|USA|7.80|6.02|  
 |73|[Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01)|China|7.49|6.01|  
 |74|[Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01)|USA|7.76|6.00|  
-|75|[Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03)|China|7.74|6.00|  
-|76|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|7.81|5.99|  
+|75|[Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03)|China|7.72|6.00|  
+|76|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|7.64|5.99|  
 |77|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|USA|7.09|5.98|  
 |78|[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|7.52|5.97|  
 |79|[Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01)|Finland|7.73|5.97|  
@@ -100,7 +100,7 @@
 |90|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|7.20|5.85|  
 |91|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|7.72|5.85|  
 |92|[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|7.74|5.84|  
-|93|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|6.84|5.82|  
+|93|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|6.79|5.82|  
 |94|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|Germany|7.79|5.81|  
 |95|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|7.18|5.81|  
 |96|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|7.54|5.81|  
