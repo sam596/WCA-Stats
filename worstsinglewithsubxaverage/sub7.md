@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Mon Apr 22 at 0411UTC*
+*Last updated using WCA Developer Export from Thu Apr 25 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -12,7 +12,7 @@
 |2|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|6.79|5.82|  
 |3|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|6.81|5.79|  
 |4|[Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|6.52|5.76|  
-|5|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|6.96|5.71|  
+|5|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|6.96|5.66|  
 |6|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.56|  
 |7|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|6.78|5.38|  
 |8|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|6.71|5.24|  

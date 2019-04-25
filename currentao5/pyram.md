@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Mon Apr 22 at 0411UTC*
+*Last updated using WCA Developer Export from Thu Apr 25 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -255,6 +255,6 @@
 |245|[Penghui Bao (包鹏辉)](https://www.worldcubeassociation.org/persons/2017BAOP03)|China|8.53|9.11, 6.53, 6.79, 11.98, 9.71|  
 |=|[Muhammad Daniel Aiman Bin Mohd Zulkifli](https://www.worldcubeassociation.org/persons/2017ZULK02)|Malaysia|8.53|DNF, 10.80, 5.59, 9.22, 5.51|  
 |247|[Cornevina Dea Panuwun](https://www.worldcubeassociation.org/persons/2017PANU01)|Indonesia|8.54|10.18, 10.19, 8.27, 7.19, 6.66|  
-|248|[Haochen Mei (梅皓臣)](https://www.worldcubeassociation.org/persons/2018MEIH02)|China|8.55|6.07, 8.64, 10.98, 9.67, 7.35|  
-|249|[Ryan Menelli](https://www.worldcubeassociation.org/persons/2017MENE06)|USA|8.55|8.08, 9.73, 7.17, 12.47, 7.86|  
-|=|[Gawah Chong-Simard](https://www.worldcubeassociation.org/persons/2018CHON02)|Canada|8.55|9.64, 8.33, 8.62, 8.41, 8.64|  
+|248|[Abraham Arcila Soraluz](https://www.worldcubeassociation.org/persons/2017SORA01)|Peru|8.55|DNF, 13.13, 5.54, 6.99, 5.46|  
+|=|[Haochen Mei (梅皓臣)](https://www.worldcubeassociation.org/persons/2018MEIH02)|China|8.55|6.07, 8.64, 10.98, 9.67, 7.35|  
+|250|[Ryan Menelli](https://www.worldcubeassociation.org/persons/2017MENE06)|USA|8.55|8.08, 9.73, 7.17, 12.47, 7.86|  

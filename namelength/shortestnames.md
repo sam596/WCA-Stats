@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Mon Apr 22 at 0411UTC*
+*Last updated using WCA Developer Export from Thu Apr 25 at 0508UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -635,6 +635,7 @@
 |=|[Da Huo (霍达)](https://www.worldcubeassociation.org/persons/2019HUOD01)|China|5|  
 |=|[Su Jia (贾苏)](https://www.worldcubeassociation.org/persons/2019JIAS01)|China|5|  
 |=|[Mu Lan (兰牧)](https://www.worldcubeassociation.org/persons/2019LANM01)|China|5|  
+|=|[Ran Li (李冉)](https://www.worldcubeassociation.org/persons/2019LIRA01)|China|5|  
 |=|[Ao Liu (刘澳)](https://www.worldcubeassociation.org/persons/2019LIUA01)|China|5|  
 |=|[Yu Liu (刘聿)](https://www.worldcubeassociation.org/persons/2019LIUY01)|China|5|  
 |=|[Zhi Li (李植)](https://www.worldcubeassociation.org/persons/2019LIZH03)|China|5|  
@@ -648,7 +649,7 @@
 |=|[Fei Ye (叶飞)](https://www.worldcubeassociation.org/persons/2019YEFE01)|China|5|  
 |=|[Rui Ye (叶锐)](https://www.worldcubeassociation.org/persons/2019YERU01)|China|5|  
 |=|[Jia Yu (于嘉)](https://www.worldcubeassociation.org/persons/2019YUJI01)|China|5|  
-|641|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|642|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Alan Li](https://www.worldcubeassociation.org/persons/2013LIAL01)|USA|6|  
 |=|[Bing Li (李冰)](https://www.worldcubeassociation.org/persons/2013LIBI01)|China|6|  
 |=|[Hang Li (李航)](https://www.worldcubeassociation.org/persons/2013LIHA03)|China|6|  
-|=|[Nick Li](https://www.worldcubeassociation.org/persons/2013LINI01)|USA|6|  
