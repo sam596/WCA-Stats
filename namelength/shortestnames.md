@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Thu Apr 25 at 0508UTC*
+*Last updated using WCA Developer Export from Sun Apr 28 at 0609UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -645,11 +645,14 @@
 |=|[Saien](https://www.worldcubeassociation.org/persons/2019SAIE01)|India|5|  
 |=|[Hao Si (斯豪)](https://www.worldcubeassociation.org/persons/2019SIHA01)|China|5|  
 |=|[Le Sun (孙乐)](https://www.worldcubeassociation.org/persons/2019SUNL01)|China|5|  
+|=|[Hao Wu (吴昊)](https://www.worldcubeassociation.org/persons/2019WUHA05)|China|5|  
 |=|[Hao Xu (徐浩)](https://www.worldcubeassociation.org/persons/2019XUHA01)|China|5|  
+|=|[Fan Ye (叶凡)](https://www.worldcubeassociation.org/persons/2019YEFA01)|China|5|  
 |=|[Fei Ye (叶飞)](https://www.worldcubeassociation.org/persons/2019YEFE01)|China|5|  
 |=|[Rui Ye (叶锐)](https://www.worldcubeassociation.org/persons/2019YERU01)|China|5|  
 |=|[Jia Yu (于嘉)](https://www.worldcubeassociation.org/persons/2019YUJI01)|China|5|  
-|642|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
+|645|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1005,6 +1008,3 @@
 |=|[Yao Hui (惠瑶)](https://www.worldcubeassociation.org/persons/2013HUIY01)|China|6|  
 |=|[Qidi Hu (胡启迪)](https://www.worldcubeassociation.org/persons/2013HUQI03)|China|6|  
 |=|[Gang Ji (纪纲)](https://www.worldcubeassociation.org/persons/2013JIGA01)|China|6|  
-|=|[Alan Li](https://www.worldcubeassociation.org/persons/2013LIAL01)|USA|6|  
-|=|[Bing Li (李冰)](https://www.worldcubeassociation.org/persons/2013LIBI01)|China|6|  
-|=|[Hang Li (李航)](https://www.worldcubeassociation.org/persons/2013LIHA03)|China|6|  

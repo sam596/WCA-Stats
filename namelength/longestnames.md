@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Thu Apr 25 at 0508UTC*
+*Last updated using WCA Developer Export from Sun Apr 28 at 0609UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -969,6 +969,7 @@
 |=|[Samuel Alejandro Cárdenas Galindo](https://www.worldcubeassociation.org/persons/2019GALI04)|Guatemala|30|  
 |=|[Mariana Gomes de Nascimento Garcia](https://www.worldcubeassociation.org/persons/2019GARC09)|Brazil|30|  
 |=|[Isabela de Arêa Leão Alves Mauricio](https://www.worldcubeassociation.org/persons/2019MAUR02)|Brazil|30|  
+|=|[Gerardo Ariel Domínguez Melgarejo](https://www.worldcubeassociation.org/persons/2019MELG01)|Paraguay|30|  
 |=|[Ana Carolina do Nascimento Moreira](https://www.worldcubeassociation.org/persons/2019MORE08)|Brazil|30|  
 |=|[Tsundzukani Richmond Nghondzweni](https://www.worldcubeassociation.org/persons/2019NGHO01)|South Africa|30|  
 |=|[Rodrigo Alexander Quicaño Peralta](https://www.worldcubeassociation.org/persons/2019PERA02)|Peru|30|  
@@ -982,7 +983,7 @@
 |=|[Deivid Jhunior Aleluya Unchupaico](https://www.worldcubeassociation.org/persons/2019UNCH01)|Peru|30|  
 |=|[Antonio Fernandes Carvalho Vecoso](https://www.worldcubeassociation.org/persons/2019VECO01)|Brazil|30|  
 |=|[Juan Guillermo Veramendi Villugas](https://www.worldcubeassociation.org/persons/2019VILL14)|Peru|30|  
-|975|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
+|976|[Vicente Ignacio Salazar Castillo](https://www.worldcubeassociation.org/persons/2009CAST04)|Chile|29|  
 |=|[Maria Josefina Razazi Fuenzalida](https://www.worldcubeassociation.org/persons/2009FUEN01)|Chile|29|  
 |=|[Umar Yunan Kurnia Septo Hediyanto](https://www.worldcubeassociation.org/persons/2009HEDI02)|Indonesia|29|  
 |=|[Mohammad Hassan Azri Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM02)|Malaysia|29|  
@@ -1007,4 +1008,3 @@
 |=|[Javier Enrique Espinoza Grijalva](https://www.worldcubeassociation.org/persons/2011GRIJ01)|Mexico|29|  
 |=|[Muhammad Sangga Gigih Kanugrahan](https://www.worldcubeassociation.org/persons/2011KANU01)|Indonesia|29|  
 |=|[Muhammad Fadel Anandita Palaguna](https://www.worldcubeassociation.org/persons/2011PALA03)|Indonesia|29|  
-|=|[Daniel Alejandro Pedraza Vasquez](https://www.worldcubeassociation.org/persons/2011PEDR01)|Colombia|29|  
