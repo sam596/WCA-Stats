@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sun Apr 28 at 0609UTC*
+*Last updated using WCA Developer Export from Wed May 01 at 0709UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -651,8 +651,9 @@
 |=|[Fei Ye (叶飞)](https://www.worldcubeassociation.org/persons/2019YEFE01)|China|5|  
 |=|[Rui Ye (叶锐)](https://www.worldcubeassociation.org/persons/2019YERU01)|China|5|  
 |=|[Jia Yu (于嘉)](https://www.worldcubeassociation.org/persons/2019YUJI01)|China|5|  
+|=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|645|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|646|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Alan Hu](https://www.worldcubeassociation.org/persons/2013HUAL01)|Canada|6|  
 |=|[Yao Hui (惠瑶)](https://www.worldcubeassociation.org/persons/2013HUIY01)|China|6|  
 |=|[Qidi Hu (胡启迪)](https://www.worldcubeassociation.org/persons/2013HUQI03)|China|6|  
-|=|[Gang Ji (纪纲)](https://www.worldcubeassociation.org/persons/2013JIGA01)|China|6|  
