@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Wed May 01 at 0709UTC*
+*Last updated using WCA Developer Export from Tue May 07 at 0909UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -146,8 +146,9 @@
 |=|[Yi Gu (顾逸)](https://www.worldcubeassociation.org/persons/2019GUYI01)|China|4|  
 |=|[Bo Li (李博)](https://www.worldcubeassociation.org/persons/2019LIBO01)|China|4|  
 |=|[Yu Li (李宇)](https://www.worldcubeassociation.org/persons/2019LIYU05)|China|4|  
+|=|[Xu Mo (莫旭)](https://www.worldcubeassociation.org/persons/2019MOXU01)|China|4|  
 |=|[Mo Xu (许墨)](https://www.worldcubeassociation.org/persons/2019XUMO01)|China|4|  
-|140|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
+|141|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
 |=|[Yi Hsu](https://www.worldcubeassociation.org/persons/2006HSUY01)|Taiwan|5|  
 |=|[Jim Li](https://www.worldcubeassociation.org/persons/2006LIJI01)|USA|5|  
 |=|[Rui Qi](https://www.worldcubeassociation.org/persons/2007RUIQ01)|China|5|  
@@ -631,14 +632,20 @@
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
 |=|[Siru A (阿斯儒)](https://www.worldcubeassociation.org/persons/2019ASIR01)|China|5|  
 |=|[Nuo Du (杜诺)](https://www.worldcubeassociation.org/persons/2019DUNU01)|China|5|  
+|=|[Bo Fan (凡博)](https://www.worldcubeassociation.org/persons/2019FANB03)|China|5|  
 |=|[Bo Gao (高博)](https://www.worldcubeassociation.org/persons/2019GAOB01)|China|5|  
+|=|[Xu Hou (侯旭)](https://www.worldcubeassociation.org/persons/2019HOUX01)|China|5|  
 |=|[Da Huo (霍达)](https://www.worldcubeassociation.org/persons/2019HUOD01)|China|5|  
 |=|[Su Jia (贾苏)](https://www.worldcubeassociation.org/persons/2019JIAS01)|China|5|  
+|=|[Yi Jin (金奕)](https://www.worldcubeassociation.org/persons/2019JINY02)|China|5|  
 |=|[Mu Lan (兰牧)](https://www.worldcubeassociation.org/persons/2019LANM01)|China|5|  
+|=|[Han Li (李涵)](https://www.worldcubeassociation.org/persons/2019LIHA03)|China|5|  
+|=|[Kai Li](https://www.worldcubeassociation.org/persons/2019LIKA02)|Australia|5|  
 |=|[Ran Li (李冉)](https://www.worldcubeassociation.org/persons/2019LIRA01)|China|5|  
 |=|[Ao Liu (刘澳)](https://www.worldcubeassociation.org/persons/2019LIUA01)|China|5|  
 |=|[Yu Liu (刘聿)](https://www.worldcubeassociation.org/persons/2019LIUY01)|China|5|  
 |=|[Zhi Li (李植)](https://www.worldcubeassociation.org/persons/2019LIZH03)|China|5|  
+|=|[Wei Lu (卢玮)](https://www.worldcubeassociation.org/persons/2019LUWE02)|China|5|  
 |=|[Zhe Lü (吕哲)](https://www.worldcubeassociation.org/persons/2019LUZH01)|China|5|  
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
 |=|[Ze Pan (潘泽)](https://www.worldcubeassociation.org/persons/2019PANZ01)|China|5|  
@@ -652,8 +659,9 @@
 |=|[Rui Ye (叶锐)](https://www.worldcubeassociation.org/persons/2019YERU01)|China|5|  
 |=|[Jia Yu (于嘉)](https://www.worldcubeassociation.org/persons/2019YUJI01)|China|5|  
 |=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
+|=|[Li Zha (查理)](https://www.worldcubeassociation.org/persons/2019ZHAL02)|China|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|646|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|654|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1000,11 +1008,3 @@
 |=|[Fan Gao (高帆)](https://www.worldcubeassociation.org/persons/2013GAOF01)|China|6|  
 |=|[Li Gong (龚莉)](https://www.worldcubeassociation.org/persons/2013GONG01)|China|6|  
 |=|[Si Gong](https://www.worldcubeassociation.org/persons/2013GONG02)|China|6|  
-|=|[Libo Gu (顾立波)](https://www.worldcubeassociation.org/persons/2013GULI02)|China|6|  
-|=|[Xin Guo (郭鑫)](https://www.worldcubeassociation.org/persons/2013GUOX01)|China|6|  
-|=|[Sam Han](https://www.worldcubeassociation.org/persons/2013HANS01)|Canada|6|  
-|=|[Yiyi He (何一亿)](https://www.worldcubeassociation.org/persons/2013HEYI01)|China|6|  
-|=|[Yue Hou (侯越)](https://www.worldcubeassociation.org/persons/2013HOUY02)|China|6|  
-|=|[Alan Hu](https://www.worldcubeassociation.org/persons/2013HUAL01)|Canada|6|  
-|=|[Yao Hui (惠瑶)](https://www.worldcubeassociation.org/persons/2013HUIY01)|China|6|  
-|=|[Qidi Hu (胡启迪)](https://www.worldcubeassociation.org/persons/2013HUQI03)|China|6|  
