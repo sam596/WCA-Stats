@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Tue Jun 04 at 1610UTC*
+*Last updated using WCA Developer Export from Mon Jun 10 at 1810UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -151,7 +151,8 @@
 |=|[Xu Mo (莫旭)](https://www.worldcubeassociation.org/persons/2019MOXU01)|China|4|  
 |=|[Ye Wu (吴烨)](https://www.worldcubeassociation.org/persons/2019WUYE01)|China|4|  
 |=|[Mo Xu (许墨)](https://www.worldcubeassociation.org/persons/2019XUMO01)|China|4|  
-|144|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
+|=|[Su Yu (喻甦)](https://www.worldcubeassociation.org/persons/2019YUSU02)|China|4|  
+|145|[Joe Lu](https://www.worldcubeassociation.org/persons/2005LUJO01)|USA|5|  
 |=|[Yi Hsu](https://www.worldcubeassociation.org/persons/2006HSUY01)|Taiwan|5|  
 |=|[Jim Li](https://www.worldcubeassociation.org/persons/2006LIJI01)|USA|5|  
 |=|[Rui Qi](https://www.worldcubeassociation.org/persons/2007RUIQ01)|China|5|  
@@ -654,6 +655,7 @@
 |=|[Wei Lu (卢玮)](https://www.worldcubeassociation.org/persons/2019LUWE02)|China|5|  
 |=|[Zhe Lü (吕哲)](https://www.worldcubeassociation.org/persons/2019LUZH01)|China|5|  
 |=|[Jie Ma (马杰)](https://www.worldcubeassociation.org/persons/2019MAJI03)|China|5|  
+|=|[Rui Ma (马睿)](https://www.worldcubeassociation.org/persons/2019MARU03)|China|5|  
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
 |=|[Ze Pan (潘泽)](https://www.worldcubeassociation.org/persons/2019PANZ01)|China|5|  
 |=|[Pax Ru](https://www.worldcubeassociation.org/persons/2019RUPA01)|Australia|5|  
@@ -676,7 +678,7 @@
 |=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
 |=|[Li Zha (查理)](https://www.worldcubeassociation.org/persons/2019ZHAL02)|China|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|669|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|671|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1006,5 +1008,3 @@
 |=|[Xing Yi (易兴)](https://www.worldcubeassociation.org/persons/2012YIXI01)|China|6|  
 |=|[Ziqi Yi (易梓奇)](https://www.worldcubeassociation.org/persons/2012YIZI01)|China|6|  
 |=|[Josh Yu](https://www.worldcubeassociation.org/persons/2012YUJO01)|Hong Kong|6|  
-|=|[Kun Zhu (朱锟)](https://www.worldcubeassociation.org/persons/2012ZHUK02)|China|6|  
-|=|[Zhuoma (卓玛)](https://www.worldcubeassociation.org/persons/2012ZHUO02)|China|6|  

@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Tue Jun 04 at 1610UTC*
+*Last updated using WCA Developer Export from Mon Jun 10 at 1810UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -41,8 +41,8 @@
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
-|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|Y|Y|Y|N|Y|N (8/18)|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|Y|Y|Y|N|Y|N (5/18)|  
+|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|Y|Y|Y|N|Y|N (8/18)|  
 |[Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20)|Y|Y|Y|N|Y|N (4/18)|  
 |[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|Y|Y|N (3/4)|Y|Y|N (8/18)|  
 |[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|Y|Y|N (3/4)|Y|Y|N (17/18)|  
@@ -220,6 +220,7 @@
 |[Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02)|Y|Y|N (2/4)|N|N|N (1/18)|  
 |[Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05)|Y|Y|N (2/4)|N|N|N (1/18)|  
 |[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|Y|Y|N (2/4)|N|N|N (1/18)|  
+|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Y|Y|N (2/4)|N|N|N (0/18)|  
 |[Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01)|Y|Y|N (2/4)|N|N|N (0/18)|  
 |[Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01)|Y|Y|N (2/4)|N|N|N (0/18)|  
 |[Shifei Dai (代时飞)](https://www.worldcubeassociation.org/persons/2015DAIS01)|Y|Y|N (2/4)|N|N|N (0/18)|  
@@ -275,10 +276,10 @@
 |[Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01)|Y|N (11/13)|N (1/4)|N|N|N (2/18)|  
 |[Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01)|Y|N (11/13)|N (1/4)|N|N|N (1/18)|  
 |[Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08)|Y|N (10/13)|N (3/4)|N|N|N (5/18)|  
+|[Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01)|Y|N (10/13)|N (2/4)|N|N|N (4/18)|  
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (10/13)|N (2/4)|N|N|N (2/18)|  
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/13)|N (2/4)|N|N|N (0/18)|  
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (10/13)|N (0/4)|N|N|N (2/18)|  
-|[Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01)|Y|N (9/13)|N (2/4)|N|N|N (4/18)|  
 
 ### One Event Missing
 
@@ -334,6 +335,7 @@
 |[Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01)|N (17/18)|Y|N (2/4)|N|N|N (5/18)|  
 |[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|N (17/18)|Y|N (2/4)|N|N|N (5/18)|  
 |[Jēkabs Janovs](https://www.worldcubeassociation.org/persons/2016JANO01)|N (17/18)|Y|N (2/4)|N|N|N (5/18)|  
+|[Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03)|N (17/18)|Y|N (2/4)|N|N|N (5/18)|  
 |[Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01)|N (17/18)|Y|N (2/4)|N|N|N (3/18)|  
 |[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
 |[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|N (17/18)|Y|N (2/4)|N|N|N (4/18)|  
@@ -390,7 +392,7 @@
 |[Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|N (17/18)|Y|N (0/4)|N|N|N (5/18)|  
-|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (17/18)|Y|N (0/4)|N|N|N (3/18)|  
+|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (17/18)|Y|N (0/4)|N|N|N (4/18)|  
 |[Ivan Osovik](https://www.worldcubeassociation.org/persons/2017OSOV01)|N (17/18)|Y|N (0/4)|N|N|N (2/18)|  
 |[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|N (17/18)|Y|N (0/4)|N|N|N (0/18)|  
 |[Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01)|N (17/18)|N (12/13)|Y|N|N|N (7/18)|  
@@ -417,7 +419,6 @@
 |[Hung Lo (羅鴻)](https://www.worldcubeassociation.org/persons/2009LOHU01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
-|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Alexander Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (9/18)|  
 |[Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (4/18)|  
@@ -437,6 +438,7 @@
 |[Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (3/18)|  
 |[Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02)|N (17/18)|N (11/13)|N (2/4)|N|N|N (1/18)|  
 |[Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (1/18)|  
+|[Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (0/18)|  
 |[Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02)|N (17/18)|N (11/13)|N (2/4)|N|N|N (0/18)|  
 |[Stefan Pochmann](https://www.worldcubeassociation.org/persons/2003POCH01)|N (17/18)|N (11/13)|N (1/4)|Y|Y|N (7/18)|  
 |[Eng Dickson](https://www.worldcubeassociation.org/persons/2016DICK03)|N (17/18)|N (11/13)|N (1/4)|N|N|N (3/18)|  
