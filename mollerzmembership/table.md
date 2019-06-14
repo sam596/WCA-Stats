@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Mon Jun 10 at 1810UTC*
+*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -420,17 +420,18 @@
 |[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (1/18)|  
 |[Alexander Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
+|[Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01)|N (17/18)|N (12/13)|N (2/4)|N|N|N (0/18)|  
 |[Mariano D'Imperio](https://www.worldcubeassociation.org/persons/2009DIMP01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (9/18)|  
 |[Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (4/18)|  
 |[Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94)|N (17/18)|N (12/13)|N (1/4)|N|N|N (4/18)|  
 |[Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (3/18)|  
 |[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (3/18)|  
+|[Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (3/18)|  
 |[Jae Hyun Jeong](https://www.worldcubeassociation.org/persons/2016JEON02)|N (17/18)|N (12/13)|N (1/4)|N|N|N (2/18)|  
 |[Péter Trombitás](https://www.worldcubeassociation.org/persons/2008TROM01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (1/18)|  
 |[Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Ian Drake](https://www.worldcubeassociation.org/persons/2017DRAK01)|N (17/18)|N (12/13)|N (1/4)|N|N|N (0/18)|  
 |[Brock Hamann](https://www.worldcubeassociation.org/persons/2012HAMA03)|N (17/18)|N (12/13)|N (0/4)|N|N|N (5/18)|  
-|[Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01)|N (17/18)|N (12/13)|N (0/4)|N|N|N (3/18)|  
 |[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|N (17/18)|N (12/13)|N (0/4)|N|N|N (1/18)|  
 |[Kai Jiptner](https://www.worldcubeassociation.org/persons/2007JIPT01)|N (17/18)|N (11/13)|N (2/4)|Y|Y|N (6/18)|  
 |[Lucas Garron](https://www.worldcubeassociation.org/persons/2006GARR01)|N (17/18)|N (11/13)|N (2/4)|N|N|N (9/18)|  

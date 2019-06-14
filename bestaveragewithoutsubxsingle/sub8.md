@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Mon Jun 10 at 1810UTC*
+*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -29,7 +29,7 @@
 |19|[Dominik Pankros](https://www.worldcubeassociation.org/persons/2015PANK02)|Poland|8.10|9.08|  
 |20|[Tyler Halgren](https://www.worldcubeassociation.org/persons/2015HALG01)|USA|8.17|9.09|  
 |21|[Agustin do Campo](https://www.worldcubeassociation.org/persons/2011CAMP01)|Uruguay|8.18|9.10|  
-|22|[Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01)|United Kingdom|8.11|9.11|  
+|22|[Dominic Lumsden](https://www.worldcubeassociation.org/persons/2016LUMS01)|United Kingdom|8.09|9.11|  
 |23|[Sebastián Benites Wong](https://www.worldcubeassociation.org/persons/2014WONG06)|Peru|8.07|9.12|  
 |=|[Zhengtao Yu (俞正涛)](https://www.worldcubeassociation.org/persons/2017YUZH02)|China|8.10|9.12|  
 |25|[Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02)|USA|8.01|9.15|  
@@ -230,13 +230,14 @@
 |=|[Fernando Garcia Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ26)|Mexico|8.19|9.82|  
 |=|[Anton Forsell](https://www.worldcubeassociation.org/persons/2016FORS05)|Sweden|8.30|9.82|  
 |=|[Connor Brandt](https://www.worldcubeassociation.org/persons/2016BRAN07)|USA|8.31|9.82|  
+|=|[Willian Dias](https://www.worldcubeassociation.org/persons/2015DIAS03)|Brazil|8.33|9.82|  
 |=|[Nick Jordan Mesias Garcia](https://www.worldcubeassociation.org/persons/2016GARC05)|Peru|8.42|9.82|  
 |=|[Francisco Herfter Lopez](https://www.worldcubeassociation.org/persons/2015LOPE05)|Mexico|8.46|9.82|  
 |=|[Frederiks Rūdolfs Kronbergs](https://www.worldcubeassociation.org/persons/2017KRON03)|Latvia|8.61|9.82|  
 |=|[Leong Wing Sik](https://www.worldcubeassociation.org/persons/2009SIKL01)|Malaysia|8.86|9.82|  
-|227|[Jendry Patrick Rimachi Dulanto](https://www.worldcubeassociation.org/persons/2016DULA01)|Peru|8.58|9.83|  
+|228|[Jendry Patrick Rimachi Dulanto](https://www.worldcubeassociation.org/persons/2016DULA01)|Peru|8.58|9.83|  
 |=|[Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01)|Japan|8.97|9.83|  
-|229|[Mohammad Owais](https://www.worldcubeassociation.org/persons/2017OWAI01)|Pakistan|8.07|9.84|  
+|230|[Mohammad Owais](https://www.worldcubeassociation.org/persons/2017OWAI01)|Pakistan|8.07|9.84|  
 |=|[Philip Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|8.37|9.84|  
 |=|[Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05)|New Zealand|8.40|9.84|  
 |=|[Bernard Solomon](https://www.worldcubeassociation.org/persons/2013SOLO02)|United Kingdom|8.44|9.84|  
@@ -246,15 +247,14 @@
 |=|[Jingheng An (安敬恒)](https://www.worldcubeassociation.org/persons/2015ANJI01)|China|8.65|9.84|  
 |=|[John Gabriel Uy](https://www.worldcubeassociation.org/persons/2016UYJO01)|Philippines|8.71|9.84|  
 |=|[William Li](https://www.worldcubeassociation.org/persons/2017LIWI02)|USA|8.78|9.84|  
-|239|[Levi Edler](https://www.worldcubeassociation.org/persons/2015EDLE01)|USA|8.08|9.85|  
+|240|[Levi Edler](https://www.worldcubeassociation.org/persons/2015EDLE01)|USA|8.08|9.85|  
 |=|[Pranav Sundararajan](https://www.worldcubeassociation.org/persons/2018SUND13)|USA|8.13|9.85|  
 |=|[Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|8.16|9.85|  
 |=|[Michael Gottlieb](https://www.worldcubeassociation.org/persons/2006GOTT01)|USA|8.88|9.85|  
 |=|[Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC01)|USA|9.30|9.85|  
 |=|[Armando Dian](https://www.worldcubeassociation.org/persons/2017DIAN01)|Malaysia|9.36|9.85|  
-|245|[Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04)|Poland|8.13|9.86|  
+|246|[Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04)|Poland|8.13|9.86|  
 |=|[Timur Kakhanovich](https://www.worldcubeassociation.org/persons/2014KAKH01)|Belarus|8.13|9.86|  
 |=|[Adriano Matoba Lipski](https://www.worldcubeassociation.org/persons/2016LIPS01)|Brazil|8.14|9.86|  
 |=|[Andres Armando Montalvo Vera](https://www.worldcubeassociation.org/persons/2013VERA03)|Peru|8.31|9.86|  
 |=|[Zhanheng Liu (刘展恒)](https://www.worldcubeassociation.org/persons/2017LIUZ05)|China|8.46|9.86|  
-|=|[Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01)|Romania|8.57|9.86|  
