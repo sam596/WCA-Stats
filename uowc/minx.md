@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -20,4 +20,4 @@
 |[Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01)|USA|2018-04-07|[NoPlaceForDNFSpring2018 - Combined First round](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018/results/all#eminx_d)|[NoPlaceForDNFSpring2018 - Final](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018/results/all#eminx_f)|0|  
 |[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|USA|2018-04-07|[NoPlaceForDNFSpring2018 - Final](https://www.worldcubeassociation.org/competitions/NoPlaceForDNFSpring2018/results/all#eminx_f)|[LowerMorelandSpring2018 - Combined Final](https://www.worldcubeassociation.org/competitions/LowerMorelandSpring2018/results/all#eminx_c)|35|  
 |[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|2018-05-12|[LowerMorelandSpring2018 - Combined Final](https://www.worldcubeassociation.org/competitions/LowerMorelandSpring2018/results/all#eminx_c)|[NewHopeOpenSpring2018 - Combined First round](https://www.worldcubeassociation.org/competitions/NewHopeOpenSpring2018/results/all#eminx_d)|35|  
-|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|2018-06-16|[NewHopeOpenSpring2018 - Combined First round](https://www.worldcubeassociation.org/competitions/NewHopeOpenSpring2018/results/all#eminx_d)|Ongoing|363|  
+|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|2018-06-16|[NewHopeOpenSpring2018 - Combined First round](https://www.worldcubeassociation.org/competitions/NewHopeOpenSpring2018/results/all#eminx_d)|Ongoing|366|  

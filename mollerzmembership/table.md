@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -280,6 +280,31 @@
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (10/13)|N (2/4)|N|N|N (2/18)|  
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/13)|N (2/4)|N|N|N (0/18)|  
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (10/13)|N (0/4)|N|N|N (2/18)|  
+|[Esen Mamadaliev (Эсен Мамадалиев)](https://www.worldcubeassociation.org/persons/2019MAMA06)|NULL|NULL|NULL|N|N|NULL|  
+|[Aruuke Muratova (Арууке Муратова)](https://www.worldcubeassociation.org/persons/2019MURA12)|NULL|NULL|NULL|N|N|NULL|  
+|[Emirlan Omorbekov (Эмирлан Оморбеков)](https://www.worldcubeassociation.org/persons/2019OMOR01)|NULL|NULL|NULL|N|N|NULL|  
+|[Arsen Orozov](https://www.worldcubeassociation.org/persons/2019OROZ01)|NULL|NULL|NULL|N|N|NULL|  
+|[Kasym Rahmatullo (Касым Рахматулло)](https://www.worldcubeassociation.org/persons/2019RAHM05)|NULL|NULL|NULL|N|N|NULL|  
+|[Bekzat Raimkulov (Бекзат Раимкулов)](https://www.worldcubeassociation.org/persons/2019RAIM02)|NULL|NULL|NULL|N|N|NULL|  
+|[Bakdoolot Sadykbekov (Бакдоолот Садыкбеков)](https://www.worldcubeassociation.org/persons/2019SADY01)|NULL|NULL|NULL|N|N|NULL|  
+|[Atai Seitov (Атай Сеитов)](https://www.worldcubeassociation.org/persons/2019SEIT02)|NULL|NULL|NULL|N|N|NULL|  
+|[Agzam Shamsadinov (Агзам Шамсадинов)](https://www.worldcubeassociation.org/persons/2019SHAM08)|NULL|NULL|NULL|N|N|NULL|  
+|[Islam Temirbekov (Ислам Темирбеков)](https://www.worldcubeassociation.org/persons/2019TEMI01)|NULL|NULL|NULL|N|N|NULL|  
+|[Almaz Turdaliev (Алмаз Турдалиев)](https://www.worldcubeassociation.org/persons/2019TURD02)|NULL|NULL|NULL|N|N|NULL|  
+|[Dastan Zhenishbekov (Дастан Женишбеков)](https://www.worldcubeassociation.org/persons/2019ZHEN32)|NULL|NULL|NULL|N|N|NULL|  
+|[Bektur Mamadaliev (Бектур Мамадалиев)](https://www.worldcubeassociation.org/persons/2019MAMA05)|NULL|NULL|NULL|N|N|NULL|  
+|[Vladimir Kraiushkin (Владимир Краюшкин)](https://www.worldcubeassociation.org/persons/2019KRAI03)|NULL|NULL|NULL|N|N|NULL|  
+|[Vitalii Kraiushkin (Виталий Краюшкин)](https://www.worldcubeassociation.org/persons/2019KRAI02)|NULL|NULL|NULL|N|N|NULL|  
+|[Eldar Kasymbaev (Эльдар Касымбаев)](https://www.worldcubeassociation.org/persons/2019KASY01)|NULL|NULL|NULL|N|N|NULL|  
+|[Iman Kadyrov (Иман Кадыров)](https://www.worldcubeassociation.org/persons/2019KADY03)|NULL|NULL|NULL|N|N|NULL|  
+|[Kirill Iusupov (Кирил Юсупов)](https://www.worldcubeassociation.org/persons/2019IUSU01)|NULL|NULL|NULL|N|N|NULL|  
+|[Aslan Iskenderbekov](https://www.worldcubeassociation.org/persons/2019ISKE01)|NULL|NULL|NULL|N|N|NULL|  
+|[Angelina Danilenko (Ангелина Даниленко)](https://www.worldcubeassociation.org/persons/2019DANI13)|NULL|NULL|NULL|N|N|NULL|  
+|[Dastan Bostonbaev](https://www.worldcubeassociation.org/persons/2019BOST01)|NULL|NULL|NULL|N|N|NULL|  
+|[Salamat Biygaziev (Саламат Бийгазиев)](https://www.worldcubeassociation.org/persons/2019BIYG01)|NULL|NULL|NULL|N|N|NULL|  
+|[Iskender Beishenaliev (Искендер Бейшеналиев)](https://www.worldcubeassociation.org/persons/2019BEIS02)|NULL|NULL|NULL|N|N|NULL|  
+|[Emir Aytmurzaev (Эмир Айтмурзаев)](https://www.worldcubeassociation.org/persons/2019AYTM01)|NULL|NULL|NULL|N|N|NULL|  
+|[Amantay Asanbekov (Амантай Асанбеков)](https://www.worldcubeassociation.org/persons/2019ASAN01)|NULL|NULL|NULL|N|N|NULL|  
 
 ### One Event Missing
 
@@ -300,10 +325,10 @@
 |[Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02)|N (17/18)|Y|N (2/4)|N|N|N (12/18)|  
 |[Artem Melikian (Артем Мелікян)](https://www.worldcubeassociation.org/persons/2011MELI01)|N (17/18)|Y|N (2/4)|N|N|N (13/18)|  
 |[Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01)|N (17/18)|Y|N (2/4)|N|N|N (13/18)|  
+|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|N (17/18)|Y|N (2/4)|N|N|N (13/18)|  
 |[Allyson Dias de Lima](https://www.worldcubeassociation.org/persons/2011LIMA01)|N (17/18)|Y|N (2/4)|N|N|N (11/18)|  
 |[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|N (17/18)|Y|N (2/4)|N|N|N (12/18)|  
 |[Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01)|N (17/18)|Y|N (2/4)|N|N|N (12/18)|  
-|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|N (17/18)|Y|N (2/4)|N|N|N (12/18)|  
 |[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|N (17/18)|Y|N (2/4)|N|N|N (9/18)|  
 |[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|N (17/18)|Y|N (2/4)|N|N|N (10/18)|  
 |[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|N (17/18)|Y|N (2/4)|N|N|N (10/18)|  

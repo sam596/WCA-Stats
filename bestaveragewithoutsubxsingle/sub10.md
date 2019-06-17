@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -30,11 +30,11 @@
 |20|[Muhammad Fajri Sabilillah](https://www.worldcubeassociation.org/persons/2017SABI03)|Indonesia|10.01|11.03|  
 |=|[Adam Saguy Cohen](https://www.worldcubeassociation.org/persons/2016COHE03)|Israel|10.06|11.03|  
 |=|[Mircea Crisan Córdoba](https://www.worldcubeassociation.org/persons/2017CORD08)|Spain|10.08|11.03|  
-|=|[Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26)|USA|10.17|11.03|  
 |=|[Xuan Liu (刘璇)](https://www.worldcubeassociation.org/persons/2016LIUX15)|China|10.18|11.03|  
 |=|[Rodolfo Uriel Porras Pino](https://www.worldcubeassociation.org/persons/2015PINO01)|Peru|10.38|11.03|  
-|26|[Seungwoo Nam](https://www.worldcubeassociation.org/persons/2014NAMS01)|Korea|10.03|11.04|  
+|25|[Seungwoo Nam](https://www.worldcubeassociation.org/persons/2014NAMS01)|Korea|10.03|11.04|  
 |=|[Rudolf Wehofer](https://www.worldcubeassociation.org/persons/2008WEHO01)|Hungary|10.12|11.04|  
+|=|[Nazar Skochypets (Назар Скочипець)](https://www.worldcubeassociation.org/persons/2018SKOC02)|Ukraine|10.25|11.04|  
 |28|[Gandhi Trino Melgar Torres](https://www.worldcubeassociation.org/persons/2017TORR22)|Peru|10.09|11.05|  
 |=|[Joey Deaton](https://www.worldcubeassociation.org/persons/2018DEAT01)|USA|10.09|11.05|  
 |=|[Adam Wong Wei Jiang](https://www.worldcubeassociation.org/persons/2014JIAN01)|Malaysia|10.10|11.05|  

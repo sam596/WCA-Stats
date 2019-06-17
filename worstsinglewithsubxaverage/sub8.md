@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -82,12 +82,12 @@
 |72|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|7.69|6.13|  
 |73|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|7.96|6.13|  
 |74|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|7.83|6.12|  
-|75|[Nazar Lenyshyn (Назар Ленишин)](https://www.worldcubeassociation.org/persons/2017LENY01)|Ukraine|7.88|6.11|  
-|76|[Jonathan Hamstad](https://www.worldcubeassociation.org/persons/2011HAMS01)|Norway|7.60|6.09|  
-|77|[Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20)|China|7.56|6.09|  
+|75|[Jonathan Hamstad](https://www.worldcubeassociation.org/persons/2011HAMS01)|Norway|7.60|6.09|  
+|76|[Lin Chen (陈霖)](https://www.worldcubeassociation.org/persons/2010CHEN20)|China|7.56|6.09|  
 |=|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|7.56|6.07|  
-|79|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|7.53|6.07|  
-|80|[Staš Zupanc](https://www.worldcubeassociation.org/persons/2014ZUPA01)|Slovenia|7.72|6.06|  
+|78|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|7.53|6.07|  
+|79|[Staš Zupanc](https://www.worldcubeassociation.org/persons/2014ZUPA01)|Slovenia|7.72|6.06|  
+|80|[Nazar Lenyshyn (Назар Ленишин)](https://www.worldcubeassociation.org/persons/2017LENY01)|Ukraine|7.88|6.02|  
 |81|[Rituraj Sohoni](https://www.worldcubeassociation.org/persons/2012SOHO01)|India|7.84|6.02|  
 |82|[Sean Belke](https://www.worldcubeassociation.org/persons/2014BELK01)|USA|7.80|6.02|  
 |83|[Zhouheng Sun (孙舟横)](https://www.worldcubeassociation.org/persons/2008SUNZ01)|China|7.49|6.01|  
@@ -162,7 +162,7 @@
 |152|[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|7.67|5.37|  
 |153|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|7.31|5.35|  
 |154|[Brenton Angelo Lo Wong](https://www.worldcubeassociation.org/persons/2017WONG01)|Philippines|7.35|5.34|  
-|155|[Mykyta Tytar (Микита Титарь)](https://www.worldcubeassociation.org/persons/2014TYTA02)|Ukraine|7.92|5.34|  
+|155|[Mykyta Tytar (Микита Титарь)](https://www.worldcubeassociation.org/persons/2014TYTA02)|Ukraine|7.55|5.34|  
 |156|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|7.23|5.34|  
 |157|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|7.22|5.33|  
 |158|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|7.55|5.31|  

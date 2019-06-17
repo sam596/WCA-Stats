@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -664,9 +664,11 @@
 |=|[Guilherme Albuquerque Vasconcelos](https://www.worldcubeassociation.org/persons/2018VASC03)|Brazil|31|  
 |=|[I Nengah Prama Baswara Andakara Yasa](https://www.worldcubeassociation.org/persons/2018YASA01)|Indonesia|31|  
 |=|[Eduardo Pinheiro do Valle Zawitoski](https://www.worldcubeassociation.org/persons/2018ZAWI01)|Brazil|31|  
+|=|[Jonathan Eduardo Leonardo Ambrocio](https://www.worldcubeassociation.org/persons/2019AMBR02)|Guatemala|31|  
 |=|[Rodrigo Emanuel Zevallos Astuvilca](https://www.worldcubeassociation.org/persons/2019ASTU01)|Peru|31|  
 |=|[Henrique Nakata dos Santos Bertrami](https://www.worldcubeassociation.org/persons/2019BERT05)|Brazil|31|  
 |=|[Gabriel Alejandro Velásquez Chávez](https://www.worldcubeassociation.org/persons/2019CHAV06)|Guatemala|31|  
+|=|[Arianée Abigail Enriquez Contreras](https://www.worldcubeassociation.org/persons/2019CONT06)|Guatemala|31|  
 |=|[Michelle Alejandra Alvarado Garcia](https://www.worldcubeassociation.org/persons/2019GARC07)|Guatemala|31|  
 |=|[Vicente Leonardo Carrasco Gonzalez](https://www.worldcubeassociation.org/persons/2019GONZ01)|Chile|31|  
 |=|[Nicolas Alejandro Solano Gutierrez](https://www.worldcubeassociation.org/persons/2019GUTI07)|Colombia|31|  
@@ -686,7 +688,7 @@
 |=|[Rosario Fernanda Catorceno Veizaga](https://www.worldcubeassociation.org/persons/2019VEIZ02)|Bolivia|31|  
 |=|[Emmanuel Donaldo Soriano Velázquez](https://www.worldcubeassociation.org/persons/2019VELA05)|Mexico|31|  
 |=|[Nishant Ganesapandian Vishnupriya](https://www.worldcubeassociation.org/persons/2019VISH02)|India|31|  
-|679|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|681|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -1005,6 +1007,4 @@
 |=|[Leonardo André Velásquez Aroquipa](https://www.worldcubeassociation.org/persons/2019AROQ01)|Peru|30|  
 |=|[Oihan Goicoechea-Ciordia Asensio](https://www.worldcubeassociation.org/persons/2019ASEN01)|Spain|30|  
 |=|[Bryan Alexander Blandón Castañeda](https://www.worldcubeassociation.org/persons/2019CAST06)|Colombia|30|  
-|=|[Alejandro Nicolas Perez Escalante](https://www.worldcubeassociation.org/persons/2019ESCA02)|Peru|30|  
-|=|[Yeison Esneider Varila Gachancipa](https://www.worldcubeassociation.org/persons/2019GACH01)|Colombia|30|  
-|=|[Samuel Alejandro Cárdenas Galindo](https://www.worldcubeassociation.org/persons/2019GALI04)|Guatemala|30|  
+|=|[Julio Salvador Santolino Castillo](https://www.worldcubeassociation.org/persons/2019CAST26)|Guatemala|30|  

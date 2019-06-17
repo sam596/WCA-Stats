@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Thu Jun 13 at 1910UTC*
+*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -106,5 +106,5 @@
 |96|[Dnepr Skips 2017](https://www.worldcubeassociation.org/competitions/DneprSkips2017)|Ukraine|10.56|[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01), [Denys Shyshliannykov (Денис Шишлянников)](https://www.worldcubeassociation.org/persons/2015SHYS01), [Vladyslav Zhydkov (Владислав Жидков)](https://www.worldcubeassociation.org/persons/2015ZHYD01)|3.13, 3.37, 4.06|  
 |97|[New York City Spring 2018](https://www.worldcubeassociation.org/competitions/NewYorkCitySpring2018)|United States|10.57|[Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01), [Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03), [Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|3.41, 3.53, 3.63|  
 |=|[Kubkvarna Winter 2019](https://www.worldcubeassociation.org/competitions/KubkvarnaWinter2019)|Sweden|10.57|[Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01), [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01), [Mattias Uvesten](https://www.worldcubeassociation.org/persons/2013UVES01)|2.80, 3.13, 4.64|  
-|99|[CubingUSA Heartland Championship 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|United States|10.58|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|3.03, 3.66, 3.89|  
-|=|[Peterborough Open 2018](https://www.worldcubeassociation.org/competitions/PeterboroughOpen2018)|United Kingdom|10.58|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01), [Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01), [Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|3.39, 3.56, 3.63|  
+|=|[Ukrainian Open 2019](https://www.worldcubeassociation.org/competitions/UkrainianOpen2019)|Ukraine|10.57|[Serhii Fedorniak (Сергій Федорняк)](https://www.worldcubeassociation.org/persons/2018FEDO04), [Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04), [Oleksandr Kibenko (Олександр Кібенко)](https://www.worldcubeassociation.org/persons/2016KIBE01)|3.24, 3.25, 4.08|  
+|100|[CubingUSA Heartland Championship 2018](https://www.worldcubeassociation.org/competitions/HeartlandChampionships2018)|United States|10.58|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01), [Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02), [Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|3.03, 3.66, 3.89|  
