@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
+*Last updated using WCA Developer Export from Wed Jun 19 at 2110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -26,13 +26,13 @@
 |16|[Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04)|India|8.88|8.00|  
 |17|[Jnus Macalalad](https://www.worldcubeassociation.org/persons/2018MACA02)|Philippines|8.83|7.96|  
 |18|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|8.41|7.92|  
-|19|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|France|8.98|7.89|  
-|20|[Albert Mendoza](https://www.worldcubeassociation.org/persons/2016MEND17)|Philippines|8.97|7.88|  
-|21|[Juan Antonio Miranda Zùñiga](https://www.worldcubeassociation.org/persons/2014ZUNI02)|Mexico|8.95|7.86|  
-|22|[Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15)|Vietnam|8.94|7.86|  
-|23|[Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09)|China|8.33|7.85|  
-|24|[Ethan Misteri](https://www.worldcubeassociation.org/persons/2016MIST03)|USA|8.77|7.84|  
-|25|[Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01)|USA|8.93|7.83|  
+|19|[Albert Mendoza](https://www.worldcubeassociation.org/persons/2016MEND17)|Philippines|8.97|7.88|  
+|20|[Juan Antonio Miranda Zùñiga](https://www.worldcubeassociation.org/persons/2014ZUNI02)|Mexico|8.95|7.86|  
+|21|[Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15)|Vietnam|8.94|7.86|  
+|22|[Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09)|China|8.33|7.85|  
+|23|[Ethan Misteri](https://www.worldcubeassociation.org/persons/2016MIST03)|USA|8.77|7.84|  
+|24|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|France|8.93|7.84|  
+|=|[Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01)|USA|8.93|7.83|  
 |26|[Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01)|China|8.89|7.83|  
 |27|[Letian Hu (胡乐天)](https://www.worldcubeassociation.org/persons/2014HULE02)|China|8.32|7.83|  
 |28|[Lovin Raghava](https://www.worldcubeassociation.org/persons/2016RAGH02)|India|8.50|7.80|  
@@ -52,7 +52,7 @@
 |42|[Caleb Kinman](https://www.worldcubeassociation.org/persons/2017KINM02)|USA|8.91|7.68|  
 |43|[Joshua Choi (최주선)](https://www.worldcubeassociation.org/persons/2011CHOI04)|Korea|8.94|7.68|  
 |44|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Slovenia|8.91|7.67|  
-|45|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|8.82|7.65|  
+|45|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|8.82|7.64|  
 |46|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|8.59|7.64|  
 |47|[Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01)|Argentina|8.66|7.63|  
 |48|[Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03)|Netherlands|8.62|7.63|  

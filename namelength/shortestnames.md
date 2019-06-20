@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sun Jun 16 at 2010UTC*
+*Last updated using WCA Developer Export from Wed Jun 19 at 2110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -635,6 +635,7 @@
 |=|[Shi Yu (余释)](https://www.worldcubeassociation.org/persons/2018YUSH05)|China|5|  
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
 |=|[Siru A (阿斯儒)](https://www.worldcubeassociation.org/persons/2019ASIR01)|China|5|  
+|=|[Ayman](https://www.worldcubeassociation.org/persons/2019AYMA01)|Bangladesh|5|  
 |=|[Yi Dai (戴翊)](https://www.worldcubeassociation.org/persons/2019DAIY03)|China|5|  
 |=|[Nuo Du (杜诺)](https://www.worldcubeassociation.org/persons/2019DUNU01)|China|5|  
 |=|[Bo Fan (凡博)](https://www.worldcubeassociation.org/persons/2019FANB03)|China|5|  
@@ -678,7 +679,7 @@
 |=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
 |=|[Li Zha (查理)](https://www.worldcubeassociation.org/persons/2019ZHAL02)|China|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|671|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|672|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Chao Ye (叶超)](https://www.worldcubeassociation.org/persons/2012YECH01)|China|6|  
 |=|[Xing Yi (易兴)](https://www.worldcubeassociation.org/persons/2012YIXI01)|China|6|  
 |=|[Ziqi Yi (易梓奇)](https://www.worldcubeassociation.org/persons/2012YIZI01)|China|6|  
-|=|[Josh Yu](https://www.worldcubeassociation.org/persons/2012YUJO01)|Hong Kong|6|  
