@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sat Jun 22 at 2210UTC*
+*Last updated using WCA Developer Export from Tue Jun 25 at 2310UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -659,6 +659,7 @@
 |=|[Rui Ma (马睿)](https://www.worldcubeassociation.org/persons/2019MARU03)|China|5|  
 |=|[Tim Mi](https://www.worldcubeassociation.org/persons/2019MITI01)|Australia|5|  
 |=|[Ze Pan (潘泽)](https://www.worldcubeassociation.org/persons/2019PANZ01)|China|5|  
+|=|[Sam Qu](https://www.worldcubeassociation.org/persons/2019QUSA01)|Germany|5|  
 |=|[Pax Ru](https://www.worldcubeassociation.org/persons/2019RUPA01)|Australia|5|  
 |=|[Saien](https://www.worldcubeassociation.org/persons/2019SAIE01)|India|5|  
 |=|[Hao Si (斯豪)](https://www.worldcubeassociation.org/persons/2019SIHA01)|China|5|  
@@ -679,7 +680,7 @@
 |=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
 |=|[Li Zha (查理)](https://www.worldcubeassociation.org/persons/2019ZHAL02)|China|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|672|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|673|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Hang Xu (徐航)](https://www.worldcubeassociation.org/persons/2012XUHA01)|China|6|  
 |=|[Chao Ye (叶超)](https://www.worldcubeassociation.org/persons/2012YECH01)|China|6|  
 |=|[Xing Yi (易兴)](https://www.worldcubeassociation.org/persons/2012YIXI01)|China|6|  
-|=|[Ziqi Yi (易梓奇)](https://www.worldcubeassociation.org/persons/2012YIZI01)|China|6|  
