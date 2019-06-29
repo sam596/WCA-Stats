@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Tue Jun 25 at 2310UTC*
+*Last updated using WCA Developer Export from Sat Jun 29 at 0009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -250,11 +250,11 @@
 |240|[Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17)|Venezuela|1:38.66|1:40.35, 1:20.87, 1:43.76, 1:48.45, 1:31.88|  
 |241|[Patrick Adams](https://www.worldcubeassociation.org/persons/2010ADAM02)|USA|1:38.79|1:37.56, DNF, 1:33.18, 1:42.61, 1:36.22|  
 |242|[Cong Wen (文聪)](https://www.worldcubeassociation.org/persons/2014WENC01)|China|1:38.85|1:40.35, 1:29.06, 1:41.35, 1:44.37, 1:34.85|  
-|243|[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|1:38.89|1:49.84, 1:45.07, 1:33.75, 1:37.58, 1:34.03|  
-|244|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|1:38.98|1:36.45, 1:40.01, 1:35.46, 1:40.49, 1:47.11|  
-|245|[François-Xavier Kerdelhué](https://www.worldcubeassociation.org/persons/2017KERD01)|France|1:39.05|1:41.81, 1:39.26, 1:49.20, 1:36.10, 1:22.24|  
-|246|[Stanley Yang](https://www.worldcubeassociation.org/persons/2018YANG09)|USA|1:39.07|1:35.95, 1:39.28, 1:33.34, 1:41.98, 1:47.62|  
-|247|[Luis Angel Soto Castillo](https://www.worldcubeassociation.org/persons/2018CAST58)|Panama|1:39.12|1:31.86, 1:42.48, 1:39.92, 1:34.97, DNF|  
-|248|[Affan Adly Bin Nazri](https://www.worldcubeassociation.org/persons/2015NAZR01)|Malaysia|1:39.13|1:41.67, 1:20.56, 1:39.10, 1:36.63, 1:46.73|  
-|249|[Alan Joseht Montufar Carranza](https://www.worldcubeassociation.org/persons/2018CARR16)|Mexico|1:39.16|1:23.92, 1:42.97, 2:08.69, 1:23.86, 1:50.60|  
-|250|[You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01)|Korea|1:39.42|1:40.46, 1:35.05, 1:42.03, 1:35.77, 1:48.61|  
+|243|[Juan David Quiñones](https://www.worldcubeassociation.org/persons/2019QUIN05)|Colombia|1:38.89|1:41.80, 1:29.95, 1:38.60, 1:36.27, 1:56.34|  
+|244|[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|1:38.89|1:49.84, 1:45.07, 1:33.75, 1:37.58, 1:34.03|  
+|245|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|1:38.98|1:36.45, 1:40.01, 1:35.46, 1:40.49, 1:47.11|  
+|246|[François-Xavier Kerdelhué](https://www.worldcubeassociation.org/persons/2017KERD01)|France|1:39.05|1:41.81, 1:39.26, 1:49.20, 1:36.10, 1:22.24|  
+|247|[Stanley Yang](https://www.worldcubeassociation.org/persons/2018YANG09)|USA|1:39.07|1:35.95, 1:39.28, 1:33.34, 1:41.98, 1:47.62|  
+|248|[Luis Angel Soto Castillo](https://www.worldcubeassociation.org/persons/2018CAST58)|Panama|1:39.12|1:31.86, 1:42.48, 1:39.92, 1:34.97, DNF|  
+|249|[Affan Adly Bin Nazri](https://www.worldcubeassociation.org/persons/2015NAZR01)|Malaysia|1:39.13|1:41.67, 1:20.56, 1:39.10, 1:36.63, 1:46.73|  
+|250|[Alan Joseht Montufar Carranza](https://www.worldcubeassociation.org/persons/2018CARR16)|Mexico|1:39.16|1:23.92, 1:42.97, 2:08.69, 1:23.86, 1:50.60|  

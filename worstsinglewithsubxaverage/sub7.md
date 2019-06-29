@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Tue Jun 25 at 2310UTC*
+*Last updated using WCA Developer Export from Sat Jun 29 at 0009UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -16,7 +16,7 @@
 |6|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|USA|6.97|5.67|  
 |7|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|6.96|5.66|  
 |8|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|6.42|5.59|  
-|9|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|6.81|5.53|  
+|9|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|6.81|5.50|  
 |10|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.42|  
 |11|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|6.78|5.38|  
 |12|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|6.71|5.24|  
