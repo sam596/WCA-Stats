@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Sat Jun 29 at 0009UTC*
+*Last updated using WCA Developer Export from Tue Jul 02 at 0109UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -97,7 +97,7 @@
 |[Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06)|Y|Y|N (2/4)|N|Y|N (7/18)|  
 |[Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01)|Y|Y|N (2/4)|N|Y|N (5/18)|  
 |[John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01)|Y|Y|N (2/4)|N|Y|N (16/18)|  
-|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|Y|Y|N (2/4)|N|Y|N (12/18)|  
+|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|Y|Y|N (2/4)|N|Y|N (14/18)|  
 |[Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01)|Y|Y|N (2/4)|N|Y|N (6/18)|  
 |[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|Y|Y|N (2/4)|N|Y|N (6/18)|  
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|Y|Y|N (2/4)|N|Y|N (5/18)|  
@@ -192,6 +192,7 @@
 |[Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01)|Y|Y|N (2/4)|N|N|N (4/18)|  
 |[Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01)|Y|Y|N (2/4)|N|N|N (4/18)|  
 |[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|Y|Y|N (2/4)|N|N|N (4/18)|  
+|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|Y|Y|N (2/4)|N|N|N (4/18)|  
 |[Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01)|Y|Y|N (2/4)|N|N|N (4/18)|  
 |[Nick Vu](https://www.worldcubeassociation.org/persons/2007VUNI01)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Felix Lee](https://www.worldcubeassociation.org/persons/2008LEEF01)|Y|Y|N (2/4)|N|N|N (3/18)|  
@@ -246,7 +247,6 @@
 |[Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01)|Y|Y|N (1/4)|N|N|N (7/18)|  
 |[Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01)|Y|Y|N (1/4)|N|N|N (6/18)|  
 |[Evan Brown](https://www.worldcubeassociation.org/persons/2013BROW04)|Y|Y|N (1/4)|N|N|N (3/18)|  
-|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|Y|Y|N (1/4)|N|N|N (3/18)|  
 |[Sanae Yamashita (山下佐苗)](https://www.worldcubeassociation.org/persons/2008OMYO01)|Y|Y|N (1/4)|N|N|N (1/18)|  
 |[Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03)|Y|Y|N (1/4)|N|N|N (1/18)|  
 |[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|Y|Y|N (1/4)|N|N|N (1/18)|  
@@ -284,31 +284,6 @@
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (10/13)|N (2/4)|N|N|N (2/18)|  
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/13)|N (2/4)|N|N|N (0/18)|  
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (10/13)|N (0/4)|N|N|N (2/18)|  
-|[Esen Mamadaliev (Эсен Мамадалиев)](https://www.worldcubeassociation.org/persons/2019MAMA06)|NULL|NULL|NULL|N|N|NULL|  
-|[Aruuke Muratova (Арууке Муратова)](https://www.worldcubeassociation.org/persons/2019MURA12)|NULL|NULL|NULL|N|N|NULL|  
-|[Emirlan Omorbekov (Эмирлан Оморбеков)](https://www.worldcubeassociation.org/persons/2019OMOR01)|NULL|NULL|NULL|N|N|NULL|  
-|[Arsen Orozov](https://www.worldcubeassociation.org/persons/2019OROZ01)|NULL|NULL|NULL|N|N|NULL|  
-|[Kasym Rahmatullo (Касым Рахматулло)](https://www.worldcubeassociation.org/persons/2019RAHM05)|NULL|NULL|NULL|N|N|NULL|  
-|[Bekzat Raimkulov (Бекзат Раимкулов)](https://www.worldcubeassociation.org/persons/2019RAIM02)|NULL|NULL|NULL|N|N|NULL|  
-|[Bakdoolot Sadykbekov (Бакдоолот Садыкбеков)](https://www.worldcubeassociation.org/persons/2019SADY01)|NULL|NULL|NULL|N|N|NULL|  
-|[Atai Seitov (Атай Сеитов)](https://www.worldcubeassociation.org/persons/2019SEIT02)|NULL|NULL|NULL|N|N|NULL|  
-|[Agzam Shamsadinov (Агзам Шамсадинов)](https://www.worldcubeassociation.org/persons/2019SHAM08)|NULL|NULL|NULL|N|N|NULL|  
-|[Islam Temirbekov (Ислам Темирбеков)](https://www.worldcubeassociation.org/persons/2019TEMI01)|NULL|NULL|NULL|N|N|NULL|  
-|[Almaz Turdaliev (Алмаз Турдалиев)](https://www.worldcubeassociation.org/persons/2019TURD02)|NULL|NULL|NULL|N|N|NULL|  
-|[Dastan Zhenishbekov (Дастан Женишбеков)](https://www.worldcubeassociation.org/persons/2019ZHEN32)|NULL|NULL|NULL|N|N|NULL|  
-|[Bektur Mamadaliev (Бектур Мамадалиев)](https://www.worldcubeassociation.org/persons/2019MAMA05)|NULL|NULL|NULL|N|N|NULL|  
-|[Vladimir Kraiushkin (Владимир Краюшкин)](https://www.worldcubeassociation.org/persons/2019KRAI03)|NULL|NULL|NULL|N|N|NULL|  
-|[Vitalii Kraiushkin (Виталий Краюшкин)](https://www.worldcubeassociation.org/persons/2019KRAI02)|NULL|NULL|NULL|N|N|NULL|  
-|[Eldar Kasymbaev (Эльдар Касымбаев)](https://www.worldcubeassociation.org/persons/2019KASY01)|NULL|NULL|NULL|N|N|NULL|  
-|[Iman Kadyrov (Иман Кадыров)](https://www.worldcubeassociation.org/persons/2019KADY03)|NULL|NULL|NULL|N|N|NULL|  
-|[Kirill Iusupov (Кирил Юсупов)](https://www.worldcubeassociation.org/persons/2019IUSU01)|NULL|NULL|NULL|N|N|NULL|  
-|[Aslan Iskenderbekov](https://www.worldcubeassociation.org/persons/2019ISKE01)|NULL|NULL|NULL|N|N|NULL|  
-|[Angelina Danilenko (Ангелина Даниленко)](https://www.worldcubeassociation.org/persons/2019DANI13)|NULL|NULL|NULL|N|N|NULL|  
-|[Dastan Bostonbaev](https://www.worldcubeassociation.org/persons/2019BOST01)|NULL|NULL|NULL|N|N|NULL|  
-|[Salamat Biygaziev (Саламат Бийгазиев)](https://www.worldcubeassociation.org/persons/2019BIYG01)|NULL|NULL|NULL|N|N|NULL|  
-|[Iskender Beishenaliev (Искендер Бейшеналиев)](https://www.worldcubeassociation.org/persons/2019BEIS02)|NULL|NULL|NULL|N|N|NULL|  
-|[Emir Aytmurzaev (Эмир Айтмурзаев)](https://www.worldcubeassociation.org/persons/2019AYTM01)|NULL|NULL|NULL|N|N|NULL|  
-|[Amantay Asanbekov (Амантай Асанбеков)](https://www.worldcubeassociation.org/persons/2019ASAN01)|NULL|NULL|NULL|N|N|NULL|  
 
 ### One Event Missing
 

@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sat Jun 29 at 0009UTC*
+*Last updated using WCA Developer Export from Tue Jul 02 at 0109UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -670,6 +670,7 @@
 |=|[Rodrigo Emanuel Zevallos Astuvilca](https://www.worldcubeassociation.org/persons/2019ASTU01)|Peru|31|  
 |=|[Henrique Nakata dos Santos Bertrami](https://www.worldcubeassociation.org/persons/2019BERT05)|Brazil|31|  
 |=|[Gabriel Alejandro Velásquez Chávez](https://www.worldcubeassociation.org/persons/2019CHAV06)|Guatemala|31|  
+|=|[Piero Gabriel Caballero Chicllasto](https://www.worldcubeassociation.org/persons/2019CHIC03)|Peru|31|  
 |=|[Arianée Abigail Enriquez Contreras](https://www.worldcubeassociation.org/persons/2019CONT06)|Guatemala|31|  
 |=|[Michelle Alejandra Alvarado Garcia](https://www.worldcubeassociation.org/persons/2019GARC07)|Guatemala|31|  
 |=|[Vicente Leonardo Carrasco Gonzalez](https://www.worldcubeassociation.org/persons/2019GONZ01)|Chile|31|  
@@ -680,6 +681,7 @@
 |=|[Bernardo de Arêa Leão Alves Mauricio](https://www.worldcubeassociation.org/persons/2019MAUR01)|Brazil|31|  
 |=|[Helio Henrique Klesener de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV16)|Brazil|31|  
 |=|[Arinosy Nilaina Ruddy Rakotonirina](https://www.worldcubeassociation.org/persons/2019RAKO05)|Madagascar|31|  
+|=|[Abhishek Krishnan Gopal Ramshanker](https://www.worldcubeassociation.org/persons/2019RAMS03)|India|31|  
 |=|[Deban Ryan Mika Voasoratra Randrema](https://www.worldcubeassociation.org/persons/2019RAND07)|France|31|  
 |=|[Lovaniaina Franck Randrianarivelo](https://www.worldcubeassociation.org/persons/2019RAND13)|Madagascar|31|  
 |=|[Mendrikaja Faniry Nathalia Randria](https://www.worldcubeassociation.org/persons/2019RAND15)|Madagascar|31|  
@@ -691,7 +693,7 @@
 |=|[Emmanuel Donaldo Soriano Velázquez](https://www.worldcubeassociation.org/persons/2019VELA05)|Mexico|31|  
 |=|[Nishant Ganesapandian Vishnupriya](https://www.worldcubeassociation.org/persons/2019VISH02)|India|31|  
 |=|[Muhammad Azzahrawi Bin Ahmad Yassir](https://www.worldcubeassociation.org/persons/2019YASS01)|Malaysia|31|  
-|684|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|686|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -1006,5 +1008,3 @@
 |=|[Guilherme Jesus de Oliveira Aguiar](https://www.worldcubeassociation.org/persons/2019AGUI10)|Brazil|30|  
 |=|[Ernesto Sebastián Portillo Aldana](https://www.worldcubeassociation.org/persons/2019ALDA02)|Mexico|30|  
 |=|[Sergio Alejandro Gonzalez Alvarez](https://www.worldcubeassociation.org/persons/2019ALVA04)|Guatemala|30|  
-|=|[Andrianasolo Rakotobe Andoniaina](https://www.worldcubeassociation.org/persons/2019ANDO02)|Madagascar|30|  
-|=|[Leonardo André Velásquez Aroquipa](https://www.worldcubeassociation.org/persons/2019AROQ01)|Peru|30|  
