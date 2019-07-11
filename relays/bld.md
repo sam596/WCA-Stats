@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Mon Jul 08 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -61,7 +61,7 @@
 |51|[Wenxuan Yue (岳文轩)](https://www.worldcubeassociation.org/persons/2015YUEW01)|China|**12:01.14**|29.03|3:44.08|7:48.03|  
 |52|[Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29)|Peru|**12:13.92**|18.31|2:48.14|9:07.47|  
 |53|[Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01)|Indonesia|**12:22.82**|26.08|3:29.31|8:27.43|  
-|54|[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Canada|**12:27.75**|17.47|4:01.47|8:08.81|  
+|54|[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Canada|**12:27.16**|16.88|4:01.47|8:08.81|  
 |55|[Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01)|Poland|**12:33.34**|21.17|3:13.56|8:58.61|  
 |56|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|**12:37.33**|22.72|4:03.96|8:10.65|  
 |57|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|**12:38.98**|25.91|3:17.30|8:55.77|  
@@ -210,7 +210,7 @@
 |200|[Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01)|Poland|**26:34.15**|1:02.71|6:46.44|18:45.00|  
 |201|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|Spain|**26:48.96**|42.71|6:14.25|19:52.00|  
 |202|[Brandon Satterstrom](https://www.worldcubeassociation.org/persons/2014SATT01)|USA|**26:54.08**|51.27|5:40.81|20:22.00|  
-|203|[Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02)|New Zealand|**27:01.40**|34.49|8:36.91|17:50.00|  
+|203|[Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02)|New Zealand|**27:00.37**|33.46|8:36.91|17:50.00|  
 |204|[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Malaysia|**27:01.66**|52.10|5:43.56|20:26.00|  
 |205|[DongJae Lee](https://www.worldcubeassociation.org/persons/2018LEED01)|Korea|**27:02.30**|28.77|8:02.53|18:31.00|  
 |206|[Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01)|China|**27:04.30**|1:26.64|6:04.66|19:33.00|  

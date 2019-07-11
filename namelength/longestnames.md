@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Mon Jul 08 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -689,11 +689,12 @@
 |=|[Christian Jenzal Bersalote Salvani](https://www.worldcubeassociation.org/persons/2019SALV04)|Philippines|31|  
 |=|[Jhomaykel Javier Palacios Sandoval](https://www.worldcubeassociation.org/persons/2019SAND02)|Peru|31|  
 |=|[Bastian Emiliano Riquelme Sanhueza](https://www.worldcubeassociation.org/persons/2019SANH01)|Chile|31|  
+|=|[Rafael Arcanjo Barros Dutra de Souza](https://www.worldcubeassociation.org/persons/2019SOUZ10)|Brazil|31|  
 |=|[Rosario Fernanda Catorceno Veizaga](https://www.worldcubeassociation.org/persons/2019VEIZ02)|Bolivia|31|  
 |=|[Emmanuel Donaldo Soriano Velázquez](https://www.worldcubeassociation.org/persons/2019VELA05)|Mexico|31|  
 |=|[Nishant Ganesapandian Vishnupriya](https://www.worldcubeassociation.org/persons/2019VISH02)|India|31|  
 |=|[Muhammad Azzahrawi Bin Ahmad Yassir](https://www.worldcubeassociation.org/persons/2019YASS01)|Malaysia|31|  
-|686|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|687|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -1007,4 +1008,3 @@
 |=|[Jorge Sebastián Bernardo Zevallos](https://www.worldcubeassociation.org/persons/2018ZEVA03)|Peru|30|  
 |=|[Guilherme Jesus de Oliveira Aguiar](https://www.worldcubeassociation.org/persons/2019AGUI10)|Brazil|30|  
 |=|[Ernesto Sebastián Portillo Aldana](https://www.worldcubeassociation.org/persons/2019ALDA02)|Mexico|30|  
-|=|[Sergio Alejandro Gonzalez Alvarez](https://www.worldcubeassociation.org/persons/2019ALVA04)|Guatemala|30|  

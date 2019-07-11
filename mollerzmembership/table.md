@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Mon Jul 08 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -121,12 +121,12 @@
 |[Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03)|Y|Y|N (3/4)|N|N|N (10/18)|  
 |[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|Y|Y|N (3/4)|N|N|N (8/18)|  
 |[Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01)|Y|Y|N (3/4)|N|N|N (7/18)|  
+|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|Y|Y|N (3/4)|N|N|N (7/18)|  
 |[Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01)|Y|Y|N (3/4)|N|N|N (6/18)|  
 |[Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01)|Y|Y|N (3/4)|N|N|N (5/18)|  
 |[Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01)|Y|Y|N (3/4)|N|N|N (6/18)|  
 |[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Y|Y|N (3/4)|N|N|N (5/18)|  
 |[Jiawen Wu (吴嘉文)](https://www.worldcubeassociation.org/persons/2010WUJI01)|Y|Y|N (3/4)|N|N|N (5/18)|  
-|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|Y|Y|N (3/4)|N|N|N (5/18)|  
 |[Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01)|Y|Y|N (3/4)|N|N|N (5/18)|  
 |[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Y|Y|N (3/4)|N|N|N (4/18)|  
 |[Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01)|Y|Y|N (3/4)|N|N|N (4/18)|  
@@ -286,6 +286,7 @@
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Y|N (10/13)|N (2/4)|N|N|N (2/18)|  
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/13)|N (2/4)|N|N|N (0/18)|  
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (10/13)|N (0/4)|N|N|N (2/18)|  
+|[Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17)|Y|N (8/13)|N (2/4)|N|N|N (5/18)|  
 
 ### One Event Missing
 
@@ -463,7 +464,6 @@
 |[Timon Veurink](https://www.worldcubeassociation.org/persons/2017VEUR01)|N (17/18)|N (10/13)|N (1/4)|N|N|N (0/18)|  
 |[Branko Kobal](https://www.worldcubeassociation.org/persons/2009KOBA03)|N (17/18)|N (10/13)|N (0/4)|N|N|N (0/18)|  
 |[Marco Edoardo Cittar](https://www.worldcubeassociation.org/persons/2015CITT01)|N (17/18)|N (9/13)|N (3/4)|N|N|N (3/18)|  
-|[Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17)|N (17/18)|N (8/13)|N (2/4)|N|N|N (5/18)|  
 |[Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01)|N (17/18)|N (8/13)|N (2/4)|N|N|N (4/18)|  
 |[Zachary McWilliams](https://www.worldcubeassociation.org/persons/2009MCWI01)|N (17/18)|N (8/13)|N (1/4)|N|N|N (1/18)|  
 

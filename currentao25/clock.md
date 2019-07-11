@@ -1,6 +1,6 @@
 ## Current Average of 25
 
-*Last updated using WCA Developer Export from Mon Jul 08 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -91,11 +91,11 @@
 |81|[Milhouse Gibbons-Paul](https://www.worldcubeassociation.org/persons/2017GIBB01)|United Kingdom|19.22|20.15, 14.46, 27.95, 15.42, 15.08, 15.86, 21.41, 23.85, 19.75, 13.61, 20.64, 19.47, 20.14, 27.65, 22.99, 20.55, 14.09, 17.31, 15.57, 14.94, 24.24, 18.43, 20.40, DNF, 21.91, 21.16, DNF|  
 |82|[Evgeniy Mazhara](https://www.worldcubeassociation.org/persons/2018MAZH01)|Russia|19.39|21.36, 20.06, 16.74, 19.80, 23.96, 21.36, 18.44, 18.30, 20.06, 18.66, 20.40, 24.69, 22.80, 15.53, 22.31, 18.19, 15.41, 14.75, DNF, 14.45, 18.27, 24.00, 19.62, 17.24, 14.67|  
 |83|[Steven Turner](https://www.worldcubeassociation.org/persons/2008TURN02)|USA|19.43|DNF, 20.33, 21.63, 21.53, 19.25, 18.34, 26.46, 19.68, 16.97, 17.66, 22.80, 30.74, 23.99, 16.40, 17.06, 17.69, 19.66, 14.28, 17.20, 19.61, 17.85, 19.16, 23.61, 22.19, 28.30, 23.84, 17.75, 23.30, 22.41, 20.46, 20.21, 27.09, 23.25, 21.56, 27.42, 23.16|  
-|84|[Vincent Bruns](https://www.worldcubeassociation.org/persons/2012BRUN01)|Germany|19.49|30.68, 29.86, 26.61, 23.97, 22.69, 20.65, 17.16, 17.19, 22.59, 19.16, 18.55, 16.00, 18.97, 15.80, 22.25, 17.41, 22.41, 18.94, 16.90, 17.34, 16.00, 31.96, 18.63, 18.81, 22.06, 19.31, 18.50, DNF, DNF|  
-|85|[Viacheslav Gorash](https://www.worldcubeassociation.org/persons/2016GORA01)|Russia|19.95|29.06, 19.33, 22.90, 19.08, 18.75, 18.86, 22.26, 14.03, 24.33, 16.19, DNF, 21.75, 19.06, 14.55, 15.39, 18.39, 24.53, 20.47, 18.43, 14.91, DNF, 21.42, 13.19, 25.35, 12.59|  
-|86|[Mitchell Romito](https://www.worldcubeassociation.org/persons/2009ROMI01)|USA|20.24|20.94, 24.91, 18.56, 25.25, 18.80, 15.40, 14.21, 16.97, 23.33, 21.86, 36.77, 23.31, 28.31, 20.13, 19.71, 15.15, 24.00, 18.30, 16.21, 21.08, 19.47, 16.97, 21.83, 18.33, 19.77|  
-|87|[Santiago Baso](https://www.worldcubeassociation.org/persons/2016BASO01)|Argentina|20.38|20.33, 20.92, 16.72, 19.09, 20.90, 23.49, DNF, 23.86, 20.91, 26.42, 16.34, 17.85, 14.79, 15.64, 14.47, 18.44, 21.86, 23.38, 18.79, 20.87, 18.21, 17.53, 25.75, 22.93, 24.29|  
-|88|[Yongzhe Mao (毛勇喆)](https://www.worldcubeassociation.org/persons/2013MAOY01)|China|20.68|18.93, 18.75, 16.08, 14.16, 23.58, 20.00, 19.97, 27.86, 23.28, 18.72, 19.86, 26.28, 19.14, 19.48, 15.09, 27.67, 16.93, DNF, 14.50, 25.38, 25.66, 17.52, 19.20, 14.94, DNF|  
+|84|[Yongzhe Mao (毛勇喆)](https://www.worldcubeassociation.org/persons/2013MAOY01)|China|19.47|18.93, 18.75, 16.08, 14.16, 23.58, 20.00, 19.97, 27.86, 23.28, 18.72, 19.86, 26.28, 19.14, 19.48, 15.09, 27.67, 16.93, DNF, 14.50, 25.38, 25.66, 17.52, 19.20, 14.94, DNF, 16.04, 22.33, 31.34, 20.34, 23.40|  
+|85|[Vincent Bruns](https://www.worldcubeassociation.org/persons/2012BRUN01)|Germany|19.49|30.68, 29.86, 26.61, 23.97, 22.69, 20.65, 17.16, 17.19, 22.59, 19.16, 18.55, 16.00, 18.97, 15.80, 22.25, 17.41, 22.41, 18.94, 16.90, 17.34, 16.00, 31.96, 18.63, 18.81, 22.06, 19.31, 18.50, DNF, DNF|  
+|86|[Viacheslav Gorash](https://www.worldcubeassociation.org/persons/2016GORA01)|Russia|19.95|29.06, 19.33, 22.90, 19.08, 18.75, 18.86, 22.26, 14.03, 24.33, 16.19, DNF, 21.75, 19.06, 14.55, 15.39, 18.39, 24.53, 20.47, 18.43, 14.91, DNF, 21.42, 13.19, 25.35, 12.59|  
+|87|[Mitchell Romito](https://www.worldcubeassociation.org/persons/2009ROMI01)|USA|20.24|20.94, 24.91, 18.56, 25.25, 18.80, 15.40, 14.21, 16.97, 23.33, 21.86, 36.77, 23.31, 28.31, 20.13, 19.71, 15.15, 24.00, 18.30, 16.21, 21.08, 19.47, 16.97, 21.83, 18.33, 19.77|  
+|88|[Santiago Baso](https://www.worldcubeassociation.org/persons/2016BASO01)|Argentina|20.38|20.33, 20.92, 16.72, 19.09, 20.90, 23.49, DNF, 23.86, 20.91, 26.42, 16.34, 17.85, 14.79, 15.64, 14.47, 18.44, 21.86, 23.38, 18.79, 20.87, 18.21, 17.53, 25.75, 22.93, 24.29|  
 |89|[Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01)|USA|20.74|27.45, DNF, 21.20, 25.55, 15.46, 13.91, 19.05, 18.62, 17.63, DNF, 30.22, 21.49, 28.52, 19.46, 41.29, 23.40, 18.89, 27.66, 21.55, 21.90, 20.92, 19.30, 16.99, 22.14, 17.44, 37.90, 16.25, 24.54, 23.23, 18.55|  
 |90|[Xiaobo Jin (金晓波)](https://www.worldcubeassociation.org/persons/2008JINX01)|China|21.02|29.63, 31.16, 35.72, 28.80, 25.63, 29.13, 26.47, 25.93, 24.27, 25.22, 18.78, 17.21, 16.83, 17.08, 15.80, 15.13, 17.56, 20.28, 16.18, 19.78, 17.02, 15.43, 18.75, 14.08, 15.75|  
 |91|[Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01)|USA|21.16|DNF, 59.71, 21.55, 25.74, 34.98, 27.88, 22.65, 29.93, 24.78, 36.14, 18.55, 18.11, 22.88, 21.96, 16.97, 15.80, 19.18, 25.63, 22.27, 39.51, 31.12, 18.88, 22.48, 19.49, 22.08, 22.45, 19.33, 20.68, 18.54, 18.01, 19.24|  
