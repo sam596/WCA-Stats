@@ -1,6 +1,6 @@
 ## WCA Relays - all_events_relay
 
-*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
+*Last updated using WCA Developer Export from Sun Jul 14 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -222,7 +222,7 @@
 |212|[Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01)|USA|**01:07:47.17**|2.45|9.75|1:56.05|57.15|20.43|52.29|15:03.00|1:37.05|33:14.00|4:33.65|5:57.99|14.91|1:43.34|23.02|4.65|37.44|  
 |213|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|**01:07:56.84**|1.32|6.34|1:35.37|42.53|12.79|34.93|13:33.00|1:08.04|42:43.00|2:33.60|3:27.14|7.09|55.43|2.56|2.37|11.33|  
 |214|[Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01)|China|**01:08:11.72**|4.19|11.58|2:57.21|1:55.49|21.92|47.66|17:31.00|1:23.27|31:52.00|3:12.47|5:10.03|59.93|1:01.76|6.22|6.07|30.92|  
-|215|[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|**01:08:20.95**|2.05|14.19|1:44.69|3:17.78|26.24|54.27|9:05.00|2:03.35|34:57.00|4:36.64|6:58.55|5.83|3:09.64|4.12|5.03|36.57|  
+|215|[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|**01:08:18.70**|2.05|14.19|1:44.69|3:17.78|26.24|52.02|9:05.00|2:03.35|34:57.00|4:36.64|6:58.55|5.83|3:09.64|4.12|5.03|36.57|  
 |216|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|**01:08:48.27**|2.69|10.41|30.24|1:16.32|13.62|46.12|14:00.00|1:49.70|38:58.00|3:15.17|5:07.29|8.77|1:36.30|5.16|10.12|38.36|  
 |217|[Yong Hyeon Jo (조용현)](https://www.worldcubeassociation.org/persons/2014JOYO01)|Korea|**01:09:09.57**|2.98|8.41|1:27.12|27.96|14.90|38.65|13:12.00|1:31.68|39:50.00|3:34.16|5:59.21|10.67|1:33.77|6.00|3.11|8.95|  
 |218|[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Sweden|**01:09:28.81**|6.80|18.08|1:43.55|2:56.52|35.40|1:02.11|9:42.02|2:43.62|28:02.00|6:35.94|10:20.00|32.70|1:42.93|5.22|15.95|2:45.97|  

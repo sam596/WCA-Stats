@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
+*Last updated using WCA Developer Export from Sun Jul 14 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -34,7 +34,7 @@
 |24|[Marcell Endrey](https://www.worldcubeassociation.org/persons/2007ENDR01)|Hungary|**9:03.16**|26.13|2:30.62|6:06.41|  
 |25|[Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04)|Japan|**9:12.74**|25.92|2:54.96|5:51.86|  
 |26|[Teruki Tamura (田村旭輝)](https://www.worldcubeassociation.org/persons/2016TAMU01)|Japan|**9:17.89**|33.59|2:37.44|6:06.86|  
-|27|[William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07)|United Kingdom|**9:32.05**|35.41|2:40.66|6:15.98|  
+|27|[William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07)|United Kingdom|**9:31.36**|35.41|2:40.66|6:15.29|  
 |28|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|**9:47.94**|22.44|2:32.61|6:52.89|  
 |29|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|**9:49.55**|19.42|2:41.16|6:48.97|  
 |30|[Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01)|Russia|**9:49.80**|31.00|2:54.69|6:24.11|  

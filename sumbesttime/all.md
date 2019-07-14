@@ -1,6 +1,6 @@
 ## Sum of the Best Times at a Competitions
 
-*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
+*Last updated using WCA Developer Export from Sun Jul 14 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -42,7 +42,7 @@
 |31|[NewZealandNationals2017](https://www.worldcubeassociation.org/competitions/NewZealandNationals2017)|New Zealand|16:43.71|7.35|1.60|28.75|1:00.97|2:04.79|2:58.80|22.89|48.69|11.19|6.66|49.92|2.77|2.97|8.56|2:22.67|5:05.13|  
 |32|[MalaysiaCubeChampionship2018](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2018)|Malaysia|16:45.53|7.05|1.47|29.31|49.18|1:34.05|2:18.87|19.59|27.65|10.84|6.08|40.77|2.49|2.39|8.83|2:49.93|6:37.03|  
 |33|[JapanChampionship2018](https://www.worldcubeassociation.org/competitions/JapanChampionship2018)|Japan|16:51.30|6.62|1.75|25.46|48.78|1:43.14|2:25.90|26.08|31.34|10.65|5.12|38.29|1.44|2.30|8.88|3:23.69|5:51.86|  
-|34|[BritishSummerOpen2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019)|United Kingdom|16:59.80|6.85|1.25|28.93|56.95|1:40.77|2:38.10|22.69|38.15|10.08|5.59|42.98|2.79|1.78|6.25|2:40.66|6:15.98|  
+|34|[BritishSummerOpen2019](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019)|United Kingdom|16:59.11|6.85|1.25|28.93|56.95|1:40.77|2:38.10|22.69|38.15|10.08|5.59|42.98|2.79|1.78|6.25|2:40.66|6:15.29|  
 |35|[ChinaChampionship2015](https://www.worldcubeassociation.org/competitions/ChinaChampionship2015)|China|17:14.40|5.77|1.20|21.54|47.25|1:38.32|2:34.61|21.05|30.32|9.81|6.03|52.79|2.89|2.71|9.52|2:28.34|7:02.25|  
 |36|[MPEIOpen2015](https://www.worldcubeassociation.org/competitions/MPEIOpen2015)|Russia|17:15.45|7.31|1.58|33.52|1:01.84|1:44.59|2:32.57|41.15|53.53|11.71|5.96|1:02.44|1.72|3.38|16.04|2:53.30|5:04.81|  
 |37|[SingaporeChampionship2019](https://www.worldcubeassociation.org/competitions/SingaporeChampionship2019)|Singapore|17:20.31|6.16|1.21|26.36|49.81|1:37.19|2:15.50|21.52|24.52|10.36|5.36|40.30|1.59|2.91|7.59|2:03.62|8:06.31|  

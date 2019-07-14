@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Thu Jul 11 at 0412UTC*
+*Last updated using WCA Developer Export from Sun Jul 14 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -314,10 +314,11 @@
 |[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|N (17/18)|Y|N (2/4)|N|N|N (10/18)|  
 |[Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01)|N (17/18)|Y|N (2/4)|N|N|N (10/18)|  
 |[Gonzalo Orellana Barrasa](https://www.worldcubeassociation.org/persons/2010OREL02)|N (17/18)|Y|N (2/4)|N|N|N (9/18)|  
+|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|N (17/18)|Y|N (2/4)|N|N|N (9/18)|  
 |[Alejandro Riveiro Rodríguez](https://www.worldcubeassociation.org/persons/2008RODR01)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[Zhiyang Chen (陈至扬)](https://www.worldcubeassociation.org/persons/2011CHAN10)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
-|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
 |[Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04)|N (17/18)|Y|N (2/4)|N|N|N (8/18)|  
+|[Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
@@ -326,7 +327,6 @@
 |[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
 |[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|N (17/18)|Y|N (2/4)|N|N|N (7/18)|  
-|[Cendy Cahyo Rahmat](https://www.worldcubeassociation.org/persons/2010RAHM02)|N (17/18)|Y|N (2/4)|N|N|N (6/18)|  
 |[Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01)|N (17/18)|Y|N (2/4)|N|N|N (6/18)|  
 |[Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01)|N (17/18)|Y|N (2/4)|N|N|N (6/18)|  
 |[Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01)|N (17/18)|Y|N (2/4)|N|N|N (6/18)|  
