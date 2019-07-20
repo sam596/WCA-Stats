@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Wed Jul 17 at 0611UTC*
+*Last updated using WCA Developer Export from Sat Jul 20 at 0709UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -237,7 +237,7 @@
 |227|[Agustín Bernasconi](https://www.worldcubeassociation.org/persons/2015BERN02)|Argentina|**2:44.90**|8.05|1:00.70|1:24.78|11.37|  
 |228|[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|Korea|**2:45.17**|6.29|45.87|1:39.66|13.35|  
 |229|[Oscar Watson](https://www.worldcubeassociation.org/persons/2017WATS07)|Australia|**2:45.53**|8.46|1:40.02|39.06|17.99|  
-|230|[Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02)|USA|**2:45.90**|9.09|1:39.09|41.39|16.33|  
+|230|[Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02)|USA|**2:45.82**|9.01|1:39.09|41.39|16.33|  
 |231|[Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01)|Norway|**2:45.97**|12.27|1:43.18|33.78|16.74|  
 |232|[Maxim Chechnev](https://www.worldcubeassociation.org/persons/2011CHEC01)|Russia|**2:46.11**|12.48|1:01.56|1:07.35|24.72|  
 |233|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|**2:46.13**|5.12|2:00.16|30.40|10.45|  
@@ -441,8 +441,8 @@
 |431|[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|USA|**3:34.67**|9.95|1:45.94|1:14.97|23.81|  
 |432|[Ruimin Yan (颜瑞民)](https://www.worldcubeassociation.org/persons/2017YANR02)|China|**3:35.09**|9.93|2:21.73|48.79|14.64|  
 |433|[Dharmesh Shahu](https://www.worldcubeassociation.org/persons/2011SHAH01)|India|**3:35.29**|8.24|1:26.31|1:46.74|14.00|  
-|434|[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Canada|**3:36.19**|7.03|16.56|2:58.67|13.93|  
-|435|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|**3:36.21**|7.79|1:37.19|1:37.33|13.90|  
+|434|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|**3:36.17**|7.75|1:37.19|1:37.33|13.90|  
+|435|[Jake Klassen](https://www.worldcubeassociation.org/persons/2016KLAS01)|Canada|**3:36.19**|7.03|16.56|2:58.67|13.93|  
 |436|[Ho Hsieh (謝合)](https://www.worldcubeassociation.org/persons/2015HSIE02)|Taiwan|**3:36.31**|7.62|2:32.33|41.68|14.68|  
 |437|[Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01)|Indonesia|**3:36.47**|9.08|1:32.30|1:33.76|21.33|  
 |438|[Suyash Ojha](https://www.worldcubeassociation.org/persons/2013OJHA01)|India|**3:36.79**|15.07|1:40.07|1:10.00|31.65|  

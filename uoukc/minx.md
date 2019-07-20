@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Wed Jul 17 at 0611UTC*
+*Last updated using WCA Developer Export from Sat Jul 20 at 0709UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -15,4 +15,4 @@
 |NULL|NULL|2012-08-25|[N8W8Summer2012 - Combined Final](https://www.worldcubeassociation.org/competitions/N8W8Summer2012/results/all#eminx_c)|1 year after [N8W8Summer2012](https://www.worldcubeassociation.org/competitions/N8W8Summer2012/results/all#eminx_c)|365|  
 |NULL|NULL|2013-10-05|[CuthbertsOpen2013 - Combined Final](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013/results/all#eminx_c)|1 year after [CuthbertsOpen2013](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2013/results/all#eminx_c)|365|  
 |NULL|NULL|2014-10-11|[CuthbertsOpen2014 - Combined Final](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/all#eminx_c)|1 year after [CuthbertsOpen2014](https://www.worldcubeassociation.org/competitions/CuthbertsOpen2014/results/all#eminx_c)|365|  
-|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2015-10-17|[DutchOpen2015 - Combined Final](https://www.worldcubeassociation.org/competitions/DutchOpen2015/results/all#eminx_c)|Ongoing|1368|  
+|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|2015-10-17|[DutchOpen2015 - Combined Final](https://www.worldcubeassociation.org/competitions/DutchOpen2015/results/all#eminx_c)|Ongoing|1371|  

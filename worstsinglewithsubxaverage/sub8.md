@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Jul 17 at 0611UTC*
+*Last updated using WCA Developer Export from Sat Jul 20 at 0709UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -110,7 +110,7 @@
 |100|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|7.81|5.88|  
 |101|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|7.24|5.86|  
 |102|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|7.86|5.86|  
-|103|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|7.46|5.85|  
+|103|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|7.42|5.85|  
 |104|[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|7.74|5.84|  
 |105|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|7.65|5.83|  
 |106|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|Germany|7.79|5.81|  
