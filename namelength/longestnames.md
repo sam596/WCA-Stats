@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Sat Jul 20 at 0709UTC*
+*Last updated using WCA Developer Export from Tue Jul 23 at 0810UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -681,6 +681,7 @@
 |=|[Cristopher Alejandro Molina Llevul](https://www.worldcubeassociation.org/persons/2019LLEV01)|Chile|31|  
 |=|[Bernardo de Arêa Leão Alves Mauricio](https://www.worldcubeassociation.org/persons/2019MAUR01)|Brazil|31|  
 |=|[Helio Henrique Klesener de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV16)|Brazil|31|  
+|=|[Helder Vinicius Pereira de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV20)|Brazil|31|  
 |=|[Arinosy Nilaina Ruddy Rakotonirina](https://www.worldcubeassociation.org/persons/2019RAKO05)|Madagascar|31|  
 |=|[Abhishek Krishnan Gopal Ramshanker](https://www.worldcubeassociation.org/persons/2019RAMS03)|India|31|  
 |=|[Deban Ryan Mika Voasoratra Randrema](https://www.worldcubeassociation.org/persons/2019RAND07)|France|31|  
@@ -695,7 +696,7 @@
 |=|[Emmanuel Donaldo Soriano Velázquez](https://www.worldcubeassociation.org/persons/2019VELA05)|Mexico|31|  
 |=|[Nishant Ganesapandian Vishnupriya](https://www.worldcubeassociation.org/persons/2019VISH02)|India|31|  
 |=|[Muhammad Azzahrawi Bin Ahmad Yassir](https://www.worldcubeassociation.org/persons/2019YASS01)|Malaysia|31|  
-|688|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|689|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -1007,4 +1008,3 @@
 |=|[Allison Victoria Guillen Zamarron](https://www.worldcubeassociation.org/persons/2018ZAMA01)|Mexico|30|  
 |=|[Martín Sebastian Aguilar Zambrano](https://www.worldcubeassociation.org/persons/2018ZAMB04)|Ecuador|30|  
 |=|[Jorge Sebastián Bernardo Zevallos](https://www.worldcubeassociation.org/persons/2018ZEVA03)|Peru|30|  
-|=|[Guilherme Jesus de Oliveira Aguiar](https://www.worldcubeassociation.org/persons/2019AGUI10)|Brazil|30|  
