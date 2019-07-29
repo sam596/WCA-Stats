@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -257,4 +257,4 @@
 |247|[Leopoldo Andrés Ibarra Fuentes](https://www.worldcubeassociation.org/persons/2010FUEN01)|Chile|8.63|6.86|  
 |248|[Andy Smith](https://www.worldcubeassociation.org/persons/2009SMIT03)|USA|8.20|6.85|  
 |249|[Brandon Huang](https://www.worldcubeassociation.org/persons/2013HUAN15)|USA|8.78|6.85|  
-|250|[Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04)|United Kingdom|8.37|6.85|  
+|250|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|8.80|6.85|  

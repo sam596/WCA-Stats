@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -469,13 +469,14 @@
 |=|[Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01)|Belgium|10.19|13.11|  
 |=|[Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44)|Vietnam|10.19|13.08|  
 |460|[Getulio R. Repelar V](https://www.worldcubeassociation.org/persons/2017REPE01)|Philippines|10.20|13.24|  
+|=|[Jonathan Sheffer](https://www.worldcubeassociation.org/persons/2018SHEF01)|USA|10.20|15.26|  
 |=|[Kaikai Xuan (轩凯凯)](https://www.worldcubeassociation.org/persons/2017XUAN04)|China|10.20|13.27|  
 |=|[Matthew Penafiel](https://www.worldcubeassociation.org/persons/2015PENA04)|USA|10.20|13.06|  
 |=|[Ronald Xian](https://www.worldcubeassociation.org/persons/2018XIAN10)|USA|10.20|13.47|  
 |=|[Sultan Suleimenov](https://www.worldcubeassociation.org/persons/2019SULE02)|Kazakhstan|10.20|13.02|  
 |=|[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|Romania|10.20|13.07|  
 |=|[Vincent Giza](https://www.worldcubeassociation.org/persons/2016GIZA01)|USA|10.20|13.56|  
-|467|[Dilmukhammed Shamuratov](https://www.worldcubeassociation.org/persons/2017SHAM04)|Uzbekistan|10.21|13.01|  
+|468|[Dilmukhammed Shamuratov](https://www.worldcubeassociation.org/persons/2017SHAM04)|Uzbekistan|10.21|13.01|  
 |=|[Gobu C. Babu](https://www.worldcubeassociation.org/persons/2017BABU04)|India|10.21|13.15|  
 |=|[Kai Huang (黄锴)](https://www.worldcubeassociation.org/persons/2017HUAK01)|China|10.21|15.08|  
 |=|[Leopold Aschenbrenner](https://www.worldcubeassociation.org/persons/2014ASCH01)|Germany|10.21|14.37|  
@@ -484,7 +485,7 @@
 |=|[Son Seul-Gi](https://www.worldcubeassociation.org/persons/2006SEUL01)|Korea|10.21|13.56|  
 |=|[Zeji Deng (邓泽纪)](https://www.worldcubeassociation.org/persons/2015DENG09)|China|10.21|13.61|  
 |=|[Ziyue Chang (常子越)](https://www.worldcubeassociation.org/persons/2018CHAN28)|China|10.21|13.13|  
-|476|[Abinav Chennupati](https://www.worldcubeassociation.org/persons/2019CHEN12)|Australia|10.22|13.92|  
+|477|[Abinav Chennupati](https://www.worldcubeassociation.org/persons/2019CHEN12)|Australia|10.22|13.92|  
 |=|[Anders Skarphol](https://www.worldcubeassociation.org/persons/2016SKAR02)|USA|10.22|13.84|  
 |=|[Franco Rivero](https://www.worldcubeassociation.org/persons/2015RIVE11)|Uruguay|10.22|14.00|  
 |=|[Franz David Burneo Monteros](https://www.worldcubeassociation.org/persons/2017MONT02)|Ecuador|10.22|13.05|  
@@ -497,7 +498,7 @@
 |=|[Qingling Chen (陈庆灵)](https://www.worldcubeassociation.org/persons/2017CHEQ04)|China|10.22|13.36|  
 |=|[Vansham Pandya](https://www.worldcubeassociation.org/persons/2016PAND12)|India|10.22|13.25|  
 |=|[Yutian Jia (贾宇田)](https://www.worldcubeassociation.org/persons/2017JIAY02)|China|10.22|13.58|  
-|489|[Amanda Gutic Kekonius](https://www.worldcubeassociation.org/persons/2017KEKO01)|Sweden|10.23|13.45|  
+|490|[Amanda Gutic Kekonius](https://www.worldcubeassociation.org/persons/2017KEKO01)|Sweden|10.23|13.45|  
 |=|[Anoop Das](https://www.worldcubeassociation.org/persons/2017DASA02)|India|10.23|14.58|  
 |=|[Fioj Ismael Ranario](https://www.worldcubeassociation.org/persons/2017RANA06)|Philippines|10.23|13.05|  
 |=|[James Sehata](https://www.worldcubeassociation.org/persons/2017SEHA01)|USA|10.23|13.62|  
@@ -508,4 +509,3 @@
 |=|[Ng Wai Hoe](https://www.worldcubeassociation.org/persons/2015HOEN01)|Malaysia|10.23|13.47|  
 |=|[Noam Flear](https://www.worldcubeassociation.org/persons/2016FLEA01)|Canada|10.23|13.95|  
 |=|[Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01)|USA|10.23|13.20|  
-|=|[Thomas Allen](https://www.worldcubeassociation.org/persons/2012ALLE03)|USA|10.23|13.73|  

@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -61,7 +61,7 @@
 |51|[Jesper Ulvang](https://www.worldcubeassociation.org/persons/2016ULVA01)|Norway|10.84|9.72|  
 |52|[Mohamad Azraei](https://www.worldcubeassociation.org/persons/2009AZRA01)|Malaysia|10.72|9.72|  
 |53|[Austin Jensen](https://www.worldcubeassociation.org/persons/2017JENS01)|Canada|10.89|9.71|  
-|54|[Mete İsbir](https://www.worldcubeassociation.org/persons/2016ISBI01)|Turkey|10.80|9.71|  
+|54|[Mete İsbir](https://www.worldcubeassociation.org/persons/2016ISBI01)|Turkey|10.49|9.71|  
 |55|[Tiffany Choi](https://www.worldcubeassociation.org/persons/2012CHOI05)|USA|10.79|9.71|  
 |56|[João Felipe Ravani](https://www.worldcubeassociation.org/persons/2019RAVA01)|Brazil|10.86|9.70|  
 |57|[Kazuki Sakamoto (坂本一樹)](https://www.worldcubeassociation.org/persons/2017SAKA03)|Japan|10.76|9.70|  
@@ -201,7 +201,7 @@
 |191|[Jose Antonio Campero Morales](https://www.worldcubeassociation.org/persons/2016MORA10)|Bolivia|10.94|9.38|  
 |192|[Ricardo Maxera](https://www.worldcubeassociation.org/persons/2016MAXE01)|Peru|10.92|9.38|  
 |193|[Ariel Burak](https://www.worldcubeassociation.org/persons/2014BURA01)|Argentina|10.60|9.37|  
-|194|[Ariunbold Bayanmonkh (Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|10.28|9.37|  
+|194|[Ariunbold Bayanmunkh (Баянмөнх Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|10.28|9.37|  
 |195|[Kenneth Huang Kin Yip (黃建業)](https://www.worldcubeassociation.org/persons/2017YIPH02)|Hong Kong|10.99|9.37|  
 |196|[Leemar Bonite](https://www.worldcubeassociation.org/persons/2018BONI01)|Philippines|9.88|9.37|  
 |197|[Maxim Brednev (Максим Бреднев)](https://www.worldcubeassociation.org/persons/2018BRED02)|Russia|10.90|9.37|  

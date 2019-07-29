@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -241,7 +241,7 @@
 |231|[Kim Taegyu (김태규)](https://www.worldcubeassociation.org/persons/2018TAEG01)|Korea|1:38.18|1:45.06, 1:35.16, 1:38.85, 1:40.55, 1:33.58|  
 |232|[Andrian Buenafe](https://www.worldcubeassociation.org/persons/2019BUEN01)|Philippines|1:38.24|1:32.77, 1:29.86, 1:51.39, 1:43.47, 1:38.50|  
 |233|[Yonggang Li (黎永钢)](https://www.worldcubeassociation.org/persons/2017LIYO01)|China|1:38.40|1:36.35, 1:38.14, 1:38.62, 1:54.41, 1:38.44|  
-|234|[Ariunbold Bayanmonkh (Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|1:38.47|1:33.11, 1:46.41, 1:35.34, 1:55.42, 1:33.68|  
+|234|[Ariunbold Bayanmunkh (Баянмөнх Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|1:38.47|1:33.11, 1:46.41, 1:35.34, 1:55.42, 1:33.68|  
 |235|[Jiaqi Liu (刘家奇)](https://www.worldcubeassociation.org/persons/2018LIUJ06)|China|1:38.49|1:28.07, 1:37.95, 1:36.13, 1:41.39, 1:44.29|  
 |236|[Andrés Felipe Rivera](https://www.worldcubeassociation.org/persons/2018RIVE19)|Colombia|1:38.49|1:36.02, 1:45.88, 1:33.72, 1:37.38, 1:42.09|  
 |237|[Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17)|Venezuela|1:38.66|1:40.35, 1:20.87, 1:43.76, 1:48.45, 1:31.88|  

@@ -1,6 +1,6 @@
 ## Best Single without a Sub X Average
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -165,7 +165,7 @@
 |=|[Jhao-Hong Siao (蕭兆宏)](https://www.worldcubeassociation.org/persons/2018SIAO02)|Taiwan|8.97|14.62|  
 |=|[William Ferrer](https://www.worldcubeassociation.org/persons/2015FERR08)|USA|8.97|12.09|  
 |156|[Alisher Soltan (Алишер Солтан)](https://www.worldcubeassociation.org/persons/2019SOLT01)|Kazakhstan|8.98|12.07|  
-|=|[Altanbagana Altangerel (Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01)|Mongolia|8.98|12.41|  
+|=|[Altanbagana Altangerel (Алтангэрэл Алтанбагана)](https://www.worldcubeassociation.org/persons/2013ALTA01)|Mongolia|8.98|12.41|  
 |=|[Daniel Yun](https://www.worldcubeassociation.org/persons/2016YUND01)|USA|8.98|12.49|  
 |=|[Donghao Guo (郭东昊)](https://www.worldcubeassociation.org/persons/2016GUOD02)|China|8.98|13.06|  
 |160|[Alex Springer](https://www.worldcubeassociation.org/persons/2018SPRI02)|USA|8.99|12.37|  

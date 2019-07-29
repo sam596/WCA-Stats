@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -231,7 +231,7 @@
 |221|[Zihan Wang (王子涵)](https://www.worldcubeassociation.org/persons/2016WANG81)|China|17.87|19.96, 23.88, 15.64, 18.02, 13.99|  
 |222|[Matteo Mazzini](https://www.worldcubeassociation.org/persons/2012MAZZ02)|Italy|17.87|17.44, 20.78, 16.09, 16.36, 19.83|  
 |223|[Zhihao Ren (任智昊)](https://www.worldcubeassociation.org/persons/2018RENZ01)|China|17.88|DNF, 16.49, 18.07, 19.08, 16.50|  
-|224|[Bat-Erdene Sambuudolgor (Бат-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2016SAMB04)|Mongolia|17.89|24.89, 16.39, 17.18, 11.29, 20.10|  
+|224|[Bat-Erdene Sambuudolgor (Самбуудолгор Бат-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2016SAMB04)|Mongolia|17.89|24.89, 16.39, 17.18, 11.29, 20.10|  
 |225|[Taiji Yi (易泰基)](https://www.worldcubeassociation.org/persons/2018YITA01)|China|17.90|17.15, 14.76, 20.61, 15.95, DNF|  
 |226|[Jonas Westgård](https://www.worldcubeassociation.org/persons/2018WEST05)|Norway|17.93|17.43, 18.15, 18.14, 22.33, 17.52|  
 |227|[Ryota Futagami (二神亮太)](https://www.worldcubeassociation.org/persons/2016FUTA01)|Japan|17.95|DNF, 18.03, 14.76, 21.06, 13.18|  

@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Fri Jul 26 at 0911UTC*
+*Last updated using WCA Developer Export from Mon Jul 29 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -38,4 +38,4 @@
 |[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2016-12-09|[PolishChampionship2016 - Combined First round](https://www.worldcubeassociation.org/competitions/PolishChampionship2016/results/all#eclock_d)|[SantaClausCubeRace2016 - Combined Final](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016/results/all#eclock_c)|7|  
 |[Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01)|Poland|2016-12-17|[SantaClausCubeRace2016 - Combined Final](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2016/results/all#eclock_c)|[SLSBedzinOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017/results/all#eclock_c)|161|  
 |[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2017-05-27|[SLSBedzinOpen2017 - Combined Final](https://www.worldcubeassociation.org/competitions/SLSBedzinOpen2017/results/all#eclock_c)|[PSTLLSLublin2019 - Final](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019/results/all#eclock_f)|595|  
-|[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|2019-01-12|[PSTLLSLublin2019 - Final](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019/results/all#eclock_f)|Ongoing|194|  
+|[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|2019-01-12|[PSTLLSLublin2019 - Final](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019/results/all#eclock_f)|Ongoing|197|  
