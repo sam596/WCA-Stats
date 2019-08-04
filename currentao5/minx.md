@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Thu Aug 01 at 1110UTC*
+*Last updated using WCA Developer Export from Sun Aug 04 at 1210UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -198,63 +198,63 @@
 |188|[Chan Yun Yung (陳潤蓉)](https://www.worldcubeassociation.org/persons/2017YUNG01)|Hong Kong|1:34.82|1:33.69, 1:43.11, 1:55.23, 1:27.66, 1:22.65|  
 |189|[Andrii Vasyliev (Андрій Васильєв)](https://www.worldcubeassociation.org/persons/2018VASY01)|Ukraine|1:34.94|1:41.79, 1:32.60, 1:34.80, 1:36.70, 1:33.34|  
 |=|[Chien-Mu Yang (楊謙牧)](https://www.worldcubeassociation.org/persons/2018YANG73)|USA|1:34.94|1:36.54, 1:33.65, 1:31.66, 1:34.65, 1:36.72|  
-|191|[Barbora Jelínková](https://www.worldcubeassociation.org/persons/2019JELI02)|Czech Republic|1:34.98|2:21.07, 1:33.21, 1:29.57, 1:39.22, 1:32.51|  
-|192|[Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01)|Singapore|1:35.02|1:46.06, 1:26.97, 1:39.66, 1:29.72, 1:35.69|  
-|193|[Leonardo Manriquez Rifo](https://www.worldcubeassociation.org/persons/2017RIFO01)|Chile|1:35.05|1:31.51, 1:37.02, 1:29.53, 1:38.26, 1:36.62|  
-|194|[Jefferson Antonio Morales Cruz](https://www.worldcubeassociation.org/persons/2017CRUZ10)|Guatemala|1:35.11|1:37.45, 1:30.93, 1:38.49, 1:22.89, 1:36.97|  
-|195|[David Zhou](https://www.worldcubeassociation.org/persons/2018ZHOU72)|Spain|1:35.13|1:35.06, 1:21.96, 1:33.93, 1:36.40, 1:39.63|  
-|196|[Sebastian Porras Tenorio](https://www.worldcubeassociation.org/persons/2016TENO01)|Peru|1:35.14|1:27.70, 2:03.75, 1:40.15, 1:36.45, 1:28.84|  
-|197|[Joshua Weigt](https://www.worldcubeassociation.org/persons/2017WEIG02)|USA|1:35.48|1:26.06, 1:37.12, 1:39.33, 1:30.01, 1:39.37|  
-|198|[Jianqiang Shen (沈建强)](https://www.worldcubeassociation.org/persons/2013SHEN04)|China|1:35.67|1:41.40, 1:37.64, 1:38.86, 1:30.27, 1:30.51|  
-|199|[Mohammad Arya Bima](https://www.worldcubeassociation.org/persons/2012BIMA01)|Indonesia|1:35.80|1:26.11, 1:46.55, 1:32.52, 1:30.25, 1:44.65|  
-|200|[Dayron Javier Santos Avila](https://www.worldcubeassociation.org/persons/2017AVIL03)|Peru|1:35.88|1:35.37, 1:47.72, 1:22.75, 1:24.56, 1:48.22|  
-|201|[Yutao Hu (胡宇韬)](https://www.worldcubeassociation.org/persons/2018HUYU04)|China|1:35.95|1:27.98, 1:48.55, 1:50.86, 1:31.34, 1:16.83|  
-|202|[Geovanny Arias](https://www.worldcubeassociation.org/persons/2017ARIA08)|Ecuador|1:35.97|DNF, 1:30.89, 1:34.35, 1:42.67, 1:25.08|  
-|203|[Chao Feng (冯超)](https://www.worldcubeassociation.org/persons/2015FENG15)|China|1:36.27|1:38.13, 1:34.64, DNF, 1:36.04, 1:31.07|  
-|204|[William Greninger](https://www.worldcubeassociation.org/persons/2018GREN02)|USA|1:36.54|1:41.43, 1:49.15, 1:45.85, 1:18.94, 1:22.36|  
-|205|[Xiang Lun](https://www.worldcubeassociation.org/persons/2019LUNX01)|Malaysia|1:36.61|1:26.82, 1:41.99, 1:31.06, 1:42.01, 1:36.80|  
-|206|[Mohammadmahdi Ammarloo (محمد مهدی عمارلو)](https://www.worldcubeassociation.org/persons/2018AMMA01)|Iran|1:36.62|1:59.15, 1:34.12, 1:24.90, 1:45.94, 1:29.81|  
-|207|[Seiya Tsuji (辻聖也)](https://www.worldcubeassociation.org/persons/2017TSUJ02)|Japan|1:36.67|1:34.33, 1:41.22, 1:35.40, 1:38.52, 1:36.11|  
-|208|[Alexander Crush](https://www.worldcubeassociation.org/persons/2018CRUS01)|Australia|1:36.69|1:40.17, 1:42.08, 1:41.97, 1:27.94, 1:25.05|  
-|209|[Joel Yow Sun Ee](https://www.worldcubeassociation.org/persons/2019EEJO01)|Malaysia|1:37.06|1:37.13, 1:50.35, 1:39.44, 1:34.06, 1:34.63|  
-|210|[Anni Östberg](https://www.worldcubeassociation.org/persons/2016OSTB01)|Sweden|1:37.08|1:39.52, 1:31.90, 1:31.85, 1:53.55, 1:39.82|  
-|211|[Guoliang Wang (王国梁)](https://www.worldcubeassociation.org/persons/2017WAGU02)|China|1:37.10|1:32.29, 1:27.05, 1:40.56, 1:38.46, 1:42.92|  
-|212|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|1:37.11|1:39.44, 1:34.56, 1:21.44, 1:37.34, 1:45.85|  
-|213|[Edson Adonai Rodriguez Ochoa](https://www.worldcubeassociation.org/persons/2015OCHO02)|Mexico|1:37.19|1:35.82, 1:33.77, 1:41.98, 1:47.62, 1:28.87|  
-|214|[Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08)|China|1:37.24|1:48.35, 1:24.52, 1:39.46, 1:36.38, 1:35.90|  
-|215|[Larien Javier Bencosme](https://www.worldcubeassociation.org/persons/2017BENC02)|Dominican Republic|1:37.47|1:52.37, 1:32.19, 1:35.09, 1:37.01, 1:40.32|  
-|216|[Jialong Wu (吴佳隆)](https://www.worldcubeassociation.org/persons/2018WUJI07)|China|1:37.48|1:43.53, 1:43.29, 1:37.62, 1:31.55, 1:27.48|  
-|217|[Santiago Medina Guzmán](https://www.worldcubeassociation.org/persons/2017GUZM08)|Mexico|1:37.52|1:32.95, 1:45.94, 1:23.11, 1:37.89, 1:41.74|  
-|218|[Rafael Ricardo Lopez Maradiaga](https://www.worldcubeassociation.org/persons/2018MARA07)|Honduras|1:37.53|1:37.96, 1:27.59, 1:43.79, 1:41.07, 1:33.57|  
-|219|[Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01)|Poland|1:37.54|1:34.12, 1:41.28, 1:57.16, 1:37.23, 1:29.69|  
-|220|[Yuyang Liu (刘宇阳)](https://www.worldcubeassociation.org/persons/2016LIUY07)|China|1:37.75|1:30.23, 1:26.04, 1:48.33, 1:44.80, 1:38.23|  
-|221|[Safwan Uddin](https://www.worldcubeassociation.org/persons/2018UDDI01)|United Kingdom|1:37.76|1:36.13, 1:40.32, 1:36.84, 1:35.12, 1:51.96|  
-|222|[Lim Wei Ming](https://www.worldcubeassociation.org/persons/2017MING06)|Malaysia|1:37.82|1:29.91, 1:40.83, 1:34.21, 1:51.29, 1:38.43|  
-|223|[Daniel Yosef](https://www.worldcubeassociation.org/persons/2014YOSE01)|Israel|1:37.90|1:40.96, 1:30.54, 1:36.56, 1:36.18, 2:01.56|  
-|224|[SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01)|Korea|1:38.04|2:06.77, 1:36.72, 1:42.53, 1:25.28, 1:34.88|  
-|225|[Kim Taegyu (김태규)](https://www.worldcubeassociation.org/persons/2018TAEG01)|Korea|1:38.18|1:45.06, 1:35.16, 1:38.85, 1:40.55, 1:33.58|  
-|226|[Andrian Buenafe](https://www.worldcubeassociation.org/persons/2019BUEN01)|Philippines|1:38.24|1:32.77, 1:29.86, 1:51.39, 1:43.47, 1:38.50|  
-|227|[Yonggang Li (黎永钢)](https://www.worldcubeassociation.org/persons/2017LIYO01)|China|1:38.40|1:36.35, 1:38.14, 1:38.62, 1:54.41, 1:38.44|  
-|228|[Ariunbold Bayanmunkh (Баянмөнх Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|1:38.47|1:33.11, 1:46.41, 1:35.34, 1:55.42, 1:33.68|  
-|229|[Jiaqi Liu (刘家奇)](https://www.worldcubeassociation.org/persons/2018LIUJ06)|China|1:38.49|1:28.07, 1:37.95, 1:36.13, 1:41.39, 1:44.29|  
-|230|[Andrés Felipe Rivera](https://www.worldcubeassociation.org/persons/2018RIVE19)|Colombia|1:38.49|1:36.02, 1:45.88, 1:33.72, 1:37.38, 1:42.09|  
-|231|[Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17)|Venezuela|1:38.66|1:40.35, 1:20.87, 1:43.76, 1:48.45, 1:31.88|  
-|232|[Patrick Adams](https://www.worldcubeassociation.org/persons/2010ADAM02)|USA|1:38.79|1:37.56, DNF, 1:33.18, 1:42.61, 1:36.22|  
-|233|[Cong Wen (文聪)](https://www.worldcubeassociation.org/persons/2014WENC01)|China|1:38.85|1:40.35, 1:29.06, 1:41.35, 1:44.37, 1:34.85|  
-|234|[Juan David Quiñones](https://www.worldcubeassociation.org/persons/2019QUIN05)|Colombia|1:38.89|1:41.80, 1:29.95, 1:38.60, 1:36.27, 1:56.34|  
-|235|[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|1:38.89|1:49.84, 1:45.07, 1:33.75, 1:37.58, 1:34.03|  
-|236|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|1:38.98|1:36.45, 1:40.01, 1:35.46, 1:40.49, 1:47.11|  
-|237|[François-Xavier Kerdelhué](https://www.worldcubeassociation.org/persons/2017KERD01)|France|1:39.05|1:41.81, 1:39.26, 1:49.20, 1:36.10, 1:22.24|  
-|238|[Stanley Yang](https://www.worldcubeassociation.org/persons/2018YANG09)|USA|1:39.07|1:35.95, 1:39.28, 1:33.34, 1:41.98, 1:47.62|  
-|239|[Affan Adly Bin Nazri](https://www.worldcubeassociation.org/persons/2015NAZR01)|Malaysia|1:39.13|1:41.67, 1:20.56, 1:39.10, 1:36.63, 1:46.73|  
-|240|[Alan Joseht Montufar Carranza](https://www.worldcubeassociation.org/persons/2018CARR16)|Mexico|1:39.16|1:23.92, 1:42.97, 2:08.69, 1:23.86, 1:50.60|  
-|241|[You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01)|Korea|1:39.42|1:40.46, 1:35.05, 1:42.03, 1:35.77, 1:48.61|  
-|242|[Aleksander Osipov (Александр Осипов)](https://www.worldcubeassociation.org/persons/2018OSIP04)|Russia|1:39.49|1:47.56, 1:35.53, 1:33.60, 1:39.03, 1:43.92|  
-|243|[Kaiwen Zhong (钟凯文)](https://www.worldcubeassociation.org/persons/2015ZHON03)|China|1:39.55|1:41.47, 1:43.38, 1:28.80, 1:33.82, 1:47.97|  
-|244|[Noah Janel](https://www.worldcubeassociation.org/persons/2018JANE02)|France|1:39.72|1:39.80, 1:46.97, 1:54.51, 1:18.49, 1:32.40|  
-|245|[Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01)|China|1:40.04|DNF, 1:39.11, 1:35.08, 1:40.51, 1:40.51|  
-|246|[Heng Wu (吴桁)](https://www.worldcubeassociation.org/persons/2016WUHE01)|China|1:40.08|1:44.67, 1:39.36, 1:36.22, 1:32.26, 1:49.80|  
-|247|[Connor Chai](https://www.worldcubeassociation.org/persons/2018CHAI01)|Canada|1:40.13|1:39.00, 1:48.48, 1:33.56, 1:24.50, 1:47.83|  
-|248|[Zhanpeng Huang (黄展鹏)](https://www.worldcubeassociation.org/persons/2018HUAN64)|China|1:40.22|1:39.04, 1:36.24, 1:42.79, DNF, 1:38.85|  
-|249|[Michael Luu](https://www.worldcubeassociation.org/persons/2019LUUM01)|USA|1:40.25|1:39.04, 1:25.88, 1:49.23, 2:09.47, 1:32.48|  
-|250|[Christian Collado Calderón](https://www.worldcubeassociation.org/persons/2013CALD01)|Peru|1:40.31|1:35.65, 1:46.60, 1:44.04, 1:41.01, 1:35.89|  
+|191|[Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01)|Singapore|1:35.02|1:46.06, 1:26.97, 1:39.66, 1:29.72, 1:35.69|  
+|192|[Leonardo Manriquez Rifo](https://www.worldcubeassociation.org/persons/2017RIFO01)|Chile|1:35.05|1:31.51, 1:37.02, 1:29.53, 1:38.26, 1:36.62|  
+|193|[Jefferson Antonio Morales Cruz](https://www.worldcubeassociation.org/persons/2017CRUZ10)|Guatemala|1:35.11|1:37.45, 1:30.93, 1:38.49, 1:22.89, 1:36.97|  
+|194|[David Zhou](https://www.worldcubeassociation.org/persons/2018ZHOU72)|Spain|1:35.13|1:35.06, 1:21.96, 1:33.93, 1:36.40, 1:39.63|  
+|195|[Sebastian Porras Tenorio](https://www.worldcubeassociation.org/persons/2016TENO01)|Peru|1:35.14|1:27.70, 2:03.75, 1:40.15, 1:36.45, 1:28.84|  
+|196|[Joshua Weigt](https://www.worldcubeassociation.org/persons/2017WEIG02)|USA|1:35.48|1:26.06, 1:37.12, 1:39.33, 1:30.01, 1:39.37|  
+|197|[Jianqiang Shen (沈建强)](https://www.worldcubeassociation.org/persons/2013SHEN04)|China|1:35.67|1:41.40, 1:37.64, 1:38.86, 1:30.27, 1:30.51|  
+|198|[Mohammad Arya Bima](https://www.worldcubeassociation.org/persons/2012BIMA01)|Indonesia|1:35.80|1:26.11, 1:46.55, 1:32.52, 1:30.25, 1:44.65|  
+|199|[Dayron Javier Santos Avila](https://www.worldcubeassociation.org/persons/2017AVIL03)|Peru|1:35.88|1:35.37, 1:47.72, 1:22.75, 1:24.56, 1:48.22|  
+|200|[Yutao Hu (胡宇韬)](https://www.worldcubeassociation.org/persons/2018HUYU04)|China|1:35.95|1:27.98, 1:48.55, 1:50.86, 1:31.34, 1:16.83|  
+|201|[Geovanny Arias](https://www.worldcubeassociation.org/persons/2017ARIA08)|Ecuador|1:35.97|DNF, 1:30.89, 1:34.35, 1:42.67, 1:25.08|  
+|202|[Chao Feng (冯超)](https://www.worldcubeassociation.org/persons/2015FENG15)|China|1:36.27|1:38.13, 1:34.64, DNF, 1:36.04, 1:31.07|  
+|203|[William Greninger](https://www.worldcubeassociation.org/persons/2018GREN02)|USA|1:36.54|1:41.43, 1:49.15, 1:45.85, 1:18.94, 1:22.36|  
+|204|[Xiang Lun](https://www.worldcubeassociation.org/persons/2019LUNX01)|Malaysia|1:36.61|1:26.82, 1:41.99, 1:31.06, 1:42.01, 1:36.80|  
+|205|[Mohammadmahdi Ammarloo (محمد مهدی عمارلو)](https://www.worldcubeassociation.org/persons/2018AMMA01)|Iran|1:36.62|1:59.15, 1:34.12, 1:24.90, 1:45.94, 1:29.81|  
+|206|[Seiya Tsuji (辻聖也)](https://www.worldcubeassociation.org/persons/2017TSUJ02)|Japan|1:36.67|1:34.33, 1:41.22, 1:35.40, 1:38.52, 1:36.11|  
+|207|[Alexander Crush](https://www.worldcubeassociation.org/persons/2018CRUS01)|Australia|1:36.69|1:40.17, 1:42.08, 1:41.97, 1:27.94, 1:25.05|  
+|208|[Joel Yow Sun Ee](https://www.worldcubeassociation.org/persons/2019EEJO01)|Malaysia|1:37.06|1:37.13, 1:50.35, 1:39.44, 1:34.06, 1:34.63|  
+|209|[Anni Östberg](https://www.worldcubeassociation.org/persons/2016OSTB01)|Sweden|1:37.08|1:39.52, 1:31.90, 1:31.85, 1:53.55, 1:39.82|  
+|210|[Guoliang Wang (王国梁)](https://www.worldcubeassociation.org/persons/2017WAGU02)|China|1:37.10|1:32.29, 1:27.05, 1:40.56, 1:38.46, 1:42.92|  
+|211|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|1:37.11|1:39.44, 1:34.56, 1:21.44, 1:37.34, 1:45.85|  
+|212|[Edson Adonai Rodriguez Ochoa](https://www.worldcubeassociation.org/persons/2015OCHO02)|Mexico|1:37.19|1:35.82, 1:33.77, 1:41.98, 1:47.62, 1:28.87|  
+|213|[Zhiyuan Zhang (张质源)](https://www.worldcubeassociation.org/persons/2018ZHAZ08)|China|1:37.24|1:48.35, 1:24.52, 1:39.46, 1:36.38, 1:35.90|  
+|214|[Larien Javier Bencosme](https://www.worldcubeassociation.org/persons/2017BENC02)|Dominican Republic|1:37.47|1:52.37, 1:32.19, 1:35.09, 1:37.01, 1:40.32|  
+|215|[Jialong Wu (吴佳隆)](https://www.worldcubeassociation.org/persons/2018WUJI07)|China|1:37.48|1:43.53, 1:43.29, 1:37.62, 1:31.55, 1:27.48|  
+|216|[Santiago Medina Guzmán](https://www.worldcubeassociation.org/persons/2017GUZM08)|Mexico|1:37.52|1:32.95, 1:45.94, 1:23.11, 1:37.89, 1:41.74|  
+|217|[Rafael Ricardo Lopez Maradiaga](https://www.worldcubeassociation.org/persons/2018MARA07)|Honduras|1:37.53|1:37.96, 1:27.59, 1:43.79, 1:41.07, 1:33.57|  
+|218|[Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01)|Poland|1:37.54|1:34.12, 1:41.28, 1:57.16, 1:37.23, 1:29.69|  
+|219|[Yuyang Liu (刘宇阳)](https://www.worldcubeassociation.org/persons/2016LIUY07)|China|1:37.75|1:30.23, 1:26.04, 1:48.33, 1:44.80, 1:38.23|  
+|220|[Safwan Uddin](https://www.worldcubeassociation.org/persons/2018UDDI01)|United Kingdom|1:37.76|1:36.13, 1:40.32, 1:36.84, 1:35.12, 1:51.96|  
+|221|[Lim Wei Ming](https://www.worldcubeassociation.org/persons/2017MING06)|Malaysia|1:37.82|1:29.91, 1:40.83, 1:34.21, 1:51.29, 1:38.43|  
+|222|[Daniel Yosef](https://www.worldcubeassociation.org/persons/2014YOSE01)|Israel|1:37.90|1:40.96, 1:30.54, 1:36.56, 1:36.18, 2:01.56|  
+|223|[SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01)|Korea|1:38.04|2:06.77, 1:36.72, 1:42.53, 1:25.28, 1:34.88|  
+|224|[Kim Taegyu (김태규)](https://www.worldcubeassociation.org/persons/2018TAEG01)|Korea|1:38.18|1:45.06, 1:35.16, 1:38.85, 1:40.55, 1:33.58|  
+|225|[Andrian Buenafe](https://www.worldcubeassociation.org/persons/2019BUEN01)|Philippines|1:38.24|1:32.77, 1:29.86, 1:51.39, 1:43.47, 1:38.50|  
+|226|[Yonggang Li (黎永钢)](https://www.worldcubeassociation.org/persons/2017LIYO01)|China|1:38.40|1:36.35, 1:38.14, 1:38.62, 1:54.41, 1:38.44|  
+|227|[Ariunbold Bayanmunkh (Баянмөнх Ариунболд)](https://www.worldcubeassociation.org/persons/2013BAYA01)|Mongolia|1:38.47|1:33.11, 1:46.41, 1:35.34, 1:55.42, 1:33.68|  
+|228|[Jiaqi Liu (刘家奇)](https://www.worldcubeassociation.org/persons/2018LIUJ06)|China|1:38.49|1:28.07, 1:37.95, 1:36.13, 1:41.39, 1:44.29|  
+|229|[Andrés Felipe Rivera](https://www.worldcubeassociation.org/persons/2018RIVE19)|Colombia|1:38.49|1:36.02, 1:45.88, 1:33.72, 1:37.38, 1:42.09|  
+|230|[Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17)|Venezuela|1:38.66|1:40.35, 1:20.87, 1:43.76, 1:48.45, 1:31.88|  
+|231|[Patrick Adams](https://www.worldcubeassociation.org/persons/2010ADAM02)|USA|1:38.79|1:37.56, DNF, 1:33.18, 1:42.61, 1:36.22|  
+|232|[Cong Wen (文聪)](https://www.worldcubeassociation.org/persons/2014WENC01)|China|1:38.85|1:40.35, 1:29.06, 1:41.35, 1:44.37, 1:34.85|  
+|233|[Juan David Quiñones](https://www.worldcubeassociation.org/persons/2019QUIN05)|Colombia|1:38.89|1:41.80, 1:29.95, 1:38.60, 1:36.27, 1:56.34|  
+|234|[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|1:38.89|1:49.84, 1:45.07, 1:33.75, 1:37.58, 1:34.03|  
+|235|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|1:38.98|1:36.45, 1:40.01, 1:35.46, 1:40.49, 1:47.11|  
+|236|[François-Xavier Kerdelhué](https://www.worldcubeassociation.org/persons/2017KERD01)|France|1:39.05|1:41.81, 1:39.26, 1:49.20, 1:36.10, 1:22.24|  
+|237|[Stanley Yang](https://www.worldcubeassociation.org/persons/2018YANG09)|USA|1:39.07|1:35.95, 1:39.28, 1:33.34, 1:41.98, 1:47.62|  
+|238|[Affan Adly Bin Nazri](https://www.worldcubeassociation.org/persons/2015NAZR01)|Malaysia|1:39.13|1:41.67, 1:20.56, 1:39.10, 1:36.63, 1:46.73|  
+|239|[Alan Joseht Montufar Carranza](https://www.worldcubeassociation.org/persons/2018CARR16)|Mexico|1:39.16|1:23.92, 1:42.97, 2:08.69, 1:23.86, 1:50.60|  
+|240|[You Hyeon-Dong (유현동)](https://www.worldcubeassociation.org/persons/2011HYEO01)|Korea|1:39.42|1:40.46, 1:35.05, 1:42.03, 1:35.77, 1:48.61|  
+|241|[Aleksander Osipov (Александр Осипов)](https://www.worldcubeassociation.org/persons/2018OSIP04)|Russia|1:39.49|1:47.56, 1:35.53, 1:33.60, 1:39.03, 1:43.92|  
+|242|[Kaiwen Zhong (钟凯文)](https://www.worldcubeassociation.org/persons/2015ZHON03)|China|1:39.55|1:41.47, 1:43.38, 1:28.80, 1:33.82, 1:47.97|  
+|243|[Noah Janel](https://www.worldcubeassociation.org/persons/2018JANE02)|France|1:39.72|1:39.80, 1:46.97, 1:54.51, 1:18.49, 1:32.40|  
+|244|[Haijun Tan (谭海俊)](https://www.worldcubeassociation.org/persons/2011TANH01)|China|1:40.04|DNF, 1:39.11, 1:35.08, 1:40.51, 1:40.51|  
+|245|[Heng Wu (吴桁)](https://www.worldcubeassociation.org/persons/2016WUHE01)|China|1:40.08|1:44.67, 1:39.36, 1:36.22, 1:32.26, 1:49.80|  
+|246|[Connor Chai](https://www.worldcubeassociation.org/persons/2018CHAI01)|Canada|1:40.13|1:39.00, 1:48.48, 1:33.56, 1:24.50, 1:47.83|  
+|247|[Zhanpeng Huang (黄展鹏)](https://www.worldcubeassociation.org/persons/2018HUAN64)|China|1:40.22|1:39.04, 1:36.24, 1:42.79, DNF, 1:38.85|  
+|248|[Michael Luu](https://www.worldcubeassociation.org/persons/2019LUUM01)|USA|1:40.25|1:39.04, 1:25.88, 1:49.23, 2:09.47, 1:32.48|  
+|249|[Christian Collado Calderón](https://www.worldcubeassociation.org/persons/2013CALD01)|Peru|1:40.31|1:35.65, 1:46.60, 1:44.04, 1:41.01, 1:35.89|  
+|250|[George Cecil](https://www.worldcubeassociation.org/persons/2018CECI01)|USA|1:40.61|1:41.14, 1:48.63, 1:34.87, 1:30.97, 1:45.83|  

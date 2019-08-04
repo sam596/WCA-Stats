@@ -1,6 +1,6 @@
 ## All WCA Registrations
 
-*Last updated using WCA Developer Export from Thu Aug 01 at 1110UTC*
+*Last updated using WCA Developer Export from Sun Aug 04 at 1210UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -19,11 +19,13 @@ Key:
 |Aditya Gaydhani|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |Alex Thunstrom|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333fm,333oh|  
 |[Amaris Tu](https://www.worldcubeassociation.org/persons/2019TUAM01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
+|[Andrew Tyberg](https://www.worldcubeassociation.org/persons/2016TYBE01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Pending|333,333bf,333oh|  
 |[Andy Wong](https://www.worldcubeassociation.org/persons/2017WONG13)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333ft,333oh,333mbf|  
 |[Angelus K. Yang](https://www.worldcubeassociation.org/persons/2019YANG81)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |[Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
+|[Armaan Jain](https://www.worldcubeassociation.org/persons/2018JAIN36)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Pending|333,333fm|  
 |Austin Urevig|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
-|[Axel Peter Mahler](https://www.worldcubeassociation.org/persons/2019MAHL01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333fm,333oh|  
+|[Axel Peter Mahler](https://www.worldcubeassociation.org/persons/2019MAHL01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
 |[Ben Christman](https://www.worldcubeassociation.org/persons/2019CHRI11)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
 |Ben Fraher|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333oh|  
 |[Benjamin Kelly](https://www.worldcubeassociation.org/persons/2019KELL04)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
@@ -34,15 +36,17 @@ Key:
 |[Carl Overbye](https://www.worldcubeassociation.org/persons/2018OVER04)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |Carter Griffith|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333fm,333oh|  
 |[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333ft,333oh,333mbf|  
+|[Cayden Drake](https://www.worldcubeassociation.org/persons/2018DRAK01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Pending|333,333oh|  
 |Cole Christman|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |Connor Barry|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333bf,333fm,333ft,333oh,333mbf|  
 |[Drake Thammavongsa](https://www.worldcubeassociation.org/persons/2019THAM02)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
 |Ethan Millner|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |[Evan Klein](https://www.worldcubeassociation.org/persons/2015KLEI05)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333mbf|  
-|[Gavin Pikula](https://www.worldcubeassociation.org/persons/2019PIKU01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333ft,333oh|  
+|[Gavin Pikula](https://www.worldcubeassociation.org/persons/2019PIKU01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333fm,333ft,333oh|  
 |[Hannah Buss](https://www.worldcubeassociation.org/persons/2019BUSS03)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333oh|  
 |[Harrison Toppings](https://www.worldcubeassociation.org/persons/2017TOPP01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
 |[Isaac Hoque](https://www.worldcubeassociation.org/persons/2019HOQU01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333bf,333fm,333ft,333oh|  
+|[Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Pending|333,333ft,333oh|  
 |[Jair Sosa](https://www.worldcubeassociation.org/persons/2018SOSA08)|USA|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Pending|333,333bf,333fm,333oh,333mbf|  
 |Jake Shepard|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333,333fm,333oh|  
 |Jaymeson Wegwerth|NULL|[3x3OnlyMinnesota2019](https://www.worldcubeassociation.org/competitions/3x3OnlyMinnesota2019)|Accepted|333|  
@@ -84,6 +88,7 @@ Key:
 |[Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram|  
 |[Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
 |[Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
+|[AJ Green](https://www.worldcubeassociation.org/persons/2017GREE04)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222|  
 |Akhil Walia|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
 |[Alan Williams](https://www.worldcubeassociation.org/persons/2018WILL31)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
 |[Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01)|Poland|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram|  
@@ -96,6 +101,7 @@ Key:
 |[Alexandre Delaitre](https://www.worldcubeassociation.org/persons/2016DELA05)|France|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,333bf,333oh,clock,minx,pyram|  
 |Alfie Curley|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
 |Alik Green|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Deleted|333,222,pyram|  
+|[Amaan Omar](https://www.worldcubeassociation.org/persons/2016OMAR01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333bf,333oh,clock,minx,pyram|  
 |[Andy Nicholls](https://www.worldcubeassociation.org/persons/2015NICH04)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx,333mbf|  
 |Arham Shafi|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222|  
 |[Ariel Benchetrit](https://www.worldcubeassociation.org/persons/2019BENC04)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
@@ -132,7 +138,7 @@ Key:
 |[Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram|  
 |Daniel Porteous|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram|  
-|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
+|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Deleted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
 |[Delso Matteo](https://www.worldcubeassociation.org/persons/2017MATT04)|Belgium|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333|  
 |[Dylan Auty](https://www.worldcubeassociation.org/persons/2019AUTY01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,333oh|  
 |[Ed Coulon](https://www.worldcubeassociation.org/persons/2019COUL01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222|  
@@ -180,6 +186,7 @@ Key:
 |[Jay Dhiru](https://www.worldcubeassociation.org/persons/2015DHIR02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333oh|  
 |[Jeff Snyder](https://www.worldcubeassociation.org/persons/2010SNYD01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,333bf,333oh,clock,minx,pyram|  
 |[Joe Greenland](https://www.worldcubeassociation.org/persons/2019GREE02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333oh,clock,pyram|  
+|John Mobey|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|222,444,333oh,pyram|  
 |[Jonathan-Junior Carruthers](https://www.worldcubeassociation.org/persons/2018CARR18)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|222,444,333oh,pyram|  
 |[Jordan Baum](https://www.worldcubeassociation.org/persons/2017BAUM02)|Canada|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333bf,333mbf|  
 |Joseph Archibald|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,pyram|  
@@ -188,6 +195,7 @@ Key:
 |[Kai Pischke](https://www.worldcubeassociation.org/persons/2017PISC02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333|  
 |[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333bf,333oh,pyram,333mbf|  
 |[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,444,555,666,777,333bf,clock,minx|  
+|Kian Bay Martin|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|222,444,333oh,pyram|  
 |Koutaro Maeda (前田宏太朗）|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222|  
 |[Laurie Stockbridge-Leather](https://www.worldcubeassociation.org/persons/2019STOC01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
 |[Leo Gardner](https://www.worldcubeassociation.org/persons/2019GARD01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
@@ -202,6 +210,7 @@ Key:
 |[Matt Gaston](https://www.worldcubeassociation.org/persons/2015GAST01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,444,555,777,333oh,pyram|  
 |[Matthew Lowe](https://www.worldcubeassociation.org/persons/2014LOWE01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,333oh|  
 |Max Peligno|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,pyram|  
+|[Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,666,777,333oh,clock,minx,pyram|  
 |[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|China|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Deleted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
 |[Milhouse Gibbons-Paul](https://www.worldcubeassociation.org/persons/2017GIBB01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
 |Mitch Tester|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,pyram|  
@@ -210,7 +219,7 @@ Key:
 |Neeam S Radia|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,333oh,pyram|  
 |[Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,pyram,333mbf|  
 |[Oliver Fisk](https://www.worldcubeassociation.org/persons/2018FISK01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram|  
-|[Oliver Jepson](https://www.worldcubeassociation.org/persons/2019JEPS01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333oh,clock,pyram|  
+|[Oliver Jepson](https://www.worldcubeassociation.org/persons/2019JEPS01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,333oh,clock,pyram|  
 |[Oliver Moh](https://www.worldcubeassociation.org/persons/2018MOHO02)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333|  
 |Oliver oakley|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,pyram|  
 |[Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,333mbf|  
@@ -245,6 +254,7 @@ Key:
 |[Stuart Salmon](https://www.worldcubeassociation.org/persons/2018SALM01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,333bf|  
 |[Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01)|Ireland|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|333,222,444,555,333bf,333oh,pyram,333mbf|  
 |[Ted Comer](https://www.worldcubeassociation.org/persons/2019COME01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
+|Teo Luppi|NULL|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Pending|222,pyram|  
 |[Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03)|Brazil|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,333oh,minx,pyram|  
 |[Theo Devere](https://www.worldcubeassociation.org/persons/2019DEVE03)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,clock,pyram|  
 |[Theodore Proferes](https://www.worldcubeassociation.org/persons/2019PROF01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,222,444,555,666,777,333oh,clock|  
@@ -265,6 +275,7 @@ Key:
 |[Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01)|United Kingdom|[ABHC2019](https://www.worldcubeassociation.org/competitions/ABHC2019)|Accepted|333,444,555,333oh,minx|  
 |Adil Əsgərov|NULL|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,333oh,pyram|  
 |[Aslan Kazimov](https://www.worldcubeassociation.org/persons/2017KAZI02)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,333oh,sq1|  
+|[Aykhan Mammadov](https://www.worldcubeassociation.org/persons/2017MAMM01)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Pending|333|  
 |[Ayxan Həsənov](https://www.worldcubeassociation.org/persons/2018HASA05)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,333oh,pyram|  
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Deleted|333,222,444,333oh,pyram,sq1|  
 |Davud Huseynov|NULL|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,pyram|  
@@ -272,12 +283,14 @@ Key:
 |Emil Nağıyev|NULL|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,333oh,pyram|  
 |[Ənvər Bayramlı](https://www.worldcubeassociation.org/persons/2018BAYR02)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,444,333oh,pyram,sq1|  
 |[Hikmət Mürsəlzadə](https://www.worldcubeassociation.org/persons/2015MURS01)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333|  
+|[Ismayil Asadov](https://www.worldcubeassociation.org/persons/2018ASAD01)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Pending|333,222,333oh,pyram,sq1|  
 |[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,444,333oh,pyram|  
 |Mikayıl Kərimli|NULL|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|pyram|  
 |Rüstəm Həsənov|NULL|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,444,333oh,pyram,sq1|  
 |[Sumbat Gozelov](https://www.worldcubeassociation.org/persons/2019GOZE01)|Azerbaijan|[ACALeagueFinal2019](https://www.worldcubeassociation.org/competitions/ACALeagueFinal2019)|Accepted|333,222,444,pyram|  
 |[Aidan Chan](https://www.worldcubeassociation.org/persons/2014CHAN21)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Akshith Kiruthiga Ilango](https://www.worldcubeassociation.org/persons/2017ILAN02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
+|Anaisha Woon|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
 |[Andrew Davidge](https://www.worldcubeassociation.org/persons/2019DAVI08)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,pyram,skewb|  
 |[Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |Anthony Nehme|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
@@ -288,7 +301,8 @@ Key:
 |Arvin Ganji|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,pyram|  
 |[Audrey Liuk](https://www.worldcubeassociation.org/persons/2018LIUK04)|New Zealand|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,pyram|  
 |[Austin Allen](https://www.worldcubeassociation.org/persons/2015ALLE04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,pyram,skewb|  
-|[Ben Chin](https://www.worldcubeassociation.org/persons/2014CHIN02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
+|[Ben Chin](https://www.worldcubeassociation.org/persons/2014CHIN02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
+|[Ben Wakelin](https://www.worldcubeassociation.org/persons/2015WAKE01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1|  
 |[Benjamin Addinsall](https://www.worldcubeassociation.org/persons/2017ADDI01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,pyram,skewb,sq1|  
 |Benjamin Grey|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,pyram,skewb|  
 |[Benjamin Riske](https://www.worldcubeassociation.org/persons/2019RISK01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
@@ -309,6 +323,7 @@ Key:
 |[David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,clock,pyram,skewb,sq1|  
 |[David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,pyram,skewb,sq1,333mbf|  
 |[David Zemdegs](https://www.worldcubeassociation.org/persons/2016ZEMD01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
+|Dimitri Baroudi|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
 |[Divnoor Bajwa](https://www.worldcubeassociation.org/persons/2016BAJW01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
 |[Donna Cook](https://www.worldcubeassociation.org/persons/2018COOK02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram|  
 |[Dylan Hua](https://www.worldcubeassociation.org/persons/2017HUAD01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
@@ -321,6 +336,7 @@ Key:
 |Erynn Marlowe|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram,skewb|  
 |[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,333mbf|  
 |[Ethan Stevens](https://www.worldcubeassociation.org/persons/2015STEV03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
+|Evan|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333|  
 |[Evan Beltsis](https://www.worldcubeassociation.org/persons/2018BELT02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,pyram,skewb,sq1|  
 |Frederich Halim|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,skewb|  
@@ -337,20 +353,22 @@ Key:
 |[Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,pyram,skewb,333mbf|  
 |[Jack Corless](https://www.worldcubeassociation.org/persons/2015CORL01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram|  
 |[Jack Love](https://www.worldcubeassociation.org/persons/2018LOVE03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
+|Jack Meinert|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
 |[Jack Sutton](https://www.worldcubeassociation.org/persons/2019SUTT01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,333bf,333oh,pyram,skewb|  
 |[Jacob McGruddy](https://www.worldcubeassociation.org/persons/2016MCGR03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,pyram,skewb,sq1,333mbf|  
 |[Jacob Ng](https://www.worldcubeassociation.org/persons/2019NGJA01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Deleted|333,222,444,333oh,pyram|  
 |[Jacob Peng](https://www.worldcubeassociation.org/persons/2019PENG03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,skewb,sq1|  
 |Jacob Priest|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,skewb|  
 |Jake Ambler|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
-|[James Twyford](https://www.worldcubeassociation.org/persons/2019TWYF01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,pyram,skewb|  
-|[Jerry Hui](https://www.worldcubeassociation.org/persons/2019HUIJ02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,555,666,333bf,333oh,pyram,skewb,333mbf|  
+|Jake Pearce|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram,sq1|  
+|[James Twyford](https://www.worldcubeassociation.org/persons/2019TWYF01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram,skewb|  
+|[Jerry Hui](https://www.worldcubeassociation.org/persons/2019HUIJ02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,333mbf|  
 |[Jimmy Chen](https://www.worldcubeassociation.org/persons/2019CHEN99)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
 |Joanne Staunton|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram,skewb|  
 |[John Cook](https://www.worldcubeassociation.org/persons/2018COOK04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,clock,pyram,skewb|  
 |John Wang|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
 |[Jonathan Dexter](https://www.worldcubeassociation.org/persons/2016DEXT02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
-|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|Brazil|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,555,666,333bf,333oh,sq1,333mbf|  
+|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|Brazil|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333bf,333oh,sq1,333mbf|  
 |Joshua Chuah|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram|  
 |[Juan-Felipe Forero](https://www.worldcubeassociation.org/persons/2017FORE03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Judd Walhout|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333bf,333oh,pyram|  
@@ -360,7 +378,7 @@ Key:
 |[Kieran Murphy](https://www.worldcubeassociation.org/persons/2016MURP06)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,pyram,skewb|  
 |Lachlan Guarnaccia|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,pyram,skewb|  
 |[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
-|[Leo Chapman](https://www.worldcubeassociation.org/persons/2017CHAP04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,clock,pyram,skewb|  
+|[Leo Chapman](https://www.worldcubeassociation.org/persons/2017CHAP04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,clock,pyram,skewb,sq1|  
 |[Leon Tran](https://www.worldcubeassociation.org/persons/2019TRAN11)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,pyram,skewb,333mbf|  
 |Levi Lemos|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
 |Liam Heimann|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
@@ -374,6 +392,7 @@ Key:
 |[Matthew Cook](https://www.worldcubeassociation.org/persons/2016COOK02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,clock,pyram,skewb,sq1|  
 |Matthew Robbins|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |Matthew Sieredzinski|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,444,333oh,skewb|  
+|Max Beames|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333bf,333mbf|  
 |[Max Bradley-McFawn](https://www.worldcubeassociation.org/persons/2018BRAD06)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,pyram,skewb|  
 |[Meg Price](https://www.worldcubeassociation.org/persons/2018PRIC05)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,skewb|  
 |[Michael Alexander](https://www.worldcubeassociation.org/persons/2018ALEX06)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1|  
@@ -383,16 +402,20 @@ Key:
 |[Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |Nathan Leung|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh|  
 |[Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15)|Vietnam|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
+|[Nicholas Koumides](https://www.worldcubeassociation.org/persons/2019KOUM01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,pyram,skewb|  
 |[Nicholas Tan](https://www.worldcubeassociation.org/persons/2017TANN04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
 |[Nigel Price](https://www.worldcubeassociation.org/persons/2019PRIC02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
 |Oliver Hoy|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,clock,skewb|  
 |Owen Gregory Biggs|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,pyram|  
+|[Patrick Game](https://www.worldcubeassociation.org/persons/2018GAME03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
 |[Peter Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,skewb|  
+|Peter Koumides|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
 |[Phạm Việt Dũng](https://www.worldcubeassociation.org/persons/2010PHAM09)|Vietnam|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,555,666,333oh|  
 |[Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333oh,clock,pyram,skewb,sq1|  
 |[Qi Qu (曲祺)](https://www.worldcubeassociation.org/persons/2013QUQI01)|China|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,pyram,skewb,sq1|  
 |[Reuben Yourey-Thurman](https://www.worldcubeassociation.org/persons/2019YOUR01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,sq1|  
 |[Ricky Zhang](https://www.worldcubeassociation.org/persons/2019ZHAN11)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Deleted|333,222,444,pyram,skewb|  
+|[Riki Lethbridge](https://www.worldcubeassociation.org/persons/2016LETH01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |Rohit Sai Kalluri|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222|  
 |[Rune Britz](https://www.worldcubeassociation.org/persons/2019BRIT01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
@@ -405,6 +428,7 @@ Key:
 |[Sebastian Outh-Aut](https://www.worldcubeassociation.org/persons/2017OUTH01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |[Sebastian Robbins](https://www.worldcubeassociation.org/persons/2014ROBB01)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,666,333bf,pyram|  
 |Shivansh|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,333bf,pyram|  
+|Shivansh Kakkar|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Sohan Chandan Kodlapura|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333|  
 |Steven Dimopoulos|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,pyram|  
 |[Swami Srinivasan](https://www.worldcubeassociation.org/persons/2015SRIN02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333bf,333oh,pyram,333mbf|  
@@ -427,7 +451,7 @@ Key:
 |[Zach Amiridis](https://www.worldcubeassociation.org/persons/2018AMIR03)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333bf,333oh,clock,pyram,skewb,sq1|  
 |[Zacheriah L. Huynh](https://www.worldcubeassociation.org/persons/2018HUYN06)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,pyram|  
 |[Zack Hall](https://www.worldcubeassociation.org/persons/2019HALL02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
-|[Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Pending|333,222,444,333bf,333oh,pyram,skewb,sq1|  
+|[Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |Zen Nimorakiotakis|NULL|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,333bf,pyram|  
 |[Zeshaan Khokhar](https://www.worldcubeassociation.org/persons/2015KHOK02)|Australia|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333mbf|  
 |[Ziyue Chang (常子越)](https://www.worldcubeassociation.org/persons/2018CHAN28)|China|[AltonaAlgorithms2019](https://www.worldcubeassociation.org/competitions/AltonaAlgorithms2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
@@ -436,8 +460,8 @@ Key:
 |[Alexander Batz](https://www.worldcubeassociation.org/persons/2017BATZ01)|Guatemala|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333,222,444,333bf,minx,pyram,skewb,sq1|  
 |[Fernando José Muchuch Chavez](https://www.worldcubeassociation.org/persons/2017CHAV07)|Guatemala|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Accepted|333,222,444,333bf,minx,pyram,skewb,sq1|  
 |[Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02)|Guatemala|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333,222,444,333bf,minx,pyram,skewb,sq1|  
-|Gahee Bae|NULL|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333,222,pyram|  
-|Heechan Bae|NULL|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333|  
+|Gahee Bae|NULL|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Accepted|333,222,pyram|  
+|Heechan Bae|NULL|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Accepted|333|  
 |[Jackie Vásquez](https://www.worldcubeassociation.org/persons/2013VASQ03)|Guatemala|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333,222,pyram,skewb|  
 |[Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01)|Guatemala|[Amatitlan2019](https://www.worldcubeassociation.org/competitions/Amatitlan2019)|Pending|333,222,444,333bf,minx,pyram,skewb,sq1|  
 |[Aarush Srivastava](https://www.worldcubeassociation.org/persons/2018SRIV02)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444,333oh|  
@@ -487,7 +511,7 @@ Key:
 |[Kent Smith](https://www.worldcubeassociation.org/persons/2018SMIT44)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444,333oh|  
 |Laken Cole Moore|NULL|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,333bf|  
 |[Leonardo Mantecon Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR45)|Mexico|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222|  
-|[Levi Abrahams](https://www.worldcubeassociation.org/persons/2019ABRA03)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Pending|333,222,444|  
+|[Levi Abrahams](https://www.worldcubeassociation.org/persons/2019ABRA03)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444|  
 |[Lily Keefauver](https://www.worldcubeassociation.org/persons/2016KEEF01)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444,333oh|  
 |[Luka Stojakovic](https://www.worldcubeassociation.org/persons/2019STOJ05)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444|  
 |[Mark Pedroza](https://www.worldcubeassociation.org/persons/2018PEDR02)|USA|[AustinSummer2019](https://www.worldcubeassociation.org/competitions/AustinSummer2019)|Accepted|333,222,444,333oh|  
@@ -535,7 +559,7 @@ Key:
 |[Carson Berg](https://www.worldcubeassociation.org/persons/2019BERG05)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Pending|333,555,666|  
 |Carson Seeker|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
 |Chase Waters|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
-|[Collin Amaral](https://www.worldcubeassociation.org/persons/2016AMAR02)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Pending|333,555|  
+|[Collin Amaral](https://www.worldcubeassociation.org/persons/2016AMAR02)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,555|  
 |[Colton Sowers](https://www.worldcubeassociation.org/persons/2013SOWE01)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
 |[Connor Horrocks](https://www.worldcubeassociation.org/persons/2019HORR01)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
 |[Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,555,666,333bf,sq1|  
@@ -581,10 +605,12 @@ Key:
 |[Reid Warren](https://www.worldcubeassociation.org/persons/2018WARR05)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
 |Richard Tobin|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,333bf,sq1|  
 |[Rogelio Figueroa](https://www.worldcubeassociation.org/persons/2012FIGU01)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,333bf|  
+|[Sean Kennedy](https://www.worldcubeassociation.org/persons/2016KENN05)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,555,sq1|  
 |[Siddharth Patil](https://www.worldcubeassociation.org/persons/2018PATI08)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333,555|  
 |[Trevor Downing](https://www.worldcubeassociation.org/persons/2018DOWN01)|USA|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
-|Valorie Tan|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Pending|333|  
+|Valorie Tan|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
 |Xiaochuan Yang|NULL|[AZCubingSummer2019](https://www.worldcubeassociation.org/competitions/AZCubingSummer2019)|Accepted|333|  
+|[Abhiram Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN52)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333|  
 |Adam Davis|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |[Aiden Burk](https://www.worldcubeassociation.org/persons/2019BURK03)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
 |[AJ Le](https://www.worldcubeassociation.org/persons/2018LEAJ01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,minx,pyram|  
@@ -608,6 +634,7 @@ Key:
 |[Dakshin Devanand](https://www.worldcubeassociation.org/persons/2018DEVA02)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
 |[Daniel Villarreal](https://www.worldcubeassociation.org/persons/2019VILL12)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |[Denniel M. Santos](https://www.worldcubeassociation.org/persons/2018SANT46)|Philippines|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
+|Dev McElroy|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |[Dhruv Cirigadi](https://www.worldcubeassociation.org/persons/2019CIRI02)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
 |Divyesh Mathan Lnu|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
 |[Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,minx,pyram|  
@@ -617,8 +644,11 @@ Key:
 |[Fletcher Berry](https://www.worldcubeassociation.org/persons/2018BERR01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,333bf,pyram|  
 |[Gana Visank Ventrapragada](https://www.worldcubeassociation.org/persons/2017VISA01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
 |Gunner Aebischer|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,minx,pyram|  
+|[Henry Bryarly](https://www.worldcubeassociation.org/persons/2018BRYA02)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,555,minx,pyram|  
 |[Hudson P. Simon](https://www.worldcubeassociation.org/persons/2018SIMO14)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,minx,pyram|  
+|Jackson Sirois|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |[Jae Park](https://www.worldcubeassociation.org/persons/2015PARK24)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,333bf|  
+|[Jaxon Dial](https://www.worldcubeassociation.org/persons/2019DIAL01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |[Jeff Park](https://www.worldcubeassociation.org/persons/2015PARK08)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,333bf,pyram|  
 |[Jimmy Tran](https://www.worldcubeassociation.org/persons/2019TRAN12)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,minx|  
 |[Joey D'Agostino](https://www.worldcubeassociation.org/persons/2019DAGO01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
@@ -635,12 +665,15 @@ Key:
 |[Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,minx,pyram|  
 |Navin Rao|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
 |Prescott Carr Johnson|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,333bf,minx,pyram|  
+|Raymond Ramirez|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333|  
 |Reid Johannsen|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|pyram|  
 |Richmond So|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
-|Ryan Arndt|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333|  
+|Ryan Arndt|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
+|[Ryland O'Hanlon](https://www.worldcubeassociation.org/persons/2017OHAN01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,555,333bf,minx,pyram|  
 |[Samarth Dubey](https://www.worldcubeassociation.org/persons/2019DUBE01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
 |Samuel Johnston|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
 |Scott Pasakarnis|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
+|[Steven Harris](https://www.worldcubeassociation.org/persons/2018HARR11)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,444,pyram|  
 |Steven Livingston|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,minx,pyram|  
 |Suji Gonur|NULL|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Pending|333,pyram|  
 |[Supraj Gonur](https://www.worldcubeassociation.org/persons/2019GONU01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,pyram|  
@@ -652,14 +685,14 @@ Key:
 |[William Fate](https://www.worldcubeassociation.org/persons/2018FATE01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,minx,pyram|  
 |[Yatin Obili](https://www.worldcubeassociation.org/persons/2018OBIL01)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,pyram|  
 |[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|[BacktoSchoolDFW2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolDFW2019)|Accepted|333,444,555,333bf,minx,pyram|  
-|[Alex Kuyper](https://www.worldcubeassociation.org/persons/2018KUYP01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,pyram,skewb|  
+|[Alex Kuyper](https://www.worldcubeassociation.org/persons/2018KUYP01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,333oh,pyram,skewb|  
 |Alexandra McCrone|NULL|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,pyram,skewb|  
 |[Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |[Clarke Hawkinson](https://www.worldcubeassociation.org/persons/2009HAWK01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |[Cole Baker](https://www.worldcubeassociation.org/persons/2018BAKE08)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,pyram,skewb|  
 |[Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Pending|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |[Matt Pyles](https://www.worldcubeassociation.org/persons/2018PYLE01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222|  
-|Morgan French|NULL|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Pending|333,222,444,333oh,pyram,skewb,sq1|  
+|Morgan French|NULL|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Nakai Velasquez](https://www.worldcubeassociation.org/persons/2008VELA01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |Sage Spraktes|NULL|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Accepted|333|  
@@ -667,32 +700,35 @@ Key:
 |[Seth Versluis](https://www.worldcubeassociation.org/persons/2018VERS02)|USA|[BacktoSchoolIdaho2019](https://www.worldcubeassociation.org/competitions/BacktoSchoolIdaho2019)|Pending|333,222,333oh,pyram,skewb,sq1|  
 |[András Szigeti](https://www.worldcubeassociation.org/persons/2017SZIG01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Bengea Luca](https://www.worldcubeassociation.org/persons/2018LUCA03)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Bianca-Maria Morgociu](https://www.worldcubeassociation.org/persons/2018MORG06)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,pyram|  
 |[Dan Alexandru Cechi](https://www.worldcubeassociation.org/persons/2018CECH01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Deleted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
 |Denis Wagner|NULL|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,sq1|  
+|[Katalin Horváth](https://www.worldcubeassociation.org/persons/2019HORV01)|Hungary|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,333bf,333oh,pyram,444bf|  
 |[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Maya Maghiar](https://www.worldcubeassociation.org/persons/2017MAGH02)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04)|Hungary|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Munteanu Paul Andrei](https://www.worldcubeassociation.org/persons/2019ANDR06)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,pyram|  
 |[Paul Becsi](https://www.worldcubeassociation.org/persons/2016BECS01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03)|France|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,333mbf|  
-|[Stefania Petcu](https://www.worldcubeassociation.org/persons/2017PETC01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Stefania Petcu](https://www.worldcubeassociation.org/persons/2017PETC01)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Şuhan Vlad-Andrei](https://www.worldcubeassociation.org/persons/2018VLAD02)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Vasile Dan](https://www.worldcubeassociation.org/persons/2013VASI02)|Romania|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Zoltán Czimler](https://www.worldcubeassociation.org/persons/2016CZIM01)|Hungary|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Pending|333,222,pyram|  
 |Наріжний артем|NULL|[BaiaMareNorthOpen2019](https://www.worldcubeassociation.org/competitions/BaiaMareNorthOpen2019)|Deleted|333,222,pyram|  
 |Adil Əsgərov|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,333oh|  
-|[Ali Aliyev](https://www.worldcubeassociation.org/persons/2018ALIY01)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,333oh|  
+|[Ali Aliyev](https://www.worldcubeassociation.org/persons/2018ALIY01)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Deleted|333,333oh|  
 |[Ali Atashi (علی آتشی)](https://www.worldcubeassociation.org/persons/2011ATAS01)|Iran|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Deleted|333,444,333oh|  
 |[Ali Heybatov](https://www.worldcubeassociation.org/persons/2018HEYB01)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333|  
 |Amar Gadzhiev|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333|  
 |[Ayxan Həsənov](https://www.worldcubeassociation.org/persons/2018HASA05)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,333oh|  
 |Bahadır Məmmədli|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333|  
 |[Elmir Mirzəyev](https://www.worldcubeassociation.org/persons/2019MIRZ01)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,444,333oh|  
-|Emil Nağıyev|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Deleted|333,333oh|  
+|Emil Nağıyev|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,333oh|  
 |[Eyyub Kərimov](https://www.worldcubeassociation.org/persons/2019KARI02)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,444,333oh|  
 |[Fərid Həsənov](https://www.worldcubeassociation.org/persons/2019HASA01)|Azerbaijan|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,444,333oh|  
 |Gular Latifli|NULL|[BakuSummer2019](https://www.worldcubeassociation.org/competitions/BakuSummer2019)|Accepted|333,444|  
@@ -719,6 +755,7 @@ Key:
 |Andrew Song|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,pyram|  
 |Aris Efstathopoulos|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333|  
 |Arjun Soundar Hariram|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
+|[Arturo Pico](https://www.worldcubeassociation.org/persons/2018PICO02)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Aryan Sehgal](https://www.worldcubeassociation.org/persons/2015SEHG01)|India|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Pending|333,555,333oh,minx,pyram|  
 |[Ayan Iqbal](https://www.worldcubeassociation.org/persons/2018IQBA02)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx|  
@@ -751,11 +788,12 @@ Key:
 |Joshua Sandifer|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
 |[Kairui Huang](https://www.worldcubeassociation.org/persons/2015HUAN51)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,333oh,pyram|  
 |[Kendall Frey](https://www.worldcubeassociation.org/persons/2019FREY02)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,minx|  
+|[Kevin Tang](https://www.worldcubeassociation.org/persons/2017TANG21)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx|  
 |Koda Arthur Cobierski|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
-|Larry Shi|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Pending|333,333oh,pyram|  
+|Larry Shi|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,333oh,pyram|  
 |[Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10)|Saint Kitts and Nevis|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
-|Maheer Huq|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Pending|333,333oh,pyram|  
+|Maheer Huq|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,333oh,pyram|  
 |[Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |Mark Leistra|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,minx|  
 |[Mathew Niznansky](https://www.worldcubeassociation.org/persons/2018NIZN01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
@@ -765,7 +803,7 @@ Key:
 |Michael Lit|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333|  
 |[Michael MacDonald Bradley](https://www.worldcubeassociation.org/persons/2018BRAD08)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,333oh,pyram|  
-|[Nate Bachynski](https://www.worldcubeassociation.org/persons/2018BACH05)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Pending|333,pyram|  
+|[Nate Bachynski](https://www.worldcubeassociation.org/persons/2018BACH05)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
 |Nathan Pedro|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
 |[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,333oh,pyram|  
 |Nicolas de Lottinville|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333|  
@@ -775,7 +813,7 @@ Key:
 |[Ranran Zhao (赵然冉)](https://www.worldcubeassociation.org/persons/2017ZHAO44)|China|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
 |[Ray Vince Ong](https://www.worldcubeassociation.org/persons/2012ONGR01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh|  
 |Riley Brambell|NULL|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,pyram|  
-|[Roan Paone](https://www.worldcubeassociation.org/persons/2017PAON01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Pending|333,555,333oh,minx,pyram|  
+|[Roan Paone](https://www.worldcubeassociation.org/persons/2017PAON01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Ryan Pin Harry](https://www.worldcubeassociation.org/persons/2015HARR01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
 |[Sami Mokatren](https://www.worldcubeassociation.org/persons/2019MOKA01)|Canada|[BattleofWaterloo2019](https://www.worldcubeassociation.org/competitions/BattleofWaterloo2019)|Accepted|333,555,333oh,minx,pyram|  
@@ -806,7 +844,7 @@ Key:
 |[Arsh Gill](https://www.worldcubeassociation.org/persons/2019GILL04)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,pyram|  
 |[Arthur Henry](https://www.worldcubeassociation.org/persons/2019HENR02)|France|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|pyram|  
 |[August von Metzsch](https://www.worldcubeassociation.org/persons/2019METZ01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Deleted|333,222,444,555,333oh,pyram,sq1|  
-|[Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,333oh,pyram|  
+|[Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,333oh,pyram|  
 |Baron Ray Chang|NULL|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Pending|333|  
 |[Brandon Harnish](https://www.worldcubeassociation.org/persons/2009HARN01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,sq1|  
 |[Brian Magpili](https://www.worldcubeassociation.org/persons/2019MAGP01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Pending|333,222,pyram|  
@@ -831,9 +869,11 @@ Key:
 |[Ethan Perry](https://www.worldcubeassociation.org/persons/2019PERR02)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Deleted|333,222,444,555,333oh,pyram,sq1|  
 |[Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,555,333oh,pyram,sq1|  
 |[Evan Szentgyorgyi](https://www.worldcubeassociation.org/persons/2018SZEN01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,555,333oh,pyram,sq1|  
+|Felix Yu|NULL|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Pending|333,444|  
 |[Harrison Marsh](https://www.worldcubeassociation.org/persons/2019MARS01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222|  
 |[Hudson Lam](https://www.worldcubeassociation.org/persons/2019LAMH01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,333oh,pyram|  
 |[Isaiah Blotz](https://www.worldcubeassociation.org/persons/2015BLOT01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,pyram|  
+|[Ishan Katpally](https://www.worldcubeassociation.org/persons/2019KATP01)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Pending|333,222,444|  
 |Jackson Ontiveros|NULL|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|pyram|  
 |[Jacob Saunders](https://www.worldcubeassociation.org/persons/2019SAUN03)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,555,333oh,pyram|  
 |[Jad Shaheen](https://www.worldcubeassociation.org/persons/2016SHAH19)|USA|[BayAreaSpeedcubin192019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin192019)|Accepted|333,222,444,555,333oh,pyram|  
@@ -896,8 +936,10 @@ Key:
 |[Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12)|India|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
 |[Advika Kumar](https://www.worldcubeassociation.org/persons/2019KUMA10)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
 |[Alex Wang](https://www.worldcubeassociation.org/persons/2019WANA02)|China|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh,minx|  
+|[Alex Yan](https://www.worldcubeassociation.org/persons/2018YANA01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333,444,minx|  
 |[Alexander Eckinger](https://www.worldcubeassociation.org/persons/2016ECKI01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
 |[Allan Velliste](https://www.worldcubeassociation.org/persons/2019VELL02)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
+|[Andrew Mylius](https://www.worldcubeassociation.org/persons/2018MYLI01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333,222,444|  
 |[Animesh Alang](https://www.worldcubeassociation.org/persons/2019ALAN01)|India|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh,minx|  
 |[August von Metzsch](https://www.worldcubeassociation.org/persons/2019METZ01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh,clock,minx|  
 |[Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
@@ -912,14 +954,16 @@ Key:
 |[Christian Martin](https://www.worldcubeassociation.org/persons/2013MART03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
 |Christian To|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
 |[Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,minx|  
+|[Dan Pastushkov](https://www.worldcubeassociation.org/persons/2014PAST01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
 |[Debanshu Ghosh](https://www.worldcubeassociation.org/persons/2018GHOS03)|India|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,minx|  
 |[Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333,222,444,666,333oh,clock,minx|  
 |[Dohyun Yang](https://www.worldcubeassociation.org/persons/2019YANG76)|Korea|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
 |Edward Leung|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
-|Esveide Gonzalez-Lombera|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333|  
+|Esveide Gonzalez-Lombera|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333|  
 |[Harrison Marsh](https://www.worldcubeassociation.org/persons/2019MARS01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
 |[Heidi Chan](https://www.worldcubeassociation.org/persons/2018CHAN50)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
 |[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
+|[Ishan Katpally](https://www.worldcubeassociation.org/persons/2019KATP01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444|  
 |[Jad Shaheen](https://www.worldcubeassociation.org/persons/2016SHAH19)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh,minx|  
 |[Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
 |Jeff Ngo|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333|  
@@ -961,6 +1005,8 @@ Key:
 |[Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333|  
 |Siddhant Swaminathan|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444|  
 |[Siddharth Manchkanti](https://www.worldcubeassociation.org/persons/2014MANC03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh,clock,minx|  
+|[Stan Lieberman](https://www.worldcubeassociation.org/persons/2019LIEB01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333,222,444|  
+|Stephen Gibson|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
 |[Tejas Kota](https://www.worldcubeassociation.org/persons/2018KOTA03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh,clock|  
 |Timothy Courneya|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
 |[Tirth Suba](https://www.worldcubeassociation.org/persons/2019SUBA01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
@@ -968,23 +1014,28 @@ Key:
 |[Vishantak Srikrishna](https://www.worldcubeassociation.org/persons/2014SRIK03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,333oh|  
 |Vivek Krishnan|NULL|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222|  
 |[Will Walter](https://www.worldcubeassociation.org/persons/2017WALT01)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,666,333oh|  
-|[Yash Bansal](https://www.worldcubeassociation.org/persons/2016BANS03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Pending|333,222,444,333oh|  
+|[Yash Bansal](https://www.worldcubeassociation.org/persons/2016BANS03)|USA|[BayAreaSpeedcubin202019](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin202019)|Accepted|333,222,444,333oh|  
 |[Alisa Konovalova (Алиса Коновалова)](https://www.worldcubeassociation.org/persons/2018KONO08)|Russia|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Amir Mohammad Jazaeri](https://www.worldcubeassociation.org/persons/2019JAZA01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333|  
 |[Aurelien Marion](https://www.worldcubeassociation.org/persons/2017MARI20)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,444,555,666,333bf,444bf|  
+|[Brent Silkyn](https://www.worldcubeassociation.org/persons/2018SILK01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,333bf,333ft,pyram,skewb,444bf|  
 |[Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,444,444bf|  
 |[Chloé Demuynck](https://www.worldcubeassociation.org/persons/2016DEMU01)|France|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,pyram|  
 |Clara Verbraeken|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222|  
 |Conor Bolster Fernandez|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222|  
-|[Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,555,666,777,333bf,333ft,clock,pyram,skewb,444bf,555bf|  
+|[Corentin Thomée](https://www.worldcubeassociation.org/persons/2018THOM07)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,333bf,pyram,skewb|  
+|[Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,clock,pyram,skewb,444bf,555bf|  
 |[Elias Meynckens](https://www.worldcubeassociation.org/persons/2017MEYN01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,333bf,333ft,pyram|  
 |Emiel Bouckaert|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,pyram,skewb|  
-|[Emilio Tanzarella](https://www.worldcubeassociation.org/persons/2018TANZ04)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,555,666,777,333bf,pyram|  
+|[Emilio Tanzarella](https://www.worldcubeassociation.org/persons/2018TANZ04)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,666,777,333bf,pyram|  
 |[Erelkhegbaatar Lkhagva](https://www.worldcubeassociation.org/persons/2013LKHA01)|Mongolia|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,333bf|  
 |[Erik Tjong Kim Sang](https://www.worldcubeassociation.org/persons/2018SANG01)|Netherlands|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,444,333bf,444bf|  
-|[Fanny Pousset](https://www.worldcubeassociation.org/persons/2016POUS01)|France|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,pyram,skewb|  
+|[Fanny Pousset](https://www.worldcubeassociation.org/persons/2016POUS01)|France|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,pyram,skewb|  
+|[Gabriel Luthun](https://www.worldcubeassociation.org/persons/2016LUTH01)|France|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,333bf,clock,pyram,skewb|  
 |[Gert van Hout](https://www.worldcubeassociation.org/persons/2018HOUT01)|Netherlands|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333bf,444bf,555bf|  
-|[Guillaume David](https://www.worldcubeassociation.org/persons/2017DAVI21)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,pyram|  
+|[Guillaume David](https://www.worldcubeassociation.org/persons/2017DAVI21)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,pyram|  
 |[Jan Suhrheinrich](https://www.worldcubeassociation.org/persons/2019SUHR02)|Germany|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,555,666,777,333bf,pyram,skewb,444bf,555bf|  
 |[Jessica Moens](https://www.worldcubeassociation.org/persons/2015MOEN01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,pyram,skewb|  
 |[Jonas Di Dier](https://www.worldcubeassociation.org/persons/2018DIER01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,666,333bf,pyram,skewb,444bf|  
 |[Jonas Rongé](https://www.worldcubeassociation.org/persons/2014RONG01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,666,777,333bf,clock,pyram,skewb,444bf|  
@@ -1005,16 +1056,19 @@ Key:
 |Rik Wagemans|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333|  
 |[Robin Dictus](https://www.worldcubeassociation.org/persons/2019DICT01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222|  
 |[Sacha Lewin](https://www.worldcubeassociation.org/persons/2018LEWI10)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,333bf,pyram,skewb|  
+|Simon De Prins|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,clock,pyram,skewb|  
 |[Télian Delannoy](https://www.worldcubeassociation.org/persons/2016DELA03)|France|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,clock,pyram,skewb,444bf|  
 |[Théo Molitor](https://www.worldcubeassociation.org/persons/2019MOLI03)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,333bf,pyram,skewb|  
+|[Ulysse Van Damme](https://www.worldcubeassociation.org/persons/2018DAMM01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Pending|333,222,444,pyram|  
 |Vic Heyns|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,444,pyram|  
 |[Vincent Benoot](https://www.worldcubeassociation.org/persons/2019BENO01)|Belgium|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,pyram|  
 |Willem Verhoeven|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,pyram,skewb|  
+|Yanis El Krout|NULL|[BelgianOpen2019](https://www.worldcubeassociation.org/competitions/BelgianOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Aaditya Karnataki](https://www.worldcubeassociation.org/persons/2019KARN01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb|  
 |[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb|  
 |[Aaron Sun](https://www.worldcubeassociation.org/persons/2018SUNA06)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,333bf,skewb,sq1|  
 |[Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12)|India|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb,sq1,555bf|  
-|Abhinav Sinha|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Pending|333|  
+|Abhinav Sinha|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |Adrian George|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram|  
 |[Alec Brown](https://www.worldcubeassociation.org/persons/2019BROW01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram,skewb|  
 |[Alex Kuepper](https://www.worldcubeassociation.org/persons/2017KUEP01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Deleted|skewb|  
@@ -1026,6 +1080,7 @@ Key:
 |[Anderson Loo](https://www.worldcubeassociation.org/persons/2019LOOA01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram|  
 |[Andrew Mylius](https://www.worldcubeassociation.org/persons/2018MYLI01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555|  
 |[Andrew Vinckier](https://www.worldcubeassociation.org/persons/2019VINC03)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram|  
+|[Anijeet Kanjilal](https://www.worldcubeassociation.org/persons/2018KANJ01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |[Animesh Alang](https://www.worldcubeassociation.org/persons/2019ALAN01)|India|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb,sq1|  
 |[Anshu Chennuru](https://www.worldcubeassociation.org/persons/2016CHEN53)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |Ariana Arrozal|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|pyram|  
@@ -1051,6 +1106,7 @@ Key:
 |[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,skewb,sq1|  
 |[Daniel Derebenskiy](https://www.worldcubeassociation.org/persons/2019DERE01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Pending|333,555,pyram,skewb,sq1|  
 |[David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,444bf,555bf|  
+|[Debanshu Ghosh](https://www.worldcubeassociation.org/persons/2018GHOS03)|India|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,pyram,skewb|  
 |[Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb,sq1,444bf,555bf|  
 |Dhruv Shah|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram,skewb|  
 |[Eagle Ensminger](https://www.worldcubeassociation.org/persons/2019ENSM01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|pyram|  
@@ -1065,6 +1121,7 @@ Key:
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb,sq1,444bf,555bf|  
 |[Heidi Chan](https://www.worldcubeassociation.org/persons/2018CHAN50)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram|  
 |[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb,sq1,444bf,555bf|  
+|[Ishan Katpally](https://www.worldcubeassociation.org/persons/2019KATP01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |Itamar Shamay|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |[Jacob Brown](https://www.worldcubeassociation.org/persons/2019BROW13)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb,sq1|  
 |[Jad Shaheen](https://www.worldcubeassociation.org/persons/2016SHAH19)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb|  
@@ -1101,7 +1158,7 @@ Key:
 |[Manas Verma](https://www.worldcubeassociation.org/persons/2011VERM01)|India|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,333bf|  
 |[Marc Anthony McCrory](https://www.worldcubeassociation.org/persons/2016MCCR02)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram,sq1|  
 |[Mark Molchanov](https://www.worldcubeassociation.org/persons/2019MOLC01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb|  
-|Maru Mun|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Pending|333|  
+|Maru Mun|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333|  
 |[Mason Lam](https://www.worldcubeassociation.org/persons/2019LAMM01)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,pyram,sq1|  
 |[Matthew Lee](https://www.worldcubeassociation.org/persons/2019LEEM02)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb|  
 |[Mattias C. Lobastov](https://www.worldcubeassociation.org/persons/2018LOBA02)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb,sq1|  
@@ -1135,6 +1192,7 @@ Key:
 |Samuel Penrod|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,pyram,skewb,sq1|  
 |[Shubhan Chari](https://www.worldcubeassociation.org/persons/2019CHAR07)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,pyram,skewb,sq1|  
 |[Siddharth Manchkanti](https://www.worldcubeassociation.org/persons/2014MANC03)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,333bf,pyram,skewb,sq1|  
+|Silas Emerian|NULL|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,555,777,pyram,skewb,sq1|  
 |[Sol Goodwin](https://www.worldcubeassociation.org/persons/2015GOOD02)|USA|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,333bf,pyram,skewb|  
 |[Srishail Mukundan](https://www.worldcubeassociation.org/persons/2018MUKU01)|India|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,333bf,pyram,skewb,sq1|  
 |[Stephen Zhu](https://www.worldcubeassociation.org/persons/2017ZHUS01)|China|[BerkeleySummer2019](https://www.worldcubeassociation.org/competitions/BerkeleySummer2019)|Accepted|333,333bf|  
@@ -1168,9 +1226,16 @@ Key:
 |Phoenix Badger|NULL|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Pending|333|  
 |[Riley Workman](https://www.worldcubeassociation.org/persons/2016WORK02)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Accepted|333,666,777,clock,minx,skewb|  
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Pending|333,666,777,clock,minx,skewb|  
+|[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Pending|333,666,clock,minx,skewb|  
 |[Sebastian Snyder](https://www.worldcubeassociation.org/persons/2018SNYD05)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Accepted|333,minx,skewb|  
 |[Travis Burkett](https://www.worldcubeassociation.org/persons/2018BURK01)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Accepted|333,666,777,clock,minx,skewb|  
-|[Trenton Nelson](https://www.worldcubeassociation.org/persons/2019NELS01)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Pending|333,minx|  
+|[Trenton Nelson](https://www.worldcubeassociation.org/persons/2019NELS01)|USA|[BigandSkewbUtah2019](https://www.worldcubeassociation.org/competitions/BigandSkewbUtah2019)|Accepted|333,minx|  
+|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|India|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Pending|555,666,777,333bf,333fm,minx,444bf,555bf,333mbf|  
+|[Arihant Jain](https://www.worldcubeassociation.org/persons/2018JAIN33)|India|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Pending|555,666,minx|  
+|[Atharva R. Bhat](https://www.worldcubeassociation.org/persons/2017BHAT02)|India|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Pending|555,666,777,333bf,333fm,minx,444bf,555bf,333mbf|  
+|[Pamulapati Sai Teja](https://www.worldcubeassociation.org/persons/2014TEJA05)|India|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Pending|555,666,777,333bf,333fm,minx,444bf,555bf,333mbf|  
+|Speed Cubing Bangalore|NULL|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Deleted|555,666,777,333bf,333fm,minx,444bf,555bf,333mbf|  
+|[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|India|[BignBlindinBangalore2019](https://www.worldcubeassociation.org/competitions/BignBlindinBangalore2019)|Pending|555,666,777,333bf,333fm,minx,444bf,555bf,333mbf|  
 |[Agustin Wals](https://www.worldcubeassociation.org/persons/2016WALS01)|Spain|[BilbaoOpen2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019)|Accepted|333,222,444,333bf,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Ainara Aldako Arratxe](https://www.worldcubeassociation.org/persons/2017ARRA04)|Spain|[BilbaoOpen2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019)|Accepted|333|  
 |[Aitor Gabantxo](https://www.worldcubeassociation.org/persons/2014GABA01)|Spain|[BilbaoOpen2019](https://www.worldcubeassociation.org/competitions/BilbaoOpen2019)|Deleted|333,222,444,pyram,skewb,sq1|  
@@ -1275,7 +1340,7 @@ Key:
 |Miles Hollist|NULL|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Accepted|333,222|  
 |[Mitch Smoot](https://www.worldcubeassociation.org/persons/2011SMOO01)|USA|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Pending|333,222,444,555,666,minx|  
 |[Nathan Waitt](https://www.worldcubeassociation.org/persons/2018WAIT01)|USA|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Pending|333,222,444,555,666,777,minx|  
-|Owen Harshbarger|NULL|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Pending|333,222,444,minx|  
+|Owen Harshbarger|NULL|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Accepted|333,222,444,minx|  
 |Robert Reinhardt|NULL|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Accepted|333,222,444|  
 |Roland Parrott|NULL|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Accepted|333,222,555,minx|  
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[Boise2019](https://www.worldcubeassociation.org/competitions/Boise2019)|Pending|333,222,444,555,666,777,minx|  
@@ -1310,15 +1375,17 @@ Key:
 |[Alexandre Castanho Sampaio Rocha](https://www.worldcubeassociation.org/persons/2019ROCH05)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444|  
 |[Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Anderson Alessandro Pavia](https://www.worldcubeassociation.org/persons/2014PAVI02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,sq1|  
+|[André Felipe Silva Rodrigues](https://www.worldcubeassociation.org/persons/2018RODR59)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333fm,333oh,minx,pyram,skewb,sq1|  
 |[André Rodrigo César Pinheiro Monte Amado](https://www.worldcubeassociation.org/persons/2014AMAD01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,pyram,skewb,sq1|  
 |Bárbara Guerra Ribeiro|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |Bianca Silva de Carvalho|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333|  
-|[Caio Almeida Martins](https://www.worldcubeassociation.org/persons/2017MART58)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,444,333oh,pyram|  
-|[Daniel Batista da Silva](https://www.worldcubeassociation.org/persons/2019SILV31)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333bf,333oh,pyram|  
-|[Daniel Rangel Tyrka](https://www.worldcubeassociation.org/persons/2019TYRK01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,skewb|  
+|[Caio Almeida Martins](https://www.worldcubeassociation.org/persons/2017MART58)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,444,333oh,pyram,sq1|  
+|[Daniel Batista da Silva](https://www.worldcubeassociation.org/persons/2019SILV31)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Daniel Rangel Tyrka](https://www.worldcubeassociation.org/persons/2019TYRK01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,skewb|  
 |Davi Lopes Macedo|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,minx,pyram|  
-|[Gabriel Abreu](https://www.worldcubeassociation.org/persons/2013ABRE01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333fm,clock,skewb,sq1|  
-|[Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Felipe Eduardo Alves de Faria](https://www.worldcubeassociation.org/persons/2016FARI04)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Gabriel Abreu](https://www.worldcubeassociation.org/persons/2013ABRE01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Deleted|333,222,444,333fm,clock,skewb,sq1|  
+|[Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Gabriel Dias Souza Dos Santos|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333|  
 |[Gustavo Kenzo Araki Takechi](https://www.worldcubeassociation.org/persons/2015TAKE03)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |Jakson Souza de Almeida|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333|  
@@ -1326,61 +1393,37 @@ Key:
 |[João Gabriel Guedes Araújo](https://www.worldcubeassociation.org/persons/2019ARAU06)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,333oh,pyram,sq1|  
 |[João Luiz Melo Novaes](https://www.worldcubeassociation.org/persons/2017NOVA05)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,333fm,minx,pyram,skewb,sq1|  
 |[João Pedro dos Santos Costa](https://www.worldcubeassociation.org/persons/2016COST03)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333oh,minx|  
-|[João Vinicius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[João Vinicius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Jônatas Souza de Almeida|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333|  
-|[José Luiz Martins de Almeida e Souza](https://www.worldcubeassociation.org/persons/2014SOUZ05)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,444|  
+|[José Luiz Martins de Almeida e Souza](https://www.worldcubeassociation.org/persons/2014SOUZ05)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,444|  
 |[Lavynia Marques Leite](https://www.worldcubeassociation.org/persons/2017LEIT01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,skewb,sq1|  
 |[Letícia Naomi Araki Takechi](https://www.worldcubeassociation.org/persons/2019TAKE02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333|  
 |[Luan Gomes de Almeira Araújo](https://www.worldcubeassociation.org/persons/2019ARAU07)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |[Lucas Agostini Bernardo](https://www.worldcubeassociation.org/persons/2014BERN03)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,minx,pyram|  
 |[Marcos Rijo da Silva](https://www.worldcubeassociation.org/persons/2015SILV57)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,444|  
-|[Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,clock,minx,skewb,sq1|  
+|[Marlon de V. Marques](https://www.worldcubeassociation.org/persons/2014MARQ02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,333ft,clock,minx,skewb,sq1|  
 |[Matheus Barbosa de Miranda](https://www.worldcubeassociation.org/persons/2013MIRA02)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333oh|  
 |[Matheus Eduardo dos Santos](https://www.worldcubeassociation.org/persons/2018SANT86)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,pyram|  
 |[Mauricio Paulino Marques Fernandes](https://www.worldcubeassociation.org/persons/2017FERN19)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,333oh,clock,minx,pyram,skewb,sq1|  
 |[Nilson Furtado dos Santos Júnior](https://www.worldcubeassociation.org/persons/2018JUNI10)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222|  
 |Pedro Diniz Pires|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222|  
+|Pedro Henrique Evangelista Sala|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,pyram,skewb|  
 |[Pedro Miranda Moreira](https://www.worldcubeassociation.org/persons/2014MORE05)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Rafael Okahara Gonçalves](https://www.worldcubeassociation.org/persons/2018GONC06)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333oh|  
 |[Rafael Sekia de Souza](https://www.worldcubeassociation.org/persons/2014SOUZ06)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,minx|  
 |Ruben Omar Colazo|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,clock,pyram|  
 |Talita de Almeida Rodrigues|NULL|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Accepted|333,222,444,333oh,minx|  
+|[Thiago Henrique Silva Rodrigues](https://www.worldcubeassociation.org/persons/2018RODR60)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Thiago Viriato Accioly](https://www.worldcubeassociation.org/persons/2018ACCI01)|Brazil|[BrasiliaWinter2019](https://www.worldcubeassociation.org/competitions/BrasiliaWinter2019)|Pending|333,222,444,pyram,skewb|  
-|[Aldo Iván Paco Aguirre](https://www.worldcubeassociation.org/persons/2019AGUI06)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb|  
-|[Alex Anderson Bedon Valentin](https://www.worldcubeassociation.org/persons/2017VALE01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,444|  
-|[Andy Sergio Caracuzma Pascual](https://www.worldcubeassociation.org/persons/2017PASC01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,222,pyram|  
-|[Brandon Rousbel Valero Alfaro](https://www.worldcubeassociation.org/persons/2016ALFA01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,222,444,333oh,pyram,skewb|  
-|[Carlos Quispe Cantorin](https://www.worldcubeassociation.org/persons/2017CANT03)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,333oh,minx,pyram|  
-|[Carlos Sullca Mejía](https://www.worldcubeassociation.org/persons/2017MEJI13)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,pyram,skewb|  
-|[Christian Tonny Condori Sarmiento](https://www.worldcubeassociation.org/persons/2016SARM07)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,222,444,333oh|  
-|[David Jhonatan Montoya](https://www.worldcubeassociation.org/persons/2017MONT31)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,333oh|  
-|[Gustavo Ofer Churampi Vicharra](https://www.worldcubeassociation.org/persons/2017VICH02)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,333oh,minx|  
-|[Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,333bf|  
-|[Jesus Emmanuel Vergara Ayarza](https://www.worldcubeassociation.org/persons/2017AYAR01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,minx,pyram,skewb|  
-|[Leonardo José Hilario Cori](https://www.worldcubeassociation.org/persons/2017CORI01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
-|Luis Andre Arthur Montoya Ilizarbe|NULL|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333|  
-|[Luis Fernando Diaz Rondón](https://www.worldcubeassociation.org/persons/2015ROND03)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,222,333bf,333oh,skewb|  
-|[Marcelo Quispe Cantorin](https://www.worldcubeassociation.org/persons/2017CANT04)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222|  
-|[Miguel Anthony Ochoa Collachagua](https://www.worldcubeassociation.org/persons/2017COLL05)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,minx,pyram,skewb|  
-|[Renato Andrè Pucuhuayla Mendieta](https://www.worldcubeassociation.org/persons/2017MEND39)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333,minx|  
-|[Ricardo Rodrigo Viviano Rios Ramos](https://www.worldcubeassociation.org/persons/2017RAMO16)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|222,pyram|  
-|[Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,pyram|  
-|[Ronaldo Elí Churampi Vicharra](https://www.worldcubeassociation.org/persons/2017VICH03)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,444,minx|  
-|[Stalin Cipriano Tejeda](https://www.worldcubeassociation.org/persons/2017TEJE01)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Pending|333bf,333oh|  
-|Ulises Albert Lopez Tinco|NULL|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333|  
-|Valentino Cervantes Quillatupa|NULL|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222|  
-|[Valentino Espinoza Gamarra](https://www.worldcubeassociation.org/persons/2017GAMA02)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,pyram|  
-|[Yair Piero Chávez Alva](https://www.worldcubeassociation.org/persons/2017ALVA08)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,444,pyram|  
-|[Yerik Ponce Gutierrez](https://www.worldcubeassociation.org/persons/2019GUTI06)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,pyram,skewb|  
-|Yuri Morales Surichaqui|NULL|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333,222,pyram|  
-|[Zamir Pantoja](https://www.worldcubeassociation.org/persons/2018PANT03)|Peru|[BreakingRecordsHuancayo2019](https://www.worldcubeassociation.org/competitions/BreakingRecordsHuancayo2019)|Accepted|333bf|  
+|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[BucharestBlindandStuff2019](https://www.worldcubeassociation.org/competitions/BucharestBlindandStuff2019)|Deleted|333bf,sq1,444bf,555bf,333mbf|  
 |[Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01)|Romania|[BucharestBlindandStuff2019](https://www.worldcubeassociation.org/competitions/BucharestBlindandStuff2019)|Accepted|333bf,333ft,clock,sq1|  
 |[Acar Gök](https://www.worldcubeassociation.org/persons/2017GOKA01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,333fm,333oh,pyram,skewb,sq1|  
 |[Adem İnanç Alparslan](https://www.worldcubeassociation.org/persons/2019ALPA01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222|  
 |[Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb,sq1|  
 |[Ahmet Ozan Erdoğan](https://www.worldcubeassociation.org/persons/2019ERDO01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,pyram,skewb|  
+|[Ali Kemal Özbek](https://www.worldcubeassociation.org/persons/2018OZBE01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,333fm,333oh,pyram,sq1|  
 |[Ali Rıza Kulaksız](https://www.worldcubeassociation.org/persons/2017KULA01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,333fm,pyram,skewb|  
-|[Arda Kalaycı](https://www.worldcubeassociation.org/persons/2019KALA02)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,pyram|  
+|[Arda Kalaycı](https://www.worldcubeassociation.org/persons/2019KALA02)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,555,pyram|  
 |[Berk Rende](https://www.worldcubeassociation.org/persons/2016REND02)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb,sq1|  
 |[Can Ersoy](https://www.worldcubeassociation.org/persons/2015ERSO01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Can Gücüyener](https://www.worldcubeassociation.org/persons/2011GUCU01)|Turkey|[BursaSummer2019](https://www.worldcubeassociation.org/competitions/BursaSummer2019)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb,sq1|  
@@ -1453,6 +1496,7 @@ Key:
 |[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Andrey Mishin](https://www.worldcubeassociation.org/persons/2017MISH06)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Andrey Razzhivin](https://www.worldcubeassociation.org/persons/2015RAZZ01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,sq1|  
+|[Aral Askarov](https://www.worldcubeassociation.org/persons/2017ASKA02)|Kazakhstan|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Artem Kolmykov](https://www.worldcubeassociation.org/persons/2017KOLM01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |Artem Semakin|NULL|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333|  
 |[Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
@@ -1462,9 +1506,11 @@ Key:
 |[Dias Murzalin (Диас Мурзалин)](https://www.worldcubeassociation.org/persons/2018MURZ01)|Kazakhstan|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,222,444,555,333bf,333oh,pyram,sq1|  
 |[Egor Korchagin](https://www.worldcubeassociation.org/persons/2019KORC03)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|Egor Krutyakov|NULL|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333|  
 |[Egor Slepov (Егор Слепов)](https://www.worldcubeassociation.org/persons/2018SLEP01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |Egor Terentev|NULL|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,pyram|  
 |Eldar Borisov|NULL|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,pyram|  
+|[Ernur Ersayynov](https://www.worldcubeassociation.org/persons/2017ERSA01)|Kazakhstan|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Evgeny Kolmykov (Евгений Колмыков)](https://www.worldcubeassociation.org/persons/2018KOLM01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333bf,minx,pyram,skewb,sq1|  
 |[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |George Kryukov|NULL|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,pyram,skewb|  
@@ -1474,11 +1520,15 @@ Key:
 |[Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333bf,333oh,minx|  
 |[Maria Zhits](https://www.worldcubeassociation.org/persons/2016ZHIT01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333bf,minx,sq1|  
 |[Maxim Mamakov (Максим Мамаков)](https://www.worldcubeassociation.org/persons/2018MAMA08)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|[Maxim Semykin](https://www.worldcubeassociation.org/persons/2016SEMY01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,444,555,333oh,minx,skewb|  
+|[Maxim Semykin](https://www.worldcubeassociation.org/persons/2016SEMY01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,444,555,333oh,minx,skewb|  
+|[Nikita Solovev (Никита Соловьев)](https://www.worldcubeassociation.org/persons/2018SOLO16)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,minx,sq1|  
 |[Nikolay Fedorov (Николай Федоров)](https://www.worldcubeassociation.org/persons/2018FEDO14)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,333oh,minx,pyram,sq1|  
-|[Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,555,333bf,333oh|  
+|[Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,555,333bf,333oh|  
 |[Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Ruslan Kazin (Руслан Казин)](https://www.worldcubeassociation.org/persons/2017KAZI01)|Kazakhstan|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
+|[Semen Salmin](https://www.worldcubeassociation.org/persons/2016SALM02)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,333oh,pyram|  
 |[Semyon Kirsta](https://www.worldcubeassociation.org/persons/2019KIRS03)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Timofey Dementev](https://www.worldcubeassociation.org/persons/2017DEME05)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,skewb,sq1|  
 |[Vladimir Dushkin (Владимир Душкин)](https://www.worldcubeassociation.org/persons/2019DUSH01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,333oh,pyram|  
 |[Vladimir Semidyanov](https://www.worldcubeassociation.org/persons/2019SEMI02)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,pyram,skewb|  
 |[Vladimir Tikhonenko (Владимир Тихоненко)](https://www.worldcubeassociation.org/persons/2018TIKH01)|Russia|[CCCQualificationSaratov2019](https://www.worldcubeassociation.org/competitions/CCCQualificationSaratov2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
@@ -1487,11 +1537,13 @@ Key:
 |Daniil Pridvorev|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Pending|333,222,pyram,skewb|  
 |[Dmitrii Muchkaev (Дмитрий Мучкаев)](https://www.worldcubeassociation.org/persons/2018MUCH04)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
+|Dmitry Razmeta (Дмитрий Размета)|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,skewb|  
 |Dmitry Salakhov|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |Dmitry Seleznev|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333bf,333oh,pyram|  
 |[Elizaveta Rudenko (Елизавета Руденко)](https://www.worldcubeassociation.org/persons/2018RUDE03)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,444,pyram|  
-|[Igor Kucheryavii (Игорь Кучерявый)](https://www.worldcubeassociation.org/persons/2018KUCH08)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Pending|333,222,444,pyram,skewb|  
+|[Igor Kucheryavii (Игорь Кучерявый)](https://www.worldcubeassociation.org/persons/2018KUCH08)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,pyram,skewb|  
 |[Igor Selivanov (Игорь Селиванов)](https://www.worldcubeassociation.org/persons/2018SELI02)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333bf,333oh,sq1|  
+|[Ilya Sokolov (Илья Соколов)](https://www.worldcubeassociation.org/persons/2018SOKO07)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Ivan Zavgorodniy (Иван Завгородний)](https://www.worldcubeassociation.org/persons/2019ZAVG01)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,444,555,333bf,pyram|  
 |Kirill Goncharov|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,skewb,sq1|  
@@ -1503,7 +1555,7 @@ Key:
 |Platon Shirinskii|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,pyram|  
 |Rodion Lesnikov|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,pyram|  
 |[Timofey Zakharchenko (Тимофей Захарченко)](https://www.worldcubeassociation.org/persons/2018ZAKH11)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Pending|333,222,333oh,pyram|  
-|Yan Stanchik|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Pending|333,222,pyram|  
+|Yan Stanchik|NULL|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,pyram|  
 |[Yana Ignateva (Яна Игнатьева)](https://www.worldcubeassociation.org/persons/2018IGNA05)|Russia|[CCCQualificationVladivostok2019](https://www.worldcubeassociation.org/competitions/CCCQualificationVladivostok2019)|Accepted|333,222,pyram,skewb|  
 |[Alyssa Belle Yu](https://www.worldcubeassociation.org/persons/2016YUAL01)|Philippines|[CebuMasters2019](https://www.worldcubeassociation.org/competitions/CebuMasters2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
 |[Aureo Thornindyke Noval](https://www.worldcubeassociation.org/persons/2019NOVA01)|Philippines|[CebuMasters2019](https://www.worldcubeassociation.org/competitions/CebuMasters2019)|Accepted|333,444,pyram|  
@@ -1605,8 +1657,10 @@ Key:
 |[Rémi Esturoune](https://www.worldcubeassociation.org/persons/2010ESTU01)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,333mbf|  
 |Romain Nihouarn|NULL|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333|  
 |Romain Porte|NULL|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Pending|333|  
+|[Rui Reis](https://www.worldcubeassociation.org/persons/2015REIS02)|Switzerland|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,444,555|  
 |[Sebastian Robbins](https://www.worldcubeassociation.org/persons/2014ROBB01)|Australia|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Pending|333,444,555,333bf,333fm|  
 |[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Deleted|333,444,555,666,777,333bf,333oh|  
+|Sirou Corentin|NULL|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Pending|333,222,pyram,skewb|  
 |[Slimane Siroukane](https://www.worldcubeassociation.org/persons/2016SLIM01)|Algeria|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,pyram,skewb|  
 |Stourbe Simon|NULL|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Pending|333,222,444,555,666,333oh,minx,pyram,skewb|  
 |[Téo Louis](https://www.worldcubeassociation.org/persons/2014LOUI03)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,minx,skewb|  
@@ -1617,11 +1671,29 @@ Key:
 |[Ulysse Merlin](https://www.worldcubeassociation.org/persons/2018MERL03)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx|  
 |[Victor Wijsman](https://www.worldcubeassociation.org/persons/2016WIJS01)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,333fm,minx,pyram,skewb|  
+|[William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,555,666,333bf,minx,333mbf|  
 |[Yann Colombo](https://www.worldcubeassociation.org/persons/2018COLO01)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,555,666,777,pyram,skewb|  
 |[Yoann Lecoeur](https://www.worldcubeassociation.org/persons/2016LECO01)|France|[ChampagneOpen2019](https://www.worldcubeassociation.org/competitions/ChampagneOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
+|Amir Arshia Nasrollahi (امیر عرشیا نصرالهی)|NULL|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Amir Reza Zargar Javaheri (امیر رضا زرگر جواهری)](https://www.worldcubeassociation.org/persons/2016JAVA01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222|  
+|[Arian Geravandi (آرین گراوندی)](https://www.worldcubeassociation.org/persons/2015GERA02)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Armin Zeynali (آرمین زینلی)](https://www.worldcubeassociation.org/persons/2017ZEYN01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Benyamin Seddiqi (بنیامین صدیقی)](https://www.worldcubeassociation.org/persons/2018SEDD01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Ehsan Rajabi Vahdat (احسان رجبی وحدت)](https://www.worldcubeassociation.org/persons/2012VAHD01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Farid Fhakhrian (فرید فخریان)](https://www.worldcubeassociation.org/persons/2017FHAK01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Fateme Vosoughi (فاطمه وثوقی)](https://www.worldcubeassociation.org/persons/2018VOSO01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Hamed Najafi (حامد نجفی)](https://www.worldcubeassociation.org/persons/2019NAJA01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Ilia Rashidi (ایلیا رشیدی)](https://www.worldcubeassociation.org/persons/2016RASH01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Kasra Sarebanha (کسری ساربانها)](https://www.worldcubeassociation.org/persons/2015SARE01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Mohammad Jamshidi (محمد جمشیدی)](https://www.worldcubeassociation.org/persons/2018JAMS02)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222|  
+|[Parham Saeed Nia (پرهام سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Parsa Saeed Nia (پارسا سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP02)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
+|[Sajad Saghafi (سجاد ثقفی)](https://www.worldcubeassociation.org/persons/2018SAGH01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222|  
+|[Sepehr Lotfi (سپهر لطفی)](https://www.worldcubeassociation.org/persons/2014LOTF01)|Iran|[ChekaadSummer2019](https://www.worldcubeassociation.org/competitions/ChekaadSummer2019)|Pending|333,222,pyram|  
 |[Albert Mukhammadiev (Альберт Мухаммадиев)](https://www.worldcubeassociation.org/persons/2018MUKH06)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Aleksey Alekseev](https://www.worldcubeassociation.org/persons/2016ALEK02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Deleted|333,222,444,333bf,333fm,333oh,clock,minx,pyram|  
 |[Alexey Baranov](https://www.worldcubeassociation.org/persons/2017BARA09)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,333bf,333oh,clock,pyram,skewb|  
+|[Alexey Elokhin](https://www.worldcubeassociation.org/persons/2015ELOK01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,333fm,333oh|  
 |[Amina Salikhova (Амина Салихова)](https://www.worldcubeassociation.org/persons/2018SALI08)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,pyram,skewb|  
 |[Amir Dzhalilov (Амир Джалилов)](https://www.worldcubeassociation.org/persons/2018DZHA03)|Kazakhstan|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,333oh,minx,pyram,skewb|  
 |Amir Farkhutdinov (Амир Фархутдинов)|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,pyram|  
@@ -1633,11 +1705,13 @@ Key:
 |[Arthur Yusupov (Артур Юсупов)](https://www.worldcubeassociation.org/persons/2018YUSU02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |Ayaz Minnegaleev|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Azat Ginetullin (Азат Гинетуллин)|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,pyram|  
+|Azat Nurgaleev|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|pyram|  
 |[Bogdan Shirokov](https://www.worldcubeassociation.org/persons/2017SHIR03)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,444,555,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Damir Mamutov|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb,sq1|  
 |Daniil Petrov (Даниил Петров)|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Danila Rogozhnikov (Данила Рогожников)](https://www.worldcubeassociation.org/persons/2018ROGO03)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|[Daniyar Kashapov (Данияр Кашапов)](https://www.worldcubeassociation.org/persons/2018KASH04)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,444,333oh,pyram|  
+|[Daniyar Kashapov (Данияр Кашапов)](https://www.worldcubeassociation.org/persons/2018KASH04)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333oh,pyram|  
+|Denis Khafizov|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Denis Sharifullin (Денис Шарифуллин)](https://www.worldcubeassociation.org/persons/2018SHAR16)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Dmitriy Rogozhnikov (Дмитрий Рогожников)](https://www.worldcubeassociation.org/persons/2018ROGO04)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram|  
 |[Dmitry Permyakov (Дмитрий Пермяков)](https://www.worldcubeassociation.org/persons/2018PERM01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
@@ -1654,20 +1728,25 @@ Key:
 |[Nikolay Gorshkov (Николай Горшков)](https://www.worldcubeassociation.org/persons/2019GORS01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Pavel Kovirzin (Павел Ковырзин)](https://www.worldcubeassociation.org/persons/2018KOVI02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Prohor Sergeev|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333|  
+|[Renat Nurgaleev](https://www.worldcubeassociation.org/persons/2019NURG02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,444,555,333bf,333fm,333ft,333oh,minx,pyram|  
 |Roman Kupyrin  (Роман Купырин)|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,333oh|  
 |Roman Prytkov (Роман Прытков)|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222|  
 |[Rostislav Votinsev](https://www.worldcubeassociation.org/persons/2017VOTI01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333ft,333oh,pyram,skewb|  
 |[Ruslan Vakhitov (Руслан Вахитов)](https://www.worldcubeassociation.org/persons/2018VAKH02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,444|  
+|[Semen Murzin](https://www.worldcubeassociation.org/persons/2017MURZ01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333fm,333oh,sq1|  
+|[Semyon Yakupov (Семён Якупов)](https://www.worldcubeassociation.org/persons/2018YAKU03)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Stanislav Baranov](https://www.worldcubeassociation.org/persons/2017BARA03)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,333bf,333fm,pyram,skewb|  
 |[Stepan Kuryshev (Степан Курышев)](https://www.worldcubeassociation.org/persons/2018KURY01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,clock,minx,pyram,skewb|  
 |[Stepan Levanov (Степан Леванов)](https://www.worldcubeassociation.org/persons/2018LEVA04)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,minx,pyram,skewb,sq1|  
 |[Svetlana Vyatkina (Светлана Вяткина)](https://www.worldcubeassociation.org/persons/2018VYAT01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |[Timur Gilmanov (Тимур Гильманов)](https://www.worldcubeassociation.org/persons/2018GILM02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,333oh,minx,pyram,skewb,sq1|  
+|[Timur Khasanov](https://www.worldcubeassociation.org/persons/2017KHAS01)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,444,555,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Timur Smirnov](https://www.worldcubeassociation.org/persons/2017SMIR05)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,pyram|  
 |Timur Smirnov|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Deleted|333,222,clock,pyram|  
+|Victor Grebenkin|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,pyram,skewb|  
 |[Vladimir Gorshkov (Владимир Горшков)](https://www.worldcubeassociation.org/persons/2019GORS02)|Russia|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,pyram,skewb|  
 |[Vladislav Pyatnitsa](https://www.worldcubeassociation.org/persons/2014PYAT01)|Belarus|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|Аmir Abdullin|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Pending|333,222,444,pyram,skewb,sq1|  
+|Аmir Abdullin|NULL|[ChelnySummer2019](https://www.worldcubeassociation.org/competitions/ChelnySummer2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Aadith Yadav Govindarajan](https://www.worldcubeassociation.org/persons/2017GOVI02)|India|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,333oh,minx,pyram|  
 |[Aayush Sriram Bharadwaj](https://www.worldcubeassociation.org/persons/2018BHAR02)|United Kingdom|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,333oh,minx,pyram,skewb|  
 |[Abhinav Prakash Kumar](https://www.worldcubeassociation.org/persons/2019KUMA20)|India|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,333oh,minx,pyram,skewb|  
@@ -1735,6 +1814,64 @@ Key:
 |vishvajit|NULL|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,minx,pyram,skewb|  
 |Vishwa.p|NULL|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Yathin Sathya Shankar](https://www.worldcubeassociation.org/persons/2019SHAN19)|India|[ChennaiCubeOpen2019](https://www.worldcubeassociation.org/competitions/ChennaiCubeOpen2019)|Accepted|333,222,pyram|  
+|[Aedan Loughran](https://www.worldcubeassociation.org/persons/2017LOUG03)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Anderson Gao](https://www.worldcubeassociation.org/persons/2018GAOA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|[Anthony Brooks](https://www.worldcubeassociation.org/persons/2008SEAR01)|USA|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333|  
+|[Benley Hsiang](https://www.worldcubeassociation.org/persons/2018HSIA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222|  
+|Brian Gorecki|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|Dante Foreman|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram|  
+|[Diego Moy](https://www.worldcubeassociation.org/persons/2017MOYD01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Dilshawn Sidhu](https://www.worldcubeassociation.org/persons/2018SIDH02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|[Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,555|  
+|[Edward Chang](https://www.worldcubeassociation.org/persons/2019CHAN02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,pyram,skewb|  
+|[Elijah Fong](https://www.worldcubeassociation.org/persons/2019FONG03)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,skewb|  
+|[Emily Peters](https://www.worldcubeassociation.org/persons/2015PETE05)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram|  
+|Ewan Furlani-Dosdall|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|Gawah Chong-Simard|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Gawah Chong-Simard](https://www.worldcubeassociation.org/persons/2018CHON02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Haikel Osman-Turner](https://www.worldcubeassociation.org/persons/2018OSMA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|[Hana Chung](https://www.worldcubeassociation.org/persons/2019CHUN07)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram|  
+|[Jacob Kotai](https://www.worldcubeassociation.org/persons/2017KOTA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[James Erik Brian Keranen](https://www.worldcubeassociation.org/persons/2019KERA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram|  
+|[Jayce Li](https://www.worldcubeassociation.org/persons/2019LIJA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram|  
+|[Jayden Liu](https://www.worldcubeassociation.org/persons/2018LIUJ26)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|[Jerome Lam](https://www.worldcubeassociation.org/persons/2011CHIN02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Jordan Leis](https://www.worldcubeassociation.org/persons/2019LEIS01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram|  
+|[Jose Miguel Rillera](https://www.worldcubeassociation.org/persons/2016RILL01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Kai Kopke](https://www.worldcubeassociation.org/persons/2016KOPK01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Kai Rodland](https://www.worldcubeassociation.org/persons/2019RODL01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,skewb|  
+|[Karsen Oun](https://www.worldcubeassociation.org/persons/2018OUNK01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram|  
+|[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|Kira Chung|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|222,pyram|  
+|[Kyle Santucci](https://www.worldcubeassociation.org/persons/2016SANT08)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Leif Guiaya](https://www.worldcubeassociation.org/persons/2017GUIA01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|[Liew Yee Voon](https://www.worldcubeassociation.org/persons/2015VOON01)|Malaysia|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Luke Jankowiak](https://www.worldcubeassociation.org/persons/2017JANK02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Marcus Adrian Moreno](https://www.worldcubeassociation.org/persons/2016MORE03)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,pyram,skewb|  
+|[Matthew Deng](https://www.worldcubeassociation.org/persons/2019DENG01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Michael Coulter](https://www.worldcubeassociation.org/persons/2016COUL01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Michele Cavezza](https://www.worldcubeassociation.org/persons/2018CAVE01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Nathan Pope](https://www.worldcubeassociation.org/persons/2019POPE01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|Nicolas Mahaux|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|222,pyram,skewb|  
+|[Noah Stelting](https://www.worldcubeassociation.org/persons/2014STEL02)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Owen de Greeff](https://www.worldcubeassociation.org/persons/2016GREE10)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
+|[Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02)|USA|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Reagan Li](https://www.worldcubeassociation.org/persons/2017LIRE01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Ryan Ehrlich](https://www.worldcubeassociation.org/persons/2018EHRL01)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram|  
+|[Ryan Zheng](https://www.worldcubeassociation.org/persons/2017ZHEN52)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555|  
+|Ryder jacobson|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|222|  
+|Sam Zhang|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444|  
+|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Pending|333,222,444,555,pyram,skewb|  
+|Samuel Li|NULL|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|222,pyram,skewb|  
+|[Scout Harris](https://www.worldcubeassociation.org/persons/2019HARR11)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Shayla Santucci](https://www.worldcubeassociation.org/persons/2016SANT26)|Canada|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|[Tingyao Zhu (朱亭瑶)](https://www.worldcubeassociation.org/persons/2017ZHUT03)|China|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,pyram,skewb|  
+|[Vince Kevin Ong](https://www.worldcubeassociation.org/persons/2019ONGV01)|Philippines|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,skewb|  
+|[Wayne Kenneth Ong](https://www.worldcubeassociation.org/persons/2019ONGW01)|Philippines|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,skewb|  
+|[Yanchen Zhu (朱彦臣)](https://www.worldcubeassociation.org/persons/2017ZHUY07)|China|[ChilliwackCubesFall2019](https://www.worldcubeassociation.org/competitions/ChilliwackCubesFall2019)|Accepted|333,222,444,pyram,skewb|  
 |Alejandro Cabrera Merino|NULL|[CICPastoOpen2019](https://www.worldcubeassociation.org/competitions/CICPastoOpen2019)|Accepted|333,222,444,333oh|  
 |Alex Javier Calpa Fuelantala|NULL|[CICPastoOpen2019](https://www.worldcubeassociation.org/competitions/CICPastoOpen2019)|Accepted|333|  
 |Anderson Nicolás Almeida Martínez|NULL|[CICPastoOpen2019](https://www.worldcubeassociation.org/competitions/CICPastoOpen2019)|Accepted|333|  
@@ -1773,7 +1910,9 @@ Key:
 |[Sara Benavides Mora](https://www.worldcubeassociation.org/persons/2017MORA15)|Colombia|[CICPastoOpen2019](https://www.worldcubeassociation.org/competitions/CICPastoOpen2019)|Accepted|333,222,444,555,333oh,minx|  
 |[Alyi Romero](https://www.worldcubeassociation.org/persons/2017ROME02)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,444,555|  
 |Anmadelis Sosa|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222|  
+|Atilano Gouveia|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,pyram|  
 |[Enrymar Cisneros](https://www.worldcubeassociation.org/persons/2013CISN01)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,444,555,minx,pyram|  
+|Jorge Segovia|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Pending|333,222|  
 |Laura Valentina Perfetti|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,pyram|  
 |Linda Anabel Hernández|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,pyram|  
 |[Louis Rodriguez](https://www.worldcubeassociation.org/persons/2018RODR43)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Pending|333,222,444,555,minx,pyram|  
@@ -1781,100 +1920,22 @@ Key:
 |[Miguel Vidal](https://www.worldcubeassociation.org/persons/2014VIDA01)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,444,555,minx,pyram|  
 |[Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,444,555,minx,pyram|  
 |[Sebastián Navarrete](https://www.worldcubeassociation.org/persons/2018NAVA13)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,444,555,pyram|  
-|Solangel Briceño|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Pending|333,222,pyram|  
+|Solangel Briceño|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,pyram|  
 |[Valentina Navarrete](https://www.worldcubeassociation.org/persons/2018NAVA17)|Venezuela|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333|  
-|Yonathan Rodriguez|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Pending|333,222|  
+|Willians Castellanos|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222,pyram|  
+|Yonathan Rodriguez|NULL|[CinemaCubingSanCarlos2019](https://www.worldcubeassociation.org/competitions/CinemaCubingSanCarlos2019)|Accepted|333,222|  
 |[Adam Swaine](https://www.worldcubeassociation.org/persons/2017SWAI01)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm,333ft,444bf,555bf,333mbf|  
 |[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm,333ft,444bf,555bf,333mbf|  
-|[Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm|  
+|[Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
 |[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|[ClactOnSocksOff2019](https://www.worldcubeassociation.org/competitions/ClactOnSocksOff2019)|Pending|333bf,333fm,333ft,444bf,555bf,333mbf|  
-|[Adilson Santana Oliveira Neto](https://www.worldcubeassociation.org/persons/2018NETO05)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Adriano Matoba Lipski](https://www.worldcubeassociation.org/persons/2016LIPS01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Amanda Dias](https://www.worldcubeassociation.org/persons/2019DIAS03)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|[André Luís da Silva Júnior](https://www.worldcubeassociation.org/persons/2019JUNI02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|André Luiz Macedo de Paulo|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,pyram|  
-|[Antonio Gabriel Freitas da Silva](https://www.worldcubeassociation.org/persons/2015SILV55)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|Antonio Henrique do Pinho Gilo|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|Arthur da Costa Lima|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Attilio Contrini Treviño](https://www.worldcubeassociation.org/persons/2018TREV02)|Mexico|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Augusto Ferreira Rodrigues](https://www.worldcubeassociation.org/persons/2017RODR20)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|Bernardo Andrade Constantino|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Bernardo de Arêa Leão Alves Mauricio](https://www.worldcubeassociation.org/persons/2019MAUR01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|222|  
-|[Breno Gustavo da Silva Nascimento](https://www.worldcubeassociation.org/persons/2018NASC19)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|Caio Alachev|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram|  
-|[Caio Lucio Cortez Moderno da Silva](https://www.worldcubeassociation.org/persons/2019SILV33)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Caique Crispim de Lima](https://www.worldcubeassociation.org/persons/2018LIMA24)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222|  
-|[Claiton Alexandre Fonseca](https://www.worldcubeassociation.org/persons/2019FONS02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|Daniel Spelling|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333|  
-|Daniel V BIanchi|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Eduardo Alvarenga de Almeida](https://www.worldcubeassociation.org/persons/2019ALME02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333|  
-|[Enrico Lafaete Mendes de Araújo](https://www.worldcubeassociation.org/persons/2019ARAU02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|[Enzo H. Y. Nakamura](https://www.worldcubeassociation.org/persons/2019NAKA03)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|Eric Costa Lopes|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|Erick Akira Koga|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|Erick Oda Coulter|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222|  
-|[Erick Takeshi Ogasawara](https://www.worldcubeassociation.org/persons/2019OGAS02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|222,pyram|  
-|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Felipe Baldívio Freires](https://www.worldcubeassociation.org/persons/2011FREI01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|[Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Felipe Hatanaka Martins Paiva](https://www.worldcubeassociation.org/persons/2019PAIV01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Fernando Gestermeier Fermino da Silva](https://www.worldcubeassociation.org/persons/2019SILV23)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Deleted|333,222|  
-|[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|Frederico Siqueira Ferreira Monte|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|Gabriel Carvalho Petrocco|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|[Gabriel Gonçalves Fontes](https://www.worldcubeassociation.org/persons/2018FONT04)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|Giovana Brito|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Giovane Rubin Fioravanti](https://www.worldcubeassociation.org/persons/2016FIOR01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Gustavo Fonseca da Silva](https://www.worldcubeassociation.org/persons/2019SILV06)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram|  
-|[Gustavo Henrique Duarte](https://www.worldcubeassociation.org/persons/2019DUAR02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|[Gustavo M. Zimmer](https://www.worldcubeassociation.org/persons/2019ZIMM04)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Hugo Cacheffo De Camargo](https://www.worldcubeassociation.org/persons/2019CAMA02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|[João Guilherme Barejan Maiale](https://www.worldcubeassociation.org/persons/2012MAIA01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|Kenzo Daniel Shoher|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|Kyle Edward Plaster Cruz|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,333bf|  
-|Leonardo dos Santos Talao|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Leonardo Simada Haik de Aquino](https://www.worldcubeassociation.org/persons/2018AQUI01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|Luan Henrique Costa Buiochi|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|222|  
-|Luis Felipe Feitosa Santos|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Marcos Akira Ogasawara](https://www.worldcubeassociation.org/persons/2019OGAS01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Marcos Ferreira Semolini](https://www.worldcubeassociation.org/persons/2017SEMO02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|Marcos Santos Peres|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333|  
-|[Mateus de Sales Francisco](https://www.worldcubeassociation.org/persons/2019FRAN03)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Mateus Santos Rocha](https://www.worldcubeassociation.org/persons/2019ROCH02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|[Matheus Casassa Viana](https://www.worldcubeassociation.org/persons/2017VIAN01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,333bf,pyram|  
-|[Melqui Manassés Marcolino](https://www.worldcubeassociation.org/persons/2019MARC05)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222|  
-|Nathan Nicacio do Nascimento|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|Nicolas D. Cassemiro|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Nicole Ullian dos Anjos e Silva](https://www.worldcubeassociation.org/persons/2019SILV07)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram|  
-|[Paulo Henrique Matos de Moraes](https://www.worldcubeassociation.org/persons/2018MORA03)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222|  
-|[Pedro Cezar Vieira do Lago Pimentel](https://www.worldcubeassociation.org/persons/2019PIME01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Pedro Luiz Ferreira Pires](https://www.worldcubeassociation.org/persons/2017PIRE01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,333bf,sq1|  
-|[Rafael Jun Morita](https://www.worldcubeassociation.org/persons/2017MORI05)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram,sq1|  
-|[Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|[Roberto Steagall](https://www.worldcubeassociation.org/persons/2016STEA01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram,sq1|  
-|[Robinson Semolini](https://www.worldcubeassociation.org/persons/2018SEMO01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,333bf,pyram|  
-|[Ronan Felipe Jorge](https://www.worldcubeassociation.org/persons/2009JORG02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Sávio Alves Cabelo Pereira](https://www.worldcubeassociation.org/persons/2019PERE08)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,sq1|  
-|Tales Cabral Rodrigues|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,pyram|  
-|Thales Gomes Montevechi|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram|  
-|[Tiago Akihiro Fujita](https://www.worldcubeassociation.org/persons/2019FUJI09)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,pyram,sq1|  
-|[Vander Santana de Oliveira](https://www.worldcubeassociation.org/persons/2016OLIV04)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Pending|333,222,pyram|  
-|[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222,333bf,pyram,sq1|  
-|Victor Ceschim Sofia|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|222,pyram|  
-|[Victor Hugo Fonseca](https://www.worldcubeassociation.org/persons/2019FONS03)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|Victor Kyoto Kurata|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333,222|  
-|Vinícius Aparecido de Souza|NULL|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Accepted|333|  
-|[Willian Pessoa de Abreu](https://www.worldcubeassociation.org/persons/2019ABRE02)|Brazil|[ColegioAstherOpen2019](https://www.worldcubeassociation.org/competitions/ColegioAstherOpen2019)|Deleted|333,222,333bf,pyram|  
 |[Alexandru Ignat](https://www.worldcubeassociation.org/persons/2019IGNA02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
+|Andrei Dorin|NULL|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222|  
 |Andrei Dorin Silviu|NULL|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Deleted|333,222|  
 |[Andrei-Valentin Tănase](https://www.worldcubeassociation.org/persons/2016TANA06)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,pyram,skewb|  
 |[Bianca-Maria Morgociu](https://www.worldcubeassociation.org/persons/2018MORG06)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,pyram|  
 |[Dan Alexandru Cechi](https://www.worldcubeassociation.org/persons/2018CECH01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,666,777,333bf,minx,pyram,skewb|  
-|[Dan Ioan Plohi](https://www.worldcubeassociation.org/persons/2016PLOH01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,minx,pyram,skewb|  
+|[Dan Ioan Plohi](https://www.worldcubeassociation.org/persons/2016PLOH01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |[Dima Alexandru](https://www.worldcubeassociation.org/persons/2019ALEX02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,666,777,minx,pyram,skewb|  
 |[Dragoş Iordan](https://www.worldcubeassociation.org/persons/2016IORD01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,666,777,minx,pyram,skewb|  
 |[Ilie-Laurenţiu Soare](https://www.worldcubeassociation.org/persons/2017SOAR01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
@@ -1888,7 +1949,7 @@ Key:
 |[Miriana Cecchi](https://www.worldcubeassociation.org/persons/2011CECC01)|Italy|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,333bf,pyram,skewb|  
 |[Nicolae Binică](https://www.worldcubeassociation.org/persons/2013BINI02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,777,333bf,minx,pyram,skewb|  
 |[Simone Santarsiero](https://www.worldcubeassociation.org/persons/2009SANT01)|Italy|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,333bf,minx,pyram,skewb|  
-|[Sorin Turculeț](https://www.worldcubeassociation.org/persons/2017TURC02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,333bf,minx,pyram,skewb|  
+|[Sorin Turculeț](https://www.worldcubeassociation.org/persons/2017TURC02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,333bf,minx,pyram,skewb|  
 |[Stefan Rares Gabriel](https://www.worldcubeassociation.org/persons/2019GABR03)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |[Stefania Petcu](https://www.worldcubeassociation.org/persons/2017PETC01)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
 |[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|Romania|[ConstantaCubeDays2019](https://www.worldcubeassociation.org/competitions/ConstantaCubeDays2019)|Pending|333,222,444,555,666,777,333bf,minx,pyram,skewb|  
@@ -1926,6 +1987,7 @@ Key:
 |[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[David Tanasković](https://www.worldcubeassociation.org/persons/2019TANA01)|Bosnia and Herzegovina|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Deny Čvek](https://www.worldcubeassociation.org/persons/2019CVEK01)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,333oh,pyram,skewb|  
 |[Dominik Hoić](https://www.worldcubeassociation.org/persons/2017HOIC01)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
 |[Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb|  
 |[Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02)|Slovenia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,333bf,333fm,pyram,sq1,444bf,555bf,333mbf|  
@@ -1950,12 +2012,14 @@ Key:
 |[Mihajlo Sremac](https://www.worldcubeassociation.org/persons/2018SREM01)|Serbia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |Nedim Bečić|NULL|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
 |Nikita Ivanović|NULL|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,pyram,skewb|  
+|[Nikolas Baxevanis](https://www.worldcubeassociation.org/persons/2019BAXE02)|Greece|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,666,777,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Olivera Radovanović](https://www.worldcubeassociation.org/persons/2018RADO01)|Serbia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Róbert Maróti](https://www.worldcubeassociation.org/persons/2012MARA03)|Hungary|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,666,777,333fm,333oh,minx|  
 |[Tibor Brestovac](https://www.worldcubeassociation.org/persons/2019BRES03)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,pyram,skewb|  
 |[Toni Varga](https://www.worldcubeassociation.org/persons/2011VARG03)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,444,333bf|  
+|[Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01)|Austria|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Viktor Majdandžić](https://www.worldcubeassociation.org/persons/2018MAJD01)|Croatia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Accepted|333,222,333oh,pyram,skewb|  
-|[Vukašin Kopun](https://www.worldcubeassociation.org/persons/2018KOPU01)|Serbia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Pending|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Vukašin Kopun](https://www.worldcubeassociation.org/persons/2018KOPU01)|Serbia|[CroatianNationals2019](https://www.worldcubeassociation.org/competitions/CroatianNationals2019)|Deleted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Akatsuki Kitamura (北村曉)](https://www.worldcubeassociation.org/persons/2017KITA01)|Japan|[CubeCampinKanazawa2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019)|Accepted|333,444,333bf,333fm,333ft,333oh,clock,444bf,333mbf|  
 |[Anne Huber](https://www.worldcubeassociation.org/persons/2017HUBE01)|Germany|[CubeCampinKanazawa2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019)|Accepted|333,444,555,666,333oh|  
 |[Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01)|Japan|[CubeCampinKanazawa2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019)|Accepted|333,444,555,333bf,333fm,333oh,minx|  
@@ -2015,6 +2079,7 @@ Key:
 |[Yusuke Takada (高田祐介)](https://www.worldcubeassociation.org/persons/2015TAKA05)|Japan|[CubeCampinKanazawa2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019)|Accepted|333,444,555,666,777,444bf,333mbf|  
 |[Yuto Date (伊達優人)](https://www.worldcubeassociation.org/persons/2018DATE01)|Japan|[CubeCampinKanazawa2019](https://www.worldcubeassociation.org/competitions/CubeCampinKanazawa2019)|Accepted|333,555,333bf,clock,minx,sq1,444bf,555bf,333mbf|  
 |Aaron Crowley|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,pyram,skewb|  
+|[Adam Devere](https://www.worldcubeassociation.org/persons/2018DEVE02)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Adam Furlong](https://www.worldcubeassociation.org/persons/2019FURL04)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram|  
 |[Agata Żymuła](https://www.worldcubeassociation.org/persons/2018ZYMU01)|Poland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333|  
 |[Aidan Madden](https://www.worldcubeassociation.org/persons/2019MADD03)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222|  
@@ -2053,12 +2118,14 @@ Key:
 |[Eoin Brereton Hurley](https://www.worldcubeassociation.org/persons/2014HURL01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,333bf,pyram,sq1|  
 |[Eoin Dowling](https://www.worldcubeassociation.org/persons/2017DOWL01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333bf,333mbf|  
 |[Eoin Summerville](https://www.worldcubeassociation.org/persons/2016SUMM02)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444,555,333bf,333fm,333oh,pyram,skewb|  
+|Eric Quinn|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333|  
 |[Eric Yazhuo Han](https://www.worldcubeassociation.org/persons/2019HANE01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222|  
 |Euan Molyneux|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,skewb|  
 |[Fabian Auroux](https://www.worldcubeassociation.org/persons/2009AURO01)|Germany|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,333oh|  
 |[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
 |George Jack Thompson|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222|  
 |[Gerard McAteer](https://www.worldcubeassociation.org/persons/2016MCAT01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333oh,sq1|  
+|[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |Jamie McCabe|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333|  
 |Jamie Regan|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,333oh,sq1|  
@@ -2077,6 +2144,7 @@ Key:
 |[Luke O'Gorman](https://www.worldcubeassociation.org/persons/2019OGOR02)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,minx,pyram,skewb|  
 |Luke Regan|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,333oh|  
 |[Maria Beausang](https://www.worldcubeassociation.org/persons/2016BEAU03)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444,555,333fm,333oh,clock,pyram|  
+|[Mark Gregan](https://www.worldcubeassociation.org/persons/2019GREG04)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,pyram,skewb|  
 |Mark Heavin|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |[Mary Hennessy](https://www.worldcubeassociation.org/persons/2015HENN02)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,pyram,sq1,333mbf|  
 |[Matthew A. Horan](https://www.worldcubeassociation.org/persons/2017HORA02)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
@@ -2098,7 +2166,7 @@ Key:
 |Sinéad Cleary|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444|  
 |[Stepan Potapov](https://www.worldcubeassociation.org/persons/2017POTA04)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
-|[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|United Kingdom|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Tao Yu (喻韬)](https://www.worldcubeassociation.org/persons/2012YUTA01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,skewb,333mbf|  
 |[Ted Bloxam](https://www.worldcubeassociation.org/persons/2019BLOX01)|Ireland|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Accepted|222,pyram|  
 |Ted Crowley|NULL|[CubinginCillChainnigh2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019)|Pending|333,222,444|  
@@ -2115,22 +2183,25 @@ Key:
 |[Alireza Azimi (علیرضا عظیمی)](https://www.worldcubeassociation.org/persons/2016AZIM01)|Iran|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Alyssa Esparaz](https://www.worldcubeassociation.org/persons/2014ESPA01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Andrew Nguyen](https://www.worldcubeassociation.org/persons/2011NGUY03)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,333bf|  
-|August Lin|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Deleted|333|  
+|[Arturo Pico](https://www.worldcubeassociation.org/persons/2018PICO02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
+|August Lin|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333|  
+|[Austin Jordan Eng](https://www.worldcubeassociation.org/persons/2016ENGA01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |[Brady Metherall](https://www.worldcubeassociation.org/persons/2009METH01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |Bryan Deng|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
 |[Can Çetin](https://www.worldcubeassociation.org/persons/2008CETI01)|Turkey|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,333bf|  
 |[Chen-Pin Sun (孫振斌)](https://www.worldcubeassociation.org/persons/2017SUNC03)|Taiwan|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
-|Daniel Phan|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
+|[Daniel Phan](https://www.worldcubeassociation.org/persons/2019PHAN01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
 |[David Drobner](https://www.worldcubeassociation.org/persons/2018DROB01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666|  
 |Easton Pan|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
 |Elio Graceni|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
 |[Emma Kennedy](https://www.worldcubeassociation.org/persons/2019KENN02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
 |Emmanuel Intac|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
 |Ethan Honest|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
+|[Ian Yeh](https://www.worldcubeassociation.org/persons/2017YEHI01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,333bf|  
 |[Ibrahim Quraishi](https://www.worldcubeassociation.org/persons/2018QURA01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
 |[Ishan Saini](https://www.worldcubeassociation.org/persons/2019SAIN08)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
-|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444,666,333bf|  
+|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,333bf|  
 |[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |[Joon Song](https://www.worldcubeassociation.org/persons/2019SONG21)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
 |[Kairui Huang](https://www.worldcubeassociation.org/persons/2015HUAN51)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
@@ -2140,18 +2211,25 @@ Key:
 |[LianCheng Guo](https://www.worldcubeassociation.org/persons/2016GUOL01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |[Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |[Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
+|[Max Sun](https://www.worldcubeassociation.org/persons/2017SUNM02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444,666,777|  
+|[Michael Fung](https://www.worldcubeassociation.org/persons/2016FUNG02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |Michael Lit|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
+|[Michael Vanner](https://www.worldcubeassociation.org/persons/2018VANN02)|USA|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
+|[Michael Zheng](https://www.worldcubeassociation.org/persons/2015ZHEN17)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
 |[Neel Shah](https://www.worldcubeassociation.org/persons/2009SHAH04)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
+|[Pramathaditya Pathak](https://www.worldcubeassociation.org/persons/2018PATH02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444|  
 |[Ranran Zhao (赵然冉)](https://www.worldcubeassociation.org/persons/2017ZHAO44)|China|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
 |[Ray Vince Ong](https://www.worldcubeassociation.org/persons/2012ONGR01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
+|[Roan Paone](https://www.worldcubeassociation.org/persons/2017PAON01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
 |[Sami Mokatren](https://www.worldcubeassociation.org/persons/2019MOKA01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777|  
 |[Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,777|  
 |[Sebastian Desaulniers](https://www.worldcubeassociation.org/persons/2018DESA05)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,333bf|  
 |[Shanglin Ye](https://www.worldcubeassociation.org/persons/2013YESH01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Tarandeep Mittal](https://www.worldcubeassociation.org/persons/2014MITT02)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
-|[Tin Huang](https://www.worldcubeassociation.org/persons/2019HUAN05)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Pending|333,444,333bf|  
-|William Hu|NULL|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
+|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,666,777,333bf|  
+|[Tin Huang](https://www.worldcubeassociation.org/persons/2019HUAN05)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
+|[William Hu](https://www.worldcubeassociation.org/persons/2017HUWI01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444,333bf|  
 |[Yiming Lu](https://www.worldcubeassociation.org/persons/2019LUYI03)|China|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333|  
 |[Zhivko Radkov Dimitrov](https://www.worldcubeassociation.org/persons/2017DIMI01)|Canada|[Cubinginthe6ix2019](https://www.worldcubeassociation.org/competitions/Cubinginthe6ix2019)|Accepted|333,444|  
 |[Aaron Huynh](https://www.worldcubeassociation.org/persons/2017HUYN05)|USA|[CubingUSANationals2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019)|Deleted|333,222,444,555,333oh,pyram,skewb|  
@@ -3058,8 +3136,10 @@ Key:
 |Bastian Rehder Køppen|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Bertil Thomsen Lund](https://www.worldcubeassociation.org/persons/2017LUND08)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Camilla Jul Nielsson](https://www.worldcubeassociation.org/persons/2010NIEL01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333|  
 |[Carl Emil Exner](https://www.worldcubeassociation.org/persons/2017EXNE01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |David Engdam Hansen|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,333fm,pyram,skewb|  
 |Elliot Francis|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,pyram|  
@@ -3067,6 +3147,7 @@ Key:
 |[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333oh,clock,skewb|  
 |[Frederik Løchte](https://www.worldcubeassociation.org/persons/2018LOCH01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Pending|333,222,444,333fm,333ft,333oh,minx,pyram,skewb|  
 |[Fredrik Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
+|Gustav Bæk Bomme|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Hannes Müller](https://www.worldcubeassociation.org/persons/2018MULL07)|Germany|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Pending|333,222,444,555,666,777,333bf,333ft,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,clock,pyram,sq1,444bf,555bf,333mbf|  
 |Jakob Lund Jensen|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Deleted|333,222,444,333fm,333oh,skewb|  
@@ -3081,13 +3162,16 @@ Key:
 |[Lars Vennike Nielsson](https://www.worldcubeassociation.org/persons/2008NIEL01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333bf,333fm,444bf,555bf|  
 |[Laurids Abelsen Holm](https://www.worldcubeassociation.org/persons/2016HOLM04)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Laurits Øbro Jacobsen](https://www.worldcubeassociation.org/persons/2018JACO04)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Lucas Ferslev Jensen](https://www.worldcubeassociation.org/persons/2017JENS04)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,333oh,skewb|  
-|[Lucas Hansen](https://www.worldcubeassociation.org/persons/2017HANS17)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Pending|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Lucas Hansen](https://www.worldcubeassociation.org/persons/2017HANS17)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Luis Rotzoll](https://www.worldcubeassociation.org/persons/2018ROTZ01)|Germany|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Lukas Shelley](https://www.worldcubeassociation.org/persons/2016SHEL03)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,333oh|  
+|[Mads Philipsen](https://www.worldcubeassociation.org/persons/2018PHIL04)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,333bf,333ft,333oh,pyram|  
 |[Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,333oh,clock,minx,pyram,skewb|  
 |[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|Mattes Mrzik|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,333bf,pyram,skewb|  
 |[Mikela Elleby Jørgensen](https://www.worldcubeassociation.org/persons/2015JORG01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Niels Nissen Toftdal](https://www.worldcubeassociation.org/persons/2019TOFT01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Noah Søkilde Damborg](https://www.worldcubeassociation.org/persons/2019DAMB03)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
@@ -3103,11 +3187,12 @@ Key:
 |[Thijs De Laet](https://www.worldcubeassociation.org/persons/2012LAET01)|Belgium|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333bf,333fm,minx,pyram,sq1|  
 |[Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Thor Muto Asmund](https://www.worldcubeassociation.org/persons/2017ASMU01)|Denmark|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,clock,pyram,skewb,444bf,555bf,333mbf|  
-|Tobias Thompson|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
+|Tobias Thompson|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |Todor Prundar Ionut Alexandru|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222|  
 |[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Croatia|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Victor Oster Süberkrüb|NULL|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram|  
 |[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[DanishOpen2019](https://www.worldcubeassociation.org/competitions/DanishOpen2019)|Accepted|333,444,555,minx,pyram|  
+|Aaron Hay|NULL|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222|  
 |[Aaron Spiller](https://www.worldcubeassociation.org/persons/2018SPIL01)|Australia|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |Cameron Mayson Jackson|NULL|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|222|  
 |Dean Jackson|NULL|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333|  
@@ -3116,6 +3201,7 @@ Key:
 |Jiro Robb|NULL|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,pyram|  
 |[Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01)|Australia|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Kyros Tan](https://www.worldcubeassociation.org/persons/2019TANK03)|Singapore|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
+|[Lachlan Stephens](https://www.worldcubeassociation.org/persons/2018STEP07)|Australia|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Lily Dell-Rennie](https://www.worldcubeassociation.org/persons/2019DELL01)|Australia|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,pyram|  
 |[Lio Robb](https://www.worldcubeassociation.org/persons/2019ROBB02)|Japan|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,777,minx,pyram|  
 |[Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01)|United Kingdom|[DarwinOpen2019](https://www.worldcubeassociation.org/competitions/DarwinOpen2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
@@ -3316,6 +3402,7 @@ Key:
 |[Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Daniel van Heuven van Staereling](https://www.worldcubeassociation.org/persons/2018STAE01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333oh,pyram,sq1|  
 |[Daniel Veldman](https://www.worldcubeassociation.org/persons/2019VELD01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
+|[David Komdeur](https://www.worldcubeassociation.org/persons/2018KOMD01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333oh,pyram|  
 |David Vettenburg|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|222,444,555,minx,skewb|  
 |[David Vos](https://www.worldcubeassociation.org/persons/2008VOSD01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,777,minx|  
 |[Demian Vos](https://www.worldcubeassociation.org/persons/2018VOSD01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,333oh,pyram,sq1|  
@@ -3338,6 +3425,7 @@ Key:
 |[Gijs Peletier](https://www.worldcubeassociation.org/persons/2018PELE01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Guus Boekestein](https://www.worldcubeassociation.org/persons/2019BOEK01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,pyram,skewb|  
 |[Guus de Wit](https://www.worldcubeassociation.org/persons/2008WITG01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,333oh,sq1|  
+|[Guus van der Goes](https://www.worldcubeassociation.org/persons/2018GOES01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Deleted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Hanneke Rijks](https://www.worldcubeassociation.org/persons/2008RIJK01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333|  
 |[Hans Bennis](https://www.worldcubeassociation.org/persons/2018BENN01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,pyram,skewb|  
 |[Harrie Cuijpers](https://www.worldcubeassociation.org/persons/2016CUIJ01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,333oh,pyram|  
@@ -3348,6 +3436,7 @@ Key:
 |Ids Tjalling Meijer|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram|  
 |[Ignas Schaaf](https://www.worldcubeassociation.org/persons/2017SCHA08)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,333oh,pyram,sq1|  
 |Ilias Chakiri|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,pyram,skewb|  
+|Iskander Tan|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333|  
 |[Ivo Stoutjesdijk](https://www.worldcubeassociation.org/persons/2019STOU02)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
 |[Jan Suhrheinrich](https://www.worldcubeassociation.org/persons/2019SUHR02)|Germany|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
 |[Jan van Dorst](https://www.worldcubeassociation.org/persons/2016DORS01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
@@ -3355,6 +3444,7 @@ Key:
 |Jean-Luc Grijt|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|222,444,555,minx,skewb|  
 |[Jens van Oirschot](https://www.worldcubeassociation.org/persons/2019OIRS01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Jeremy Geels](https://www.worldcubeassociation.org/persons/2016GEEL01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,333oh,pyram,skewb|  
+|Jeroen Moolhuijsen|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333|  
 |[Jesse Oud](https://www.worldcubeassociation.org/persons/2018OUDJ01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |[Jiahao Ma](https://www.worldcubeassociation.org/persons/2017MAJI03)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,444,555,333bf,333oh,pyram,skewb|  
 |[Jona Dijksterhuis](https://www.worldcubeassociation.org/persons/2017DIJK01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
@@ -3411,6 +3501,7 @@ Key:
 |[Maxim Onushkin](https://www.worldcubeassociation.org/persons/2017ONUS01)|Russia|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Metin Karagus](https://www.worldcubeassociation.org/persons/2018KARA09)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Michael Fung](https://www.worldcubeassociation.org/persons/2005FUNG01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|222,444,555,777,333bf,minx,skewb|  
+|[Michiel Kramer](https://www.worldcubeassociation.org/persons/2018KRAM04)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,pyram|  
 |[Midas Kiebert](https://www.worldcubeassociation.org/persons/2016KIEB01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Mika Smulders](https://www.worldcubeassociation.org/persons/2016SMUL01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,333oh,minx,pyram,skewb,sq1|  
 |Milan Teutelink|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,minx,pyram,skewb|  
@@ -3481,6 +3572,7 @@ Key:
 |[Timothy Ithurbure](https://www.worldcubeassociation.org/persons/2016ITHU01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,333bf,333oh|  
 |[Timothy Kroon](https://www.worldcubeassociation.org/persons/2018KROO01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |Tobias Hermans|NULL|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,333oh,pyram|  
+|[Tobias Lipschart](https://www.worldcubeassociation.org/persons/2018LIPS01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|222,444,555,minx,skewb|  
 |[Toine Hulshof](https://www.worldcubeassociation.org/persons/2015HULS01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,333oh,pyram,skewb,sq1|  
 |[Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,skewb|  
 |[Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,333bf,333oh,minx,pyram,skewb,sq1|  
@@ -3491,92 +3583,29 @@ Key:
 |[Wouter Kregting](https://www.worldcubeassociation.org/persons/2019KREG01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|222,444,555,777|  
 |[Yinte Dik](https://www.worldcubeassociation.org/persons/2017DIKY01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Yorick Brommer](https://www.worldcubeassociation.org/persons/2015BROM01)|Netherlands|[DutchNationals2019](https://www.worldcubeassociation.org/competitions/DutchNationals2019)|Accepted|333,222,444,555,666,777,pyram,skewb|  
-|Abdalla ahmed abdalla ahmed|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|Ahmed Ali Suliman Elwakeel|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Ahmed Fekry Sayed|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
-|Ahmed Fekry Sayed|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Ahmed Ghandoor|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,333oh,pyram,skewb|  
-|[Ahmed Heni](https://www.worldcubeassociation.org/persons/2019HENI01)|Tunisia|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222,444,333oh,pyram,skewb|  
-|Ali Ahmed Ali|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Ali Ayman|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,666,minx,pyram,skewb|  
-|Amr Ramadan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,pyram|  
-|Amr Sami Rashad|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[Andrew Antoine](https://www.worldcubeassociation.org/persons/2019ANTO10)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,555,333bf,333oh|  
-|Aref Mamdouh Aref|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,minx,pyram|  
-|Ashraf Hany Ali|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,333oh,minx|  
-|[Aziz Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS03)|Tunisia|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
-|[Basel Awady](https://www.worldcubeassociation.org/persons/2019AWAD01)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444|  
-|Bassel Hossam Atallah|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Besher|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Bishr Albaraa Ramadan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,pyram|  
-|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
-|[Eyad Hussein](https://www.worldcubeassociation.org/persons/2019HUSS01)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,pyram,skewb|  
-|Habiba Khaled Hamed|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|Hannah Nader Eskander|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Hossam el_deen saad|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,333oh,minx,pyram|  
-|[John Maged Sentawes](https://www.worldcubeassociation.org/persons/2019SENT03)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[John Remon Morris](https://www.worldcubeassociation.org/persons/2019MORR09)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|kareamalaa|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Kareem Etefy|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Karim ashraf farouk|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,pyram|  
-|Khalil Kettaneh|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Mahmoud salah ameen|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
-|Mahmoud Salah El Deberky|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
-|Maria Bichoy Raafat Chenouda|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Mariam Bakr|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
-|Mazen Helmi|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,minx|  
-|Mina Zakaria|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,pyram|  
-|Mishkat Eltegani Musa|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02)|Tunisia|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
-|Mohamed Adel EL-Feky|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[Mohamed Hani Shahin](https://www.worldcubeassociation.org/persons/2019SHAH22)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|Mohamed Hossam|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222|  
-|Mohamed Hossam Mohamed Wahdan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Mohamed Mostafa|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Mohannad Mahmoud Fathy|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,pyram,sq1|  
-|[Mostafa Belal Elfaggal](https://www.worldcubeassociation.org/persons/2019ELFA02)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,333bf,333oh,pyram|  
-|Nada Mohamed Hussein Shahein|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Omar Ghanem|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,pyram|  
-|Omar Khaled Hamed|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[Omar Medhat Abdelkhalek](https://www.worldcubeassociation.org/persons/2019ABDE09)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,pyram|  
-|Omar Mohamed Zakaria Wahdan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Omar mourad mohamed hashem|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|222|  
-|[Omar Wael Mohammed Ibrahim Omar](https://www.worldcubeassociation.org/persons/2019OMAR03)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,skewb|  
-|Osama Mostafa Ghanem|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|[Philopatir Bichoy Raafat Chenouda](https://www.worldcubeassociation.org/persons/2019CHEP02)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,minx|  
-|Qais Fadi Al najjar|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Deleted|333,222|  
-|[Rafik Sarwat Naeem Ragheb](https://www.worldcubeassociation.org/persons/2019RAGH04)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,666,333oh,minx,pyram,skewb|  
-|Salah Al-deen Mohammed Nabhan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
-|Salma Hemdan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|seif Mohamed Gamal|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|[Yahia Ahmed Abdallah Elhawy](https://www.worldcubeassociation.org/persons/2019ELHA01)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,333bf,333oh|  
-|Yahia Mohamed Zakaria Wahdan|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333|  
-|Yahya asaad and alaziz|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|[Yassin Ahmed Abdallah Elhawy](https://www.worldcubeassociation.org/persons/2019ELHA02)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|Yassin Sherif Ahmed Sharaf El-Din|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,skewb|  
-|[Youssef Gamal Eldeen Faher Eldeen Ahmed](https://www.worldcubeassociation.org/persons/2019AHME10)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,333bf,333oh,minx,pyram,skewb,sq1|  
-|[Zedan Mohamed Ahmed](https://www.worldcubeassociation.org/persons/2019AHME11)|Egypt|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222|  
-|Ziad Sherif Sharaf El Din|NULL|[EgyptianChampionship2019](https://www.worldcubeassociation.org/competitions/EgyptianChampionship2019)|Accepted|333,222,444,555,minx,skewb,sq1|  
 |[Aleksandr Shibalov (Александр Шибалов)](https://www.worldcubeassociation.org/persons/2018SHIB01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333bf|  
-|[Aleksei Zvorygin](https://www.worldcubeassociation.org/persons/2018ZVOR01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Aleksei Zvorygin](https://www.worldcubeassociation.org/persons/2018ZVOR01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Aleksey Bakulin](https://www.worldcubeassociation.org/persons/2017BAKU01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |Andrey Fedorov (Андрей Федоров)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,pyram,sq1|  
 |[Andrey Kolevatykh](https://www.worldcubeassociation.org/persons/2017KOLE01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,sq1|  
 |Andrey Komarov (Андрей Комаров)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,333oh,pyram,skewb,sq1|  
+|[Anton Lagunov](https://www.worldcubeassociation.org/persons/2015LAGU01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |Artem Kosarev (Артем Косарев)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram,skewb|  
 |[Artem Svoykin (Артем Свойкин)](https://www.worldcubeassociation.org/persons/2018SVOY02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,minx,pyram|  
-|[Artur Gilyazov (Артур Глязов)](https://www.worldcubeassociation.org/persons/2019GILY01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Artur Gilyazov (Артур Глязов)](https://www.worldcubeassociation.org/persons/2019GILY01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Daniil Polennikov (Даниил Поленников)](https://www.worldcubeassociation.org/persons/2018POLE01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
 |[Danil Galeutdinov (Данил Галеутдинов)](https://www.worldcubeassociation.org/persons/2018GALE04)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,pyram,skewb|  
 |[Danil Sannikov (Данил Санников)](https://www.worldcubeassociation.org/persons/2018SANN01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,minx,pyram|  
 |[Daria Mamedova](https://www.worldcubeassociation.org/persons/2018MAME01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
-|[Dmitriy Prikhodko (Дмитрий Приходько)](https://www.worldcubeassociation.org/persons/2018PRIK01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,333oh,minx,pyram,skewb|  
+|[Dmitrii Laptev (Дмитрий Лаптев)](https://www.worldcubeassociation.org/persons/2018LAPT01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222|  
+|[Dmitriy Prikhodko (Дмитрий Приходько)](https://www.worldcubeassociation.org/persons/2018PRIK01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,333oh,minx,pyram,skewb|  
 |[Dmitry Sidorenko](https://www.worldcubeassociation.org/persons/2018SIDO01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Egor Gushchin](https://www.worldcubeassociation.org/persons/2018GUSH01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
-|[Egor Stepanov (Егор Степанов)](https://www.worldcubeassociation.org/persons/2018STEP14)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,minx,pyram,skewb,sq1|  
+|[Egor Stepanov (Егор Степанов)](https://www.worldcubeassociation.org/persons/2018STEP14)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
 |[Egor Zaretskiy](https://www.worldcubeassociation.org/persons/2017ZARE04)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
 |[Evgeny Yurovskikh (Евгений Юровских)](https://www.worldcubeassociation.org/persons/2019YURO01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
-|[Ewsey Obzherin](https://www.worldcubeassociation.org/persons/2017OBZH01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,minx,pyram,skewb,sq1|  
-|Fedor Kuznetzov (Федор Кузнецов)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,pyram,skewb|  
+|[Ewsey Obzherin](https://www.worldcubeassociation.org/persons/2017OBZH01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
+|[Fedor Kuznetzov (Федор Кузнецов)](https://www.worldcubeassociation.org/persons/2019KUZN07)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,pyram,skewb|  
 |[Galina Khlyzova (Галина Хлызова)](https://www.worldcubeassociation.org/persons/2018KHLY01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
 |[Grigorii Gorodilov (Григорий Городилов)](https://www.worldcubeassociation.org/persons/2019GORO01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,skewb|  
 |[Ilia Murmulyak](https://www.worldcubeassociation.org/persons/2017MURM01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram|  
@@ -3584,19 +3613,21 @@ Key:
 |[Ilya Zaikov (Илья Зайков)](https://www.worldcubeassociation.org/persons/2018ZAIK01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222|  
 |[Ivan Khvatov (Иван Хватов)](https://www.worldcubeassociation.org/persons/2019KHVA04)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,333bf,pyram|  
 |[Ivan Kirsanov (Иван Кирсанов)](https://www.worldcubeassociation.org/persons/2019KIRS02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222|  
-|[Ivan Milyi (Иван Милый)](https://www.worldcubeassociation.org/persons/2018MILY01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333bf,333oh,pyram,skewb,sq1|  
-|Ivan Nikitin (Иван Никитин)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Ivan Milyi (Иван Милый)](https://www.worldcubeassociation.org/persons/2018MILY01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
+|Ivan Nikitin (Иван Никитин)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ivan Yachmenev (Иван Ячменев)](https://www.worldcubeassociation.org/persons/2018YACH02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,skewb,sq1|  
 |[Kirill Egorov (Кирилл Егоров)](https://www.worldcubeassociation.org/persons/2019EGOR04)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb|  
 |Kirill Fedorov (Кирилл Федоров)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,minx,pyram,skewb|  
 |Kirill Panteleev (Кирилл Пантелеев)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
-|Kirill Syrov (Кирилл Сыров)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,pyram|  
-|[Lev Aronov](https://www.worldcubeassociation.org/persons/2018ARON02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,333oh,minx,pyram,skewb,sq1|  
+|Kirill Syrov (Кирилл Сыров)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
+|[Kirill Ukhalov](https://www.worldcubeassociation.org/persons/2018UKHA01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Lev Aronov](https://www.worldcubeassociation.org/persons/2018ARON02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,333oh,minx,pyram,skewb,sq1|  
 |Lev Shishmintsev (Лев Шишминцев)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram|  
 |[Mark Dubrovskii (Марк Дубровский)](https://www.worldcubeassociation.org/persons/2018DUBR01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,pyram,skewb|  
 |[Maxim Odinokov (Максим Одиноков)](https://www.worldcubeassociation.org/persons/2018ODIN02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |Maxim Petuhov  (Максим Петухов)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333|  
 |[Mikhail Ivashechkin](https://www.worldcubeassociation.org/persons/2018IVAS01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
+|Mikhail Zaitsev  (Михаил Зайцев)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,skewb|  
 |Mikhail Zamyatin (Михаил Замятин)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222|  
 |[Nikita Grebenkin](https://www.worldcubeassociation.org/persons/2017GREB02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |[Nikita Nifatov (Никита Нифатов)](https://www.worldcubeassociation.org/persons/2018NIFA01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
@@ -3610,16 +3641,19 @@ Key:
 |[Stepan Kobelev (Степан Кобелев)](https://www.worldcubeassociation.org/persons/2019KOBE01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |[Timofei Borodin (Тимофей Бородин)](https://www.worldcubeassociation.org/persons/2019BORO02)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222|  
 |[Vasily Stasyev](https://www.worldcubeassociation.org/persons/2010STAS01)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
-|[Vitaliy Takanov](https://www.worldcubeassociation.org/persons/2017TAKA09)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,pyram,sq1|  
-|[Vlad Bayazitov (Влад Баязитов)](https://www.worldcubeassociation.org/persons/2018BAYA06)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Vitaliy Takanov](https://www.worldcubeassociation.org/persons/2017TAKA09)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,pyram,sq1|  
+|[Vlad Bayazitov (Влад Баязитов)](https://www.worldcubeassociation.org/persons/2018BAYA06)|Russia|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Vladislav Konstantinov (Владислав Константинов)|NULL|[EkaCubeDays2019](https://www.worldcubeassociation.org/competitions/EkaCubeDays2019)|Accepted|333,444,pyram|  
+|[Albert G. Tahan](https://www.worldcubeassociation.org/persons/2018TAHA01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|666,777|  
 |[Andrew Bae](https://www.worldcubeassociation.org/persons/2014BAEA01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333ft,333oh,clock,skewb|  
 |[Angelo Terpening](https://www.worldcubeassociation.org/persons/2019TERP01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,333ft,333oh,clock,pyram,skewb|  
 |Ashlyn LeClair|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,pyram|  
 |[Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,777,333oh,minx|  
+|[Brendan F. Long](https://www.worldcubeassociation.org/persons/2018LONG13)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,333oh,pyram,skewb|  
 |[Camden Dunbar](https://www.worldcubeassociation.org/persons/2018DUNB02)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,333oh,minx,pyram,skewb|  
 |[Chris Yeager](https://www.worldcubeassociation.org/persons/2016YEAG01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Declan Kelly](https://www.worldcubeassociation.org/persons/2018KELL08)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,minx,pyram,skewb,sq1|  
+|[Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333oh,minx,sq1|  
 |[Derek White](https://www.worldcubeassociation.org/persons/2017WHIT01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,333oh,clock,minx,pyram,skewb,sq1|  
 |[Drew Pearlstein](https://www.worldcubeassociation.org/persons/2018PEAR01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,333oh,pyram|  
 |[Ethan Perry](https://www.worldcubeassociation.org/persons/2019PERR02)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
@@ -3629,12 +3663,15 @@ Key:
 |Jaeden Inocentes|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,333oh,pyram,skewb|  
 |[James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,777,333bf,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Jordan Santiago](https://www.worldcubeassociation.org/persons/2018SANT44)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,pyram,skewb,sq1|  
+|Joseph Tahan|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333oh,skewb|  
 |[Jourdyn Davis](https://www.worldcubeassociation.org/persons/2016DAVI15)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,333oh|  
+|[Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333oh,minx|  
 |Kevin Tian|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,333bf|  
 |[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Kyle Pryce|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333|  
 |[Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx,pyram,sq1|  
 |Luke Alkins|NULL|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,clock,pyram,skewb,sq1|  
+|[Matthew Tian](https://www.worldcubeassociation.org/persons/2019TIAN01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,333oh,pyram,skewb|  
 |[Michael Ben Raziel](https://www.worldcubeassociation.org/persons/2018RAZI01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,333bf,333oh,minx,pyram,sq1|  
 |[Michael Tchernev](https://www.worldcubeassociation.org/persons/2019TCHE01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,333oh,minx,pyram,skewb,sq1|  
 |[Nelson Nnodim](https://www.worldcubeassociation.org/persons/2016NNOD01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,clock,pyram,skewb,sq1|  
@@ -3644,12 +3681,15 @@ Key:
 |[Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,333ft,333oh,minx,sq1|  
 |[Ryan Friedman](https://www.worldcubeassociation.org/persons/2019FRIE01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,minx,pyram,skewb,sq1|  
 |[Ryan Michael Breen](https://www.worldcubeassociation.org/persons/2017BREE02)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Sam Keyes](https://www.worldcubeassociation.org/persons/2017KEYE01)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555|  
+|[Tyler Jung](https://www.worldcubeassociation.org/persons/2019JUNG06)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Pending|333,444,555,666,777,333bf,clock,pyram,skewb,sq1|  
 |[Yihan Deng (邓义涵)](https://www.worldcubeassociation.org/persons/2017DENG21)|China|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,333oh,pyram,skewb|  
 |[Yijun Han](https://www.worldcubeassociation.org/persons/2017HANY05)|Korea|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,333oh,pyram,skewb,sq1|  
 |[Yizhi Hu (胡一之)](https://www.worldcubeassociation.org/persons/2011HUYI03)|China|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,777,333oh,minx|  
 |[Zander Casale](https://www.worldcubeassociation.org/persons/2017CASA03)|USA|[EmpireStateFall2019](https://www.worldcubeassociation.org/competitions/EmpireStateFall2019)|Accepted|333,444,555,333bf,333oh,clock,skewb,sq1|  
 |Afonso Figueiredo Santos de Almeida Gouveia|NULL|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,444|  
 |Afonso Mendes|NULL|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222|  
+|André de Sousa Fernandes|NULL|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Pending|333,222,444|  
 |[Ângelo Gabriel Ferreira Pedrosa](https://www.worldcubeassociation.org/persons/2019PEDR01)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222,444,333oh|  
 |[António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222,444|  
 |[Bruno Tender](https://www.worldcubeassociation.org/persons/2016TEND01)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333oh|  
@@ -3665,13 +3705,13 @@ Key:
 |[Maryse Estêvão](https://www.worldcubeassociation.org/persons/2016ESTE01)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222|  
 |[Nelson Estevão](https://www.worldcubeassociation.org/persons/2014ESTE01)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222,444,333oh|  
 |[Pedro Azevedo](https://www.worldcubeassociation.org/persons/2018AZEV03)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Pending|333,222,444,333oh|  
-|[Rafael Lobão](https://www.worldcubeassociation.org/persons/2019LOBA03)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Pending|333,444,333oh|  
+|[Rafael Lobão](https://www.worldcubeassociation.org/persons/2019LOBA03)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,444,333oh|  
 |[Rafael Rocha](https://www.worldcubeassociation.org/persons/2016ROCH04)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,444,333oh|  
-|[Tomé Hamard](https://www.worldcubeassociation.org/persons/2017HAMA03)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Pending|333,222,333oh|  
+|[Tomé Hamard](https://www.worldcubeassociation.org/persons/2017HAMA03)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222,333oh|  
 |[Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,444,333oh|  
 |[Victor Novokshanov](https://www.worldcubeassociation.org/persons/2019NOVO02)|Portugal|[FaoCubeOpen2019](https://www.worldcubeassociation.org/competitions/FaoCubeOpen2019)|Accepted|333,222|  
 |[Alisson Gonzalez](https://www.worldcubeassociation.org/persons/2019GONZ22)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Accepted|333,222,pyram|  
-|[Andres Felipe Montoya](https://www.worldcubeassociation.org/persons/2017MONT22)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
+|[Andres Felipe Montoya](https://www.worldcubeassociation.org/persons/2017MONT22)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Accepted|333,222,444,555,pyram|  
 |[Camilo Melendrez Romero](https://www.worldcubeassociation.org/persons/2018ROME06)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,666|  
 |[Catalina Herrera López](https://www.worldcubeassociation.org/persons/2017LOPE31)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,pyram|  
 |[David Stiven Benitez Guerra](https://www.worldcubeassociation.org/persons/2014GUER06)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,666,777,pyram|  
@@ -3689,6 +3729,7 @@ Key:
 |[Juan Basurto Montoya](https://www.worldcubeassociation.org/persons/2018MONT16)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
 |[Juan Camilo González Barragán](https://www.worldcubeassociation.org/persons/2017BARR25)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|222,444|  
 |[Juan Felipe Silva Palacios](https://www.worldcubeassociation.org/persons/2017PALA02)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,pyram|  
+|Juan Pablo Gonzalez Vargas|NULL|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Accepted|333,222,pyram|  
 |juan pablo siza hurtado|NULL|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,pyram|  
 |[Juan Sebastián Silva Alvarez](https://www.worldcubeassociation.org/persons/2016ALVA09)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
 |[Kevin Andrés Martinez Martinez](https://www.worldcubeassociation.org/persons/2016MART85)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
@@ -3705,6 +3746,9 @@ Key:
 |[Miguel Ángel Quintero López](https://www.worldcubeassociation.org/persons/2017LOPE05)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
 |[Nicolas Sanabria Gòmez](https://www.worldcubeassociation.org/persons/2017GOME18)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,pyram|  
 |[Samuel Ignacio Rozo Alvarez](https://www.worldcubeassociation.org/persons/2016ALVA06)|Colombia|[FestivalCuberoCubico2019](https://www.worldcubeassociation.org/competitions/FestivalCuberoCubico2019)|Pending|333,222,444,555,666,777|  
+|[Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01)|Finland|[FewestMovesHelsinki2019](https://www.worldcubeassociation.org/competitions/FewestMovesHelsinki2019)|Accepted|333fm|  
+|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|[FewestMovesHelsinki2019](https://www.worldcubeassociation.org/competitions/FewestMovesHelsinki2019)|Accepted|333fm|  
+|[Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05)|Finland|[FewestMovesHelsinki2019](https://www.worldcubeassociation.org/competitions/FewestMovesHelsinki2019)|Accepted|333fm|  
 |[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Deleted|333fm|  
 |[Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
 |[Ben Streeter](https://www.worldcubeassociation.org/persons/2013STRE01)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Pending|333fm|  
@@ -3729,6 +3773,7 @@ Key:
 |[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
 |[Reagan Li](https://www.worldcubeassociation.org/persons/2017LIRE01)|Canada|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
 |[Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
+|[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Deleted|333fm|  
 |[Shelley Chang](https://www.worldcubeassociation.org/persons/2004CHAN04)|USA|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
 |[Theo Daniel Gallegos Cuevas](https://www.worldcubeassociation.org/persons/2016CUEV04)|Mexico|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
 |[Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47)|Canada|[FMCNorthAmericaWest2019](https://www.worldcubeassociation.org/competitions/FMCNorthAmericaWest2019)|Accepted|333fm|  
@@ -3829,6 +3874,12 @@ Key:
 |[Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01)|Austria|[FranconiaFall2019](https://www.worldcubeassociation.org/competitions/FranconiaFall2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram,skewb|  
 |[Vlastimil Špok](https://www.worldcubeassociation.org/persons/2019SPOK01)|Czech Republic|[FranconiaFall2019](https://www.worldcubeassociation.org/competitions/FranconiaFall2019)|Pending|333,222,444,555,333bf,333oh|  
 |[Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01)|Germany|[FranconiaFall2019](https://www.worldcubeassociation.org/competitions/FranconiaFall2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram,skewb|  
+|Alexander Márquez Vega|NULL|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333|  
+|[Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03)|Colombia|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333,222,444,333oh,minx,pyram|  
+|[Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05)|Colombia|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333,333oh,pyram|  
+|[Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01)|Colombia|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333,222,444,333oh,minx,pyram|  
+|[Maicol Ramos](https://www.worldcubeassociation.org/persons/2016RAMO01)|Colombia|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333,222,444,333oh,minx,pyram|  
+|[Sergio Andres Guillen Ibarra](https://www.worldcubeassociation.org/persons/2014IBAR01)|Colombia|[FrikiFestivalValledupar2019](https://www.worldcubeassociation.org/competitions/FrikiFestivalValledupar2019)|Accepted|333,222,444,333oh,minx,pyram|  
 |[Aaron Yao](https://www.worldcubeassociation.org/persons/2019YAOA01)|Canada|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram,sq1|  
 |[Abe Church](https://www.worldcubeassociation.org/persons/2019CHUR03)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
 |[Adam Wachtel](https://www.worldcubeassociation.org/persons/2019WACH01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
@@ -3842,7 +3893,7 @@ Key:
 |[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram,sq1|  
 |[Ashley Feniello](https://www.worldcubeassociation.org/persons/2018FENI01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222|  
 |[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1,444bf,555bf|  
-|Braden Dillenberg|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Pending|333,222,333ft,pyram|  
+|Braden Dillenberg|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
 |Braxton Mattinen|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|222|  
 |[Brooke Persoon](https://www.worldcubeassociation.org/persons/2019PERS01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1|  
 |Bruno Mauricio Espinoza|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1|  
@@ -3875,9 +3926,10 @@ Key:
 |Lev Israel|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333|  
 |Logan Thompson|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
 |[Matt Bartlett](https://www.worldcubeassociation.org/persons/2018BART01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
-|[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram,sq1,444bf,555bf|  
+|[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Deleted|333,222,pyram,sq1,444bf,555bf|  
 |[Matthew Logston](https://www.worldcubeassociation.org/persons/2019LOGS01)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram|  
 |Matthew Mehta|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1|  
+|[Max Rose-Innes](https://www.worldcubeassociation.org/persons/2019ROSE07)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1,444bf,555bf|  
 |Michael Mehta|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1|  
 |[Milo Black](https://www.worldcubeassociation.org/persons/2017BLAC06)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1|  
@@ -3904,10 +3956,12 @@ Key:
 |Sydney Moneke|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222|  
 |[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,333ft,pyram,sq1,444bf,555bf|  
 |Turrin Garcia|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222|  
+|Wesley Ren|NULL|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222|  
 |[William Greninger](https://www.worldcubeassociation.org/persons/2018GREN02)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Accepted|333,222,pyram,sq1|  
 |[Yuri Garcia](https://www.worldcubeassociation.org/persons/2019GARC02)|USA|[GastonToeTwiddling2019](https://www.worldcubeassociation.org/competitions/GastonToeTwiddling2019)|Pending|333,222,pyram|  
 |[Advait Dhingra](https://www.worldcubeassociation.org/persons/2016DHIN01)|USA|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh|  
 |[Ahmad Firas](https://www.worldcubeassociation.org/persons/2014FIRA01)|Malaysia|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh,pyram,skewb|  
+|[Ahmed Heni](https://www.worldcubeassociation.org/persons/2019HENI01)|Tunisia|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,333oh,pyram,skewb|  
 |[Alexander de Blois](https://www.worldcubeassociation.org/persons/2017BLOI01)|Spain|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh|  
 |[Alexandros Efremidis](https://www.worldcubeassociation.org/persons/2015EFRE01)|Greece|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram|  
 |[Ali Dadfar (علی دادفر)](https://www.worldcubeassociation.org/persons/2011DADF01)|Iran|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh|  
@@ -3951,6 +4005,7 @@ Key:
 |[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Jan Staubach](https://www.worldcubeassociation.org/persons/2015STAU01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,minx,pyram|  
 |[Jan Suhrheinrich](https://www.worldcubeassociation.org/persons/2019SUHR02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,pyram,skewb|  
+|Janek Gehrlein|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555|  
 |Jannis Bargheer|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh|  
 |[Jessica Lohe](https://www.worldcubeassociation.org/persons/2011LOHE01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh,clock,minx,pyram,skewb|  
 |[Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
@@ -3962,6 +4017,7 @@ Key:
 |[Karlotta Hutfleß](https://www.worldcubeassociation.org/persons/2017HUTF01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|pyram|  
 |Katharina Schlomberg|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555|  
 |[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
+|[Kim Kattelans](https://www.worldcubeassociation.org/persons/2013KATT02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,pyram,skewb|  
 |[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Laura Ohrndorf](https://www.worldcubeassociation.org/persons/2009OHRN01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
@@ -3973,14 +4029,17 @@ Key:
 |[Luis Kleinheinz](https://www.worldcubeassociation.org/persons/2017KLEI02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Luis Wildt](https://www.worldcubeassociation.org/persons/2019WILD02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,pyram|  
 |Lukas Otto|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,clock,pyram,skewb|  
+|[Malik Khaled](https://www.worldcubeassociation.org/persons/2019KHAL03)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,minx,pyram,skewb|  
 |[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Marc Danelkewitz](https://www.worldcubeassociation.org/persons/2016DANE01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,skewb|  
+|[Marcel Peters](https://www.worldcubeassociation.org/persons/2012PETE03)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,333oh|  
 |[Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,minx,pyram,skewb|  
 |Marius Wuth|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444|  
+|[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,333oh|  
 |Mats Rothe|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh|  
 |[Matteo Pauli](https://www.worldcubeassociation.org/persons/2019PAUL05)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,333oh|  
 |Maximilian Schulz|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333|  
-|Micha Cetra|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh,clock,pyram,skewb|  
+|[Micha Cetra](https://www.worldcubeassociation.org/persons/2019CETR01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh,clock,pyram,skewb|  
 |[Moritz Kaulich](https://www.worldcubeassociation.org/persons/2019KAUL03)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh,pyram,sq1|  
 |[Niclas Mach](https://www.worldcubeassociation.org/persons/2018MACH13)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Nils Wienand](https://www.worldcubeassociation.org/persons/2016WIEN01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,pyram|  
@@ -4000,6 +4059,7 @@ Key:
 |Tim Friemel|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,pyram|  
 |[Timon Schapeler](https://www.worldcubeassociation.org/persons/2019SCHA02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,minx,pyram,skewb|  
 |[Ugur Sadiklar](https://www.worldcubeassociation.org/persons/2011SADI01)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,333oh|  
+|[Valentin Hoffmann](https://www.worldcubeassociation.org/persons/2011HOFF02)|France|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Pending|333,444,555,666,777,333oh|  
 |[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|Germany|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |William Wijaya|NULL|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,skewb|  
 |[Wouter Kregting](https://www.worldcubeassociation.org/persons/2019KREG01)|Netherlands|[GermanBigCubeOpen2019](https://www.worldcubeassociation.org/competitions/GermanBigCubeOpen2019)|Accepted|333,444,555,666,777,333oh|  
@@ -4415,6 +4475,7 @@ Key:
 |Leo Taylor|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Pending|333,222,444,333bf,333oh|  
 |Liam Simmons|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222|  
 |[Lucas Dinga](https://www.worldcubeassociation.org/persons/2018DING13)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram,skewb|  
+|Lucas Redshaw|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Pending|333,222,444,333oh|  
 |[Lucien West](https://www.worldcubeassociation.org/persons/2017WEST02)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333bf,skewb|  
 |Luke Exley|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,333oh|  
 |[Luke Smith](https://www.worldcubeassociation.org/persons/2018SMIT38)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|pyram|  
@@ -4423,6 +4484,7 @@ Key:
 |[Matthew Sabot](https://www.worldcubeassociation.org/persons/2019SABO04)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram|  
 |[Max Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM04)|New Zealand|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |Maxwell Gene Maclean Russell|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram,skewb|  
+|Michael Gunawan|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Pending|333|  
 |[Ming Dao Ting](https://www.worldcubeassociation.org/persons/2018TING05)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |[Minn Aung](https://www.worldcubeassociation.org/persons/2018AUNG01)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Mitchell Bergoff|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333|  
@@ -4440,6 +4502,7 @@ Key:
 |[Olivia Stone](https://www.worldcubeassociation.org/persons/2019STON02)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram|  
 |Peter Mears|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222|  
 |[Peter White](https://www.worldcubeassociation.org/persons/2019WHIT01)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222|  
+|[Ray Cusack](https://www.worldcubeassociation.org/persons/2015CUSA01)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Pending|333,222,333oh,pyram,skewb|  
 |Reuben Macpherson|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Rohan A Wickremasinghe|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222|  
 |[Ronald Tran](https://www.worldcubeassociation.org/persons/2018TRAN06)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram,skewb|  
@@ -4474,6 +4537,7 @@ Key:
 |Xavier Cutuli|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram|  
 |[Yinhao Ding](https://www.worldcubeassociation.org/persons/2019DING02)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333bf,pyram,skewb|  
 |Yoshi Becker|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram,skewb|  
+|Youngmin Seo|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Pending|333,222|  
 |[Zac Graham](https://www.worldcubeassociation.org/persons/2017GRAH02)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Zack Byrne|NULL|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,pyram|  
 |[Zackeri Joyce](https://www.worldcubeassociation.org/persons/2019JOYC01)|Australia|[GoldCoastSpring2019](https://www.worldcubeassociation.org/competitions/GoldCoastSpring2019)|Accepted|333,222,444,333oh,pyram|  
@@ -4811,6 +4875,7 @@ Key:
 |[Kirt Protacio](https://www.worldcubeassociation.org/persons/2010PROT01)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,222,555,333oh|  
 |[Lachlan Malcolm](https://www.worldcubeassociation.org/persons/2016MALC03)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333,222,555,333bf,333oh,444bf|  
 |Lachlan Middleton|NULL|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,222|  
+|[Lance Aguilar](https://www.worldcubeassociation.org/persons/2018AGUI01)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333,222,555,333oh|  
 |Lani Campbell|NULL|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333|  
 |[Lara Rust](https://www.worldcubeassociation.org/persons/2018RUST08)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,222|  
 |[Lazo Jalal](https://www.worldcubeassociation.org/persons/2016JALA02)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,222,555,333bf,333oh|  
@@ -4831,6 +4896,7 @@ Key:
 |[Michael Nguyen](https://www.worldcubeassociation.org/persons/2018NGUY38)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,222,333oh|  
 |[Michael Papandony](https://www.worldcubeassociation.org/persons/2016PAPA02)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333,222,333oh|  
 |[Mitchell Healy](https://www.worldcubeassociation.org/persons/2018HEAL03)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333,222,555,333oh|  
+|Moaz Ali|NULL|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333|  
 |[Nam Anh Dang](https://www.worldcubeassociation.org/persons/2016DANG08)|Australia|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,333bf,444bf,555bf|  
 |Nash Williams|NULL|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Pending|333,222|  
 |Nathan Green|NULL|[HaroldParkClassic2019](https://www.worldcubeassociation.org/competitions/HaroldParkClassic2019)|Accepted|333,333bf,333oh|  
@@ -4891,12 +4957,15 @@ Key:
 |[Lê Nguyễn Quốc Bảo](https://www.worldcubeassociation.org/persons/2019BAOL01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
 |[Lê Nguyễn Việt Cường](https://www.worldcubeassociation.org/persons/2018CUON02)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Lê Quang Trí](https://www.worldcubeassociation.org/persons/2019TRIL01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
+|Lê Thắng Lợi|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Deleted|333,222|  
 |[Le Van Bao Toan](https://www.worldcubeassociation.org/persons/2017TOAN02)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |Lữ Hạnh Hoàng Nguyên|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
 |Lưu Đức Toàn|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
 |Mey Samorn|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|222|  
+|Nguyễn Anh Khoa|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
 |Nguyễn Anh Quân|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444|  
 |Nguyễn Bảo Anh|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
+|[Nguyen Duc Khoi](https://www.worldcubeassociation.org/persons/2014KHOI02)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
 |Nguyễn Đức Khánh|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333oh|  
 |[Nguyen Hieu Trung](https://www.worldcubeassociation.org/persons/2018TRUN01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
 |Nguyễn Hoàng Bảo Khôi|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
@@ -4912,11 +4981,13 @@ Key:
 |[Nguyễn Ngọc Bích](https://www.worldcubeassociation.org/persons/2017BICH01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
 |[Nguyễn Ngọc Phương](https://www.worldcubeassociation.org/persons/2016PHUO01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Nguyen Nhat Khang](https://www.worldcubeassociation.org/persons/2018KHAN19)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
+|[Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |Nguyen Thien Phu|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,444|  
 |Nguyễn Thiên Phú|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,444|  
 |[Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Phạm Trường Vũ](https://www.worldcubeassociation.org/persons/2019VUPH01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,333oh|  
+|Phan Lê Thanh Hùng|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Pending|333|  
 |[Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,444|  
 |[Phung Gia Bao](https://www.worldcubeassociation.org/persons/2017BAOP01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Quách Đức Duy](https://www.worldcubeassociation.org/persons/2018DUYQ01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
@@ -4924,9 +4995,13 @@ Key:
 |[Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,444|  
 |[Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |Trần Đức Trưởng|NULL|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
+|[Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,444,333oh|  
 |[Tran Minh Tue](https://www.worldcubeassociation.org/persons/2017TUET01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
+|[Trần Tú Hân](https://www.worldcubeassociation.org/persons/2018HANT04)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222|  
+|[Trịnh Thái Dương](https://www.worldcubeassociation.org/persons/2018DUON06)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Pending|333,222,444,333oh|  
 |[Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333,222,333oh|  
 |[Võ Văn Trí](https://www.worldcubeassociation.org/persons/2017TRIV07)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Accepted|333|  
+|[Vũ Việt Anh](https://www.worldcubeassociation.org/persons/2019ANHV01)|Vietnam|[HCMCProLeague2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019)|Pending|333,222|  
 |[Akhil Sankar](https://www.worldcubeassociation.org/persons/2013SANK03)|USA|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Pending|333,222|  
 |[Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01)|Switzerland|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Amiel Engel](https://www.worldcubeassociation.org/persons/2017ENGE01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
@@ -4952,7 +5027,8 @@ Key:
 |[David van der Ham](https://www.worldcubeassociation.org/persons/2019HAMD01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,sq1|  
 |[David Vos](https://www.worldcubeassociation.org/persons/2008VOSD01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
 |[Dennis Eijkel](https://www.worldcubeassociation.org/persons/2012EIJK01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,pyram|  
-|[Douwe Besseling](https://www.worldcubeassociation.org/persons/2018BESS01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
+|Dennis van Ingen|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,555|  
+|[Douwe Besseling](https://www.worldcubeassociation.org/persons/2018BESS01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |Egbert Cornelis Kristian Warmels van der Linden|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333|  
 |[Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02)|Belgium|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,666,333oh,minx,pyram,skewb,sq1|  
 |Eloïse van der Ham|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222|  
@@ -4985,6 +5061,7 @@ Key:
 |[Julian Duijker](https://www.worldcubeassociation.org/persons/2018DUIJ01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Justin Ham](https://www.worldcubeassociation.org/persons/2018HAMJ01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222|  
 |[Kasper Koster](https://www.worldcubeassociation.org/persons/2016KOST03)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,666|  
+|Kimo van Oevelen|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Pending|333,222|  
 |[Koen van Aller](https://www.worldcubeassociation.org/persons/2017ALLE05)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Koen van den Berg](https://www.worldcubeassociation.org/persons/2016BERG03)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Deleted|333,222,444,333oh,pyram,skewb|  
 |[Kwint Leenders](https://www.worldcubeassociation.org/persons/2019LEEN01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Deleted|333,222,444|  
@@ -4992,13 +5069,13 @@ Key:
 |[Leo Bora Bozkir](https://www.worldcubeassociation.org/persons/2017BOZK01)|Turkey|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,333oh,pyram,skewb,sq1|  
 |[Li-Zhi Findhammer](https://www.worldcubeassociation.org/persons/2018FIND01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
 |[Lilian van den Brink](https://www.worldcubeassociation.org/persons/2018BRIN02)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333|  
-|[Lisa Kievits](https://www.worldcubeassociation.org/persons/2018KIEV01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Lisa Kievits](https://www.worldcubeassociation.org/persons/2018KIEV01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Deleted|333,222,pyram,skewb|  
 |[Loek Gijsbers](https://www.worldcubeassociation.org/persons/2018GIJS01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222|  
 |[Luca van Maare](https://www.worldcubeassociation.org/persons/2018MAAR02)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
 |Lucas Hillen|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
 |[Luuk van Gastel](https://www.worldcubeassociation.org/persons/2019GAST01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Lydia van Deventer](https://www.worldcubeassociation.org/persons/2013DEVE02)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
-|[Lydwine Beelen](https://www.worldcubeassociation.org/persons/2018BEEL01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
+|[Lydwine Beelen](https://www.worldcubeassociation.org/persons/2018BEEL01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Deleted|333,222,444,555,333oh,minx,pyram,skewb|  
 |Manne Vlietstra|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333|  
 |[Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01)|Belgium|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,444,555,333oh|  
 |[Marc Tol](https://www.worldcubeassociation.org/persons/2017TOLM01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
@@ -5019,7 +5096,7 @@ Key:
 |[Milan van Wanrooij](https://www.worldcubeassociation.org/persons/2019WANR01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Mira Engel](https://www.worldcubeassociation.org/persons/2017ENGE02)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram|  
 |[Mischa Alessandro Pipolo](https://www.worldcubeassociation.org/persons/2019PIPO01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,sq1|  
-|[Moreno van Rooijen](https://www.worldcubeassociation.org/persons/2015ROOI01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Moreno van Rooijen](https://www.worldcubeassociation.org/persons/2015ROOI01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Deleted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |Myrthe ten Pas|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222|  
 |Nakul Iyer|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444|  
 |Nicholas Keuker|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,pyram,skewb,sq1|  
@@ -5074,6 +5151,7 @@ Key:
 |[Ton Dennenbroek](https://www.worldcubeassociation.org/persons/2003DENN01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,skewb|  
 |[Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Willine van den Brink](https://www.worldcubeassociation.org/persons/2018BRIN03)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333|  
+|Wim van den Dikkenberg|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Pending|333|  
 |[Wouter Hoogland](https://www.worldcubeassociation.org/persons/2018HOOG01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Wouter Kregting](https://www.worldcubeassociation.org/persons/2019KREG01)|Netherlands|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|555,777,333oh|  
 |Zoë Zwanepol|NULL|[HooglandOpen2019](https://www.worldcubeassociation.org/competitions/HooglandOpen2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
@@ -5127,11 +5205,12 @@ Key:
 |[Brian Thomas Allen](https://www.worldcubeassociation.org/persons/2019ALLE03)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,333oh,pyram|  
 |[Darius Song](https://www.worldcubeassociation.org/persons/2018SONG38)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
 |[Dave Watson](https://www.worldcubeassociation.org/persons/2018WATS05)|New Zealand|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333|  
-|[David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
+|[David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb|  
 |[David Epstein](https://www.worldcubeassociation.org/persons/2016EPST02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
 |[David Terry](https://www.worldcubeassociation.org/persons/2019TERR01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
 |Eli Taylor|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222|  
-|Erik Zhu|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,pyram|  
+|[Elise Watson](https://www.worldcubeassociation.org/persons/2018WATS04)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333|  
+|[Erik Zhu](https://www.worldcubeassociation.org/persons/2018ZHUE01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,pyram|  
 |[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,minx,pyram,skewb|  
 |Grant Hollaway|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333|  
 |[Haoran Zhang](https://www.worldcubeassociation.org/persons/2019ZHAH01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333|  
@@ -5151,7 +5230,7 @@ Key:
 |[Leon Tran](https://www.worldcubeassociation.org/persons/2019TRAN11)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,skewb|  
 |[Liam Sweet](https://www.worldcubeassociation.org/persons/2014SWEE01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Deleted|333,444,555,333bf|  
 |[Lincoln Meyer](https://www.worldcubeassociation.org/persons/2019MEYE03)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|222|  
-|[Matthew Flay](https://www.worldcubeassociation.org/persons/2011FLAY02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,444,555,333oh,minx,pyram|  
+|[Matthew Flay](https://www.worldcubeassociation.org/persons/2011FLAY02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Deleted|333,444,555,333oh,minx,pyram|  
 |[Michelle Watson](https://www.worldcubeassociation.org/persons/2018WATS06)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333|  
 |[Myles Jarman](https://www.worldcubeassociation.org/persons/2016JARM01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Deleted|333,222,444,555,333bf,333fm,333ft,333oh,pyram,skewb,sq1|  
 |Nathan Leung|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx|  
@@ -5168,80 +5247,91 @@ Key:
 |[Sebastian Outh-Aut](https://www.worldcubeassociation.org/persons/2017OUTH01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Sebastian Robbins](https://www.worldcubeassociation.org/persons/2014ROBB01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,pyram|  
 |Shivansh|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Pending|333,222,minx,pyram|  
+|[Thomas Batchelor](https://www.worldcubeassociation.org/persons/2018BATC01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,pyram|  
 |[Tim Niewand](https://www.worldcubeassociation.org/persons/2018NIEW04)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,pyram,skewb|  
 |[Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01)|Spain|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Tom Noble](https://www.worldcubeassociation.org/persons/2019NOBL01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb|  
 |[Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06)|Vietnam|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333oh,pyram|  
+|William Bruce Sparks|NULL|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222|  
 |[William Niewand](https://www.worldcubeassociation.org/persons/2018NIEW02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
 |[Xavier Knez](https://www.worldcubeassociation.org/persons/2019KNEZ02)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |[Yanqing Fang (方彦卿)](https://www.worldcubeassociation.org/persons/2012FANG04)|China|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,555,333bf,333fm,333oh|  
 |[Zac Meulenkamp](https://www.worldcubeassociation.org/persons/2015MEUL01)|Australia|[Horsham2019](https://www.worldcubeassociation.org/competitions/Horsham2019)|Accepted|333,222,444,333ft,333oh,pyram,skewb|  
-|[Ábris Galler](https://www.worldcubeassociation.org/persons/2017GALL07)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
-|[Ákos Dél](https://www.worldcubeassociation.org/persons/2016DELA07)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
-|[Alexandra Tóth](https://www.worldcubeassociation.org/persons/2012TOTH01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,pyram|  
-|[Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02)|Russia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
-|[András Mészáros](https://www.worldcubeassociation.org/persons/2013MESZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
+|[Ábris Galler](https://www.worldcubeassociation.org/persons/2017GALL07)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
+|[Adrián Vadoba](https://www.worldcubeassociation.org/persons/2017VADO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
+|[Ákos Dél](https://www.worldcubeassociation.org/persons/2016DELA07)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Alexandra Tóth](https://www.worldcubeassociation.org/persons/2012TOTH01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,pyram|  
+|[Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02)|Russia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[András Mészáros](https://www.worldcubeassociation.org/persons/2013MESZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222|  
 |[András Pálffy](https://www.worldcubeassociation.org/persons/2017PALF02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333oh,skewb|  
 |[András Szigeti](https://www.worldcubeassociation.org/persons/2017SZIG01)|Romania|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[András Tory](https://www.worldcubeassociation.org/persons/2018TORY01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
-|[Balázs Kuthi](https://www.worldcubeassociation.org/persons/2009KUTH01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333fm,333oh,minx,pyram,skewb,sq1|  
-|[Balázs Polyák](https://www.worldcubeassociation.org/persons/2017POLY02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,444bf,333mbf|  
-|[Bálint Slezák](https://www.worldcubeassociation.org/persons/2017SLEZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
-|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,clock,pyram,skewb,sq1|  
+|[Balázs Kuthi](https://www.worldcubeassociation.org/persons/2009KUTH01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb,sq1|  
+|[Balázs Polyák](https://www.worldcubeassociation.org/persons/2017POLY02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,444bf,333mbf|  
+|[Bálint Slezák](https://www.worldcubeassociation.org/persons/2017SLEZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Bence Kiácz](https://www.worldcubeassociation.org/persons/2016KIAC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb,sq1|  
 |Bence Sarok|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,pyram,skewb|  
-|[Benedek Kovács](https://www.worldcubeassociation.org/persons/2019KOVA05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,333fm|  
-|[Benedek Zimányi](https://www.worldcubeassociation.org/persons/2017ZIMA01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,skewb|  
-|[Botond Benedek](https://www.worldcubeassociation.org/persons/2017BENE05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb,sq1|  
+|[Benedek Kovács](https://www.worldcubeassociation.org/persons/2019KOVA05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,333fm|  
+|[Benedek Zimányi](https://www.worldcubeassociation.org/persons/2017ZIMA01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333oh,skewb|  
+|[Boldizsár Félix Takó](https://www.worldcubeassociation.org/persons/2019TAKO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Botond Benedek](https://www.worldcubeassociation.org/persons/2017BENE05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |Csendes Vince|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
 |[Dániel Nyikos](https://www.worldcubeassociation.org/persons/2016NYIK01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,333bf,333fm,333ft,333oh,pyram,skewb,333mbf|  
-|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
-|[Dávid Móricz](https://www.worldcubeassociation.org/persons/2017MORI13)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,pyram,skewb|  
-|[Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03)|Croatia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,333mbf|  
-|[Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02)|Slovenia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333bf,333fm,pyram,sq1,444bf,555bf,333mbf|  
+|[Dániel Székely](https://www.worldcubeassociation.org/persons/2014SZEK01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Dávid Móricz](https://www.worldcubeassociation.org/persons/2017MORI13)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03)|Croatia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,333mbf|  
+|[Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02)|Slovenia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333bf,333fm,pyram,sq1,444bf,555bf,333mbf|  
 |[Gábor Hegedűs](https://www.worldcubeassociation.org/persons/2015HEGE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
-|[Gábor Slezák](https://www.worldcubeassociation.org/persons/2016SLEZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333oh,clock,pyram,skewb,sq1|  
-|[Gergely Buresch](https://www.worldcubeassociation.org/persons/2017BURE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|[Gábor Slezák](https://www.worldcubeassociation.org/persons/2016SLEZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb,sq1|  
+|Gangel Nándor|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
+|[Gergely Buresch](https://www.worldcubeassociation.org/persons/2017BURE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
 |Gergely Faragó|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,333oh,minx,pyram,skewb|  
-|[Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,333fm,333oh,minx,pyram,skewb|  
-|[Gergely Sipos](https://www.worldcubeassociation.org/persons/2018SIPO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh|  
-|[György Pintér](https://www.worldcubeassociation.org/persons/2014PINT05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|Henrietta Matestyák|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,pyram,skewb|  
+|[Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,333fm,333oh,minx,pyram,skewb|  
+|[Gergely Sipos](https://www.worldcubeassociation.org/persons/2018SIPO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333oh|  
+|[György Pintér](https://www.worldcubeassociation.org/persons/2014PINT05)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|Henrietta Matestyák|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
-|[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,pyram,sq1|  
+|[Hunor Vadoba](https://www.worldcubeassociation.org/persons/2017VADO02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
+|[Imre Horváth](https://www.worldcubeassociation.org/persons/2017HORV03)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|clock,pyram,skewb|  
+|[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram,sq1|  
 |[János Gligor](https://www.worldcubeassociation.org/persons/2018GLIG01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|clock,pyram,skewb|  
-|[Károly Szántai](https://www.worldcubeassociation.org/persons/2017SZAN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|[Károly Szántai](https://www.worldcubeassociation.org/persons/2017SZAN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
 |[Kornél Vermes](https://www.worldcubeassociation.org/persons/2013VERM02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh|  
-|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|[László Bauer](https://www.worldcubeassociation.org/persons/2019BAUE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,pyram|  
-|[László Nagy](https://www.worldcubeassociation.org/persons/2019NAGY01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,333bf|  
-|[László Tibor Baglyas](https://www.worldcubeassociation.org/persons/2016BAGL02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[László Bauer](https://www.worldcubeassociation.org/persons/2019BAUE01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,pyram|  
+|[László Nagy](https://www.worldcubeassociation.org/persons/2019NAGY01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,333bf|  
+|[László Tibor Baglyas](https://www.worldcubeassociation.org/persons/2016BAGL02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
 |[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Slovenia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01)|Slovakia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
-|[Márk Magyar](https://www.worldcubeassociation.org/persons/2018MAGY02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,pyram,skewb|  
-|[Martin Nagy](https://www.worldcubeassociation.org/persons/2017NAGY04)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,pyram,skewb|  
-|[Mátyás Ondok](https://www.worldcubeassociation.org/persons/2016ONDO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,pyram,skewb|  
+|[Márk Magyar](https://www.worldcubeassociation.org/persons/2018MAGY02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,pyram,skewb|  
+|[Martin Nagy](https://www.worldcubeassociation.org/persons/2017NAGY04)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,pyram,skewb|  
+|Márton Dene|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|Máté Nemes|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|[Mátyás Ondok](https://www.worldcubeassociation.org/persons/2016ONDO01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,pyram,skewb|  
 |Maximilián Zsukov|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb|  
 |[Miklos Mohos](https://www.worldcubeassociation.org/persons/2017MOHO02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,clock,pyram,skewb|  
-|[Nándor Tar](https://www.worldcubeassociation.org/persons/2019TARN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,333fm,333oh,minx,pyram,skewb|  
-|Nándor Varjú|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
-|Nemes Máté Imre|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
-|[Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
-|[Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01)|Finland|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,pyram,skewb|  
-|[Noémi Miglinski](https://www.worldcubeassociation.org/persons/2012MIGL01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Nándor Tar](https://www.worldcubeassociation.org/persons/2019TARN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
+|Nándor Varjú|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
+|[Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
+|[Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01)|Finland|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,pyram,skewb|  
+|[Noémi Miglinski](https://www.worldcubeassociation.org/persons/2012MIGL01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Péter Keszthelyi](https://www.worldcubeassociation.org/persons/2018KESZ01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
-|[Péter Laschek](https://www.worldcubeassociation.org/persons/2016LASC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,333bf,333oh,clock,pyram,skewb|  
+|[Péter Laschek](https://www.worldcubeassociation.org/persons/2016LASC01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,333bf,333oh,clock,pyram,skewb|  
+|[Péter Torpis](https://www.worldcubeassociation.org/persons/2019TORP01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,555,pyram|  
 |[Rafael Bózsing](https://www.worldcubeassociation.org/persons/2018BOZS01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,333oh,sq1|  
 |[Róbert Maróti](https://www.worldcubeassociation.org/persons/2012MARA03)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333fm,333oh,minx|  
 |[Salamon Tűzkő](https://www.worldcubeassociation.org/persons/2014TUZK01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333oh|  
 |[Sanio Kasumovic](https://www.worldcubeassociation.org/persons/2009KASU01)|Austria|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Deleted|333,222,444|  
-|[Soma Török](https://www.worldcubeassociation.org/persons/2019TORO02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
-|[Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf|  
-|[Toni Varga](https://www.worldcubeassociation.org/persons/2011VARG03)|Croatia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333bf|  
+|[Soma Török](https://www.worldcubeassociation.org/persons/2019TORO02)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222|  
+|[Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf|  
+|[Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01)|Slovakia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Toni Varga](https://www.worldcubeassociation.org/persons/2011VARG03)|Croatia|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333bf|  
 |[Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01)|Austria|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
-|[Vilmos Tibor Belkovics](https://www.worldcubeassociation.org/persons/2017BELK01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
-|[Zoltán Bálint](https://www.worldcubeassociation.org/persons/2011BALI01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333,222|  
-|Zoltán Csöndes|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Pending|333|  
+|[Vilmos Tibor Belkovics](https://www.worldcubeassociation.org/persons/2017BELK01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
+|[Zoltán Bálint](https://www.worldcubeassociation.org/persons/2011BALI01)|Hungary|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333,222|  
+|Zoltán Csöndes|NULL|[HungarianOpen2019](https://www.worldcubeassociation.org/competitions/HungarianOpen2019)|Accepted|333|  
 |[Ábris Galler](https://www.worldcubeassociation.org/persons/2017GALL07)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Ágoston Demény](https://www.worldcubeassociation.org/persons/2015DEME01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Ágoston Török](https://www.worldcubeassociation.org/persons/2009TORO03)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333|  
@@ -5256,6 +5346,7 @@ Key:
 |Bálint Galambos|NULL|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333|  
 |Bálint Milán Vajda|NULL|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Pending|333,222|  
 |[Bálint Slezák](https://www.worldcubeassociation.org/persons/2017SLEZ01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Deleted|333,222|  
+|Balla Tamás|NULL|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Pending|222|  
 |[Barna Homoki](https://www.worldcubeassociation.org/persons/2015HOMO01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333|  
 |[Barna Őri](https://www.worldcubeassociation.org/persons/2016RIBA01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
@@ -5322,6 +5413,7 @@ Key:
 |Richárd Havasi|NULL|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Richárd Kapás](https://www.worldcubeassociation.org/persons/2016KAPA03)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Róbert Maróti](https://www.worldcubeassociation.org/persons/2012MARA03)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
+|[Ruben Ducza](https://www.worldcubeassociation.org/persons/2019DUCZ01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Pending|333,222|  
 |[Salamon Tűzkő](https://www.worldcubeassociation.org/persons/2014TUZK01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333|  
 |[Sebastian Virág](https://www.worldcubeassociation.org/persons/2019VIRA01)|Canada|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
@@ -5329,6 +5421,14 @@ Key:
 |[Vilmos Tibor Belkovics](https://www.worldcubeassociation.org/persons/2017BELK01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Zoltán Kovács](https://www.worldcubeassociation.org/persons/2018KOVA01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
 |[Zsombor Szász](https://www.worldcubeassociation.org/persons/2017SZAS01)|Hungary|[HungarianSummer2019](https://www.worldcubeassociation.org/competitions/HungarianSummer2019)|Accepted|333,222|  
+|[Alex Loor](https://www.worldcubeassociation.org/persons/2018LOOR01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,333bf,minx,skewb|  
+|[Bolivar Chafla](https://www.worldcubeassociation.org/persons/2017CHAF01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,minx,skewb|  
+|[Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05)|Colombia|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,333bf,minx|  
+|[Farid Brazales Flores](https://www.worldcubeassociation.org/persons/2018FLOR01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,333bf,minx,skewb|  
+|[Jefferson Javier Cuaspud Rosero](https://www.worldcubeassociation.org/persons/2018ROSE01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,minx,skewb|  
+|[Jhonatan Caicedo](https://www.worldcubeassociation.org/persons/2018CAIC01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,skewb|  
+|[Nikolas Alejandro Rivadeneira Farinango](https://www.worldcubeassociation.org/persons/2018FARI01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,444,minx,skewb|  
+|[Ronny Morocho](https://www.worldcubeassociation.org/persons/2018MORO01)|Ecuador|[IbarraOpen2019](https://www.worldcubeassociation.org/competitions/IbarraOpen2019)|Pending|333,222,skewb|  
 |[Andri Snær Einarsson](https://www.worldcubeassociation.org/persons/2019EINA01)|Iceland|[IcelandicNationals2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019)|Accepted|333,222|  
 |[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[IcelandicNationals2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Danival Heide Sævarsson](https://www.worldcubeassociation.org/persons/2018SAVA04)|Iceland|[IcelandicNationals2019](https://www.worldcubeassociation.org/competitions/IcelandicNationals2019)|Accepted|333,222,pyram|  
@@ -5349,53 +5449,83 @@ Key:
 |[Adilson Santana Oliveira Neto](https://www.worldcubeassociation.org/persons/2018NETO05)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
 |[Carlos Augusto Gianesi Seller](https://www.worldcubeassociation.org/persons/2018SELL01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Daniela Prado Mulina Maximo](https://www.worldcubeassociation.org/persons/2019MAXI01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333|  
-|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,555,666,777,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,666,777,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,666,333oh,minx,pyram,skewb,sq1|  
 |[Felipe Hatanaka Martins Paiva](https://www.worldcubeassociation.org/persons/2019PAIV01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Gabriel Gonçalves Fontes](https://www.worldcubeassociation.org/persons/2018FONT04)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222|  
 |[Giovane Rubin Fioravanti](https://www.worldcubeassociation.org/persons/2016FIOR01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Gustavo Fonseca da Silva](https://www.worldcubeassociation.org/persons/2019SILV06)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,333oh,pyram,sq1|  
+|[Gustavo M. Zimmer](https://www.worldcubeassociation.org/persons/2019ZIMM04)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,333oh|  
 |[Heiki Saga Koike](https://www.worldcubeassociation.org/persons/2018KOIK01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Leonardo João Ramos](https://www.worldcubeassociation.org/persons/2019RAMO08)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,333bf,skewb|  
-|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Marcel Maximo](https://www.worldcubeassociation.org/persons/2019MAXI02)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333|  
 |[Matheus Casassa Viana](https://www.worldcubeassociation.org/persons/2017VIAN01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
 |[Mauricio Paulino Marques Fernandes](https://www.worldcubeassociation.org/persons/2017FERN19)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,333oh,minx,pyram,skewb,sq1|  
+|Nicholas Munekata Dias Luque|NULL|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333|  
 |[Nicolas de Souza Fonseca Nascimento](https://www.worldcubeassociation.org/persons/2018NASC04)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,333ft,333oh|  
 |[Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,555,666,777,333bf,333ft,333oh,minx,pyram,sq1|  
 |[Renan da Cunha Santos](https://www.worldcubeassociation.org/persons/2017SANT12)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,333bf,333ft,333oh,pyram,skewb,sq1|  
 |[Ronan Felipe Jorge](https://www.worldcubeassociation.org/persons/2009JORG02)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
+|[Vander Santana de Oliveira](https://www.worldcubeassociation.org/persons/2016OLIV04)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,444,pyram|  
+|Vânia M. Zimmer|NULL|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333|  
 |[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Vitor Oliveira da Silva](https://www.worldcubeassociation.org/persons/2016SILV57)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,333bf,333oh|  
 |[Yan Espindola da Costa Jorge](https://www.worldcubeassociation.org/persons/2016JORG02)|Brazil|[IIIBarueriOpen2019](https://www.worldcubeassociation.org/competitions/IIIBarueriOpen2019)|Pending|333,222,333oh|  
+|[Alessandro Ferreira de Andrade](https://www.worldcubeassociation.org/persons/2018ANDR05)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222|  
+|[Diogo Rafael Almeida da Silva](https://www.worldcubeassociation.org/persons/2016SILV51)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Edvan Pontes de Oliveira](https://www.worldcubeassociation.org/persons/2013OLIV08)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Emanuel da Silva Borges](https://www.worldcubeassociation.org/persons/2018BORG05)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Francisco Willem Romão Moreira](https://www.worldcubeassociation.org/persons/2018MORE02)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Gabriel Ferreira Coutinho](https://www.worldcubeassociation.org/persons/2018COUT02)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Greice Kelly Barbosa da Silva](https://www.worldcubeassociation.org/persons/2018SILV61)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333|  
+|[Israelly Zenmilly Da Silva](https://www.worldcubeassociation.org/persons/2018SILV62)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222|  
+|[João Ebert da Silva de Andrade](https://www.worldcubeassociation.org/persons/2018ANDR06)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[João Victor Silva de Lima](https://www.worldcubeassociation.org/persons/2018LIMA14)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333|  
+|[João Vitor de Pinho Pereira](https://www.worldcubeassociation.org/persons/2016PERE52)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Jose Mario Paulino do Nascimento](https://www.worldcubeassociation.org/persons/2018NASC15)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333|  
+|[Larissa Câmara da Conceição](https://www.worldcubeassociation.org/persons/2018CONC05)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333|  
+|[Levy Fernandes Pereira](https://www.worldcubeassociation.org/persons/2017PERE78)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Luana Andrielle Pereira Monteiro Santos](https://www.worldcubeassociation.org/persons/2018SANT63)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333|  
+|[Marcos Vitor da Silva](https://www.worldcubeassociation.org/persons/2018SILV65)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222|  
+|[Marlilson Augustinho Roberto](https://www.worldcubeassociation.org/persons/2016ROBE13)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Pablo Eduardo Nikolais Teixeira Bonifácio da Silva](https://www.worldcubeassociation.org/persons/2013SILV12)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Renan Saatman Maia](https://www.worldcubeassociation.org/persons/2016MAIA01)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Samara Thaise Barbosa Vilar](https://www.worldcubeassociation.org/persons/2018VILA03)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Thalison Roberto Ferreira de Sousa](https://www.worldcubeassociation.org/persons/2017SOUS06)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
+|[Victor Medeiros Rebouças](https://www.worldcubeassociation.org/persons/2016REBO01)|Brazil|[IIJoaoCamaraOpen2019](https://www.worldcubeassociation.org/competitions/IIJoaoCamaraOpen2019)|Accepted|333,222,pyram|  
 |[Álvaro Moreno Peláez](https://www.worldcubeassociation.org/persons/2019PELA01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
 |[Álvaro Santiago Álvarez](https://www.worldcubeassociation.org/persons/2015ALVA05)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |Antonio Manuel Melero Rodríguez|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
-|Antonio Navarro Pérez|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,444,pyram|  
+|Antonio Navarro Pérez|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,pyram|  
 |[Daniel Cantero Fernández](https://www.worldcubeassociation.org/persons/2019FERN06)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |[Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Darío Montalvo Ureña](https://www.worldcubeassociation.org/persons/2015UREN01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
-|[David Benedicto Ribera López](https://www.worldcubeassociation.org/persons/2016LOPE01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
+|[David Benedicto Ribera López](https://www.worldcubeassociation.org/persons/2016LOPE01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,555,333oh,pyram,skewb|  
 |Diego Martos Arévalo|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
 |[Fernando Sáez Lázaro](https://www.worldcubeassociation.org/persons/2016LAZA03)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
-|[Gabriel González Svetkin](https://www.worldcubeassociation.org/persons/2017SVET02)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
+|[Francisco Jesús Prieto Molina](https://www.worldcubeassociation.org/persons/2019MOLI01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|222|  
+|[Gabriel González Svetkin](https://www.worldcubeassociation.org/persons/2017SVET02)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Gonzalo Blanco Herrero](https://www.worldcubeassociation.org/persons/2015HERR12)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,minx|  
+|[Guillermo Cascales Ñíguez](https://www.worldcubeassociation.org/persons/2014NIGU02)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Javier Tirado Ortiz](https://www.worldcubeassociation.org/persons/2009TIRA01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Jesús Lindo García](https://www.worldcubeassociation.org/persons/2013GARC08)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Jorge Alfageme Sotillos](https://www.worldcubeassociation.org/persons/2016SOTI01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[José Manuel Toledo Betancor](https://www.worldcubeassociation.org/persons/2017BETA01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |Juan Jose Uclés Fernández|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
-|[Miguel Ángel Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI04)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,pyram|  
+|[Miguel Ángel Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI04)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Miguel Ángel González-Herrero García](https://www.worldcubeassociation.org/persons/2016GARC47)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,minx,pyram,skewb,sq1|  
 |[Miguel Galdeano Pérez](https://www.worldcubeassociation.org/persons/2019PERE23)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
 |Miguel García Benavides|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222|  
 |[Nines Lázaro Alcázar](https://www.worldcubeassociation.org/persons/2018ALCA04)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333|  
+|Pablo Ramírez Enrique|NULL|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Pending|333,222,pyram|  
 |[Paola González Santana](https://www.worldcubeassociation.org/persons/2016SANT22)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
 |[Roberto Galdeano Medina](https://www.worldcubeassociation.org/persons/2019MEDI05)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333oh|  
 |[Rocío Fernández Usero](https://www.worldcubeassociation.org/persons/2014USER01)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
+|[Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13)|Spain|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|Accepted|333,222,444,555,333bf,333oh,skewb|  
 |[Aarav Bansija](https://www.worldcubeassociation.org/persons/2019BANS05)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|pyram|  
 |[Abhiraj Tiwari](https://www.worldcubeassociation.org/persons/2017TIWA02)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,skewb|  
 |[Abhishek Sathyanarayanan](https://www.worldcubeassociation.org/persons/2012SATH01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
@@ -5407,20 +5537,23 @@ Key:
 |[Amritansh Jain](https://www.worldcubeassociation.org/persons/2018JAIN31)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram|  
 |[Anantya Sewak](https://www.worldcubeassociation.org/persons/2019SEWA01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Avinash Sharma](https://www.worldcubeassociation.org/persons/2016SHAR06)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333|  
+|Chirag Padhi|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Deleted|333,444,555|  
 |[Dattatreya Chodavarapu](https://www.worldcubeassociation.org/persons/2014DATT01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555|  
 |Devansh Bansal|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram|  
 |[Dhivij Daga](https://www.worldcubeassociation.org/persons/2018DAGA06)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|pyram,skewb|  
 |[Gaurav Bachani](https://www.worldcubeassociation.org/persons/2016BACH06)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
-|[Gaurav Kumar](https://www.worldcubeassociation.org/persons/2018KUMA13)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Gaurav Kumar](https://www.worldcubeassociation.org/persons/2018KUMA13)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Ghanshyam Sahu](https://www.worldcubeassociation.org/persons/2017SAHU02)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,444,555|  
 |[Harrish U. Nair](https://www.worldcubeassociation.org/persons/2019NAIR06)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram|  
 |Harsh Kumar|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,444,pyram|  
+|Harshvardhan giri Goswami|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,pyram|  
 |[Hemansh Chandnani](https://www.worldcubeassociation.org/persons/2017CHAN49)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|222,pyram,skewb|  
 |[Jai Kumar Relwani](https://www.worldcubeassociation.org/persons/2017RELW01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Jainendra Jain](https://www.worldcubeassociation.org/persons/2014JAIN10)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram|  
 |Jyoti Bharti|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,pyram|  
+|Kabir Shrivastava|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333|  
 |Laksh Relwani|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|pyram|  
-|Manthan Makhija|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|444,555,skewb|  
+|Manthan Makhija|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|444,555,skewb|  
 |Maulik Rathor|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222|  
 |[Mohan Kumar Dewangan](https://www.worldcubeassociation.org/persons/2017DEWA05)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |Navya Kukreja|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|pyram,skewb|  
@@ -5431,6 +5564,8 @@ Key:
 |[Rahul Hegde](https://www.worldcubeassociation.org/persons/2019HEGD01)|USA|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Raj Shekhar Lachoria](https://www.worldcubeassociation.org/persons/2018LACH01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram|  
 |[Rajadhiraj Dewangan](https://www.worldcubeassociation.org/persons/2017DEWA04)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222|  
+|Samarth Jhabak|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,pyram|  
+|[Saptrishi Dubey](https://www.worldcubeassociation.org/persons/2017DUBE04)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,pyram,skewb|  
 |[Sarthak Masta](https://www.worldcubeassociation.org/persons/2017MAST04)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Sayantan Maity](https://www.worldcubeassociation.org/persons/2017MAIT01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,444,555,pyram,skewb|  
 |Shailendra Sahu|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333|  
@@ -5440,6 +5575,7 @@ Key:
 |[Shourya Upadhyay](https://www.worldcubeassociation.org/persons/2018UPAD02)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram,skewb|  
 |Shresth Agrawal|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|pyram|  
 |Shreyan kher|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|222|  
+|[Shubhankar Dubey](https://www.worldcubeassociation.org/persons/2017DUBE08)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,pyram|  
 |[Siddhi Parekh](https://www.worldcubeassociation.org/persons/2018PARE10)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,pyram|  
 |Sudhanshu Mishra|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,555,pyram|  
 |[Sunil Deshmukh](https://www.worldcubeassociation.org/persons/2017DESH04)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,pyram|  
@@ -5448,12 +5584,13 @@ Key:
 |[Vaishnav Nitesh](https://www.worldcubeassociation.org/persons/2017NITE01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |Varsha Sahu|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333|  
 |Varun Thakkar|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,pyram|  
+|[Varunraj Tushar Bhirud](https://www.worldcubeassociation.org/persons/2017BHIR02)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,555|  
 |[Vasuki Dubey](https://www.worldcubeassociation.org/persons/2017DUBE05)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,pyram,skewb|  
 |[Velidi Venkata Jagan Mohana Murali Krishna](https://www.worldcubeassociation.org/persons/2012KRIS04)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Vidhi Relwani](https://www.worldcubeassociation.org/persons/2018RELW01)|India|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,pyram,skewb|  
-|YASH PRABODH RAJIMWALE|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Pending|333,222,444|  
-|[Adam Stankiewicz](https://www.worldcubeassociation.org/persons/2017STAN12)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,skewb|  
-|[Adam Wuestefeld](https://www.worldcubeassociation.org/persons/2019WUES01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,pyram,skewb|  
+|YASH PRABODH RAJIMWALE|NULL|[IndependenceCubeOpen2019](https://www.worldcubeassociation.org/competitions/IndependenceCubeOpen2019)|Accepted|333,222,444|  
+|[Adam Stankiewicz](https://www.worldcubeassociation.org/persons/2017STAN12)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,333bf,skewb|  
+|[Adam Wuestefeld](https://www.worldcubeassociation.org/persons/2019WUES01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram|  
 |Aiden Emery Hodges|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|222,pyram,skewb|  
 |[Aly Hegazy](https://www.worldcubeassociation.org/persons/2017HEGA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Anderson Fielding](https://www.worldcubeassociation.org/persons/2018FIEL01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb,sq1|  
@@ -5461,11 +5598,11 @@ Key:
 |[Andrew Dundon](https://www.worldcubeassociation.org/persons/2017DUND01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333bf,pyram,skewb|  
 |Andrew J. Smith, IV|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,skewb|  
 |Andrew McCormick|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,666,777,minx,pyram,skewb,sq1|  
-|[Andrew Moy](https://www.worldcubeassociation.org/persons/2019MOYA02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram,skewb|  
+|[Andrew Moy](https://www.worldcubeassociation.org/persons/2019MOYA02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb|  
 |[Andrew Shattuck](https://www.worldcubeassociation.org/persons/2017SHAT01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1|  
 |[Andrew Vauter](https://www.worldcubeassociation.org/persons/2015VAUT01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,333bf,333mbf|  
 |[Ant Irizarry](https://www.worldcubeassociation.org/persons/2016IRIZ02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,pyram|  
-|[Anthony Segyde](https://www.worldcubeassociation.org/persons/2018SEGY01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Anthony Segyde](https://www.worldcubeassociation.org/persons/2018SEGY01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
 |[Antonio Nicholas Yaniz](https://www.worldcubeassociation.org/persons/2019YANI01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
 |[Anvith Vanukuri](https://www.worldcubeassociation.org/persons/2019VANU01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb,sq1|  
 |Asher Leo Troxell|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
@@ -5473,8 +5610,8 @@ Key:
 |[Austin Forbing](https://www.worldcubeassociation.org/persons/2019FORB01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
 |[Benjamin Murray](https://www.worldcubeassociation.org/persons/2016MURR04)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|444,minx,skewb|  
 |[Benjamin Wilson](https://www.worldcubeassociation.org/persons/2018WILS15)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
-|Bennett Richardson|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,pyram,skewb|  
-|Bhavyansh|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,333bf,pyram,skewb|  
+|Bennett Richardson|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
+|Bhavyansh|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,333bf,pyram,skewb|  
 |[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Brady Mayou](https://www.worldcubeassociation.org/persons/2018MAYO04)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,minx,pyram,skewb|  
 |[Branden Swarthout](https://www.worldcubeassociation.org/persons/2017SWAR02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,666,777,pyram,skewb|  
@@ -5482,25 +5619,26 @@ Key:
 |Brinley Lang|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444|  
 |[Cade-Michael Miller](https://www.worldcubeassociation.org/persons/2018MILL31)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,sq1|  
 |Charlee Michelle Krugler|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333|  
-|Charlie Fitz|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,minx|  
-|Chris Yoder|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,333bf,pyram|  
+|Charlie Fitz|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,minx|  
+|Chris Yoder|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333bf,pyram|  
 |[Christopher Helgeson](https://www.worldcubeassociation.org/persons/2017HELG01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,minx,pyram,skewb,sq1|  
 |[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Cody Miller](https://www.worldcubeassociation.org/persons/2015MILL06)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333bf,pyram,skewb|  
 |[Corey Tharp](https://www.worldcubeassociation.org/persons/2016THAR01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram,skewb,sq1|  
 |David Piasecki|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|pyram,skewb|  
-|Declan Kilroy|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram|  
+|Declan Kilroy|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
 |[Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,333mbf|  
 |[Ender Stanford](https://www.worldcubeassociation.org/persons/2018STAN06)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333fm,minx,pyram,skewb,sq1|  
 |[Esteban Arenas](https://www.worldcubeassociation.org/persons/2018AREN03)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,333bf,333fm,minx,pyram,skewb|  
 |[Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333fm,pyram,skewb|  
 |[Ethan Cowlbeck](https://www.worldcubeassociation.org/persons/2014COWL01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Ethan Jewett](https://www.worldcubeassociation.org/persons/2019JEWE01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
-|[Ethan Walker](https://www.worldcubeassociation.org/persons/2019WALK05)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram|  
+|[Ethan Walker](https://www.worldcubeassociation.org/persons/2019WALK05)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
 |[Finn X. Gotcher](https://www.worldcubeassociation.org/persons/2019GOTC01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,pyram,skewb,sq1|  
 |[Gabriel Ludwiski](https://www.worldcubeassociation.org/persons/2017LUDW04)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444|  
 |[George Clark](https://www.worldcubeassociation.org/persons/2019CLAR05)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb,sq1|  
-|[Grant Brown](https://www.worldcubeassociation.org/persons/2018BROW07)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram,skewb|  
+|[Grant Brown](https://www.worldcubeassociation.org/persons/2018BROW07)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb|  
+|Grant Bruns|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,333bf,skewb,sq1|  
 |[Henry J. Buehrer](https://www.worldcubeassociation.org/persons/2018BUEH01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,minx,pyram,skewb|  
 |[Isaac Fox](https://www.worldcubeassociation.org/persons/2018FOXI01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram|  
 |Jacob Albrecht|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
@@ -5518,7 +5656,7 @@ Key:
 |John Dickerson|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,333bf|  
 |[Johnathan Wheeldon](https://www.worldcubeassociation.org/persons/2016WHEE01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,333bf,pyram,skewb|  
 |[Johnathon Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,333mbf|  
-|Joseph Garrett|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222|  
+|Joseph Garrett|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
 |[Joseph Loop](https://www.worldcubeassociation.org/persons/2017LOOP01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
 |Josh Bey|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Joshua Bolinger](https://www.worldcubeassociation.org/persons/2018BOLI01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram|  
@@ -5529,11 +5667,11 @@ Key:
 |Kobe Raider Johnson|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Luke Compton](https://www.worldcubeassociation.org/persons/2018COMP02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb|  
 |[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,minx,pyram,skewb,sq1|  
-|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,666,minx,sq1|  
-|[Luke Pearson](https://www.worldcubeassociation.org/persons/2017PEAR01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,666,minx,pyram,skewb,sq1|  
+|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,minx,sq1|  
+|[Luke Pearson](https://www.worldcubeassociation.org/persons/2017PEAR01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,minx,pyram,skewb,sq1|  
 |[Malcolm Richardson](https://www.worldcubeassociation.org/persons/2019RICH05)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333fm,pyram|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Michael DeLaRosa](https://www.worldcubeassociation.org/persons/2013DELA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
+|[Michael DeLaRosa](https://www.worldcubeassociation.org/persons/2013DELA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb,sq1|  
 |[Michael Muething](https://www.worldcubeassociation.org/persons/2019MUET01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1|  
 |Michael W. Buoni|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,444bf,555bf|  
 |[Mike Hughey](https://www.worldcubeassociation.org/persons/2007HUGH01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -5542,9 +5680,9 @@ Key:
 |Nathan C. Houser|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,444,555,333bf,333fm,minx,sq1,444bf,555bf,333mbf|  
 |[Nicolas Aliaga](https://www.worldcubeassociation.org/persons/2019ALIA02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,sq1|  
-|Nihal Menezes|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222|  
-|[Nikhil Anderson](https://www.worldcubeassociation.org/persons/2018ANDE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,555,minx,pyram,skewb|  
-|[Noah Dwyer](https://www.worldcubeassociation.org/persons/2016DWYE01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram,skewb|  
+|Nihal Menezes|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
+|[Nikhil Anderson](https://www.worldcubeassociation.org/persons/2018ANDE02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
+|[Noah Dwyer](https://www.worldcubeassociation.org/persons/2016DWYE01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram,skewb|  
 |[Noah Everett Desserich](https://www.worldcubeassociation.org/persons/2019DESS01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
 |[Noah Kolcz](https://www.worldcubeassociation.org/persons/2019KOLC02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,pyram,skewb|  
 |[Noah Zelkin](https://www.worldcubeassociation.org/persons/2015ZELK01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333bf,minx,pyram,skewb,sq1|  
@@ -5564,24 +5702,25 @@ Key:
 |[Tanner David Slabaugh](https://www.worldcubeassociation.org/persons/2019SLAB01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444|  
 |[Tim Krupinski](https://www.worldcubeassociation.org/persons/2014KRUP02)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,333bf,pyram,skewb|  
 |Tonya Chalfant|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,444,sq1|  
-|Tristan Yoder|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram|  
-|[Ty Portzen](https://www.worldcubeassociation.org/persons/2018PORT10)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,333fm,skewb|  
+|Tristan Yoder|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
+|[Ty Portzen](https://www.worldcubeassociation.org/persons/2018PORT10)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,333fm,pyram,skewb|  
 |[Tyler Brodzinski](https://www.worldcubeassociation.org/persons/2014BROD03)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,333fm,minx,pyram,skewb,sq1,333mbf|  
 |[Wally Kolcz](https://www.worldcubeassociation.org/persons/2019KOLC04)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
-|Will Huge|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,222,444,pyram|  
+|Will Huge|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
 |Will Thompson|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,minx,pyram,skewb,sq1|  
 |Winston Frauhiger|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,pyram|  
 |[Yuxuan Chen](https://www.worldcubeassociation.org/persons/2011CHEN54)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,minx,pyram,skewb|  
 |[Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,777,333bf,minx,pyram,skewb,sq1|  
 |[Zachary Giesken](https://www.worldcubeassociation.org/persons/2017GIES01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222,444,555,666,minx,pyram,skewb,sq1|  
 |Zachary Hardin|NULL|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,222|  
-|[Zachary Zurawski](https://www.worldcubeassociation.org/persons/2019ZURA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Pending|333,333bf,333fm,444bf,555bf,333mbf|  
+|[Zachary Zurawski](https://www.worldcubeassociation.org/persons/2019ZURA01)|USA|[Indiana2019](https://www.worldcubeassociation.org/competitions/Indiana2019)|Accepted|333,333bf,333fm,444bf,555bf,333mbf|  
 |Abriele Bromozentia Qudsi|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,333bf,333oh|  
+|[Achmad Rizki Zakaria](https://www.worldcubeassociation.org/persons/2011ZAKA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,clock,minx,pyram,skewb|  
 |[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,666,777,333ft,333oh,minx,pyram|  
 |Afrian Wira Wardhana|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,333bf|  
 |[Ahmad Naufal Hakim](https://www.worldcubeassociation.org/persons/2011HAKI02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333bf,333fm,skewb,444bf,555bf,333mbf|  
 |[Ahmad Syifa Nurul Fuady](https://www.worldcubeassociation.org/persons/2019FUAD01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,pyram|  
-|[Allan Tabriez Rosyada](https://www.worldcubeassociation.org/persons/2010ROSY02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,666,777,333oh,pyram,skewb|  
+|[Allan Tabriez Rosyada](https://www.worldcubeassociation.org/persons/2010ROSY02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333oh,pyram,skewb|  
 |[Andreas Restu Ardhianto](https://www.worldcubeassociation.org/persons/2010ARDH01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,444,555,777,333bf,333oh,minx|  
 |[Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,666,777,333ft,333oh,clock,minx,sq1|  
 |[Ariq Rifqi Febrian](https://www.worldcubeassociation.org/persons/2017FEBR01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
@@ -5596,23 +5735,28 @@ Key:
 |[Christophorus Kevin Octavio](https://www.worldcubeassociation.org/persons/2012OCTA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333fm,333oh,pyram,skewb|  
 |[Damar Arestyo](https://www.worldcubeassociation.org/persons/2017ARES01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,333oh,pyram,skewb,sq1|  
 |[Danang Adianto](https://www.worldcubeassociation.org/persons/2013DANA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,666,777,333bf,333oh,444bf,333mbf|  
-|Danang Wijaya|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444|  
+|Danang Wijaya|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444|  
 |[Davelno Danish Raziq](https://www.worldcubeassociation.org/persons/2018RAZI02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Denzel AJ Wahyudi|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,pyram|  
 |[Didiet Aditya Bayu Kusuma](https://www.worldcubeassociation.org/persons/2010KUSU02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,444,555,666,777,333bf,333fm,444bf,555bf,333mbf|  
 |Elmo Al Majid|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333|  
+|Faishal ali Rahmadhi|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222|  
 |[Fandy Ramadhan Ganefianto](https://www.worldcubeassociation.org/persons/2011GANE01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Fauzan Rafi Amrullah](https://www.worldcubeassociation.org/persons/2017AMRU01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|pyram,skewb,sq1|  
 |[Fayad Hafiz Attaqi](https://www.worldcubeassociation.org/persons/2016ATTA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Fayyadh Aunilbarr](https://www.worldcubeassociation.org/persons/2010AUNI01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333oh|  
 |[Fikri Ahmad Nabigha](https://www.worldcubeassociation.org/persons/2018NABI03)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,pyram,skewb,sq1|  
 |[Firhan Maulana](https://www.worldcubeassociation.org/persons/2015MAUL01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333fm,333oh|  
+|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Frizzio Caesar Giorgio Wihardja](https://www.worldcubeassociation.org/persons/2017WIHA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,pyram,skewb|  
 |[Gerson Natanael](https://www.worldcubeassociation.org/persons/2010NATA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |Ghulam Ruchdin|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,333oh|  
 |Gilang Candra Adityas|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,pyram|  
+|[Hadyan Jade Santosa](https://www.worldcubeassociation.org/persons/2017SANT03)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333oh,pyram|  
 |[Hafizh Dary Faridhan Hudoyo](https://www.worldcubeassociation.org/persons/2015HUDO01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,skewb,444bf,333mbf|  
 |[Hopi Fattan Prabasukma](https://www.worldcubeassociation.org/persons/2018PRAB04)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,333oh,pyram,skewb|  
-|[Imaniar Juliana](https://www.worldcubeassociation.org/persons/2017JULI04)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,pyram,skewb|  
+|[Imaniar Juliana](https://www.worldcubeassociation.org/persons/2017JULI04)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,pyram,skewb|  
+|Intan Putripratama Fauziarta|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,pyram|  
 |Irfan sihab budin firmansyah|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444|  
 |[Irkham Nur Rizki](https://www.worldcubeassociation.org/persons/2017RIZK06)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
@@ -5645,21 +5789,24 @@ Key:
 |[Muhammad Syafiq Alfarisi](https://www.worldcubeassociation.org/persons/2019ALFA03)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333oh,minx,pyram,sq1|  
 |[Muhammad Zhafran Al-Allam](https://www.worldcubeassociation.org/persons/2011ALAL01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Nabilah Rahmawati](https://www.worldcubeassociation.org/persons/2018RAHM12)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
-|[Nathan Yusuf Ardabili](https://www.worldcubeassociation.org/persons/2018ARDA02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,333bf,333oh,pyram,skewb|  
+|[Nafi Aryasatya](https://www.worldcubeassociation.org/persons/2019ARYA02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,333oh,pyram,skewb|  
+|[Nathan Yusuf Ardabili](https://www.worldcubeassociation.org/persons/2018ARDA02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
 |[Phillip Maxwell](https://www.worldcubeassociation.org/persons/2017MAXW01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
 |[Rafael Samwell](https://www.worldcubeassociation.org/persons/2019SAMW01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,pyram|  
-|[Rhesa Ibnu Wibowo](https://www.worldcubeassociation.org/persons/2019WIBO01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,pyram,skewb|  
+|[Rhesa Ibnu Wibowo](https://www.worldcubeassociation.org/persons/2019WIBO01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,pyram,skewb|  
 |[Rifqi Muhammad Ramadhan](https://www.worldcubeassociation.org/persons/2017RAMA03)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,333oh|  
 |[Rizki Ardianto](https://www.worldcubeassociation.org/persons/2016ARDI01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222|  
 |Robin Rasidy|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444|  
-|[Syafiq Marzuq](https://www.worldcubeassociation.org/persons/2018MARZ01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,333ft,333oh,minx,pyram,sq1|  
+|[Syafiq Marzuq](https://www.worldcubeassociation.org/persons/2018MARZ01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333ft,333oh,minx,pyram,sq1|  
+|Tsaqiba Inayatullah|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222|  
 |Tsesar Rizqi Pradana|NULL|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222|  
+|[Vie'an Huzair Majalawa](https://www.worldcubeassociation.org/persons/2017MAJA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,333fm,sq1|  
 |[Vito Kosasih (高耀梁)](https://www.worldcubeassociation.org/persons/2011KOSA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,555,666,777,333oh,minx|  
 |[Vladimir Pangaribuan](https://www.worldcubeassociation.org/persons/2019PANG10)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333oh,clock,minx,pyram,skewb|  
 |[Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01)|Malaysia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333fm,clock|  
 |[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Wiranto Amin](https://www.worldcubeassociation.org/persons/2017AMIN02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,clock,minx,pyram,skewb|  
-|[Yoganatha Parama Hudaya](https://www.worldcubeassociation.org/persons/2016HUDA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Yoganatha Parama Hudaya](https://www.worldcubeassociation.org/persons/2016HUDA01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Yusuf Abdul Qohhar](https://www.worldcubeassociation.org/persons/2010QOHH01)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
 |[Zaky Kurnia Falah](https://www.worldcubeassociation.org/persons/2017FALA02)|Indonesia|[IndonesianChampionship2019](https://www.worldcubeassociation.org/competitions/IndonesianChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Abror Abduazizov](https://www.worldcubeassociation.org/persons/2017ABDU02)|Uzbekistan|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Deleted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
@@ -5673,7 +5820,7 @@ Key:
 |[Aksel Finanser](https://www.worldcubeassociation.org/persons/2018FINA01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Alen Ayvazoğlu](https://www.worldcubeassociation.org/persons/2018AYVA01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333oh,pyram|  
 |[Ali Atashi (علی آتشی)](https://www.worldcubeassociation.org/persons/2011ATAS01)|Iran|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
-|[Ali Kemal Özbek](https://www.worldcubeassociation.org/persons/2018OZBE01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333fm,333oh,pyram,sq1|  
+|[Ali Kemal Özbek](https://www.worldcubeassociation.org/persons/2018OZBE01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Deleted|333,222,444,555,333fm,333oh,pyram,sq1|  
 |[Ali Rıza Kulaksız](https://www.worldcubeassociation.org/persons/2017KULA01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,333fm,pyram,skewb|  
 |[Alp Terliksiz](https://www.worldcubeassociation.org/persons/2018TERL01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Alper Şakım](https://www.worldcubeassociation.org/persons/2018SAKI01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
@@ -5721,6 +5868,7 @@ Key:
 |[Tolga Kaan Kantarcı](https://www.worldcubeassociation.org/persons/2018KANT01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Deleted|333,222,444,555,333bf,333fm,333oh,sq1|  
 |[Tuna Özsoy](https://www.worldcubeassociation.org/persons/2014OZSO02)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Utku Yılmaz](https://www.worldcubeassociation.org/persons/2018YILM06)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
+|[Yeşim Gürbüz](https://www.worldcubeassociation.org/persons/2019GURB01)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,555,minx|  
 |[Yiğit Eren Bakır](https://www.worldcubeassociation.org/persons/2018BAKI04)|Turkey|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333,222,444,333bf,333fm,333oh,minx,skewb|  
 |Yusuf Çökren|NULL|[IstanbulSummer2019](https://www.worldcubeassociation.org/competitions/IstanbulSummer2019)|Accepted|333|  
 |[Adrian Estrada](https://www.worldcubeassociation.org/persons/2010ESTR01)|Peru|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
@@ -5741,6 +5889,7 @@ Key:
 |[Andrea Marconato](https://www.worldcubeassociation.org/persons/2017MARC08)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb|  
 |[Angelo Pio Lo Giudice](https://www.worldcubeassociation.org/persons/2016GIUD01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Anna Battistini](https://www.worldcubeassociation.org/persons/2016BATT05)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,clock,minx,pyram,skewb|  
+|Anthony La Montagna|NULL|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333|  
 |[Aris Patronis](https://www.worldcubeassociation.org/persons/2017PATR08)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Bruno Rosa](https://www.worldcubeassociation.org/persons/2017ROSA09)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333|  
 |[Carolina Guidetti](https://www.worldcubeassociation.org/persons/2017GUID01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
@@ -5759,7 +5908,7 @@ Key:
 |[Davide Cioni](https://www.worldcubeassociation.org/persons/2018CION01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,333oh,clock,pyram|  
 |Dennis Correro|NULL|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333|  
 |[Edoardo Brown](https://www.worldcubeassociation.org/persons/2016BROW06)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
-|[Edoardo Cattivera](https://www.worldcubeassociation.org/persons/2018CATT01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333|  
+|[Edoardo Cattivera](https://www.worldcubeassociation.org/persons/2018CATT01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333|  
 |[Edoardo Landa](https://www.worldcubeassociation.org/persons/2019LAND04)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,pyram,skewb|  
 |[Elias Walter Ebner](https://www.worldcubeassociation.org/persons/2018EBNE02)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Emanuele Lamon](https://www.worldcubeassociation.org/persons/2017LAMO01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
@@ -5789,7 +5938,7 @@ Key:
 |[Giuseppe Pappalardo](https://www.worldcubeassociation.org/persons/2016PAPP02)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|666,777,minx|  
 |[Ivan Micieli](https://www.worldcubeassociation.org/persons/2018MICI01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,skewb|  
-|[Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01)|Slovenia|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,sq1|  
+|[Jernej Omulec](https://www.worldcubeassociation.org/persons/2010OMUL01)|Slovenia|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,sq1|  
 |[Joshua Hannant](https://www.worldcubeassociation.org/persons/2018HANN04)|USA|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,clock,pyram,skewb|  
 |[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |Leonardo Canello|NULL|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333,222,pyram,skewb|  
@@ -5834,6 +5983,7 @@ Key:
 |[Paolo Moriello](https://www.worldcubeassociation.org/persons/2009MORI05)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh|  
 |[Paolo Resta](https://www.worldcubeassociation.org/persons/2018REST04)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Pending|333,222,444,555,666,333bf,333oh,sq1,333mbf|  
 |[Pauline Clémenceau](https://www.worldcubeassociation.org/persons/2015CLEM03)|France|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Pietro Furbatto](https://www.worldcubeassociation.org/persons/2016FURB01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,pyram,skewb,sq1,333mbf|  
 |[Pietro Gasparetto](https://www.worldcubeassociation.org/persons/2016GASP01)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb|  
 |[Pietro Mazza](https://www.worldcubeassociation.org/persons/2019MAZZ02)|Italy|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb,sq1|  
 |Ponzio Marco|NULL|[ItalianChampionship2019](https://www.worldcubeassociation.org/competitions/ItalianChampionship2019)|Accepted|333,444,skewb|  
@@ -5910,11 +6060,64 @@ Key:
 |[Theo Skoog](https://www.worldcubeassociation.org/persons/2018SKOO01)|Sweden|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|minx,pyram,skewb,sq1|  
 |[Theodor Nordstrand](https://www.worldcubeassociation.org/persons/2016NORD02)|Sweden|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Thomas Jansson](https://www.worldcubeassociation.org/persons/2017JANS02)|Sweden|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|333bf,pyram,333mbf|  
+|Tiago Schale|NULL|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Deleted|666,333bf,333ft,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Tiffany Soh (蘇明珠)](https://www.worldcubeassociation.org/persons/2010SOHT01)|Malaysia|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,333ft,clock,minx,pyram,skewb,sq1|  
 |[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Croatia|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,333ft,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01)|Sweden|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,333ft,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01)|Lithuania|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,333ft,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|[JonkopingSideEvents2019](https://www.worldcubeassociation.org/competitions/JonkopingSideEvents2019)|Accepted|666,333bf,333ft,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Atsushi Wada (和田篤史)](https://www.worldcubeassociation.org/persons/2019WADA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Fumika Hoshino (星野史佳)](https://www.worldcubeassociation.org/persons/2018HOSH01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Hyu Iwata (岩田飛生)](https://www.worldcubeassociation.org/persons/2019IWAT01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|Katsuaki Iwasa (岩佐克彰)|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Kazuki Ojima (尾島和樹)](https://www.worldcubeassociation.org/persons/2017OJIM01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Kazuki Sakamoto (坂本一樹)](https://www.worldcubeassociation.org/persons/2017SAKA03)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram|  
+|[Kazuya Okada (岡田和也)](https://www.worldcubeassociation.org/persons/2018OKAD01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,pyram|  
+|[Kengo Yamawaki (山脇憲吾)](https://www.worldcubeassociation.org/persons/2012YAMA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Kenji Isebaba (伊勢馬場健次)](https://www.worldcubeassociation.org/persons/2019ISEB01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Kohdai Kusatani (草谷幸大)](https://www.worldcubeassociation.org/persons/2017KUSA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Koki Matsubara (松原功樹)](https://www.worldcubeassociation.org/persons/2019MATS02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|KosukeMatsuyama(松山公丞)|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Kyohei Nakano (中野恭兵)](https://www.worldcubeassociation.org/persons/2019NAKA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Makoto Takaoka (高岡誠)](https://www.worldcubeassociation.org/persons/2013TAKA02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram,skewb|  
+|[Maku Nakano (中野蒔)](https://www.worldcubeassociation.org/persons/2019NAKA05)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram|  
+|[Masaaki Suda (須田將昭)](https://www.worldcubeassociation.org/persons/2017SUDA03)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Masaaki Tanaka (田中正晃)](https://www.worldcubeassociation.org/persons/2016TANA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram,skewb|  
+|[Matsura Kazuho (松浦和歩)](https://www.worldcubeassociation.org/persons/2019KAZU01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Mieko Isomoto (磯本美恵子)](https://www.worldcubeassociation.org/persons/2019ISOM01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Naoki Tani (谷直輝)](https://www.worldcubeassociation.org/persons/2017TANI04)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Raphaël Pihet](https://www.worldcubeassociation.org/persons/2011PIHE01)|France|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram,skewb|  
+|Rei Fujiwara(藤原礼)|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Ren Kakumu (各務連)](https://www.worldcubeassociation.org/persons/2019KAKU02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Riri Kakumu (各務莉吏)](https://www.worldcubeassociation.org/persons/2019KAKU03)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|Ritsu Chikazawa|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Ryo Momosaki (百崎怜)](https://www.worldcubeassociation.org/persons/2019MOMO02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Ryota Aoki (青木涼太)](https://www.worldcubeassociation.org/persons/2016AOKI02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram|  
+|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,pyram,skewb|  
+|[Seiya Tsuji (辻聖也)](https://www.worldcubeassociation.org/persons/2017TSUJ02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,pyram|  
+|[Shinichiro Sato (佐藤真一郎)](https://www.worldcubeassociation.org/persons/2009SATO02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram|  
+|[Shoko Wada (和田昌子)](https://www.worldcubeassociation.org/persons/2019WADA02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Sinpei Araki (荒木慎平)](https://www.worldcubeassociation.org/persons/2006ARAK01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Soichiro Yagura](https://www.worldcubeassociation.org/persons/2018YAGU01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|Takashi Kubota(久保田隆司)|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,pyram|  
+|[Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Teruki Tamura (田村旭輝)](https://www.worldcubeassociation.org/persons/2016TAMU01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Toshifumi Hanada (花田敏文)](https://www.worldcubeassociation.org/persons/2018HANA02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Toshio Hoshino (星野利夫)](https://www.worldcubeassociation.org/persons/2018HOSH02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Vincent Jovian](https://www.worldcubeassociation.org/persons/2011JOVI01)|Indonesia|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Yoji Ogura (小倉洋二)](https://www.worldcubeassociation.org/persons/2017OGUR02)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Yudai Yamamoto (山本雄大)](https://www.worldcubeassociation.org/persons/2019YAMA07)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Yugo Lecacheur (ルカシャー勇悟)](https://www.worldcubeassociation.org/persons/2019LECA01)|France|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|[Yuki Hasegawa (長谷川裕己)](https://www.worldcubeassociation.org/persons/2018HASE03)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,skewb|  
+|[Yuki Nakahira (中平侑希)](https://www.worldcubeassociation.org/persons/2019NAKA06)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222,pyram,skewb|  
+|[Yuki Nomura (野村優希)](https://www.worldcubeassociation.org/persons/2019NOMU01)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,222|  
+|[Yusuke Takada (高田祐介)](https://www.worldcubeassociation.org/persons/2015TAKA05)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333,skewb|  
+|[Yuta Takarada (寶田雄太)](https://www.worldcubeassociation.org/persons/2019TAKA07)|Japan|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|坂西 亮哉|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|松本　智子|NULL|[KansaiSummer2019](https://www.worldcubeassociation.org/competitions/KansaiSummer2019)|Accepted|333|  
+|Anastasia Bilous (Анастасія Білоус)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,pyram,skewb|  
+|[Andrii Kompaniiets (Андрій Компанієць)](https://www.worldcubeassociation.org/persons/2009KOMP01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333|  
 |[Andrii Lushpak (Андрій Лушпак)](https://www.worldcubeassociation.org/persons/2016LUSH02)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
 |[Andrii Vasyliev (Андрій Васильєв)](https://www.worldcubeassociation.org/persons/2018VASY01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Artur Zadniprovskyi (Артур Задніпровський)](https://www.worldcubeassociation.org/persons/2018ZADN01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
@@ -5933,15 +6136,19 @@ Key:
 |[Hleb Marchenko (Глеб Марченко)](https://www.worldcubeassociation.org/persons/2017MARC12)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,clock,minx,pyram,skewb|  
 |[Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,555,666,777,333oh,minx,pyram|  
 |[Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|[Illia Bykov (Ілля Биков)](https://www.worldcubeassociation.org/persons/2018BYKO01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb,sq1|  
+|[Ihor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,444,333bf,minx|  
+|[Illia Bykov (Ілля Биков)](https://www.worldcubeassociation.org/persons/2018BYKO01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |[Illia Fursov (Ілля Фурсов)](https://www.worldcubeassociation.org/persons/2017FURS01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,clock,minx,pyram,skewb,sq1|  
 |[Illia Kozlov (Ілля Козлов)](https://www.worldcubeassociation.org/persons/2019KOZL05)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,skewb|  
 |[Ilya Kerymov (Ілля Керимов)](https://www.worldcubeassociation.org/persons/2017KERY01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,666,333bf,333ft,333oh,minx|  
 |Ivan Kalinin (Іван Калінін)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,pyram|  
+|[Ivan Kravchenko (Іван Кравченко)](https://www.worldcubeassociation.org/persons/2013KRAV01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,555,666,333oh,clock,minx,skewb,sq1|  
+|[Ivan Novhorodskyi (Іван Новгородський)](https://www.worldcubeassociation.org/persons/2017NOVH01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,pyram|  
 |Ivan Solopov|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
 |[Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01)|Russia|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Deleted|333,222,444,555,666,777,333bf,333ft,333oh,minx|  
 |[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,444,555,777,333oh,minx|  
 |Kosenko Artem|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,pyram,skewb|  
+|[Kostiantyn Koptiev (Костянтин Коптєв)](https://www.worldcubeassociation.org/persons/2014KOPT01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,333oh,pyram,skewb|  
 |[Kyryl Kryvenko (Кирил Кривенко)](https://www.worldcubeassociation.org/persons/2018KRYV01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,clock,pyram,skewb|  
 |[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Mariia Mazel (Марiя Мазел)](https://www.worldcubeassociation.org/persons/2015MAZE01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
@@ -5962,7 +6169,8 @@ Key:
 |Timofii Sukachov  (Тимофій Сукачов)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh|  
 |[Timur Karpichenkov (Тимур Карпіченков)](https://www.worldcubeassociation.org/persons/2019KARP05)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb|  
 |[Valeriia Volova (Валерія Волова)](https://www.worldcubeassociation.org/persons/2018VOLO03)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,pyram,skewb,sq1|  
-|Viet Nam Nguien (В'єт Нам Нгуєн)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222|  
+|Viet Nam Nguien (В'єт Нам Нгуєн)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222|  
+|Vladislav Popov|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Deleted|333,222,333oh,pyram|  
 |Vladyslav Guba (Владислав Губа)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,skewb|  
 |[Vladyslav Hordiienko (Владислав Гордієнко)](https://www.worldcubeassociation.org/persons/2018HORD01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,555,666,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Vladyslav Khval'chev (Владислав Хвальчев)](https://www.worldcubeassociation.org/persons/2019KHVA03)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,pyram,skewb|  
@@ -5978,6 +6186,7 @@ Key:
 |[Yevgenii Paliyivets' (Євгеній Паліївець)](https://www.worldcubeassociation.org/persons/2019PALI03)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |Yevhenii Kryvoruchko (Євгеній Криворучко)|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222|  
 |[Yevheniia Melnykova (Євгенія Мельникова)](https://www.worldcubeassociation.org/persons/2016MELN01)|Ukraine|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Accepted|333,222,444,555,666,333oh,minx|  
+|Давид Бондаренко|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,pyram,skewb|  
 |Ярослав Иванов|NULL|[KharkivOpen2019](https://www.worldcubeassociation.org/competitions/KharkivOpen2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
 |[Akimi Hara (原明海)](https://www.worldcubeassociation.org/persons/2014HARA03)|Japan|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333|  
 |[Andrew Bae](https://www.worldcubeassociation.org/persons/2014BAEA01)|USA|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,skewb|  
@@ -6131,7 +6340,7 @@ Key:
 |Sungha Park (박성하)|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,444,333bf|  
 |[Suyoung Lee (이수영)](https://www.worldcubeassociation.org/persons/2013LEES04)|Korea|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,333bf,clock|  
 |[Tae-Oh Kim (김태오)](https://www.worldcubeassociation.org/persons/2013KIMT01)|Korea|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,222,444,333bf,333oh,clock,pyram|  
-|Um Jun Ha|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,444,555,skewb|  
+|Um Jun Ha (엄준하)|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,444,555,skewb|  
 |Won Chan Noh (노원찬)|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,333oh|  
 |Woo-Joo Lee (이우주)|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333bf,333mbf|  
 |[Yang Seongjun (양성준)](https://www.worldcubeassociation.org/persons/2018SEON04)|Korea|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,222,333bf|  
@@ -6158,6 +6367,7 @@ Key:
 |최재락|NULL|[KoreanChampionship2019](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019)|Accepted|333,pyram|  
 |Aleksandr Sheverev (Александр Шеверев)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Alexander Gusev](https://www.worldcubeassociation.org/persons/2017GUSE03)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,minx,sq1|  
+|Alexey Basov (Алексей Басов)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,skewb|  
 |[Alexey Gundin (Алексей Гундин)](https://www.worldcubeassociation.org/persons/2018GUND03)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,clock|  
 |[Alisa Robota (Алиса Робота)](https://www.worldcubeassociation.org/persons/2018ROBO01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram|  
 |[Andrey Pashkov (Андрей Пашков)](https://www.worldcubeassociation.org/persons/2019PASH03)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
@@ -6189,11 +6399,13 @@ Key:
 |[Islam Kitiev](https://www.worldcubeassociation.org/persons/2017KITI02)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |Ivan Efremenko (Иван Ефременко)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,333bf,333oh,minx|  
 |[Ivan Novokhatskiy (Иван Новохацкий)](https://www.worldcubeassociation.org/persons/2018NOVO02)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,333bf,333oh|  
+|Ivan Rudskoy (Иван Рудской)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram|  
 |[Kira Chayka](https://www.worldcubeassociation.org/persons/2016CHAY01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Kirill Ostretsov (Кирилл Острецов)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram|  
 |[Konstantin Botikov (Константин Ботиков)](https://www.worldcubeassociation.org/persons/2018BOTI01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333|  
 |Ladomila Zveryuk (Ладомила Зверюк)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333|  
 |[Lev Maslov](https://www.worldcubeassociation.org/persons/2017MASL06)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx|  
+|Maksim Motovilin (Максим Мотовилин)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram|  
 |[Maria Zazarenko](https://www.worldcubeassociation.org/persons/2017ZAZA04)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,333bf,333oh,sq1|  
 |[Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Maxim Soloveychenko (Максим Соловейченко)](https://www.worldcubeassociation.org/persons/2018SOLO13)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,333oh,minx,pyram|  
@@ -6209,6 +6421,7 @@ Key:
 |[Sergey Chirin](https://www.worldcubeassociation.org/persons/2015CHIR01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |[Sergey Churilov](https://www.worldcubeassociation.org/persons/2016CHUR03)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram|  
 |[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
+|[Sofiya Bondarenko](https://www.worldcubeassociation.org/persons/2017BOND07)|Ukraine|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Stanislav Shleev](https://www.worldcubeassociation.org/persons/2013SHLE01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,skewb|  
 |[Stepan Makarenko](https://www.worldcubeassociation.org/persons/2017MAKA06)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,minx,sq1|  
 |[Timur Imanov](https://www.worldcubeassociation.org/persons/2018IMAN01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
@@ -6218,12 +6431,14 @@ Key:
 |[Vladimir Goncharov (Владимир Гончаров)](https://www.worldcubeassociation.org/persons/2018GONC03)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Vladimir Mikhailyuk](https://www.worldcubeassociation.org/persons/2017MIKH02)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Vladislav Kozhin](https://www.worldcubeassociation.org/persons/2015KOZH01)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
+|Vladislav Kuznetsov (Владислав Кузнецов)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram|  
 |[Vladislav Malashchuk (Владислав Малащук)](https://www.worldcubeassociation.org/persons/2018MALA09)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,333oh,pyram,sq1|  
 |[Vladislav Saminin (Владислав Сaминин)](https://www.worldcubeassociation.org/persons/2019SAMI04)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Vladislav Solodin (Владислав Солодин)](https://www.worldcubeassociation.org/persons/2018SOLO14)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |Vyacheslav Zveryuk (Вячеслав Зверюк)|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333|  
 |[Yaroslav Malashchuk (Ярослав Малащук)](https://www.worldcubeassociation.org/persons/2018MALA10)|Russia|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |Алексей|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Pending|333,222,333oh,pyram,skewb,sq1|  
+|Сергей|NULL|[KurskOpen2019](https://www.worldcubeassociation.org/competitions/KurskOpen2019)|Pending|333|  
 |[Adam Greenwood](https://www.worldcubeassociation.org/persons/2011GREE03)|United Kingdom|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
 |[Alejandro Ramin](https://www.worldcubeassociation.org/persons/2016RAMI23)|Argentina|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Alex Burns](https://www.worldcubeassociation.org/persons/2017BURN05)|United Kingdom|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Deleted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
@@ -6257,6 +6472,7 @@ Key:
 |[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|Switzerland|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
 |[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,333bf,333oh,minx,pyram,skewb|  
 |[Ioannis Papadopoulos](https://www.worldcubeassociation.org/persons/2013PAPA01)|Greece|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333bf,minx,skewb|  
+|[Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01)|Austria|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
 |[Jannik Gartmann](https://www.worldcubeassociation.org/persons/2016GART01)|Liechtenstein|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb|  
 |Jeremia E. Neuhold|NULL|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,pyram|  
 |[Jiacheng Xu (徐嘉诚)](https://www.worldcubeassociation.org/persons/2013XUJI02)|China|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333oh|  
@@ -6288,6 +6504,7 @@ Key:
 |Noel Lieli|NULL|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Deleted|333,222|  
 |[Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01)|Russia|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
 |[Ondřej Berger](https://www.worldcubeassociation.org/persons/2017BERG08)|Czech Republic|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
+|[Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02)|Denmark|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,444,555,minx,pyram|  
 |[Philipp Schiemer](https://www.worldcubeassociation.org/persons/2018SCHI05)|Austria|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|222,555,666,777|  
 |[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,444,555,333oh|  
 |[Philippe Schwartz](https://www.worldcubeassociation.org/persons/2018SCHW02)|Luxembourg|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,pyram,skewb|  
@@ -6310,6 +6527,7 @@ Key:
 |[Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01)|Germany|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
 |[Yannick Balsiger](https://www.worldcubeassociation.org/persons/2017BALS01)|Switzerland|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb|  
 |[Yulia Gritsenko](https://www.worldcubeassociation.org/persons/2012SIDO01)|Russia|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,222|  
+|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[LiechtensteinOpen2019](https://www.worldcubeassociation.org/competitions/LiechtensteinOpen2019)|Accepted|333,444,555,666,777,minx,pyram|  
 |[Agustín Mera Landa](https://www.worldcubeassociation.org/persons/2019LAND01)|Chile|[LosAngelesalCubo2019](https://www.worldcubeassociation.org/competitions/LosAngelesalCubo2019)|Pending|333,222|  
 |Alan Aarón Del Río Balboa|NULL|[LosAngelesalCubo2019](https://www.worldcubeassociation.org/competitions/LosAngelesalCubo2019)|Accepted|333,222,pyram|  
 |[Alberto Antonio Ávila Muñoz](https://www.worldcubeassociation.org/persons/2019MUNO08)|Chile|[LosAngelesalCubo2019](https://www.worldcubeassociation.org/competitions/LosAngelesalCubo2019)|Accepted|333,222,444,pyram|  
@@ -6405,6 +6623,7 @@ Key:
 |[Basil Schumacher](https://www.worldcubeassociation.org/persons/2019SCHU06)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
 |[Ben Zwicky](https://www.worldcubeassociation.org/persons/2018ZWIC01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
 |[Benjamin Meylan](https://www.worldcubeassociation.org/persons/2019MEYL01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333|  
+|[Björn Oehlinger](https://www.worldcubeassociation.org/persons/2018OEHL01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Pending|333,444,pyram|  
 |[Christian Ruckli](https://www.worldcubeassociation.org/persons/2018RUCK01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
 |Cyrill Speiser|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram|  
 |Daniel Corjin|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
@@ -6412,10 +6631,11 @@ Key:
 |[Daniel Houghton](https://www.worldcubeassociation.org/persons/2016HOUG03)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,pyram|  
 |[David Rometsch](https://www.worldcubeassociation.org/persons/2019ROME03)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Deleted|333,222,444,333bf,333fm|  
 |[David Salzgeber](https://www.worldcubeassociation.org/persons/2017SALZ01)|Austria|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
-|[Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram|  
+|[Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram|  
 |Fabian Liechti|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,pyram|  
 |[Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram|  
 |[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram|  
+|Filip Wolarczyk|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Pending|333,222|  
 |[Fridolin Hunziker](https://www.worldcubeassociation.org/persons/2018HUNZ01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333oh,minx,pyram|  
 |[Gordon Findlay](https://www.worldcubeassociation.org/persons/2017FIND02)|United Kingdom|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
 |[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram|  
@@ -6445,7 +6665,7 @@ Key:
 |[Morris Zimmermann](https://www.worldcubeassociation.org/persons/2019ZIMM03)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,pyram|  
 |Nick Ettlin|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|pyram|  
 |[Nicolas Fintan Maisch](https://www.worldcubeassociation.org/persons/2019MAIS01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Deleted|333,222,pyram|  
-|[Nicolas Schmied](https://www.worldcubeassociation.org/persons/2017SCHM13)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
+|[Nicolas Schmied](https://www.worldcubeassociation.org/persons/2017SCHM13)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
 |[Nino Marko Sostaric](https://www.worldcubeassociation.org/persons/2019SOST01)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444|  
 |Norwin Ettlin|NULL|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,333oh,pyram|  
 |[Olivier Landsmeer](https://www.worldcubeassociation.org/persons/2017LAND03)|Switzerland|[LYNCubingDays2019](https://www.worldcubeassociation.org/competitions/LYNCubingDays2019)|Accepted|333,222,444,555,333bf,333fm,pyram|  
@@ -6506,7 +6726,7 @@ Key:
 |[Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |[Chadwyk Ocampo](https://www.worldcubeassociation.org/persons/2018OCAM01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,pyram,skewb|  
 |[Christian Angelo Araneta Naguio](https://www.worldcubeassociation.org/persons/2016NAGU02)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|444,555,333bf,minx,444bf|  
-|[Clarence Kinsey G. Orozco](https://www.worldcubeassociation.org/persons/2018OROZ01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,444bf|  
+|[Clarence Kinsey G. Orozco](https://www.worldcubeassociation.org/persons/2018OROZ01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555,333oh,clock,minx,pyram,skewb,444bf|  
 |Clark Danielle T. Galvez|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,skewb|  
 |Cleon Angelo Angeles|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333|  
 |Cyril Jerome C.Santiago|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
@@ -6526,7 +6746,7 @@ Key:
 |[Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,555,333oh,minx,skewb|  
 |[Ivan Keith Cariaga](https://www.worldcubeassociation.org/persons/2017CARI02)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Jacob Santos](https://www.worldcubeassociation.org/persons/2018SANT16)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,444,333oh,sq1|  
-|[Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1,444bf|  
+|[Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1,444bf|  
 |[James Iver Lubang](https://www.worldcubeassociation.org/persons/2016LUBA01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555,333oh,pyram|  
 |[James Michael R. Salise](https://www.worldcubeassociation.org/persons/2019SALI05)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,333oh,pyram|  
 |[Jan Vincent G. Sebastian](https://www.worldcubeassociation.org/persons/2018SEBA02)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,333oh,pyram,skewb|  
@@ -6560,7 +6780,7 @@ Key:
 |[Nina Reyes](https://www.worldcubeassociation.org/persons/2018REYE04)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,333bf,minx,444bf|  
 |[Niño Francis S. Reyes](https://www.worldcubeassociation.org/persons/2012REYE04)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555|  
 |[Niño Jiekurt M. Canlas](https://www.worldcubeassociation.org/persons/2019CANL01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,333oh|  
-|Paulvince C Nitafan|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|Paulvince C. Nitafan|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Rafael M. Valderrama|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
 |[Richmond Mico Rigor](https://www.worldcubeassociation.org/persons/2013RIGO01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,444,555,333oh|  
 |[Rovic Zane De Leon](https://www.worldcubeassociation.org/persons/2019LEON14)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,pyram,skewb|  
@@ -6571,6 +6791,7 @@ Key:
 |[Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01)|Philippines|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Pending|333,222,444,555,333bf,333oh,clock,pyram,skewb,sq1,444bf|  
 |Zeus Del Mundo|NULL|[MarikinaCityOpenII2019](https://www.worldcubeassociation.org/competitions/MarikinaCityOpenII2019)|Deleted|333|  
 |[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Germany|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Deleted|333bf,333fm,444bf,555bf,333mbf|  
 |[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01)|Italy|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,333fm|  
 |[Gert van Hout](https://www.worldcubeassociation.org/persons/2018HOUT01)|Netherlands|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,444bf,555bf,333mbf|  
@@ -6596,13 +6817,19 @@ Key:
 |[Timo Forsthofer](https://www.worldcubeassociation.org/persons/2018FORS03)|Germany|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01)|Italy|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333fm|  
 |[Willem Klose](https://www.worldcubeassociation.org/persons/2017KLOS01)|Germany|[MentalBreakdownGermany2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
-|[Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft,333mbf|  
-|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft,333mbf|  
+|[Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft,333mbf|  
+|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft,333mbf|  
 |[Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01)|Singapore|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm|  
+|[Ivan Goh Tat Wei](https://www.worldcubeassociation.org/persons/2019WEII01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft|  
+|[Kaemen Te Dengjian](https://www.worldcubeassociation.org/persons/2016DENG16)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft,333mbf|  
+|[Keenan Yau Zhen Yang](https://www.worldcubeassociation.org/persons/2019YANG02)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft|  
 |[Lim Hung](https://www.worldcubeassociation.org/persons/2016HUNG08)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft|  
-|[Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft,333mbf|  
-|[Siew Hann Wen (蕭漢文)](https://www.worldcubeassociation.org/persons/2010WENS01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft|  
-|[Tiffany Soh (蘇明珠)](https://www.worldcubeassociation.org/persons/2010SOHT01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Pending|333fm,333ft|  
+|[Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft,333mbf|  
+|[Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01)|Indonesia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333ft,333mbf|  
+|[Nicholas Tan Jun Wei](https://www.worldcubeassociation.org/persons/2017WEIN03)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft,333mbf|  
+|[Siew Hann Wen (蕭漢文)](https://www.worldcubeassociation.org/persons/2010WENS01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft|  
+|[Tiffany Soh (蘇明珠)](https://www.worldcubeassociation.org/persons/2010SOHT01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft|  
+|[Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01)|Malaysia|[MerdekaMindGames2019](https://www.worldcubeassociation.org/competitions/MerdekaMindGames2019)|Accepted|333fm,333ft|  
 |Abhinav Jain|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222|  
 |[Adam Johnson](https://www.worldcubeassociation.org/persons/2018JOHN33)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Alex Hope](https://www.worldcubeassociation.org/persons/2019HOPE01)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|222,pyram|  
@@ -6616,14 +6843,16 @@ Key:
 |Ben Iorio|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,444,555,666,333oh,pyram,skewb|  
 |[Ben Zoller](https://www.worldcubeassociation.org/persons/2013ZOLL01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Benjamin Pugh](https://www.worldcubeassociation.org/persons/2014PUGH01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
-|[Benjamin Stensen](https://www.worldcubeassociation.org/persons/2016STEN01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,skewb,sq1|  
+|[Benjamin Stensen](https://www.worldcubeassociation.org/persons/2016STEN01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Deleted|333,222,444,555,skewb,sq1|  
 |[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Brandon Gray](https://www.worldcubeassociation.org/persons/2019GRAY06)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,minx,pyram,skewb|  
 |[Brandon Joerges](https://www.worldcubeassociation.org/persons/2019JOER01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,333bf,pyram,skewb|  
 |[Brandon Manke](https://www.worldcubeassociation.org/persons/2018MANK04)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,444,555,333bf,333oh|  
+|Brayden William Gardon|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,pyram,skewb|  
 |[Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,777,333bf,minx,pyram,skewb,sq1|  
 |Caleb Howard|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|444,555,777,minx|  
 |Carter Ravenstone|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222|  
+|[Charlie Zurowski](https://www.worldcubeassociation.org/persons/2019ZURO01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
 |[Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Christopher Mester](https://www.worldcubeassociation.org/persons/2017MEST01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Cole Erwin](https://www.worldcubeassociation.org/persons/2018ERWI01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|444,555,666,333oh,minx|  
@@ -6642,6 +6871,7 @@ Key:
 |[Elijah Strait](https://www.worldcubeassociation.org/persons/2019STRA04)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222|  
 |[Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Ethan Hardy](https://www.worldcubeassociation.org/persons/2018HARD03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
+|Evan McMullen|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333|  
 |[Gavin Dorr](https://www.worldcubeassociation.org/persons/2018DORR01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Grant Belanger](https://www.worldcubeassociation.org/persons/2018BELA06)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Graydon Corns](https://www.worldcubeassociation.org/persons/2019CORN04)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
@@ -6674,6 +6904,7 @@ Key:
 |[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Kyle Keating](https://www.worldcubeassociation.org/persons/2015KEAT01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,444,555,skewb|  
 |Kyle Pryce|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333|  
+|[Lachlan MacLean Gardon](https://www.worldcubeassociation.org/persons/2018GARD02)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,pyram,skewb|  
 |[Landyn Bisard](https://www.worldcubeassociation.org/persons/2017BISA01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Levi Howard|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Deleted|444,555,777,minx|  
@@ -6686,6 +6917,7 @@ Key:
 |Luke Melikian|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Malek Awde](https://www.worldcubeassociation.org/persons/2018AWDE01)|Palestine|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222|  
 |[Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Deleted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|Marcos Llanes|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Mason Bellinger](https://www.worldcubeassociation.org/persons/2018BELL15)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,pyram,skewb|  
 |[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -6721,7 +6953,7 @@ Key:
 |[Ryan DeLine](https://www.worldcubeassociation.org/persons/2012DELI01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,333bf,333fm,333oh,clock,444bf,555bf,333mbf|  
 |[Ryan Hope](https://www.worldcubeassociation.org/persons/2018HOPE02)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,pyram|  
 |[Ryan Wilson](https://www.worldcubeassociation.org/persons/2014WILS03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,333bf,333oh,pyram,skewb,sq1,333mbf|  
-|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Sanjith Udupa|NULL|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,pyram|  
 |[Sarah Strong](https://www.worldcubeassociation.org/persons/2007STRO01)|Canada|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,555,777,333fm,minx,pyram|  
 |[Sean Howe](https://www.worldcubeassociation.org/persons/2019HOWE02)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222|  
@@ -6741,12 +6973,14 @@ Key:
 |[Yusuf Ali Imami](https://www.worldcubeassociation.org/persons/2018IMAM01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Pending|333,222,444,333oh|  
 |[Yuxuan Chen](https://www.worldcubeassociation.org/persons/2011CHEN54)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Zachary Garber](https://www.worldcubeassociation.org/persons/2014GARB01)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
-|[Zakary Goldinger](https://www.worldcubeassociation.org/persons/2018GOLD03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,333oh,minx|  
+|[Zakary Goldinger](https://www.worldcubeassociation.org/persons/2018GOLD03)|USA|[Michigan2019](https://www.worldcubeassociation.org/competitions/Michigan2019)|Accepted|333,222,444,555,666,777,minx,pyram|  
 |[Adhvaith Mhahesh](https://www.worldcubeassociation.org/persons/2017MHAH01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |Aiden Xie|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Alexander Estrella](https://www.worldcubeassociation.org/persons/2017ESTR06)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Andrew Vauter](https://www.worldcubeassociation.org/persons/2015VAUT01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,333bf|  
+|[Austin Smith](https://www.worldcubeassociation.org/persons/2015SMIT01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,pyram|  
 |[Brady Mayou](https://www.worldcubeassociation.org/persons/2018MAYO04)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
+|[Brandyn Bogucki](https://www.worldcubeassociation.org/persons/2018BOGU01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Carly Whitelaw](https://www.worldcubeassociation.org/persons/2019WHIT09)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Charley Reavley](https://www.worldcubeassociation.org/persons/2017REAV02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Clary Thompson](https://www.worldcubeassociation.org/persons/2019THOM09)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
@@ -6754,10 +6988,12 @@ Key:
 |[Dana Conard](https://www.worldcubeassociation.org/persons/2013CONA02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Declan Kilroy|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Dominic Heising](https://www.worldcubeassociation.org/persons/2017HEIS02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Edison Hayes](https://www.worldcubeassociation.org/persons/2017HAYE03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,pyram|  
 |[Elaina Wintringham](https://www.worldcubeassociation.org/persons/2016WINT01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Elijah Miller](https://www.worldcubeassociation.org/persons/2016MILL15)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Elijah Strait](https://www.worldcubeassociation.org/persons/2019STRA04)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222|  
 |Elizabeth Berquist|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
+|[Elliott Perkins](https://www.worldcubeassociation.org/persons/2018PERK01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Emanuel Eden|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Enzo Restivo](https://www.worldcubeassociation.org/persons/2019REST02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222|  
 |[Ethan Hardy](https://www.worldcubeassociation.org/persons/2018HARD03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,444,333oh,pyram|  
@@ -6773,10 +7009,15 @@ Key:
 |[Guillermo Velasco](https://www.worldcubeassociation.org/persons/2019VELA02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Harsha Paladugu](https://www.worldcubeassociation.org/persons/2017PALA08)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |[Henry J. Buehrer](https://www.worldcubeassociation.org/persons/2018BUEH01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
+|[Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,444,333oh,pyram|  
+|[Jack Philp-Geary McCormack](https://www.worldcubeassociation.org/persons/2019MCCO05)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
+|[Jason Kochan](https://www.worldcubeassociation.org/persons/2018KOCH05)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Jeffrey Kochan](https://www.worldcubeassociation.org/persons/2018KOCH10)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Jenna Jaber](https://www.worldcubeassociation.org/persons/2019JABE01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |Joel Moreno|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444|  
 |[John Coon](https://www.worldcubeassociation.org/persons/2016COON01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Johnathon Gaynor](https://www.worldcubeassociation.org/persons/2017GAYN01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Joseph Putman](https://www.worldcubeassociation.org/persons/2018PUTM02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,333oh,pyram|  
 |[Joshua Chen](https://www.worldcubeassociation.org/persons/2017CHEN14)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |[Joshua Weigt](https://www.worldcubeassociation.org/persons/2017WEIG02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |[Josiah Wilson](https://www.worldcubeassociation.org/persons/2017WILS05)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
@@ -6787,6 +7028,7 @@ Key:
 |[Kayla Brown](https://www.worldcubeassociation.org/persons/2017BROW08)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |[Kevin Casey](https://www.worldcubeassociation.org/persons/2017CASE03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |[Lennon Young](https://www.worldcubeassociation.org/persons/2015YOUN03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
+|[Leo Higgins](https://www.worldcubeassociation.org/persons/2019HIGG02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Logan Bellinger](https://www.worldcubeassociation.org/persons/2018BELL14)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Lucas Blaker](https://www.worldcubeassociation.org/persons/2019BLAK01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444|  
 |[Lukas Beltz](https://www.worldcubeassociation.org/persons/2019BELT03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,333oh,pyram|  
@@ -6797,12 +7039,13 @@ Key:
 |[Mason Bellinger](https://www.worldcubeassociation.org/persons/2018BELL15)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Matthew Green](https://www.worldcubeassociation.org/persons/2019GREE05)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333bf,333oh,pyram|  
-|[Natapong Kanema](https://www.worldcubeassociation.org/persons/2016KANE02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Pending|333,222,444,333oh,pyram|  
+|[Natapong Kanema](https://www.worldcubeassociation.org/persons/2016KANE02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,333oh,pyram|  
 |[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,444,333bf|  
 |[Nicholas Ewing](https://www.worldcubeassociation.org/persons/2017EWIN01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,pyram|  
 |Nitin Gopala|NULL|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Noah Kolcz](https://www.worldcubeassociation.org/persons/2019KOLC02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Omar Jaber](https://www.worldcubeassociation.org/persons/2019JABE02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,333oh,pyram|  
+|[Preston Boling](https://www.worldcubeassociation.org/persons/2017BOLI04)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,pyram|  
 |[Reyaan Ansari](https://www.worldcubeassociation.org/persons/2019ANSA02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,444,pyram|  
 |[Robert Bates](https://www.worldcubeassociation.org/persons/2016BATE02)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Sam Ongstad](https://www.worldcubeassociation.org/persons/2017ONGS01)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,333oh,pyram|  
@@ -6815,6 +7058,7 @@ Key:
 |[Zaina Jaber](https://www.worldcubeassociation.org/persons/2019JABE03)|USA|[MishawakaSummer2019](https://www.worldcubeassociation.org/competitions/MishawakaSummer2019)|Accepted|333,222,pyram|  
 |[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,pyram,skewb,sq1,444bf,333mbf|  
 |[Alexander Wagner](https://www.worldcubeassociation.org/persons/2018WAGN02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb,sq1|  
+|Alexander Wezel|NULL|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333,222,pyram|  
 |[Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01)|Switzerland|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,pyram,skewb,sq1,333mbf|  
 |[Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,pyram,skewb,sq1,444bf,333mbf|  
 |[Anna König](https://www.worldcubeassociation.org/persons/2017KONI03)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222|  
@@ -6830,6 +7074,7 @@ Key:
 |[Christine Brychcy](https://www.worldcubeassociation.org/persons/2013BRYC01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,444,555,666,777,333bf,333oh,sq1|  
 |[Clara Reuter](https://www.worldcubeassociation.org/persons/2018REUT02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333|  
 |[David Herrera](https://www.worldcubeassociation.org/persons/2017HERR01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222|  
+|[Dunhui Xiao (肖敦慧)](https://www.worldcubeassociation.org/persons/2018XIAO03)|China|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333,222,444,555,333bf,333oh,pyram,sq1|  
 |[Edoardo Brown](https://www.worldcubeassociation.org/persons/2016BROW06)|Italy|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333,222,444,555,666,777,333ft,333oh,clock,pyram,skewb,sq1|  
 |Emircan Kayaöz|NULL|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222|  
 |[Erik Zimmermann](https://www.worldcubeassociation.org/persons/2018ZIMM01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333oh|  
@@ -6857,6 +7102,7 @@ Key:
 |[Jakob Obleser](https://www.worldcubeassociation.org/persons/2013OBLE01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb,sq1,333mbf|  
 |[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,pyram,skewb,sq1,444bf,333mbf|  
 |[Jannis Grob](https://www.worldcubeassociation.org/persons/2018GROB02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Jannis Grüneberg](https://www.worldcubeassociation.org/persons/2019GRUN01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333,222,444,555,333bf,333oh|  
 |[Jannis Weisbrodt](https://www.worldcubeassociation.org/persons/2019WEIS04)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,333bf,333oh,pyram|  
 |[Jonas Sachgau](https://www.worldcubeassociation.org/persons/2018SACH04)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb|  
 |[Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,333bf,333ft,333oh,pyram,skewb,sq1,444bf,333mbf|  
@@ -6916,6 +7162,7 @@ Key:
 |[Robin Rohrer](https://www.worldcubeassociation.org/persons/2018ROHR01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|pyram,skewb|  
 |[Roland Frisch](https://www.worldcubeassociation.org/persons/2016FRIS02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,333oh,clock,pyram,skewb|  
 |[Rosch Nadjib](https://www.worldcubeassociation.org/persons/2016NADJ01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,333oh,clock,pyram,skewb,sq1|  
+|[Samuel Bermudez](https://www.worldcubeassociation.org/persons/2019BERM02)|United Kingdom|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Deleted|333,222,444|  
 |[Sandra Mennle](https://www.worldcubeassociation.org/persons/2018MENN02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,444,555,666,777,333bf,333oh|  
 |[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333ft,333oh,clock,pyram,skewb,sq1,444bf|  
@@ -6924,6 +7171,7 @@ Key:
 |[Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb,sq1,444bf,333mbf|  
 |[Sophia Schmoll](https://www.worldcubeassociation.org/persons/2018SCHM05)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,clock,pyram,skewb,sq1|  
 |[Thomas Schukraft](https://www.worldcubeassociation.org/persons/2018SCHU17)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb,sq1|  
+|Till Rasche|NULL|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333|  
 |[Tim Schädel](https://www.worldcubeassociation.org/persons/2014SCHA03)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,555,666,777,333oh,pyram|  
 |[Timo Ludwig](https://www.worldcubeassociation.org/persons/2011LUDW01)|Germany|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Accepted|333,222,444,333bf|  
 |Tristan O'Brien|NULL|[MonnemCityCubing2019](https://www.worldcubeassociation.org/competitions/MonnemCityCubing2019)|Pending|333,222,444,333oh|  
@@ -6948,6 +7196,7 @@ Key:
 |[Kyle Nguyen](https://www.worldcubeassociation.org/persons/2017NGUY18)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Pending|333,222,skewb|  
 |[Landon Livesay](https://www.worldcubeassociation.org/persons/2019LIVE01)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Accepted|333,222,skewb|  
 |[Matteo Beretta](https://www.worldcubeassociation.org/persons/2017BERE02)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Pending|333,222|  
+|[Matvey Zinoviev (Матвей Зиновьев)](https://www.worldcubeassociation.org/persons/2018ZINO01)|Russia|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Pending|333,222|  
 |[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Accepted|333,222,777,skewb,sq1|  
 |[Nick Moreno](https://www.worldcubeassociation.org/persons/2017MORE14)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Accepted|333,222,skewb,sq1|  
 |[Ronald Xian](https://www.worldcubeassociation.org/persons/2018XIAN10)|USA|[MuddFall2019](https://www.worldcubeassociation.org/competitions/MuddFall2019)|Pending|333,222,skewb,sq1|  
@@ -7042,6 +7291,7 @@ Key:
 |[Kirill Konovalov](https://www.worldcubeassociation.org/persons/2017KONO01)|Russia|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Kirill Petukhov (Кирилл Петухов)](https://www.worldcubeassociation.org/persons/2019PETU03)|Russia|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Larsina Herrmann](https://www.worldcubeassociation.org/persons/2019HERR05)|Germany|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Laurenz Burner](https://www.worldcubeassociation.org/persons/2018BURN05)|Austria|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333oh,pyram|  
 |[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Leonid Palchenko (Леонід Пальченко)](https://www.worldcubeassociation.org/persons/2016PALC02)|Ukraine|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |Lex-Taylor Seifert|NULL|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222|  
@@ -7083,6 +7333,7 @@ Key:
 |[Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01)|Russia|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
 |[Oleksandr Savchyn](https://www.worldcubeassociation.org/persons/2016SAVC02)|Ukraine|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Oliver Söser](https://www.worldcubeassociation.org/persons/2019SOSE01)|Austria|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333oh,skewb|  
+|[Pablo González Acosta](https://www.worldcubeassociation.org/persons/2019ACOS02)|Mexico|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333oh|  
 |[Patrick Hetco](https://www.worldcubeassociation.org/persons/2011HETC01)|Germany|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram|  
 |Paul Noah Wuth|NULL|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|222|  
 |[Péter Laschek](https://www.worldcubeassociation.org/persons/2016LASC01)|Hungary|[MunichOpen2019](https://www.worldcubeassociation.org/competitions/MunichOpen2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
@@ -7135,6 +7386,7 @@ Key:
 |[Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,sq1|  
 |[Aldo José Gramajo de León](https://www.worldcubeassociation.org/persons/2015LEON08)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Alexander Batz](https://www.worldcubeassociation.org/persons/2017BATZ01)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Alfonso Orozco](https://www.worldcubeassociation.org/persons/2014OROZ01)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,333oh,pyram|  
 |[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Angel Ruano](https://www.worldcubeassociation.org/persons/2013MOLI04)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Accepted|333bf|  
 |[Axel Uriel Sánchez Zúñiga](https://www.worldcubeassociation.org/persons/2017ZUNI05)|Mexico|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -7153,6 +7405,7 @@ Key:
 |[Jonatan David Saenz Perez](https://www.worldcubeassociation.org/persons/2019PERE16)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,333oh,minx|  
 |[Luis Alonso Inestroza Henriquez](https://www.worldcubeassociation.org/persons/2015HENR02)|El Salvador|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,pyram,skewb|  
 |[Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03)|Honduras|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Accepted|333,444,555,666,777,333fm,clock,pyram|  
+|[Luis Esteban Morales Orozco](https://www.worldcubeassociation.org/persons/2013OROZ03)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Luis Fernando Icú Son](https://www.worldcubeassociation.org/persons/2017SONL01)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Luis Figueroa](https://www.worldcubeassociation.org/persons/2019FIGU05)|Guatemala|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Pending|333,222,444,555,333oh,minx,pyram|  
 |[Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15)|Mexico|[NacionalesGuatemala2019](https://www.worldcubeassociation.org/competitions/NacionalesGuatemala2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
@@ -7169,7 +7422,7 @@ Key:
 |Aaron Romero|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |[Alejandro Ortiz](https://www.worldcubeassociation.org/persons/2017ORTI12)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
-|[Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|[Alexander Lin](https://www.worldcubeassociation.org/persons/2007LING01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Alexander Phan](https://www.worldcubeassociation.org/persons/2010PHAN01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Alper Keskinturk|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Anish Shanmugam](https://www.worldcubeassociation.org/persons/2016SHAN08)|Australia|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7192,7 +7445,9 @@ Key:
 |[Daxton Westlake](https://www.worldcubeassociation.org/persons/2018WEST07)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Denis Zhulin|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Derek Hsieh](https://www.worldcubeassociation.org/persons/2016HSIE02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|[Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |[Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|Dylan Lee|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Eric Sele](https://www.worldcubeassociation.org/persons/2014SELE02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Ethan Jan](https://www.worldcubeassociation.org/persons/2014JANE02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7200,6 +7455,7 @@ Key:
 |[Gregor Grigorian](https://www.worldcubeassociation.org/persons/2009GRIG01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Harrison Park](https://www.worldcubeassociation.org/persons/2016PARK28)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Henry Helmuth](https://www.worldcubeassociation.org/persons/2013HELM02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|Iris Aei-Kyung Grether|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Isaac Nuon](https://www.worldcubeassociation.org/persons/2019NUON01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Jack Gore](https://www.worldcubeassociation.org/persons/2017GORE02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Jack Stewart](https://www.worldcubeassociation.org/persons/2017STEW08)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7211,6 +7467,7 @@ Key:
 |[Jenna Gain](https://www.worldcubeassociation.org/persons/2017GAIN03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Jessie Bravo|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |Jett Ibanez|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|[Joaquin Torres](https://www.worldcubeassociation.org/persons/2019TORR05)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Jonas Soelberg](https://www.worldcubeassociation.org/persons/2018SOEL01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Jonathan Sun](https://www.worldcubeassociation.org/persons/2014SUNJ01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Jonny Katz](https://www.worldcubeassociation.org/persons/2016KATZ01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7222,7 +7479,7 @@ Key:
 |[Kampton Nuttall](https://www.worldcubeassociation.org/persons/2016NUTT01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Kavin Tangtartharakul](https://www.worldcubeassociation.org/persons/2014TANG03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |[Keira Patel](https://www.worldcubeassociation.org/persons/2019PATE10)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
-|Kevin Cao|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|Kevin Cao|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Deleted|333|  
 |[Kevin Kuida](https://www.worldcubeassociation.org/persons/2018KUID01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07)|Korea|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Kyle Meade](https://www.worldcubeassociation.org/persons/2019MEAD03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7257,6 +7514,7 @@ Key:
 |Siddarth Pullela|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Soohyun Lee|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Spursh Deshpande](https://www.worldcubeassociation.org/persons/2018DESH04)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|[Surya David Donath](https://www.worldcubeassociation.org/persons/2018DONA03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |[Takuto Suga (菅拓人)](https://www.worldcubeassociation.org/persons/2014SUGA01)|Japan|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Thang Tran|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Thomas Valles](https://www.worldcubeassociation.org/persons/2013VALL03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
@@ -7264,12 +7522,47 @@ Key:
 |Troy Yoo|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Tyler Guler](https://www.worldcubeassociation.org/persons/2019GULE01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Tyler Truong](https://www.worldcubeassociation.org/persons/2018TRUO06)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
-|Tyson Le Cheng|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|Tyson Le Cheng|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |Vanessa Garcia|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
 |[Will Hamilton](https://www.worldcubeassociation.org/persons/2014HAMI02)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
-|[Wilson Li](https://www.worldcubeassociation.org/persons/2017LIWI03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Pending|333|  
+|[Wilson Li](https://www.worldcubeassociation.org/persons/2017LIWI03)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|You-Rong Chin|NULL|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Yuan-Chun Hsu (許元駿)](https://www.worldcubeassociation.org/persons/2019HSUY02)|Taiwan|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
 |[Zac Domme](https://www.worldcubeassociation.org/persons/2017DOMM01)|USA|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|[Zeyu Ma (马泽余)](https://www.worldcubeassociation.org/persons/2018MAZE01)|China|[NiseiWeek2019](https://www.worldcubeassociation.org/competitions/NiseiWeek2019)|Accepted|333|  
+|[Andreas Jensen Forsgren](https://www.worldcubeassociation.org/persons/2016FORS08)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Anna Buhl Bechmann](https://www.worldcubeassociation.org/persons/2018BECH02)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb|  
+|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Carl Emil Exner](https://www.worldcubeassociation.org/persons/2017EXNE01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,skewb,sq1,444bf,555bf,333mbf|  
+|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,minx,pyram,333mbf|  
+|[Fredrik Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
+|[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,333bf,333oh,pyram,sq1,444bf,333mbf|  
+|[Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Jami Viljanen](https://www.worldcubeassociation.org/persons/2017VILJ01)|Finland|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Kaur Tuule](https://www.worldcubeassociation.org/persons/2018TUUL01)|Estonia|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,222,444,555,666,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,pyram,skewb|  
+|[Lucas Hansen](https://www.worldcubeassociation.org/persons/2017HANS17)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,333oh,clock,minx,pyram,skewb|  
+|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Mikela Elleby Jørgensen](https://www.worldcubeassociation.org/persons/2015JORG01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Modest Podzolkin (Модест Подзолкін)](https://www.worldcubeassociation.org/persons/2017PODZ01)|Ukraine|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,pyram,444bf,555bf,333mbf|  
+|[Nora Christ](https://www.worldcubeassociation.org/persons/2009CHRI03)|Germany|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,333mbf|  
+|[Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,333bf,333fm,minx,pyram,sq1,444bf,555bf,333mbf|  
+|[Oscar Roth Andersen](https://www.worldcubeassociation.org/persons/2008ANDE02)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,444,555,minx,pyram|  
+|[Philipp Danileiko](https://www.worldcubeassociation.org/persons/2018DANI09)|Finland|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,222,444,555,666,777,333oh,minx|  
+|[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
+|[Stian Nystad Østli](https://www.worldcubeassociation.org/persons/2016OSTL02)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01)|Denmark|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Croatia|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
+|[Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01)|Norway|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Pending|333,222,444,555,666,777,333fm,333oh,pyram,skewb|  
+|[Zoé de Moffarts](https://www.worldcubeassociation.org/persons/2010MOFF02)|Belgium|[NordicChampionship2019](https://www.worldcubeassociation.org/competitions/NordicChampionship2019)|Accepted|333,444,555,666,777,minx,pyram|  
 |[Adriano Matoba Lipski](https://www.worldcubeassociation.org/persons/2016LIPS01)|Brazil|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |Alexis Liasch Tavares|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,clock,minx,pyram,skewb|  
 |Allan Wendland Kretzmann|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,333bf|  
@@ -7297,6 +7590,7 @@ Key:
 |Kauã Liberato Diogo Alves|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222|  
 |Laís Cristina de Souza|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,minx|  
 |Lucas Albino Da Rocha|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333|  
+|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |Marcos da Costa Lizzi|NULL|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222|  
 |[Maria Carolina Campioto da Silva](https://www.worldcubeassociation.org/persons/2018SILV74)|Brazil|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb|  
 |[Maria Clara Campioto da Silva](https://www.worldcubeassociation.org/persons/2018SILV75)|Brazil|[OpenUTFaoCubo2019](https://www.worldcubeassociation.org/competitions/OpenUTFaoCubo2019)|Accepted|333,222,444,555,666,777,clock,minx,pyram|  
@@ -7335,6 +7629,7 @@ Key:
 |[Miles J. Klein](https://www.worldcubeassociation.org/persons/2019KLEI03)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Pending|333,222,pyram,skewb|  
 |[Rowan Fortier](https://www.worldcubeassociation.org/persons/2016FORT03)|Canada|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Pending|333,222,333fm,333oh,pyram|  
 |[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Accepted|333,222,333fm,333oh,pyram|  
+|[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Pending|333bf,333fm,clock,444bf,555bf,333mbf|  
 |[Simmi Sen](https://www.worldcubeassociation.org/persons/2018SENS01)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Accepted|333,222,333fm,pyram,skewb|  
 |[Tommy Neibergs](https://www.worldcubeassociation.org/persons/2018NEIB01)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Accepted|333,222,pyram,skewb|  
 |[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|[OregonStateFavorites2019](https://www.worldcubeassociation.org/competitions/OregonStateFavorites2019)|Accepted|333,333fm,333ft,pyram,555bf|  
@@ -7354,6 +7649,7 @@ Key:
 |Johannes Kirstein|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333|  
 |[Johannes Knudsen](https://www.worldcubeassociation.org/persons/2019KNUD01)|Sweden|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,skewb|  
 |[Jonas Henrik O'Reilly Bojsen](https://www.worldcubeassociation.org/persons/2018BOJS01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,skewb|  
+|Josefine Marie Holdt|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222|  
 |[Joy Liou Liu (刘丽欧)](https://www.worldcubeassociation.org/persons/2017LIUJ21)|China|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
 |[Júlíus Cramer Andersen](https://www.worldcubeassociation.org/persons/2018ANDE19)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222|  
 |[Kaisa Exner](https://www.worldcubeassociation.org/persons/2018EXNE01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Deleted|333,222,444|  
@@ -7361,6 +7657,7 @@ Key:
 |[Laurids Abelsen Holm](https://www.worldcubeassociation.org/persons/2016HOLM04)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
 |Liam Johannsen|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,skewb|  
 |[Lucas Debes](https://www.worldcubeassociation.org/persons/2017DEBE02)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,skewb|  
+|[Lucas Hansen](https://www.worldcubeassociation.org/persons/2017HANS17)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
 |[Mads Philipsen](https://www.worldcubeassociation.org/persons/2018PHIL04)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555|  
 |[Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
 |[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
@@ -7373,6 +7670,8 @@ Key:
 |[Nikolaj Knudsen](https://www.worldcubeassociation.org/persons/2019KNUD02)|Sweden|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333|  
 |[Rasmus Jakobsen](https://www.worldcubeassociation.org/persons/2018JAKO02)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,skewb|  
 |[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
+|[Sabrina Mustafa Khan](https://www.worldcubeassociation.org/persons/2018KHAN30)|Pakistan|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222|  
+|Sebastian Tobias Holdt|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444|  
 |Sonja Larsen|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333|  
 |Søren Boe Christensen|NULL|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333|  
 |[Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01)|Denmark|[OsterhojOpen2019](https://www.worldcubeassociation.org/competitions/OsterhojOpen2019)|Accepted|333,222,444,555,clock,skewb,sq1|  
@@ -7387,9 +7686,11 @@ Key:
 |[Lauren Clement](https://www.worldcubeassociation.org/persons/2013KLEM01)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Accepted|333bf,333fm,clock|  
 |[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Accepted|333bf,333fm,clock,444bf,555bf,333mbf|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Pending|333bf,333fm,333ft,clock,444bf,555bf,333mbf|  
+|[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Pending|333bf,333fm,clock,444bf,555bf,333mbf|  
 |[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Accepted|333bf,333fm,333ft,clock,444bf,555bf,333mbf|  
 |[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|[OSUBlindWeekend2019](https://www.worldcubeassociation.org/competitions/OSUBlindWeekend2019)|Accepted|333bf,333fm,333ft,clock,444bf,555bf,333mbf|  
 |[Aaron Scarpati Curin](https://www.worldcubeassociation.org/persons/2018CURI02)|Argentina|[PatagoniaOpen2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|Agustín Scarpati Curin|NULL|[PatagoniaOpen2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019)|Accepted|333,222,pyram|  
 |Alan Gustavo Bitsch|NULL|[PatagoniaOpen2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019)|Pending|333,222,444,pyram|  
 |Cristian Miguel Krabzik|NULL|[PatagoniaOpen2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019)|Accepted|333,222,pyram|  
 |Diaz maximo fabuan|NULL|[PatagoniaOpen2019](https://www.worldcubeassociation.org/competitions/PatagoniaOpen2019)|Pending|pyram|  
@@ -7439,22 +7740,24 @@ Key:
 |[Thibault Vilbois](https://www.worldcubeassociation.org/persons/2018VILB01)|France|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
 |[Thierry Megard](https://www.worldcubeassociation.org/persons/2017MEGA01)|France|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,444,sq1|  
 |Titouan Peyvieux|NULL|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,222,pyram,skewb|  
+|[Tom Chiesura](https://www.worldcubeassociation.org/persons/2018CHIE01)|France|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
 |[Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01)|France|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
 |[Yanis Khorsi](https://www.worldcubeassociation.org/persons/2018KHOR03)|Algeria|[PauOpenFastnCuber2019](https://www.worldcubeassociation.org/competitions/PauOpenFastnCuber2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Aaron Perez](https://www.worldcubeassociation.org/persons/2018PERE23)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,333oh|  
 |[Abraham Arcila Soraluz](https://www.worldcubeassociation.org/persons/2017SORA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,666,777,pyram|  
 |[Abraham Venancio Arotinco Pimentel](https://www.worldcubeassociation.org/persons/2018PIME03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh|  
-|[Abril Andrea Arizaca Benique](https://www.worldcubeassociation.org/persons/2016BENI03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444,333oh,minx|  
+|[Abril Andrea Arizaca Benique](https://www.worldcubeassociation.org/persons/2016BENI03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,333oh,minx|  
 |[Adrian Leandro Fernandez Prado](https://www.worldcubeassociation.org/persons/2018PRAD10)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,pyram,skewb|  
 |Adriana Estefhanya Lopez Guizado|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
-|[Alejandro Collantes](https://www.worldcubeassociation.org/persons/2015COLL07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,666,333bf,333fm,333oh,333mbf|  
+|[Alejandro Collantes](https://www.worldcubeassociation.org/persons/2015COLL07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |Alejandro Miguel legua Sáenz|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |[Alejandro Oscar Gonzales Torres](https://www.worldcubeassociation.org/persons/2017TORR29)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |Alejandro Tasayco|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,skewb|  
-|Alex Bonifacio|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|[Alexander Montoya](https://www.worldcubeassociation.org/persons/2018MONT28)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,minx,skewb|  
+|[Alex Anderson Bedon Valentin](https://www.worldcubeassociation.org/persons/2017VALE01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,555|  
+|Alex Bonifacio|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|[Alexander Montoya](https://www.worldcubeassociation.org/persons/2018MONT28)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh,minx,skewb|  
 |Alexis Neptali Zegarra|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
-|alvaro santiago siguayro simbrom|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444,555|  
+|[Alvaro Santiago Siguayro Simbron](https://www.worldcubeassociation.org/persons/2017SIMB03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,555|  
 |[Anderson Rojas](https://www.worldcubeassociation.org/persons/2018ROJA09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,555,666,777|  
 |Andree Gianoli Yalico|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333oh|  
 |[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333bf,333fm,clock,skewb,sq1,333mbf|  
@@ -7474,20 +7777,22 @@ Key:
 |Brian Fernández Orejón|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh|  
 |[Bruno Alonso Villacorta Montoya](https://www.worldcubeassociation.org/persons/2016MONT33)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,333oh,pyram,skewb,sq1|  
 |[Bruno Paolo Barbaran Quiroz](https://www.worldcubeassociation.org/persons/2016QUIR02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh,skewb|  
-|[Carlos Daniel Torres Tello](https://www.worldcubeassociation.org/persons/2018TELL03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333fm,333oh,minx|  
+|[Carlos Daniel Torres Tello](https://www.worldcubeassociation.org/persons/2018TELL03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh,minx|  
+|Carlos Lunasco Huarcaya|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Carlos Murillo](https://www.worldcubeassociation.org/persons/2013MURI01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |Carlos Portilla|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Carlos Quispe Cantorin](https://www.worldcubeassociation.org/persons/2017CANT03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,777,333oh,minx,pyram|  
-|[Carlos Rafael Mundo Lévano](https://www.worldcubeassociation.org/persons/2016LEVA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|[Carlos Ramirez Sotelo](https://www.worldcubeassociation.org/persons/2018SOTE01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
+|[Carlos Rafael Mundo Lévano](https://www.worldcubeassociation.org/persons/2016LEVA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|[Carlos Ramirez Sotelo](https://www.worldcubeassociation.org/persons/2018SOTE01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|skewb|  
 |Carlos Rodríguez Berrospi|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |Carlos Sam Nieto Saire|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|[Carlos Sullca Mejía](https://www.worldcubeassociation.org/persons/2017MEJI13)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Carol Sanchez Carhuanco](https://www.worldcubeassociation.org/persons/2015CARH01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |[Cesar Augusto Caqui Vásquez](https://www.worldcubeassociation.org/persons/2018VASQ09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333bf,333oh|  
 |César Elías Paccosoncco Sierra |NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
-|[Cesar Paolo Vargas Davila](https://www.worldcubeassociation.org/persons/2017DAVI06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,pyram,skewb|  
+|[Cesar Paolo Vargas Davila](https://www.worldcubeassociation.org/persons/2017DAVI06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,pyram,skewb|  
 |[Christian Montoya](https://www.worldcubeassociation.org/persons/2018MONT03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333bf,333fm,444bf,333mbf|  
-|[Christian Tonny Condori Sarmiento](https://www.worldcubeassociation.org/persons/2016SARM07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333oh|  
+|[Christian Tonny Condori Sarmiento](https://www.worldcubeassociation.org/persons/2016SARM07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,333oh|  
 |[Christopher Arias](https://www.worldcubeassociation.org/persons/2018ARIA05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,pyram|  
 |[Clever Isaac Quijano Taipe](https://www.worldcubeassociation.org/persons/2018TAIP01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,333bf,333oh,pyram,sq1|  
 |[Cristhian Ricaldi Sinche](https://www.worldcubeassociation.org/persons/2017SINC01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333oh|  
@@ -7497,7 +7802,8 @@ Key:
 |[Dario Cubas Castillo](https://www.worldcubeassociation.org/persons/2017CAST28)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,pyram|  
 |David Eduardo Mogrovejo Villena|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Diego Alonso Calderón Bustos|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,skewb|  
-|[Diego Atusparia](https://www.worldcubeassociation.org/persons/2017ATUS01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
+|[Diego Alonso Rosales](https://www.worldcubeassociation.org/persons/2018ROSA09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|[Diego Atusparia](https://www.worldcubeassociation.org/persons/2017ATUS01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Diego Carpio Pérez](https://www.worldcubeassociation.org/persons/2018PERE32)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444,555,333oh,skewb|  
 |[Diego Simeone Cotera Espinoza](https://www.worldcubeassociation.org/persons/2018ESPI13)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444,555,666|  
 |[Dilan Lautaro Almora Berlanga](https://www.worldcubeassociation.org/persons/2016BERL03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh,pyram|  
@@ -7513,22 +7819,25 @@ Key:
 |[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,555,666,777,333oh|  
 |[Estefani Fatima Ramos Cencia](https://www.worldcubeassociation.org/persons/2017CENC01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,minx|  
 |[Eugenio Nicanor Rodrìguez Arango](https://www.worldcubeassociation.org/persons/2018ARAN05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444|  
+|Fabricio Alvaro Olave Conce|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |Fabrizio Peña|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Fabrizio Quispe Medina|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Fatima Mamani](https://www.worldcubeassociation.org/persons/2019MAMA02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|Flavio Raúl López Ocampo|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
+|[Felix Eduardo Ulco Villoslado](https://www.worldcubeassociation.org/persons/2016VILL09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh,minx|  
+|[Flavio Raúl López Ocampo](https://www.worldcubeassociation.org/persons/2019OCAM01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Franco Mauricio Pichilingue Guardia](https://www.worldcubeassociation.org/persons/2018GUAR04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh|  
 |[Fredy Cahuaya Leyva](https://www.worldcubeassociation.org/persons/2018LEYV01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333bf,444bf,555bf,333mbf|  
 |[Gabriel Machado Nunes](https://www.worldcubeassociation.org/persons/2018NUNE02)|Brazil|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333oh|  
-|[Gabriel Mercado](https://www.worldcubeassociation.org/persons/2019MERC04)|Venezuela|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
+|[Gabriel Mercado](https://www.worldcubeassociation.org/persons/2019MERC04)|Venezuela|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |Gadiel Ordinola|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Geanpiero Sebastian Arias Zuazo](https://www.worldcubeassociation.org/persons/2017ZUAZ01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444|  
 |[Gianfranco Camones Caycho](https://www.worldcubeassociation.org/persons/2019CAYC01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,333oh|  
 |[Gianfranco Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN29)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,333bf,444bf,555bf,333mbf|  
 |[Gianfranco Hugo Mostacero Muñoz](https://www.worldcubeassociation.org/persons/2016MUNO18)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh|  
 |Gianmartin rincón guillermo|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|Giordano Limber Aguilar Allcca|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,pyram|  
+|Giordano Limber Aguilar Allcca|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Guiovanni Ramirez](https://www.worldcubeassociation.org/persons/2019RAMI02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,minx|  
+|[Hafid Ángel Jesús Pacheco Pajuelo](https://www.worldcubeassociation.org/persons/2019PAJU02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,clock,pyram,sq1|  
 |[Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333bf,333fm,333mbf|  
 |[Hernán Levano Villalobos](https://www.worldcubeassociation.org/persons/2018VILL04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,minx|  
 |[Hugo Fernando Centeno Bustamante](https://www.worldcubeassociation.org/persons/2019BUST02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,333oh|  
@@ -7547,8 +7856,8 @@ Key:
 |[Jesus Emmanuel Vergara Ayarza](https://www.worldcubeassociation.org/persons/2017AYAR01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,333fm,minx,skewb|  
 |[Jesús Gianfranco Estrada Higa](https://www.worldcubeassociation.org/persons/2019HIGA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444|  
 |[Jhefry Villalobos Alonso](https://www.worldcubeassociation.org/persons/2018ALON06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
-|[Jhomaykel Javier Palacios Sandoval](https://www.worldcubeassociation.org/persons/2019SAND02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh|  
-|[Jhon Alexander Taboada Temple](https://www.worldcubeassociation.org/persons/2013TEMP01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|skewb|  
+|[Jhomaykel Javier Palacios Sandoval](https://www.worldcubeassociation.org/persons/2019SAND02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh|  
+|[Jhon Alexander Taboada Temple](https://www.worldcubeassociation.org/persons/2013TEMP01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|skewb|  
 |[Jhon Anderson Soto Bellido](https://www.worldcubeassociation.org/persons/2013BELL06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444|  
 |[Jhonatan Castillo](https://www.worldcubeassociation.org/persons/2017CAST37)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,444,555,minx|  
 |Jhonathan Curilla Baltazar|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
@@ -7566,6 +7875,7 @@ Key:
 |[Jose Carlos Barrios Ponce](https://www.worldcubeassociation.org/persons/2017PONC05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444|  
 |[José Daniel Carhuachin](https://www.worldcubeassociation.org/persons/2017CARH01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,333oh|  
 |[Jose Fernando Romero](https://www.worldcubeassociation.org/persons/2016ROME16)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|José Francisco Javier Soto Torre|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,pyram|  
 |[José Huamani Fullano](https://www.worldcubeassociation.org/persons/2019FULL04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444|  
 |[José Luis Rodríguez Castillo](https://www.worldcubeassociation.org/persons/2016CAST36)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444|  
 |[Jose Paez](https://www.worldcubeassociation.org/persons/2017PAEZ01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
@@ -7587,8 +7897,8 @@ Key:
 |[Keny Chu](https://www.worldcubeassociation.org/persons/2019CHUK01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Kevin Antony Tello Delgado](https://www.worldcubeassociation.org/persons/2017DELG02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,skewb|  
 |[Kevin Arturo Huamán Ruiz](https://www.worldcubeassociation.org/persons/2014RUIZ10)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,666,777|  
-|Kevin Camones Caycho|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
-|[Kevin Rojas Tauma](https://www.worldcubeassociation.org/persons/2017TAUM01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,555,666,777,333fm|  
+|[Kevin Camones Caycho](https://www.worldcubeassociation.org/persons/2019CAYC02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|[Kevin Rojas Tauma](https://www.worldcubeassociation.org/persons/2017TAUM01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,555|  
 |[Kiyoshi Francisco Mamani Malaga](https://www.worldcubeassociation.org/persons/2019MALA03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333fm,333oh,pyram|  
 |[Leon Achata](https://www.worldcubeassociation.org/persons/2015ACHA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Leonardo José Hilario Cori](https://www.worldcubeassociation.org/persons/2017CORI01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh,clock,minx,pyram,skewb|  
@@ -7601,8 +7911,9 @@ Key:
 |[Luis Gonzalo Porras Lopez](https://www.worldcubeassociation.org/persons/2017LOPE38)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Luis Vargas](https://www.worldcubeassociation.org/persons/2018VARG10)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333bf,333fm,333oh,333mbf|  
 |Luis Yalico|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
+|Mael Leonardo Ramírez Uzuriaga|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Manuel Antonio Ramos Mendoza|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|[Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,666,777,333oh,minx|  
+|[Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Deleted|333,222,444,555,666,777,333oh,minx|  
 |[Marco Sebastian Donayre Anchi](https://www.worldcubeassociation.org/persons/2018ANCH02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Marcos Aparicio Iliquin](https://www.worldcubeassociation.org/persons/2017ILIQ01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[María del Pilar Jimena Moreano Cabrera](https://www.worldcubeassociation.org/persons/2019CABR03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
@@ -7614,18 +7925,18 @@ Key:
 |Matthew Sebastian Casas Chuquipul|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh|  
 |Mauricio Huapaya Faustor|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,pyram|  
 |[Mauricio Jesus Cuba Quintanilla](https://www.worldcubeassociation.org/persons/2016QUIN13)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,pyram|  
-|[Max Aranibar](https://www.worldcubeassociation.org/persons/2019ARAN01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
+|[Max Aranibar](https://www.worldcubeassociation.org/persons/2019ARAN01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Max Arturo Farfan Fernandez|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Max Cespedes Tapia](https://www.worldcubeassociation.org/persons/2015TAPI01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Max Mondragón Mendizabal](https://www.worldcubeassociation.org/persons/2016MEND20)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
-|[Michel Andre Gonzaga Quijano](https://www.worldcubeassociation.org/persons/2018QUIJ01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,666,777,333fm,333oh,minx,skewb|  
+|[Michel Andre Gonzaga Quijano](https://www.worldcubeassociation.org/persons/2018QUIJ01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,666,777,333fm,minx|  
 |[Michel Troncos](https://www.worldcubeassociation.org/persons/2018TRON04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Miguel Díaz Jara|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,pyram|  
 |[Miguel Fernando Ignacio Yaranga](https://www.worldcubeassociation.org/persons/2016YARA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Mikel Andriu Tahua Lujan](https://www.worldcubeassociation.org/persons/2019LUJA02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,333bf,333mbf|  
-|[Nick Jordan Mesias Garcia](https://www.worldcubeassociation.org/persons/2016GARC05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,333oh,pyram|  
-|[Nicolás Bringas Florencio](https://www.worldcubeassociation.org/persons/2018FLOR09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
+|[Nick Jordan Mesias Garcia](https://www.worldcubeassociation.org/persons/2016GARC05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333oh|  
+|[Nicolás Bringas Florencio](https://www.worldcubeassociation.org/persons/2018FLOR09)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |[Nicolás Emilio Parra Barreto](https://www.worldcubeassociation.org/persons/2019BARR03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |Nicolás Francisco Miranda Rafael|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |[Nicolas Hermoza](https://www.worldcubeassociation.org/persons/2018HERM07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,minx|  
@@ -7633,10 +7944,12 @@ Key:
 |[Patricio Joaquin Narvaez Peralta](https://www.worldcubeassociation.org/persons/2018PERA06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,minx|  
 |[Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,333oh,minx,pyram,skewb|  
 |[Piero Alessandro Laguna Obregón](https://www.worldcubeassociation.org/persons/2016OBRE01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
+|[Piero Gerardo Kaqui Aspajo](https://www.worldcubeassociation.org/persons/2017ASPA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,minx|  
+|[Piero Sánchez](https://www.worldcubeassociation.org/persons/2015SANC02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,333bf,minx,skewb|  
 |[Piero Sebastian Sanchez Hilario](https://www.worldcubeassociation.org/persons/2017HILA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,333oh|  
 |[Rachel Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Rafael Vicente Quispe Rios](https://www.worldcubeassociation.org/persons/2016RIOS05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333oh|  
-|[Renzo Andree Chanca Avendaño](https://www.worldcubeassociation.org/persons/2018AVEN01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222|  
+|[Renzo Andree Chanca Avendaño](https://www.worldcubeassociation.org/persons/2018AVEN01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,pyram,skewb|  
 |Ricardo agurto Giraldo|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |[Ricardo Andres Sánchez Requena](https://www.worldcubeassociation.org/persons/2016REQU01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,pyram|  
 |[Ricardo Maxera](https://www.worldcubeassociation.org/persons/2016MAXE01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,333oh|  
@@ -7649,7 +7962,7 @@ Key:
 |Rodrigo Fabian Trebejo Ancajima|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,pyram,skewb|  
 |[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Rodrigo Vladimir Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA06)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,minx|  
-|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,333bf,333fm,clock,444bf,555bf,333mbf|  
+|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,333bf,333fm,clock,444bf,555bf,333mbf|  
 |Roger Leonardo Rojas Rojas|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Roger Sullón Sanchez](https://www.worldcubeassociation.org/persons/2016SANC31)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Rommel Yeltsin Marcos Huaraca|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
@@ -7658,7 +7971,7 @@ Key:
 |[Ruth Villanueva Alzamora](https://www.worldcubeassociation.org/persons/2015ALZA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
 |[Sabrina Unocc García](https://www.worldcubeassociation.org/persons/2019GARC12)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |Sammir Zuñiga|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|pyram|  
-|Samuel Adrián Mandujano Ccahuana|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333|  
+|Samuel Adrián Mandujano Ccahuana|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Sandro Fabian Pijo Lara](https://www.worldcubeassociation.org/persons/2018LARA04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222|  
 |[Sebastián Alejandro Del Aguila García](https://www.worldcubeassociation.org/persons/2019GARC13)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,skewb|  
 |[Sebastián Alonso Chavez Balarezo](https://www.worldcubeassociation.org/persons/2017BALA12)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,pyram|  
@@ -7672,6 +7985,7 @@ Key:
 |[Victor Masias](https://www.worldcubeassociation.org/persons/2019MASI04)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,pyram|  
 |[Vivian Ramirez](https://www.worldcubeassociation.org/persons/2018RAMI29)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333|  
 |[Walter Felix](https://www.worldcubeassociation.org/persons/2015FELI01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444,333oh,skewb|  
+|[William Meza](https://www.worldcubeassociation.org/persons/2017MEZA05)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |willian lovel flores luque|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222|  
 |Wilmer Salas Jamanca|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444|  
 |[Yair Piero Chávez Alva](https://www.worldcubeassociation.org/persons/2017ALVA08)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Pending|333,222,444,pyram|  
@@ -7679,7 +7993,8 @@ Key:
 |[Yerson Andre Ramos Padin](https://www.worldcubeassociation.org/persons/2019PADI02)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222|  
 |Yohel Omar Ortiz Cabanillas|NULL|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,222,444,skewb,sq1|  
 |[Yuri Villanueva Alzamora](https://www.worldcubeassociation.org/persons/2013ALZA01)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,444|  
-|[Adel Mosallami](https://www.worldcubeassociation.org/persons/2018MOSA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333bf,333fm,333oh,pyram,sq1,444bf,333mbf|  
+|[Zamir Pantoja](https://www.worldcubeassociation.org/persons/2018PANT03)|Peru|[PeruNationals2019](https://www.worldcubeassociation.org/competitions/PeruNationals2019)|Accepted|333,333bf,333fm,333mbf|  
+|[Adel Mosallami](https://www.worldcubeassociation.org/persons/2018MOSA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,333bf,333fm,333oh,pyram,sq1,444bf,333mbf|  
 |[Aeron D. Rosario](https://www.worldcubeassociation.org/persons/2017ROSA07)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh,pyram|  
 |[Albert Mendoza](https://www.worldcubeassociation.org/persons/2016MEND17)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,444,555,666,777,333oh|  
 |[Albert Quiñones](https://www.worldcubeassociation.org/persons/2012QUIA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333ft,clock,minx|  
@@ -7688,6 +8003,7 @@ Key:
 |[Amir Salomon](https://www.worldcubeassociation.org/persons/2016SALO03)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,pyram|  
 |[Andrei M. Arcellana](https://www.worldcubeassociation.org/persons/2018ARCE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333oh,clock,pyram,skewb|  
 |[Angelo Ventura](https://www.worldcubeassociation.org/persons/2019VENT03)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,pyram|  
+|[Ardie Junio](https://www.worldcubeassociation.org/persons/2016JUNI05)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh|  
 |Audrey Sue E. Pacheco|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222|  
 |Ayra Aiesha N. Negrillo|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,pyram,skewb|  
 |Brent Alfaro|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222|  
@@ -7707,17 +8023,18 @@ Key:
 |[Dale Stephen M. Palmares](https://www.worldcubeassociation.org/persons/2016STEP05)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,555,666,777,333oh,skewb|  
 |[Dane Russel Delson](https://www.worldcubeassociation.org/persons/2016DELS01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,444,minx|  
 |[Dharrween Francisco Villasana](https://www.worldcubeassociation.org/persons/2017VILL21)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Dietrich Jude M. Gaston](https://www.worldcubeassociation.org/persons/2018GAST01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh,pyram,skewb|  
 |[Don Angelo Joson](https://www.worldcubeassociation.org/persons/2014JOSO01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,666,777,333oh,minx,pyram|  
 |[Earl Bien D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,777,minx|  
 |[Emmanuel Dagaas](https://www.worldcubeassociation.org/persons/2016DAGA02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,pyram|  
 |[Enika Aubrey Maninang](https://www.worldcubeassociation.org/persons/2017MANI04)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,555,333ft,clock,minx,pyram,sq1|  
-|[Ethan Gabriel R. Lao](https://www.worldcubeassociation.org/persons/2016LAOE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,555,666,333fm,333oh,minx|  
+|[Ethan Gabriel R. Lao](https://www.worldcubeassociation.org/persons/2016LAOE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,444,555,666,333oh,minx|  
 |Evangel Flomentira|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,pyram|  
 |Eymard D Celestino|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,444,333oh|  
 |[Gabriel Gaza](https://www.worldcubeassociation.org/persons/2017GAZA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333oh,pyram|  
 |[Gabriel Takeo Dalupan](https://www.worldcubeassociation.org/persons/2019DALU01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,333oh,pyram|  
 |[Getulio R. Repelar V](https://www.worldcubeassociation.org/persons/2017REPE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555|  
-|[Gibran Kwan](https://www.worldcubeassociation.org/persons/2019KWAN01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Gibran Kwan](https://www.worldcubeassociation.org/persons/2019KWAN01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Hiroyuki Iriyama](https://www.worldcubeassociation.org/persons/2018IRIY01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh,pyram,skewb,sq1|  
 |[Iann Jerome Perez](https://www.worldcubeassociation.org/persons/2016PERE06)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,444,333oh|  
 |[Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,666,333oh,minx,skewb|  
@@ -7733,6 +8050,7 @@ Key:
 |[Jasel John D. Portillo](https://www.worldcubeassociation.org/persons/2017PORT05)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,pyram|  
 |[Jaybee Montecillo](https://www.worldcubeassociation.org/persons/2016MONT09)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh|  
 |[John David L. Olesco](https://www.worldcubeassociation.org/persons/2017OLES01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,444,pyram|  
+|[John David O. Daniel](https://www.worldcubeassociation.org/persons/2019DANI07)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh,pyram|  
 |[John Kenny Reyes](https://www.worldcubeassociation.org/persons/2018REYE13)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,444,555,666,333bf|  
 |[John Lloyd Rilloraza Ansos](https://www.worldcubeassociation.org/persons/2017ANSO02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333bf,333oh|  
 |[John Paul Custodio](https://www.worldcubeassociation.org/persons/2008CUST01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333bf,333fm,333ft,clock|  
@@ -7749,6 +8067,7 @@ Key:
 |[Karl Dominic M. Cloma](https://www.worldcubeassociation.org/persons/2018CLOM01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh|  
 |[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
 |[Kemuel Huertazuela Tawatao](https://www.worldcubeassociation.org/persons/2017TAWA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,333oh,skewb|  
+|[Kenaz Reuel Celestino](https://www.worldcubeassociation.org/persons/2019CELE03)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,333oh,pyram|  
 |[Kurt Rivera](https://www.worldcubeassociation.org/persons/2018RIVE03)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333ft,333oh,pyram,skewb|  
 |[Kyle Isaac Deposa](https://www.worldcubeassociation.org/persons/2017DEPO01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|222,333oh,pyram|  
 |[Liam Jethro V. Jimenez](https://www.worldcubeassociation.org/persons/2019JIME02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh|  
@@ -7760,6 +8079,7 @@ Key:
 |Marielito Mariano|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,555,333bf,444bf,333mbf|  
 |[Marniel Suenio](https://www.worldcubeassociation.org/persons/2017SUEN01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh|  
 |[Mars Daniel Kudemus](https://www.worldcubeassociation.org/persons/2017KUDE02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,555,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Masahiro Domingo](https://www.worldcubeassociation.org/persons/2018DOMI02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,333fm,333oh|  
 |[Michael Angelo Zafra](https://www.worldcubeassociation.org/persons/2008ZAFR01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,sq1,444bf,333mbf|  
 |Miguel Angelito M Eco|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,clock,skewb|  
 |[Miles C. Gutierrez](https://www.worldcubeassociation.org/persons/2018GUTI09)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,444bf,333mbf|  
@@ -7786,13 +8106,14 @@ Key:
 |[Russel Bocalbos](https://www.worldcubeassociation.org/persons/2016BOCA01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333fm,333ft,333oh,clock,pyram,skewb,sq1|  
 |[Rusty Louis Domingo](https://www.worldcubeassociation.org/persons/2013DOMI02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,555,minx|  
 |[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
-|[Sean Zowie Dwayne D. Cuaresma](https://www.worldcubeassociation.org/persons/2018CUAR02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333oh,minx,pyram|  
+|[Sean Zowie Dwayne D. Cuaresma](https://www.worldcubeassociation.org/persons/2018CUAR02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,333oh,pyram|  
 |Sigfreud James Malacca|NULL|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,pyram|  
 |[Smrz Dancel](https://www.worldcubeassociation.org/persons/2015DANC02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,444,555,666,777,333fm,333oh|  
 |[Timothy A. Acana](https://www.worldcubeassociation.org/persons/2017ACAN02)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,pyram|  
-|[Toby Litiatco](https://www.worldcubeassociation.org/persons/2018LITI01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,333oh,pyram|  
+|[Toby Litiatco](https://www.worldcubeassociation.org/persons/2018LITI01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Accepted|333,222,444,333oh,pyram|  
 |[Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01)|Philippines|[PhilippineChampionship2019](https://www.worldcubeassociation.org/competitions/PhilippineChampionship2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,pyram,skewb,sq1,333mbf|  
 |Aadit Arora|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
+|[Aadit Karve](https://www.worldcubeassociation.org/persons/2017KARV01)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333oh,minx,pyram,skewb,sq1|  
 |[Aadit Shah](https://www.worldcubeassociation.org/persons/2019SHAH06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram,skewb|  
 |Aaditya Rajesh Acharekar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Aakash Kawa](https://www.worldcubeassociation.org/persons/2018KAWA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb|  
@@ -7801,6 +8122,7 @@ Key:
 |Aarav Bhaumik Verma|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Aarav Bhoite](https://www.worldcubeassociation.org/persons/2018BHOI01)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333oh,minx,pyram,skewb|  
 |Aarav Dsouza|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
+|[Aarav Gandhi](https://www.worldcubeassociation.org/persons/2015GAND02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03)|United Kingdom|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh|  
 |Aarna Tejas Shah|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|skewb|  
 |[Aaryan Mansing Bhosale](https://www.worldcubeassociation.org/persons/2019BHOS01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|222,pyram|  
@@ -7809,21 +8131,29 @@ Key:
 |Abdul hafiz|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Abhinav Nambi](https://www.worldcubeassociation.org/persons/2019NAMB01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
+|Abhiraksh Kesarwani|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Abhishek A. Singal](https://www.worldcubeassociation.org/persons/2017SING82)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444|  
 |[Abhishek Kumar](https://www.worldcubeassociation.org/persons/2017KUMA50)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,444,333oh,skewb|  
 |Aditya Amol Dhepe|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
+|[Aditya Ganesh](https://www.worldcubeassociation.org/persons/2016GANE07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,444|  
+|Aditya Jaiswal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
+|[Aditya Nagarajan](https://www.worldcubeassociation.org/persons/2017NAGA06)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Aditya Rao](https://www.worldcubeassociation.org/persons/2017RAOA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
 |[Advay Sant](https://www.worldcubeassociation.org/persons/2015SANT44)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
 |Ajay Kamath|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
 |[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Aman Bhutani](https://www.worldcubeassociation.org/persons/2014BHUT01)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,minx,pyram,skewb|  
 |[Amar Singh Dhangal](https://www.worldcubeassociation.org/persons/2017DHAN02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram,skewb|  
+|Amit P Kalbende|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,444,pyram|  
 |Ananya Parekh|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
+|[Anay Shrikar](https://www.worldcubeassociation.org/persons/2012SHRI01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333oh,333mbf|  
 |[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333ft,333oh,minx,pyram,skewb|  
 |[Ansh](https://www.worldcubeassociation.org/persons/2019ANSH01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,333oh,pyram|  
-|[Ansh Iyer](https://www.worldcubeassociation.org/persons/2015IYER03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Ansh Iyer](https://www.worldcubeassociation.org/persons/2015IYER03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Anubhava Pawar](https://www.worldcubeassociation.org/persons/2019PAWA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram,skewb|  
 |[Anuj Singh Negi](https://www.worldcubeassociation.org/persons/2018NEGI01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333fm,333oh,sq1,333mbf|  
+|[Arav Sawant](https://www.worldcubeassociation.org/persons/2015SAWA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
+|Archit Dinesh Salvi|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Arjun Dhiren Pradhan](https://www.worldcubeassociation.org/persons/2018PRAD06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444|  
 |[Arjun Doshi](https://www.worldcubeassociation.org/persons/2018DOSH01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |Arkadip Bhaumik|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
@@ -7844,7 +8174,8 @@ Key:
 |BHOOMI PREMAL SHAH|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333|  
 |[Chinmay Prabhu](https://www.worldcubeassociation.org/persons/2015PRAB04)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333ft,pyram|  
 |Cubenama Events|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Deleted|333|  
-|Daksh maniar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram|  
+|Daksh maniar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
+|Dev Govindan Iyengar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram|  
 |[Devina Gokaldas](https://www.worldcubeassociation.org/persons/2018GOKA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |[Dharmik S. Dharamshi](https://www.worldcubeassociation.org/persons/2018DHAR04)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |DHRUMIL VISHAL GANDHI|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
@@ -7856,8 +8187,12 @@ Key:
 |[Druhin Bommisetti](https://www.worldcubeassociation.org/persons/2018BOMM01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ebrahim Nakhwa](https://www.worldcubeassociation.org/persons/2018NAKH01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |[Eeshan Zele](https://www.worldcubeassociation.org/persons/2015ZELE01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Eshaan Kumar](https://www.worldcubeassociation.org/persons/2016KUMA40)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|skewb|  
 |Gautam Dhiren Pradhan|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
-|Hadi Arshad Shaikh|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram|  
+|Gopika Milind Agrawal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
+|Hadi Arshad Shaikh|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
+|[Harsh Maheshwari](https://www.worldcubeassociation.org/persons/2017MAHE08)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333ft,333oh,pyram,skewb,333mbf|  
+|[Harsh Purushottam Thorat](https://www.worldcubeassociation.org/persons/2018THOR08)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram,skewb|  
 |Harsh S. Chendvankar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,333oh,skewb|  
 |[Harsh Vashisht](https://www.worldcubeassociation.org/persons/2017VASH01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram,skewb|  
 |Harshilee Patel|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
@@ -7866,13 +8201,16 @@ Key:
 |[James Gonsalves](https://www.worldcubeassociation.org/persons/2015GONS01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |Janak Singh|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,minx,pyram|  
 |[Javin Khergaonkar](https://www.worldcubeassociation.org/persons/2017KHER01)|USA|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
+|[Jeehaan Tataria](https://www.worldcubeassociation.org/persons/2018TATA04)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222|  
 |[Jennifer Gonsalves](https://www.worldcubeassociation.org/persons/2018GONS03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|pyram,skewb|  
 |[Kaant Sachin Deshpande](https://www.worldcubeassociation.org/persons/2019DESH05)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Kaustubh Joshi](https://www.worldcubeassociation.org/persons/2018JOSH08)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333oh,minx,sq1|  
 |[Khan Mohammed Fahad](https://www.worldcubeassociation.org/persons/2018FAHA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,444,333oh|  
+|Khushaan K Ahirwar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Kush Girap](https://www.worldcubeassociation.org/persons/2017GIRA03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,minx,pyram,skewb|  
 |Manan Deepak Hiran|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
 |[Manan Joshi](https://www.worldcubeassociation.org/persons/2016JOSH04)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,minx|  
+|Manas Shyamsunder  Agarwal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram,skewb|  
 |Manav Jayesh Dhakan|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,skewb|  
 |[Medhansh Krishna](https://www.worldcubeassociation.org/persons/2018KRIS23)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Meet Nitin Shinde](https://www.worldcubeassociation.org/persons/2018SHIN09)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
@@ -7880,6 +8218,8 @@ Key:
 |[Mihir Gokhale](https://www.worldcubeassociation.org/persons/2017GOKH03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |Mohammed Zain Reza|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
+|Mohit Sharma|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
+|[Musaddik Vasaikar](https://www.worldcubeassociation.org/persons/2018VASA05)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram,skewb|  
 |[Neel Parikh](https://www.worldcubeassociation.org/persons/2019PARI06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
 |[Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |Nikunj Upadhyay|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
@@ -7889,7 +8229,7 @@ Key:
 |[Ojas Nimaje](https://www.worldcubeassociation.org/persons/2015NIMA04)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333oh,skewb|  
 |[Om Kodavali](https://www.worldcubeassociation.org/persons/2015KODA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333bf,333mbf|  
 |[Omesh Khatri](https://www.worldcubeassociation.org/persons/2018KHAT07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,444|  
-|[Paarth Arora](https://www.worldcubeassociation.org/persons/2014AROR06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333fm,333oh,minx,pyram,skewb,sq1|  
+|[Paarth Arora](https://www.worldcubeassociation.org/persons/2014AROR06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Panav H. Shah](https://www.worldcubeassociation.org/persons/2019SHAH09)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,pyram,sq1|  
 |[Parshvi Vora](https://www.worldcubeassociation.org/persons/2018VORA03)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Parth Chhugani](https://www.worldcubeassociation.org/persons/2018CHHU01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333ft,333oh,minx,pyram,skewb|  
@@ -7899,11 +8239,16 @@ Key:
 |Prabir Mashruwala|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |[Pranav Gadge](https://www.worldcubeassociation.org/persons/2017GADG01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,pyram|  
 |[Pranit Vig](https://www.worldcubeassociation.org/persons/2018VIGP01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
+|[Prathmesh Prakash Kalasa](https://www.worldcubeassociation.org/persons/2018KALA10)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram|  
 |[Pratik Khanna](https://www.worldcubeassociation.org/persons/2017KHAN32)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,skewb|  
 |PRAYAG SAMIR PHATAK|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram|  
+|[Priyyansh Manish Parikh](https://www.worldcubeassociation.org/persons/2016PARE07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram|  
+|Pulkit Piyush Chavda|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,pyram|  
 |[Purab Shah](https://www.worldcubeassociation.org/persons/2019SHAH10)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram|  
+|[Rahul Rokade](https://www.worldcubeassociation.org/persons/2015ROKA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1|  
 |[Ram Thakkar](https://www.worldcubeassociation.org/persons/2016THAK01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,pyram,skewb|  
 |Raushmit Gupta|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
+|Reyaansh Hardik Shah|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,pyram,skewb|  
 |[Rishabh Parmar](https://www.worldcubeassociation.org/persons/2017PARM02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333oh,minx,pyram,skewb|  
 |[Rishabh Sanghavi](https://www.worldcubeassociation.org/persons/2012SANG02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333oh,minx,pyram,skewb,sq1,333mbf|  
 |Ritesh yeragi|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
@@ -7911,21 +8256,23 @@ Key:
 |Rugved|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |Rutvik Sameer Warekar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |[Saachi Gokaldas](https://www.worldcubeassociation.org/persons/2018GOKA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
-|[Samiksha Sandip Salvi](https://www.worldcubeassociation.org/persons/2017SALV07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram,skewb|  
+|[Samiksha Sandip Salvi](https://www.worldcubeassociation.org/persons/2017SALV07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
 |[Samit Uttarkar](https://www.worldcubeassociation.org/persons/2017UTTA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|sq1|  
-|Shamika Kamath|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222|  
+|Shamika Kamath|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
 |[Shantanu Awale](https://www.worldcubeassociation.org/persons/2013AWAL01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,333ft,333oh,pyram,skewb|  
 |[Sharan Suvarna](https://www.worldcubeassociation.org/persons/2015SUVA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,333oh|  
 |[Shashank Hemmadi](https://www.worldcubeassociation.org/persons/2014HEMM01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222|  
 |Shaurya Jitesh Machchhar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |Shaurya Nanavati|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
-|Shikhar Kamath|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333fm,pyram,skewb|  
+|Shikhar Kamath|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333fm,pyram,skewb|  
 |Shiv Sakpal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
 |[Shlok Padmakar Chavan](https://www.worldcubeassociation.org/persons/2018CHAV19)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,pyram,skewb|  
 |Shobhit Manair|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Shresth Shah](https://www.worldcubeassociation.org/persons/2014SHAH08)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333fm,333oh,minx,pyram,skewb,sq1|  
+|Shrey Sandeep Rajani|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram,skewb|  
 |[Shreyanshi Krishna](https://www.worldcubeassociation.org/persons/2018KRIS24)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |[Shrijan Pal](https://www.worldcubeassociation.org/persons/2011PALS01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,333mbf|  
+|Shrishti Mehta|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|222,pyram|  
 |Shubh Abhijit Adhatrao|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|pyram|  
 |[Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Siddarth Sivakumar](https://www.worldcubeassociation.org/persons/2013SIVA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram,skewb|  
@@ -7934,7 +8281,7 @@ Key:
 |[Somya Srivastava](https://www.worldcubeassociation.org/persons/2014SRIV05)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Sriharsh Kasichainula|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222|  
 |[Sumit Mandlik](https://www.worldcubeassociation.org/persons/2017MAND09)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
-|[Suryansh Varma](https://www.worldcubeassociation.org/persons/2019VARM02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,333oh|  
+|[Suryansh Varma](https://www.worldcubeassociation.org/persons/2019VARM02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333oh,pyram|  
 |Tamanna Vinit Mody|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|222|  
 |[Tanish Punamiya](https://www.worldcubeassociation.org/persons/2018PUNA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Tanmay V. Phatak](https://www.worldcubeassociation.org/persons/2019PHAT02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222|  
@@ -7942,6 +8289,7 @@ Key:
 |[Tirthraj Swain](https://www.worldcubeassociation.org/persons/2019SWAI02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Deleted|333,222,333fm,pyram,skewb|  
 |Udyot saraswat|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|pyram|  
 |[Utkarsh Ashar](https://www.worldcubeassociation.org/persons/2017ASHA01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333ft,333oh,minx,pyram|  
+|[Vaidik Prasal](https://www.worldcubeassociation.org/persons/2017PRAS14)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,444|  
 |[Vandan Gohil](https://www.worldcubeassociation.org/persons/2019GOHI01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram|  
 |Varad Girish Kale|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |[Varad Mandar Gosavi](https://www.worldcubeassociation.org/persons/2016GOSA02)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,pyram,skewb|  
@@ -7952,24 +8300,43 @@ Key:
 |[Vihaan Nangia](https://www.worldcubeassociation.org/persons/2018NANG01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,minx,pyram|  
 |Vivaan Lakshmiratan|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,pyram|  
 |Yash Rahul Mhaskar|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,444|  
+|[Yashwardhan Budhiraja](https://www.worldcubeassociation.org/persons/2018BUDH01)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Pending|333,222,444,333bf,333fm,333oh,minx,pyram,skewb|  
 |Yug Hiren Shah|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram,skewb|  
 |Yuvaan Gupta|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333|  
 |Zahra Afzal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|222|  
 |Zainab Iqbal|NULL|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|222|  
 |[Zelig Rodrigues](https://www.worldcubeassociation.org/persons/2019RODR06)|India|[PhoenixMarketcity2019](https://www.worldcubeassociation.org/competitions/PhoenixMarketcity2019)|Accepted|333,222,444,pyram|  
+|[Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,333mbf|  
+|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
+|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
+|[Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01)|Singapore|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333fm|  
+|[Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,444bf,555bf,333mbf|  
+|[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm|  
+|[Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01)|Singapore|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
+|[Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
+|[Ryan Peh (白凯明)](https://www.worldcubeassociation.org/persons/2015PEHR01)|Singapore|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333fm|  
+|[Siew Hann Wen (蕭漢文)](https://www.worldcubeassociation.org/persons/2010WENS01)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333fm|  
+|[Teh Keng Foo (郑庆富)](https://www.worldcubeassociation.org/persons/2011FOOT01)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,333mbf|  
+|[Tiffany Soh (蘇明珠)](https://www.worldcubeassociation.org/persons/2010SOHT01)|Malaysia|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm|  
+|[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|[PleaseBeQuietMerdeka2019](https://www.worldcubeassociation.org/competitions/PleaseBeQuietMerdeka2019)|Pending|333bf,333fm,444bf,555bf,333mbf|  
 |[Aaron Meza Calderon](https://www.worldcubeassociation.org/persons/2019CALD01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,pyram,skewb|  
 |[Alejandro Collantes](https://www.worldcubeassociation.org/persons/2015COLL07)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,555,666,333bf,333oh,skewb,333mbf|  
 |[Alejandro Emilio Condori Pallardel](https://www.worldcubeassociation.org/persons/2017PALL01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333|  
 |[Alejandro Oscar Gonzales Torres](https://www.worldcubeassociation.org/persons/2017TORR29)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,333oh,pyram|  
 |[André Rodríguez Encinas](https://www.worldcubeassociation.org/persons/2019ENCI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,pyram|  
+|Angel Paúl Apaza Nazareth|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
 |[Carly Valentina Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2019AGUI04)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,pyram|  
 |[Cristhian Huamani Sarayasi](https://www.worldcubeassociation.org/persons/2019SARA06)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,pyram|  
 |[Daniel Laura](https://www.worldcubeassociation.org/persons/2018LAUR03)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Daniel Quiñones Olgado](https://www.worldcubeassociation.org/persons/2017OLGA01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,555,666,333fm,333oh,minx,pyram,sq1|  
 |[Diego Fernando Yampi Curie](https://www.worldcubeassociation.org/persons/2019CURI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,333bf,333fm,333oh,pyram,skewb,333mbf|  
 |[Dilan Lautaro Almora Berlanga](https://www.worldcubeassociation.org/persons/2016BERL03)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,333oh,pyram|  
+|[Edson Bryan Béjar Román](https://www.worldcubeassociation.org/persons/2017ROMA11)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,444,555,333oh,minx|  
+|[Edward Daniel Hancco Huayllani](https://www.worldcubeassociation.org/persons/2017HUAY05)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,pyram,skewb|  
+|[Esteban Daniel Rivera Diban](https://www.worldcubeassociation.org/persons/2017DIBA01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,555,666,777,333oh|  
 |[Fernando Ernesto Dios Cornejo](https://www.worldcubeassociation.org/persons/2019CORN02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,pyram,skewb|  
 |[Helar Gomez Chalco](https://www.worldcubeassociation.org/persons/2015CHAL01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,333bf,333fm,333mbf|  
+|[Ismael Béjar Román](https://www.worldcubeassociation.org/persons/2018ROMA16)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
 |Ivan Rodrigo Mamani Belizario|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,555|  
 |[Ivanna Salas Conde](https://www.worldcubeassociation.org/persons/2019COND01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,pyram|  
 |[Jael Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,333bf|  
@@ -7982,21 +8349,25 @@ Key:
 |[Juan Gualberto Quispe Leiva](https://www.worldcubeassociation.org/persons/2017LEIV02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333|  
 |[Leithian Riggenbach](https://www.worldcubeassociation.org/persons/2013RIGG01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,pyram|  
 |[Leonardo Rojas](https://www.worldcubeassociation.org/persons/2019ROJA05)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
+|[Luis Enrique Huanca Veliz](https://www.worldcubeassociation.org/persons/2019VELI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,444|  
+|[Manuel Alejandro Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,pyram|  
 |[Marcelo Omar Quispe Cutipa](https://www.worldcubeassociation.org/persons/2017CUTI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,333bf,333fm,333oh|  
 |[Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,sq1,333mbf|  
+|[Marco Stefano Cusacani](https://www.worldcubeassociation.org/persons/2019CUSA01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,333oh,pyram|  
 |[Mateo Eduardo Cuba San Miguel](https://www.worldcubeassociation.org/persons/2018MIGU01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,333oh|  
 |[Natán Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG03)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,333bf|  
 |[Oscar Paul Mamani Oscalla](https://www.worldcubeassociation.org/persons/2017OSCA02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,333bf,333fm,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Pedro Luis Mamani Suclla](https://www.worldcubeassociation.org/persons/2015SUCL01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,555,666,777,pyram,sq1|  
-|[Piero Alessandro Laguna Obregón](https://www.worldcubeassociation.org/persons/2016OBRE01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
+|[Piero Alessandro Laguna Obregón](https://www.worldcubeassociation.org/persons/2016OBRE01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Piero Stefano Menéndez Jaramillo](https://www.worldcubeassociation.org/persons/2017JARA09)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,555,minx,pyram|  
 |[Rachel Riggenbach](https://www.worldcubeassociation.org/persons/2011RIGG04)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
 |Rafael molina|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,pyram|  
 |[Ricardo Jesús Gambini Abril](https://www.worldcubeassociation.org/persons/2017ABRI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Rodrigo Salvador Huaranca Apaza](https://www.worldcubeassociation.org/persons/2019APAZ02)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,333oh,skewb|  
 |[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,skewb,333mbf|  
+|[Ronald Cáceres](https://www.worldcubeassociation.org/persons/2019CACE01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,333oh|  
 |[Santiago Mamani Livia](https://www.worldcubeassociation.org/persons/2019LIVI01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333|  
-|Sebastian Ruiz Gonzales Yocapalla|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,222,444,333oh,pyram|  
+|Sebastian Ruiz Gonzales Yocapalla|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333,222,333oh,pyram|  
 |[Sergio Machaca Asqui](https://www.worldcubeassociation.org/persons/2018ASQU01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
 |[Smeling Becerra](https://www.worldcubeassociation.org/persons/2016BECE01)|Peru|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Pending|333,444,555,666,777,333oh|  
 |Yamir Ccapa Paricahua|NULL|[PreNacionalesArequipa2019](https://www.worldcubeassociation.org/competitions/PreNacionalesArequipa2019)|Accepted|333|  
@@ -8211,6 +8582,7 @@ Key:
 |[William Niewand](https://www.worldcubeassociation.org/persons/2018NIEW02)|Australia|[PuzzlingPakenham2019](https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Zach Amiridis](https://www.worldcubeassociation.org/persons/2018AMIR03)|Australia|[PuzzlingPakenham2019](https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Zacheriah L. Huynh](https://www.worldcubeassociation.org/persons/2018HUYN06)|Australia|[PuzzlingPakenham2019](https://www.worldcubeassociation.org/competitions/PuzzlingPakenham2019)|Accepted|333,222,444,pyram|  
+|[Aarav Yadav](https://www.worldcubeassociation.org/persons/2016YADA04)|India|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444|  
 |Aaron Dante Farago|NULL|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,sq1|  
 |[Addison Heffernan](https://www.worldcubeassociation.org/persons/2016HEFF01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx,sq1|  
 |[Alex St. George](https://www.worldcubeassociation.org/persons/2018GEOR07)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Pending|333,444,555,minx,sq1|  
@@ -8237,7 +8609,9 @@ Key:
 |[Elliot Wiecek](https://www.worldcubeassociation.org/persons/2016WIEC02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf|  
 |[Ethan Perry](https://www.worldcubeassociation.org/persons/2019PERR02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx,sq1|  
 |[Ethan Zhuang](https://www.worldcubeassociation.org/persons/2018ZHUA10)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx,sq1|  
+|Gavin Cleary|NULL|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333|  
 |[Gregory Dorian](https://www.worldcubeassociation.org/persons/2018DORI01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx|  
+|[Howard Swift](https://www.worldcubeassociation.org/persons/2018SWIF01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,minx|  
 |[Isaac Rajagopal](https://www.worldcubeassociation.org/persons/2017RAJA08)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
 |[James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
 |Jamie Hosier|NULL|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333|  
@@ -8254,8 +8628,9 @@ Key:
 |[Matthew McMillan](https://www.worldcubeassociation.org/persons/2012MCMI01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
 |[Matthew Wilbur](https://www.worldcubeassociation.org/persons/2018WILB01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,sq1|  
 |[Nathan Bednar](https://www.worldcubeassociation.org/persons/2018BEDN02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx,sq1|  
+|[Nathaniel Kelly](https://www.worldcubeassociation.org/persons/2018KELL10)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Pending|333,444|  
 |[Nicholas McKee](https://www.worldcubeassociation.org/persons/2015MCKE02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
-|[Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Pending|333,444,555,333bf,minx|  
+|[Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx|  
 |[Nolan Chanda](https://www.worldcubeassociation.org/persons/2017CHAN29)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,sq1|  
 |[Owen Raymond](https://www.worldcubeassociation.org/persons/2018RAYM02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333|  
 |[Paul Galioto](https://www.worldcubeassociation.org/persons/2018GALI12)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,sq1|  
@@ -8271,6 +8646,7 @@ Key:
 |Steven Louis WInder|NULL|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444|  
 |[Thaddeus Ciras](https://www.worldcubeassociation.org/persons/2017CIRA01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,minx|  
 |[Timothy B. Kwartler](https://www.worldcubeassociation.org/persons/2018KWAR03)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
+|[TJ Fisher](https://www.worldcubeassociation.org/persons/2018FISH01)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Pending|333|  
 |[Trent Hutcheson](https://www.worldcubeassociation.org/persons/2016HUTC02)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,minx,sq1|  
 |[Tyler Jung](https://www.worldcubeassociation.org/persons/2019JUNG06)|USA|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,555,333bf,sq1|  
 |Tyler Trudell|NULL|[QuabbinSummer2019](https://www.worldcubeassociation.org/competitions/QuabbinSummer2019)|Accepted|333,444,minx|  
@@ -8282,7 +8658,7 @@ Key:
 |[Adan Maximiliano Silva Camacho](https://www.worldcubeassociation.org/persons/2018CAMA14)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,333oh,minx,pyram,skewb|  
 |Adan Maximiliano Silva Camacho|NULL|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
 |[Alberto Lopez Segura](https://www.worldcubeassociation.org/persons/2017SEGU03)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
-|[Alejandro Arteaga Mejia](https://www.worldcubeassociation.org/persons/2019MEJI04)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
+|[Alejandro Arteaga Mejia](https://www.worldcubeassociation.org/persons/2019MEJI04)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Alessandro Guilmar Cervantes Albarrán](https://www.worldcubeassociation.org/persons/2018ALBA04)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Alfredo Vasquez Mendoza](https://www.worldcubeassociation.org/persons/2016MEND07)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
@@ -8304,6 +8680,7 @@ Key:
 |[Daniel Rivera Isaias](https://www.worldcubeassociation.org/persons/2018ISAI02)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
 |[Daniel Waldo](https://www.worldcubeassociation.org/persons/2012WALD01)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Dante Jesus Arevalo Leal](https://www.worldcubeassociation.org/persons/2017LEAL04)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
+|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Diego Miguel Escamilla Hernández](https://www.worldcubeassociation.org/persons/2019HERN14)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Diego Quetzal López Mendoza](https://www.worldcubeassociation.org/persons/2019MEND05)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,333oh,minx,pyram|  
 |[Edgar Alejandro Ortega Cortes](https://www.worldcubeassociation.org/persons/2016CORT01)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,444,555,777,333oh|  
@@ -8356,20 +8733,96 @@ Key:
 |Santiago González Salud|NULL|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Deleted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Santiago Medina Guzmán](https://www.worldcubeassociation.org/persons/2017GUZM08)|Mexico|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx|  
 |Suárez Martínez Víctor Habib|NULL|[QuetzalCubing2019](https://www.worldcubeassociation.org/competitions/QuetzalCubing2019)|Accepted|333,222,skewb|  
+|Aleksander Tulguk (Александр Тульгук)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,clock,pyram|  
+|[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Alexander Katyukov (Александр Катюков)](https://www.worldcubeassociation.org/persons/2015KATY01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,clock|  
+|[Alexander Tocheniy (Александр Точеный)](https://www.worldcubeassociation.org/persons/2018TOCH02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Alexey Gundin (Алексей Гундин)](https://www.worldcubeassociation.org/persons/2018GUND03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,clock|  
+|[Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Anastasia Kochetkova](https://www.worldcubeassociation.org/persons/2018KOCH01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Anatoly Turenko (Анатолий Туренко)](https://www.worldcubeassociation.org/persons/2018TURE01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Andrey Krasovskiy](https://www.worldcubeassociation.org/persons/2012KRAS01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,pyram|  
+|[Andrey Panov (Андрей Панов)](https://www.worldcubeassociation.org/persons/2018PANO01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|Andrey Remizov (Андрей Ремизов)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,pyram|  
+|[Artem Kuminov](https://www.worldcubeassociation.org/persons/2017KUMI02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,333oh,clock|  
+|[Artem Popov (Артем Попов)](https://www.worldcubeassociation.org/persons/2018POPO07)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|Artyom Nosov (Артем Носов)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333|  
+|[Bogdan Zemlianskii (Богдан Землянский)](https://www.worldcubeassociation.org/persons/2018ZEML02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Daniil Kartashov (Даниил Карташов)](https://www.worldcubeassociation.org/persons/2019KART06)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,clock,pyram|  
+|[Daniil Nesterov](https://www.worldcubeassociation.org/persons/2017NEST02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|Danila Belov (Данила Белов)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333|  
+|[Diana Murnik](https://www.worldcubeassociation.org/persons/2015MURN01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Dmitriy Melnikov (Дмитрий Мельников)](https://www.worldcubeassociation.org/persons/2018MELN12)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Dmitry Dergunov](https://www.worldcubeassociation.org/persons/2012DERG01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh|  
+|[Dmitry Gundin](https://www.worldcubeassociation.org/persons/2016GUND05)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Dmitry Rodin (Дмитрий Родин)](https://www.worldcubeassociation.org/persons/2018RODI01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Egor Maslov](https://www.worldcubeassociation.org/persons/2019MASL01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Ekaterina Efimova (Екатерина Ефимова)](https://www.worldcubeassociation.org/persons/2018EFIM04)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Ekaterina Kaneva](https://www.worldcubeassociation.org/persons/2018KANE03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|Ekaterina Krasovskaya (Екатерина Красовская)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,pyram|  
+|[Ekaterina Makhova](https://www.worldcubeassociation.org/persons/2017MAKH01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Elizaveta Selezneva](https://www.worldcubeassociation.org/persons/2016SELE01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,skewb|  
+|[Erzhan Dzhaumutbaev](https://www.worldcubeassociation.org/persons/2015DZHA01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222|  
+|Evgeniy Dergachev (Евгений Дергачев)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,skewb|  
+|Evgeniy Tsarkov (Евгений Трасков)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,444|  
+|[Fyodor Borisov](https://www.worldcubeassociation.org/persons/2013BORI01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,clock,pyram|  
+|[Igor Kolosov (Игорь Колосов)](https://www.worldcubeassociation.org/persons/2018KOLO06)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Ilarion Kamardin (Иларион Камардин)](https://www.worldcubeassociation.org/persons/2019KAMA04)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Ilya Nazarov](https://www.worldcubeassociation.org/persons/2015NAZA02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Islam Kitiev](https://www.worldcubeassociation.org/persons/2017KITI02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Ivan Chetvertkov (Иван Четвертков)](https://www.worldcubeassociation.org/persons/2019CHET02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222|  
+|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Ivan Volochay](https://www.worldcubeassociation.org/persons/2019VOLO03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Konstantin Solovyev](https://www.worldcubeassociation.org/persons/2015SOLO01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,444,333oh,clock,pyram,skewb|  
+|[Kyyarkhan Nikolaev](https://www.worldcubeassociation.org/persons/2012NIKO01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|[Leonid Scherbakov (Леонид Щербаков)](https://www.worldcubeassociation.org/persons/2018SCHE07)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Maksim Demchenko (Максим Демченко)](https://www.worldcubeassociation.org/persons/2018DEMC01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|Maxim Bakulin (Максим Бакулин)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|[Maxim Grankin](https://www.worldcubeassociation.org/persons/2017GRAN12)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333|  
+|[Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Maxim Mikhaylov](https://www.worldcubeassociation.org/persons/2019MIKH05)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh|  
+|[Maxim Soloveychenko (Максим Соловейченко)](https://www.worldcubeassociation.org/persons/2018SOLO13)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,pyram|  
+|[Maxim Teplyakov (Максим Тепляков)](https://www.worldcubeassociation.org/persons/2018TEPL01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|[Mikhail Dain (Михаил Даин)](https://www.worldcubeassociation.org/persons/2018DAIN01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Mikhail Kharitonov](https://www.worldcubeassociation.org/persons/2019KHAR05)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Nikita Perfilov](https://www.worldcubeassociation.org/persons/2016PERF01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,clock,pyram|  
+|[Nikolay Ambrosiy (Николай Амбросий)](https://www.worldcubeassociation.org/persons/2019AMBR01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Nikolay Kurbatov (Николай Курбатов)](https://www.worldcubeassociation.org/persons/2018KURB03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Pavel Egorov](https://www.worldcubeassociation.org/persons/2016EGOR02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,clock,skewb|  
+|[Rustam Valeev](https://www.worldcubeassociation.org/persons/2013VALE03)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram|  
+|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
+|Sofya Bozheryanova (Софья Божерянова)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Stanislav Shleev](https://www.worldcubeassociation.org/persons/2013SHLE01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,skewb|  
+|[Stepan Makarenko](https://www.worldcubeassociation.org/persons/2017MAKA06)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333,222,444,333oh|  
+|Taisiya Filippova (Таисия Филиппова)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Pending|333|  
+|[Timofey Pastrevich](https://www.worldcubeassociation.org/persons/2017PAST08)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Timur Imanov](https://www.worldcubeassociation.org/persons/2018IMAN01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Timur Kapkin](https://www.worldcubeassociation.org/persons/2017KAPK01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|Uliana Roslyakova (Ульяна Рослякова)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222|  
+|[Valentina Solovyova](https://www.worldcubeassociation.org/persons/2015SOLO02)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,333oh,clock,pyram,skewb|  
+|[Vladimir Vasiliev (Владимир Васильев)](https://www.worldcubeassociation.org/persons/2018VASI04)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Vladislav Kozhin](https://www.worldcubeassociation.org/persons/2015KOZH01)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Vladislav Pyatnitsa](https://www.worldcubeassociation.org/persons/2014PYAT01)|Belarus|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|[Vsevolod Solovyov (Всеволод Соловьёв)](https://www.worldcubeassociation.org/persons/2018SOLO10)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|pyram|  
+|[Yuri Konovalov](https://www.worldcubeassociation.org/persons/2017KONO08)|Russia|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333,222,444,333oh,clock,pyram,skewb|  
+|Yuriy Makarov (Юрий Макаров)|NULL|[RamenskoeOpen2019](https://www.worldcubeassociation.org/competitions/RamenskoeOpen2019)|Accepted|333|  
 |[Alejandro Restrepo Echeverri](https://www.worldcubeassociation.org/persons/2017ECHE04)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb|  
-|[Alexander Soto Barco](https://www.worldcubeassociation.org/persons/2019BARC02)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333,clock,pyram|  
+|[Alexander Soto Barco](https://www.worldcubeassociation.org/persons/2019BARC02)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,clock,pyram|  
 |[Alexis Garcia](https://www.worldcubeassociation.org/persons/2017MARU09)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,333oh,minx|  
+|[Andres Arias Medina](https://www.worldcubeassociation.org/persons/2017MEDI06)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb|  
 |[Andres Felipe Rodríguez Londoño](https://www.worldcubeassociation.org/persons/2019LOND02)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,pyram|  
 |[Daniel Tabares Pavas](https://www.worldcubeassociation.org/persons/2017PAVA03)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
-|David Alejandro Benjumea Zapata|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333|  
+|David Alejandro Benjumea Zapata|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333|  
 |[Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
+|Diego Alejandro Avendaño Correa|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|pyram|  
 |[Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,777,333bf,clock,minx,pyram|  
 |[Emanuel Ojeda Montoya](https://www.worldcubeassociation.org/persons/2019MONT16)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,skewb|  
 |[Jean Paol Betancur Florez](https://www.worldcubeassociation.org/persons/2018FLOR29)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,444,555,333oh|  
 |[Jefferson Andres Durango Argaez](https://www.worldcubeassociation.org/persons/2014ARGA02)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Jefferson Camilo Barrios Velez](https://www.worldcubeassociation.org/persons/2014VELE03)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
-|[Jeison Daniel Calle](https://www.worldcubeassociation.org/persons/2017CALL11)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333|  
-|[Jorge Santos Lopez Quintero](https://www.worldcubeassociation.org/persons/2017QUIN15)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,minx|  
+|[Jeison Daniel Calle](https://www.worldcubeassociation.org/persons/2017CALL11)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333|  
+|[Jorge Santos Lopez Quintero](https://www.worldcubeassociation.org/persons/2017QUIN15)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Deleted|333,222,444,minx|  
 |Jose Miguel Avendaño|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333|  
 |[José Miguel Beguiristain](https://www.worldcubeassociation.org/persons/2019BEGU01)|Spain|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |[Juan David Carmona Vásquez](https://www.worldcubeassociation.org/persons/2017VASQ11)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,333bf,333oh,clock,minx,pyram,skewb|  
@@ -8377,13 +8830,15 @@ Key:
 |[Juan José Carvajal](https://www.worldcubeassociation.org/persons/2018CARV06)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Juan Manuel Bedoya Pimienta](https://www.worldcubeassociation.org/persons/2016PIMI02)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,444,555,777,333bf,333oh,minx|  
 |Juan Manuel Lopera Henao|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,skewb|  
+|[Juan Manuel Velásquez Rivera](https://www.worldcubeassociation.org/persons/2018RIVE20)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Deleted|333,222,444,333oh,clock,pyram|  
 |[Juan Pablo Ramírez](https://www.worldcubeassociation.org/persons/2019RAMI13)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,444,555,333oh|  
 |Juan Sebastián Castro|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333|  
 |Juan Sebastian Ramirez Cuartas|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
-|[Julián David Idárraga Restrepo](https://www.worldcubeassociation.org/persons/2019REST01)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Julián David Idárraga Restrepo](https://www.worldcubeassociation.org/persons/2019REST01)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,333bf,pyram,skewb|  
 |Julian esteban aristizabal gonzalez|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,pyram|  
 |[Kevin Carrillo García](https://www.worldcubeassociation.org/persons/2017GARC63)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |[Kevin Julian Ramirez](https://www.worldcubeassociation.org/persons/2017RAMI39)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
+|Kevin Miranda Mesa|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333|  
 |Mateo Lanuza|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333|  
 |Mateo Pérez Suárez|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,444|  
 |Miguel angel porras ochoa|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444|  
@@ -8392,6 +8847,7 @@ Key:
 |[Samuel Aroca](https://www.worldcubeassociation.org/persons/2018AROC01)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,333oh,minx,pyram,sq1|  
 |Samuel Davila Bolaños|NULL|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222|  
 |[Samuel Jimenez Arroyave](https://www.worldcubeassociation.org/persons/2016ARRO04)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,555,333oh|  
+|[Santiago Jose Alvarádo Romero](https://www.worldcubeassociation.org/persons/2017ROME14)|Venezuela|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Santiago Salas](https://www.worldcubeassociation.org/persons/2018SALA10)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,pyram,skewb|  
 |[Sebastián Pulgarín Manrique](https://www.worldcubeassociation.org/persons/2017MANR03)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,222,444,333oh,clock,minx,pyram,skewb|  
 |[Sofia Calderon Gomez](https://www.worldcubeassociation.org/persons/2016GOME27)|Colombia|[RegionalesMedellin2019](https://www.worldcubeassociation.org/competitions/RegionalesMedellin2019)|Accepted|333,pyram,skewb|  
@@ -8475,6 +8931,60 @@ Key:
 |[Trenton Nelson](https://www.worldcubeassociation.org/persons/2019NELS01)|USA|[RestickerUtah2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019)|Pending|333,222,333oh,sq1|  
 |[Tyler Kohl](https://www.worldcubeassociation.org/persons/2019KOHL04)|USA|[RestickerUtah2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019)|Accepted|333,222|  
 |Xaiden Galley|NULL|[RestickerUtah2019](https://www.worldcubeassociation.org/competitions/RestickerUtah2019)|Accepted|333,222|  
+|[Abraham Torres Ortíz Aguirre](https://www.worldcubeassociation.org/persons/2016AGUI09)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,clock,skewb,sq1|  
+|[Alejandro Arteaga Mejia](https://www.worldcubeassociation.org/persons/2019MEJI04)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333oh,clock,skewb,sq1|  
+|[Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,clock,skewb|  
+|[Alessandro Guilmar Cervantes Albarrán](https://www.worldcubeassociation.org/persons/2018ALBA04)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Angel Alexis Carrillo Ramirez](https://www.worldcubeassociation.org/persons/2017RAMI08)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Angel Torres Perez](https://www.worldcubeassociation.org/persons/2017PERE26)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Areli Rubí Gordillo Martínez](https://www.worldcubeassociation.org/persons/2014MART08)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333|  
+|[Armando Martinez Perez](https://www.worldcubeassociation.org/persons/2019PERE13)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333oh,skewb,sq1|  
+|[Axel Hernández Flores](https://www.worldcubeassociation.org/persons/2017FLOR20)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Carlos Rill Garcia](https://www.worldcubeassociation.org/persons/2016GARC34)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333fm,333oh,clock,skewb,sq1|  
+|[César Mora Escobar](https://www.worldcubeassociation.org/persons/2017ESCO07)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333bf,333oh,clock,skewb,sq1|  
+|[Cesar Rios Carcaño](https://www.worldcubeassociation.org/persons/2018CARC01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333oh,clock,skewb|  
+|[Daniel Estrada Chávez](https://www.worldcubeassociation.org/persons/2019CHAV02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333oh,skewb|  
+|[Daniel Reyes Huerta](https://www.worldcubeassociation.org/persons/2018HUER02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333bf,333fm,333oh,skewb,sq1|  
+|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Eduardo Antonio Lara Martínez](https://www.worldcubeassociation.org/persons/2016MART09)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333fm,333oh,clock,skewb,sq1|  
+|[Eduardo Arturo Palacios Merino](https://www.worldcubeassociation.org/persons/2017MERI01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Emilio Torres Gonzalez](https://www.worldcubeassociation.org/persons/2019GONZ12)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333oh,skewb|  
+|[Emmanuel Moreno Perez](https://www.worldcubeassociation.org/persons/2016PERE25)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333fm,333oh,skewb,sq1|  
+|[Emmanuel Rangel Torres](https://www.worldcubeassociation.org/persons/2019TORR10)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,skewb,sq1|  
+|Estaling caf-ul  Rodriguez reyes|NULL|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333oh,clock,sq1|  
+|[Gamaliel Jimenez Oropeza](https://www.worldcubeassociation.org/persons/2018OROP01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333fm,333oh,clock,skewb,sq1|  
+|[Giovanni Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC23)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333oh,skewb,sq1|  
+|[Isaac Adair Nava Ozorio](https://www.worldcubeassociation.org/persons/2016OZOR01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Iván Guerrero Juárez](https://www.worldcubeassociation.org/persons/2016JUAR02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333fm,333oh,clock,skewb|  
+|[Jaime Tadeo Perez Cardona](https://www.worldcubeassociation.org/persons/2015CARD01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Jesús Fernando Castelán Gómez](https://www.worldcubeassociation.org/persons/2016GOME10)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Jesús Ivan Reyes Huerta](https://www.worldcubeassociation.org/persons/2019HUER01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333bf,333fm,333oh,skewb,sq1|  
+|[Jesús Jorge García López](https://www.worldcubeassociation.org/persons/2018LOPE09)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,clock,skewb,sq1|  
+|[Jesús Tadeo Perez Cardona](https://www.worldcubeassociation.org/persons/2016CARD01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|Joana Itzel Barreto López|NULL|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Joao Gamiño Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR41)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333fm,333oh,clock,skewb,sq1|  
+|[Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333fm,333oh,clock,skewb,sq1|  
+|[Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Jose Ernesto Osorno Huerta](https://www.worldcubeassociation.org/persons/2019HUER02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333oh,skewb,sq1|  
+|[Juan Antonio Miranda Zùñiga](https://www.worldcubeassociation.org/persons/2014ZUNI02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,skewb|  
+|[Juan de Dios Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC24)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|Karol Amauri Garcia Guevara|NULL|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,skewb|  
+|[Luis Angel Huerta Barrales](https://www.worldcubeassociation.org/persons/2017BARR34)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|Luis Antelmo Perez Cabrera|NULL|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,333oh|  
+|[Luis Antony Xicohtencatl Gutierrez](https://www.worldcubeassociation.org/persons/2018GUTI06)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,clock,skewb|  
+|[Luis Fernando García Campos](https://www.worldcubeassociation.org/persons/2017CAMP01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Miguel Ángel Cruz Hernández](https://www.worldcubeassociation.org/persons/2018HERN34)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Miguel Ramses Jaimes Flandez](https://www.worldcubeassociation.org/persons/2017FLAN02)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333fm,333oh,skewb,sq1|  
+|[Miguel Reyes](https://www.worldcubeassociation.org/persons/2016REYE11)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333fm,333oh,clock,skewb,sq1|  
+|[Oscar Matlalcuatzi Cruz](https://www.worldcubeassociation.org/persons/2017CRUZ07)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Pablo Osvaldo Cruz León](https://www.worldcubeassociation.org/persons/2019LEON01)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333fm,333oh,skewb,sq1|  
+|[Rocio Rodriguez Rivera](https://www.worldcubeassociation.org/persons/2016RIVE14)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Accepted|333,222,444,clock|  
+|[Rodrigo Noe Gonzalez Hidalgo](https://www.worldcubeassociation.org/persons/2015HIDA03)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
+|[Sebastian Daza Pérez](https://www.worldcubeassociation.org/persons/2018PERE12)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333oh,skewb|  
+|[Theo Daniel Gallegos Cuevas](https://www.worldcubeassociation.org/persons/2016CUEV04)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,333bf,333fm|  
+|[Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94)|Mexico|[RetoChignahuapan2019](https://www.worldcubeassociation.org/competitions/RetoChignahuapan2019)|Pending|333,222,444,777,333bf,333fm,333oh,clock,skewb,sq1|  
 |[Adrian Estrada](https://www.worldcubeassociation.org/persons/2010ESTR01)|Peru|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Pending|333,222,444,555,minx,sq1|  
 |Andrea Lambrtini|NULL|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222|  
 |[Damiano Di Paola](https://www.worldcubeassociation.org/persons/2016PAOL01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,666,777,minx,sq1|  
@@ -8484,6 +8994,7 @@ Key:
 |[Francesco Iezzi](https://www.worldcubeassociation.org/persons/2016IEZZ01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Pending|333,222,444,sq1|  
 |[Giovanni Bezzetto](https://www.worldcubeassociation.org/persons/2017BEZZ01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,minx,sq1|  
 |[Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,444,555,666,777,minx|  
+|[Ivan Kuimov](https://www.worldcubeassociation.org/persons/2019KUIM01)|Russia|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Pending|333|  
 |[Lorenzo Nicotra](https://www.worldcubeassociation.org/persons/2015NICO02)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|222|  
 |[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,666,777,minx,sq1|  
 |Luca Adorante|NULL|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222|  
@@ -8501,6 +9012,7 @@ Key:
 |[Riccardo Pilan](https://www.worldcubeassociation.org/persons/2013PILA01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,666,777,minx,sq1|  
 |[Simone Canova](https://www.worldcubeassociation.org/persons/2018CANO06)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,minx,sq1|  
 |[Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,666,777,minx,sq1|  
+|[Simone Pellegrini](https://www.worldcubeassociation.org/persons/2018PELL05)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,555,777|  
 |[Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,minx|  
 |[Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01)|Italy|[RoadtoICBologna2019](https://www.worldcubeassociation.org/competitions/RoadtoICBologna2019)|Accepted|333,222,444,555,666,777,minx|  
 |[Adrian Estrada](https://www.worldcubeassociation.org/persons/2010ESTR01)|Peru|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Pending|333,222,444,333fm,333oh,minx,skewb|  
@@ -8531,6 +9043,7 @@ Key:
 |[Giacomo Mastrosimone](https://www.worldcubeassociation.org/persons/2019MAST05)|Italy|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,222,skewb|  
 |[Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01)|Italy|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,444,333oh,minx|  
 |Lorenzo Giulio Ricci|NULL|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,222,444,minx|  
+|[Lorenzo Pillon](https://www.worldcubeassociation.org/persons/2017PILL04)|Italy|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Pending|333,222,444,333fm,333oh,minx,skewb|  
 |[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|Italy|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,222,444,333fm,minx,skewb|  
 |Luca Pizzagalli|NULL|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,333oh|  
 |Luca Zanella|NULL|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,222,444|  
@@ -8553,6 +9066,7 @@ Key:
 |[Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01)|Italy|[RoadtoICMilano2019](https://www.worldcubeassociation.org/competitions/RoadtoICMilano2019)|Accepted|333,222,444,333fm,333oh,minx,skewb|  
 |[Adrian Estrada](https://www.worldcubeassociation.org/persons/2010ESTR01)|Peru|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Pending|333,222,444,333bf,clock,pyram,skewb|  
 |[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|Italy|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Accepted|333,222,444,333bf,clock,pyram,skewb|  
+|Carlo Fagioli|NULL|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Accepted|333,222,pyram,skewb|  
 |[Damiano Di Paola](https://www.worldcubeassociation.org/persons/2016PAOL01)|Italy|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Accepted|333,222,444,333bf,clock,pyram,skewb|  
 |Eleonora Giangrandi|NULL|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Accepted|333,222,444,pyram,skewb|  
 |[Fabio Calamati](https://www.worldcubeassociation.org/persons/2018CALA03)|Italy|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Accepted|333,222,444,clock,pyram,skewb|  
@@ -8571,16 +9085,19 @@ Key:
 |[Tommaso Cicconofri](https://www.worldcubeassociation.org/persons/2019CICC01)|Italy|[RoadtoICMontecatini2019](https://www.worldcubeassociation.org/competitions/RoadtoICMontecatini2019)|Pending|333,222,444,333bf,pyram|  
 |[Adrian Estrada](https://www.worldcubeassociation.org/persons/2010ESTR01)|Peru|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |[Alessandro Carconi](https://www.worldcubeassociation.org/persons/2019CARC01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,333oh,pyram|  
+|alessia mercuri|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222|  
 |Aurelio Liotta|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,pyram|  
 |Cecilia Tabet|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333|  
+|Christian Bonerba|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,pyram|  
 |Christian Marini|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,pyram|  
 |[Claudio Perrone](https://www.worldcubeassociation.org/persons/2019PERR03)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |[Damiano Di Paola](https://www.worldcubeassociation.org/persons/2016PAOL01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
 |Daniele Amoroso|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222|  
 |David Menon Ralph Felix|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333|  
 |[Davide Arnesano](https://www.worldcubeassociation.org/persons/2018ARNE04)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram,333mbf|  
-|Domenico Chilà|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,444,333bf,333mbf|  
+|Domenico Chilà|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,444,333bf,333mbf|  
 |[Edoardo Annesi](https://www.worldcubeassociation.org/persons/2011ANNE01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,444,333oh|  
+|Emilio Colombo|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Deleted|333|  
 |Enrico Quilici|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222|  
 |[Eugenio Spadafora](https://www.worldcubeassociation.org/persons/2015SPAD01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333oh,pyram|  
 |[Fabio Calamati](https://www.worldcubeassociation.org/persons/2018CALA03)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333oh,pyram|  
@@ -8594,7 +9111,7 @@ Key:
 |[Giovanni Centili](https://www.worldcubeassociation.org/persons/2018CENT02)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Giulio Sicignano|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222|  
 |[Iulian Steavu](https://www.worldcubeassociation.org/persons/2013STEA01)|Romania|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,444,333oh,pyram|  
-|[Leonardo Oppi](https://www.worldcubeassociation.org/persons/2018OPPI01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,444,333bf,333oh,pyram|  
+|[Leonardo Oppi](https://www.worldcubeassociation.org/persons/2018OPPI01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Lorenzo Filigi|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222|  
 |[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,pyram,444bf,555bf,333mbf|  
 |Luca Saverio Ghinfanti|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333oh,pyram|  
@@ -8607,12 +9124,13 @@ Key:
 |[Paolo Resta](https://www.worldcubeassociation.org/persons/2018REST04)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,333mbf|  
 |[Pietro Gasparetto](https://www.worldcubeassociation.org/persons/2016GASP01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,444,333oh,pyram|  
 |[Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Simone Pellegrini](https://www.worldcubeassociation.org/persons/2018PELL05)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333,222,333bf,333oh|  
 |Vadim|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|222|  
 |[Valerio Antonini](https://www.worldcubeassociation.org/persons/2018ANTO19)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Valerio Colapinto|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,pyram|  
 |[Valerio Maggi](https://www.worldcubeassociation.org/persons/2018MAGG01)|Italy|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333,222,444,333bf,333oh,pyram|  
 |Valerio Raimondi Vallesi|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333|  
-|Vladimir Raducanu|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Pending|333|  
+|Vladimir Raducanu|NULL|[RoadtoICMonterotondo2019](https://www.worldcubeassociation.org/competitions/RoadtoICMonterotondo2019)|Accepted|333|  
 |Aaron Henault|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|pyram|  
 |Addy Knepp|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
 |[Aditya Vatsavai](https://www.worldcubeassociation.org/persons/2018VATS01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,333oh|  
@@ -8629,7 +9147,7 @@ Key:
 |[Benjamin Smith](https://www.worldcubeassociation.org/persons/2019SMIT12)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,pyram|  
 |[Braden Dalton](https://www.worldcubeassociation.org/persons/2019DALT01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,pyram|  
 |[Brett Barry](https://www.worldcubeassociation.org/persons/2017BARR15)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Pending|333,444,555,333oh,minx,pyram|  
-|[Brian John](https://www.worldcubeassociation.org/persons/2017JOHN22)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,pyram|  
+|[Brian John](https://www.worldcubeassociation.org/persons/2017JOHN22)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |Brooks Davis Portaro|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Cady Shields](https://www.worldcubeassociation.org/persons/2014SHIE03)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Caleb Arnette](https://www.worldcubeassociation.org/persons/2018ARNE03)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
@@ -8638,11 +9156,14 @@ Key:
 |[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Connor Yungbluth](https://www.worldcubeassociation.org/persons/2017YUNG02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[David Alexander Rimon](https://www.worldcubeassociation.org/persons/2019RIMO01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,pyram|  
+|[David Beugnon](https://www.worldcubeassociation.org/persons/2015BEUG01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Deleted|333,444,555,333oh,minx,pyram|  
 |Denizhan Kilic|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,minx,pyram|  
+|[Dixon Short](https://www.worldcubeassociation.org/persons/2018SHOR01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,minx,pyram|  
 |[Dylan Goldbach](https://www.worldcubeassociation.org/persons/2019GOLD02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,minx,pyram|  
 |[Elijah Beck](https://www.worldcubeassociation.org/persons/2017BECK02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Pending|333,444,555,333oh,minx,pyram|  
 |[Elijah Burgin](https://www.worldcubeassociation.org/persons/2018BURG10)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,minx,pyram|  
 |Ely Charqueno|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,minx,pyram|  
+|Ethan T. Horn|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444|  
 |Floyd Berona|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,333oh|  
 |[Galen Patrick Andreacchi](https://www.worldcubeassociation.org/persons/2018ANDR15)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
 |[George Thomas Huggins](https://www.worldcubeassociation.org/persons/2019HUGG01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
@@ -8650,6 +9171,7 @@ Key:
 |[Hailey Lambert](https://www.worldcubeassociation.org/persons/2018LAMB08)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,minx,pyram|  
 |Houston Graham Wrona|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444|  
 |[Ian Symonds](https://www.worldcubeassociation.org/persons/2017SYMO01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,pyram|  
+|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |Jacob Cash|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Pending|333,444,555,333oh|  
 |Jacob Sasine|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
 |James Tyler|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,pyram|  
@@ -8664,6 +9186,7 @@ Key:
 |Keenan Dominick|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333|  
 |[Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Kettler Ray](https://www.worldcubeassociation.org/persons/2018RAYK01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,minx,pyram|  
+|[Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh|  
 |[Kino Deligero](https://www.worldcubeassociation.org/persons/2018DELI01)|United Kingdom|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,pyram|  
 |Kirk Peetz|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,333oh,pyram|  
 |[Kyler Smith](https://www.worldcubeassociation.org/persons/2016SMIT32)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
@@ -8682,11 +9205,13 @@ Key:
 |[Natassia Jones](https://www.worldcubeassociation.org/persons/2017JONE16)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |Noah Symonds|NULL|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
 |[Pablo Hortal](https://www.worldcubeassociation.org/persons/2016HORT01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,pyram|  
+|[Parker Drumheller](https://www.worldcubeassociation.org/persons/2019DRUM01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,pyram|  
 |[Roxana Johnson](https://www.worldcubeassociation.org/persons/2019JOHN03)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,pyram|  
 |[Ryan Gilson](https://www.worldcubeassociation.org/persons/2016GILS01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Sophia Sinclair](https://www.worldcubeassociation.org/persons/2019SINC02)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,pyram|  
 |[Spencer Leach](https://www.worldcubeassociation.org/persons/2019LEAC01)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,pyram|  
+|[Stephen Brett Salisbury](https://www.worldcubeassociation.org/persons/2017SALI11)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,minx,pyram|  
 |[Suzanne Tyler](https://www.worldcubeassociation.org/persons/2018TYLE03)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
 |[Teddy Feldmann](https://www.worldcubeassociation.org/persons/2018FELD03)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333|  
 |[Thomas Anderson](https://www.worldcubeassociation.org/persons/2017ANDE05)|USA|[RockyTheRamCubes2019](https://www.worldcubeassociation.org/competitions/RockyTheRamCubes2019)|Accepted|333,444,555,333oh,minx,pyram|  
@@ -8722,9 +9247,10 @@ Key:
 |Harvisanth Singh|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,333oh,pyram|  
 |Hasyrif Egoh|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222|  
 |[Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,555,666,777,minx|  
+|[Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,333bf,minx,pyram,sq1,444bf,555bf,333mbf|  
 |[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,333mbf|  
 |[Joel Yaw Yu Lon](https://www.worldcubeassociation.org/persons/2018LONJ01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,333oh,skewb|  
-|[Josiah Samuel Saysombath](https://www.worldcubeassociation.org/persons/2018SAYS01)|USA|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Deleted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Josiah Samuel Saysombath](https://www.worldcubeassociation.org/persons/2018SAYS01)|USA|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Joyce Peh](https://www.worldcubeassociation.org/persons/2017PEHJ01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,skewb|  
 |[Lim Hung](https://www.worldcubeassociation.org/persons/2016HUNG08)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
@@ -8732,10 +9258,12 @@ Key:
 |[Mohammad Syahir Syahmi](https://www.worldcubeassociation.org/persons/2019SYAH01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,666,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Mohd Al Hanafi Bin Jamian](https://www.worldcubeassociation.org/persons/2017JAMI01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |Muhammad Al-Hadi Akmal|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
+|muhammad baihaqi bin ibrahim|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Deleted|333|  
 |[Muhammad Fauzan Atallah](https://www.worldcubeassociation.org/persons/2019ATAL01)|Indonesia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
 |[Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |Muhammad Wafiy Bin Mohd Khairol Faizi|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,pyram,skewb|  
 |[Nabil Nur Aiman Bin Jasman](https://www.worldcubeassociation.org/persons/2010JASM01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb|  
+|Nathan Chow Jiann Gang|NULL|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,444,777|  
 |[Nazrin Afzal bin Mohd Basir](https://www.worldcubeassociation.org/persons/2010BASI01)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,minx,pyram|  
 |[Nordarwish Akmal Bin Noor Ibrahim](https://www.worldcubeassociation.org/persons/2019IBRA02)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Ronald Well Sung](https://www.worldcubeassociation.org/persons/2019SUNG04)|Malaysia|[SabahCubeOpen2019](https://www.worldcubeassociation.org/competitions/SabahCubeOpen2019)|Pending|333,222,444,555,minx,pyram,skewb|  
@@ -8755,8 +9283,10 @@ Key:
 |[Abhimanyu Singhal](https://www.worldcubeassociation.org/persons/2013SING12)|India|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,777,333oh,minx,pyram,skewb|  
 |[Alec Brown](https://www.worldcubeassociation.org/persons/2019BROW01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,pyram|  
 |[Austin Chen](https://www.worldcubeassociation.org/persons/2015CHEN20)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,333oh,pyram|  
+|[Breanna LaGere](https://www.worldcubeassociation.org/persons/2016LAGE01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Caleb Yao](https://www.worldcubeassociation.org/persons/2018YAOC02)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Christian Martin](https://www.worldcubeassociation.org/persons/2013MART03)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,777,333oh,minx,pyram,skewb|  
+|[Dan Pastushkov](https://www.worldcubeassociation.org/persons/2014PAST01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,777,333oh,minx,pyram,skewb|  
 |[Daniel Derebenskiy](https://www.worldcubeassociation.org/persons/2019DERE01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Pending|333,222,444,333oh,pyram,skewb|  
 |[Devin Corr-Robinett](https://www.worldcubeassociation.org/persons/2006CORR01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Pending|333,222,444,777,333oh,minx,pyram,skewb|  
 |[Drew Derksen](https://www.worldcubeassociation.org/persons/2019DERK02)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,pyram,skewb|  
@@ -8790,6 +9320,7 @@ Key:
 |[Weston Nemitz](https://www.worldcubeassociation.org/persons/2018NEMI03)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,pyram|  
 |[Will Walter](https://www.worldcubeassociation.org/persons/2017WALT01)|USA|[SacCubingVIII2019](https://www.worldcubeassociation.org/competitions/SacCubingVIII2019)|Accepted|333,222,444,333oh,pyram|  
 |[Adam Walker](https://www.worldcubeassociation.org/persons/2012WALK02)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh|  
+|[Akilan Chithra Sathish](https://www.worldcubeassociation.org/persons/2017SATH01)|India|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,skewb|  
 |[Amogh Adluri](https://www.worldcubeassociation.org/persons/2018ADLU01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
 |[Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
 |[Anka Engin](https://www.worldcubeassociation.org/persons/2017ENGI01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
@@ -8810,6 +9341,7 @@ Key:
 |[Jackson Provance](https://www.worldcubeassociation.org/persons/2016PROV01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222|  
 |[Jason Zhang](https://www.worldcubeassociation.org/persons/2019ZHAN21)|Canada|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Pending|333,222,333oh,skewb|  
 |[Jenna Gain](https://www.worldcubeassociation.org/persons/2017GAIN03)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
+|Jonathan Ding|NULL|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222|  
 |[Jonathan Tai](https://www.worldcubeassociation.org/persons/2017TAIJ01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,333oh,skewb|  
 |[Jonny Katz](https://www.worldcubeassociation.org/persons/2016KATZ01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,333oh,skewb|  
 |[Jun Roley-Arzaga](https://www.worldcubeassociation.org/persons/2018ROLE01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh|  
@@ -8827,7 +9359,8 @@ Key:
 |[Nevign Angelique Besas](https://www.worldcubeassociation.org/persons/2018BESA02)|Philippines|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
 |[Nipun Das](https://www.worldcubeassociation.org/persons/2017DASN01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,555,333oh,skewb|  
 |Ruei-Chi Lai|NULL|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,333oh|  
-|[Scott Weston](https://www.worldcubeassociation.org/persons/2016WEST10)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Pending|333,222,555,333oh,skewb|  
+|[Ryan Woytowitz](https://www.worldcubeassociation.org/persons/2015WOYT01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Pending|333,222,555,333oh,skewb|  
+|[Scott Weston](https://www.worldcubeassociation.org/persons/2016WEST10)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,555,333oh,skewb|  
 |[Thomas Nguyen](https://www.worldcubeassociation.org/persons/2016NGUY02)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Pending|333,222,555,333oh,skewb|  
 |[Timothy Zhuang](https://www.worldcubeassociation.org/persons/2015ZHUA03)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Accepted|333,222,333oh,skewb|  
 |[Tyler Guler](https://www.worldcubeassociation.org/persons/2019GULE01)|USA|[SanDiegoSummer2019](https://www.worldcubeassociation.org/competitions/SanDiegoSummer2019)|Pending|333,222,333oh,skewb|  
@@ -8846,14 +9379,17 @@ Key:
 |[Birk Bredland](https://www.worldcubeassociation.org/persons/2014BRED02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Carl Abrahamsen](https://www.worldcubeassociation.org/persons/2018ABRA12)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
-|[Daniel Nygård](https://www.worldcubeassociation.org/persons/2017NYGA01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Pending|333,222,444,555,333oh,pyram,skewb|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
+|[Daniel Nygård](https://www.worldcubeassociation.org/persons/2017NYGA01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |David Strømme Eikeland|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
 |Eirik Hana Rettedal|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
 |[Eivind Hamre](https://www.worldcubeassociation.org/persons/2018HAMR01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,minx,pyram,skewb|  
+|Emil Fleischmann Salomonsen|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222|  
 |Erlend Engelsgjerd|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,444,333fm|  
 |[Filip Nilsen](https://www.worldcubeassociation.org/persons/2016NILS03)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Filipp Bergmann](https://www.worldcubeassociation.org/persons/2019BERG04)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,pyram,skewb|  
-|[Harald Skinnes Kryvi](https://www.worldcubeassociation.org/persons/2018KRYV02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,333oh,minx,pyram|  
+|Giann Roland Superal Alban|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Pending|333,333oh|  
+|[Harald Skinnes Kryvi](https://www.worldcubeassociation.org/persons/2018KRYV02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram|  
 |[Henrik Arnøy](https://www.worldcubeassociation.org/persons/2018ARNO03)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Isak Stephansen](https://www.worldcubeassociation.org/persons/2019STEP05)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb|  
 |[Jake Purcell](https://www.worldcubeassociation.org/persons/2018PURC01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram|  
@@ -8861,6 +9397,7 @@ Key:
 |Jarand Borut Wakounig|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram|  
 |Johan CHester|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,minx,pyram|  
 |[Jonas Bjorland](https://www.worldcubeassociation.org/persons/2018BJOR04)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,minx,pyram,skewb|  
+|[Jonas Hansen Haugsvær](https://www.worldcubeassociation.org/persons/2019HAUG01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Jonas Westgård](https://www.worldcubeassociation.org/persons/2018WEST05)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Jonatan Solheim](https://www.worldcubeassociation.org/persons/2012SOLH02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
 |Karl Magnus Tveitå|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|222|  
@@ -8868,7 +9405,7 @@ Key:
 |[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb|  
 |[Lars Ulveseth](https://www.worldcubeassociation.org/persons/2018ULVE01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,minx,pyram,skewb|  
 |Leander Kristiansen Tiller|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram|  
-|[Liam Uno Timour-Silveira](https://www.worldcubeassociation.org/persons/2017TIMO01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
+|[Liam Uno Timour-Silveira](https://www.worldcubeassociation.org/persons/2017TIMO01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |Linn Eli Vestli Ruste|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Deleted|333|  
 |[Magne Njå](https://www.worldcubeassociation.org/persons/2015NJAM01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |Magnus B. Meland|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,333oh|  
@@ -8876,7 +9413,8 @@ Key:
 |[Mandius Teig](https://www.worldcubeassociation.org/persons/2018TEIG01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram,skewb|  
 |Martin Espe|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram,skewb|  
 |Nickolas Frugone|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222|  
-|[Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Pending|333,222,444,555,666,333bf,333fm,minx,pyram|  
+|[Noah Viraj Haugen](https://www.worldcubeassociation.org/persons/2019HAUG02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,pyram|  
+|[Ole Nikolai Gjerset](https://www.worldcubeassociation.org/persons/2011GJER02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,minx,pyram|  
 |Oliver Barkved-Panczel|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222|  
 |Oliver Varland Heien|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,pyram|  
 |[Oskar Feed Jakobsen](https://www.worldcubeassociation.org/persons/2017JAKO02)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,333bf,333oh|  
@@ -8887,6 +9425,7 @@ Key:
 |[Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01)|Norway|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,pyram,skewb|  
 |Vegard Steinnes|NULL|[SandnesOpen2019](https://www.worldcubeassociation.org/competitions/SandnesOpen2019)|Accepted|333,222,333oh|  
 |[Adam Walker](https://www.worldcubeassociation.org/persons/2012WALK02)|USA|[SantaBarbaraFall2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019)|Accepted|333,222,444,333oh|  
+|Aidan Kunert|NULL|[SantaBarbaraFall2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019)|Accepted|333,222|  
 |[Alex Chow](https://www.worldcubeassociation.org/persons/2016CHOW08)|USA|[SantaBarbaraFall2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019)|Accepted|333,222,444,333oh,sq1|  
 |Amaan Ziaulla|NULL|[SantaBarbaraFall2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019)|Accepted|333|  
 |[Andrew Stone](https://www.worldcubeassociation.org/persons/2017STON07)|USA|[SantaBarbaraFall2019](https://www.worldcubeassociation.org/competitions/SantaBarbaraFall2019)|Accepted|333,222,444,333oh,sq1|  
@@ -8941,7 +9480,7 @@ Key:
 |[Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |[Gabriel Gonçalves Fontes](https://www.worldcubeassociation.org/persons/2018FONT04)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333,222,333oh|  
 |[Gustavo Fonseca da Silva](https://www.worldcubeassociation.org/persons/2019SILV06)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333,222,444,333oh,minx,pyram,sq1|  
-|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
+|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Matheus Casassa Viana](https://www.worldcubeassociation.org/persons/2017VIAN01)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb|  
 |[Mauricio Paulino Marques Fernandes](https://www.worldcubeassociation.org/persons/2017FERN19)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |Nathan Prado da Costa|NULL|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Pending|333|  
@@ -8950,21 +9489,27 @@ Key:
 |[Ronan Felipe Jorge](https://www.worldcubeassociation.org/persons/2009JORG02)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|[SchoolmarkOpen2019](https://www.worldcubeassociation.org/competitions/SchoolmarkOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Austin Veha Sao](https://www.worldcubeassociation.org/persons/2017SAOA01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333|  
+|[Brett Barry](https://www.worldcubeassociation.org/persons/2017BARR15)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Pending|333,444,clock,pyram|  
 |[Cady Shields](https://www.worldcubeassociation.org/persons/2014SHIE03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,clock,pyram|  
 |[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram,444bf,555bf|  
 |[Chad Harris](https://www.worldcubeassociation.org/persons/2015HARR03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram,444bf,555bf|  
+|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|444bf,555bf|  
 |[Greyson Kerr](https://www.worldcubeassociation.org/persons/2017KERR01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,clock,pyram|  
 |[Hailey Lambert](https://www.worldcubeassociation.org/persons/2018LAMB08)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,pyram|  
 |Hank Foster|NULL|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,clock,pyram|  
 |[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram,444bf,555bf|  
 |Jacob Sasine|NULL|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333|  
+|[John Albright](https://www.worldcubeassociation.org/persons/2016ALBR01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,clock,pyram|  
 |[Johnny Ta](https://www.worldcubeassociation.org/persons/2017TAJO02)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,clock,pyram|  
 |[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
 |[Kevin M. Hodge](https://www.worldcubeassociation.org/persons/2018HODG03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
 |[Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
 |[Matthew Feldmann](https://www.worldcubeassociation.org/persons/2016FELD01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
 |[Noah Diamond](https://www.worldcubeassociation.org/persons/2017DIAM01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
+|[Parker Powell](https://www.worldcubeassociation.org/persons/2015POWE03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,444bf,555bf|  
+|[Ryan Rodden](https://www.worldcubeassociation.org/persons/2018RODD01)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,pyram|  
 |[Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
+|[Sumanth Chandrupatla](https://www.worldcubeassociation.org/persons/2017CHAN07)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,pyram|  
 |[Teddy Feldmann](https://www.worldcubeassociation.org/persons/2018FELD03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333|  
 |[Thomas Anderson](https://www.worldcubeassociation.org/persons/2017ANDE05)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram|  
 |[Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03)|USA|[ScuppernongSpectacular2019](https://www.worldcubeassociation.org/competitions/ScuppernongSpectacular2019)|Accepted|333,444,333bf,clock,pyram,444bf,555bf|  
@@ -8981,6 +9526,7 @@ Key:
 |Ali Afir|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,444|  
 |Alizé Coudrais|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,pyram|  
 |[Anna Ranguin](https://www.worldcubeassociation.org/persons/2018RANG03)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222|  
+|[Anthony Goiset](https://www.worldcubeassociation.org/persons/2019GOIS01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Pending|555,333oh,minx,pyram,skewb,sq1|  
 |[Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |Antoine Coudrais|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,pyram|  
 |[Antoine Isselin](https://www.worldcubeassociation.org/persons/2014ISSE01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
@@ -8988,7 +9534,7 @@ Key:
 |[Axel Brisse](https://www.worldcubeassociation.org/persons/2016BRIS01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Benjamin Coudrais](https://www.worldcubeassociation.org/persons/2019COUD01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |Benoît Zumer|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,333bf,skewb,sq1|  
-|Camille Malek|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Pending|333,333oh|  
+|Camille Malek|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Pending|333|  
 |[Charles Daloz-Baltenberger](https://www.worldcubeassociation.org/persons/2018DALO01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Clara Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO02)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |[Damien Le Flanchec](https://www.worldcubeassociation.org/persons/2017FLAN01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,pyram,skewb|  
@@ -9033,6 +9579,7 @@ Key:
 |[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,444,555,333oh|  
 |[Philippe Virouleau](https://www.worldcubeassociation.org/persons/2008VIRO01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,minx,pyram,sq1|  
 |[Pierre Meunier](https://www.worldcubeassociation.org/persons/2016MEUN02)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
+|Prïnce TCHOUANGNOU|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Pending|333,444,minx|  
 |Quentin Geoffrin|NULL|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222|  
 |[Rémi Esturoune](https://www.worldcubeassociation.org/persons/2010ESTU01)|France|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Siew Hann Wen (蕭漢文)](https://www.worldcubeassociation.org/persons/2010WENS01)|Malaysia|[SensOpen2019](https://www.worldcubeassociation.org/competitions/SensOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb,sq1|  
@@ -9068,7 +9615,8 @@ Key:
 |Mohamed amin daoud|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333,222,pyram|  
 |Mohamed Chaâri|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333|  
 |MR.xAHMEDx|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333|  
-|Rachid Youssef hattab|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Pending|333|  
+|[Oussema Saïd](https://www.worldcubeassociation.org/persons/2018SAID02)|Tunisia|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333,222,444,pyram,skewb,sq1|  
+|Rachid Youssef hattab|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333|  
 |Taha Masmoudi|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333,222,pyram|  
 |Youssef Boussarsar|NULL|[SfaxSummerOpen2019](https://www.worldcubeassociation.org/competitions/SfaxSummerOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Ādams Ādamsons-Pedčenko](https://www.worldcubeassociation.org/persons/2018ADAM01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
@@ -9080,7 +9628,7 @@ Key:
 |[Artem Petukhov](https://www.worldcubeassociation.org/persons/2019PETU02)|Russia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
 |[Artūrs Smiltnieks](https://www.worldcubeassociation.org/persons/2018SMIL01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |Arvis Andrejevs|NULL|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333|  
-|Benas Aidukas|NULL|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
+|[Benas Aidukas](https://www.worldcubeassociation.org/persons/2019AIDU01)|Lithuania|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
 |[Dante Poskus](https://www.worldcubeassociation.org/persons/2019POSK01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
 |[Edgars Tamans](https://www.worldcubeassociation.org/persons/2019TAMA01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333fm,333oh|  
 |Eduards Andrejevs|NULL|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333|  
@@ -9104,6 +9652,7 @@ Key:
 |[Kristians Kisis](https://www.worldcubeassociation.org/persons/2018KISI01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
 |[Kristiāns Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Kristofers Balodis](https://www.worldcubeassociation.org/persons/2018BALO01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222|  
+|[Marks Cimermanis](https://www.worldcubeassociation.org/persons/2017CIME01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Markuss Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET02)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Mārtiņš Smilga](https://www.worldcubeassociation.org/persons/2016SMIL01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Matīss Maksis Podinskis](https://www.worldcubeassociation.org/persons/2018PODI02)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333fm,333oh|  
@@ -9113,6 +9662,7 @@ Key:
 |Oskars Gobnieks|NULL|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333|  
 |Oskars Tamans|NULL|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333|  
 |[Pauls Kušners](https://www.worldcubeassociation.org/persons/2018KUSN01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333fm,333oh|  
+|[Reinis Grīnbergs](https://www.worldcubeassociation.org/persons/2016GRNB01)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Renārs Robežnieks](https://www.worldcubeassociation.org/persons/2017ROBE09)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333bf,333fm,333oh|  
 |[Richard Uibo](https://www.worldcubeassociation.org/persons/2018UIBO01)|Estonia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333fm,333oh|  
@@ -9127,9 +9677,10 @@ Key:
 |[Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03)|Latvia|[SiguldaOpen2019](https://www.worldcubeassociation.org/competitions/SiguldaOpen2019)|Accepted|333,222,333fm,333oh|  
 |[Aidan Kai-Cheng Yeo](https://www.worldcubeassociation.org/persons/2019YEOA01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
 |[Arya Kedia](https://www.worldcubeassociation.org/persons/2016KEDI02)|India|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Aryan Ram Prashad](https://www.worldcubeassociation.org/persons/2019PRAS03)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ban Hsien Yang](https://www.worldcubeassociation.org/persons/2018YANG17)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,pyram|  
 |[Chan Haowei](https://www.worldcubeassociation.org/persons/2019HAOW03)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
-|[Cheah Gee Nung Ian](https://www.worldcubeassociation.org/persons/2016IANC01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,444,333oh|  
+|[Cheah Gee Nung Ian](https://www.worldcubeassociation.org/persons/2016IANC01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,444,333oh|  
 |[Chen Haorong (陈浩荣)](https://www.worldcubeassociation.org/persons/2016RONG02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Chin Yu An](https://www.worldcubeassociation.org/persons/2018ANCH01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
@@ -9139,10 +9690,11 @@ Key:
 |[Elmer Eng](https://www.worldcubeassociation.org/persons/2019ENGE04)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,333oh|  
 |[Favian Lim Wey Yee](https://www.worldcubeassociation.org/persons/2019YEEF01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Gan Hin Wen](https://www.worldcubeassociation.org/persons/2019WENG02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
 |[Glen Goh Wee Zhuan (吴洧全)](https://www.worldcubeassociation.org/persons/2015ZHUA01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |Goh Jun Jie|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Deleted|333,444,333oh|  
 |[Goh Jun Jie](https://www.worldcubeassociation.org/persons/2019JIEG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,444,333oh|  
-|Harvey Stewart|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222|  
+|Harvey Stewart|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
 |[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh|  
 |[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|222|  
 |[Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
@@ -9152,8 +9704,11 @@ Key:
 |Jiro James Robb|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,pyram|  
 |John Tan Wei Ming|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Johnson Toh Jun Hao](https://www.worldcubeassociation.org/persons/2019HAOJ01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,pyram|  
-|[Jonathan Chng](https://www.worldcubeassociation.org/persons/2015CHNG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333|  
+|[Jonathan Chng](https://www.worldcubeassociation.org/persons/2015CHNG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Jordan Kai-Wei Yeo](https://www.worldcubeassociation.org/persons/2019YEOJ03)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh|  
+|[Joshua Boey](https://www.worldcubeassociation.org/persons/2019BOEY01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
+|Julien Siow|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
+|[Kannan Hareesh Raj](https://www.worldcubeassociation.org/persons/2019RAJK03)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Kaustubh Vasudevan](https://www.worldcubeassociation.org/persons/2017VASU01)|USA|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Kitaan Reddy](https://www.worldcubeassociation.org/persons/2018REDD08)|Australia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,skewb|  
 |[Kyros Tan](https://www.worldcubeassociation.org/persons/2019TANK03)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
@@ -9166,83 +9721,162 @@ Key:
 |[Lim Yan Jie](https://www.worldcubeassociation.org/persons/2019JIEL02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh|  
 |[Lim Zhe Xi Zenneth](https://www.worldcubeassociation.org/persons/2019ZENN01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Lim Zi Way](https://www.worldcubeassociation.org/persons/2019WAYL01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,pyram|  
+|[Ling Guan Yu](https://www.worldcubeassociation.org/persons/2019YULI02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|222|  
 |[Lio Robb](https://www.worldcubeassociation.org/persons/2019ROBB02)|Japan|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|[Lionel Lee Wai Hoong](https://www.worldcubeassociation.org/persons/2019HOON01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,444|  
+|[Magracia Reuel Franz Ramirez](https://www.worldcubeassociation.org/persons/2019RAMI14)|Philippines|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Marcus Chan Yung-Jie](https://www.worldcubeassociation.org/persons/2018YUNG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |Mark Seah Zhe Yi|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Menon Bharath Sreekumar](https://www.worldcubeassociation.org/persons/2019SREE01)|India|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |Menon Bharath Sreekumar |NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Deleted|333,222,444,333oh,pyram|  
-|Michael Seah Zhe Xuan|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222|  
+|Michael Seah Zhe Xuan|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
+|[Muhammad Fauzan Atallah](https://www.worldcubeassociation.org/persons/2019ATAL01)|Indonesia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|Nagarajan Praakthish|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Ng Jia Quan](https://www.worldcubeassociation.org/persons/2015QUAN03)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ng Jun Jie](https://www.worldcubeassociation.org/persons/2016JIEN01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ng Yong Teng](https://www.worldcubeassociation.org/persons/2018TENG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Peixuan Shi (时培轩)](https://www.worldcubeassociation.org/persons/2017SHIP04)|China|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Pingda Lu (陆平达)](https://www.worldcubeassociation.org/persons/2018LUPI01)|China|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,333oh,pyram,skewb|  
 |[Ralph Phua](https://www.worldcubeassociation.org/persons/2017PHUA01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Reagan Tan](https://www.worldcubeassociation.org/persons/2019TANR01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222|  
+|[Rohan Austin Arun](https://www.worldcubeassociation.org/persons/2018ARUN01)|USA|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |[Ryan Peh (白凯明)](https://www.worldcubeassociation.org/persons/2015PEHR01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Ryan Wong Jun Hui](https://www.worldcubeassociation.org/persons/2019HUIR01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,skewb|  
 |[Samuel Lai](https://www.worldcubeassociation.org/persons/2015LAIS01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,444|  
 |[Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05)|United Kingdom|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Siah Yee Long](https://www.worldcubeassociation.org/persons/2015LONG01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,444,333oh|  
+|Siddharth|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,pyram,skewb|  
 |[Simon Lai](https://www.worldcubeassociation.org/persons/2015LAIS02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Soo Keng Yang Brayden](https://www.worldcubeassociation.org/persons/2016BRAY01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Suraj Karthik Lal Rajkumaralal](https://www.worldcubeassociation.org/persons/2019RAJK04)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,333oh|  
-|[Tan Yong Jie](https://www.worldcubeassociation.org/persons/2017JIET02)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,444,333oh,pyram,skewb|  
+|[Tan Yong Jie](https://www.worldcubeassociation.org/persons/2017JIET02)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|Tang Xuan Hao|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |[Tee Kai Long](https://www.worldcubeassociation.org/persons/2017LONG14)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444|  
 |[Tee Kai Yang](https://www.worldcubeassociation.org/persons/2017YANG59)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh|  
 |[Teo Bin Jie (张斌杰)](https://www.worldcubeassociation.org/persons/2012JIET01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Thada Phuenghua (ธาดา พึ่งฮั้ว)](https://www.worldcubeassociation.org/persons/2015PHUE01)|Thailand|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Pending|333,222,444,333oh,skewb|  
 |[Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Troy Tan Hong Kai](https://www.worldcubeassociation.org/persons/2017KAIT01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|[Wang Junwen (王俊文)](https://www.worldcubeassociation.org/persons/2009JUNW01)|Malaysia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |Wang Wuxu|NULL|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333|  
 |[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|Indonesia|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Ziming Li (李子鸣)](https://www.worldcubeassociation.org/persons/2016LIZI08)|China|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,pyram|  
+|[Ziqi Li (李子祺)](https://www.worldcubeassociation.org/persons/2016LIZI09)|China|[SingaporeMentalMatrixOpen2019](https://www.worldcubeassociation.org/competitions/SingaporeMentalMatrixOpen2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Ákos Dél](https://www.worldcubeassociation.org/persons/2016DELA07)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
+|[Alexey Tsvetkov](https://www.worldcubeassociation.org/persons/2017TSVE02)|Russia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333oh|  
+|[Arseniy Kuprin](https://www.worldcubeassociation.org/persons/2017KUPR02)|Russia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|555,666,777,clock,pyram,skewb,sq1|  
+|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Benedek Zimányi](https://www.worldcubeassociation.org/persons/2017ZIMA01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333oh|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,444,555,666,777,333bf,333fm,333ft,333oh,minx,sq1|  
+|[Eduard Mrug](https://www.worldcubeassociation.org/persons/2016MRUG01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb|  
+|[Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|Jakub Kuchár|NULL|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222|  
+|[Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
+|[Jan Křížka](https://www.worldcubeassociation.org/persons/2018KRIZ01)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,333ft,333oh,pyram,skewb,sq1|  
+|Jan Procházka|NULL|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222|  
+|[Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333bf,333fm,333ft,clock,pyram,skewb,sq1|  
+|[Jan Růžička](https://www.worldcubeassociation.org/persons/2019RUZI01)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Jan Schoř](https://www.worldcubeassociation.org/persons/2019SCHO05)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
+|[Klára Žeravská](https://www.worldcubeassociation.org/persons/2019ZERA01)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222|  
+|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|Lukáš Najman |NULL|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,pyram,skewb|  
+|[Maksym Dumanskyi (Максим Думанський)](https://www.worldcubeassociation.org/persons/2016DUMA01)|Ukraine|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,333bf|  
+|[Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
+|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Michal Kopča](https://www.worldcubeassociation.org/persons/2018KOPC01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333bf,333ft,333oh,pyram,skewb,sq1|  
+|[Niki Placskó](https://www.worldcubeassociation.org/persons/2008PLAC01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333bf,333fm,clock,pyram,skewb|  
+|[Oliver Kugler](https://www.worldcubeassociation.org/persons/2016KUGL01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
+|[Philipp Ručka](https://www.worldcubeassociation.org/persons/2015RUKA01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,333oh|  
+|[Robert Kaňa](https://www.worldcubeassociation.org/persons/2019KANA02)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,pyram,skewb|  
+|Samuel Chromiak|NULL|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222|  
+|[Šimon Borovský](https://www.worldcubeassociation.org/persons/2019BORO03)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram|  
+|[Simon Rúčka](https://www.worldcubeassociation.org/persons/2019RUCK01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,777,333bf,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01)|Hungary|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Timo Hromádka](https://www.worldcubeassociation.org/persons/2016HROM01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Timotej Šimurka](https://www.worldcubeassociation.org/persons/2017SIMU01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
+|[Tomáš Galamboš](https://www.worldcubeassociation.org/persons/2017GALA06)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram|  
+|[Tomáš Szyszkowicz](https://www.worldcubeassociation.org/persons/2017SZYS01)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01)|Slovakia|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
+|[Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01)|Austria|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Vojtěch Kundera](https://www.worldcubeassociation.org/persons/2015KUND04)|Czech Republic|[SlovakianOpen2019](https://www.worldcubeassociation.org/competitions/SlovakianOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Aaron Yao](https://www.worldcubeassociation.org/persons/2019YAOA01)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222|  
 |[Aditya Rajesh](https://www.worldcubeassociation.org/persons/2019RAJE02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,333oh|  
 |[Alex Siauw](https://www.worldcubeassociation.org/persons/2017SIAU01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Deleted|333,222,444,333bf,333oh,minx|  
 |[Alexander T. Her](https://www.worldcubeassociation.org/persons/2018HERA02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222|  
 |[Anastasia Ryder](https://www.worldcubeassociation.org/persons/2019RYDE03)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,minx|  
+|[Andrew Rizo](https://www.worldcubeassociation.org/persons/2016RIZO01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,333bf,333oh|  
+|Angela Wang|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222|  
+|[Arvin Tang](https://www.worldcubeassociation.org/persons/2012TANG03)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,444,333bf,333oh,minx|  
 |[Ashley Feniello](https://www.worldcubeassociation.org/persons/2018FENI01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,333oh|  
 |Brian Gorecki|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,333oh|  
 |[Caleb Hoover](https://www.worldcubeassociation.org/persons/2016HOOV01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
+|Daniel Wang|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,333oh|  
 |Darren Lee|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222|  
 |[David Brown](https://www.worldcubeassociation.org/persons/2017BROW09)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444|  
+|[Diego Moy](https://www.worldcubeassociation.org/persons/2017MOYD01)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh|  
 |[Donna Hays](https://www.worldcubeassociation.org/persons/2011HAYS02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333|  
-|[Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333bf,333oh,minx|  
+|[Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
 |Elijah Welden|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444|  
 |[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
 |[Ethan Ekström](https://www.worldcubeassociation.org/persons/2018EKST01)|Sweden|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333oh|  
 |[Ethan Kaiser](https://www.worldcubeassociation.org/persons/2019KAIS01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |Ewan Furlani-Dosdall|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |[Jackson Moore](https://www.worldcubeassociation.org/persons/2019MOOR04)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
+|[Jacob Kotai](https://www.worldcubeassociation.org/persons/2017KOTA01)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333bf,333oh,minx|  
 |[Jacob Santini](https://www.worldcubeassociation.org/persons/2019SANT17)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh|  
 |[Jake Scalzo](https://www.worldcubeassociation.org/persons/2018SCAL01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |[Jamar Leonard](https://www.worldcubeassociation.org/persons/2019LEON04)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,444|  
+|[James Pratt](https://www.worldcubeassociation.org/persons/2018PRAT13)|United Kingdom|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333oh|  
 |[Jonathan Truchot](https://www.worldcubeassociation.org/persons/2017TRUC02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |Kadin Hamann|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222|  
 |[Kai Rodland](https://www.worldcubeassociation.org/persons/2019RODL01)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh|  
 |[Ken Smith](https://www.worldcubeassociation.org/persons/2016SMIT28)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,444,333oh,minx|  
+|Kenny Stewart|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333oh|  
 |[Kevin Hays](https://www.worldcubeassociation.org/persons/2009HAYS01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,444,333oh|  
 |[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333bf,333oh,minx|  
 |[Kevin Nam](https://www.worldcubeassociation.org/persons/2017NAMK01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333oh,minx|  
 |[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |[Logan Wiltse](https://www.worldcubeassociation.org/persons/2017WILT01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333oh,minx|  
 |[Luke Jankowiak](https://www.worldcubeassociation.org/persons/2017JANK02)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh|  
+|[Matthew Deng](https://www.worldcubeassociation.org/persons/2019DENG01)|Canada|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333oh,minx|  
 |[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
 |Mihir A. Rai|NULL|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,333oh,minx|  
+|[Owen Tavener](https://www.worldcubeassociation.org/persons/2019TAVE02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,333bf,minx|  
 |[Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
+|[Rylie Tallant](https://www.worldcubeassociation.org/persons/2017TALL03)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,444|  
+|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Pending|333,222,444,333bf,333oh,minx|  
 |[Simmi Sen](https://www.worldcubeassociation.org/persons/2018SENS01)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444|  
+|[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|USA|[SnoCoFall2019](https://www.worldcubeassociation.org/competitions/SnoCoFall2019)|Accepted|333,222,444,333bf,333oh,minx|  
 |[Aleksandar Angelov](https://www.worldcubeassociation.org/persons/2012ANGE01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,777,clock,pyram,skewb|  
+|Alexander Kolev|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Alexandrina Mehandzhiyska](https://www.worldcubeassociation.org/persons/2019MEHA01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|222,444,555|  
 |Atilla Atalay|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,pyram|  
 |[Borislav Marchovski](https://www.worldcubeassociation.org/persons/2012MARC01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,777,clock,pyram|  
 |[Damyan Ivaylov Minchev](https://www.worldcubeassociation.org/persons/2019MINC01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,777,333oh,pyram,skewb|  
+|[Damyana Hadzhigenova](https://www.worldcubeassociation.org/persons/2019HADZ01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Deyan Krasimirov Razlozhki](https://www.worldcubeassociation.org/persons/2018RAZL01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,333oh,pyram|  
+|[Dimitar Totev](https://www.worldcubeassociation.org/persons/2019TOTE01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,skewb|  
+|[Georgi Angelov](https://www.worldcubeassociation.org/persons/2018ANGE02)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,333oh|  
 |Ihsan Gun|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|pyram|  
 |[Ivaylo Ivaylov Vichev](https://www.worldcubeassociation.org/persons/2018VICH01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,333oh,pyram,skewb|  
+|Kristian Kolev|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,skewb|  
 |[Kristina Kostova](https://www.worldcubeassociation.org/persons/2018KOST01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,skewb|  
 |Martin Dimitrov|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,pyram|  
+|Mihaela Krumova|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333|  
 |[Nikola Nikolaev Konov](https://www.worldcubeassociation.org/persons/2019KONO02)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|pyram,skewb|  
+|[Nikolai Petrov](https://www.worldcubeassociation.org/persons/2012PETR01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
 |[Plamen Mahladzhanov](https://www.worldcubeassociation.org/persons/2016MAHL01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,777,333oh,pyram,skewb|  
+|[Radostina Duleva](https://www.worldcubeassociation.org/persons/2015DULE02)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,333oh,pyram,skewb|  
+|[Rosen Emilov Tsogev](https://www.worldcubeassociation.org/persons/2018TSOG01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,333oh,pyram|  
 |Rumen Jivkov|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,clock|  
+|[Stoyan Kulish](https://www.worldcubeassociation.org/persons/2018KULI01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222|  
+|Stoyko Voynov|NULL|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Tanya Staneva](https://www.worldcubeassociation.org/persons/2019STAN08)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,444,skewb|  
 |[Tihomir Dulev](https://www.worldcubeassociation.org/persons/2015DULE03)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,555,pyram,skewb|  
 |[Todor Enikov](https://www.worldcubeassociation.org/persons/2012ENIK01)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
 |[Toni Petrov Karamanliev](https://www.worldcubeassociation.org/persons/2018KARA04)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,333oh,pyram,skewb|  
@@ -9250,37 +9884,43 @@ Key:
 |[Yoan Pavlov Ivanov](https://www.worldcubeassociation.org/persons/2018IVAN07)|Bulgaria|[SofiaAutumn2019](https://www.worldcubeassociation.org/competitions/SofiaAutumn2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Adrian Jose Casiño|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,skewb|  
 |[Alexa Lopez](https://www.worldcubeassociation.org/persons/2019LOPE07)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb|  
-|[Bille Janssen Lagarde](https://www.worldcubeassociation.org/persons/2014LAGA02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444,555|  
+|[Bille Janssen Lagarde](https://www.worldcubeassociation.org/persons/2014LAGA02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555|  
 |[Bradley Angelo Lo Wong](https://www.worldcubeassociation.org/persons/2017WONG03)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222|  
 |[Brenton Angelo Lo Wong](https://www.worldcubeassociation.org/persons/2017WONG01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Bryan Daza](https://www.worldcubeassociation.org/persons/2019DAZA02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb,sq1|  
+|[Bryan Villanueva](https://www.worldcubeassociation.org/persons/2016VILL08)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555|  
+|Caeo Tan|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444,555|  
 |[Cel Adriane Lalo](https://www.worldcubeassociation.org/persons/2012LALO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
-|[Clarence Kinsey G. Orozco](https://www.worldcubeassociation.org/persons/2018OROZ01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Clarence Kinsey G. Orozco](https://www.worldcubeassociation.org/persons/2018OROZ01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Dada Ayooluwa Samuel](https://www.worldcubeassociation.org/persons/2018SAMU05)|Nigeria|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,555,pyram,skewb,sq1|  
 |[Dale Stephen M. Palmares](https://www.worldcubeassociation.org/persons/2016STEP05)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,skewb|  
 |[Daryl Aliben](https://www.worldcubeassociation.org/persons/2017ALIB02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555,skewb,sq1|  
+|[Dietrich Jude M. Gaston](https://www.worldcubeassociation.org/persons/2018GAST01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,pyram,skewb|  
 |[Efraim Miguel I. Echipare](https://www.worldcubeassociation.org/persons/2019ECHI01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb|  
 |Eymard D Celestino|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444,sq1|  
 |[Gabriel Gaza](https://www.worldcubeassociation.org/persons/2017GAZA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram|  
 |[Gibran Kwan](https://www.worldcubeassociation.org/persons/2019KWAN01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb|  
-|[Hans Phillipe Sese](https://www.worldcubeassociation.org/persons/2018SESE01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444,555,pyram|  
+|[Hans Phillipe Sese](https://www.worldcubeassociation.org/persons/2018SESE01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555,pyram|  
 |[Hassan Shahnawaz Tarar](https://www.worldcubeassociation.org/persons/2019TARA06)|Pakistan|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,pyram,skewb|  
 |Ian Shaquelle Nilo|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
 |[Ivan Keith Cariaga](https://www.worldcubeassociation.org/persons/2017CARI02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,pyram,skewb,sq1|  
 |[Iya Franzene L. Hufancia](https://www.worldcubeassociation.org/persons/2018HUFA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram,skewb|  
 |[Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb,sq1|  
 |Jake Hung|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram,skewb|  
-|[Jansen Alvarez](https://www.worldcubeassociation.org/persons/2018ALVA16)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb,sq1|  
+|[Jansen Alvarez](https://www.worldcubeassociation.org/persons/2018ALVA16)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Jasper Shawn Habab](https://www.worldcubeassociation.org/persons/2018HABA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222|  
 |Jeramie Alipio|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
+|Jhave Vic Myron Carpio|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
 |jherzy jhay c. dela cruz|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Deleted|333,222,444,555,pyram,skewb,sq1|  
+|[John Aljun Torrevillas](https://www.worldcubeassociation.org/persons/2017TORR03)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram|  
 |[John Edison Ubaldo](https://www.worldcubeassociation.org/persons/2010UBAL01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,skewb,sq1|  
-|[John Emmanuel R. Poon](https://www.worldcubeassociation.org/persons/2018POON02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb|  
+|[John Emmanuel R. Poon](https://www.worldcubeassociation.org/persons/2018POON02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[John Mico Palo](https://www.worldcubeassociation.org/persons/2013PALO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444|  
 |[John Paul Custodio](https://www.worldcubeassociation.org/persons/2008CUST01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram,sq1|  
+|Jude Ericsson Regorgo|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
 |[Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444,555|  
 |[Karl Dominic M. Cloma](https://www.worldcubeassociation.org/persons/2018CLOM01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222|  
-|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb|  
+|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,pyram,skewb|  
 |[Kyle Christian M. Cloma](https://www.worldcubeassociation.org/persons/2018CLOM02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram|  
 |[Kyle Isaac Deposa](https://www.worldcubeassociation.org/persons/2017DEPO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Deleted|333,222,pyram,skewb|  
 |Lawrence Benedict  Sayson|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram|  
@@ -9289,27 +9929,29 @@ Key:
 |Lester Jhon Q. Guzman|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram|  
 |[Lorenzo Franco Kasilag](https://www.worldcubeassociation.org/persons/2016KASI01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|444,555,pyram,skewb,sq1|  
 |[Lorenzo Layug](https://www.worldcubeassociation.org/persons/2016LAYU01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
-|[Lorenzo T. Ubongen](https://www.worldcubeassociation.org/persons/2017UBON01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
+|[Lorenzo T. Ubongen](https://www.worldcubeassociation.org/persons/2017UBON01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444|  
 |[Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555|  
 |Luis Ben Antonio G. Monzon|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
-|[Mark Luigi Huyaban](https://www.worldcubeassociation.org/persons/2016HUYA02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,555|  
+|[Mark Luigi Huyaban](https://www.worldcubeassociation.org/persons/2016HUYA02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,555|  
+|[Matthew L. Mitra](https://www.worldcubeassociation.org/persons/2016MITR02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333|  
 |[Michael Angelo Zafra](https://www.worldcubeassociation.org/persons/2008ZAFR01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,555,pyram|  
 |[Milbert Ray Sasi](https://www.worldcubeassociation.org/persons/2016SASI02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
 |[Moses San Pascual](https://www.worldcubeassociation.org/persons/2012PASC01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,444|  
 |[Nathan Hung](https://www.worldcubeassociation.org/persons/2019HUNG06)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Nathanael Ian Muros](https://www.worldcubeassociation.org/persons/2017MURO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
-|[Nikko Gammad](https://www.worldcubeassociation.org/persons/2016GAMM02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555|  
+|[Nikko Gammad](https://www.worldcubeassociation.org/persons/2016GAMM02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555|  
 |[Nikolai Harvey Sy Zipagan](https://www.worldcubeassociation.org/persons/2017ZIPA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,sq1|  
 |[Niño Francis S. Reyes](https://www.worldcubeassociation.org/persons/2012REYE04)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555|  
 |[Perry Nathaniel Gonzales](https://www.worldcubeassociation.org/persons/2017GONZ39)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,skewb,sq1|  
 |[Pio Noah Arsenio](https://www.worldcubeassociation.org/persons/2016ARSE01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Psyron Eubert Catral](https://www.worldcubeassociation.org/persons/2016CATR01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb|  
+|[Rafael Danga](https://www.worldcubeassociation.org/persons/2019DANG05)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555|  
 |[Richmond Mico Rigor](https://www.worldcubeassociation.org/persons/2013RIGO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555|  
 |[Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb,sq1|  
 |[Robie Heherson Logo](https://www.worldcubeassociation.org/persons/2016LOGO01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|222,skewb,sq1|  
 |[Rodolfo Jepte Lutrania Mabanta](https://www.worldcubeassociation.org/persons/2015MABA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb|  
 |[Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,444,555,pyram|  
-|Rohnan Kei D. Roxas |NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555|  
+|Rohnan Kei D. Roxas |NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555|  
 |[Roshan Gabrelle D. Bautista](https://www.worldcubeassociation.org/persons/2019BAUT02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,pyram|  
 |[Rovic Zane De Leon](https://www.worldcubeassociation.org/persons/2019LEON14)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Ruperto Diza](https://www.worldcubeassociation.org/persons/2014DIZA01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb,sq1|  
@@ -9319,6 +9961,7 @@ Key:
 |[Sean Zowie Dwayne D. Cuaresma](https://www.worldcubeassociation.org/persons/2018CUAR02)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444,555,pyram,skewb,sq1|  
 |[Sigmund Oscar O. Baybay](https://www.worldcubeassociation.org/persons/2016BAYB01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,pyram,skewb|  
 |[Simon Peter Reyes](https://www.worldcubeassociation.org/persons/2018REYE05)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
+|[Stephen Mark V. Mariñas](https://www.worldcubeassociation.org/persons/2018MARI04)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,222,444|  
 |[Toby Litiatco](https://www.worldcubeassociation.org/persons/2018LITI01)|Philippines|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |Wolfgang Anthony Meloto Wilk|NULL|[SouthLuzonOpen2019](https://www.worldcubeassociation.org/competitions/SouthLuzonOpen2019)|Pending|333,pyram,skewb|  
 |[Aakash Mangla](https://www.worldcubeassociation.org/persons/2016MANG01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh|  
@@ -9328,16 +9971,19 @@ Key:
 |Abdul Muhaimin|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh,pyram|  
 |[Abhigyan Bhatt](https://www.worldcubeassociation.org/persons/2018BHAT11)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |[Abhijat Sahu](https://www.worldcubeassociation.org/persons/2015SAHU02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
+|[Abhishek Mohanta](https://www.worldcubeassociation.org/persons/2015MOHA09)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,444|  
 |Aditya Gupta|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,333oh|  
-|Adnan Abdul Khaliq|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333|  
+|Adnan Abdul Khaliq|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,444|  
+|Agastya Anchan|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222|  
 |Ajay Kumar Puthal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
+|[Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh|  
 |Akshat Arora|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |Akshit Bhasin|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,444|  
 |[Akshit Gohain](https://www.worldcubeassociation.org/persons/2018GOHA01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |Amani Moyeen|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |[Amit Kharb](https://www.worldcubeassociation.org/persons/2019KHAR04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |Anindy Sharma|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
-|Ankur Anand|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Deleted|333,222,333oh,pyram|  
+|Ankur Anand|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
 |[Anshu Kumar](https://www.worldcubeassociation.org/persons/2019KUMA04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh|  
 |Anubhav Aggarwal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |Anurav Garg|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
@@ -9346,9 +9992,10 @@ Key:
 |Arnav Anil Kumar|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444|  
 |Arnav Bansal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
 |Arnav Samaniya|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
-|Arsh Katiyar|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,333oh|  
+|Arsh Katiyar|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,333oh|  
 |[Aryan Bansal](https://www.worldcubeassociation.org/persons/2017BANS03)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |[Aryan Seth](https://www.worldcubeassociation.org/persons/2018SETH01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
+|[Aryan Yadav](https://www.worldcubeassociation.org/persons/2019YADA02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
 |[Aryav Saigal](https://www.worldcubeassociation.org/persons/2019SAIG01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |Ayush Chauhan |NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222|  
 |Bhomik Bhasin|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333|  
@@ -9359,6 +10006,8 @@ Key:
 |[Devansh Katyal](https://www.worldcubeassociation.org/persons/2019KATY01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh|  
 |[Devansh Mehrotra](https://www.worldcubeassociation.org/persons/2018MEHR01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,pyram|  
 |[Divij Yadav](https://www.worldcubeassociation.org/persons/2018YADA02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
+|Garvit|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
+|[Hargun Singh Tikku](https://www.worldcubeassociation.org/persons/2017TIKK01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
 |[Harshit Sharma](https://www.worldcubeassociation.org/persons/2019SHAR22)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |Himanshu Jindal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh|  
 |[Ishaan Singhal](https://www.worldcubeassociation.org/persons/2017SING09)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
@@ -9372,8 +10021,10 @@ Key:
 |Krishna Lakhera|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |[Kushaan Kapoor](https://www.worldcubeassociation.org/persons/2019KAPO04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,pyram|  
 |[Laksh Trivedi](https://www.worldcubeassociation.org/persons/2017TRIV02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh,pyram|  
+|[Lakshya Karwa](https://www.worldcubeassociation.org/persons/2016KARW01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh|  
 |[Lakshya Narang](https://www.worldcubeassociation.org/persons/2019NARA05)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444|  
 |Madhur Gupta|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444|  
+|[Mankala Harish](https://www.worldcubeassociation.org/persons/2018HARI06)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh|  
 |Manoj Bhatt|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
 |[Mihir Narayan](https://www.worldcubeassociation.org/persons/2018NARA14)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
 |[Mohammad Fazle Elahi](https://www.worldcubeassociation.org/persons/2017ELAH01)|Bangladesh|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh|  
@@ -9385,25 +10036,30 @@ Key:
 |[Naman Sharma](https://www.worldcubeassociation.org/persons/2019SHAR24)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,pyram|  
 |Niharika Kumari|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333|  
 |Nikhil Lal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
+|[Nilesh Saini](https://www.worldcubeassociation.org/persons/2018SAIN04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |[Nischal Nori](https://www.worldcubeassociation.org/persons/2017NORI01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
+|Nishchay Dhiman|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444|  
 |Paras singh|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,pyram|  
 |[Parth Rajpal](https://www.worldcubeassociation.org/persons/2019RAJP02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh,pyram|  
 |[Parth Sharma](https://www.worldcubeassociation.org/persons/2017SHAR18)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh|  
 |Prajot Singh|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
+|[Prakhar Alok Semwal](https://www.worldcubeassociation.org/persons/2018SEMW01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,333oh|  
 |Prakhar Lal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444|  
 |[Prayansh Vimal](https://www.worldcubeassociation.org/persons/2019VIMA01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |Priyanshu Raniwal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,pyram|  
+|Raghav Aggarwal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,pyram|  
 |[Raghav Bansal](https://www.worldcubeassociation.org/persons/2019BANS03)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
 |Ranveer Kapoor|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444|  
 |[Rehan Mongia](https://www.worldcubeassociation.org/persons/2019MONG02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,333oh,pyram|  
 |Ridhaan Prakash|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333|  
+|[Rohan Gupta](https://www.worldcubeassociation.org/persons/2018GUPT04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |[Ronit Singh Rawat](https://www.worldcubeassociation.org/persons/2016RAWA04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh|  
 |Ruhaan Singh Arora|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |Saamarth Lal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|222|  
 |Saarvin Singhal|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333|  
 |[Saloni Kumari](https://www.worldcubeassociation.org/persons/2019KUMA07)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |Samarth Sharma|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222|  
-|[Sambhav Bhalla](https://www.worldcubeassociation.org/persons/2017BHAL05)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh,pyram|  
+|[Sambhav Bhalla](https://www.worldcubeassociation.org/persons/2017BHAL05)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh,pyram|  
 |Samik Virmani|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|222,444,pyram|  
 |[Samrath Singh](https://www.worldcubeassociation.org/persons/2017SING06)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,222,444,333oh|  
 |[Sannidhya Rai](https://www.worldcubeassociation.org/persons/2018RAIS04)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
@@ -9411,6 +10067,7 @@ Key:
 |Shared Kumar|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,pyram|  
 |[Shaurya Udit](https://www.worldcubeassociation.org/persons/2019UDIT02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
 |[Shiva Sankar](https://www.worldcubeassociation.org/persons/2016SANK01)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,444,333oh|  
+|Shorya Sood|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|444,333oh,pyram|  
 |Shubham kumar|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333,444,333oh|  
 |Siddhant Chauhan|NULL|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Pending|333|  
 |[Siddharth Gautam](https://www.worldcubeassociation.org/persons/2019GAUT02)|India|[SpeedcubingESYA2019](https://www.worldcubeassociation.org/competitions/SpeedcubingESYA2019)|Accepted|333,222,pyram|  
@@ -9472,18 +10129,19 @@ Key:
 |Frankie Gallegos|NULL|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,pyram|  
 |[Harrison Ridnell](https://www.worldcubeassociation.org/persons/2018RIDN01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,pyram|  
 |[Judah Eck](https://www.worldcubeassociation.org/persons/2019ECKJ01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
-|[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Pending|333,222,444,666,minx,pyram|  
+|[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Pending|333,222,444,666,minx|  
 |Mateo Scappini|NULL|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|222,pyram|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Pending|333,222,444,666,minx,pyram|  
 |[Mia Sponseller](https://www.worldcubeassociation.org/persons/2017SPON01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Nathan Hoover](https://www.worldcubeassociation.org/persons/2018HOOV02)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,pyram|  
-|[Nathan Waitt](https://www.worldcubeassociation.org/persons/2018WAIT01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Pending|333,222,444,666,minx,pyram|  
+|[Nathan Waitt](https://www.worldcubeassociation.org/persons/2018WAIT01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
+|[Olutayo Ibukun](https://www.worldcubeassociation.org/persons/2019IBUK01)|Nigeria|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,pyram|  
 |[Paul Sanchirico](https://www.worldcubeassociation.org/persons/2016SANC28)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Ryan Thompson](https://www.worldcubeassociation.org/persons/2016THOM11)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,pyram|  
 |[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Talia Davis](https://www.worldcubeassociation.org/persons/2018DAVI27)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,pyram|  
-|[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Pending|333,222,444,666,minx,pyram|  
+|[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Yihan Deng (邓义涵)](https://www.worldcubeassociation.org/persons/2017DENG21)|China|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,minx,pyram|  
 |[Zach Vickery](https://www.worldcubeassociation.org/persons/2018VICK02)|USA|[SpokaneSummer2019](https://www.worldcubeassociation.org/competitions/SpokaneSummer2019)|Accepted|333,222,444,666,minx,pyram|  
 |[Agnes Ringia Wallin](https://www.worldcubeassociation.org/persons/2017WALL06)|Tanzania|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Deleted|333,222|  
@@ -9497,7 +10155,7 @@ Key:
 |Anton Moussallem|NULL|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333|  
 |[Arvid Strömdahl](https://www.worldcubeassociation.org/persons/2018STRO04)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Christian Arvidsson Johnsson](https://www.worldcubeassociation.org/persons/2019JOHN24)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,pyram,skewb|  
-|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,444bf,555bf,333mbf|  
+|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,444bf|  
 |[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,444bf,555bf,333mbf|  
 |[Eddie Sandberg](https://www.worldcubeassociation.org/persons/2017SAND03)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Edoardo Brown](https://www.worldcubeassociation.org/persons/2016BROW06)|Italy|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Pending|333,222,444,555,666,777,333fm,333oh,pyram,skewb|  
@@ -9573,6 +10231,12 @@ Key:
 |[Wilgot Rydevik](https://www.worldcubeassociation.org/persons/2019RYDE01)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,333mbf|  
 |William Kazemzadeh|NULL|[SSL3Varberg2019](https://www.worldcubeassociation.org/competitions/SSL3Varberg2019)|Accepted|333,222,444,pyram,skewb|  
+|[Caden Purdon](https://www.worldcubeassociation.org/persons/2019PURD01)|Canada|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333,222,pyram|  
+|[Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01)|Canada|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333,222,pyram|  
+|Immanuel Datul|NULL|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333|  
+|[Luke O'Bryan](https://www.worldcubeassociation.org/persons/2018OBRY01)|Canada|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333,222,pyram|  
+|Sarah Norcutt|NULL|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333,222,pyram|  
+|Tanner Hetherington|NULL|[Strathcona2019](https://www.worldcubeassociation.org/competitions/Strathcona2019)|Pending|333,222,pyram|  
 |Alan Josué Rugamas Barrientos|NULL|[SucursalDelCielo2019](https://www.worldcubeassociation.org/competitions/SucursalDelCielo2019)|Accepted|333,222,skewb|  
 |[Alvaro Samuel Castillo Flores](https://www.worldcubeassociation.org/persons/2015FLOR17)|El Salvador|[SucursalDelCielo2019](https://www.worldcubeassociation.org/competitions/SucursalDelCielo2019)|Accepted|333,222,444,555,333bf,333oh,skewb,sq1|  
 |[Anderson Dávila](https://www.worldcubeassociation.org/persons/2018DAVI03)|El Salvador|[SucursalDelCielo2019](https://www.worldcubeassociation.org/competitions/SucursalDelCielo2019)|Accepted|333,222,444,555,333bf,333oh|  
@@ -9640,6 +10304,7 @@ Key:
 |Mathys vogel|NULL|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,555,666,pyram,skewb|  
 |[Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01)|Switzerland|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Maxime Grosfillier](https://www.worldcubeassociation.org/persons/2016GROS07)|Switzerland|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,333bf,333ft,333oh,pyram,skewb|  
+|[Maximilian Elsener](https://www.worldcubeassociation.org/persons/2019ELSE02)|Switzerland|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Pending|333,222,pyram|  
 |Melvyn Defago|NULL|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222|  
 |[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,555,666,333bf,333ft,333oh,pyram,skewb|  
 |[Olivier Landsmeer](https://www.worldcubeassociation.org/persons/2017LAND03)|Switzerland|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,333bf,333ft,pyram|  
@@ -9657,6 +10322,7 @@ Key:
 |[Zaccari Schaller](https://www.worldcubeassociation.org/persons/2018SCHA02)|Switzerland|[SwisscubingCupIV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupIV2019)|Accepted|333,222,444,pyram,skewb|  
 |[Aaron Junker](https://www.worldcubeassociation.org/persons/2018JUNK01)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,clock,pyram,skewb|  
 |[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,333oh,333mbf|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Pending|333,222,444,555,333bf,333oh,clock,pyram,skewb,333mbf|  
 |[Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01)|Austria|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Daniel Houghton](https://www.worldcubeassociation.org/persons/2016HOUG03)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444|  
 |[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,555,333oh,clock,skewb|  
@@ -9669,6 +10335,7 @@ Key:
 |[Loris Neupert](https://www.worldcubeassociation.org/persons/2018NEUP01)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,333oh|  
 |[Maik Jäck](https://www.worldcubeassociation.org/persons/2018JACK06)|Germany|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,555,333oh,pyram|  
 |[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,555,333bf,333oh,clock,pyram,skewb,333mbf|  
+|[Marcel Kälin](https://www.worldcubeassociation.org/persons/2014KALI01)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Pending|333,222,444,333oh|  
 |[Mattia Pasquini](https://www.worldcubeassociation.org/persons/2019PASQ01)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
 |[Miklos Mohos](https://www.worldcubeassociation.org/persons/2017MOHO02)|Hungary|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,clock,pyram,skewb|  
 |[Nicolas Schmied](https://www.worldcubeassociation.org/persons/2017SCHM13)|Switzerland|[SwisscubingCupV2019](https://www.worldcubeassociation.org/competitions/SwisscubingCupV2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb|  
@@ -9688,6 +10355,7 @@ Key:
 |[Adam Moughnie](https://www.worldcubeassociation.org/persons/2017MOUG01)|Canada|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |Adriane Earl M. Nobleza|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,pyram|  
 |Alexandra N. Misa|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222|  
+|Algen Brian A. Amarillo|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,333oh,minx|  
 |[Alyssa Belle Yu](https://www.worldcubeassociation.org/persons/2016YUAL01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,666,333oh,clock,minx,pyram,skewb,sq1|  
 |[Arman Andrei Rabanes](https://www.worldcubeassociation.org/persons/2016RABA03)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,444,555,pyram,skewb|  
 |Arvin Lugnasin|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,444,333ft,333oh,pyram|  
@@ -9713,6 +10381,7 @@ Key:
 |[Ellethon Bernasor](https://www.worldcubeassociation.org/persons/2017BERN08)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333fm,333oh,pyram,skewb|  
 |Ellyn Novem Lacangan|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh|  
 |[Elmer Joseph Cutin](https://www.worldcubeassociation.org/persons/2016CUTI01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
+|Elmer V. Deo|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,minx,skewb|  
 |[Ethan Jake Malobago](https://www.worldcubeassociation.org/persons/2017MALO04)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |Eymard D Celestino|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,444,333oh|  
 |[Geferson Geraldo](https://www.worldcubeassociation.org/persons/2016GERA03)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram|  
@@ -9723,6 +10392,8 @@ Key:
 |[James Stephen Sarmiento Cubarol](https://www.worldcubeassociation.org/persons/2016CUBA02)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,clock|  
 |Jasper S. Villegas|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram|  
 |[Jerlyn Alvar Manginlaud](https://www.worldcubeassociation.org/persons/2015MANG02)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|Jimmie Rey Lorono|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,555,333oh|  
+|John Dexter Sebastian|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,pyram|  
 |[John Mharl Almacin](https://www.worldcubeassociation.org/persons/2015ALMA03)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |[John Nyth Oberez](https://www.worldcubeassociation.org/persons/2019OBER01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh|  
 |John Roel G. Patac|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
@@ -9733,6 +10404,7 @@ Key:
 |[Joshua Gavin Azupardo](https://www.worldcubeassociation.org/persons/2016AZUP01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333fm,333oh|  
 |[Josiah Samuel Saysombath](https://www.worldcubeassociation.org/persons/2018SAYS01)|USA|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Deleted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Julian Paolo Trinidad|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
+|[Julshz Lopez](https://www.worldcubeassociation.org/persons/2016LOPE20)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,555,333bf,333oh,333mbf|  
 |[Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,666,333fm,333oh,minx,pyram,skewb|  
 |[Kazmeer Shad Morandante](https://www.worldcubeassociation.org/persons/2016MORA14)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram,sq1|  
 |Ken Andrei A. Develos|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333fm,333oh|  
@@ -9749,6 +10421,7 @@ Key:
 |[Louis Edward Laroa](https://www.worldcubeassociation.org/persons/2018LARO02)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,pyram|  
 |Luther John Lumasag Daroy|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |Marcfloyd C. Noel|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram|  
+|[Meilfrance Lee Talasan](https://www.worldcubeassociation.org/persons/2017TALA01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,333oh|  
 |[Michael Adrian P. Labrador](https://www.worldcubeassociation.org/persons/2017LABR01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Michael Philip Wong](https://www.worldcubeassociation.org/persons/2018WONG10)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,minx,pyram|  
 |Nicko Jovan L. Bretaña|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,444,333oh,pyram,skewb|  
@@ -9756,10 +10429,13 @@ Key:
 |[Precious Angel Esquilla](https://www.worldcubeassociation.org/persons/2019ESQU02)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,333oh,pyram|  
 |Prince Clyde Melendres|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,333oh|  
 |Princess Llyra D. Cosino|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333fm,333ft,333oh|  
+|Radcliffe Clyde A. Calimpong|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,minx,skewb|  
+|Randel Renz Cuamag|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Rea Loraine A. Donayre](https://www.worldcubeassociation.org/persons/2017DONA06)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,pyram,skewb|  
 |[Richert Jay Pinca](https://www.worldcubeassociation.org/persons/2015PINC03)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Richert Jay Pinca Jr.](https://www.worldcubeassociation.org/persons/2016JRRI02)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,pyram|  
 |Ricmar Leo P Salar|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555|  
+|Roberto W. Corton|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,555,333fm|  
 |Ronald L. Languay|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram|  
 |Seath Margatinez|NULL|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Shane Melody Duque](https://www.worldcubeassociation.org/persons/2018DUQU01)|Philippines|[TagumCityOpen2019](https://www.worldcubeassociation.org/competitions/TagumCityOpen2019)|Accepted|333,222,444,pyram,skewb|  
@@ -9775,36 +10451,49 @@ Key:
 |Firuz Yuldashev|NULL|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
 |[Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01)|Uzbekistan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,444,555,333bf,333ft,333oh,minx,skewb,sq1|  
 |[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
-|[Madina Smagulova (Мадина Смагулова)](https://www.worldcubeassociation.org/persons/2018SMAG02)|Kazakhstan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,555,333ft,skewb|  
+|[Madina Smagulova (Мадина Смагулова)](https://www.worldcubeassociation.org/persons/2018SMAG02)|Kazakhstan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,555,333ft,clock,skewb|  
 |[Mehrdad Navidian Mehr (مهرداد نویدیان مهر)](https://www.worldcubeassociation.org/persons/2012MEHR01)|Iran|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,555,333bf,333ft,333oh,minx,pyram|  
 |Shahidkhojaev Islomiddinkhoja Iskandarkhojaevich|NULL|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,444,555|  
 |[Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05)|Tajikistan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,444,555,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Timur Mavlyanov](https://www.worldcubeassociation.org/persons/2017MAVL02)|Uzbekistan|[TajikistanOpen2019](https://www.worldcubeassociation.org/competitions/TajikistanOpen2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb,sq1|  
-|Alexander Javier Choque Arancibia|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333,222,pyram|  
-|[Ana Valencia](https://www.worldcubeassociation.org/persons/2018VALE15)|Bolivia|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,pyram|  
-|Cliver Miranda Ortega|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222|  
-|[Daniel C. Bedoya](https://www.worldcubeassociation.org/persons/2016CALI04)|Bolivia|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333,222,444,333oh|  
-|Emiliano Mostacedo Bazán|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222|  
-|Herlan Alejandro Aguirre Rivera|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333,222|  
-|[Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08)|Bolivia|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222,444,333oh,pyram|  
-|Manuel Ortega Velasquez|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333|  
-|Mario Alejandro Teran Marquez|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333,222,444|  
-|[Mario Fernando Alberto Alegria](https://www.worldcubeassociation.org/persons/2019ALEG01)|Bolivia|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Pending|333,222,444,pyram|  
-|Matias Lopez Bertram|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222|  
-|Nelson Rodrigo Rios|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333|  
-|Osmar Neil Salinas Gutierrez|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222|  
-|[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333,222,444,333oh,pyram|  
-|Sadith Eladio Mendez Cardozo|NULL|[TarijaOpen2019](https://www.worldcubeassociation.org/competitions/TarijaOpen2019)|Accepted|333|  
+|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|[TarnbyCubeTraef2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019)|Accepted|333,222,444,555,777,333bf,minx,pyram,skewb|  
+|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|[TarnbyCubeTraef2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019)|Accepted|333,222,444,555,777,333bf,minx,pyram,skewb|  
+|[Fredrik Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01)|Denmark|[TarnbyCubeTraef2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019)|Pending|333,222,444,555,777,333bf,minx,pyram,skewb|  
+|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|[TarnbyCubeTraef2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019)|Pending|333,222,444,555,777,333bf,minx,pyram,skewb|  
+|[Noah Søkilde Damborg](https://www.worldcubeassociation.org/persons/2019DAMB03)|Denmark|[TarnbyCubeTraef2019](https://www.worldcubeassociation.org/competitions/TarnbyCubeTraef2019)|Accepted|333,222,444,555,777,minx,pyram,skewb|  
+|[Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Antoine Piau](https://www.worldcubeassociation.org/persons/2008PIAU01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,minx,pyram,sq1|  
+|[Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,333mbf|  
+|[Axel Brisse](https://www.worldcubeassociation.org/persons/2016BRIS01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Benjamin Berns](https://www.worldcubeassociation.org/persons/2019BERN02)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
+|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|Dario Tommasi|NULL|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
+|[Delphine Tran (Ngọc Phượng Vĩ Trần)](https://www.worldcubeassociation.org/persons/2017TRAN24)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,444,555,333bf,333oh,minx,333mbf|  
+|[Elise Pointurier](https://www.worldcubeassociation.org/persons/2017POIN01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,pyram|  
+|[Florian Heerra](https://www.worldcubeassociation.org/persons/2015HEER01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Hippolyte Moreau](https://www.worldcubeassociation.org/persons/2008MORE02)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram,sq1|  
+|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Laurent Reynaud](https://www.worldcubeassociation.org/persons/2015REYN07)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,444,555,333bf,minx,333mbf|  
+|[Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
+|[Marco Giraud](https://www.worldcubeassociation.org/persons/2015GIRA03)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,sq1|  
+|[Marie Vincent](https://www.worldcubeassociation.org/persons/2016VINC01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
+|[Matteo Cucinotta](https://www.worldcubeassociation.org/persons/2018CUCI02)|Italy|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Paul de Saint Albin](https://www.worldcubeassociation.org/persons/2019ALBI01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,333oh,pyram,sq1|  
+|[Rémi Perrin](https://www.worldcubeassociation.org/persons/2018PERR04)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
+|[Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01)|France|[TassinlaDemiCubeOpen2019](https://www.worldcubeassociation.org/competitions/TassinlaDemiCubeOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1,333mbf|  
 |[Antônio Ferreira Neto](https://www.worldcubeassociation.org/persons/2016NETO03)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Pending|333,333bf,333mbf|  
 |[Diego Meneghetti](https://www.worldcubeassociation.org/persons/2012MENE01)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,333bf,333fm,333oh,333mbf|  
 |[Gleiciano Cosmo Santos](https://www.worldcubeassociation.org/persons/2015SANT41)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh,sq1,333mbf|  
 |[Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,333bf,333oh,333mbf|  
 |[Michel Vinicius Venske Pereira](https://www.worldcubeassociation.org/persons/2016PERE39)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh,sq1,333mbf|  
-|[Murillo Gomes Otero](https://www.worldcubeassociation.org/persons/2014OTER01)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh,sq1,333mbf|  
+|[Murillo Gomes Otero](https://www.worldcubeassociation.org/persons/2014OTER01)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh,sq1|  
 |Richard Bitencourt Dreyer|NULL|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Pending|333|  
 |[Thiago Kunrath](https://www.worldcubeassociation.org/persons/2014KUNR01)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh,sq1,333mbf|  
 |[Tiago Zamberlan](https://www.worldcubeassociation.org/persons/2016ZAMB05)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333mbf|  
 |[Willian Dias](https://www.worldcubeassociation.org/persons/2015DIAS03)|Brazil|[TcheMathCube2019](https://www.worldcubeassociation.org/competitions/TcheMathCube2019)|Accepted|333,222,333bf,333fm,333oh|  
+|Adeilson Rios|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
 |Airton Augusto Costa Carvalho|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222|  
 |Antônio Ayrton de Araújo Rocha|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222,333fm,333oh,pyram|  
 |Artur Henrique Matias Alexandre|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333|  
@@ -9813,7 +10502,7 @@ Key:
 |[Dayana Laís Oliveira dos Santos](https://www.worldcubeassociation.org/persons/2015SANT34)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222,444,333fm,333oh,pyram,sq1|  
 |Delano Vieira de Moura|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222|  
 |Emerton Rian Frazão da Silva|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,333oh,pyram|  
-|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
+|[Fabio Bini Graciose](https://www.worldcubeassociation.org/persons/2010GRAC02)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Francisco Davi Sousa dos Santos](https://www.worldcubeassociation.org/persons/2018SANT81)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222,444,333oh,clock,minx,pyram,skewb|  
 |[Gabriel Silva dos Santos](https://www.worldcubeassociation.org/persons/2014SANT16)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Huérllen Vicente Lemos e Silva](https://www.worldcubeassociation.org/persons/2014SILV33)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
@@ -9828,23 +10517,26 @@ Key:
 |[Mychell Wandson da Costa Silva](https://www.worldcubeassociation.org/persons/2017SILV47)|Brazil|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Pending|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |Renata Freire de Oliveira|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|222|  
 |Tony Richard Ferreira Torres Rocha|NULL|[TeresinaOpen2019](https://www.worldcubeassociation.org/competitions/TeresinaOpen2019)|Accepted|333,222,444,555,333fm,333oh|  
+|[Bianca-Maria Morgociu](https://www.worldcubeassociation.org/persons/2018MORG06)|Romania|[TimisoaraWestSideOpen2019](https://www.worldcubeassociation.org/competitions/TimisoaraWestSideOpen2019)|Pending|333,222,pyram|  
 |Frisan Laurentiu|NULL|[TimisoaraWestSideOpen2019](https://www.worldcubeassociation.org/competitions/TimisoaraWestSideOpen2019)|Pending|333,pyram|  
 |[Lázár Benedek](https://www.worldcubeassociation.org/persons/2017BENE03)|Romania|[TimisoaraWestSideOpen2019](https://www.worldcubeassociation.org/competitions/TimisoaraWestSideOpen2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |[Mihai Căpăţinescu](https://www.worldcubeassociation.org/persons/2012CAPA01)|Romania|[TimisoaraWestSideOpen2019](https://www.worldcubeassociation.org/competitions/TimisoaraWestSideOpen2019)|Accepted|333,222,444,333bf,333oh,pyram|  
+|[Vukašin Kopun](https://www.worldcubeassociation.org/persons/2018KOPU01)|Serbia|[TimisoaraWestSideOpen2019](https://www.worldcubeassociation.org/competitions/TimisoaraWestSideOpen2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |Abdurrahim Muhammad (Абдуррахим Мухаммад)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Deleted|333,222,333oh,sq1|  
 |Adam Valiyev (Адам Валиев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222|  
-|[Akim Syzrantsev](https://www.worldcubeassociation.org/persons/2017SYZR01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Pending|333,222,444|  
+|[Akim Syzrantsev](https://www.worldcubeassociation.org/persons/2017SYZR01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444|  
 |Aleksandr Vorozhtsov (Александр Ворожцов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram|  
 |[Alexey Baranov](https://www.worldcubeassociation.org/persons/2017BARA09)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333bf,333oh,clock,pyram,skewb|  
 |[Alexey Elokhin](https://www.worldcubeassociation.org/persons/2015ELOK01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,skewb|  
 |[Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |Amir Akhamov (Амир Ахамов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram,skewb|  
+|Amir Gabidullin (Амир Габидуллин)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,clock,minx,pyram,skewb|  
 |Amir Sabirov (Амир Сабиров)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
 |[Andrey Mishin](https://www.worldcubeassociation.org/persons/2017MISH06)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |Anna Lapteva (Анна Лаптева)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,pyram|  
 |[Anna Mokretsova](https://www.worldcubeassociation.org/persons/2017MOKR01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Anna Nikitina](https://www.worldcubeassociation.org/persons/2019NIKI05)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
-|Anton Konkov (Антон Коньков)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
+|Anton Konkov (Антон Коньков)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222|  
 |[Anton Novikov (Антон Новиков)](https://www.worldcubeassociation.org/persons/2019NOVI01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,clock,pyram|  
 |[Anton Uskov (Антон Усков)](https://www.worldcubeassociation.org/persons/2019USKO01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333oh,pyram|  
 |Artem Lukyanov (Артём Лукьянов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
@@ -9855,7 +10547,7 @@ Key:
 |[Azim Nuriakhmetov (Азим Нуриахметов)](https://www.worldcubeassociation.org/persons/2018NURI01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,pyram,sq1|  
 |[Bogdan Shirokov](https://www.worldcubeassociation.org/persons/2017SHIR03)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Daniil Bochkarev](https://www.worldcubeassociation.org/persons/2017BOCH02)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,pyram|  
-|[Danil Antoniu (Данил Антониу)](https://www.worldcubeassociation.org/persons/2019ANTO03)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,333fm,333oh,minx|  
+|[Danil Antoniu (Данил Антониу)](https://www.worldcubeassociation.org/persons/2019ANTO03)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,333fm,333oh,minx,pyram|  
 |[Darya Belonogova](https://www.worldcubeassociation.org/persons/2017BELO05)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |David Haidarov (Давид Хайдаров)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram|  
 |[Dmitry Novgorodov](https://www.worldcubeassociation.org/persons/2017NOVG01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
@@ -9869,7 +10561,9 @@ Key:
 |[Kirill Konovalov](https://www.worldcubeassociation.org/persons/2017KONO01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Deleted|333,222,clock,pyram,skewb|  
 |[Kirill Korobeynikov (Кирилл Коробейников)](https://www.worldcubeassociation.org/persons/2019KORO02)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Kirill Ogorodov (Кирилл Огородов)](https://www.worldcubeassociation.org/persons/2019OGOR01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,minx,pyram,skewb|  
+|[Kirill Pogudin (Кирилл Погудин)](https://www.worldcubeassociation.org/persons/2019POGU01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Pending|skewb|  
 |[Lenar Azmukhanov](https://www.worldcubeassociation.org/persons/2019AZMU01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333fm|  
+|Maksim Fefilov (Максим Фефилов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
 |Maksim Nikolayev (Максим Николаев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,pyram|  
 |[Marina Drovnikova](https://www.worldcubeassociation.org/persons/2019DROV01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
 |[Mark Semivolkov (Марк Семиволков)](https://www.worldcubeassociation.org/persons/2019SEMI01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333fm,333oh,clock,minx,pyram,skewb|  
@@ -9883,20 +10577,25 @@ Key:
 |Polina Konopleva (Полина Коноплева)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Polina Lapteva (Полина Лаптева)](https://www.worldcubeassociation.org/persons/2018LAPT02)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,555,333bf,333oh|  
 |Ramazan Valiyev (Рамазан Валиев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,pyram,skewb|  
+|Ramil Shayakhmetov|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Pending|333,222|  
 |[Rezeda Gaffarova (Резеда Гаффарова)](https://www.worldcubeassociation.org/persons/2018GAFF01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,333bf,pyram|  
 |Said Valiyev (Саид Валиев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222|  
+|Saveliy Chaadaev (Савелий Чаадаев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
 |[Semen Parshukov (Семен Паршуков)](https://www.worldcubeassociation.org/persons/2018PARS04)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |Semyon Evseyev (Семён Евсеев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Sergey Ryabko](https://www.worldcubeassociation.org/persons/2009RYAB01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333bf,333oh|  
 |[Stanislav Baranov](https://www.worldcubeassociation.org/persons/2017BARA03)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333bf,333fm,pyram,skewb|  
-|Stepan Yashtybaev (Степан Яштыбаев)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Pending|333,222,pyram|  
+|[Stepan Yashtybaev (Степан Яштыбаев)](https://www.worldcubeassociation.org/persons/2019YASH01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram|  
 |[Tagir Valiulin (Тагир Валиулин)](https://www.worldcubeassociation.org/persons/2019VALI01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram,skewb|  
+|[Timofey Berezin (Тимофей Березин)](https://www.worldcubeassociation.org/persons/2019BERE01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,pyram,skewb|  
+|[Timur Gilmanov (Тимур Гильманов)](https://www.worldcubeassociation.org/persons/2018GILM02)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333oh,pyram,skewb|  
 |[Timur Khasanov](https://www.worldcubeassociation.org/persons/2017KHAS01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,333oh,minx,pyram,skewb|  
 |Uliana Shirobokova (Ульяна Широбокова)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222|  
 |Vadim Tazutdinov (Вадим Тазутдинов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333|  
 |[Vitalii Kozachenko (Виталий Козаченко)](https://www.worldcubeassociation.org/persons/2019KOZA01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,minx,pyram,skewb,sq1|  
 |[Vitaliy Savintsev](https://www.worldcubeassociation.org/persons/2017SAVI02)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222|  
 |[Vlad Vershinin (Влад Вершинин)](https://www.worldcubeassociation.org/persons/2019VERS01)|Russia|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,minx,pyram|  
+|Vladislav Bogatov (Владислав Богатов)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |Vyacheslav Teterin (Вячеслав Тетерин)|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Accepted|333,222,pyram|  
 |Евгений|NULL|[UdmurtiaOpen2019](https://www.worldcubeassociation.org/competitions/UdmurtiaOpen2019)|Pending|333,222,pyram,skewb|  
 |[Abigail Karkoska](https://www.worldcubeassociation.org/persons/2018KARK06)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
@@ -9906,10 +10605,13 @@ Key:
 |Adit Satpathy|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Aidan Cooke](https://www.worldcubeassociation.org/persons/2019COOK04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Aidan McMillan](https://www.worldcubeassociation.org/persons/2018MCMI02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,333bf,pyram|  
+|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|Malaysia|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf|  
+|[AJ Green](https://www.worldcubeassociation.org/persons/2017GREE04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222|  
 |[Alex Bateman](https://www.worldcubeassociation.org/persons/2018BATE02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
 |[Alex Burns](https://www.worldcubeassociation.org/persons/2017BURN05)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Alex Walker](https://www.worldcubeassociation.org/persons/2017WALK02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333fm,pyram|  
 |[Alexander Yip](https://www.worldcubeassociation.org/persons/2015YIPA01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
+|[Amaan Omar](https://www.worldcubeassociation.org/persons/2016OMAR01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |Anan Kumar Mallik|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222|  
 |[Andrea Javier](https://www.worldcubeassociation.org/persons/2010JAVI01)|Australia|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,555|  
 |Andrew Ting|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222|  
@@ -9925,6 +10627,7 @@ Key:
 |[Ben Elvin](https://www.worldcubeassociation.org/persons/2019ELVI01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,minx,pyram,skewb|  
 |[Ben Hall](https://www.worldcubeassociation.org/persons/2018HALL03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh|  
 |[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
+|[Ben Thomas Campbell](https://www.worldcubeassociation.org/persons/2018CAMP17)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333fm|  
 |[Benjamin Stokes](https://www.worldcubeassociation.org/persons/2018STOK01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -9967,7 +10670,7 @@ Key:
 |[Elizabeth Smith](https://www.worldcubeassociation.org/persons/2019SMIT18)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx|  
 |Emma Edwards|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333|  
 |[Eoin Carolan](https://www.worldcubeassociation.org/persons/2016CARO03)|Ireland|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,clock,pyram,skewb|  
-|[Ethan Bayes](https://www.worldcubeassociation.org/persons/2018BAYE01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,666,777,333fm,333oh,pyram,skewb|  
+|[Ethan Bayes](https://www.worldcubeassociation.org/persons/2018BAYE01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,pyram,skewb|  
 |[Ethan Russell](https://www.worldcubeassociation.org/persons/2016RUSS04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333fm,333oh,clock,pyram,skewb|  
 |Ewan Lince|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,pyram|  
 |[Ewan McCormick](https://www.worldcubeassociation.org/persons/2019MCCO04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
@@ -9998,12 +10701,14 @@ Key:
 |[Hussain Iqbal](https://www.worldcubeassociation.org/persons/2016IQBA01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,sq1|  
 |[Isabella Bosia](https://www.worldcubeassociation.org/persons/2009BOSI01)|Italy|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333oh,minx,pyram,444bf,555bf,333mbf|  
 |[Ismaeel Hussain](https://www.worldcubeassociation.org/persons/2018HUSS03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
-|Jack Howard|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,minx,pyram|  
+|[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx|  
+|Jack Howard|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh,minx,pyram|  
 |[Jack Mulhern](https://www.worldcubeassociation.org/persons/2019MULH01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333fm,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Jack Smith](https://www.worldcubeassociation.org/persons/2016SMIT09)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,sq1|  
 |[Jacob Caine](https://www.worldcubeassociation.org/persons/2019CAIN01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333oh,minx|  
 |[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Jaidon Zain Adams](https://www.worldcubeassociation.org/persons/2018ADAM11)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram,skewb|  
+|[Jake Johnston](https://www.worldcubeassociation.org/persons/2016JOHN26)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,333oh,minx,pyram,skewb,sq1|  
 |[James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,skewb|  
 |James King|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333|  
 |[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -10012,6 +10717,7 @@ Key:
 |[Jayesh Patel](https://www.worldcubeassociation.org/persons/2016PATE08)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
 |[Jeremy Geels](https://www.worldcubeassociation.org/persons/2016GEEL01)|Netherlands|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
 |Jo armstrong|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Deleted|333,222,pyram,skewb|  
+|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Joe Greenland](https://www.worldcubeassociation.org/persons/2019GREE02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333fm,pyram,skewb|  
 |[Joey Gouly](https://www.worldcubeassociation.org/persons/2007GOUL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb,sq1|  
 |[Jonathan Ayre](https://www.worldcubeassociation.org/persons/2018AYRE01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
@@ -10020,6 +10726,7 @@ Key:
 |[Joseph Coppin](https://www.worldcubeassociation.org/persons/2013COPP02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Joseph Tudor](https://www.worldcubeassociation.org/persons/2016TUDO02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Joseph Williams](https://www.worldcubeassociation.org/persons/2018WILL27)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,pyram,skewb|  
+|[Jude Victor Clarke](https://www.worldcubeassociation.org/persons/2017CLAR09)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb,sq1|  
 |[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333oh,pyram|  
 |Juri Whyte|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333oh,pyram,444bf,555bf,333mbf|  
@@ -10035,7 +10742,9 @@ Key:
 |[Louis de Mendonça](https://www.worldcubeassociation.org/persons/2013MEND03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333oh|  
 |[Louise Darling](https://www.worldcubeassociation.org/persons/2015DARL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,minx,skewb,sq1|  
 |Luca Burli|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,pyram|  
+|[Lucas Jarana](https://www.worldcubeassociation.org/persons/2019JARA03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333bf,333oh,clock,skewb,444bf|  
 |[Lucas Jones](https://www.worldcubeassociation.org/persons/2019JONE10)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
+|[Luke Burch](https://www.worldcubeassociation.org/persons/2018BURC03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,333fm,333oh,pyram,skewb|  
 |Luke Mario Summers|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333|  
 |Luke Morris|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|222|  
 |[Malachi Lacey](https://www.worldcubeassociation.org/persons/2018LACE03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh,pyram,skewb|  
@@ -10053,13 +10762,14 @@ Key:
 |Matthew Payne|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
 |[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,444,555,333bf,333fm,444bf,555bf,333mbf|  
+|[Maximilian Berkmann](https://www.worldcubeassociation.org/persons/2014BERK02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|China|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Mercutio Silmon-Clyde (于晗汉)](https://www.worldcubeassociation.org/persons/2018SILM01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh,pyram|  
 |[Michael George](https://www.worldcubeassociation.org/persons/2015GEOR02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Milhouse Gibbons-Paul](https://www.worldcubeassociation.org/persons/2017GIBB01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,333oh,clock,minx,pyram,skewb,sq1|  
 |[Mohamed Ba Ndour](https://www.worldcubeassociation.org/persons/2017NDOU01)|Spain|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh|  
 |[Nathan Azaria](https://www.worldcubeassociation.org/persons/2010AZAR01)|Indonesia|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
-|[Oliver Cook](https://www.worldcubeassociation.org/persons/2018COOK11)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|666,777,333fm,333ft,minx,444bf,555bf,333mbf|  
+|[Oliver Cook](https://www.worldcubeassociation.org/persons/2018COOK11)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333oh,clock,pyram,skewb,sq1|  
 |[Oliver Fisk](https://www.worldcubeassociation.org/persons/2018FISK01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333ft,333oh,skewb,sq1,444bf,555bf,333mbf|  
 |[Oliver Jepson](https://www.worldcubeassociation.org/persons/2019JEPS01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb|  
@@ -10084,14 +10794,18 @@ Key:
 |[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb|  
 |[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,pyram,skewb,sq1,444bf,555bf|  
 |Samuel Talacko|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333fm,333oh,pyram,skewb,sq1|  
-|[Sanjay Jacob](https://www.worldcubeassociation.org/persons/2013JACO02)|India|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,333bf,333oh,pyram,skewb|  
+|Samuel Vanderstelt Hook|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
+|[Sanjay Jacob](https://www.worldcubeassociation.org/persons/2013JACO02)|India|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
+|Santiago Valcárcel Gutiérrez|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222|  
 |[Scott Robinson](https://www.worldcubeassociation.org/persons/2018ROBI01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,666,777,333bf,333fm,pyram|  
 |[Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,444,555,666,777,333bf,333oh|  
 |Shumeng Liu (刘书盟)|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333oh|  
 |Stanley Russell|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram|  
+|[Stefan Nedelcu](https://www.worldcubeassociation.org/persons/2019NEDE01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Stuart Salmon](https://www.worldcubeassociation.org/persons/2018SALM01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333bf|  
 |Takuma Carter|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222|  
 |[Teddy Feldmann](https://www.worldcubeassociation.org/persons/2018FELD03)|USA|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,skewb|  
 |[Thaynara Santana de Oliveira](https://www.worldcubeassociation.org/persons/2011OLIV03)|Brazil|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
@@ -10100,44 +10814,53 @@ Key:
 |[Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333fm,333oh|  
 |[Timothy Edward Ainger](https://www.worldcubeassociation.org/persons/2018AING01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,333fm,pyram,skewb|  
 |[Toby Sainthouse](https://www.worldcubeassociation.org/persons/2016SAIN04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777|  
+|[Toby Williams](https://www.worldcubeassociation.org/persons/2019WILL18)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Tom Dooley](https://www.worldcubeassociation.org/persons/2008DOOL01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,444,555,666,777|  
 |[Tom Salmon](https://www.worldcubeassociation.org/persons/2015SALM03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333bf,333oh,pyram,skewb|  
 |[Tom Savage](https://www.worldcubeassociation.org/persons/2013SAVA02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Pending|333,222,444,555,333oh,clock,minx,pyram,skewb|  
 |[Tom Wilkinson](https://www.worldcubeassociation.org/persons/2019WILK04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Tyler Lloyd](https://www.worldcubeassociation.org/persons/2015LLOY02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,555,pyram|  
 |[Veer Jagdev](https://www.worldcubeassociation.org/persons/2018JAGD05)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333oh,minx|  
 |[Will Chaplin](https://www.worldcubeassociation.org/persons/2019CHAP03)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333oh|  
 |[Will Lambert](https://www.worldcubeassociation.org/persons/2018LAMB02)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb|  
 |[Will Roberts](https://www.worldcubeassociation.org/persons/2015ROBE05)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333oh,pyram|  
-|William Callow|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,skewb|  
+|William Callow|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Malaysia|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[William Turton](https://www.worldcubeassociation.org/persons/2018TURT01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |Yairo Manuel Becerra Gutiérrez|NULL|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Yaseen Hassan](https://www.worldcubeassociation.org/persons/2015HASS04)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |[Yiftach Neeman](https://www.worldcubeassociation.org/persons/2019NEEM01)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,pyram,skewb|  
 |[Yuxuan Wang](https://www.worldcubeassociation.org/persons/2019WANG85)|United Kingdom|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333|  
 |[Zac Looney](https://www.worldcubeassociation.org/persons/2019LOON02)|Ireland|[UKChampionship2019](https://www.worldcubeassociation.org/competitions/UKChampionship2019)|Accepted|333,222,444,333oh,pyram|  
-|[Alina Palinchuk (Аліна Палінчук)](https://www.worldcubeassociation.org/persons/2019PALI02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,pyram|  
+|[Alina Palinchuk (Аліна Палінчук)](https://www.worldcubeassociation.org/persons/2019PALI02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,pyram|  
 |[Andrii Kekosh (Андрій Кекош)](https://www.worldcubeassociation.org/persons/2019KEKO01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,333oh,clock,minx,pyram,skewb,sq1|  
-|[Andrii Kotsiuba (Андрій Коцюба)](https://www.worldcubeassociation.org/persons/2019KOTS02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,pyram,skewb|  
+|[Andrii Kompaniiets (Андрій Компанієць)](https://www.worldcubeassociation.org/persons/2009KOMP01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333|  
+|[Andrii Kotsiuba (Андрій Коцюба)](https://www.worldcubeassociation.org/persons/2019KOTS02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,pyram,skewb|  
 |[Andrii Lushpak (Андрій Лушпак)](https://www.worldcubeassociation.org/persons/2016LUSH02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,333bf,333fm,pyram,444bf,555bf,333mbf|  
-|[Andrii Mandrona (Андрій Мандрона)](https://www.worldcubeassociation.org/persons/2017MAND08)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333bf,333oh,minx,pyram,sq1|  
-|[Andrii Parubii (Андрій Парубій)](https://www.worldcubeassociation.org/persons/2019PARU01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,333oh|  
+|[Andrii Mandrona (Андрій Мандрона)](https://www.worldcubeassociation.org/persons/2017MAND08)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,333bf,333oh,minx,pyram,sq1|  
+|[Andrii Parubii (Андрій Парубій)](https://www.worldcubeassociation.org/persons/2019PARU01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,333oh|  
 |[Andrii Vasyliev (Андрій Васильєв)](https://www.worldcubeassociation.org/persons/2018VASY01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
+|[Anton Borkivskyi (Антон Борківський)](https://www.worldcubeassociation.org/persons/2019BORK01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333|  
 |Azarii Stelmashchuk|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,pyram|  
-|[Bohdan Borkivskyi (Богдан Борківський)](https://www.worldcubeassociation.org/persons/2018BORK01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,333oh|  
+|[Bartosz Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01)|Poland|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,444,555,666,333bf,333fm,333oh,minx|  
+|[Bohdan Borkivskyi (Богдан Борківський)](https://www.worldcubeassociation.org/persons/2018BORK01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,333oh|  
 |[Bohdana Zablotska (Богдана Заблоцька)](https://www.worldcubeassociation.org/persons/2018ZABL01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Daniil Starodubtsev (Даніїл Стародубцев)](https://www.worldcubeassociation.org/persons/2018STAR02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333oh,clock,minx,pyram,skewb,sq1|  
 |[Dmytro Rezhko (Дмитро Режко)](https://www.worldcubeassociation.org/persons/2017REZH01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,333oh|  
 |[Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333bf,333oh,minx,pyram,skewb,444bf,555bf,333mbf|  
 |Gerasimov Ruslan|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,444|  
 |[Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh|  
+|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Deleted|333,222,333bf,333fm,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Illia Bykov (Ілля Биков)](https://www.worldcubeassociation.org/persons/2018BYKO01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333bf,333oh,clock,pyram,skewb,sq1|  
+|[Ihor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,444,333bf,333fm,minx,444bf,555bf,333mbf|  
+|[Illia Bykov (Ілля Биков)](https://www.worldcubeassociation.org/persons/2018BYKO01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,333bf,333oh,clock,pyram,skewb,sq1|  
+|[Illia Kozlov (Ілля Козлов)](https://www.worldcubeassociation.org/persons/2019KOZL05)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333oh,skewb|  
 |Ivan Gerasimov (Іван Герасімов)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,444|  
 |[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333fm,333oh,minx|  
 |[Karina Shevchuk (Каріна Шевчук)](https://www.worldcubeassociation.org/persons/2018SHEV02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,minx,pyram,skewb,sq1|  
 |[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Maksym Prykhodko (Максим Приходько)](https://www.worldcubeassociation.org/persons/2018PRYK02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,skewb|  
+|[Maksym Prykhodko (Максим Приходько)](https://www.worldcubeassociation.org/persons/2018PRYK02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,skewb|  
 |[Maksym Radchenko (Максим Радченко)](https://www.worldcubeassociation.org/persons/2018RADC01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333fm,333oh,pyram,sq1|  
 |[Marharyta Dovbii (Маргарита Довбій)](https://www.worldcubeassociation.org/persons/2017DOVB01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333bf,444bf,555bf,333mbf|  
 |[Mariia Mazel (Марiя Мазел)](https://www.worldcubeassociation.org/persons/2015MAZE01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,333fm,333oh,clock,pyram,skewb|  
@@ -10145,9 +10868,12 @@ Key:
 |[Modest Podzolkin (Модест Подзолкін)](https://www.worldcubeassociation.org/persons/2017PODZ01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,pyram,444bf,555bf,333mbf|  
 |[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Mykhailo Petrov (Михайло Петров)](https://www.worldcubeassociation.org/persons/2019PETR15)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Deleted|333,222,444,555,333oh,skewb,sq1|  
+|[Mykhailo Petrov (Михайло Петров)](https://www.worldcubeassociation.org/persons/2019PETR15)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
+|[Mykola Chebykin (Микола Чебикін)](https://www.worldcubeassociation.org/persons/2011CHEB01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222|  
+|[Mykola Kraievskyi (Микола Краєвський)](https://www.worldcubeassociation.org/persons/2019KRAI01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333bf,333oh,pyram|  
 |Mykola Maksai (Микола Максай)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333|  
 |[Mykyta Tytar (Микита Титарь)](https://www.worldcubeassociation.org/persons/2014TYTA02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333oh,minx|  
+|Myroslav Diakunchak (Мирослав Дякунчак)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,555,333ft,333oh,minx,pyram|  
 |[Nazar Skochypets (Назар Скочипець)](https://www.worldcubeassociation.org/persons/2018SKOC02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,666,333oh,minx,sq1|  
 |Nazar Soloviy|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333|  
 |[Nazar Tovarnytskyi (Назар Товарницький)](https://www.worldcubeassociation.org/persons/2017TOVA01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333|  
@@ -10158,25 +10884,30 @@ Key:
 |[Oleksandr Zhelezniak (Олександр Железняк)](https://www.worldcubeassociation.org/persons/2017ZHEL02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,pyram,skewb|  
 |[Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Pavlo Parafilo (Павло Парафіло)](https://www.worldcubeassociation.org/persons/2018PARA02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
-|Renat Lyha|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,pyram|  
-|[Roman Bodnar (Роман Боднар)](https://www.worldcubeassociation.org/persons/2019BODN02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,pyram,skewb|  
+|Renat Lyga (Ренат Лига)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,pyram|  
+|[Roman Bodnar (Роман Боднар)](https://www.worldcubeassociation.org/persons/2019BODN02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,pyram,skewb|  
 |[Roman Panchuk (Роман Панчук)](https://www.worldcubeassociation.org/persons/2017PANC04)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333oh,clock,pyram,skewb|  
 |[Roman Yakuba (Роман Якуба)](https://www.worldcubeassociation.org/persons/2018YAKU02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,333fm,333oh,pyram|  
+|[Serhii Fedorniak (Сергій Федорняк)](https://www.worldcubeassociation.org/persons/2018FEDO04)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333fm,333ft,333oh,minx,pyram,skewb|  
 |[Serhii Hoiuk (Сергій Гоюк)](https://www.worldcubeassociation.org/persons/2017HOIU01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
-|[Serhii Kupyriov (Сергій Купирьов)](https://www.worldcubeassociation.org/persons/2017KUPY01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333fm,333oh,minx,pyram|  
-|[Serhii Yakovliev (Сергій Яковлєв)](https://www.worldcubeassociation.org/persons/2018YAKO07)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222|  
+|[Serhii Kupyriov (Сергій Купирьов)](https://www.worldcubeassociation.org/persons/2017KUPY01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
+|[Serhii Yakovliev (Сергій Яковлєв)](https://www.worldcubeassociation.org/persons/2018YAKO07)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222|  
 |[Stepan Dzhurylo (Степан Джурило)](https://www.worldcubeassociation.org/persons/2015DZHU01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,555,333oh|  
 |Taras Petrovskyi (Тарас Петровський)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,pyram,skewb|  
+|[Vadym Hruden (Вадим Грудень)](https://www.worldcubeassociation.org/persons/2016HRUD01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,333fm,333oh|  
 |[Valeriia Volova (Валерія Волова)](https://www.worldcubeassociation.org/persons/2018VOLO03)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,pyram,skewb,sq1|  
+|Vasyl' Machogan (Василь Мачоган)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,444,333fm,333oh,minx,pyram|  
+|Vitalii Khomyn (Віталій Хомин)|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,444,555,666,333bf,444bf,555bf|  
 |[Vitalii Zbyrko (Віталій Збирко)](https://www.worldcubeassociation.org/persons/2019ZBYR01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,pyram,skewb|  
-|Vitaliy Khomyn|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,444,555,666,333bf,444bf,555bf|  
 |Vlad Marjash|NULL|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333|  
 |[Vladyslav Hryniuk (Владислав Гринюк)](https://www.worldcubeassociation.org/persons/2016HRYN02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Vladyslav Sorochyns'kyi (Владислав Сорочинський)](https://www.worldcubeassociation.org/persons/2019SORO02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
+|[Vladyslav Zhydkov (Владислав Жидков)](https://www.worldcubeassociation.org/persons/2015ZHYD01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,666,777,333bf,333ft,333oh,clock,minx,pyram,skewb,sq1|  
 |[Volodymyr Korol (Володимир Король)](https://www.worldcubeassociation.org/persons/2015KORO02)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,666,777,333bf,333fm,333ft,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Volodymyr Solonka (Володимир Солонка)](https://www.worldcubeassociation.org/persons/2017SOLO03)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,333bf,333fm,333ft,333oh,444bf,333mbf|  
 |[Yaroslav Morhun (Ярослав Моргун)](https://www.worldcubeassociation.org/persons/2018MORH01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,777,333ft,333oh,minx,pyram,skewb,sq1|  
-|[Yelysei Hovorun (Єлисей Говорун)](https://www.worldcubeassociation.org/persons/2018HOVO01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Yelysei Hovorun (Єлисей Говорун)](https://www.worldcubeassociation.org/persons/2018HOVO01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Accepted|333,222,444,555,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
+|[Yevhen Riabokon (Євген Рябоконь)](https://www.worldcubeassociation.org/persons/2013RIAB01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,222,444,555,333ft,333oh,minx,pyram,skewb|  
 |[Yurii Chulochnikov (Юрій Чулочніков)](https://www.worldcubeassociation.org/persons/2017CHUL01)|Ukraine|[UkrainianNationals2019](https://www.worldcubeassociation.org/competitions/UkrainianNationals2019)|Pending|333,444,333oh|  
 |[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb,sq1|  
 |[Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb,sq1|  
@@ -10189,7 +10920,7 @@ Key:
 |[César Pérez García](https://www.worldcubeassociation.org/persons/2008PERE01)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
 |[Clara Mompradé Mahedero](https://www.worldcubeassociation.org/persons/2017MAHE13)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,pyram,skewb,sq1|  
 |[Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,pyram,skewb,sq1|  
-|[Daniel Rodríguez Espinosa](https://www.worldcubeassociation.org/persons/2017ESPI14)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Pending|333,222,444,555,666,777,333oh,skewb|  
+|[Daniel Rodríguez Espinosa](https://www.worldcubeassociation.org/persons/2017ESPI14)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,666,777,333oh,skewb|  
 |[Diego Arche Andradas](https://www.worldcubeassociation.org/persons/2015ANDR06)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram,skewb|  
 |[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,666,777,333bf,333oh,pyram|  
 |[Fernando Astasio Ávila](https://www.worldcubeassociation.org/persons/2016AVIL02)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,333bf,333oh,clock,pyram,skewb,sq1|  
@@ -10204,7 +10935,7 @@ Key:
 |[Marco Zucchi Mesia](https://www.worldcubeassociation.org/persons/2019MESI01)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,444,555,333oh,pyram|  
 |[Mario Diez del Corral](https://www.worldcubeassociation.org/persons/2018CORR05)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Pending|333,222,444,555,clock,sq1|  
 |[Martín Augusto Reigadas Teran](https://www.worldcubeassociation.org/persons/2015TERA01)|Venezuela|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb,sq1|  
-|Pedro Sanz Rodriguez|NULL|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Pending|333,222,pyram,skewb|  
+|Pedro Sanz Rodriguez|NULL|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,pyram,skewb|  
 |[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,444,555,333oh|  
 |[Rafael Alférez Robisco](https://www.worldcubeassociation.org/persons/2015ROBI03)|Spain|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |[Roberta Pereira](https://www.worldcubeassociation.org/persons/2018PERE42)|United Kingdom|[UPMOpen2019](https://www.worldcubeassociation.org/competitions/UPMOpen2019)|Accepted|333,444,555,333bf,333oh|  
@@ -10221,7 +10952,7 @@ Key:
 |[Alberto Masó Molina](https://www.worldcubeassociation.org/persons/2011MOLI01)|Spain|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,444,555,333bf,333oh,333mbf|  
 |[Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01)|Spain|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,444,555,333bf,333ft,333oh,minx,pyram,skewb,sq1|  
 |[Ander Chocarro Salaberria](https://www.worldcubeassociation.org/persons/2017SALA11)|Spain|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
-|Aura Erro|NULL|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,skewb|  
+|Aura Erro Graña|NULL|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,skewb|  
 |[Ayrat Raimov](https://www.worldcubeassociation.org/persons/2017RAIM01)|Russia|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,444,555,333oh,pyram,skewb|  
 |Danel Ibañez|NULL|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222|  
 |[Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01)|Spain|[UrnietaOpen2019](https://www.worldcubeassociation.org/competitions/UrnietaOpen2019)|Accepted|333,222,444,333bf,333oh,pyram,skewb,sq1,333mbf|  
@@ -10254,11 +10985,11 @@ Key:
 |Armon Terzian|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
 |Austin|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
 |[Austin Chuong](https://www.worldcubeassociation.org/persons/2017CHUO01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh|  
-|Austin Tomm|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,333oh|  
-|[Bence Berkenbosch](https://www.worldcubeassociation.org/persons/2018BERK02)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Pending|333,555,666,333oh|  
+|[Austin Tomm](https://www.worldcubeassociation.org/persons/2011TOMM01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,333oh|  
+|[Bence Berkenbosch](https://www.worldcubeassociation.org/persons/2018BERK02)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,333oh|  
 |[Benley Hsiang](https://www.worldcubeassociation.org/persons/2018HSIA01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,333oh|  
 |[Bill Lin](https://www.worldcubeassociation.org/persons/2018LINB03)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Pending|333,555,333oh,sq1|  
-|Brandon Tomm|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555|  
+|[Brandon Tomm](https://www.worldcubeassociation.org/persons/2012TOMM01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555|  
 |Brendan Chen|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
 |Brian Gorecki|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,333oh|  
 |[Bruce Kong](https://www.worldcubeassociation.org/persons/2018KONG08)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh|  
@@ -10274,8 +11005,10 @@ Key:
 |[Jakob Sawyer](https://www.worldcubeassociation.org/persons/2018SAWY01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777|  
 |[Jayden Liu](https://www.worldcubeassociation.org/persons/2018LIUJ26)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,333oh,sq1|  
 |[Jerome Lam](https://www.worldcubeassociation.org/persons/2011CHIN02)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh,sq1,444bf,555bf|  
+|[John Linder](https://www.worldcubeassociation.org/persons/2015LIND08)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Pending|333,555,666,777,333oh,sq1|  
 |[Jonathan Truchot](https://www.worldcubeassociation.org/persons/2017TRUC02)|USA|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh,sq1|  
 |[Jose Miguel Rillera](https://www.worldcubeassociation.org/persons/2016RILL01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,333oh,sq1|  
+|[Juan Sanchez](https://www.worldcubeassociation.org/persons/2010SANC01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777|  
 |[Kai Kopke](https://www.worldcubeassociation.org/persons/2016KOPK01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,777,333oh|  
 |[Karsen Oun](https://www.worldcubeassociation.org/persons/2018OUNK01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,333oh|  
 |[Kenny Zhong](https://www.worldcubeassociation.org/persons/2016ZHON01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,333oh,sq1|  
@@ -10292,10 +11025,12 @@ Key:
 |[Nathan Pope](https://www.worldcubeassociation.org/persons/2019POPE01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
 |[Noah Stelting](https://www.worldcubeassociation.org/persons/2014STEL02)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,333oh|  
 |Nolan Ta|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,777|  
+|[Nyah Lutz-Charlton](https://www.worldcubeassociation.org/persons/2018LUTZ03)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
 |[Reagan Li](https://www.worldcubeassociation.org/persons/2017LIRE01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh,sq1,444bf|  
 |[Ruotong Wang (王若同)](https://www.worldcubeassociation.org/persons/2015WANG92)|China|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777|  
 |Ruotong Wang (王若同)|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Deleted|333,555,666,777|  
 |Sabin Nowak|NULL|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
+|[Sacha Mah](https://www.worldcubeassociation.org/persons/2018MAHS01)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Pending|333|  
 |[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,666,777,333oh,sq1,444bf,555bf|  
 |[Scout Harris](https://www.worldcubeassociation.org/persons/2019HARR11)|Canada|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333,555,333oh,sq1|  
 |[Tingyao Zhu (朱亭瑶)](https://www.worldcubeassociation.org/persons/2017ZHUT03)|China|[VancouverBigCubesOpen2019](https://www.worldcubeassociation.org/competitions/VancouverBigCubesOpen2019)|Accepted|333|  
@@ -10310,12 +11045,14 @@ Key:
 |[Alex Kekkonen](https://www.worldcubeassociation.org/persons/2017KEKK01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Arif Zafer](https://www.worldcubeassociation.org/persons/2018ZAFE01)|Turkey|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,777,333bf,333oh,minx,pyram,skewb|  
 |[Artem Petukhov](https://www.worldcubeassociation.org/persons/2019PETU02)|Russia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,333oh,clock,pyram,skewb|  
+|[Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb|  
 |[Asla Väyrynen](https://www.worldcubeassociation.org/persons/2017VAYR01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,clock,pyram,skewb|  
 |[Atso Ikonen](https://www.worldcubeassociation.org/persons/2015IKON01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,333oh,minx,sq1|  
 |[Bogdan Zemlianskii (Богдан Землянский)](https://www.worldcubeassociation.org/persons/2018ZEML02)|Russia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
 |[Callum McArthur-Mortell](https://www.worldcubeassociation.org/persons/2018MCAR01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb|  
-|[Edvin Narjanen](https://www.worldcubeassociation.org/persons/2019NARJ01)|Estonia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,333oh,pyram|  
+|[Edvin Narjanen](https://www.worldcubeassociation.org/persons/2019NARJ01)|Estonia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,333oh,pyram|  
 |[Eetu Rajaviita](https://www.worldcubeassociation.org/persons/2018RAJA13)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Deleted|333,222,333bf,333oh,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Ivan Novokhatskiy (Иван Новохацкий)](https://www.worldcubeassociation.org/persons/2018NOVO02)|Russia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,333bf,333oh|  
 |[Jami Viljanen](https://www.worldcubeassociation.org/persons/2017VILJ01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -10325,7 +11062,10 @@ Key:
 |[Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,minx,pyram,skewb,sq1|  
 |[Kasper Pasanen](https://www.worldcubeassociation.org/persons/2018PASA02)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,333oh,minx,pyram,skewb|  
 |[Kirill Petukhov (Кирилл Петухов)](https://www.worldcubeassociation.org/persons/2019PETU03)|Russia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,333oh,minx,pyram,skewb,sq1|  
+|[Lars Knittler](https://www.worldcubeassociation.org/persons/2017KNIT01)|Germany|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,333oh,pyram|  
+|[Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,555,333oh,minx,pyram,skewb,sq1|  
 |[Leonid Kuzmin (Леонид Кузьмин)](https://www.worldcubeassociation.org/persons/2018KUZM04)|Russia|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,555,666,777,333oh,clock,pyram|  
+|[Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Miika Rosvall](https://www.worldcubeassociation.org/persons/2016ROSV01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,333bf,333oh,minx,pyram,skewb|  
 |[Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram,skewb|  
 |[Philipp Danileiko](https://www.worldcubeassociation.org/persons/2018DANI09)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,555,666,777,333oh,minx|  
@@ -10343,23 +11083,28 @@ Key:
 |[Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,333mbf|  
 |[Veeti Halla-aho](https://www.worldcubeassociation.org/persons/2019HALL03)|Finland|[VantaaBacktoSchool2019](https://www.worldcubeassociation.org/competitions/VantaaBacktoSchool2019)|Pending|333,222,444,pyram,skewb|  
 |[Adilson Santana Oliveira Neto](https://www.worldcubeassociation.org/persons/2018NETO05)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
+|[Adriano Matoba Lipski](https://www.worldcubeassociation.org/persons/2016LIPS01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |Alessa Crystina Candido de Oliveira|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|Amanda Ramos Dimitroff|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Ana Luiza Ramos Passini|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Ana Victória Silva|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |André Luiz Czerwinski dos Santos|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,333oh|  
 |Angela Micaela de Macedo|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|Anna Julia Santos da Silva|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333|  
 |Anne Karoline Correa Alves|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Antonio Fabricio Rosa de Sousa Mendes|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,333oh|  
 |[Antonio Gabriel Freitas da Silva](https://www.worldcubeassociation.org/persons/2015SILV55)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |Arthur Santos Braga|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Artur Brandi Pereira|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Aureliano Sales de Oliveira Júnior|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222|  
+|Beatriz de Souza Caetano|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Beatriz Dos Santos Pereira|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Beatriz Nunes Ribeiro|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|Benicio Machado Mendes|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333,222|  
 |Brendon Souza dos Santos |NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Bruna Lisandra de Souza Costa](https://www.worldcubeassociation.org/persons/2017COST08)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
-|Caio Sobrinho da Silva|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333|  
+|[Caio Sobrinho da Silva](https://www.worldcubeassociation.org/persons/2018SILV48)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Camilli Jesus Capucci](https://www.worldcubeassociation.org/persons/2017CAPU02)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Carlos Eduardo Freitas da Silva](https://www.worldcubeassociation.org/persons/2016SILV36)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Chiara Giovanella Tegon](https://www.worldcubeassociation.org/persons/2018TEGO01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
@@ -10378,6 +11123,7 @@ Key:
 |[Fernando Gestermeier Fermino da Silva](https://www.worldcubeassociation.org/persons/2019SILV23)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222|  
 |[Fernando Vinicius Soares de Macêdo](https://www.worldcubeassociation.org/persons/2019MACE01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
 |[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
+|Gabriel de Souza Berozzi|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333|  
 |[Gabriel Gonçalves Fontes](https://www.worldcubeassociation.org/persons/2018FONT04)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
 |[Gabriel Sinopoli Maciel](https://www.worldcubeassociation.org/persons/2017MACI14)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Gabriela Gil Cardoso dos Santos|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
@@ -10390,8 +11136,10 @@ Key:
 |[Guilherme Pujol dos Santos](https://www.worldcubeassociation.org/persons/2017SANT42)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Guilherme Silva Chagas|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Gustavo Fonseca da Silva](https://www.worldcubeassociation.org/persons/2019SILV06)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
+|[Gustavo M. Zimmer](https://www.worldcubeassociation.org/persons/2019ZIMM04)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333,222,333oh|  
 |[Heiki Saga Koike](https://www.worldcubeassociation.org/persons/2018KOIK01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |[Helen Beatriz Motta](https://www.worldcubeassociation.org/persons/2017MOTT02)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|isaac azevedo dos santos|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
 |Israel Brito de Paula|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |Jean Felipe Araújo de Paula do Nascimento|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
@@ -10409,10 +11157,13 @@ Key:
 |[Kaiky Brito dos Santos](https://www.worldcubeassociation.org/persons/2019SANT25)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |[Kamila Alves Ferreira](https://www.worldcubeassociation.org/persons/2018FERR12)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Kauan Nazário Souza Dutra](https://www.worldcubeassociation.org/persons/2015DUTR02)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
+|Kauê Marques Fuso|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Kaue Pierre Piton|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Kaylane Fernandes](https://www.worldcubeassociation.org/persons/2018FERN21)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|[Keven Willian Gomes Sperandio](https://www.worldcubeassociation.org/persons/2017SPER02)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222|  
 |Laura Parra Luizon Rodrigues|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Leon Tenório da Silva](https://www.worldcubeassociation.org/persons/2014SILV28)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
+|Letícia da Silva Rocha|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333|  
 |[Letícia de Paula Faria](https://www.worldcubeassociation.org/persons/2018FARI10)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Letícia Yuri Hiratsuka|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Liandra de Pieri|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
@@ -10429,6 +11180,7 @@ Key:
 |[Luis Henrique Gomes Barbosa](https://www.worldcubeassociation.org/persons/2018BARB13)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,333oh|  
 |Maiara Moraes Sousa da Silva|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Manuela Gimenes Silva Cardoso|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|Marcela Vitória Mathisem|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333|  
 |Marcos Kam Fei Zhu|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Maria Clara Alves Godoi|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Maria Eduarda Costa|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
@@ -10436,6 +11188,7 @@ Key:
 |[Maria Fernanda Batista](https://www.worldcubeassociation.org/persons/2018BATI03)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Maria Victória Lopes Fiorato|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Mario Armando Takahashi Martins Dias](https://www.worldcubeassociation.org/persons/2019DIAS02)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
+|[Marius Rombout Ferreira van Riemsdijk](https://www.worldcubeassociation.org/persons/2014RIEM01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,333oh|  
 |Marlon Mamede Torres de Alencar|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Matheus Ramos Esteves](https://www.worldcubeassociation.org/persons/2018ESTE04)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Mauricio Paulino Marques Fernandes](https://www.worldcubeassociation.org/persons/2017FERN19)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
@@ -10443,7 +11196,9 @@ Key:
 |[Nicolas Perez](https://www.worldcubeassociation.org/persons/2017WEST04)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222,444,333oh|  
 |Nicole de Paula Montanini|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Paloma Camili Nogueira Dos Santos|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|Pedro Davi de carvalho faria|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |Pedro Henrique Junho Silva|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
+|[Pedro Luiz Ferreira Pires](https://www.worldcubeassociation.org/persons/2017PIRE01)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Pending|333,222,444,333oh|  
 |[Pedro Miguel Landim dos Santos](https://www.worldcubeassociation.org/persons/2015SANT24)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222|  
 |Rafael Cardoso Moreira|NULL|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333|  
 |[Rafael de Paula Silva](https://www.worldcubeassociation.org/persons/2019SILV14)|Brazil|[VETECJacareiOpen2019](https://www.worldcubeassociation.org/competitions/VETECJacareiOpen2019)|Accepted|333,222|  
@@ -10477,6 +11232,7 @@ Key:
 |[Andrii Popovchak (Андрій Поповчак)](https://www.worldcubeassociation.org/persons/2019POPO11)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,333oh,minx,pyram,sq1|  
 |[Andrii Vasyliev (Андрій Васильєв)](https://www.worldcubeassociation.org/persons/2018VASY01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Andrii Volynets (Андрій Волинець)](https://www.worldcubeassociation.org/persons/2018VOLY01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,666,777,333oh,clock,pyram|  
+|Anton Grebeniuk (Антон Гребенюк)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Pending|333|  
 |[Artem Alieksieiev (Артем Алєксєєв)](https://www.worldcubeassociation.org/persons/2015ALIE01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Pending|333,222,444,555,333oh,pyram,sq1|  
 |[Artem Bilokhatiuk (Артем Білохатюк)](https://www.worldcubeassociation.org/persons/2017BELO03)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |Artem Gudkov (Артем Гудков)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333|  
@@ -10516,7 +11272,7 @@ Key:
 |[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,444,555,777,333oh,minx|  
 |Kristina Kutyshenko (Крістіна Кутишенко)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,pyram|  
 |[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,666,777,333ft,333oh,clock,minx,pyram,skewb,sq1|  
-|[Maksym Karpinskyi (Максим Карпінський)](https://www.worldcubeassociation.org/persons/2019KARP06)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Pending|333,222,pyram,skewb|  
+|[Maksym Karpinskyi (Максим Карпінський)](https://www.worldcubeassociation.org/persons/2019KARP06)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,pyram,skewb|  
 |[Maksym Kyrychok (Максим Киричок)](https://www.worldcubeassociation.org/persons/2018KYRY02)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,skewb|  
 |Maksym Mykhailynyn (Максим Михайлинин)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Deleted|333|  
 |[Maksym Oliinyk (Максим Олійник)](https://www.worldcubeassociation.org/persons/2018OLII01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
@@ -10559,6 +11315,7 @@ Key:
 |[Serhii Hoiuk (Сергій Гоюк)](https://www.worldcubeassociation.org/persons/2017HOIU01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,333oh,clock,pyram,skewb,sq1|  
 |[Serhii Kupyriov (Сергій Купирьов)](https://www.worldcubeassociation.org/persons/2017KUPY01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Deleted|333,444,555,333oh,minx|  
 |[Taras Prodous (Тарас Продоус)](https://www.worldcubeassociation.org/persons/2018PROD01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,333oh,pyram,skewb|  
+|Tymur Gavrylov (Тимур Гаврилов)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Pending|pyram|  
 |[Valerii Omelchuk (Валерій Омельчук)](https://www.worldcubeassociation.org/persons/2018OMEL01)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444|  
 |Vasyl' Machogan (Василь Мачоган)|NULL|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,444,333oh,minx|  
 |[Viktor Shmakov (Віктор Шмаков)](https://www.worldcubeassociation.org/persons/2017SHMA02)|Ukraine|[VinnytsiaCubeCup2019](https://www.worldcubeassociation.org/competitions/VinnytsiaCubeCup2019)|Accepted|333,222,444,555,333oh,minx|  
@@ -10622,7 +11379,7 @@ Key:
 |Sharmiel C. Molinos|NULL|[WestVisayasChampionship2019](https://www.worldcubeassociation.org/competitions/WestVisayasChampionship2019)|Deleted|333,222,444,333oh,pyram,skewb|  
 |[Alexander Batz](https://www.worldcubeassociation.org/persons/2017BATZ01)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,555,666,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Anthony Steven Barrios Fajardo](https://www.worldcubeassociation.org/persons/2019FAJA03)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333|  
-|[Davne Dominguez](https://www.worldcubeassociation.org/persons/2019DOMI02)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,555,clock,pyram,skewb|  
+|[Davne Dominguez](https://www.worldcubeassociation.org/persons/2019DOMI02)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,clock|  
 |[Diego Diaz](https://www.worldcubeassociation.org/persons/2018DIAZ22)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,555,666,333bf,333oh,minx,pyram|  
 |[Efrain Lopez](https://www.worldcubeassociation.org/persons/2019LOPE16)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,pyram,sq1|  
 |[Fernando José Muchuch Chavez](https://www.worldcubeassociation.org/persons/2017CHAV07)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,555,333bf,333oh,clock,minx,pyram,skewb,sq1|  
@@ -10648,7 +11405,7 @@ Key:
 |[Ronald Josué Sicá Alvarado](https://www.worldcubeassociation.org/persons/2017ALVA25)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1|  
 |[Sharon Sashary Argueta Alvarado](https://www.worldcubeassociation.org/persons/2019ALVA11)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,333oh,pyram|  
 |[Sury Cifuentes](https://www.worldcubeassociation.org/persons/2019CIFU02)|Guatemala|[XelaOpen2019](https://www.worldcubeassociation.org/competitions/XelaOpen2019)|Pending|333,222,pyram|  
-|Aleksandr Otkidach|NULL|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|clock,sq1|  
+|Aleksandr Otkidach|NULL|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|clock,sq1|  
 |[Aleksei Shah](https://www.worldcubeassociation.org/persons/2019SHAH19)|Belarus|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf|  
 |Aleksei Ushachev|NULL|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,clock|  
 |[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,333ft,clock,sq1,333mbf|  
@@ -10659,10 +11416,10 @@ Key:
 |[Alexey Semichastnov](https://www.worldcubeassociation.org/persons/2016SEMI01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333ft,clock,sq1,444bf,333mbf|  
 |[Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,sq1,333mbf|  
 |[Anastasia Erofeeva (Анастасия Ерофеева)](https://www.worldcubeassociation.org/persons/2018EROF01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|sq1|  
-|[Anastasia Kochetkova](https://www.worldcubeassociation.org/persons/2018KOCH01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,clock,sq1|  
+|[Anastasia Kochetkova](https://www.worldcubeassociation.org/persons/2018KOCH01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333fm,clock,sq1|  
 |[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,sq1|  
 |[Andrey Panov (Андрей Панов)](https://www.worldcubeassociation.org/persons/2018PANO01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,sq1,333mbf|  
-|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,444bf,555bf|  
+|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,444bf,555bf|  
 |Damir Mamutov|NULL|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Deleted|777,333fm,clock|  
 |[Danila Ryabinin](https://www.worldcubeassociation.org/persons/2017RYAB02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,333ft,clock,sq1,444bf,333mbf|  
 |[Danila Sobyanin](https://www.worldcubeassociation.org/persons/2019SOBY01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|clock,sq1|  
@@ -10679,6 +11436,7 @@ Key:
 |[Egor Afanasenko (Егор Афанасенко)](https://www.worldcubeassociation.org/persons/2018AFAN06)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|sq1|  
 |[Egor Maslov](https://www.worldcubeassociation.org/persons/2019MASL01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm|  
 |[Elizaveta Ermolkina](https://www.worldcubeassociation.org/persons/2017ERMO04)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,333ft,clock|  
+|[Evgeniy Kushnir](https://www.worldcubeassociation.org/persons/2019KUSH05)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|333fm|  
 |[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,sq1,444bf,555bf,333mbf|  
 |[Fedor Abaev](https://www.worldcubeassociation.org/persons/2016ABAE01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|777,333bf,333fm,clock,444bf,555bf,333mbf|  
 |[Fyodor Borisov](https://www.worldcubeassociation.org/persons/2013BORI01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|777,333bf,333fm,clock|  
@@ -10687,13 +11445,13 @@ Key:
 |[Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,444bf,555bf,333mbf|  
 |[Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333fm,333ft,clock|  
 |[Ignatiy Alkaev](https://www.worldcubeassociation.org/persons/2017ALKA05)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|sq1|  
-|[Igor Kolosov (Игорь Колосов)](https://www.worldcubeassociation.org/persons/2018KOLO06)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333ft,clock,sq1|  
+|[Igor Kolosov (Игорь Колосов)](https://www.worldcubeassociation.org/persons/2018KOLO06)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,333ft,clock,sq1|  
 |[Ilya Beylin (Илья Бейлин)](https://www.worldcubeassociation.org/persons/2018BEYL01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333ft|  
-|[Ioann Smolin (Иоанн Смолин)](https://www.worldcubeassociation.org/persons/2018SMOL01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|333bf,333fm,333ft,clock,sq1,333mbf|  
+|[Ioann Smolin (Иоанн Смолин)](https://www.worldcubeassociation.org/persons/2018SMOL01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333ft,clock,sq1,333mbf|  
 |[Ivan Litsov (Иван Лицов)](https://www.worldcubeassociation.org/persons/2018LITS01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,333mbf|  
-|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,clock,444bf,333mbf|  
+|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,clock,sq1,333mbf|  
 |[Ivan Polukarov](https://www.worldcubeassociation.org/persons/2017POLU02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,sq1|  
-|[Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,333ft,333mbf|  
+|[Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333ft,333mbf|  
 |[Kirill Konovalov](https://www.worldcubeassociation.org/persons/2017KONO01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,clock,sq1|  
 |[Konstantin Solovyev](https://www.worldcubeassociation.org/persons/2015SOLO01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333fm,clock,sq1|  
 |[Leonid Scherbakov (Леонид Щербаков)](https://www.worldcubeassociation.org/persons/2018SCHE07)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,clock,sq1,333mbf|  
@@ -10703,25 +11461,27 @@ Key:
 |[Matvey Merzlikin](https://www.worldcubeassociation.org/persons/2019MERZ01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,clock,sq1|  
 |[Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,333ft,clock,sq1,333mbf|  
 |[Maxim Teplyakov (Максим Тепляков)](https://www.worldcubeassociation.org/persons/2018TEPL01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,clock,sq1|  
-|[Mikhail Govgolenko](https://www.worldcubeassociation.org/persons/2015GOVG01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|666,777,333fm,clock,sq1|  
+|[Mikhail Govgolenko](https://www.worldcubeassociation.org/persons/2015GOVG01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Deleted|333ft|  
 |[Nikita Ovsyannikov (Никита Овсянников)](https://www.worldcubeassociation.org/persons/2018OVSY01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,333ft,clock,sq1,444bf,555bf,333mbf|  
 |[Nikita Stolnikov (Никита Стольников)](https://www.worldcubeassociation.org/persons/2018STOL02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm,clock,sq1|  
-|[Nikolay Ambrosiy (Николай Амбросий)](https://www.worldcubeassociation.org/persons/2019AMBR01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,sq1|  
+|[Nikolay Ambrosiy (Николай Амбросий)](https://www.worldcubeassociation.org/persons/2019AMBR01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,clock,sq1|  
 |[Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,333ft,444bf,555bf,333mbf|  
 |[Oleg Fomenkov](https://www.worldcubeassociation.org/persons/2016FOME02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333fm,clock,sq1|  
+|[Pavel Egorov](https://www.worldcubeassociation.org/persons/2016EGOR02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,clock|  
 |[Pavel Zherebtsov (Павел Жеребцов)](https://www.worldcubeassociation.org/persons/2018ZHER01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,333bf,333fm,sq1,333mbf|  
 |[Roman Kostyukov](https://www.worldcubeassociation.org/persons/2017KOST06)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,444bf,333mbf|  
 |[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,444bf,555bf|  
-|[Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|666,777,333bf,333fm,333ft,clock,sq1,444bf|  
+|[Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Deleted|666,777,333bf,333fm,333ft,clock,sq1,444bf|  
 |[Serafim Smirnov](https://www.worldcubeassociation.org/persons/2019SMIR09)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333fm|  
 |[Serafima Petrova](https://www.worldcubeassociation.org/persons/2017PETR07)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|clock|  
 |[Sergey Bogdashich (Сергей Богдашич)](https://www.worldcubeassociation.org/persons/2018BOGD07)|Belarus|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|clock|  
 |[Sergey Chirin](https://www.worldcubeassociation.org/persons/2015CHIR01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,clock,sq1|  
+|Tatsiana Kaliada|NULL|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf|  
 |[Timofey Pastrevich](https://www.worldcubeassociation.org/persons/2017PAST08)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333fm,333ft,clock,sq1|  
-|[Timur Kapkin](https://www.worldcubeassociation.org/persons/2017KAPK01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,clock,sq1|  
+|[Timur Kapkin](https://www.worldcubeassociation.org/persons/2017KAPK01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Deleted|333bf,333fm,clock,sq1|  
 |[Vadim Strelnikov](https://www.worldcubeassociation.org/persons/2019STRE02)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|clock|  
 |[Valeriy Sluchek](https://www.worldcubeassociation.org/persons/2012SLUC01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm|  
-|[Viktor Rudnev (Виктор Руднев)](https://www.worldcubeassociation.org/persons/2018RUDN03)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Pending|666,777,333bf,333fm,333ft,sq1,333mbf|  
+|[Viktor Rudnev (Виктор Руднев)](https://www.worldcubeassociation.org/persons/2018RUDN03)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333bf,333ft,sq1,333mbf|  
 |[Vladislav Kozhin](https://www.worldcubeassociation.org/persons/2015KOZH01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,777,333fm,clock,sq1|  
 |[Vladislav Kshnyakin (Владислав Кшнякин)](https://www.worldcubeassociation.org/persons/2018KSHN01)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|666,333fm,clock|  
 |[Vladislav Sergunov (Владислав Сергунов)](https://www.worldcubeassociation.org/persons/2019SERG03)|Russia|[YJMoscowSpecial2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019)|Accepted|333bf,333fm,333ft,clock|  
@@ -10754,18 +11514,20 @@ Key:
 |[Konosuke Nishiyama (西山幸之介)](https://www.worldcubeassociation.org/persons/2019NISH05)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,sq1|  
 |[Kou Moriya (森谷航)](https://www.worldcubeassociation.org/persons/2018MORI06)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,333oh,minx,sq1,333mbf|  
 |[Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|333bf,sq1|  
+|[Kwok Chi Hang (郭志亨)](https://www.worldcubeassociation.org/persons/2008HANG02)|Hong Kong|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Pending|444,666,333oh,minx|  
 |[Makoto Kawamura (川村誠)](https://www.worldcubeassociation.org/persons/2018KAWA05)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333bf,333oh|  
 |[Masato Fujiwara (藤原正人)](https://www.worldcubeassociation.org/persons/2019FUJI07)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|333bf,333mbf|  
 |[Masayuki Hirai (平井雅之)](https://www.worldcubeassociation.org/persons/2014HIRA05)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,minx|  
 |[Morimichi Kikuchi (菊地守道)](https://www.worldcubeassociation.org/persons/2017KIKU01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|333bf,333mbf|  
 |[Nan Xia (夏楠)](https://www.worldcubeassociation.org/persons/2016XIAN08)|China|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333bf,333oh,sq1|  
+|[Naohiro Abe (阿倍直宏)](https://www.worldcubeassociation.org/persons/2019ABEN02)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333bf|  
 |[Naoya Hirata (平田直也)](https://www.worldcubeassociation.org/persons/2019HIRA03)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|333bf,333mbf|  
 |[Ryohei Yoshioka (吉岡亮平)](https://www.worldcubeassociation.org/persons/2011YOSH01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666|  
 |[Ryouichi Ibaraki (茨木亮一)](https://www.worldcubeassociation.org/persons/2016IBAR06)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,333oh,minx,sq1|  
 |[Satoru Umetsu (梅津諭)](https://www.worldcubeassociation.org/persons/2016UMET02)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,minx|  
 |[Satoshi Kodama (児玉聡)](https://www.worldcubeassociation.org/persons/2013KODA01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333bf,333oh,sq1|  
 |[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333oh,sq1|  
-|Shinichi Saito (斉藤伸一)|NULL|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444|  
+|[Shinichi Saito (斉藤伸一)](https://www.worldcubeassociation.org/persons/2016SAIT01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444|  
 |[Shintaro Hirose (広瀬慎太郎)](https://www.worldcubeassociation.org/persons/2014HIRO01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|333bf,333mbf|  
 |[Shiori Yanai (矢内詩織)](https://www.worldcubeassociation.org/persons/2013SATO01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|sq1|  
 |[Sho Ogata (緒方昭)](https://www.worldcubeassociation.org/persons/2017OGAT01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333oh|  
@@ -10782,6 +11544,7 @@ Key:
 |[Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,minx|  
 |Takuma Carter|NULL|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,minx|  
 |[Takuma Daino (台野拓磨)](https://www.worldcubeassociation.org/persons/2015DAIN01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,minx|  
+|[Takumi Fujiwara (藤原拓巳)](https://www.worldcubeassociation.org/persons/2017FUJI03)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,333oh|  
 |[Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,sq1|  
 |[Takumi Yoshida (吉田拓海)](https://www.worldcubeassociation.org/persons/2018YOSH03)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,666,333bf,sq1|  
 |[Taro Yoshioka (吉岡太郎)](https://www.worldcubeassociation.org/persons/2012YOSH02)|Japan|[YonoSummer2019](https://www.worldcubeassociation.org/competitions/YonoSummer2019)|Accepted|444,333oh|  

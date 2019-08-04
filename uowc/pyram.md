@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Thu Aug 01 at 1110UTC*
+*Last updated using WCA Developer Export from Sun Aug 04 at 1210UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -41,4 +41,4 @@
 |[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|2018-07-27|[CubingUSANationals2018 - Semi Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_3)|[CubingUSANationals2018 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_f)|0|  
 |[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-07-27|[CubingUSANationals2018 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all#epyram_f)|[NewJersey2018 - First round](https://www.worldcubeassociation.org/competitions/NewJersey2018/results/all#epyram_1)|112|  
 |[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03)|USA|2018-11-17|[NewJersey2018 - First round](https://www.worldcubeassociation.org/competitions/NewJersey2018/results/all#epyram_1)|[NewJersey2018 - Final](https://www.worldcubeassociation.org/competitions/NewJersey2018/results/all#epyram_f)|0|  
-|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-11-17|[NewJersey2018 - Final](https://www.worldcubeassociation.org/competitions/NewJersey2018/results/all#epyram_f)|Ongoing|256|  
+|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|2018-11-17|[NewJersey2018 - Final](https://www.worldcubeassociation.org/competitions/NewJersey2018/results/all#epyram_f)|Ongoing|259|  
