@@ -11,15 +11,15 @@ KEY asr_round2 (roundTypeId),
 KEY asr_eventval (eventId,value))
   SELECT * FROM
   (
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 1 solve, formatId, pos, personId, personName, personCountryId, personContinentId, value1 value FROM results_extra WHERE value1 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 1 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value1 value FROM results_extra WHERE value1 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 2 solve, formatId, pos, personId, personName, personCountryId, personContinentId, value2 value FROM results_extra WHERE value2 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 2 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value2 value FROM results_extra WHERE value2 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 3 solve, formatId, pos, personId, personName, personCountryId, personContinentId, value3 value FROM results_extra WHERE value3 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 3 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value3 value FROM results_extra WHERE value3 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 4 solve, formatId, pos, personId, personName, personCountryId, personContinentId, value4 value FROM results_extra WHERE value4 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 4 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value4 value FROM results_extra WHERE value4 NOT IN (0,-2)
     UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 5 solve, formatId, pos, personId, personName, personCountryId, personContinentId, value5 value FROM results_extra WHERE value5 NOT IN (0,-2)
+    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 5 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value5 value FROM results_extra WHERE value5 NOT IN (0,-2)
   ) a
   ORDER BY 
     date, 
@@ -33,3 +33,16 @@ KEY asr_eventval (eventId,value))
 # ~ 26 mins
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_attempts';
+
+SET @curr = NULL, @rank = 1, @con = NULL, @prev = NULL, @n = 1;
+UPDATE wca_stats.all_attempts aa JOIN
+(
+  SELECT id, personId, competitionId, eventId, roundTypeId,
+    @curr := IF(value <= 0, 9999999999999999, value) curr,
+    @rank := IF(@con = CONCAT(personId, " - ", competitionId, " - ", eventId, " - ", roundTypeId), @rank + 1, 1) rank,
+    @prev := IF(value <= 0, 9999999999999999, value),
+    @con := CONCAT(personId, " - ", competitionId, " - ", eventId, " - ", roundTypeId)
+  FROM all_attempts
+  ORDER BY personId, competitionId, eventId, roundTypeId, IF(value <= 0, 9999999999999999, value) ASC) rank
+ON aa.id = rank.id
+SET aa.solveRank = rank.rank;
