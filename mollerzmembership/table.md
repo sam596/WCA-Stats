@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Wed Aug 07 at 1311UTC*
+*Last updated using WCA Developer Export from Sat Aug 10 at 1412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -35,6 +35,7 @@
 |[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Y|Y|Y|Y|N|Y|  
 |[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Y|Y|Y|Y|Y|N (4/18)|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|Y|Y|Y|Y|Y|N (5/18)|  
+|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|Y|Y|Y|N|Y|Y|  
 |[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Y|Y|N (3/4)|Y|Y|Y|  
 |[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|Y|Y|N (2/4)|Y|Y|Y|  
 |[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Y|Y|N (2/4)|Y|Y|Y|  
@@ -47,7 +48,6 @@
 |[Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20)|Y|Y|Y|N|Y|N (4/18)|  
 |[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|Y|Y|N (3/4)|Y|Y|N (8/18)|  
 |[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|Y|Y|N (3/4)|Y|Y|N (17/18)|  
-|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|Y|Y|N (3/4)|N|Y|Y|  
 |[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Y|Y|N (2/4)|Y|Y|N (15/18)|  
 |[Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02)|Y|Y|N (2/4)|Y|Y|N (16/18)|  
 |[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|Y|Y|N (2/4)|Y|Y|N (16/18)|  
@@ -57,8 +57,8 @@
 |[Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01)|Y|Y|N (2/4)|Y|Y|N (8/18)|  
 |[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Y|Y|N (2/4)|Y|Y|N (15/18)|  
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|Y|Y|N (2/4)|Y|Y|N (5/18)|  
-|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Y|Y|N (2/4)|Y|Y|N (16/18)|  
 |[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|Y|Y|N (2/4)|Y|Y|N (12/18)|  
+|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Y|Y|N (2/4)|Y|Y|N (16/18)|  
 |[Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01)|Y|Y|N (2/4)|Y|Y|N (2/18)|  
 |[Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01)|Y|Y|N (2/4)|Y|Y|N (10/18)|  
 |[Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01)|Y|Y|N (2/4)|Y|Y|N (14/18)|  
@@ -140,6 +140,7 @@
 |[Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01)|Y|Y|N (3/4)|N|N|N (4/18)|  
 |[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|Y|Y|N (3/4)|N|N|N (2/18)|  
 |[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|Y|Y|N (3/4)|N|N|N (3/18)|  
+|[Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02)|Y|Y|N (3/4)|N|N|N (2/18)|  
 |[Matthew Dickman](https://www.worldcubeassociation.org/persons/2013DICK01)|Y|Y|N (3/4)|N|N|N (1/18)|  
 |[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Y|Y|N (3/4)|N|N|N (1/18)|  
 |[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Y|Y|N (3/4)|N|N|N (1/18)|  
@@ -221,7 +222,6 @@
 |[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01)|Y|Y|N (2/4)|N|N|N (2/18)|  
-|[Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Sukesh Kumar](https://www.worldcubeassociation.org/persons/2017KUMA30)|Y|Y|N (2/4)|N|N|N (2/18)|  
 |[Junhe Zhang (张钧鹤)](https://www.worldcubeassociation.org/persons/2009ZHAN24)|Y|Y|N (2/4)|N|N|N (1/18)|  
 |[Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07)|Y|Y|N (2/4)|N|N|N (1/18)|  
@@ -375,6 +375,7 @@
 |[Lee Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN04)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Jintao Jin (金锦涛)](https://www.worldcubeassociation.org/persons/2017JINJ02)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
+|[Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02)|N (17/18)|Y|N (2/4)|N|N|N (1/18)|  
 |[Jia Zeng (曾嘉)](https://www.worldcubeassociation.org/persons/2011ZENG02)|N (17/18)|Y|N (2/4)|N|N|N (0/18)|  
 |[Michael Zavalza](https://www.worldcubeassociation.org/persons/2012ZAVA01)|N (17/18)|Y|N (2/4)|N|N|N (0/18)|  
 |[Ben Zoller](https://www.worldcubeassociation.org/persons/2013ZOLL01)|N (17/18)|Y|N (2/4)|N|N|N (0/18)|  
@@ -406,7 +407,6 @@
 |[Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01)|N (17/18)|Y|N (1/4)|N|N|N (2/18)|  
 |[Robert Paus](https://www.worldcubeassociation.org/persons/2015PAUS01)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
-|[Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02)|N (17/18)|Y|N (1/4)|N|N|N (1/18)|  
 |[Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09)|N (17/18)|Y|N (1/4)|N|N|N (0/18)|  
 |[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (17/18)|Y|N (0/4)|N|N|N (4/18)|  

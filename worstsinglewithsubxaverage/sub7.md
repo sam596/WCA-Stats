@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Aug 07 at 1311UTC*
+*Last updated using WCA Developer Export from Sat Aug 10 at 1412UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -13,20 +13,20 @@
 |3|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|6.79|5.74|  
 |4|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|6.97|5.69|  
 |5|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|6.74|5.67|  
-|6|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|USA|6.93|5.67|  
-|7|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|6.96|5.66|  
-|8|[Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|6.52|5.64|  
+|6|[Mulun Yin (阴目仑)](https://www.worldcubeassociation.org/persons/2009YINM01)|China|6.96|5.66|  
+|7|[Kian Mansour](https://www.worldcubeassociation.org/persons/2015MANS03)|Canada|6.52|5.64|  
+|8|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|USA|6.72|5.63|  
 |9|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|6.42|5.59|  
-|10|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|6.81|5.50|  
-|11|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.42|  
-|12|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|6.78|5.38|  
-|13|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|5.22|  
-|14|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.60|5.19|  
-|15|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
-|16|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.85|5.13|  
-|17|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|Philippines|6.37|5.12|  
-|18|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.06|  
-|19|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|6.76|4.97|  
+|10|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.69|5.42|  
+|11|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|6.78|5.38|  
+|12|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|5.22|  
+|13|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|6.60|5.19|  
+|14|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|6.51|5.19|  
+|15|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|6.85|5.13|  
+|16|[Leo Borromeo](https://www.worldcubeassociation.org/persons/2015BORR01)|Philippines|6.37|5.12|  
+|17|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|5.06|  
+|18|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|6.76|4.97|  
+|19|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|6.54|4.95|  
 |20|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|6.83|4.94|  
 |21|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|6.24|4.90|  
 |22|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|6.38|4.90|  
