@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sat Aug 10 at 1412UTC*
+*Last updated using WCA Developer Export from Tue Aug 13 at 1510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -255,6 +255,6 @@
 |245|[Scott Doyle](https://www.worldcubeassociation.org/persons/2015DOYL04)|Ireland|11.58|10.45|  
 |246|[Yota Kondo (近藤洋太)](https://www.worldcubeassociation.org/persons/2017KOND05)|Japan|11.60|10.45|  
 |247|[Ahron Fishman](https://www.worldcubeassociation.org/persons/2018FISH02)|USA|11.54|10.44|  
-|248|[Carlos Miguel Parra Gonzalez](https://www.worldcubeassociation.org/persons/2013GONZ07)|Venezuela|11.72|10.44|  
-|249|[Joe Vander Veen](https://www.worldcubeassociation.org/persons/2013VEEN01)|Canada|11.61|10.44|  
-|250|[Miguel Castillo Barajas](https://www.worldcubeassociation.org/persons/2015BARA08)|Mexico|11.47|10.44|  
+|248|[Alexandre Ondet](https://www.worldcubeassociation.org/persons/2017ONDE01)|France|11.94|10.44|  
+|249|[Carlos Miguel Parra Gonzalez](https://www.worldcubeassociation.org/persons/2013GONZ07)|Venezuela|11.72|10.44|  
+|250|[Joe Vander Veen](https://www.worldcubeassociation.org/persons/2013VEEN01)|Canada|11.61|10.44|  
