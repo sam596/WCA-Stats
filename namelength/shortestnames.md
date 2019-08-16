@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Tue Aug 13 at 1510UTC*
+*Last updated using WCA Developer Export from Fri Aug 16 at 1612UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -654,6 +654,7 @@
 |=|[Fan Li (李帆)](https://www.worldcubeassociation.org/persons/2019LIFA02)|China|5|  
 |=|[Han Li (李涵)](https://www.worldcubeassociation.org/persons/2019LIHA03)|China|5|  
 |=|[Kai Li](https://www.worldcubeassociation.org/persons/2019LIKA02)|Australia|5|  
+|=|[Xu Lin (林栩)](https://www.worldcubeassociation.org/persons/2019LINX04)|China|5|  
 |=|[Ran Li (李冉)](https://www.worldcubeassociation.org/persons/2019LIRA01)|China|5|  
 |=|[Tao Li (李涛)](https://www.worldcubeassociation.org/persons/2019LITA02)|China|5|  
 |=|[Ao Liu (刘澳)](https://www.worldcubeassociation.org/persons/2019LIUA01)|China|5|  
@@ -693,7 +694,7 @@
 |=|[Max Yu](https://www.worldcubeassociation.org/persons/2019YUMA02)|USA|5|  
 |=|[Li Zha (查理)](https://www.worldcubeassociation.org/persons/2019ZHAL02)|China|5|  
 |=|[Yi Zhu (朱熠)](https://www.worldcubeassociation.org/persons/2019ZHUY02)|China|5|  
-|686|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|687|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1007,4 +1008,3 @@
 |=|[Teng Ma (马腾)](https://www.worldcubeassociation.org/persons/2012MATE01)|China|6|  
 |=|[Pavani](https://www.worldcubeassociation.org/persons/2012PAVA01)|India|6|  
 |=|[Wei Qin (覃蔚)](https://www.worldcubeassociation.org/persons/2012QINW01)|China|6|  
-|=|[Ko Sato (佐藤航)](https://www.worldcubeassociation.org/persons/2012SATO01)|Japan|6|  

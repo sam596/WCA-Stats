@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Tue Aug 13 at 1510UTC*
+*Last updated using WCA Developer Export from Fri Aug 16 at 1612UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -132,12 +132,13 @@
 |=|[Francisco Maximiliano Moscoso Carrasco](https://www.worldcubeassociation.org/persons/2019CARR01)|Chile|35|  
 |=|[Ddounj-Hit Yogendra Anchitpatra Gaijan](https://www.worldcubeassociation.org/persons/2019GAIJ01)|Mauritius|35|  
 |=|[Luís Filipe Vargas Gualberto da Rosa Melo](https://www.worldcubeassociation.org/persons/2019MELO04)|Brazil|35|  
+|=|[Jean Felipe Araújo de Paula do Nascimento](https://www.worldcubeassociation.org/persons/2019NASC07)|Brazil|35|  
 |=|[Iloniaina Tohifitahiana Randrianasolo](https://www.worldcubeassociation.org/persons/2019RAND09)|Madagascar|35|  
 |=|[Kantoniaina Manantsoa Randriambelosoa](https://www.worldcubeassociation.org/persons/2019RAND12)|Madagascar|35|  
 |=|[Andriambola Stephen Lalao Ravelonarivo](https://www.worldcubeassociation.org/persons/2019RAVE01)|Madagascar|35|  
 |=|[Adoré Solonirina Razafindrainisoamavo](https://www.worldcubeassociation.org/persons/2019RAZA01)|Madagascar|35|  
 |=|[Lucius Alexander Pandya Genaro Soebroto](https://www.worldcubeassociation.org/persons/2019SOEB01)|Indonesia|35|  
-|130|[Francisco Eduardo Martins Serra Espuny](https://www.worldcubeassociation.org/persons/2009ESPU01)|Brazil|34|  
+|131|[Francisco Eduardo Martins Serra Espuny](https://www.worldcubeassociation.org/persons/2009ESPU01)|Brazil|34|  
 |=|[Vitor Manoel Teixeira de Moraes Almeida](https://www.worldcubeassociation.org/persons/2012ALME01)|Brazil|34|  
 |=|[Pierre-Alexandre Langlois Gaudreault](https://www.worldcubeassociation.org/persons/2012GAUD01)|Canada|34|  
 |=|[Maximiliano Rodrigo Gonzalez Olivares](https://www.worldcubeassociation.org/persons/2012OLIV01)|Chile|34|  
@@ -206,9 +207,10 @@
 |=|[Youssef Gamal Eldeen Faher Eldeen Ahmed](https://www.worldcubeassociation.org/persons/2019AHME10)|Egypt|34|  
 |=|[Joao Vitor Montezuma Camargo Domingues](https://www.worldcubeassociation.org/persons/2019DOMI07)|Brazil|34|  
 |=|[Guilherme João Sequeira Outor Monteiro](https://www.worldcubeassociation.org/persons/2019MONT12)|Portugal|34|  
+|=|[Luiz Augusto de Campos Gonçalves Santos](https://www.worldcubeassociation.org/persons/2019SANT46)|Brazil|34|  
 |=|[Muhamad Akmal Syahmie Bin Muhamad Sidek](https://www.worldcubeassociation.org/persons/2019SIDE01)|Malaysia|34|  
 |=|[André José Fernando Velásquez Villegas](https://www.worldcubeassociation.org/persons/2019VILL09)|Guatemala|34|  
-|201|[Marcus Vinicius Mota Pinheiro da Costa](https://www.worldcubeassociation.org/persons/2009COST03)|Brazil|33|  
+|203|[Marcus Vinicius Mota Pinheiro da Costa](https://www.worldcubeassociation.org/persons/2009COST03)|Brazil|33|  
 |=|[Mohammad Harith Izzuddin Bin Mohd Naim](https://www.worldcubeassociation.org/persons/2009NAIM01)|Malaysia|33|  
 |=|[Mohamed Haryz Izzudin Bin Mohamed Rafy](https://www.worldcubeassociation.org/persons/2009RAFY01)|Malaysia|33|  
 |=|[Kaileygh Desirée Montes de Oca Aguirre](https://www.worldcubeassociation.org/persons/2010AGUI02)|Mexico|33|  
@@ -315,7 +317,7 @@
 |=|[Herman Alejandro Sanchez Salvatierra](https://www.worldcubeassociation.org/persons/2019SALV01)|Guatemala|33|  
 |=|[Mariana del Rocío Covarrubias Sánchez](https://www.worldcubeassociation.org/persons/2019SANC23)|Mexico|33|  
 |=|[Fernando Gestermeier Fermino da Silva](https://www.worldcubeassociation.org/persons/2019SILV23)|Brazil|33|  
-|308|[Muhammad Farhan Bin Hardy Adrian Chin](https://www.worldcubeassociation.org/persons/2009CHIN02)|Malaysia|32|  
+|310|[Muhammad Farhan Bin Hardy Adrian Chin](https://www.worldcubeassociation.org/persons/2009CHIN02)|Malaysia|32|  
 |=|[Muhammad Ali Imran bin Muhammad Radzi](https://www.worldcubeassociation.org/persons/2009RADZ01)|Malaysia|32|  
 |=|[Renato de Oliveira Noronha Rodrigues](https://www.worldcubeassociation.org/persons/2009RODR06)|Brazil|32|  
 |=|[Sandra Regina da Conceicao Eliziario](https://www.worldcubeassociation.org/persons/2010ELIZ02)|Brazil|32|  
@@ -455,7 +457,7 @@
 |=|[Deban Lucky Tsara Fitahiana Randrema](https://www.worldcubeassociation.org/persons/2019RAND06)|Madagascar|32|  
 |=|[Rithesh Subbulakshmi Saravanakumar](https://www.worldcubeassociation.org/persons/2019SARA07)|India|32|  
 |=|[Fabrizio Sebastian Solis Valderrama](https://www.worldcubeassociation.org/persons/2019VALD01)|Peru|32|  
-|448|[Antonio Roberto Martínez Fernández](https://www.worldcubeassociation.org/persons/2007MART01)|Spain|31|  
+|450|[Antonio Roberto Martínez Fernández](https://www.worldcubeassociation.org/persons/2007MART01)|Spain|31|  
 |=|[Leonardo Ignacio Martínez Sandoval](https://www.worldcubeassociation.org/persons/2008SAND02)|Mexico|31|  
 |=|[Iñaki Zenikazelaia Ibañez de Opacua](https://www.worldcubeassociation.org/persons/2008ZENI01)|Spain|31|  
 |=|[Muhammad Irfan Syafiq bin Mohd Anuar](https://www.worldcubeassociation.org/persons/2009ANUA01)|Malaysia|31|  
@@ -684,6 +686,7 @@
 |=|[Bernardo de Arêa Leão Alves Mauricio](https://www.worldcubeassociation.org/persons/2019MAUR01)|Brazil|31|  
 |=|[Helio Henrique Klesener de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV16)|Brazil|31|  
 |=|[Helder Vinicius Pereira de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV20)|Brazil|31|  
+|=|[Alessa Crystina Candido de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV21)|Brazil|31|  
 |=|[Arinosy Nilaina Ruddy Rakotonirina](https://www.worldcubeassociation.org/persons/2019RAKO05)|Madagascar|31|  
 |=|[Abhishek Krishnan Gopal Ramshanker](https://www.worldcubeassociation.org/persons/2019RAMS03)|India|31|  
 |=|[Deban Ryan Mika Voasoratra Randrema](https://www.worldcubeassociation.org/persons/2019RAND07)|France|31|  
@@ -692,13 +695,15 @@
 |=|[Mandrindra Rivoharinjaka Robinson](https://www.worldcubeassociation.org/persons/2019ROBI05)|Madagascar|31|  
 |=|[Christian Jenzal Bersalote Salvani](https://www.worldcubeassociation.org/persons/2019SALV04)|Philippines|31|  
 |=|[Jhomaykel Javier Palacios Sandoval](https://www.worldcubeassociation.org/persons/2019SAND02)|Peru|31|  
+|=|[Alejandro Esteban Miñanir Sandoval](https://www.worldcubeassociation.org/persons/2019SAND13)|Chile|31|  
 |=|[Bastian Emiliano Riquelme Sanhueza](https://www.worldcubeassociation.org/persons/2019SANH01)|Chile|31|  
 |=|[Rafael Arcanjo Barros Dutra de Souza](https://www.worldcubeassociation.org/persons/2019SOUZ10)|Brazil|31|  
+|=|[Karen Catalina Valderas Valladares](https://www.worldcubeassociation.org/persons/2019VALL07)|Chile|31|  
 |=|[Rosario Fernanda Catorceno Veizaga](https://www.worldcubeassociation.org/persons/2019VEIZ02)|Bolivia|31|  
 |=|[Emmanuel Donaldo Soriano Velázquez](https://www.worldcubeassociation.org/persons/2019VELA05)|Mexico|31|  
 |=|[Nishant Ganesapandian Vishnupriya](https://www.worldcubeassociation.org/persons/2019VISH02)|India|31|  
 |=|[Muhammad Azzahrawi Bin Ahmad Yassir](https://www.worldcubeassociation.org/persons/2019YASS01)|Malaysia|31|  
-|691|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
+|696|[Rodrigo Ybarra de Oliveira Ribeiro](https://www.worldcubeassociation.org/persons/2007RIBE01)|Brazil|30|  
 |=|[Alejandro Sámer Salameh Rodríguez](https://www.worldcubeassociation.org/persons/2007SAME01)|Spain|30|  
 |=|[Lucas Santiago Bernhardt Caruncho](https://www.worldcubeassociation.org/persons/2008CARU01)|Argentina|30|  
 |=|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|30|  
@@ -1003,8 +1008,3 @@
 |=|[Francisco Danilo de Oliveira Silva](https://www.worldcubeassociation.org/persons/2018SILV82)|Brazil|30|  
 |=|[Ana Paula Galeano de Oliveira Souza](https://www.worldcubeassociation.org/persons/2018SOUZ11)|Brazil|30|  
 |=|[Darren Arqiarkaan Dyazfajri Teddy](https://www.worldcubeassociation.org/persons/2018TEDD01)|Indonesia|30|  
-|=|[Pablo Andres Gutierrez Valenzuela](https://www.worldcubeassociation.org/persons/2018VALE05)|Chile|30|  
-|=|[George Esneider Valencia Valencia](https://www.worldcubeassociation.org/persons/2018VALE19)|Ecuador|30|  
-|=|[Carlos Emiliano Campos Valladolid](https://www.worldcubeassociation.org/persons/2018VALL06)|Mexico|30|  
-|=|[Matheus Henrique Rodrigues Vieira](https://www.worldcubeassociation.org/persons/2018VIEI05)|Brazil|30|  
-|=|[Allison Victoria Guillen Zamarron](https://www.worldcubeassociation.org/persons/2018ZAMA01)|Mexico|30|  
