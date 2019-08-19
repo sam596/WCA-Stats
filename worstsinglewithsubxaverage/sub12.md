@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Fri Aug 16 at 1612UTC*
+*Last updated using WCA Developer Export from Mon Aug 19 at 1712UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -34,24 +34,24 @@
 |24|[Victor Saulquin](https://www.worldcubeassociation.org/persons/2016SAUL03)|France|11.69|11.12|  
 |25|[Roman Kuznetsov (Роман Кузнецов)](https://www.worldcubeassociation.org/persons/2018KUZN06)|Russia|11.90|11.11|  
 |26|[Liming Lu (卢黎鸣)](https://www.worldcubeassociation.org/persons/2016LULI01)|China|11.86|11.08|  
-|27|[Maxim Onushkin](https://www.worldcubeassociation.org/persons/2017ONUS01)|Russia|11.92|11.08|  
-|28|[Pavel Kruglov](https://www.worldcubeassociation.org/persons/2017KRUG02)|Russia|11.48|11.08|  
-|29|[Batyrkhan Kazymbetov (Батырхан Казымбетов)](https://www.worldcubeassociation.org/persons/2019KAZY01)|Kazakhstan|11.72|11.06|  
-|30|[Arnel Peros](https://www.worldcubeassociation.org/persons/2014PERO03)|Philippines|11.86|11.05|  
-|31|[Elijah Gil S. Cacho](https://www.worldcubeassociation.org/persons/2019CACH02)|Philippines|11.96|11.05|  
-|32|[Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02)|Chile|11.74|11.04|  
-|33|[Jacob Chirkoff](https://www.worldcubeassociation.org/persons/2016CHIR01)|Canada|11.81|11.04|  
-|34|[Moiz Hussain Siddiqui](https://www.worldcubeassociation.org/persons/2017SIDD14)|Canada|11.67|11.04|  
-|35|[Sarah Budiman](https://www.worldcubeassociation.org/persons/2016BUDI02)|Australia|11.93|11.04|  
-|36|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|11.89|11.01|  
-|37|[Paramvir Singh](https://www.worldcubeassociation.org/persons/2016SING16)|USA|11.40|11.01|  
-|38|[Yang Qi (祁洋)](https://www.worldcubeassociation.org/persons/2011QIYA01)|China|11.78|11.00|  
-|39|[Yuki Matsui (松井裕希)](https://www.worldcubeassociation.org/persons/2018MATS11)|Japan|11.93|11.00|  
-|40|[Chan-Young Lee](https://www.worldcubeassociation.org/persons/2016LEEC05)|Korea|11.76|10.99|  
-|41|[Igor Tarabrin (Игорь Тарабрин)](https://www.worldcubeassociation.org/persons/2018TARA07)|Russia|11.75|10.99|  
-|42|[Thaddie Verploegh](https://www.worldcubeassociation.org/persons/2015VERP02)|Netherlands|11.99|10.98|  
-|43|[Fitri Nurul Ain](https://www.worldcubeassociation.org/persons/2017AINF01)|Brunei|11.85|10.97|  
-|44|[Jiahui Zhu (朱嘉辉)](https://www.worldcubeassociation.org/persons/2015ZHUJ05)|China|11.93|10.96|  
+|27|[Pavel Kruglov](https://www.worldcubeassociation.org/persons/2017KRUG02)|Russia|11.48|11.08|  
+|28|[Batyrkhan Kazymbetov (Батырхан Казымбетов)](https://www.worldcubeassociation.org/persons/2019KAZY01)|Kazakhstan|11.72|11.06|  
+|29|[Arnel Peros](https://www.worldcubeassociation.org/persons/2014PERO03)|Philippines|11.86|11.05|  
+|30|[Elijah Gil S. Cacho](https://www.worldcubeassociation.org/persons/2019CACH02)|Philippines|11.96|11.05|  
+|31|[Ignacio Ortiz](https://www.worldcubeassociation.org/persons/2015ORTI02)|Chile|11.74|11.04|  
+|32|[Jacob Chirkoff](https://www.worldcubeassociation.org/persons/2016CHIR01)|Canada|11.81|11.04|  
+|33|[Moiz Hussain Siddiqui](https://www.worldcubeassociation.org/persons/2017SIDD14)|Canada|11.67|11.04|  
+|34|[Sarah Budiman](https://www.worldcubeassociation.org/persons/2016BUDI02)|Australia|11.93|11.04|  
+|35|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|11.89|11.01|  
+|36|[Paramvir Singh](https://www.worldcubeassociation.org/persons/2016SING16)|USA|11.40|11.01|  
+|37|[Yang Qi (祁洋)](https://www.worldcubeassociation.org/persons/2011QIYA01)|China|11.78|11.00|  
+|38|[Yuki Matsui (松井裕希)](https://www.worldcubeassociation.org/persons/2018MATS11)|Japan|11.93|11.00|  
+|39|[Chan-Young Lee](https://www.worldcubeassociation.org/persons/2016LEEC05)|Korea|11.76|10.99|  
+|40|[Igor Tarabrin (Игорь Тарабрин)](https://www.worldcubeassociation.org/persons/2018TARA07)|Russia|11.75|10.99|  
+|41|[Thaddie Verploegh](https://www.worldcubeassociation.org/persons/2015VERP02)|Netherlands|11.99|10.98|  
+|42|[Fitri Nurul Ain](https://www.worldcubeassociation.org/persons/2017AINF01)|Brunei|11.85|10.97|  
+|43|[Jiahui Zhu (朱嘉辉)](https://www.worldcubeassociation.org/persons/2015ZHUJ05)|China|11.93|10.96|  
+|44|[Li-Zhi Findhammer](https://www.worldcubeassociation.org/persons/2018FIND01)|Netherlands|11.72|10.96|  
 |45|[Mok Yuan Cong](https://www.worldcubeassociation.org/persons/2018CONG05)|Malaysia|11.89|10.95|  
 |46|[Michael Ngan (顏律言)](https://www.worldcubeassociation.org/persons/2016NGAN02)|Hong Kong|11.91|10.94|  
 |47|[Mohannad Mahmoud Fathy](https://www.worldcubeassociation.org/persons/2019FATH03)|Egypt|11.42|10.94|  

@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Fri Aug 16 at 1612UTC*
+*Last updated using WCA Developer Export from Mon Aug 19 at 1712UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -13,7 +13,7 @@
 |3|[Jinxuan Ni (倪锦旋)](https://www.worldcubeassociation.org/persons/2019NIJI01)|China|1:00.88|  
 |4|[Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03)|Malaysia|1:01.74|  
 |5|[Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02)|Vietnam|1:03.92|  
-|6|[Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01)|Russia|1:04.73|  
+|6|[Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01)|Russia|1:06.02|  
 |7|[Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01)|USA|1:06.38|  
 |8|[Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01)|USA|1:06.39|  
 |9|[Simiao Duan (段斯藐)](https://www.worldcubeassociation.org/persons/2019DUAN03)|China|1:06.57|  
