@@ -48,22 +48,22 @@ JOIN
   GROUP BY personId, YEAR(date)) r 
 ON p.id = r.personId;
 
-#  DROP PROCEDURE IF EXISTS seasonrankupd;
-#  DELIMITER ;;
-#  CREATE PROCEDURE seasonrankupd(IN eventform VARCHAR(16))
-#  BEGIN
-#    SET @sql = CONCAT('ALTER TABLE seasons ADD COLUMN ', eventform, 'Rank INT AFTER ', eventform, ';');
-#    PREPARE stmt FROM @sql;
-#    EXECUTE stmt;
-#    DEALLOCATE PREPARE stmt;
-#    SET @y = @v = @i = @c = 0;
-#    SET @sql = CONCAT('UPDATE seasons JOIN (SELECT *, @i := IF(@y = year,IF(@v = ', eventform, ', @i, @iRank,0) + IFNULL(@c), 1) initrank, @c := IF(@y = year,IF(@v = ', eventform, ', @cRank,0) + IFNULL(1, 1), 1) counter, @y := year, @v := ', eventform, ' val FROM (SELECT * FROM seasons WHERE ', eventform, ' IS NOT NULL ORDER BY year, ', eventform, ', personId) a) rank ON seasons.personId = rank.personId AND seasons.year = rank.year SET seasons.', eventform, 'Rank = rank.initrank;');
-#    PREPARE stmt FROM @sql;
-#    EXECUTE stmt;
-#    DEALLOCATE PREPARE stmt;
-#  END;
-#  ;;
-#  DELIMITER ;
+DROP PROCEDURE IF EXISTS seasonrankupd;
+DELIMITER ;;
+CREATE PROCEDURE seasonrankupd(IN eventform VARCHAR(16))
+BEGIN
+  SET @sql = CONCAT('ALTER TABLE seasons ADD COLUMN ', eventform, 'Rank INT AFTER ', eventform, ';');
+  PREPARE stmt FROM @sql;
+  EXECUTE stmt;
+  DEALLOCATE PREPARE stmt;
+  SET @y = 0, @v = 0, @i = 0, @c = 0;
+  SET @sql = CONCAT('UPDATE seasons JOIN (SELECT *, @i := IF(@y = year,IF(@v = ', eventform, ', @i, @iRank,0) + IFNULL(@c), 1) initrank, @c := IF(@y = year,IF(@v = ', eventform, ', @cRank,0) + IFNULL(1, 1), 1) counter, @y := year, @v := ', eventform, ' val FROM (SELECT * FROM seasons WHERE ', eventform, ' IS NOT NULL ORDER BY year, ', eventform, ', personId) a) rank ON seasons.personId = rank.personId AND seasons.year = rank.year SET seasons.', eventform, 'Rank = rank.initrank;');
+  PREPARE stmt FROM @sql;
+  EXECUTE stmt;
+  DEALLOCATE PREPARE stmt;
+END;
+;;
+DELIMITER ;
 
 CALL seasonrankupd('333s');
 CALL seasonrankupd('222s');
@@ -104,17 +104,17 @@ CALL seasonrankupd('sq1a');
 CALL seasonrankupd('magica');
 CALL seasonrankupd('mmagica');
 
-DROP PROCEDURE IF EXISTS seasonranknulls;
-DELIMITER ;;
-CREATE PROCEDURE seasonranknulls(IN eventform VARCHAR(16))
-BEGIN
-  SET @sql = CONCAT('UPDATE seasons JOIN (SELECT year, MAX(', eventform, 'rank) max FROM seasons GROUP BY year) max ON seasons.year = max.year SET seasons.', eventform, 'rank = max.max WHERE seasons.', eventform, 'rank IS NULL;');
-  PREPARE stmt FROM @sql;
-  EXECUTE stmt;
-  DEALLOCATE PREPARE stmt;
-END;
-;;
-DELIMITER ;
+-- DROP PROCEDURE IF EXISTS seasonranknulls;
+-- DELIMITER ;;
+-- CREATE PROCEDURE seasonranknulls(IN eventform VARCHAR(16))
+-- BEGIN
+--   SET @sql = CONCAT('UPDATE seasons JOIN (SELECT year, MAX(', eventform, 'rank) max FROM seasons GROUP BY year) max ON seasons.year = max.year SET seasons.', eventform, 'rank = max.max WHERE seasons.', eventform, 'rank IS NULL;');
+--   PREPARE stmt FROM @sql;
+--   EXECUTE stmt;
+--   DEALLOCATE PREPARE stmt;
+-- END;
+-- ;;
+-- DELIMITER ;
 
 CALL seasonranknulls('333s');
 CALL seasonranknulls('222s');

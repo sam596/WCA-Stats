@@ -1,5 +1,7 @@
 INSERT INTO wca_stats.last_updated VALUES ('competitions_extra', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+SET @@group_concat_max_len = 1000000;
+DROP TABLE IF EXISTS compdele;
 CREATE TEMPORARY TABLE compdele
 SELECT
 	a.competition_id, COUNT(DISTINCT a.delegate_id) delegates, GROUP_CONCAT(DISTINCT CONCAT(b.name,IFNULL(CONCAT(" (",b.wca_id,")"),""))) delegateList
@@ -9,6 +11,7 @@ LEFT JOIN
 	wca_dev.users b ON a.delegate_id = b.id
 GROUP BY a.competition_id;
 
+DROP TABLE IF EXISTS comporg;
 CREATE TEMPORARY TABLE comporg
 SELECT
 	a.competition_id, COUNT(DISTINCT a.organizer_id) organisers, GROUP_CONCAT(DISTINCT CONCAT(b.name,IFNULL(CONCAT(" (",b.wca_id,")"),""))) organiserList
@@ -18,9 +21,11 @@ LEFT JOIN
 	wca_dev.users b ON a.organizer_id = b.id
 GROUP BY a.competition_id;
 
+DROP TABLE IF EXISTS compchamp;
 CREATE TEMPORARY TABLE compchamp
 SELECT competition_id, GROUP_CONCAT(championship_type ORDER BY championship_type) championship FROM wca_dev.championships GROUP BY competition_id;
 
+DROP TABLE IF EXISTS compresults;
 CREATE TEMPORARY TABLE compresults
 SELECT competitionId, 
 		COUNT(DISTINCT personId) competitors, 
@@ -76,9 +81,11 @@ SELECT competitionId,
 
 # ~ 1 min
 
+DROP TABLE IF EXISTS compperson;
 CREATE TEMPORARY TABLE compperson
 SELECT firstComp, COUNT(*) firstTimers FROM wca_stats.persons_extra GROUP BY firstComp;
 
+DROP TABLE IF EXISTS compevent;
 CREATE TEMPORARY TABLE compevent
 SELECT competition_id, COUNT(DISTINCT event_id) events FROM wca_dev.competition_events GROUP BY competition_id;
 

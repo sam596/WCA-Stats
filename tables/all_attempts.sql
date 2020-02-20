@@ -46,3 +46,5 @@ UPDATE wca_stats.all_attempts aa JOIN
   ORDER BY personId, competitionId, eventId, roundTypeId, IF(value <= 0, 9999999999999999, value) ASC) rank
 ON aa.id = rank.id
 SET aa.solveRank = rank.rank;
+
+# 40-45 mins

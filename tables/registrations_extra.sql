@@ -1,5 +1,5 @@
 INSERT INTO wca_stats.last_updated VALUES ('registrations_extra', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- copy of registrations table with extra information
 DROP TABLE IF EXISTS wca_stats.registrations_extra;
 CREATE TABLE wca_stats.registrations_extra
 (PRIMARY KEY (id),

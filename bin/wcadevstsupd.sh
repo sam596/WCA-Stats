@@ -15,25 +15,26 @@ dbPath=~/databasedownload
 URLStamp=$(date --date="$(curl -s -I "${dbURL}" | awk '/Last-Modified/ {$1=""; print $0}')" +%s)
 localStamp=$(stat -c %Y "$dbLocal")
 
-# Compare the timestamps
+# compare the timestamps, if there's a newer one:
 if [ ${localStamp} -lt ${URLStamp} ];
 then
+# update last_updated to note it's started
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET notes = 'Change noticed; developer database and wca_stats now being updated --- (${URLStamp} vs ${localStamp})' WHERE query = 'wcadevstsupd.sh'"
-  
+# post to discord that it's started  
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "Newer database available; developer database is now being updated"}' $discordwh
-  
+# download new database  
   curl -sRo "${dbLocal}" "${dbURL}"
-  
+# unzip new database  
   unzip -o "${dbLocal}" -d "${dbPath}"
-  
+# log that wca_dev is now being updated  
   mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wca_dev', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
-  
+# import wca_dev and ping discord and last_updated once complete  
   mysql -u sam -p"$mysqlpw" wca_dev < ~/databasedownload/wca-developer-database-dump.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`wca_dev` has been updated to the latest developer export! :tada: The tables in `wca_stats` are now being updated."}' $discordwh && \
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW() WHERE query = 'wca_dev'"
-  
+# results_extra
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/results_extra.sql && \
-  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`results_extra` and `wfc_dues` have been updated! :tada: \n <@118059908628348935> <3"}' $discordwh
+  curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`results_extra` have been updated! :tada:"}' $discordwh
   
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/all_attempts.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`all_attempts` has been updated! :tada:"}' $discordwh
@@ -65,12 +66,12 @@ then
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The relay tables have been updated! :tada:"}' $discordwh
 
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/registrations_extra.sql && \
-  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/person_comps_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/persons_extra.sql && \
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/competitions_extra.sql && \
+  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/person_comps_extra.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "`registrations_extra`, `person_comps_extra`, `persons_extra` and `competitions_extra` have been updated! :tada:"}' $discordwh
   
-  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/seasons.sql && \
+##  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/seasons.sql && \ - not currently working
   mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/current_averages.sql && \
   curl -H "Content-Type: application/json" -X POST -d '{"username": "WCA-Stats", "content": "The `seasons` and `current_averages` tables been updated! :tada:"}' $discordwh
 
