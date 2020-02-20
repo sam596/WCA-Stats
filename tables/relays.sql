@@ -1,5 +1,5 @@
 INSERT INTO wca_stats.last_updated VALUES ('relays', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- relay of mini_guildford (all ao5 events)
 DROP TABLE IF EXISTS mini_guildford;
 CREATE TABLE mini_guildford
 (miniGuildfordRank INT NOT NULL AUTO_INCREMENT,
@@ -39,7 +39,7 @@ ORDER BY
 	;
 
 # <10 secs
-
+-- guildford relay (all wca non-bld events)
 DROP TABLE IF EXISTS guildford;
 CREATE TABLE guildford
 (GuildfordRank INT NOT NULL AUTO_INCREMENT,
@@ -56,7 +56,6 @@ SELECT
 	SUM(CASE WHEN eventId = '666' THEN best END) `666`,
 	SUM(CASE WHEN eventId = '777' THEN best END) `777`,
 	SUM(CASE WHEN eventId = '333oh' THEN best END) `333oh`,
-	SUM(CASE WHEN eventId = '333ft' THEN best END) `333ft`,
 	SUM(CASE WHEN eventId = 'clock' THEN best END) `clock`,
 	SUM(CASE WHEN eventId = 'minx' THEN best END) `minx`,
 	SUM(CASE WHEN eventId = 'pyram' THEN best END) `pyram`,
@@ -64,9 +63,9 @@ SELECT
 	SUM(CASE WHEN eventId = 'sq1' THEN best END) `sq1`,
 	SEC_TO_TIME(r.Guildford/100) `Guildford`
 FROM
-	(SELECT personId, SUM(best) Guildford FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft') GROUP BY personId HAVING COUNT(*) = 13) r
+	(SELECT personId, SUM(best) Guildford FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777') GROUP BY personId HAVING COUNT(*) = 12) r
 INNER JOIN
-	(SELECT * FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft')) s
+	(SELECT * FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777')) s
 ON	
 	r.personId = s.personId
 INNER JOIN
@@ -82,7 +81,7 @@ ORDER BY
 	;
 
 # <10 secs
-
+-- relay of all events (only timed events - i.e. FMC and MBLD)
 DROP TABLE IF EXISTS all_events_relay;
 CREATE TABLE all_events_relay
 (AllEventsRank INT NOT NULL AUTO_INCREMENT,
@@ -101,7 +100,6 @@ SELECT
     SUM(CASE WHEN eventId = '777' THEN best END) `777`,
     SUM(CASE WHEN eventId = '333bf' THEN best END) `333bf`,
     SUM(CASE WHEN eventId = '333oh' THEN best END) `333oh`,
-    SUM(CASE WHEN eventId = '333ft' THEN best END) `333ft`,
     SUM(CASE WHEN eventId = 'clock' THEN best END) `clock`,
     SUM(CASE WHEN eventId = 'minx' THEN best END) `minx`,
     SUM(CASE WHEN eventId = 'pyram' THEN best END) `pyram`,
@@ -110,9 +108,9 @@ SELECT
     SUM(CASE WHEN eventId = '444bf' THEN best END) `444bf`,
     SUM(CASE WHEN eventId = '555bf' THEN best END) `555bf`
 FROM
-	(SELECT personId, SUM(best) AllEvents FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 16) r
+	(SELECT personId, SUM(best) AllEvents FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 15) r
 INNER JOIN
-	(SELECT * FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft','333bf','444bf','555bf')) s
+	(SELECT * FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333bf','444bf','555bf')) s
 ON	
 	r.personId = s.personId
 INNER JOIN
@@ -128,7 +126,7 @@ ORDER BY
 	;
 
 # <10 secs
-
+-- one row for every person. each row contains their PR single and averages and the relevant worldRank
 DROP TABLE IF EXISTS all_events_rank;
 CREATE TABLE all_events_rank
 (AllEventsRank INT NOT NULL AUTO_INCREMENT,
@@ -175,10 +173,6 @@ SELECT
 	SUM(CASE WHEN s.eventId = '333oh' THEN s.worldrank END) `333ohsRank`,
 	SUM(CASE WHEN a.eventId = '333oh' THEN a.best END) `333oha`,
 	SUM(CASE WHEN a.eventId = '333oh' THEN a.worldrank END) `333ohaRank`,
-	SUM(CASE WHEN s.eventId = '333ft' THEN s.best END) `333fts`,
-	SUM(CASE WHEN s.eventId = '333ft' THEN s.worldrank END) `333ftsRank`,
-	SUM(CASE WHEN a.eventId = '333ft' THEN a.best END) `333fta`,
-	SUM(CASE WHEN a.eventId = '333ft' THEN a.worldrank END) `333ftaRank`,
 	SUM(CASE WHEN s.eventId = 'clock' THEN s.best END) `clocks`,
 	SUM(CASE WHEN s.eventId = 'clock' THEN s.worldrank END) `clocksRank`,
 	SUM(CASE WHEN a.eventId = 'clock' THEN a.best END) `clocka`,
@@ -249,8 +243,6 @@ CREATE INDEX 333fms ON all_events_rank (333fms);
 CREATE INDEX 333fma ON all_events_rank (333fma);
 CREATE INDEX 333ohs ON all_events_rank (333ohs);
 CREATE INDEX 333oha ON all_events_rank (333oha);
-CREATE INDEX 333fts ON all_events_rank (333fts);
-CREATE INDEX 333fta ON all_events_rank (333fta);
 CREATE INDEX clocks ON all_events_rank (clocks);
 CREATE INDEX clocka ON all_events_rank (clocka);
 CREATE INDEX minxs ON all_events_rank (minxs);

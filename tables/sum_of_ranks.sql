@@ -1,5 +1,6 @@
 INSERT INTO wca_stats.last_updated VALUES ('average_ranks', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+-- Total number of competitors with an average +1 in the event by country, continent and world
 DROP TABLE IF EXISTS wca_stats.countryEventsAverage;
 CREATE TEMPORARY TABLE wca_stats.countryEventsAverage
 (KEY ce (countryId, eventId))
@@ -13,10 +14,11 @@ e.id eventId,
 FROM
 wca_dev.countries c
 JOIN
-(SELECT * FROM wca_dev.events WHERE rank < 900 AND id NOT IN ('333mbf','444bf','555bf')) e;
+(SELECT * FROM wca_dev.events WHERE rank < 900 AND id != '333mbf') e;
 
-# ~ 9 mins
+-- ~ 10 mins
 
+-- All Event Average/Person combinations
 DROP TABLE IF EXISTS wca_stats.personEventsAverage;
 CREATE TEMPORARY TABLE wca_stats.personEventsAverage
 (KEY pe (id, eventId))
@@ -29,10 +31,11 @@ SELECT
   FROM
     (SELECT * FROM wca_dev.persons WHERE subid = 1) p
   JOIN
-    (SELECT * FROM wca_dev.events WHERE rank < 900 AND id NOT IN ('333mbf','444bf','555bf')) e;
+    (SELECT * FROM wca_dev.events WHERE rank < 900 AND id != '333mbf') e;
 
-# ~ 30 secs
+-- ~ 30 secs
 
+-- Better RanksAverage, but with the details of the PR and right joined to all possible combinations, so any averages not achieved are given max+1
 DROP TABLE IF EXISTS wca_stats.average_ranks;
 CREATE TABLE wca_stats.average_ranks
 SELECT
@@ -63,12 +66,12 @@ SELECT
 	ON b.countryId = d.countryId AND b.eventId = d.eventId
 	;
 
-# ~ 2 mins
+-- ~ 2 mins
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'average_ranks';
 
 INSERT INTO wca_stats.last_updated VALUES ('sor_average', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- sum of average ranks for world, continent and country
 DROP TABLE IF EXISTS SoR_average;
 CREATE TABLE SoR_average 
 (PRIMARY KEY (personId), KEY pwcc (personId, worldSoR, continentSoR, countrySoR))
@@ -88,8 +91,8 @@ CREATE TABLE SoR_average
 		worldSoR
 ;
 
-# ~ 1 min
-
+-- ~ 1 min
+-- adds rank values for average sor for world, continent and country
 ALTER TABLE SoR_average 
 	ADD COLUMN worldRank INT AFTER worldSoR,
 	ADD COLUMN continentRank INT AFTER continentSoR,
@@ -108,7 +111,7 @@ UPDATE wca_stats.SoR_average sora JOIN
 ON sora.personId = rank.personId
 SET sora.worldRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @con = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_average sora JOIN
@@ -124,7 +127,7 @@ UPDATE wca_stats.SoR_average sora JOIN
 ON sora.personId = rank.personId
 SET sora.continentRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @coun = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_average sora JOIN
@@ -140,12 +143,12 @@ UPDATE wca_stats.SoR_average sora JOIN
 ON sora.personId = rank.personId
 SET sora.countryRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'sor_average';
 
 INSERT INTO wca_stats.last_updated VALUES ('single_ranks', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- Total number of competitors with a success +1 in the event by country, continent and world
 DROP TABLE IF EXISTS wca_stats.countryEventsSingle;
 CREATE TEMPORARY TABLE wca_stats.countryEventsSingle
 (KEY ce (countryId, eventId))
@@ -161,8 +164,8 @@ SELECT
   JOIN
     wca_dev.events e;
 
-# ~ 11 mins
-
+-- ~ 11 mins
+-- All Event/Person combinations
 DROP TABLE IF EXISTS wca_stats.personEventsSingle;
 CREATE TEMPORARY TABLE wca_stats.personEventsSingle
 (KEY pe (id, eventId))
@@ -177,8 +180,8 @@ SELECT
   JOIN
     (SELECT * FROM wca_dev.events WHERE rank < 900) e;
 
-# ~ 40 secs
-
+-- ~ 40 secs
+-- Better RanksSingle, but with the details of the PR and right joined to all possible combinations, so any averages not achieved are given max+1
 DROP TABLE IF EXISTS wca_stats.single_ranks;
 CREATE TABLE wca_stats.single_ranks
 SELECT
@@ -209,12 +212,12 @@ LEFT JOIN
 ON b.countryId = d.countryId AND b.eventId = d.eventId
 ;
 
-# ~ 2 mins 15 secs
+-- ~ 2 mins 15 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'single_ranks';
 
 INSERT INTO wca_stats.last_updated VALUES ('sor_single', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- sum of single ranks for world, continent and country
 DROP TABLE IF EXISTS SoR_single;
 CREATE TABLE SoR_single 
 (PRIMARY KEY (personId), KEY pwcc (personId, worldSoR, continentSoR, countrySoR))
@@ -234,8 +237,8 @@ CREATE TABLE SoR_single
 		worldSoR
 ;
 
-# ~ 1 min
-
+-- ~ 1 min
+-- adds rank values for single sor for world, continent and country
 ALTER TABLE SoR_single 
 	ADD COLUMN worldRank INT AFTER worldSoR,
 	ADD COLUMN continentRank INT AFTER continentSoR,
@@ -254,7 +257,7 @@ UPDATE wca_stats.SoR_single sora JOIN
 ON sora.personId = rank.personId
 SET sora.worldRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @con = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_single sora JOIN
@@ -270,7 +273,7 @@ UPDATE wca_stats.SoR_single sora JOIN
 ON sora.personId = rank.personId
 SET sora.continentRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @coun = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_single sora JOIN
@@ -286,12 +289,12 @@ UPDATE wca_stats.SoR_single sora JOIN
 ON sora.personId = rank.personId
 SET sora.countryRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'sor_single';
 
 INSERT INTO wca_stats.last_updated VALUES ('sor_combined', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- unions single and average ranks into one table
 DROP TABLE IF EXISTS ranks_all;
 CREATE TABLE ranks_all
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id), KEY pefb (personId, eventId, format, result), KEY pwr (personId, worldRank))
@@ -302,8 +305,8 @@ CREATE TABLE ranks_all
 		eventId, format, worldrank
 ;
 
-# ~ 12 mins 30 secs
-
+-- ~ 12 mins 30 secs
+-- uses new table to create sum of all ranks, single and average
 DROP TABLE IF EXISTS sor_combined;
 CREATE TABLE sor_combined
 (PRIMARY KEY (personId), KEY pwcc (personId, worldSoR, continentSoR, countrySoR))
@@ -322,8 +325,8 @@ CREATE TABLE sor_combined
 	ORDER BY
 		worldSoR;
 
-# ~ 50 secs
-
+-- ~ 50 secs
+-- adds ranks as in SoR single and average
 ALTER TABLE SoR_combined 
 	ADD COLUMN worldRank INT AFTER worldSoR,
 	ADD COLUMN continentRank INT AFTER continentSoR,
@@ -342,7 +345,7 @@ UPDATE wca_stats.SoR_combined sora JOIN
 ON sora.personId = rank.personId
 SET sora.worldRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @con = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_combined sora JOIN
@@ -358,7 +361,7 @@ UPDATE wca_stats.SoR_combined sora JOIN
 ON sora.personId = rank.personId
 SET sora.continentRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 SET @curr = NULL, @rank = 1, @coun = NULL, @prev = NULL, @n = 1;
 UPDATE wca_stats.SoR_combined sora JOIN
@@ -374,6 +377,6 @@ UPDATE wca_stats.SoR_combined sora JOIN
 ON sora.personId = rank.personId
 SET sora.countryRank = rank.rank;
 
-# <10 secs
+-- <10 secs
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'sor_combined';

@@ -1,5 +1,5 @@
 INSERT INTO wca_stats.last_updated VALUES ('championship_podiums', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- ranks every final competitor concerned for the relevant championship/event pair
 DROP TABLE IF EXISTS wca_stats.ChampPodiumHelp;
 SET @cPos := 0;
 SET @cId = NULL;
@@ -24,7 +24,7 @@ FROM (SELECT a.competitionId, a.eventId, a.pos, a.best, a.average, a.personId, a
     ORDER BY competitionId, championship_type, eventId, pos ASC) a;
 
 # ~ 15 secs
-
+-- drops everyone but the top 3
 DROP TABLE IF EXISTS wca_stats.championship_podiums;
 CREATE TABLE wca_stats.championship_podiums
 (id INT NOT NULL AUTO_INCREMENT,

@@ -1,20 +1,22 @@
 INSERT INTO wca_stats.last_updated VALUES ('kinch', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+-- list of persons with their best averages in most events, best single in mbld and both 3-5bld and fmc
 DROP TABLE IF EXISTS wca_stats.kinchhelpcountry;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpcountry
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
 SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
 FROM wca_stats.ranks_all 
 WHERE 
-((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
+((format = 'a' AND eventId IN ('333','222','444','555','333oh','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
-(format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
+(format = 's' AND eventId = '333mbf') 
 OR
-(eventId IN ('333bf','333fm')))
+(eventId IN ('333bf','444bf','555bf','333fm')))
 ORDER BY countryId, eventId, format, succeeded DESC, result;
 
 # ~ 2 mins 30 secs
 
+-- calculate country kinch for each person/event pair
 SET @Nkinch = 100, @eId = NULL, @format = NULL, @cunId = NULL, @NR = 0;
 DROP TABLE IF EXISTS wca_stats.kinch_country_event;
 CREATE TABLE wca_stats.kinch_country_event
@@ -38,6 +40,7 @@ GROUP BY personId, eventId;
 
 # ~ 2 mins 45 secs
 
+-- averages country kinch for each person/event pair to be one value for each person
 SET @curr=NULL, @rank=1, @cunId=NULL, @prev=NULL, @n=1;
 DROP TABLE IF EXISTS wca_stats.kinch_country;
 CREATE TABLE wca_stats.kinch_country
@@ -60,7 +63,6 @@ FROM
       SUM(CASE WHEN eventId = '333bf' THEN countryKinch END) `333bf`,
       SUM(CASE WHEN eventId = '333fm' THEN countryKinch END) `333fm`,
       SUM(CASE WHEN eventId = '333oh' THEN countryKinch END) `333oh`,
-      SUM(CASE WHEN eventId = '333ft' THEN countryKinch END) `333ft`,
       SUM(CASE WHEN eventId = 'clock' THEN countryKinch END) `clock`,
       SUM(CASE WHEN eventId = 'minx' THEN countryKinch END) `minx`,
       SUM(CASE WHEN eventId = 'pyram' THEN countryKinch END) `pyram`,
@@ -73,8 +75,11 @@ FROM
     GROUP BY personId
     ORDER BY countryId, countryKinch DESC) a;
 ALTER TABLE wca_stats.kinch_country DROP curr, DROP cunId, DROP prev, DROP counter;
-
+-- all information in kinch_country_event is in kinch_country so this can be deleted
+DROP TABLE wca_stats.kinch_country_event;
 # ~ 1 min 50 secs
+
+-- same again but per continent
 
 DROP TABLE IF EXISTS wca_stats.kinchhelpcontinent;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
@@ -82,11 +87,11 @@ CREATE TEMPORARY TABLE wca_stats.kinchhelpcontinent
 SELECT personId, name, continentId, countryId, eventId, format, succeeded, result
 FROM wca_stats.ranks_all 
 WHERE 
-((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
+((format = 'a' AND eventId IN ('333','222','444','555','333oh','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
-(format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
+(format = 's' AND eventId = '333mbf') 
 OR
-(eventId IN ('333bf','333fm')))
+(eventId IN ('333bf','444bf','555bf','333fm')))
 ORDER BY continentId, eventId, format, succeeded DESC, result;
 
 # ~ 2 mins 20 secs
@@ -137,7 +142,6 @@ FROM
       SUM(CASE WHEN eventId = '333bf' THEN continentKinch END) `333bf`,
       SUM(CASE WHEN eventId = '333fm' THEN continentKinch END) `333fm`,
       SUM(CASE WHEN eventId = '333oh' THEN continentKinch END) `333oh`,
-      SUM(CASE WHEN eventId = '333ft' THEN continentKinch END) `333ft`,
       SUM(CASE WHEN eventId = 'clock' THEN continentKinch END) `clock`,
       SUM(CASE WHEN eventId = 'minx' THEN continentKinch END) `minx`,
       SUM(CASE WHEN eventId = 'pyram' THEN continentKinch END) `pyram`,
@@ -150,8 +154,10 @@ FROM
     GROUP BY personId
     ORDER BY continentId, continentKinch DESC) a;
 ALTER TABLE wca_stats.kinch_continent DROP curr, DROP conId, DROP prev, DROP counter;
-
+DROP TABLE kinch_continent_event;
 # ~ 25 secs
+
+--same again but whole world
 
 DROP TABLE IF EXISTS wca_stats.kinchhelpworld;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpworld
@@ -161,9 +167,9 @@ FROM wca_stats.ranks_all
 WHERE 
 ((format = 'a' AND eventId IN ('333','222','444','555','333oh','333ft','minx','pyram','clock','skewb','sq1','666','777')) 
 OR 
-(format = 's' AND eventId IN ('444bf','555bf','333mbf')) 
+(format = 's' AND eventId = '333mbf') 
 OR
-(eventId IN ('333bf','333fm')))
+(eventId IN ('333bf','444bf','555bf','333fm')))
 ORDER BY eventId, format, succeeded DESC, result;
 
 # ~ 25 secs
@@ -225,9 +231,9 @@ FROM
     GROUP BY personId
     ORDER BY worldKinch DESC) a;
 ALTER TABLE wca_stats.kinch_world DROP curr, DROP prev, DROP counter;
-
+DROP TABLE kinch_world_event;
 # ~ 25 secs
-
+-- summarises the ranks of everyone by country, continent and world.
 DROP TABLE IF EXISTS kinch;
 CREATE TABLE kinch 
 (PRIMARY KEY (personId)) 

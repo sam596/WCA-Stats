@@ -1,5 +1,5 @@
 INSERT INTO wca_stats.last_updated VALUES ('records', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
+-- entire file pretty self explanatory
 DROP TABLE IF EXISTS National_Records;
 CREATE TABLE National_Records
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id))

@@ -7,16 +7,18 @@ SELECT a.*,
 	@p := a.personId 'drop1',
 	@d := a.date 'drop2'
 FROM
-	(SELECT a.*, IFNULL(b.PBs,0) 'PBs', IFNULL(b.singlePBs,0) 'singlePBs', IFNULL(b.averagePBs,0) 'averagePBs', c.latitude, c.longitude
+	(SELECT a.*, IFNULL(b.PRs,0) 'PRs', IFNULL(b.singlePRs,0) 'singlePRs', IFNULL(b.averagePRs,0) 'averagePRs', c.latitude, c.longitude
 	FROM
 		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date, weekend,
-				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsAttempted',
-				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('magic','mmagic','333mbo') THEN eventId END)) 'eventsSucceeded',
+				COUNT(DISTINCT eventId) 'eventsAttempted',
+				COUNT(DISTINCT (CASE WHEN best > 0 THEN eventId END)) 'eventsSucceeded',
+				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo','333ft') THEN eventId END)) 'currentEventsAttempted',
+				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId NOT IN ('magic','mmagic','333mbo','333ft') THEN eventId END)) 'currentEventsSucceeded',
 				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId NOT IN ('444bf','555bf','magic','mmagic','333mbo') THEN eventId END)) 'eventsAverage',
 				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId IN ('444bf','555bf') THEN eventId END)) 'bigBldAverage',
-				COUNT(DISTINCT (CASE WHEN eventId IN ('magic','mmagic','333mbo') THEN eventId END)) 'oldEventsAttempted',
-				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId IN ('magic','mmagic','333mbo') THEN eventId END)) 'oldEventsSucceeded',
-				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId IN ('magic','mmagic','333mbo') THEN eventId END)) 'oldEventsAverage',
+				COUNT(DISTINCT (CASE WHEN eventId IN ('magic','mmagic','333mbo','333ft') THEN eventId END)) 'oldEventsAttempted',
+				COUNT(DISTINCT (CASE WHEN best > 0 AND eventId IN ('magic','mmagic','333mbo','333ft') THEN eventId END)) 'oldEventsSucceeded',
+				COUNT(DISTINCT (CASE WHEN average > 0 AND eventId IN ('magic','mmagic','333ft') THEN eventId END)) 'oldEventsAverage',
 				COUNT(CASE WHEN value1 NOT IN (0,-2) THEN 1 END)+COUNT(CASE WHEN value2 NOT IN (0,-2) THEN 1 END)+COUNT(CASE WHEN value3 NOT IN (0,-2) THEN 1 END)+COUNT(CASE WHEN value4 NOT IN (0,-2) THEN 1 END)+COUNT(CASE WHEN value5 NOT IN (0,-2) THEN 1 END) 'attempts',
 				COUNT(CASE WHEN value1 > 0 THEN 1 END)+COUNT(CASE WHEN value2 > 0 THEN 1 END)+COUNT(CASE WHEN value3 > 0 THEN 1 END)+COUNT(CASE WHEN value4 > 0 THEN 1 END)+COUNT(CASE WHEN value5 > 0 THEN 1 END) 'completedSolves',
 				COUNT(CASE WHEN value1 = -1 THEN 1 END)+COUNT(CASE WHEN value2 = -1 THEN 1 END)+COUNT(CASE WHEN value3 = -1 THEN 1 END)+COUNT(CASE WHEN value4 = -1 THEN 1 END)+COUNT(CASE WHEN value5 = -1 THEN 1 END) 'DNFs',
@@ -35,8 +37,8 @@ FROM
 		FROM results_extra r
 		GROUP BY personId, competitionId) a
 	LEFT JOIN
-		(SELECT personId, competitionId, COUNT(*) 'PBs', COUNT(CASE WHEN format = 's' THEN 1 END) 'singlePBs', COUNT(CASE WHEN format = 'a' THEN 1 END) 'averagePBs'
-		FROM pbs
+		(SELECT personId, competitionId, COUNT(*) 'PRs', COUNT(CASE WHEN format = 's' THEN 1 END) 'singlePRs', COUNT(CASE WHEN format = 'a' THEN 1 END) 'averagePRs'
+		FROM prs
 		GROUP BY personId, competitionId) b
 	ON a.personId = b.personId AND a.competitionId = b.competitionId
 	JOIN

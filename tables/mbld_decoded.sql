@@ -1,5 +1,6 @@
 INSERT INTO wca_stats.last_updated VALUES ('mbld_decoded', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
+-- contains every mbld attempt ever, in simple terms so they can be understood.
 DROP TABLE IF EXISTS mbld_decoded;
 CREATE TABLE mbld_decoded
 (id INT NOT NULL AUTO_INCREMENT,
