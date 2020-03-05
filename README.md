@@ -31,9 +31,11 @@ There are `.sh` files in `/bin` which automatically do the following:
 
 `bin/wcadevupd.sh` will import the latest developer export, even if there isn't a newer version available. This won't run any additional queries.
 
+`bin/wcadevstsupdforce.sh` will import the latest developer export and run the queries in the `tables/` directory, even if the most recent developer export is already imported in the server.
+
 `bin/wcaupd.sh` will pull the latest public export from the WCA into the `wca` table. This won't run any additional queries.
 
 ##### Notes
 To run these, you will have to edit them yourself as I will have a different username and password to your mysql server. For reference, my username is `sam` and my password is stored in a file in `~/.mysqlpw/mysql.conf`. Its contents is a singular line such as this: `mysqlpw='mypassword'`; just replace `mypassword` for your own.
 
-Also, I have a line in my `~/mysqlpw/mysql.conf` file called `discordwh=<link>`. Through this, a bot posts in my personal discord server to let me know when tables and databases have been updated, through the abundance of lines in the `.sh` scripts in `bin/`. If you have no use for this webhook, delete all the lines in the `.sh` scripts that mention `$discordwh`.
+I also have a script that utilises a Discord Webhook to ping my WCA_Stats server to tell me when each table is updated and how long it took. If you have no need for this, delete the discord-notify.sh lines in the scripts in `bin/`.
