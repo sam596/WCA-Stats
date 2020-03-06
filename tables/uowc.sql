@@ -54,7 +54,7 @@ FROM
 
 DROP TABLE uowc_help;
 --  removes all rows from uowc_history that are irrelevant (i.e. the UOWC did not compete in that competition or did not otherwise change)
-SET @c = 0, @uowc = NULL @d = '1970-01-01';
+SET @c = 0, @uowc = NULL, @d = '1970-01-01';
 DROP TABLE IF EXISTS uowc;
 CREATE TABLE uowc
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
@@ -149,7 +149,7 @@ FROM
 
 DROP TABLE uoukc_help;
 
-SET @c = 0, @uoukc = NULL @d = '1970-01-01';
+SET @c = 0, @uoukc = NULL, @d = '1970-01-01';
 DROP TABLE IF EXISTS uoukc;
 CREATE TABLE uoukc
 (id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id))
