@@ -157,7 +157,7 @@ ALTER TABLE wca_stats.kinch_continent DROP curr, DROP conId, DROP prev, DROP cou
 DROP TABLE kinch_continent_event;
 # ~ 25 secs
 
---same again but whole world
+-- same again but whole world
 
 DROP TABLE IF EXISTS wca_stats.kinchhelpworld;
 CREATE TEMPORARY TABLE wca_stats.kinchhelpworld

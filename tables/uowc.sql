@@ -1,6 +1,6 @@
 INSERT INTO wca_stats.last_updated VALUES ('uowc', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
 
---list of rounds with winner(s) and then all the other competitors in a group_concat
+-- list of rounds with winner(s) and then all the other competitors in a group_concat
 DROP TABLE IF EXISTS uowc_help;
 CREATE TABLE uowc_help
 SELECT
@@ -21,7 +21,7 @@ ORDER BY
   eventId, MIN(id);
 
 # 1 min 20 secs
--- if the reigning UOWC is the winner, or there was no winner, the reigning UOWC remains the same. Otherwise, if the UOWC is in the others, then the winner becomes UOWC. Otherwise, if 1 year has passed since the UOWC last competed, pick the best result of the finals that take place in the following weekend. If there was no results in that event that weekend, the UOWC remains. In this case, only FMC means are considered.
+--  if the reigning UOWC is the winner, or there was no winner, the reigning UOWC remains the same. Otherwise, if the UOWC is in the others, then the winner becomes UOWC. Otherwise, if 1 year has passed since the UOWC last competed, pick the best result of the finals that take place in the following weekend. If there was no results in that event that weekend, the UOWC remains. In this case, only FMC means are considered.
 SET @uowc = NULL, @uowcd = '1970-01-01', @e = NULL;
 DROP TABLE IF EXISTS uowc_history;
 CREATE TABLE uowc_history
@@ -53,7 +53,7 @@ FROM
 # ~ 10 sec
 
 DROP TABLE uowc_help;
--- removes all rows from uowc_history that are irrelevant (i.e. the UOWC did not compete in that competition or did not otherwise change)
+--  removes all rows from uowc_history that are irrelevant (i.e. the UOWC did not compete in that competition or did not otherwise change)
 SET @c = 0, @uowc = NULL @d = '1970-01-01';
 DROP TABLE IF EXISTS uowc;
 CREATE TABLE uowc
@@ -82,7 +82,7 @@ UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'uowc';
 
 
 INSERT INTO wca_stats.last_updated VALUES ('uoukc', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
--- creates a clone of results_extra if Boris Johnson got his way
+--  creates a clone of results_extra if Boris Johnson got his way
 SET @h = 0, @c = '', @e = '', @r = '', @p = 0, @ukpos = 0;
 CREATE TEMPORARY TABLE results_extra_uk
 SELECT
@@ -95,7 +95,7 @@ SELECT
     @p := pos p
   FROM
     (SELECT * FROM wca_stats.results_extra WHERE personcountryId = 'United Kingdom' ORDER BY id) a;
--- code as above, but only on the UK competitors in results_extra_uk
+--  code as above, but only on the UK competitors in results_extra_uk
 DROP TABLE IF EXISTS uoukc_help;
 CREATE TABLE uoukc_help
 SELECT
