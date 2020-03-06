@@ -1,4 +1,4 @@
---numbers all attempts in descending chronological order
+-- numbers all attempts in descending chronological order
 SET @a = 0, @p = '', @e = '';
 DROP TABLE IF EXISTS numbered;
 CREATE TABLE numbered
