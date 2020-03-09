@@ -31,7 +31,7 @@ then
 ## end timer and tell discord
   endtimer=$(date +%s)
   timer=$(($endtimer - $start_timer))
-  ~/.mysqlpw/discord-notify.sh "Database downloaded, now importing.\n($(displaytime $timer))"
+  ~/.mysqlpw/discord-notify.sh "Database downloaded.\n($(displaytime $timer))\nNow importing to \`wca_dev\`"
 ## log that wca_dev is now being updated
   mysql -u sam -p"$mysqlpw" wca_stats -e "INSERT INTO wca_stats.last_updated VALUES ('wca_dev', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;"
 ## import wca_dev and ping discord and last_updated once complete
@@ -39,7 +39,7 @@ then
   mysql -u sam -p"$mysqlpw" wca_dev < ~/databasedownload/wca-developer-database-dump.sql && \
   endtimer=$(date +%s) && \
   timer=$(($endtimer - $starttimer)) && \
-  ~/.mysqlpw/discord-notify.sh "\`wca_dev\` has been updated to the latest developer export! :tada:\n($(displaytime $timer))\nThe tables in \`wca_stats\` are now being updated." && \
+  ~/.mysqlpw/discord-notify.sh "\`wca_dev\` has been updated to the latest developer export! :tada:\n($(displaytime $timer))\nThe tables in \`wca_stats\` are now being updated.\n\`results_extra\` is first!" && \
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW() WHERE query = 'wca_dev'"
 ## results_extra
   starttimer=$(date +%s) && \
