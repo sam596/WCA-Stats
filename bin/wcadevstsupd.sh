@@ -145,7 +145,7 @@ then
   endtimer=$(date +%s) && \
   timer=$(($endtimer - $starttimer)) && \
   timerall=$(($endtimer - $start_timer)) && \
-  ~/.mysqlpw/discord-notify.sh "The \`seasons\` and \`current_averages\` tables been updated! :tada:\n($(displaytime $timer))\n\n :tada::tada::tada:\`wca_stats\` update complete!:tada::tada::tada:\nIn total it took $(displaytime $timer)."
+  ~/.mysqlpw/discord-notify.sh "The \`seasons\` and \`current_averages\` tables been updated! :tada:\n($(displaytime $timer))\n\n :tada::tada::tada:\`wca_stats\` update complete!:tada::tada::tada:\nIn total it took $(displaytime $timerall)."
 ## world_rank_history
 #  mysql -u sam -p"$mysqlpw" wca_stats < ~/WCA-Stats/tables/world_rank_history.sql && \
 #  ~/.mysqlpw/discord-notify.sh "The last 5 weeks of \`world_rank_history\` have been recalculated! :tada:"
