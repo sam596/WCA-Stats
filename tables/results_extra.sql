@@ -18,7 +18,7 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.countryId personCountryId, 
   	c.continentId personContinentId, 
   	r.competitionId, 
-    	comps.countryId compCountryId,
+    comps.countryId compCountryId,
 	d.continentId compContinentId,
   	r.eventId, 
   	r.roundTypeId, 
@@ -33,9 +33,9 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.value3,
   	r.value4,
   	r.value5,
-  	@date := DATE(CONCAT(year, '-', month, '-', day)) date,
- 	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend,
-  @weeksago := FLOOR(DATEDIFF(DATE_SUB(CURDATE(), INTERVAL (DAYOFWEEK(CURDATE()) + 2) % 7 DAY),@weekend)/7) weeksAgo
+	@date := comps.end_date date,
+	@weekend := DATE_SUB(@date, INTERVAL (DAYOFWEEK(@date) + 2) % 7 DAY) weekend,
+  	@weeksago := FLOOR(DATEDIFF(DATE_SUB(CURDATE(), INTERVAL (DAYOFWEEK(CURDATE()) + 2) % 7 DAY),@weekend)/7) weeksAgo
   FROM 
   	wca_dev.results r
   JOIN 
@@ -51,11 +51,11 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   ON 
   	c.id = r.countryId
   ORDER BY 
-	date ASC, 
-	competitionId ASC,
-	eventId ASC, 
-	FIELD(roundTypeId,"h","0","d","1","b","2","e","g","3","c","f") ASC, 
-	pos ASC
+	comps.end_date ASC, 
+	r.competitionId ASC,
+	r.eventId ASC, 
+	(SELECT rank FROM wca_dev.roundTypes WHERE id = r.roundTypeId) ASC, 
+	r.pos ASC
 ;
 
 # ~ 10 mins
