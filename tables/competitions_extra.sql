@@ -99,6 +99,9 @@ SELECT
 	a.cityName,
 	a.countryId,
 	b.continentId,
+	-- These countries have a validator on the competitions submitted for there which ensures that the cityName field has a correct region, which is coded here - https://github.com/thewca/worldcubeassociation.org/tree/master/WcaOnRails/lib/country_city_validators
+	-- This field checks that the countryId is in this list and then extracts the region/county/territory/state.
+	(CASE WHEN LOCATE(', ',a.cityName) != 0 AND countryId IN ('Argentina','Australia','Brazil','Canada','United Kingdom','India','USA') THEN RIGHT(a.cityName,CHARACTER_LENGTH(a.cityName) - LOCATE(', ',a.cityName) - 1) ELSE NULL END) region,
 	a.start_date startDate,
 	a.end_date endDate,
 	DATEDIFF(a.end_date,a.start_date)+1 days,
