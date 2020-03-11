@@ -18,6 +18,7 @@ KEY results_extra_sglall (personId,competitionId,eventId,roundTypeId,best))
   	r.countryId personCountryId, 
   	c.continentId personContinentId, 
   	r.competitionId, 
+	comps.cityName compCityName,
     comps.countryId compCountryId,
 	d.continentId compContinentId,
   	r.eventId, 
