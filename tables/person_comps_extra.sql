@@ -9,7 +9,7 @@ SELECT a.*,
 FROM
 	(SELECT a.*, IFNULL(b.PRs,0) 'PRs', IFNULL(b.singlePRs,0) 'singlePRs', IFNULL(b.averagePRs,0) 'averagePRs', c.latitude, c.longitude
 	FROM
-		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCountryId, compContinentId, date, weekend,
+		(SELECT personId, personName, personCountryId, personContinentId, competitionId, compCityName, compCountryId, compContinentId, date, weekend,
 				COUNT(DISTINCT eventId) 'eventsAttempted',
 				COUNT(DISTINCT (CASE WHEN best > 0 THEN eventId END)) 'eventsSucceeded',
 				COUNT(DISTINCT (CASE WHEN eventId NOT IN ('magic','mmagic','333mbo','333ft') THEN eventId END)) 'currentEventsAttempted',
