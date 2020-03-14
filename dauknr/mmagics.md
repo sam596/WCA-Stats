@@ -11,5 +11,5 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### mmagic
 
 |Date|Single|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--||  
 |2006-11-18|3.03|[Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01)|UK Open 2006|  

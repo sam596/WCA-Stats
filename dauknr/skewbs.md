@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### skewb
 
 |Date|Single|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--||  
 |2014-02-02|10.62|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|2 AVG competition 2014|  
 |2014-02-23|9.56|[Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01)|Nottingham Open 2014|  
 |2014-04-06|9.07|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|Welwyn Garden City Open 2014|  
@@ -23,3 +23,5 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 |2016-05-01|3.24|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|North London Open 2016|  
 |2017-04-16|3.00|[Charlie Hill](https://www.worldcubeassociation.org/persons/2015HILL10)|Newcastle-under-Lyme Open 2017|  
 |2018-04-15|2.85|[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|High Wycombe Open 2018|  
+|2018-10-28|2.73|[Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06)|UK Championship 2018|  
+|2019-07-14|1.43|[Sean Lee Olivera](https://www.worldcubeassociation.org/persons/2018OLIV05)|WCA World Championship 2019|  

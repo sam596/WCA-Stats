@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### magic
 
 |Date|Single|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--||  
 |2004-08-08|1.64|[Matthew Burns](https://www.worldcubeassociation.org/persons/2004BURN01)|European Rubik's Games Championship 2004|  
 |2008-03-16|1.50|[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|French Open 2008|  
 |2009-11-22|1.41|[Brett Ludlow](https://www.worldcubeassociation.org/persons/2009LUDL01)|Bristol Open 2009|  

@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### pyram
 
 |Date|Single|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--||  
 |2003-08-24|35.02|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|World Rubik's Games Championship 2003|  
 |2008-02-16|9.21|[Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01)|Montpellier Open 2008|  
 |2009-12-12|7.72|[Elliot Penson](https://www.worldcubeassociation.org/persons/2009PENS01)|Brown Cubing Day 2009|  
@@ -25,3 +25,5 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 |2018-01-28|3.73|[Jake Green](https://www.worldcubeassociation.org/persons/2017GREE07)|Welsh Open 2018|  
 |2018-03-18|3.68|[Amaan Omar](https://www.worldcubeassociation.org/persons/2016OMAR01)|Guildford Open 2018|  
 |2018-04-15|3.28|[Ganesh Matta](https://www.worldcubeassociation.org/persons/2015MATT06)|Oakridge Cube Open - April 2018|  
+|2019-10-27|2.73|[Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08)|UK Championship 2019|  
+|2020-01-19|2.62|[Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03)|Guildford Open 2020|  

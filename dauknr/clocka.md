@@ -11,9 +11,12 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### clock
 
 |Date|Average|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--|  
 |2006-11-18|17.01|[Thom Barlow](https://www.worldcubeassociation.org/persons/2006BARL01)|UK Open 2006|  
 |2010-11-07|10.28|[Mark Smith](https://www.worldcubeassociation.org/persons/2009SMIT06)|UK Open 2010|  
 |2013-02-24|10.09|[Ryan Jones](https://www.worldcubeassociation.org/persons/2012JONE03)|Leicester Open 2013|  
 |2016-12-18|9.54|[Sebastian Munster](https://www.worldcubeassociation.org/persons/2016MUNS02)|Birmingham Open 2016|  
 |2017-10-29|8.01|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|UK Championship 2017|  
+|2019-01-20|7.96|[Daniel Ramsden](https://www.worldcubeassociation.org/persons/2017RAMS02)|Hendersonville Winter 2019|  
+|2019-03-17|7.67|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|Denmark & Friends 2019|  
+|2019-10-27|7.45|[Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08)|UK Championship 2019|  

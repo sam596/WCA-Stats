@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### magic
 
 |Date|Average|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--|  
 |2004-08-08|10.45|[Matthew Burns](https://www.worldcubeassociation.org/persons/2004BURN01)|European Rubik's Games Championship 2004|  
 |2005-10-16|5.03|[Lisa Aldridge](https://www.worldcubeassociation.org/persons/2005ALDR01)|Dutch Open 2005|  
 |2006-11-18|3.54|[David Pemberton](https://www.worldcubeassociation.org/persons/2006PEMB01)|UK Open 2006|  

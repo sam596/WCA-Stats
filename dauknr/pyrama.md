@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### pyram
 
 |Date|Average|Name|Competition|  
-|--|--|--|--|--|--|  
+|--|--|--|--|  
 |2008-02-16|16.74|[Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01)|Montpellier Open 2008|  
 |2008-03-16|11.91|[Charlie Cooper](https://www.worldcubeassociation.org/persons/2007COOP01)|French Open 2008|  
 |2009-11-22|11.51|[Thom Sutcliffe](https://www.worldcubeassociation.org/persons/2009SUTC01)|Bristol Open 2009|  
@@ -28,3 +28,4 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 |2018-07-01|5.02|[Cameron Jones](https://www.worldcubeassociation.org/persons/2017JONE14)|Peterborough Open 2018|  
 |2018-08-26|5.00|[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|August Bank Holiday Competition 2018|  
 |2018-10-28|4.25|[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|UK Championship 2018|  
+|2020-01-19|4.20|[Edward Burgess](https://www.worldcubeassociation.org/persons/2018BURG03)|Guildford Open 2020|  
