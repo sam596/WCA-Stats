@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### skewb
 
 |Date|Single|Name|Competition|  
-|--|--|--|--||  
+|--|--|--|--|  
 |2014-02-02|10.62|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|2 AVG competition 2014|  
 |2014-02-23|9.56|[Zak Walters](https://www.worldcubeassociation.org/persons/2013WALT01)|Nottingham Open 2014|  
 |2014-04-06|9.07|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|Welwyn Garden City Open 2014|  

@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### pyram
 
 |Date|Single|Name|Competition|  
-|--|--|--|--||  
+|--|--|--|--|  
 |2003-08-24|35.02|[Dan Harris](https://www.worldcubeassociation.org/persons/2003HARR01)|World Rubik's Games Championship 2003|  
 |2008-02-16|9.21|[Jason Gyani](https://www.worldcubeassociation.org/persons/2008GYAN01)|Montpellier Open 2008|  
 |2009-12-12|7.72|[Elliot Penson](https://www.worldcubeassociation.org/persons/2009PENS01)|Brown Cubing Day 2009|  

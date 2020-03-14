@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### minx
 
 |Date|Single|Name|Competition|  
-|--|--|--|--||  
+|--|--|--|--|  
 |2004-10-10|6:02.31|[Sean Connolly](https://www.worldcubeassociation.org/persons/2004CONN01)|Dutch Open 2004|  
 |2006-11-18|4:25.10|[Greg Austin](https://www.worldcubeassociation.org/persons/2006AUST01)|UK Open 2006|  
 |2008-03-16|2:40.58|[Christopher Ness](https://www.worldcubeassociation.org/persons/2007NESS01)|French Open 2008|  

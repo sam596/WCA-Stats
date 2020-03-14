@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### clock
 
 |Date|Single|Name|Competition|  
-|--|--|--|--||  
+|--|--|--|--|  
 |2004-08-08|14.55|[Matthew Burns](https://www.worldcubeassociation.org/persons/2004BURN01)|European Rubik's Games Championship 2004|  
 |2010-11-07|7.31|[Mark Smith](https://www.worldcubeassociation.org/persons/2009SMIT06)|UK Open 2010|  
 |2017-10-29|6.14|[Sam Spendla](https://www.worldcubeassociation.org/persons/2015SPEN01)|UK Championship 2017|  

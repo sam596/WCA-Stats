@@ -11,7 +11,7 @@ Once you achieve a UK National Record, you instantly 'die' and never compete aga
 #### sq1
 
 |Date|Single|Name|Competition|  
-|--|--|--|--||  
+|--|--|--|--|  
 |2004-10-10|31.76|[Mike Godfrey](https://www.worldcubeassociation.org/persons/2004GODF01)|Dutch Open 2004|  
 |2009-07-12|18.30|[Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01)|UK Masters 2009|  
 |2016-10-02|14.49|[Jonathan Collins](https://www.worldcubeassociation.org/persons/2015COLL08)|Guildford Open 2016|  
