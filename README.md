@@ -57,7 +57,7 @@ Here are various statistics I have computed using the WCA database. These get up
 <details>
   <summary>Best Worst Rank</summary>
 <ul>
-<li><a href="bestworstrank/bestworstrank.html">3x3</a></li>
+<li><a href="bestworstrank/bestworstrank.html">Best Worst Rank</a></li>
 </ul>
 </details>
 <details>
