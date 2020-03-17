@@ -188,6 +188,7 @@ CREATE TABLE persons_extra
       c.currentEventsAttempted,
       c.currentEventsSucceeded,
       c.currentEventsAverage,
+      c.currentSpeedsolvingEventsAverage,
       d.completedSolves, 
       d.DNFs, 
       c.finals, 
