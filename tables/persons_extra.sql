@@ -248,7 +248,7 @@ CREATE TABLE persons_extra
       n.maxPRStreak,
       n.currentPRStreak,
       (CASE WHEN c.currentEventsSucceeded = 17 AND c.currentEventsAverage = 14 AND c.WRs > 0 AND c.CRs > 0 AND l.wcPodiums > 0 THEN 'Platinum' WHEN c.currentEventsSucceeded = 17 AND c.currentEventsAverage = 14 AND (c.WRs > 0 OR c.CRs > 0 OR l.wcPodiums > 0) THEN 'Gold' WHEN c.currentEventsSucceeded = 17 AND c.currentEventsAverage = 14 THEN 'Silver' WHEN c.currentEventsSucceeded = 17 THEN 'Bronze' ELSE NULL END) `membership`, 
-      @m := (CASE WHEN c.currentEventsSucceeded <> 17 THEN 0 ELSE 1 + (CASE WHEN c.speedsolvingEventsAverage = 12 THEN 1 ELSE 0 END) + (CASE WHEN c.bldfmcEventsAverage = 4 THEN 1 ELSE 0 END) + (CASE WHEN l.wcPodiums > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.WRs > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.currentEventsWon = 17 THEN 1 ELSE 0 END) END) mhelp,
+      @m := (CASE WHEN c.currentEventsSucceeded <> 17 THEN 0 ELSE 1 + (CASE WHEN c.currentSpeedsolvingEventsAverage = 12 THEN 1 ELSE 0 END) + (CASE WHEN c.bldfmcEventsAverage = 4 THEN 1 ELSE 0 END) + (CASE WHEN l.wcPodiums > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.WRs > 0 THEN 1 ELSE 0 END) + (CASE WHEN c.currentEventsWon = 17 THEN 1 ELSE 0 END) END) mhelp,
       (CASE WHEN @m = 0 THEN NULL WHEN @m = 1 THEN 'Bronze' WHEN @m = 2 THEN 'Silver' WHEN @m = 3 THEN 'Gold' WHEN @m = 4 THEN 'Platinum' WHEN @m = 5 THEN 'Opal' WHEN @m = 6 THEN 'Diamond' END) mollerzMembership,
       p.firstComp,
       p.previousComp,
