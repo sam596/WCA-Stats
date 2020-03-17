@@ -44,7 +44,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="bestpodiums/333bf.html">3BLD</a></li>
 <li><a href="bestpodiums/333fm.html">FMC</a></li>
 <li><a href="bestpodiums/333oh.html">OH</a></li>
-<li><a href="bestpodiums/333ft.html">Feet</a></li>
 <li><a href="bestpodiums/clock.html">Clock</a></li>
 <li><a href="bestpodiums/minx.html">Megaminx</a></li>
 <li><a href="bestpodiums/pyram.html">Pyraminx</a></li>
@@ -53,6 +52,50 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="bestpodiums/444bf.html">4BLD</a></li>
 <li><a href="bestpodiums/555bf.html">5BLD</a></li>
 <li><a href="bestpodiums/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Best Worst Rank</summary>
+<ul>
+<li><a href="bestworstrank/bestworstrank.html">3x3</a></li>
+</ul>
+</details>
+<details>
+  <summary>Best Podiums</summary>
+<ul>
+<li><a href="bestworstresult/333a.html">3x3 Average</a></li>
+<li><a href="bestworstresult/222a.html">2x2 Average</a></li>
+<li><a href="bestworstresult/444a.html">4x4 Average</a></li>
+<li><a href="bestworstresult/555a.html">5x5 Average</a></li>
+<li><a href="bestworstresult/666a.html">6x6 Average</a></li>
+<li><a href="bestworstresult/777a.html">7x7 Average</a></li>
+<li><a href="bestworstresult/333bfa.html">3BLD Average</a></li>
+<li><a href="bestworstresult/333fma.html">FMC Average</a></li>
+<li><a href="bestworstresult/333oha.html">OH Average</a></li>
+<li><a href="bestworstresult/clocka.html">Clock Average</a></li>
+<li><a href="bestworstresult/minxa.html">Megaminx Average</a></li>
+<li><a href="bestworstresult/pyrama.html">Pyraminx Average</a></li>
+<li><a href="bestworstresult/skewba.html">Skewb Average</a></li>
+<li><a href="bestworstresult/sq1a.html">Square-1 Average</a></li>
+<li><a href="bestworstresult/444bfa.html">4BLD Average</a></li>
+<li><a href="bestworstresult/555bfa.html">5BLD Average</a></li>
+<li><a href="bestworstresult/333s.html">3x3 Single</a></li>
+<li><a href="bestworstresult/222s.html">2x2 Single</a></li>
+<li><a href="bestworstresult/444s.html">4x4 Single</a></li>
+<li><a href="bestworstresult/555s.html">5x5 Single</a></li>
+<li><a href="bestworstresult/666s.html">6x6 Single</a></li>
+<li><a href="bestworstresult/777s.html">7x7 Single</a></li>
+<li><a href="bestworstresult/333bfs.html">3BLD Single</a></li>
+<li><a href="bestworstresult/333fms.html">FMC Single</a></li>
+<li><a href="bestworstresult/333ohs.html">OH Single</a></li>
+<li><a href="bestworstresult/clocks.html">Clock Single</a></li>
+<li><a href="bestworstresult/minxs.html">Megaminx Single</a></li>
+<li><a href="bestworstresult/pyrams.html">Pyraminx Single</a></li>
+<li><a href="bestworstresult/skewbs.html">Skewb Single</a></li>
+<li><a href="bestworstresult/sq1s.html">Square-1 Single</a></li>
+<li><a href="bestworstresult/444bfs.html">4BLD Single</a></li>
+<li><a href="bestworstresult/555bfs.html">5BLD Single</a></li>
+<li><a href="bestworstresult/333mbfs.html">MBLD Single</a></li>
 </ul>
 </details>
 <details>
@@ -67,7 +110,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="currentao5/333bf.html">3BLD</a></li>
 <li><a href="currentao5/333fm.html">FMC</a></li>
 <li><a href="currentao5/333oh.html">OH</a></li>
-<li><a href="currentao5/333ft.html">Feet</a></li>
 <li><a href="currentao5/clock.html">Clock</a></li>
 <li><a href="currentao5/minx.html">Megaminx</a></li>
 <li><a href="currentao5/pyram.html">Pyraminx</a></li>
@@ -89,7 +131,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="currentao12/333bf.html">3BLD</a></li>
 <li><a href="currentao12/333fm.html">FMC</a></li>
 <li><a href="currentao12/333oh.html">OH</a></li>
-<li><a href="currentao12/333ft.html">Feet</a></li>
 <li><a href="currentao12/clock.html">Clock</a></li>
 <li><a href="currentao12/minx.html">Megaminx</a></li>
 <li><a href="currentao12/pyram.html">Pyraminx</a></li>
@@ -111,7 +152,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="currentao25/333bf.html">3BLD</a></li>
 <li><a href="currentao25/333fm.html">FMC</a></li>
 <li><a href="currentao25/333oh.html">OH</a></li>
-<li><a href="currentao25/333ft.html">Feet</a></li>
 <li><a href="currentao25/clock.html">Clock</a></li>
 <li><a href="currentao25/minx.html">Megaminx</a></li>
 <li><a href="currentao25/pyram.html">Pyraminx</a></li>
@@ -133,7 +173,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="currentao50/333bf.html">3BLD</a></li>
 <li><a href="currentao50/333fm.html">FMC</a></li>
 <li><a href="currentao50/333oh.html">OH</a></li>
-<li><a href="currentao50/333ft.html">Feet</a></li>
 <li><a href="currentao50/clock.html">Clock</a></li>
 <li><a href="currentao50/minx.html">Megaminx</a></li>
 <li><a href="currentao50/pyram.html">Pyraminx</a></li>
@@ -155,7 +194,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="currentao100/333bf.html">3BLD</a></li>
 <li><a href="currentao100/333fm.html">FMC</a></li>
 <li><a href="currentao100/333oh.html">OH</a></li>
-<li><a href="currentao100/333ft.html">Feet</a></li>
 <li><a href="currentao100/clock.html">Clock</a></li>
 <li><a href="currentao100/minx.html">Megaminx</a></li>
 <li><a href="currentao100/pyram.html">Pyraminx</a></li>
@@ -178,7 +216,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="finalmissers/333bf.html">3BLD</a></li>
 <li><a href="finalmissers/333fm.html">FMC</a></li>
 <li><a href="finalmissers/333oh.html">OH</a></li>
-<li><a href="finalmissers/333ft.html">Feet</a></li>
 <li><a href="finalmissers/clock.html">Clock</a></li>
 <li><a href="finalmissers/minx.html">Megaminx</a></li>
 <li><a href="finalmissers/pyram.html">Pyraminx</a></li>
@@ -203,14 +240,14 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
-  <summary>Longest PB Streaks</summary>
+  <summary>Longest PR Streaks</summary>
 <ul>
-<li><a href="pbstreaks/pb_streak.html">All competitions</a></li>
-<li><a href="pbstreaks/pb_streak_exfmc.html">Excluding FMC-Only comps</a></li>
-<li><a href="pbstreaks/pb_streak_exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
-<li><a href="pbstreaks/current_pb_streak.html">Current-only all competitions</a></li>
-<li><a href="pbstreaks/current_pb_streak_exfmc.html">Current-only excluding FMC-Only comps</a></li>
-<li><a href="pbstreaks/current_pb_streak_exfmcbld.html">Current-only excluding FMC-and-BLD-Only comps</a></li>
+<li><a href="prstreaks/pr_streak.html">All competitions</a></li>
+<li><a href="prstreaks/pr_streak_exfmc.html">Excluding FMC-Only comps</a></li>
+<li><a href="prstreaks/pr_streak_exfmcbld.html">Excluding FMC-and-BLD-Only comps</a></li>
+<li><a href="prstreaks/current_pr_streak.html">Current-only all competitions</a></li>
+<li><a href="prstreaks/current_pr_streak_exfmc.html">Current-only excluding FMC-Only comps</a></li>
+<li><a href="prstreaks/current_pr_streak_exfmcbld.html">Current-only excluding FMC-and-BLD-Only comps</a></li>
 </ul>
 </details>
 <details>
@@ -225,7 +262,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="median/333bf.html">3BLD</a></li>
 <li><a href="median/333fm.html">FMC</a></li>
 <li><a href="median/333oh.html">OH</a></li>
-<li><a href="median/333ft.html">Feet</a></li>
 <li><a href="median/clock.html">Clock</a></li>
 <li><a href="median/minx.html">Megaminx</a></li>
 <li><a href="median/pyram.html">Pyraminx</a></li>
@@ -234,6 +270,18 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="median/444bf.html">4BLD</a></li>
 <li><a href="median/555bf.html">5BLD</a></li>
 <li><a href="median/333mbf.html">MBLD</a></li>
+</ul>
+</details>
+<details>
+  <summary>Most Common First Names</summary>
+<ul>
+<li><a href="commonfirstnames/mostcommonfirstnames.html">3x3</a></li>
+</ul>
+</details>
+<details>
+  <summary>Most Common "WCA Middles"</summary>
+<ul>
+<li><a href="commonwcamiddles/mostcommonwcamiddles.html">3x3</a></li>
 </ul>
 </details>
 <details>
@@ -271,6 +319,13 @@ Here are various statistics I have computed using the WCA database. These get up
 <i>Any requests, let me know!</i>
 </details>
 <details>
+  <summary>Registration Lists</summary>
+<ul>
+<li><a href="registrations/competitionId.html">Ordered by Competition</a></li>
+<li><a href="registrations/name.html">Ordered by Name</a></li>
+</ul>
+</details>
+<details>
 <summary>Sum of Ranks</summary>
 <ul>
 <li><a href="sor/single.html">Single</a> - <a href="sor/average.html">Average</a> - <a href="sor/combined.html">Combined</a></li>
@@ -301,7 +356,6 @@ Here are various statistics I have computed using the WCA database. These get up
 <li><a href="uowc/333bf.html">3BLD</a></li>
 <li><a href="uowc/333fm.html">FMC</a></li>
 <li><a href="uowc/333oh.html">OH</a></li>
-<li><a href="uowc/333ft.html">Feet</a></li>
 <li><a href="uowc/clock.html">Clock</a></li>
 <li><a href="uowc/minx.html">Megaminx</a></li>
 <li><a href="uowc/pyram.html">Pyraminx</a></li>
@@ -325,7 +379,6 @@ Nice UK-centric Stat!
 <li><a href="uoukc/333bf.html">3BLD</a></li>
 <li><a href="uoukc/333fm.html">FMC</a></li>
 <li><a href="uoukc/333oh.html">OH</a></li>
-<li><a href="uoukc/333ft.html">Feet</a></li>
 <li><a href="uoukc/clock.html">Clock</a></li>
 <li><a href="uoukc/minx.html">Megaminx</a></li>
 <li><a href="uoukc/pyram.html">Pyraminx</a></li>
