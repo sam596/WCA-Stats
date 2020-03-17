@@ -275,13 +275,13 @@ Here are various statistics I have computed using the WCA database. These get up
 <details>
   <summary>Most Common First Names</summary>
 <ul>
-<li><a href="commonfirstnames/mostcommonfirstnames.html">3x3</a></li>
+<li><a href="commonfirstnames/mostcommonfirstnames.html">Most Common First Names</a></li>
 </ul>
 </details>
 <details>
   <summary>Most Common "WCA Middles"</summary>
 <ul>
-<li><a href="commonwcamiddles/mostcommonwcamiddles.html">3x3</a></li>
+<li><a href="commonwcamiddles/mostcommonwcamiddles.html">Most Common "WCA Middles"</a></li>
 </ul>
 </details>
 <details>
