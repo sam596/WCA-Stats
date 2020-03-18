@@ -154,9 +154,12 @@ then
 ## run ghpages stats
   ~/WCA-Stats/bin/ghpagesupd.sh
 ## discord commit ghpages
+  starttimer=$(date +%s) && \
   cd ~/pages/WCA-Stats/ && \
   commit=$(git log --format="%H" -n 1) && \
-  ~/.mysqlpw/discord-notify.sh "http://sam596.github.io Updated with latest stats. \n View the changes here: https://github.com/sam596/WCA-Stats/commit/'"$commit"'. \n \n That concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink: Server is now restarting"
+  endtimer=$(date +%s) && \
+  timer=$(($endtimer - $starttimer)) && \
+  ~/.mysqlpw/discord-notify.sh "http://sam596.github.io Updated with latest stats.\n($(displaytime $timer))\nView the changes here: https://github.com/sam596/WCA-Stats/commit/'"$commit"'.\n\nThat concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink: Server is now restarting"
 ## reboot the server
   sudo reboot
  else
