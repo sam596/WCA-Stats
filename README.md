@@ -33,6 +33,38 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+<summary>Best First Sub-X 3x3 Average</summary>
+<ul>
+<li><a href="bestfirstsubxaverage/sub5.html">Sub-5</a></li>
+<li><a href="bestfirstsubxaverage/sub6.html">Sub-6</a></li>
+<li><a href="bestfirstsubxaverage/sub7.html">Sub-7</a></li>
+<li><a href="bestfirstsubxaverage/sub8.html">Sub-8</a></li>
+<li><a href="bestfirstsubxaverage/sub9.html">Sub-9</a></li>
+<li><a href="bestfirstsubxaverage/sub10.html">Sub-10</a></li>
+<li><a href="bestfirstsubxaverage/sub11.html">Sub-11</a></li>
+<li><a href="bestfirstsubxaverage/sub12.html">Sub-12</a></li>
+<li><a href="bestfirstsubxaverage/sub13.html">Sub-13</a></li>
+<li><a href="bestfirstsubxaverage/sub14.html">Sub-14</a></li>
+<li><a href="bestfirstsubxaverage/sub15.html">Sub-15</a></li>
+</ul>
+</details>
+<details>
+<summary>Best First Sub-X 3x3 Single</summary>
+<ul>
+<li><a href="bestfirstsubxsingle/sub5.html">Sub-5</a></li>
+<li><a href="bestfirstsubxsingle/sub6.html">Sub-6</a></li>
+<li><a href="bestfirstsubxsingle/sub7.html">Sub-7</a></li>
+<li><a href="bestfirstsubxsingle/sub8.html">Sub-8</a></li>
+<li><a href="bestfirstsubxsingle/sub9.html">Sub-9</a></li>
+<li><a href="bestfirstsubxsingle/sub10.html">Sub-10</a></li>
+<li><a href="bestfirstsubxsingle/sub11.html">Sub-11</a></li>
+<li><a href="bestfirstsubxsingle/sub12.html">Sub-12</a></li>
+<li><a href="bestfirstsubxsingle/sub13.html">Sub-13</a></li>
+<li><a href="bestfirstsubxsingle/sub14.html">Sub-14</a></li>
+<li><a href="bestfirstsubxsingle/sub15.html">Sub-15</a></li>
+</ul>
+</details>
+<details>
   <summary>Best Podiums</summary>
 <ul>
 <li><a href="bestpodiums/333.html">3x3</a></li>
