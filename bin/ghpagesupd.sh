@@ -9,7 +9,7 @@ echo -e "\n\e[4mCurrently executing:\e[0m"
 
 # bestaveragewithoutsubxsingle
 
-declare -a arr=(5 6 7 8 9 10)
+declare -a arr=(5 6 7 8 9 10 11 12 13 14 15)
 
 for i in "${arr[@]}"
 do
@@ -117,19 +117,19 @@ do
 	echo -e "\\r${CHECK_MARK} Best ${i} Podiums (${finish}ms)"
 done
 
-#pbstreaks
+#prstreaks
 
-declare -a arr=(pb_streak pb_streak_exfmc pb_streak_exfmcbld current_pb_streak current_pb_streak_exfmc current_pb_streak_exfmcbld)
+declare -a arr=(pr_streak pr_streak_exfmc pr_streak_exfmcbld current_pr_streak current_pr_streak_exfmc current_pr_streak_exfmcbld)
 
 for i in "${arr[@]}"
 do
 	start=$(date +%s%N | cut -b1-13)
-	if [ "$i" = "pb_streak" ]; then text=$(echo "PB Streak")
-	elif [ "$i" = "pb_streak_exfmc" ]; then text=$(echo "PB Streak excluding FMC-Only Comps")
-	elif [ "$i" = "pb_streak_exfmcbld" ]; then text=$(echo "PB Streak excluding FMC-and-BLD-Only Comps")
-	elif [ "$i" = "current_pb_streak" ]; then text=$(echo "Current PB Streak")
-	elif [ "$i" = "current_pb_streak_exfmc" ]; then text=$(echo "Current PB Streak excluding FMC-Only Comps")
-	elif [ "$i" = "current_pb_streak_exfmcbld" ]; then text=$(echo "Current PB Streak excluding FMC-and-BLD-Only Comps")
+	if [ "$i" = "pr_streak" ]; then text=$(echo "PR Streak")
+	elif [ "$i" = "pr_streak_exfmc" ]; then text=$(echo "PR Streak excluding FMC-Only Comps")
+	elif [ "$i" = "pr_streak_exfmcbld" ]; then text=$(echo "PR Streak excluding FMC-and-BLD-Only Comps")
+	elif [ "$i" = "current_pr_streak" ]; then text=$(echo "Current PR Streak")
+	elif [ "$i" = "current_pr_streak_exfmc" ]; then text=$(echo "Current PR Streak excluding FMC-Only Comps")
+	elif [ "$i" = "current_pr_streak_exfmcbld" ]; then text=$(echo "Current PR Streak excluding FMC-and-BLD-Only Comps")
 	fi
 	echo -n "Longest ${i}"
 	if [[ $i == *"current_"* ]]; then 
@@ -141,29 +141,29 @@ do
 	fi
 	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 	SELECT
-		Rank, Name, \`PB Streak\`, \`Start Comp\`, \`End Comp\`
+		Rank, Name, \`PR Streak\`, \`Start Comp\`, \`End Comp\`
 	FROM	
 		(SELECT
-				@i := IF(@v = \`PB Streak\`, @i, @i + @c) initrank,
-				@c := IF(@v = \`PB Streak\`, @c + 1, 1) counter,
-				@r := IF(@v = \`PB Streak\`, '=', @i) Rank,
-				@v := \`PB Streak\` val,
+				@i := IF(@v = \`PR Streak\`, @i, @i + @c) initrank,
+				@c := IF(@v = \`PR Streak\`, @c + 1, 1) counter,
+				@r := IF(@v = \`PR Streak\`, '=', @i) Rank,
+				@v := \`PR Streak\` val,
 				a.*
 			FROM	
 				(SELECT 
 						CONCAT('[',p.name,'](https://www.worldcubeassociation.org/persons/',a.personId,')') name, 
-						a.pbStreak \`PB Streak\`, 
+						a.prStreak \`PR Streak\`, 
 						CONCAT('[',a.startcomp,'](https://www.worldcubeassociation.org/competitions/',a.startcomp,')') \`Start Comp\`, 
 						IF((SELECT id FROM ${j} WHERE personId = a.personId AND endcomp = a.endComp)=(SELECT MAX(id) FROM ${j} WHERE personId = a.personId),'',CONCAT('[',(SELECT competitionId FROM ${j} WHERE id = a.id + 1),'](https://www.worldcubeassociation.org/competitions/',(SELECT competitionId FROM ${j} WHERE id = a.id + 1),')' )) \`End Comp\` 
 					FROM ${j} a 
-					INNER JOIN (SELECT personId, startcomp, MAX(pbStreak) maxpbs FROM ${j} GROUP BY personId, startcomp) b 
+					INNER JOIN (SELECT personId, startcomp, MAX(prStreak) maxprs FROM ${j} GROUP BY personId, startcomp) b 
 						ON a.personId = b.personId AND 
 						a.startcomp = b.startcomp AND 
-						b.maxpbs = a.pbstreak 
+						b.maxprs = a.prstreak 
 					JOIN wca_dev.persons p 
 						ON a.personId = p.id AND p.subid = 1
 					${k}
-					ORDER BY a.pbStreak DESC, p.name 
+					ORDER BY a.prStreak DESC, p.name 
 					LIMIT 1000) a
 			) b;" > ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
@@ -172,11 +172,11 @@ do
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
 	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/pbstreak.md ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp
-    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp
-    awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp > ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/pbstreaks/"$i".md.tmp2 > ~/pages/WCA-Stats/pbstreaks/"$i".md && \
-	rm ~/pages/WCA-Stats/pbstreaks/*.tmp*
+    cp ~/pages/WCA-Stats/templates/prstreak.md ~/pages/WCA-Stats/prstreaks/"$i".md.tmp
+    cat ~/mysqloutput/output >> ~/pages/WCA-Stats/prstreaks/"$i".md.tmp
+    awk -v r="$text" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/prstreaks/"$i".md.tmp > ~/pages/WCA-Stats/prstreaks/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/prstreaks/"$i".md.tmp2 > ~/pages/WCA-Stats/prstreaks/"$i".md && \
+	rm ~/pages/WCA-Stats/prstreaks/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
 	echo -e "\\r${CHECK_MARK} Longest ${i} (${finish}ms)"
 done
@@ -257,7 +257,6 @@ do
 					CASE WHEN a.777 = 1 THEN '777,' ELSE '' END,
 					CASE WHEN a.333bf = 1 THEN '333bf,' ELSE '' END,
 					CASE WHEN a.333fm = 1 THEN '333fm,' ELSE '' END,
-					CASE WHEN a.333ft = 1 THEN '333ft,' ELSE '' END,
 					CASE WHEN a.333oh = 1 THEN '333oh,' ELSE '' END,
 					CASE WHEN a.clock = 1 THEN 'clock,' ELSE '' END,
 					CASE WHEN a.minx = 1 THEN 'minx,' ELSE '' END,
@@ -299,7 +298,7 @@ do
 		then 
 			text=$(echo "All competitions excluding MBLD and FMC")
 			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, Feet, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`, 4BLD, 5BLD
+			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`, 4BLD, 5BLD
 			FROM
 				(SELECT
 					@i := IF(CAST(@v AS CHAR) = CAST(\`Sum\` AS CHAR), @i, @i + @c) initrank,
@@ -319,7 +318,6 @@ do
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '666' THEN best END),'666','s') \`6x6\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '777' THEN best END),'777','s') \`7x7\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333bf' THEN best END),'333bf','s') \`3BLD\`,
-						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333ft' THEN best END),'333ft','s') \`Feet\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333oh' THEN best END),'333oh','s') \`OH\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'clock' THEN best END),'clock','s') \`Clock\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'minx' THEN best END),'minx','s') \`Mega\`,
@@ -339,7 +337,7 @@ do
 								(SELECT competitionId 
 								FROM results 
 								WHERE 
-									eventId IN ('333','222','444','555','666','777','333oh','333bf','333ft','clock','skewb','pyram','minx','sq1','444bf','555bf') AND 
+									eventId IN ('333','222','444','555','666','777','333oh','333bf','clock','skewb','pyram','minx','sq1','444bf','555bf') AND 
 									best > 0 
 								GROUP BY competitionId 
 									HAVING COUNT(DISTINCT eventId) = 16) AND 
@@ -353,7 +351,7 @@ do
 		else 
 			text=$(echo "All competitions excluding MBLD, FMC, 4BLD and 5BLD")
 			mysql --login-path=local wca_dev -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, Feet, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`
+			SELECT Rank, Competition, Country, \`Sum\`, 3x3, 2x2, 4x4, 5x5, 6x6, 7x7, 3BLD, OH, Clock, Mega, Pyra, Skewb, \`SQ-1\`
 			FROM
 				(SELECT
 					@i := IF(CAST(@v AS CHAR) = CAST(\`Sum\` AS CHAR), @i, @i + @c) initrank,
@@ -373,7 +371,6 @@ do
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '666' THEN best END),'666','s') \`6x6\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '777' THEN best END),'777','s') \`7x7\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333bf' THEN best END),'333bf','s') \`3BLD\`,
-						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333ft' THEN best END),'333ft','s') \`Feet\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = '333oh' THEN best END),'333oh','s') \`OH\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'clock' THEN best END),'clock','s') \`Clock\`,
 						wca_stats.FORMAT_RESULT(SUM(CASE WHEN eventId = 'minx' THEN best END),'minx','s') \`Mega\`,
@@ -391,7 +388,7 @@ do
 								(SELECT competitionId 
 								FROM results 
 								WHERE 
-									eventId IN ('333','222','444','555','666','777','333oh','333bf','333ft','clock','skewb','pyram','minx','sq1') AND 
+									eventId IN ('333','222','444','555','666','777','333oh','333bf','clock','skewb','pyram','minx','sq1') AND 
 									best > 0 
 								GROUP BY competitionId 
 									HAVING COUNT(DISTINCT eventId) = 14) AND 
@@ -528,7 +525,7 @@ start=$(date +%s%N | cut -b1-13)
 echo -n "All Events Relay"
 mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 SELECT
-  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333bf\`, \`333ft\`, \`333oh\`, \`444\`, \`444bf\`, \`555\`, \`555bf\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333bf\`, \`333oh\`, \`444\`, \`444bf\`, \`555\`, \`555bf\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
 FROM
   (SELECT 
     @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
@@ -540,11 +537,10 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333bfs\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
       FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
       FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
       FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
-      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
       FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`,
       FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
       FORMAT_RESULT(\`444bfs\`,'333','s') \`444bf\`,
@@ -561,8 +557,8 @@ FROM
       all_events_rank
     WHERE
     personId IN 
-      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 16)
-    ORDER BY \`222s\`+\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333bf','444bf','555bf') GROUP BY personId HAVING COUNT(*) = 16)
+    ORDER BY \`222s\`+\`333s\`+\`333bfs\`+\`333ohs\`+\`444s\`+\`444bfs\`+\`555s\`+\`555bfs\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
 " > ~/mysqloutput/all_events_relay
 let finish=($(date +%s%N | cut -b1-13)-$start)
 echo -e "\\r${CHECK_MARK} All Events Relay (${finish}ms)"
@@ -573,7 +569,7 @@ start=$(date +%s%N | cut -b1-13)
 echo -n "Guildford Relay"
 mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 SELECT
-  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333ft\`, \`333oh\`, \`444\`, \`555\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
+  Rank, Name, Country, \`Relay Time\`, \`222\`, \`333\`, \`333oh\`, \`444\`, \`555\`, \`666\`, \`777\`, \`clock\`, \`minx\`, \`pyram\`, \`skewb\`, \`sq1\`
 FROM
   (SELECT 
     @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
@@ -585,10 +581,9 @@ FROM
     (SELECT
       CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
       countryId Country, 
-      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
+      CONCAT('**',FORMAT_RESULT(\`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\`,'333','s'),'**') \`Relay Time\`,
       FORMAT_RESULT(\`222s\`,'333','s') \`222\`,
       FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
-      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
       FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`,
       FORMAT_RESULT(\`444s\`,'333','s') \`444\`,
       FORMAT_RESULT(\`555s\`,'333','s') \`555\`,
@@ -603,8 +598,8 @@ FROM
       all_events_rank
     WHERE
     personId IN 
-      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777','333ft') GROUP BY personId HAVING COUNT(*) = 13)
-    ORDER BY \`222s\`+\`333s\`+\`333fts\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
+      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('222','333','444','555','333oh','skewb','minx','pyram','clock','sq1','666','777') GROUP BY personId HAVING COUNT(*) = 13)
+    ORDER BY \`222s\`+\`333s\`+\`333ohs\`+\`444s\`+\`555s\`+\`666s\`+\`777s\`+\`clocks\`+\`minxs\`+\`pyrams\`+\`skewbs\`+\`sq1s\` LIMIT 1000) a) b;
 " > ~/mysqloutput/guildford
 let finish=($(date +%s%N | cut -b1-13)-$start)
 echo -e "\\r${CHECK_MARK} Guildford Relay (${finish}ms)"
@@ -785,39 +780,6 @@ echo -e "\\r${CHECK_MARK} 2-4 Relay (${finish}ms)"
 #333events
 
 start=$(date +%s%N | cut -b1-13)
-echo -n "3x3 Events Relay"
-mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
-SELECT
-  Rank, Name, Country, \`Relay Time\`, \`333\`, \`333bf\`, \`333ft\`, \`333oh\`
-FROM
-  (SELECT 
-    @i := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @i, @i + @c) initrank,
-    @c := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), @c + 1, 1) counter,
-    @r := IF(CAST(@v AS CHAR) = CAST(\`Relay Time\` AS CHAR), '=', @i) Rank,
-    @v := \`Relay Time\` val,
-    a.*
-  FROM 
-    (SELECT
-      CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',personId,')') Name, 
-      countryId Country, 
-      CONCAT('**',FORMAT_RESULT(\`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\`,'333','s'),'**') \`Relay Time\`,
-      FORMAT_RESULT(\`333s\`,'333','s') \`333\`,
-      FORMAT_RESULT(\`333bfs\`,'333','s') \`333bf\`,
-      FORMAT_RESULT(\`333fts\`,'333','s') \`333ft\`,
-      FORMAT_RESULT(\`333ohs\`,'333','s') \`333oh\`
-    FROM
-      all_events_rank
-    WHERE
-    personId IN 
-      (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('333','333bf','333ft','333oh') GROUP BY personId HAVING COUNT(*) = 4)
-    ORDER BY \`333s\`+\`333bfs\`+\`333fts\`+\`333ohs\` LIMIT 1000) a) b;
-" > ~/mysqloutput/333events
-let finish=($(date +%s%N | cut -b1-13)-$start)
-echo -e "\\r${CHECK_MARK} 3x3 Events Relay (${finish}ms)"
-
-#333eventsnofeet
-
-start=$(date +%s%N | cut -b1-13)
 echo -n "3x3 OH BLD Relay"
 mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
 SELECT
@@ -843,7 +805,7 @@ FROM
     personId IN 
       (SELECT personId FROM wca_dev.rankssingle WHERE eventId IN ('333','333bf','333oh') GROUP BY personId HAVING COUNT(*) = 3)
     ORDER BY \`333s\`+\`333bfs\`+\`333ohs\` LIMIT 1000) a) b;
-" > ~/mysqloutput/333eventsnofeet
+" > ~/mysqloutput/333events
 let finish=($(date +%s%N | cut -b1-13)-$start)
 echo -e "\\r${CHECK_MARK} 3x3 OH BLD Relay (${finish}ms)"
 
@@ -945,7 +907,7 @@ FROM
 let finish=($(date +%s%N | cut -b1-13)-$start)
 echo -e "\\r${CHECK_MARK} Fast Events Relay (${finish}ms)"
 
-declare -a arr=(all_events_relay guildford mini_guildford 234 2345 23456 234567 333events 333eventsnofeet bld side fast)
+declare -a arr=(all_events_relay guildford mini_guildford 234 2345 23456 234567 333events bld side fast)
 
 for i in "${arr[@]}"
 do
@@ -1889,7 +1851,7 @@ cp ~/pages/WCA-Stats/templates/mollerzmembership.md ~/pages/WCA-Stats/mollerzmem
 date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
 awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 17,'Y',CONCAT('N (',eventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` FROM persons_extra WHERE mollerzMembership = 'Diamond' ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` FROM persons_extra WHERE mollerzMembership = 'Diamond' ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1898,10 +1860,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/aaaaa/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
 WHERE mollerzMembership = 'Opal' 
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1910,10 +1872,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/bbbbb/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
 WHERE mollerzMembership = 'Platinum' 
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1922,10 +1884,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/ccccc/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
 WHERE mollerzMembership = 'Gold' 
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1934,10 +1896,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/ddddd/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
 WHERE mollerzMembership = 'Silver' 
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1946,10 +1908,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/eeeee/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
 WHERE mollerzMembership = 'Bronze' 
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1958,10 +1920,10 @@ sed -i.bak 's/$/|  /' ~/mysqloutput/output
 output=$(cat ~/mysqloutput/output)
 awk -v r="$output" '{gsub(/fffff/,r)}1' ~/pages/WCA-Stats/mollerzmembership/table.md.tmp > ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md.tmp
-mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(eventsSucceeded = 18,'Y',CONCAT('N (',eventsSucceeded,'/18)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 13,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/13)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 18,'Y',CONCAT('N (',currentEventsWon,'/18)')) \`Events Won\` 
+mysql --login-path=local wca_stats -e "SELECT CONCAT('[',name,'](https://www.worldcubeassociation.org/persons/',id,')') Name, IF(currentEventsSucceeded = 17,'Y',CONCAT('N (',currentEventsSucceeded,'/17)')) \`All Events\`, IF(currentSpeedsolvingEventsAverage = 12,'Y',CONCAT('N (',currentSpeedsolvingEventsAverage,'/12)')) \`Speedsolving Averages\`, IF(bldfmcEventsAverage = 4,'Y',CONCAT('N (',bldfmcEventsAverage,'/4)')) \`BLD and FMC Means\`, IF(wcPodiums > 0,'Y','N') \`WC Podium\`, IF(WRs > 0,'Y','N') \`WR\`, IF(currentEventsWon = 17,'Y',CONCAT('N (',currentEventsWon,'/17)')) \`Events Won\` 
 FROM persons_extra 
-WHERE eventsSucceeded = 17
-ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, eventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, eventsWon DESC;" > ~/mysqloutput/original && \
+WHERE currentEventsSucceeded = 16
+ORDER BY FIELD(mollerzMembership,'Bronze','Silver','Gold','Platinum','Opal','Diamond',NULL) DESC, currentEventsSucceeded DESC, currentSpeedsolvingEventsAverage DESC, bldfmcEventsAverage DESC, wcPodiums DESC, WRs DESC, currentEventsWon DESC;" > ~/mysqloutput/original && \
 sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
 sed -i.bak '2i\
 --|--|--|--|--|--|--|--\' ~/mysqloutput/output
@@ -1972,7 +1934,7 @@ awk -v r="$output" '{gsub(/ggggg/,r)}1' ~/pages/WCA-Stats/mollerzmembership/tabl
 cp ~/pages/WCA-Stats/mollerzmembership/table.md.tmp2 ~/pages/WCA-Stats/mollerzmembership/table.md
 rm ~/pages/WCA-Stats/mollerzmembership/*.tmp*
 
-# My PBs
+# My PRs
 
 declare -a arr=(2015SPEN01 2017GOLD02)
 
@@ -1988,8 +1950,55 @@ do
 	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/misc/"$i".md
 done
 
+#finalmissers
+
+mapfile -t arr < <(mysql --login-path=local --batch -se "SELECT id FROM wca_dev.Events WHERE rank < 900")
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "${i} Final Missers"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, Result, Competition
+FROM
+(SELECT 
+    @i := IF(@v = Result, @i, @i + @c) initrank,
+    @c := IF(@v = Result, @c + 1, 1) counter,
+    @r := IF(@v = Result, '=', @i) Rank,
+    @v := Result val,
+    c.*
+FROM
+  (SELECT 
+    CONCAT('[',fm.personName,'](https://www.worldcubeassociation.org/persons/',fm.personId,')') Name, 
+    fm.personCountryId Country, 
+    FORMAT_RESULT(CASE WHEN fm.eventId IN ('333bf','444bf','555bf','333mbf') THEN best ELSE average END,fm.eventId,CASE WHEN fm.eventId IN ('333bf','444bf','555bf','333mbf') THEN 's' ELSE 'a' END) Result, 
+    CONCAT('[',ce.name,'](https://www.worldcubeassociation.org/competitions/',fm.competitionId,'/results/all?event=',fm.eventId,')') Competition 
+FROM final_missers fm 
+JOIN competitions_extra ce 
+    ON fm.competitionId = ce.id
+WHERE
+    eventId = '${i}'
+    AND
+    ((eventId IN ('333bf','444bf','555bf','333mbf') AND best > 0)
+        OR
+    (average > 0))
+ORDER BY average ASC LIMIT 100) c) d;" > ~/mysqloutput/original
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output
+    sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+    date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+    cp ~/pages/WCA-Stats/templates/finalmissers.md ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp
+	awk -v r="$i Single" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp > ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp2 > ~/pages/WCA-Stats/finalmissers/"$i"s.md && \
+	rm ~/pages/WCA-Stats/finalmissers/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} ${i} Final Missers (${finish}ms)"
+done
+
 rm ~/mysqloutput/*
 
 d=$(date +%Y-%m-%d)
 cd ~/pages/WCA-Stats/ && git add -A && git commit -m "${d} update" && git push origin gh-pages
-
