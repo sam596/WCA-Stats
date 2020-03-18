@@ -6,7 +6,7 @@
 
 These competitors achieved the best results in a round preceding a final, without proceeding to said final.
 
-#### EventId = clock Single
+#### EventId = clock
 
 |Rank|Name|Country|Result|Competition|  
 |--|--|--|--|--|  

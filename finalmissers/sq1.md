@@ -6,7 +6,7 @@
 
 These competitors achieved the best results in a round preceding a final, without proceeding to said final.
 
-#### EventId = sq1 Single
+#### EventId = sq1
 
 |Rank|Name|Country|Result|Competition|  
 |--|--|--|--|--|  
