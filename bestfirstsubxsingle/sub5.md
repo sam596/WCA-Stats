@@ -29,8 +29,8 @@
 |18|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|4.86|  
 |19|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|4.88|  
 |20|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|4.89|  
-|21|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
-|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
+|21|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
+|=|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
 |23|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|4.91|  
 |24|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|4.93|  
 |25|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|4.94|  
