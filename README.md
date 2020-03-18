@@ -272,6 +272,13 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>Longest Streak of competing every Month</summary>
+<ul>
+<li><a href="monthlystreaks/table.html">All</a></li>
+<li><a href="monthlystreakscurrent/table.html">Only current</a></li>
+</ul>
+</details>
+<details>
   <summary>Longest PR Streaks</summary>
 <ul>
 <li><a href="prstreaks/pr_streak.html">All competitions</a></li>
