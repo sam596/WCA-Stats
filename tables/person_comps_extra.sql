@@ -47,3 +47,15 @@ FROM
 	ORDER BY a.personId, date, a.competitionId) a;
 
 ALTER TABLE person_comps_extra DROP drop1, DROP drop2;
+
+SET @c = 1, @p = '', @fc = '', @dm = 1;
+DROP TABLE IF EXISTS monthly_streak;
+CREATE TABLE monthly_streak
+(SELECT personId, personName, competitionId, datemonth,
+    @c := IF(@p = personId AND @dm = datemonth - 1, @c + 1, 1) streak,
+    @fc := IF(@p = personId AND @dm = datemonth - 1, @fc, competitionId) firstComp,
+    @p := personId,
+    @dm := datemonth
+FROM
+    (SELECT personId, personName, competitionId, datemonth FROM (SELECT personId, personName, competitionId, ((YEAR(startdate)-1970)*12)+MONTH(startdate) datemonth FROM person_comps_extra pce JOIN competitions_extra ce ON pce.competitionId = ce.id UNION ALL SELECT personId, personName, competitionId, ((YEAR(enddate)-1970)*12)+MONTH(enddate) datemonth  FROM person_comps_extra pce JOIN competitions_extra ce ON pce.competitionId = ce.id ORDER BY personId, datemonth) a GROUP BY personId, datemonth ORDER BY personId, datemonth) b
+    );

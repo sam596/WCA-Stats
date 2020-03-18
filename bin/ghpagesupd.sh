@@ -1989,14 +1989,184 @@ ORDER BY average ASC LIMIT 100) c) d;" > ~/mysqloutput/original
 	sed -i.bak 's/^/|/' ~/mysqloutput/output
 	sed -i.bak 's/$/|  /' ~/mysqloutput/output
     date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
-    cp ~/pages/WCA-Stats/templates/finalmissers.md ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp
-	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp
-	awk -v r="$i Single" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp > ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp2 && \
-	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i"s.md.tmp2 > ~/pages/WCA-Stats/finalmissers/"$i"s.md && \
+    cp ~/pages/WCA-Stats/templates/finalmissers.md ~/pages/WCA-Stats/finalmissers/"$i".md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/finalmissers/"$i".md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i".md.tmp > ~/pages/WCA-Stats/finalmissers/"$i".md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/finalmissers/"$i".md.tmp2 > ~/pages/WCA-Stats/finalmissers/"$i".md && \
 	rm ~/pages/WCA-Stats/finalmissers/*.tmp*
 	let finish=($(date +%s%N | cut -b1-13)-$start)
 	echo -e "\\r${CHECK_MARK} ${i} Final Missers (${finish}ms)"
 done
+
+#bestfirstsubxaverage
+
+declare -a arr=(5 6 7 8 9 10 11 12 13 14 15 20)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Best First Sub ${i} Average"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, Average
+	FROM
+		(SELECT
+			@i := IF(@v = Average, @i, @i + @c) initrank,
+			@c := IF(@v = Average, @c + 1, 1) counter,
+			@r := IF(@v = Average, '=', @i) Rank,
+			@v := Average val,
+			b.*
+		FROM	
+			(SELECT CONCAT('[',re.personname,'](https://www.worldcubeassociation.org/persons/',re.personId,')') Name, re.personCountryId Country, FORMAT_RESULT(re.average,re.eventId,'a') Average FROM results_extra re JOIN (SELECT personId, MIN(id) id FROM results_extra WHERE eventId = '333' AND average > 0 AND average < ${i}00 GROUP BY personId) re2 ON re.id = re2.id JOIN persons_extra pe ON re.personid = pe.id WHERE pe.firstComp != re.competitionId ORDER BY re.average ASC LIMIT 250) b
+		) c;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	output=$(cat ~/mysqloutput/output)
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/bestfirstsubxaverage.md ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md.tmp > ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md.tmp2 > ~/pages/WCA-Stats/bestfirstsubxaverage/sub$i.md
+	rm ~/pages/WCA-Stats/bestfirstsubxaverage/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Best First Sub ${i} Average (${finish}ms)"
+done
+
+#bestfirstsubxsingle
+
+declare -a arr=(5 6 7 8 9 10 11 12 13 14 15 20)
+
+for i in "${arr[@]}"
+do
+	start=$(date +%s%N | cut -b1-13)
+	echo -n "Best First Sub ${i} Single"
+	mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+	SELECT Rank, Name, Country, Single
+	FROM
+		(SELECT
+			@i := IF(@v = Single, @i, @i + @c) initrank,
+			@c := IF(@v = Single, @c + 1, 1) counter,
+			@r := IF(@v = Single, '=', @i) Rank,
+			@v := Single val,
+			b.*
+		FROM	
+			(SELECT CONCAT('[',re.personname,'](https://www.worldcubeassociation.org/persons/',re.personId,')') Name, re.personCountryId Country, FORMAT_RESULT(re.best,re.eventId,'s') Single FROM results_extra re JOIN (SELECT personId, MIN(id) id FROM results_extra WHERE eventId = '333' AND best > 0 AND best < ${i}00 GROUP BY personId) re2 ON re.id = re2.id JOIN persons_extra pe ON re.personid = pe.id WHERE pe.firstComp != re.competitionId ORDER BY re.best ASC LIMIT 250) b
+		) c;" > ~/mysqloutput/original && \
+	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+	sed -i.bak '2i\
+--|--|--|--|--\' ~/mysqloutput/output
+	sed -i.bak 's/^/|/' ~/mysqloutput/output
+	sed -i.bak 's/$/|  /' ~/mysqloutput/output
+	output=$(cat ~/mysqloutput/output)
+	date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+	cp ~/pages/WCA-Stats/templates/bestfirstsubxsingle.md ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md.tmp
+	cat ~/mysqloutput/output >> ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md.tmp
+	awk -v r="$i" '{gsub(/xxx/,r)}1' ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md.tmp > ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md.tmp2 && \
+	awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md.tmp2 > ~/pages/WCA-Stats/bestfirstsubxsingle/sub$i.md
+	rm ~/pages/WCA-Stats/bestfirstsubxsingle/*.tmp*
+	let finish=($(date +%s%N | cut -b1-13)-$start)
+	echo -e "\\r${CHECK_MARK} Best First Sub ${i} Single (${finish}ms)"
+done
+
+# month streaks
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Competing every Month Streak"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, Streak, FirstCompetition \`Started at\`, EndCompetition \`Ended at\`
+FROM
+	(SELECT
+		@i := IF(@v = Streak, @i, @i + @c) initrank,
+		@c := IF(@v = Streak, @c + 1, 1) counter,
+		@r := IF(@v = Streak, '=', @i) Rank,
+		@v := Streak val,
+		b.*
+	FROM	
+		(SELECT 
+    CONCAT('[',a.personName,'](http://www.worldcubeassociation.org/persons/',a.personId,')') Name,
+	(SELECT countryId FROM persons_extra WHERE id = a.personId) Country,
+    CONCAT('[',a.firstComp,'](https://www.worldcubeassociation.org/competitions/',a.firstComp,') (',(SELECT CONCAT(MONTHNAME(startDate),' ',YEAR(startDate)) FROM competitions_extra WHERE id = a.firstComp),')') FirstCompetition, 
+    MAX(a.streak) Streak, 
+    (CASE 
+        WHEN 
+            ((YEAR(NOW())-1970)*12)+MONTH(NOW()) 
+            = 
+            (SELECT datemonth FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1) 
+            THEN 'Ongoing' 
+        WHEN 
+            ((YEAR(NOW())-1970)*12)+MONTH(NOW())-1 
+            = 
+            (SELECT datemonth FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1) 
+            THEN 'Last competed last month' 
+    ELSE 
+        CONCAT('[',(SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1),'](http://www.worldcubeassociation.org/competitions/',(SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1),') (',(SELECT CONCAT(MONTHNAME(endDate),' ',YEAR(endDate)) FROM competitions_extra WHERE id = (SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1)),')') END) EndCompetition 
+FROM monthly_streak a 
+GROUP BY personId, firstComp 
+ORDER BY Streak DESC 
+LIMIT 100) b) a;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+output=$(cat ~/mysqloutput/output)
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/monthlystreaks.md ~/pages/WCA-Stats/monthlystreaks/table.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/monthlystreaks/table.md.tmp
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/monthlystreaks/table.md.tmp > ~/pages/WCA-Stats/monthlystreaks/table.md
+rm ~/pages/WCA-Stats/monthlystreaks/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Competing every Month Streak (${finish}ms)"
+
+start=$(date +%s%N | cut -b1-13)
+echo -n "Competing every Month Streak (current only)"
+mysql --login-path=local wca_stats -e "SET @i = 1, @c = 0, @v = 0, @r = NULL;
+SELECT Rank, Name, Country, Streak, FirstCompetition \`Started at\`, EndCompetition \`Ended at\`
+FROM
+	(SELECT
+		@i := IF(@v = Streak, @i, @i + @c) initrank,
+		@c := IF(@v = Streak, @c + 1, 1) counter,
+		@r := IF(@v = Streak, '=', @i) Rank,
+		@v := Streak val,
+		b.*
+	FROM	
+		(SELECT 
+    CONCAT('[',a.personName,'](http://www.worldcubeassociation.org/persons/',a.personId,')') Name,
+	(SELECT countryId FROM persons_extra WHERE id = a.personId) Country,
+    CONCAT('[',a.firstComp,'](https://www.worldcubeassociation.org/competitions/',a.firstComp,') (',(SELECT CONCAT(MONTHNAME(startDate),' ',YEAR(startDate)) FROM competitions_extra WHERE id = a.firstComp),')') FirstCompetition, 
+    MAX(a.streak) Streak, 
+    (CASE 
+        WHEN 
+            ((YEAR(NOW())-1970)*12)+MONTH(NOW()) 
+            = 
+            (SELECT datemonth FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1) 
+            THEN 'Ongoing' 
+        WHEN 
+            ((YEAR(NOW())-1970)*12)+MONTH(NOW())-1 
+            = 
+            (SELECT datemonth FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1) 
+            THEN 'Last competed last month' 
+    ELSE 
+        CONCAT('[',(SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1),'](http://www.worldcubeassociation.org/competitions/',(SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1),') (',(SELECT CONCAT(MONTHNAME(endDate),' ',YEAR(endDate)) FROM competitions_extra WHERE id = (SELECT competitionId FROM monthly_streak WHERE firstComp = a.firstComp AND streak = MAX(a.streak) AND personId = a.personId LIMIT 1)),')') END) EndCompetition 
+FROM monthly_streak a 
+GROUP BY personId, firstComp 
+ORDER BY Streak DESC
+LIMIT 500) b WHERE endcompetition IN ('Ongoing','Last competed last month')) c LIMIT 100;" > ~/mysqloutput/original && \
+sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
+sed -i.bak '2i\
+--|--|--|--|--|--\' ~/mysqloutput/output
+sed -i.bak 's/^/|/' ~/mysqloutput/output
+sed -i.bak 's/$/|  /' ~/mysqloutput/output
+output=$(cat ~/mysqloutput/output)
+date=$(date -r ~/databasedownload/wca-developer-database-dump.zip +"%a %b %d at %H%MUTC")
+cp ~/pages/WCA-Stats/templates/monthlystreakscurrent.md ~/pages/WCA-Stats/monthlystreakscurrent/table.md.tmp
+cat ~/mysqloutput/output >> ~/pages/WCA-Stats/monthlystreakscurrent/table.md.tmp
+awk -v r="$date" '{gsub(/today_date/,r)}1' ~/pages/WCA-Stats/monthlystreakscurrent/table.md.tmp > ~/pages/WCA-Stats/monthlystreakscurrent/table.md
+rm ~/pages/WCA-Stats/monthlystreaks/*.tmp*
+let finish=($(date +%s%N | cut -b1-13)-$start)
+echo -e "\\r${CHECK_MARK} Competing every Month Streak current only (${finish}ms)"
 
 rm ~/mysqloutput/*
 
