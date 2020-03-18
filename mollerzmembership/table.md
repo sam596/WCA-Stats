@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -175,10 +175,10 @@
 |[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Y|Y|N (3/4)|N|N|N (1/17)|  
 |[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Y|Y|N (3/4)|N|N|N (1/17)|  
 |[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|Y|Y|N (3/4)|N|N|N (1/17)|  
+|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|Y|Y|N (3/4)|N|N|N (1/17)|  
 |[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|Y|Y|N (3/4)|N|N|N (1/17)|  
 |[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Y|Y|N (3/4)|N|N|N (1/17)|  
 |[Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01)|Y|Y|N (3/4)|N|N|N (0/17)|  
-|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|Y|Y|N (3/4)|N|N|N (0/17)|  
 |[Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01)|Y|Y|N (3/4)|N|N|N (0/17)|  
 |[Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02)|Y|Y|N (3/4)|N|N|N (0/17)|  
 |[Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01)|Y|Y|N (2/4)|N|N|N (16/17)|  

@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -195,8 +195,8 @@
 |185|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|**21:53.78**|39.87|4:22.91|16:51.00|  
 |186|[Nikhil Mande](https://www.worldcubeassociation.org/persons/2008MAND01)|India|**21:56.13**|49.47|6:36.66|14:30.00|  
 |187|[Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01)|Guatemala|**21:57.46**|58.89|6:00.57|14:58.00|  
-|188|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|China|**22:05.97**|59.29|5:56.68|15:10.00|  
-|189|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|**22:06.04**|23.98|4:14.06|17:28.00|  
+|188|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|**22:03.76**|21.70|4:14.06|17:28.00|  
+|189|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|China|**22:05.97**|59.29|5:56.68|15:10.00|  
 |190|[Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30)|USA|**22:07.46**|37.95|5:28.51|16:01.00|  
 |191|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|**22:08.71**|1:00.86|6:23.85|14:44.00|  
 |192|[Timothy Sun](https://www.worldcubeassociation.org/persons/2007SUNT01)|USA|**22:10.15**|56.29|6:11.86|15:02.00|  

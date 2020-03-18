@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -39,4 +39,6 @@
 |[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|2019-02-17|[ManchesterOpen2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#epyram_d)|[ManchesterOpen2019 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#epyram_f)|0|  
 |[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|2019-02-17|[ManchesterOpen2019 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#epyram_f)|[UKChampionship2019 - Combined First round](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#epyram_d)|252|  
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2019-10-27|[UKChampionship2019 - Combined First round](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#epyram_d)|[GuildfordOpen2020 - Final](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020/results/all#epyram_f)|84|  
-|[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|2020-01-19|[GuildfordOpen2020 - Final](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020/results/all#epyram_f)|Ongoing|58|  
+|[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|2020-01-19|[GuildfordOpen2020 - Final](https://www.worldcubeassociation.org/competitions/GuildfordOpen2020/results/all#epyram_f)|[ManchesterOpen2020 - Combined First round](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020/results/all#epyram_d)|56|  
+|[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|2020-03-15|[ManchesterOpen2020 - Combined First round](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020/results/all#epyram_d)|[ManchesterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020/results/all#epyram_f)|0|  
+|[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|2020-03-15|[ManchesterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2020/results/all#epyram_f)|Ongoing|3|  

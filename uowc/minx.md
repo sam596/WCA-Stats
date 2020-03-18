@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -21,4 +21,4 @@
 |[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30)|Peru|2018-07-22|[Euro2018 - First round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_1)|[CubingUSANationals2019 - First round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_1)|378|  
 |[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|2019-08-04|[CubingUSANationals2019 - First round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_1)|[CubingUSANationals2019 - Second round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_2)|0|  
 |[Juan Pablo Huanqui](https://www.worldcubeassociation.org/persons/2013HUAN30)|Peru|2019-08-04|[CubingUSANationals2019 - Second round](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_2)|[CubingUSANationals2019 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f)|0|  
-|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|2019-08-04|[CubingUSANationals2019 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f)|Ongoing|226|  
+|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|2019-08-04|[CubingUSANationals2019 - Final](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all#eminx_f)|Ongoing|227|  

@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -249,12 +249,12 @@
 |239|[Jacob Kasilag](https://www.worldcubeassociation.org/persons/2019KASI01)|Australia|11.14|10.51|  
 |240|[Juncheng Luo (罗骏承)](https://www.worldcubeassociation.org/persons/2018LUOJ07)|China|11.38|10.51|  
 |241|[Matthew Arca](https://www.worldcubeassociation.org/persons/2019ARCA01)|USA|11.69|10.51|  
-|242|[Rúnar Gauti Gunnarsson](https://www.worldcubeassociation.org/persons/2018GUNN03)|Iceland|11.85|10.51|  
-|243|[Samuel McKelvey](https://www.worldcubeassociation.org/persons/2016MCKE05)|USA|11.22|10.51|  
-|244|[Vanshraj Sachdev](https://www.worldcubeassociation.org/persons/2019SACH02)|India|11.78|10.51|  
-|245|[Adrian Okleciński](https://www.worldcubeassociation.org/persons/2017OKLE01)|Poland|11.60|10.50|  
-|246|[Hans Hu](https://www.worldcubeassociation.org/persons/2015HUHA01)|USA|11.77|10.50|  
-|247|[Henry Koo Rui Feng](https://www.worldcubeassociation.org/persons/2019FENG29)|Malaysia|11.26|10.50|  
-|248|[Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04)|Czech Republic|11.94|10.50|  
-|249|[Nathan Blow](https://www.worldcubeassociation.org/persons/2017BLOW01)|USA|11.32|10.50|  
-|250|[Osiris Sesma](https://www.worldcubeassociation.org/persons/2017SESM01)|USA|11.45|10.50|  
+|242|[Samuel McKelvey](https://www.worldcubeassociation.org/persons/2016MCKE05)|USA|11.22|10.51|  
+|243|[Vanshraj Sachdev](https://www.worldcubeassociation.org/persons/2019SACH02)|India|11.78|10.51|  
+|244|[Adrian Okleciński](https://www.worldcubeassociation.org/persons/2017OKLE01)|Poland|11.60|10.50|  
+|245|[Hans Hu](https://www.worldcubeassociation.org/persons/2015HUHA01)|USA|11.77|10.50|  
+|246|[Henry Koo Rui Feng](https://www.worldcubeassociation.org/persons/2019FENG29)|Malaysia|11.26|10.50|  
+|247|[Jan Fonš](https://www.worldcubeassociation.org/persons/2017FONS04)|Czech Republic|11.94|10.50|  
+|248|[Nathan Blow](https://www.worldcubeassociation.org/persons/2017BLOW01)|USA|11.32|10.50|  
+|249|[Osiris Sesma](https://www.worldcubeassociation.org/persons/2017SESM01)|USA|11.45|10.50|  
+|250|[Quyen Vu Bach](https://www.worldcubeassociation.org/persons/2018BACH06)|Germany|11.81|10.50|  

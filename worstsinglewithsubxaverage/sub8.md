@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Mar 15 at 0711UTC*
+*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -8,16 +8,16 @@
 
 |Rank|Name|Country|Average|Single|  
 |--|--|--|--|--|  
-|1|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|7.87|7.47|  
-|2|[Faisal Aziz Mehboob](https://www.worldcubeassociation.org/persons/2017MEHB01)|India|7.68|7.38|  
-|3|[Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03)|Netherlands|7.85|7.17|  
-|4|[Waden Cho](https://www.worldcubeassociation.org/persons/2016CHOW04)|USA|7.82|7.09|  
-|5|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|7.72|7.01|  
-|6|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|7.99|6.95|  
-|7|[Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03)|USA|7.76|6.95|  
-|8|[Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52)|Spain|7.97|6.94|  
-|9|[Stanley Wang](https://www.worldcubeassociation.org/persons/2017WANS05)|Canada|7.93|6.94|  
-|10|[Hsiang-Kuang Zhuang (莊翔光)](https://www.worldcubeassociation.org/persons/2015ZHUA02)|Taiwan|7.96|6.93|  
+|1|[Faisal Aziz Mehboob](https://www.worldcubeassociation.org/persons/2017MEHB01)|India|7.68|7.38|  
+|2|[Tristan Jansen](https://www.worldcubeassociation.org/persons/2018JANS03)|Netherlands|7.85|7.17|  
+|3|[Waden Cho](https://www.worldcubeassociation.org/persons/2016CHOW04)|USA|7.82|7.09|  
+|4|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|7.72|7.01|  
+|5|[Karl Matthew Angeles](https://www.worldcubeassociation.org/persons/2018ANGE01)|Philippines|7.99|6.95|  
+|6|[Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03)|USA|7.76|6.95|  
+|7|[Jaime Botello García](https://www.worldcubeassociation.org/persons/2016GARC52)|Spain|7.97|6.94|  
+|8|[Stanley Wang](https://www.worldcubeassociation.org/persons/2017WANS05)|Canada|7.93|6.94|  
+|9|[Hsiang-Kuang Zhuang (莊翔光)](https://www.worldcubeassociation.org/persons/2015ZHUA02)|Taiwan|7.96|6.93|  
+|10|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|7.87|6.92|  
 |11|[Jinseong Kim (김진성)](https://www.worldcubeassociation.org/persons/2011JINS01)|Korea|7.92|6.89|  
 |12|[Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01)|USA|7.82|6.87|  
 |13|[Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08)|Korea|7.78|6.85|  
