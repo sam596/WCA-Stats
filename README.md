@@ -61,7 +61,7 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
-  <summary>Best Podiums</summary>
+  <summary>Best Worst Result</summary>
 <ul>
 <li><a href="bestworstresult/333a.html">3x3 Average</a></li>
 <li><a href="bestworstresult/222a.html">2x2 Average</a></li>
