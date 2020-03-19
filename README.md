@@ -312,6 +312,13 @@ Here are various statistics I have computed using the WCA database. These get up
 </ul>
 </details>
 <details>
+  <summary>"Mollerz Membership"</summary>
+  An alternative WCA membership system.
+<ul>
+<li><a href="mollerzmembership/table.html">Table</a></li>
+</ul>
+</details>
+<details>
   <summary>Most Common First Names</summary>
 <ul>
 <li><a href="commonfirstnames/mostcommonfirstnames.html">Most Common First Names</a></li>
