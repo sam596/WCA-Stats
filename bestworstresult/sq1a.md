@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -858,7 +858,7 @@
 |848|[Weiran Zhang (张为然)](https://www.worldcubeassociation.org/persons/2017ZHAW07)|China|29.66|  
 |849|[Junxiang Hong (洪骏翔)](https://www.worldcubeassociation.org/persons/2016HONG07)|China|29.68|  
 |850|[Eduard Mrug](https://www.worldcubeassociation.org/persons/2016MRUG01)|Slovakia|29.69|  
-|=|[Eymard D Celestino](https://www.worldcubeassociation.org/persons/2019CELE02)|Philippines|29.69|  
+|=|[Eymard D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE02)|Philippines|29.69|  
 |852|[Timotej Andrejko](https://www.worldcubeassociation.org/persons/2017ANDR16)|Slovakia|29.70|  
 |853|[Muchammad Daniyal Kautsar](https://www.worldcubeassociation.org/persons/2016KAUT01)|Indonesia|29.71|  
 |854|[Zayd Chaudhry](https://www.worldcubeassociation.org/persons/2019CHAU12)|Australia|29.72|  

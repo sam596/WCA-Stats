@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -974,7 +974,7 @@
 |964|[Yongzhe Mao (毛勇喆)](https://www.worldcubeassociation.org/persons/2013MAOY01)|China|41.42|  
 |965|[Vitor Wagner Abreu](https://www.worldcubeassociation.org/persons/2016ABRE01)|Brazil|41.43|  
 |966|[Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01)|United Kingdom|41.44|  
-|967|[Eymard D Celestino](https://www.worldcubeassociation.org/persons/2019CELE02)|Philippines|41.46|  
+|967|[Eymard D. Celestino](https://www.worldcubeassociation.org/persons/2019CELE02)|Philippines|41.46|  
 |968|[Wuzhang Zhu (朱武章)](https://www.worldcubeassociation.org/persons/2016ZHUW01)|China|41.48|  
 |969|[Sheen Oishi](https://www.worldcubeassociation.org/persons/2017OISH01)|Australia|41.49|  
 |970|[Sean Findlay](https://www.worldcubeassociation.org/persons/2016FIND01)|United Kingdom|41.53|  

@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -70,7 +70,7 @@
 |=|[Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09)|Korea|5.88|7.29|  
 |61|[Kevin Costello III](https://www.worldcubeassociation.org/persons/2012COST01)|USA|5.74|7.30|  
 |62|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|5.35|7.31|  
-|=|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|6.23|7.31|  
+|=|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|6.18|7.31|  
 |64|[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|Russia|6.23|7.32|  
 |=|[Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01)|Kosovo|6.29|7.32|  
 |66|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|5.51|7.33|  

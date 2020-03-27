@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Single
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -18,9 +18,9 @@
 |7|[Zibo Xu (徐子博)](https://www.worldcubeassociation.org/persons/2014XUZI01)|China|4.72|  
 |8|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|4.73|  
 |9|[Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01)|Netherlands|4.74|  
-|10|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|4.76|  
-|=|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|4.76|  
+|10|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|4.76|  
 |=|[Aaron Huynh](https://www.worldcubeassociation.org/persons/2017HUYN05)|USA|4.76|  
+|=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|4.76|  
 |13|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|4.80|  
 |14|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|4.81|  
 |15|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|4.83|  

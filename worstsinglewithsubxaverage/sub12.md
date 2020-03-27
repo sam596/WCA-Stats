@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -12,19 +12,19 @@
 |2|[Joey Gaffney](https://www.worldcubeassociation.org/persons/2016GAFF01)|Canada|11.92|11.61|  
 |3|[Wan Gi Hwang (황완기)](https://www.worldcubeassociation.org/persons/2018HWAN05)|Korea|11.84|11.51|  
 |4|[Josiah Thiele](https://www.worldcubeassociation.org/persons/2018THIE01)|USA|11.80|11.43|  
-|5|[Stepan Anisimov (Степан Анисимов)](https://www.worldcubeassociation.org/persons/2018ANIS08)|Russia|11.84|11.42|  
-|6|[Guan-Ying Wang (王冠穎)](https://www.worldcubeassociation.org/persons/2016WAGU02)|Taiwan|11.95|11.39|  
-|7|[Alfred Wang](https://www.worldcubeassociation.org/persons/2017WANA02)|USA|11.84|11.37|  
-|8|[Sungyun Kim (김성윤)](https://www.worldcubeassociation.org/persons/2018KIMS07)|Korea|11.99|11.36|  
-|9|[Danilo Caimano](https://www.worldcubeassociation.org/persons/2009CAIM01)|Italy|11.98|11.31|  
-|10|[Ignatius Pereira](https://www.worldcubeassociation.org/persons/2018PERE15)|India|11.82|11.31|  
-|11|[Jiabao Luo (罗嘉宝)](https://www.worldcubeassociation.org/persons/2019LUOJ03)|China|11.99|11.31|  
-|12|[Nikita Chistyakov](https://www.worldcubeassociation.org/persons/2014CHIS01)|Belarus|11.91|11.29|  
-|13|[Đào Duy Anh](https://www.worldcubeassociation.org/persons/2018ANHD02)|Vietnam|11.82|11.24|  
-|14|[Wan Adam Iskandar Bin Wan Abdul Aziz](https://www.worldcubeassociation.org/persons/2018AZIZ03)|Malaysia|11.86|11.24|  
-|15|[Yajie Chen (陈亚杰)](https://www.worldcubeassociation.org/persons/2018CHEN73)|China|11.60|11.23|  
-|16|[Rasyadan Muhammad](https://www.worldcubeassociation.org/persons/2010MUHA01)|Indonesia|11.98|11.22|  
-|17|[Qilin Huang (黄麒麟)](https://www.worldcubeassociation.org/persons/2018HUAN42)|China|11.80|11.21|  
+|5|[Guan-Ying Wang (王冠穎)](https://www.worldcubeassociation.org/persons/2016WAGU02)|Taiwan|11.95|11.39|  
+|6|[Alfred Wang](https://www.worldcubeassociation.org/persons/2017WANA02)|USA|11.84|11.37|  
+|7|[Sungyun Kim (김성윤)](https://www.worldcubeassociation.org/persons/2018KIMS07)|Korea|11.99|11.36|  
+|8|[Danilo Caimano](https://www.worldcubeassociation.org/persons/2009CAIM01)|Italy|11.98|11.31|  
+|9|[Ignatius Pereira](https://www.worldcubeassociation.org/persons/2018PERE15)|India|11.82|11.31|  
+|10|[Jiabao Luo (罗嘉宝)](https://www.worldcubeassociation.org/persons/2019LUOJ03)|China|11.99|11.31|  
+|11|[Nikita Chistyakov](https://www.worldcubeassociation.org/persons/2014CHIS01)|Belarus|11.91|11.29|  
+|12|[Đào Duy Anh](https://www.worldcubeassociation.org/persons/2018ANHD02)|Vietnam|11.82|11.24|  
+|13|[Wan Adam Iskandar Bin Wan Abdul Aziz](https://www.worldcubeassociation.org/persons/2018AZIZ03)|Malaysia|11.86|11.24|  
+|14|[Yajie Chen (陈亚杰)](https://www.worldcubeassociation.org/persons/2018CHEN73)|China|11.60|11.23|  
+|15|[Rasyadan Muhammad](https://www.worldcubeassociation.org/persons/2010MUHA01)|Indonesia|11.98|11.22|  
+|16|[Qilin Huang (黄麒麟)](https://www.worldcubeassociation.org/persons/2018HUAN42)|China|11.80|11.21|  
+|17|[Stepan Anisimov (Степан Анисимов)](https://www.worldcubeassociation.org/persons/2018ANIS08)|Russia|11.84|11.21|  
 |18|[Yucheng Huang (黄钰诚)](https://www.worldcubeassociation.org/persons/2017HUAN13)|China|11.99|11.19|  
 |19|[Gordon Choo](https://www.worldcubeassociation.org/persons/2017CHOO01)|Australia|11.91|11.17|  
 |20|[Jon Meilstrup](https://www.worldcubeassociation.org/persons/2015MEIL01)|USA|11.80|11.16|  
@@ -83,10 +83,10 @@
 |73|[Guangtao Zhang (张广韬)](https://www.worldcubeassociation.org/persons/2017ZHAG01)|China|11.93|10.85|  
 |74|[Albert Phan](https://www.worldcubeassociation.org/persons/2017PHAN09)|USA|11.86|10.84|  
 |75|[Yichen Ma (马奕宸)](https://www.worldcubeassociation.org/persons/2016MAYI03)|China|11.46|10.84|  
-|76|[Yuri Olivan Barbosa de Oliveira](https://www.worldcubeassociation.org/persons/2019OLIV03)|Brazil|11.64|10.84|  
-|77|[Cristian Camilo Saray Culma](https://www.worldcubeassociation.org/persons/2019CULM01)|Colombia|11.82|10.83|  
-|78|[Aatu Tuomisto](https://www.worldcubeassociation.org/persons/2013TUOM01)|Finland|11.61|10.82|  
-|79|[Jenny Pang Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|11.37|10.82|  
+|76|[Cristian Camilo Saray Culma](https://www.worldcubeassociation.org/persons/2019CULM01)|Colombia|11.82|10.83|  
+|77|[Aatu Tuomisto](https://www.worldcubeassociation.org/persons/2013TUOM01)|Finland|11.61|10.82|  
+|78|[Jenny Pang Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|11.37|10.82|  
+|79|[Slavomil Voloskov (Славомил Волосков)](https://www.worldcubeassociation.org/persons/2018VOLO05)|Russia|11.85|10.82|  
 |80|[Uuganbayar Bayalagnasan](https://www.worldcubeassociation.org/persons/2017BAYA02)|Mongolia|11.71|10.82|  
 |81|[Kim Jun Hwi](https://www.worldcubeassociation.org/persons/2015HWIK01)|Korea|11.85|10.81|  
 |82|[Myeongguk Choi (최명국)](https://www.worldcubeassociation.org/persons/2018CHOI19)|Korea|11.82|10.81|  

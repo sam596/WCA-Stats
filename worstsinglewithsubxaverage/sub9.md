@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -44,17 +44,17 @@
 |34|[Ye Xu (许烨)](https://www.worldcubeassociation.org/persons/2015XUYE01)|China|8.91|7.77|  
 |35|[Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37)|USA|8.92|7.76|  
 |36|[Max Wang](https://www.worldcubeassociation.org/persons/2014WANG17)|Canada|8.99|7.76|  
-|37|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|8.85|7.74|  
-|38|[Chenhao Ma (马晨皓)](https://www.worldcubeassociation.org/persons/2017MACH03)|China|8.60|7.73|  
-|39|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|8.88|7.73|  
-|40|[Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03)|Portugal|8.87|7.71|  
-|41|[Arisandra Soo](https://www.worldcubeassociation.org/persons/2018SOOA01)|Australia|8.83|7.71|  
-|42|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|8.86|7.70|  
+|37|[Chenhao Ma (马晨皓)](https://www.worldcubeassociation.org/persons/2017MACH03)|China|8.60|7.73|  
+|38|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|8.88|7.73|  
+|39|[Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03)|Portugal|8.87|7.71|  
+|40|[Arisandra Soo](https://www.worldcubeassociation.org/persons/2018SOOA01)|Australia|8.83|7.71|  
+|41|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|8.86|7.70|  
 |=|[Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01)|Poland|8.86|7.70|  
-|44|[Lorenzo Layug](https://www.worldcubeassociation.org/persons/2016LAYU01)|Philippines|8.83|7.70|  
-|45|[Muhammad Razin Bin Roslan](https://www.worldcubeassociation.org/persons/2015ROSL01)|Malaysia|8.34|7.69|  
-|46|[Tudor Lin](https://www.worldcubeassociation.org/persons/2018LINT05)|USA|8.59|7.67|  
-|47|[Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19)|China|8.84|7.66|  
+|43|[Lorenzo Layug](https://www.worldcubeassociation.org/persons/2016LAYU01)|Philippines|8.83|7.70|  
+|44|[Muhammad Razin Bin Roslan](https://www.worldcubeassociation.org/persons/2015ROSL01)|Malaysia|8.34|7.69|  
+|45|[Tudor Lin](https://www.worldcubeassociation.org/persons/2018LINT05)|USA|8.59|7.67|  
+|46|[Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19)|China|8.84|7.66|  
+|47|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|8.85|7.65|  
 |48|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|8.75|7.64|  
 |49|[Maverick Sua](https://www.worldcubeassociation.org/persons/2016SUAM01)|Philippines|8.91|7.63|  
 |50|[Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04)|USA|8.96|7.62|  

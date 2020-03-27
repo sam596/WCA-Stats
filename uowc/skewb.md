@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -33,4 +33,4 @@
 |[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|USA|2020-01-19|[NorthStarCubingChallenge2020 - Second round](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/all#eskewb_2)|[NorthStarCubingChallenge2020 - Final](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/all#eskewb_f)|0|  
 |[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|2020-01-19|[NorthStarCubingChallenge2020 - Final](https://www.worldcubeassociation.org/competitions/NorthStarCubingChallenge2020/results/all#eskewb_f)|[MinnesotaCubeDays2020 - First round](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020/results/all#eskewb_1)|49|  
 |[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|USA|2020-03-08|[MinnesotaCubeDays2020 - First round](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020/results/all#eskewb_1)|[MinnesotaCubeDays2020 - Final](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020/results/all#eskewb_f)|0|  
-|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|2020-03-08|[MinnesotaCubeDays2020 - Final](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020/results/all#eskewb_f)|Ongoing|10|  
+|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|2020-03-08|[MinnesotaCubeDays2020 - Final](https://www.worldcubeassociation.org/competitions/MinnesotaCubeDays2020/results/all#eskewb_f)|Ongoing|19|  

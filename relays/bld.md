@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -16,9 +16,9 @@
 |6|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|**6:10.59**|26.14|1:52.13|3:52.32|  
 |7|[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Russia|**6:18.73**|31.08|1:50.27|3:57.38|  
 |8|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|**6:26.33**|21.96|1:56.49|4:07.88|  
-|9|[Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01)|Argentina|**6:56.25**|18.44|1:48.16|4:49.65|  
-|10|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:17.23**|24.34|1:55.27|4:57.62|  
-|11|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|**7:26.85**|17.04|1:50.98|5:18.83|  
+|9|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|**6:52.49**|16.92|1:50.98|4:44.59|  
+|10|[Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01)|Argentina|**6:56.25**|18.44|1:48.16|4:49.65|  
+|11|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|**7:17.23**|24.34|1:55.27|4:57.62|  
 |12|[Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10)|Malaysia|**7:33.30**|29.54|2:24.41|4:39.35|  
 |13|[Timothy Goh](https://www.worldcubeassociation.org/persons/2016GOHT01)|USA|**7:45.71**|25.06|2:19.43|5:01.22|  
 |14|[Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01)|Poland|**7:51.55**|21.45|2:17.20|5:12.90|  
@@ -131,8 +131,8 @@
 |121|[Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01)|Netherlands|**17:01.66**|22.94|4:56.72|11:42.00|  
 |122|[Hiroto Fujita (藤田浩斗)](https://www.worldcubeassociation.org/persons/2012FUJI01)|Japan|**17:02.71**|34.35|4:57.36|11:31.00|  
 |123|[Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02)|Poland|**17:02.99**|23.80|3:19.19|13:20.00|  
-|124|[Weina Bao (鲍伟娜)](https://www.worldcubeassociation.org/persons/2015BAOW01)|China|**17:08.55**|38.55|4:23.00|12:07.00|  
-|125|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|**17:17.33**|30.77|4:32.56|12:14.00|  
+|124|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|**17:07.29**|30.77|4:22.52|12:14.00|  
+|125|[Weina Bao (鲍伟娜)](https://www.worldcubeassociation.org/persons/2015BAOW01)|China|**17:08.55**|38.55|4:23.00|12:07.00|  
 |126|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|**17:20.91**|44.55|3:51.36|12:45.00|  
 |127|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|**17:33.75**|25.32|4:08.43|13:00.00|  
 |128|[Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01)|Austria|**17:37.84**|43.81|4:50.03|12:04.00|  

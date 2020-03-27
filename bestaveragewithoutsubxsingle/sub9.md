@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -203,6 +203,7 @@
 |=|[Gil Kochbeck](https://www.worldcubeassociation.org/persons/2017KOCH07)|Germany|9.44|10.55|  
 |194|[András Nagy](https://www.worldcubeassociation.org/persons/2013NAGY01)|Hungary|9.00|10.56|  
 |=|[Andrii Chernichko (Андрій Черничко)](https://www.worldcubeassociation.org/persons/2011CHER02)|Ukraine|9.02|10.56|  
+|=|[Jesús Jorge García López](https://www.worldcubeassociation.org/persons/2018LOPE09)|Mexico|9.08|10.56|  
 |=|[Ahmad Fauzi Wibowo](https://www.worldcubeassociation.org/persons/2010WIBO01)|Indonesia|9.15|10.56|  
 |=|[Bing-Ke Chen (陳秉科)](https://www.worldcubeassociation.org/persons/2013CHEN59)|Taiwan|9.23|10.56|  
 |=|[Flavian Glonț](https://www.worldcubeassociation.org/persons/2012GLON01)|Romania|9.28|10.56|  
@@ -210,7 +211,7 @@
 |=|[Forte Shinko](https://www.worldcubeassociation.org/persons/2009SHIN02)|Canada|9.63|10.56|  
 |=|[Lance Aaron M. Parada](https://www.worldcubeassociation.org/persons/2017PARA09)|Philippines|9.66|10.56|  
 |=|[Dmitry Lavrov](https://www.worldcubeassociation.org/persons/2013LAVR03)|Russia|9.88|10.56|  
-|203|[Denniel M. Santos](https://www.worldcubeassociation.org/persons/2018SANT46)|Philippines|9.06|10.57|  
+|204|[Denniel M. Santos](https://www.worldcubeassociation.org/persons/2018SANT46)|Philippines|9.06|10.57|  
 |=|[Ryan Harris](https://www.worldcubeassociation.org/persons/2013HARR01)|USA|9.06|10.57|  
 |=|[Jesús Julián De Niz Hernandez](https://www.worldcubeassociation.org/persons/2014HERN12)|Mexico|9.07|10.57|  
 |=|[Davron Takhirov](https://www.worldcubeassociation.org/persons/2018TAKH01)|Uzbekistan|9.18|10.57|  
@@ -219,17 +220,17 @@
 |=|[Jukka Geisler](https://www.worldcubeassociation.org/persons/2017GEIS03)|Germany|9.31|10.57|  
 |=|[Kevin Tendean](https://www.worldcubeassociation.org/persons/2016TEND02)|Indonesia|9.31|10.57|  
 |=|[Ethan Amiot](https://www.worldcubeassociation.org/persons/2015AMIO01)|USA|9.60|10.57|  
-|212|[Pavel Eroshkin (Павел Ерошкин)](https://www.worldcubeassociation.org/persons/2018EROS02)|Russia|9.04|10.58|  
+|213|[Pavel Eroshkin (Павел Ерошкин)](https://www.worldcubeassociation.org/persons/2018EROS02)|Russia|9.04|10.58|  
 |=|[Bernardo Zakur Corrêa Santos](https://www.worldcubeassociation.org/persons/2014SANT31)|Brazil|9.48|10.58|  
 |=|[Andrey Panov (Андрей Панов)](https://www.worldcubeassociation.org/persons/2018PANO01)|Russia|9.61|10.58|  
 |=|[Artem Kolmykov](https://www.worldcubeassociation.org/persons/2017KOLM01)|Russia|9.75|10.58|  
-|216|[Masato Kobayashi (小林正人)](https://www.worldcubeassociation.org/persons/2012KOBA01)|Japan|9.15|10.59|  
+|217|[Masato Kobayashi (小林正人)](https://www.worldcubeassociation.org/persons/2012KOBA01)|Japan|9.15|10.59|  
 |=|[Zhen-Chian Hong (洪蓁乾)](https://www.worldcubeassociation.org/persons/2009HONG01)|Taiwan|9.33|10.59|  
 |=|[Jonathan Lööv](https://www.worldcubeassociation.org/persons/2015LOOV01)|Sweden|9.44|10.59|  
 |=|[Edric Sachio](https://www.worldcubeassociation.org/persons/2019SACH01)|Indonesia|9.57|10.59|  
 |=|[Farid Brazales Flores](https://www.worldcubeassociation.org/persons/2018FLOR01)|Ecuador|9.59|10.59|  
 |=|[Hayden Dempsey](https://www.worldcubeassociation.org/persons/2015DEMP01)|USA|9.61|10.59|  
-|222|[Hao Lin (林皓)](https://www.worldcubeassociation.org/persons/2015LINH01)|China|9.04|10.60|  
+|223|[Hao Lin (林皓)](https://www.worldcubeassociation.org/persons/2015LINH01)|China|9.04|10.60|  
 |=|[Kishore Kumar](https://www.worldcubeassociation.org/persons/2016KUMA23)|India|9.06|10.60|  
 |=|[Jithin Prakash](https://www.worldcubeassociation.org/persons/2013KARI01)|India|9.07|10.60|  
 |=|[Yicheng Zhou (周奕丞)](https://www.worldcubeassociation.org/persons/2017ZHOU28)|China|9.10|10.60|  
@@ -241,14 +242,14 @@
 |=|[Deyan Sarac](https://www.worldcubeassociation.org/persons/2017SARA02)|Australia|9.39|10.60|  
 |=|[Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01)|Poland|9.39|10.60|  
 |=|[Will Richardson](https://www.worldcubeassociation.org/persons/2018RICH01)|USA|9.65|10.60|  
-|234|[Noah Blevins](https://www.worldcubeassociation.org/persons/2017BLEV01)|USA|9.08|10.61|  
+|235|[Noah Blevins](https://www.worldcubeassociation.org/persons/2017BLEV01)|USA|9.08|10.61|  
 |=|[Victor Rafael Ortiz Villaseñor](https://www.worldcubeassociation.org/persons/2013VILL01)|Mexico|9.10|10.61|  
 |=|[Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03)|Vietnam|9.21|10.61|  
 |=|[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|9.31|10.61|  
 |=|[Kam Chor Kin (甘楚健)](https://www.worldcubeassociation.org/persons/2008GANC02)|China|9.46|10.61|  
 |=|[Muhammad Hakimi Bin Mohd Azhar](https://www.worldcubeassociation.org/persons/2017AZHA02)|Malaysia|9.63|10.61|  
 |=|[Nate Strout](https://www.worldcubeassociation.org/persons/2018STRO12)|USA|9.75|10.61|  
-|241|[Yinzhen Huang (黄尹真)](https://www.worldcubeassociation.org/persons/2014HUAN03)|China|9.01|10.62|  
+|242|[Yinzhen Huang (黄尹真)](https://www.worldcubeassociation.org/persons/2014HUAN03)|China|9.01|10.62|  
 |=|[Michael Kevin Astudillo Muñoz](https://www.worldcubeassociation.org/persons/2017MUNO05)|Ecuador|9.11|10.62|  
 |=|[Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01)|Mexico|9.18|10.62|  
 |=|[Filip Chodziutko](https://www.worldcubeassociation.org/persons/2014CHOD01)|Poland|9.45|10.62|  
@@ -256,5 +257,4 @@
 |=|[Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2017TUNG04)|Vietnam|9.48|10.62|  
 |=|[Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01)|Vietnam|9.61|10.62|  
 |=|[Eli Westrick](https://www.worldcubeassociation.org/persons/2015WEST01)|USA|9.65|10.62|  
-|249|[Pawarisorn Boonyubol (ปวริศร บุญยุบล)](https://www.worldcubeassociation.org/persons/2009BOON02)|Thailand|9.09|10.63|  
-|=|[Pablo Andres Amavet](https://www.worldcubeassociation.org/persons/2016AMAV01)|Argentina|9.13|10.63|  
+|250|[Pawarisorn Boonyubol (ปวริศร บุญยุบล)](https://www.worldcubeassociation.org/persons/2009BOON02)|Thailand|9.09|10.63|  

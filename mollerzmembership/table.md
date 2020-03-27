@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -32,6 +32,7 @@
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
+|[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|Y|Y|Y|Y|Y|N (8/17)|  
 |[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Y|Y|Y|Y|N|Y|  
 |[Roman Strakhov](https://www.worldcubeassociation.org/persons/2012STRA02)|Y|Y|Y|Y|Y|N (4/17)|  
 |[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|Y|Y|Y|Y|Y|N (5/17)|  
@@ -49,7 +50,6 @@
 |[Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01)|Y|Y|Y|Y|N|N (6/17)|  
 |[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|Y|Y|Y|N|Y|N (8/17)|  
 |[Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20)|Y|Y|Y|N|Y|N (4/17)|  
-|[Chris Hardwick](https://www.worldcubeassociation.org/persons/2003HARD01)|Y|Y|N (3/4)|Y|Y|N (8/17)|  
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|Y|Y|N (3/4)|Y|Y|N (5/17)|  
 |[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|Y|Y|N (3/4)|Y|Y|N (16/17)|  
 |[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|Y|Y|N (3/4)|Y|Y|N (10/17)|  
@@ -121,7 +121,7 @@
 |[Baiqiang Dong (董百强)](https://www.worldcubeassociation.org/persons/2008DONG06)|Y|Y|N (2/4)|N|Y|N (7/17)|  
 |[Tomoaki Okayama (岡山友昭)](https://www.worldcubeassociation.org/persons/2009OKAY01)|Y|Y|N (2/4)|N|Y|N (5/17)|  
 |[John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01)|Y|Y|N (2/4)|N|Y|N (16/17)|  
-|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|Y|Y|N (2/4)|N|Y|N (13/17)|  
+|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|Y|Y|N (2/4)|N|Y|N (14/17)|  
 |[Anthony Hsu](https://www.worldcubeassociation.org/persons/2005HSUA01)|Y|Y|N (2/4)|N|Y|N (6/17)|  
 |[Jibo Zhao (赵吉波)](https://www.worldcubeassociation.org/persons/2010ZHAO11)|Y|Y|N (2/4)|N|Y|N (6/17)|  
 |[Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01)|Y|Y|N (2/4)|N|Y|N (5/17)|  
@@ -485,6 +485,7 @@
 |[Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01)|N (16/17)|Y|N (1/4)|N|N|N (6/17)|  
 |[DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05)|N (16/17)|Y|N (1/4)|N|N|N (6/17)|  
 |[Cyril Barigand](https://www.worldcubeassociation.org/persons/2012BARI01)|N (16/17)|Y|N (1/4)|N|N|N (5/17)|  
+|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (16/17)|Y|N (1/4)|N|N|N (5/17)|  
 |[Jens Diewald](https://www.worldcubeassociation.org/persons/2008DIEW01)|N (16/17)|Y|N (1/4)|N|N|N (4/17)|  
 |[Moritz Karl](https://www.worldcubeassociation.org/persons/2008KARL02)|N (16/17)|Y|N (1/4)|N|N|N (4/17)|  
 |[Vinit Nalhe](https://www.worldcubeassociation.org/persons/2012NALH01)|N (16/17)|Y|N (1/4)|N|N|N (4/17)|  
@@ -514,7 +515,6 @@
 |[Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03)|N (16/17)|Y|N (1/4)|N|N|N (0/17)|  
 |[Angel Torres Perez](https://www.worldcubeassociation.org/persons/2017PERE26)|N (16/17)|Y|N (1/4)|N|N|N (0/17)|  
 |[Yuto Date (伊達優人)](https://www.worldcubeassociation.org/persons/2018DATE01)|N (16/17)|Y|N (1/4)|N|N|N (0/17)|  
-|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|N (16/17)|Y|N (0/4)|N|N|N (5/17)|  
 |[Nick Camillone](https://www.worldcubeassociation.org/persons/2012CAMI01)|N (16/17)|Y|N (0/4)|N|N|N (0/17)|  
 |[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|N (16/17)|Y|N (0/4)|N|N|N (0/17)|  
 |[Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05)|N (16/17)|Y|N (0/4)|N|N|N (0/17)|  

@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -36,4 +36,4 @@
 |[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|2019-02-17|[ManchesterOpen2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#eskewb_d)|[ManchesterOpen2019 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#eskewb_f)|0|  
 |[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2019-02-17|[ManchesterOpen2019 - Final](https://www.worldcubeassociation.org/competitions/ManchesterOpen2019/results/all#eskewb_f)|[UKChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#eskewb_f)|252|  
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|2019-10-27|[UKChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#eskewb_f)|[WestonsuperMareOpen2019 - Combined Final](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/all#eskewb_c)|28|  
-|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2019-11-24|[WestonsuperMareOpen2019 - Combined Final](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/all#eskewb_c)|Ongoing|115|  
+|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|2019-11-24|[WestonsuperMareOpen2019 - Combined Final](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2019/results/all#eskewb_c)|Ongoing|124|  

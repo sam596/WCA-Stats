@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Wed Mar 18 at 0811UTC*
+*Last updated using WCA Developer Export from Fri Mar 27 at 1112UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -162,7 +162,7 @@
 |=|[Carlos Moreno](https://www.worldcubeassociation.org/persons/2013MORE09)|Peru|7.35|8.85|  
 |=|[Nick Stanton](https://www.worldcubeassociation.org/persons/2011STAN02)|USA|7.40|8.85|  
 |=|[Neil Johnson](https://www.worldcubeassociation.org/persons/2014JOHN05)|USA|7.55|8.85|  
-|=|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|7.74|8.85|  
+|=|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|7.65|8.85|  
 |=|[John David L. Olesco](https://www.worldcubeassociation.org/persons/2017OLES01)|Philippines|8.12|8.85|  
 |157|[Nikita Starodubov](https://www.worldcubeassociation.org/persons/2017STAR07)|Belarus|7.00|8.86|  
 |=|[Xingyu Chen (陈星宇)](https://www.worldcubeassociation.org/persons/2012CHEN54)|China|7.11|8.86|  
