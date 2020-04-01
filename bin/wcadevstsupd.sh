@@ -152,14 +152,14 @@ then
 ## log that wca_stats has finished updating
   mysql -u sam -p"$mysqlpw" wca_stats -e "UPDATE last_updated SET completed = NOW(), notes = 'Change noticed; developer database imported, wca_stats updated --- (${ldu1} vs ${ldu2})' WHERE query = 'wcadevstsupd.sh'" 
 ## run ghpages stats
+  starttimer=$(date +%s) && \
   ~/WCA-Stats/bin/ghpagesupd.sh
 ## discord commit ghpages
-  starttimer=$(date +%s) && \
   cd ~/pages/WCA-Stats/ && \
-  commit=$(git log --format="%H" -n 1) && \
+  commit=$(git log -1 --pretty=format:"%H") && \ 
   endtimer=$(date +%s) && \
   timer=$(($endtimer - $starttimer)) && \
-  ~/.mysqlpw/discord-notify.sh "http://sam596.github.io Updated with latest stats.\n($(displaytime $timer))\nView the changes here: https://github.com/sam596/WCA-Stats/commit/'"$commit"'.\n\nThat concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink: Server is now restarting"
+  ~/.mysqlpw/discord-notify.sh "http://sam596.github.io Updated with latest stats.\n($(displaytime $timer))\nView the changes here: https://github.com/sam596/WCA-Stats/commit/"$commit".\n\nThat concludes the tri-daily spam of messages thanks to the WCA updating their developer database! :smiley: See you in three days :wink: Server is now restarting"
 ## reboot the server
   sudo reboot
  else
