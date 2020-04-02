@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Mon Mar 30 at 1212UTC*
+*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -175,8 +175,8 @@
 |164|[Andrew Moy](https://www.worldcubeassociation.org/persons/2019MOYA02)|USA|9.28|  
 |=|[Lukas Lange](https://www.worldcubeassociation.org/persons/2013LANG02)|Germany|9.28|  
 |=|[Eric Chen](https://www.worldcubeassociation.org/persons/2014CHEN50)|USA|9.28|  
-|=|[Kai Su (苏锴)](https://www.worldcubeassociation.org/persons/2013SUKA01)|China|9.28|  
 |=|[Martin Köhler](https://www.worldcubeassociation.org/persons/2014KOHL02)|Germany|9.28|  
+|=|[Kai Su (苏锴)](https://www.worldcubeassociation.org/persons/2013SUKA01)|China|9.28|  
 |=|[Mathias Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN02)|Denmark|9.28|  
 |=|[Thomas Thanhtran](https://www.worldcubeassociation.org/persons/2016THAN01)|USA|9.28|  
 |=|[Erick Tian](https://www.worldcubeassociation.org/persons/2016TIAN01)|Canada|9.28|  
@@ -218,24 +218,24 @@
 |=|[Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04)|China|9.32|  
 |=|[Artem Ganzha](https://www.worldcubeassociation.org/persons/2014GANZ02)|Russia|9.32|  
 |209|[Biyuan Chen](https://www.worldcubeassociation.org/persons/2016CHEN85)|New Zealand|9.33|  
-|=|[Taine Cassar](https://www.worldcubeassociation.org/persons/2018CASS01)|Australia|9.33|  
 |=|[Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|9.33|  
+|=|[Taine Cassar](https://www.worldcubeassociation.org/persons/2018CASS01)|Australia|9.33|  
 |=|[Wei Wang (王炜)](https://www.worldcubeassociation.org/persons/2015WANG88)|China|9.33|  
 |=|[Jun-Hao Hu (胡峻豪)](https://www.worldcubeassociation.org/persons/2017HUJU01)|Taiwan|9.33|  
 |=|[Mohamed Elkhatri](https://www.worldcubeassociation.org/persons/2017ELKH01)|Morocco|9.33|  
 |=|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|9.33|  
 |=|[Justin He](https://www.worldcubeassociation.org/persons/2015HEJU02)|Australia|9.33|  
-|217|[Léo Bailly](https://www.worldcubeassociation.org/persons/2015BAIL04)|France|9.34|  
-|=|[Bryan Villanueva](https://www.worldcubeassociation.org/persons/2016VILL08)|Philippines|9.34|  
+|217|[Bryan Villanueva](https://www.worldcubeassociation.org/persons/2016VILL08)|Philippines|9.34|  
 |=|[Adrian Jorghy](https://www.worldcubeassociation.org/persons/2010JORG01)|Indonesia|9.34|  
+|=|[Léo Bailly](https://www.worldcubeassociation.org/persons/2015BAIL04)|France|9.34|  
 |=|[Gabriel Machado Nunes](https://www.worldcubeassociation.org/persons/2018NUNE02)|Brazil|9.34|  
 |=|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|9.34|  
 |=|[Ryo Ito (伊藤崚)](https://www.worldcubeassociation.org/persons/2012ITOR01)|Japan|9.34|  
 |=|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|9.34|  
 |=|[Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01)|Japan|9.34|  
 |=|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|9.34|  
-|=|[Ansh Iyer](https://www.worldcubeassociation.org/persons/2015IYER03)|India|9.34|  
 |=|[Tudor Lin](https://www.worldcubeassociation.org/persons/2018LINT05)|USA|9.34|  
+|=|[Ansh Iyer](https://www.worldcubeassociation.org/persons/2015IYER03)|India|9.34|  
 |=|[Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|9.34|  
 |=|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|9.34|  
 |230|[Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01)|Chile|9.35|  
@@ -256,6 +256,6 @@
 |=|[Jiahe Tang (唐嘉禾)](https://www.worldcubeassociation.org/persons/2017TANG20)|China|9.36|  
 |=|[Tanish Saxena](https://www.worldcubeassociation.org/persons/2015SAXE01)|India|9.36|  
 |=|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|9.36|  
-|=|[Oleksii Padalko (Олексій Падалко)](https://www.worldcubeassociation.org/persons/2012PADA01)|Ukraine|9.36|  
 |=|[Nikita Starodubov](https://www.worldcubeassociation.org/persons/2017STAR07)|Belarus|9.36|  
+|=|[Oleksii Padalko (Олексій Падалко)](https://www.worldcubeassociation.org/persons/2012PADA01)|Ukraine|9.36|  
 |=|[Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07)|Vietnam|9.36|  

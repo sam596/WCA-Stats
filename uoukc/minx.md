@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Mon Mar 30 at 1212UTC*
+*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -31,4 +31,4 @@
 |[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-07-22|[Euro2018 - First round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_1)|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_2)|0|  
 |[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|2018-07-22|[Euro2018 - Second round](https://www.worldcubeassociation.org/competitions/Euro2018/results/all#eminx_2)|[SUAO2018 - Combined Final](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eminx_c)|63|  
 |[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|2018-09-23|[SUAO2018 - Combined Final](https://www.worldcubeassociation.org/competitions/SUAO2018/results/all#eminx_c)|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eminx_f)|35|  
-|[Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24)|United Kingdom|2018-10-28|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eminx_f)|Ongoing|521|  
+|[Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24)|United Kingdom|2018-10-28|[UKC2018 - Final](https://www.worldcubeassociation.org/competitions/UKC2018/results/all#eminx_f)|Ongoing|522|  

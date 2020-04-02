@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Mon Mar 30 at 1212UTC*
+*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -124,8 +124,8 @@
 |113|[Nathaniel Ortega](https://www.worldcubeassociation.org/persons/2015ORTE02)|Philippines|7.81|  
 |=|[Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01)|USA|7.81|  
 |115|[Waden Cho](https://www.worldcubeassociation.org/persons/2016CHOW04)|USA|7.82|  
-|=|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|7.82|  
 |=|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|7.82|  
+|=|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|7.82|  
 |=|[Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01)|USA|7.82|  
 |=|[Dawei Xu (徐大卫)](https://www.worldcubeassociation.org/persons/2014XUDA01)|China|7.82|  
 |=|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|7.82|  
@@ -211,11 +211,11 @@
 |=|[Ben Kirby](https://www.worldcubeassociation.org/persons/2017KIRB01)|New Zealand|7.93|  
 |=|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|7.93|  
 |=|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|7.93|  
-|=|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|7.93|  
 |=|[Stanley Wang](https://www.worldcubeassociation.org/persons/2017WANS05)|Canada|7.93|  
+|=|[Ernesto Gutiérrez Cuba](https://www.worldcubeassociation.org/persons/2011CUBA02)|Peru|7.93|  
 |=|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|7.93|  
-|=|[Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01)|Canada|7.93|  
 |=|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|7.93|  
+|=|[Brennen Lin](https://www.worldcubeassociation.org/persons/2016LINB01)|Canada|7.93|  
 |208|[Kennan LeJeune](https://www.worldcubeassociation.org/persons/2013LEJE03)|USA|7.94|  
 |=|[Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01)|Poland|7.94|  
 |=|[Iuri Grangeiro Carvalho](https://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|7.94|  
@@ -223,8 +223,8 @@
 |=|[Heidi Chan](https://www.worldcubeassociation.org/persons/2018CHAN50)|USA|7.94|  
 |=|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|7.94|  
 |=|[Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03)|Poland|7.94|  
-|=|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|7.94|  
 |=|[Massimiliano Iovane](https://www.worldcubeassociation.org/persons/2009IOVA01)|Italy|7.94|  
+|=|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|7.94|  
 |=|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|7.94|  
 |=|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|7.94|  
 |=|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|7.94|  
