@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -85,7 +85,7 @@
 |75|[Yichen Ma (马奕宸)](https://www.worldcubeassociation.org/persons/2016MAYI03)|China|11.46|10.84|  
 |76|[Cristian Camilo Saray Culma](https://www.worldcubeassociation.org/persons/2019CULM01)|Colombia|11.82|10.83|  
 |77|[Aatu Tuomisto](https://www.worldcubeassociation.org/persons/2013TUOM01)|Finland|11.61|10.82|  
-|78|[Jenny Pang Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|11.37|10.82|  
+|78|[Jenny Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|11.37|10.82|  
 |79|[Slavomil Voloskov (Славомил Волосков)](https://www.worldcubeassociation.org/persons/2018VOLO05)|Russia|11.85|10.82|  
 |80|[Uuganbayar Bayalagnasan](https://www.worldcubeassociation.org/persons/2017BAYA02)|Mongolia|11.71|10.82|  
 |81|[Kim Jun Hwi](https://www.worldcubeassociation.org/persons/2015HWIK01)|Korea|11.85|10.81|  

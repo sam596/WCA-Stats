@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -871,7 +871,7 @@
 |861|[Torstein Kristoffer Lindheim](https://www.worldcubeassociation.org/persons/2017LIND17)|Norway|88309|4473|  
 |862|[Tiancheng Yang (杨天成)](https://www.worldcubeassociation.org/persons/2017YANG86)|China|88354|4475|  
 |863|[Chuansheng Lu (卢传盛)](https://www.worldcubeassociation.org/persons/2017LUCH06)|China|88404|4480|  
-|864|[Philip Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|88452|4481|  
+|864|[Carmen Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|88452|4481|  
 |865|[Jack Engledow](https://www.worldcubeassociation.org/persons/2013ENGL01)|USA|88479|4483|  
 |866|[Marcus Ryan](https://www.worldcubeassociation.org/persons/2017RYAN04)|Australia|88520|4486|  
 |867|[Ryan Edwards](https://www.worldcubeassociation.org/persons/2015EDWA05)|USA|88521|4487|  

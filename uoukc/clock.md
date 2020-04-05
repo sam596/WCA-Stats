@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -55,4 +55,4 @@
 |[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|2020-02-09|[FontwellOpen2020 - Final](https://www.worldcubeassociation.org/competitions/FontwellOpen2020/results/all#eclock_f)|[DoncasterOpen2020 - Combined First round](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_d)|14|  
 |[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Combined First round](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_d)|[DoncasterOpen2020 - Second round](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_2)|0|  
 |[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Second round](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_2)|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_f)|0|  
-|[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_f)|Ongoing|39|  
+|[Sam Shaw](https://www.worldcubeassociation.org/persons/2016SHAW02)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#eclock_f)|Ongoing|42|  

@@ -1,6 +1,6 @@
 ## Fastest 3x3 Average without a Sub-X Single
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -149,7 +149,7 @@
 |=|[Seth Nigus](https://www.worldcubeassociation.org/persons/2012NIGU01)|USA|10.40|11.37|  
 |=|[Andrii Vedenov (Андрій Веденьов)](https://www.worldcubeassociation.org/persons/2013VEDE01)|Ukraine|10.43|11.37|  
 |=|[Hà Ngọc Hải](https://www.worldcubeassociation.org/persons/2018HAIH01)|Vietnam|10.53|11.37|  
-|=|[Jenny Pang Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|10.82|11.37|  
+|=|[Jenny Banh](https://www.worldcubeassociation.org/persons/2016BANH01)|United Kingdom|10.82|11.37|  
 |=|[Michael Maaseide](https://www.worldcubeassociation.org/persons/2018MAAS01)|USA|10.92|11.37|  
 |144|[Alberto Romero](https://www.worldcubeassociation.org/persons/2015ROME03)|Spain|10.34|11.38|  
 |=|[Liang Chen (陈亮)](https://www.worldcubeassociation.org/persons/2012CHEN43)|China|10.43|11.38|  

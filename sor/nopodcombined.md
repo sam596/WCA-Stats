@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -994,7 +994,7 @@
 |984|[Kalman Levitin](https://www.worldcubeassociation.org/persons/2019LEVI01)|USA|205492|4873|  
 |985|[Effendi Alois Emmanuel Castorena Sosa](https://www.worldcubeassociation.org/persons/2017SOSA01)|Mexico|205507|4874|  
 |986|[Tim Consemulder](https://www.worldcubeassociation.org/persons/2018CONS01)|Netherlands|205763|4881|  
-|987|[Philip Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|205812|4884|  
+|987|[Carmen Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|205812|4884|  
 |988|[Ewan Coulter](https://www.worldcubeassociation.org/persons/2017COUL01)|Australia|206074|4891|  
 |989|[Rohan Jawale](https://www.worldcubeassociation.org/persons/2016JAWA01)|USA|206161|4892|  
 |990|[Lucas Neufeld](https://www.worldcubeassociation.org/persons/2017NEUF01)|Canada|206274|4897|  

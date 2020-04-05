@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -192,9 +192,9 @@
 |182|[Shenchuan Mao (毛神川)](https://www.worldcubeassociation.org/persons/2011MAOS01)|China|9.91|8.38|  
 |183|[Yuanhao Wu (吴元皓)](https://www.worldcubeassociation.org/persons/2017WUYU08)|China|9.59|8.38|  
 |184|[Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01)|Brazil|9.79|8.37|  
-|185|[Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02)|Germany|9.92|8.37|  
-|186|[Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01)|Japan|9.73|8.37|  
-|187|[Philip Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|9.84|8.37|  
+|185|[Carmen Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|9.84|8.37|  
+|186|[Jens Haber](https://www.worldcubeassociation.org/persons/2018HABE02)|Germany|9.92|8.37|  
+|187|[Noriyuki Okada (岡田典之)](https://www.worldcubeassociation.org/persons/2014OKAD01)|Japan|9.73|8.37|  
 |188|[Sergio Andres Guillen Ibarra](https://www.worldcubeassociation.org/persons/2014IBAR01)|Colombia|9.26|8.37|  
 |189|[Zhiheng Song (宋之恒)](https://www.worldcubeassociation.org/persons/2019SONG03)|China|9.71|8.37|  
 |190|[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|9.88|8.36|  

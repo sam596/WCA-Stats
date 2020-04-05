@@ -1,6 +1,6 @@
 ## KinchRanks 
 
-*Last updated using WCA Developer Export from Thu Apr 02 at 1312UTC*
+*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -706,7 +706,7 @@
 |=|[Dev Agarwal](https://www.worldcubeassociation.org/persons/2019AGAR03)|India|18.85|4676|  
 |697|[Eric Chen](https://www.worldcubeassociation.org/persons/2014CHEN50)|USA|18.84|4682|  
 |698|[Raymundo Alejandro Garza Cruz](https://www.worldcubeassociation.org/persons/2017CRUZ18)|Mexico|18.83|4684|  
-|=|[Philip Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|18.83|4684|  
+|=|[Carmen Parker](https://www.worldcubeassociation.org/persons/2017PARK21)|USA|18.83|4684|  
 |=|[Prayansh Vimal](https://www.worldcubeassociation.org/persons/2019VIMA01)|India|18.83|4684|  
 |701|[Ting-Guang Chang (張廷光)](https://www.worldcubeassociation.org/persons/2010CHAN19)|Taiwan|18.82|4689|  
 |=|[Daniele Vanoli Hernández](https://www.worldcubeassociation.org/persons/2016HERN05)|Spain|18.82|4689|  
