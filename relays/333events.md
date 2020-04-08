@@ -1,6 +1,6 @@
 ## WCA Relays - 333events
 
-*Last updated using WCA Developer Export from Sun Apr 05 at 1411UTC*
+*Last updated using WCA Developer Export from Wed Apr 08 at 1512UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -960,19 +960,19 @@
 |950|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|**1:54.05**|6.34|1:35.37|12.34|  
 |951|[Robert Paus](https://www.worldcubeassociation.org/persons/2015PAUS01)|Germany|**1:54.06**|13.50|1:15.60|24.96|  
 |952|[James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01)|USA|**1:54.14**|7.51|1:34.33|12.30|  
-|953|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|**1:54.15**|7.66|1:35.32|11.17|  
-|=|[Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05)|New Zealand|**1:54.15**|7.80|1:31.88|14.47|  
-|955|[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|**1:54.25**|7.62|1:29.64|16.99|  
-|956|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|**1:54.27**|5.00|1:35.69|13.58|  
-|957|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|**1:54.28**|8.32|1:34.80|11.16|  
-|958|[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|**1:54.57**|8.45|1:31.78|14.34|  
-|959|[Andreas Lambropoulos](https://www.worldcubeassociation.org/persons/2017LAMB06)|USA|**1:54.65**|6.83|1:34.78|13.04|  
-|960|[Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01)|Taiwan|**1:54.73**|8.79|1:28.82|17.12|  
-|961|[Arnold Christian Reyes](https://www.worldcubeassociation.org/persons/2016REYE01)|Philippines|**1:54.88**|8.62|1:31.43|14.83|  
-|962|[Jorge Mario Gurdián Flores](https://www.worldcubeassociation.org/persons/2017FLOR35)|Nicaragua|**1:54.91**|14.67|1:18.39|21.85|  
-|963|[Yoshiki Homma (本間寛基)](https://www.worldcubeassociation.org/persons/2017HOMM01)|Japan|**1:55.01**|11.56|1:21.40|22.05|  
-|964|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|**1:55.06**|6.02|1:37.22|11.82|  
-|965|[Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03)|Colombia|**1:55.08**|6.84|1:36.31|11.93|  
+|953|[Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05)|New Zealand|**1:54.15**|7.80|1:31.88|14.47|  
+|954|[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|**1:54.25**|7.62|1:29.64|16.99|  
+|955|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|**1:54.27**|5.00|1:35.69|13.58|  
+|956|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|**1:54.28**|8.32|1:34.80|11.16|  
+|957|[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|**1:54.57**|8.45|1:31.78|14.34|  
+|958|[Andreas Lambropoulos](https://www.worldcubeassociation.org/persons/2017LAMB06)|USA|**1:54.65**|6.83|1:34.78|13.04|  
+|959|[Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01)|Taiwan|**1:54.73**|8.79|1:28.82|17.12|  
+|960|[Arnold Christian Reyes](https://www.worldcubeassociation.org/persons/2016REYE01)|Philippines|**1:54.88**|8.62|1:31.43|14.83|  
+|961|[Jorge Mario Gurdián Flores](https://www.worldcubeassociation.org/persons/2017FLOR35)|Nicaragua|**1:54.91**|14.67|1:18.39|21.85|  
+|962|[Yoshiki Homma (本間寛基)](https://www.worldcubeassociation.org/persons/2017HOMM01)|Japan|**1:55.01**|11.56|1:21.40|22.05|  
+|963|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|**1:55.06**|6.02|1:37.22|11.82|  
+|964|[Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03)|Colombia|**1:55.08**|6.84|1:36.31|11.93|  
+|965|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|**1:55.12**|8.63|1:35.32|11.17|  
 |966|[Kazutaka Watanabe (渡部和孝)](https://www.worldcubeassociation.org/persons/2016WATA01)|Japan|**1:55.20**|10.49|1:14.15|30.56|  
 |967|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|**1:55.29**|19.46|1:00.86|34.97|  
 |968|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|**1:55.39**|9.12|1:25.33|20.94|  
