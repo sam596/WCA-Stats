@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Single
 
-*Last updated using WCA Developer Export from Sat Apr 11 at 1612UTC*
+*Last updated using WCA Developer Export from Tue Apr 14 at 1712UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -41,5 +41,5 @@
 |30|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|4.97|  
 |=|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|4.97|  
 |32|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|4.98|  
-|33|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|4.99|  
-|=|[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|USA|4.99|  
+|33|[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|USA|4.99|  
+|=|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|4.99|  
