@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Fri Apr 17 at 1813UTC*
+*Last updated using WCA Developer Export from Mon Apr 20 at 1913UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -132,7 +132,6 @@
 |=|[Alexandre Magno de Oliveira Silva Júnior](https://www.worldcubeassociation.org/persons/2018JUNI13)|Brazil|35|  
 |=|[Jefferson Ricardo Silva Toscano de Lemos](https://www.worldcubeassociation.org/persons/2018LEMO01)|Brazil|35|  
 |=|[Luana Andrielle Pereira Monteiro Santos](https://www.worldcubeassociation.org/persons/2018SANT63)|Brazil|35|  
-|=|[Cristóbal Alonso Miguel Moretti Serrano](https://www.worldcubeassociation.org/persons/2018SERR01)|Chile|35|  
 |=|[Muhammad Mukhriz Shah Bin Mudzaffar Shah](https://www.worldcubeassociation.org/persons/2018SHAH36)|Malaysia|35|  
 |=|[Rodrigo Mello Fonseca de Carvalho e Silva](https://www.worldcubeassociation.org/persons/2018SILR02)|Brazil|35|  
 |=|[Sai Anjaneya Adithya Vattipalli Venkata](https://www.worldcubeassociation.org/persons/2018VENK06)|India|35|  
@@ -151,7 +150,7 @@
 |=|[Lucius Alexander Pandya Genaro Soebroto](https://www.worldcubeassociation.org/persons/2019SOEB01)|Indonesia|35|  
 |=|[Angel Martín Alessandro Casanova Lozada](https://www.worldcubeassociation.org/persons/2020LOZA02)|Peru|35|  
 |=|[Guilherme Fugioka Rodrigues de Oliveira](https://www.worldcubeassociation.org/persons/2020OLIV01)|Brazil|35|  
-|144|[Francisco Eduardo Martins Serra Espuny](https://www.worldcubeassociation.org/persons/2009ESPU01)|Brazil|34|  
+|143|[Francisco Eduardo Martins Serra Espuny](https://www.worldcubeassociation.org/persons/2009ESPU01)|Brazil|34|  
 |=|[Vitor Manoel Teixeira de Moraes Almeida](https://www.worldcubeassociation.org/persons/2012ALME01)|Brazil|34|  
 |=|[Pierre-Alexandre Langlois Gaudreault](https://www.worldcubeassociation.org/persons/2012GAUD01)|Canada|34|  
 |=|[Maximiliano Rodrigo Gonzalez Olivares](https://www.worldcubeassociation.org/persons/2012OLIV01)|Chile|34|  
@@ -215,6 +214,7 @@
 |=|[Matias-Alexandru Panaitescu-Alegria](https://www.worldcubeassociation.org/persons/2018PANA02)|Romania|34|  
 |=|[Mario Onofre Antonio Monsalve Sandoval](https://www.worldcubeassociation.org/persons/2018SAND13)|Chile|34|  
 |=|[Sebastian Leonardo Cancho Santisteban](https://www.worldcubeassociation.org/persons/2018SANT38)|Peru|34|  
+|=|[Cristóbal Alonso Miguel Montti Serrano](https://www.worldcubeassociation.org/persons/2018SERR01)|Chile|34|  
 |=|[Raymond Spencer Vance Shanafelt-Bower](https://www.worldcubeassociation.org/persons/2018SHAN17)|USA|34|  
 |=|[Youssef Gamal Eldeen Faher Eldeen Ahmed](https://www.worldcubeassociation.org/persons/2019AHME10)|Egypt|34|  
 |=|[Alfonso Patricio Sarmiento Almendariz](https://www.worldcubeassociation.org/persons/2019ALME15)|Ecuador|34|  
