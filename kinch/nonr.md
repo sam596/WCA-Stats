@@ -1,1010 +1,1010 @@
 ## KinchRanks 
 
-*Last updated using WCA Developer Export from Mon Apr 20 at 1913UTC*
+*Last updated using WCA Developer Export from Thu Apr 23 at 2023UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### Kinch No NR
 
-|Rank|Name|Country|Kinch|Overall Rank|  
-|--|--|--|--|--|  
-|1|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|61.13|7|  
-|2|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|57.45|15|  
-|3|[DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05)|Korea|49.75|54|  
-|4|[Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01)|USA|49.74|55|  
-|5|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|48.90|65|  
-|=|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|48.90|65|  
-|7|[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|USA|48.79|69|  
-|8|[Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02)|Canada|48.69|71|  
-|9|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|USA|48.41|79|  
-|10|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|48.16|85|  
-|11|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|48.12|87|  
-|12|[Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01)|USA|48.09|88|  
-|13|[Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)|Poland|47.86|89|  
-|14|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|47.49|98|  
-|15|[Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01)|USA|47.45|100|  
-|16|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|47.42|103|  
-|17|[Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01)|Poland|47.20|105|  
-|18|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|47.19|106|  
-|19|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|USA|47.05|110|  
-|20|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|46.97|114|  
-|21|[Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01)|USA|46.62|122|  
-|22|[Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01)|Germany|46.51|124|  
-|23|[Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02)|Philippines|46.06|129|  
-|24|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|45.96|130|  
-|25|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|USA|45.70|134|  
-|=|[Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02)|Australia|45.70|134|  
-|27|[Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01)|Germany|45.57|138|  
-|28|[Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06)|USA|45.52|139|  
-|29|[Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01)|Poland|45.49|141|  
-|30|[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|Germany|45.34|146|  
-|31|[Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02)|USA|45.26|149|  
-|32|[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|45.23|150|  
-|=|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|USA|45.23|150|  
-|34|[Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03)|USA|45.16|155|  
-|35|[Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06)|Korea|45.05|156|  
-|36|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|44.96|160|  
-|37|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|44.92|161|  
-|38|[Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01)|Poland|44.60|166|  
-|39|[Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03)|Poland|44.57|167|  
-|40|[Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01)|Russia|44.55|168|  
-|41|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|44.45|169|  
-|42|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|44.43|171|  
-|43|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|44.31|172|  
-|44|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|44.23|173|  
-|45|[Chris Choi](https://www.worldcubeassociation.org/persons/2016CHOI01)|USA|44.21|175|  
-|46|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|China|44.14|177|  
-|47|[James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01)|USA|44.07|179|  
-|48|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|43.98|182|  
-|49|[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|Germany|43.82|187|  
-|50|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|43.78|189|  
-|51|[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|USA|43.59|195|  
-|52|[Daniel Wannamaker](https://www.worldcubeassociation.org/persons/2011WANN01)|USA|43.56|197|  
-|53|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|43.47|198|  
-|54|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|43.36|203|  
-|55|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|42.96|216|  
-|56|[Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17)|Korea|42.66|222|  
-|57|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|42.62|225|  
-|=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|42.62|225|  
-|59|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|42.57|229|  
-|60|[Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01)|USA|42.51|231|  
-|61|[Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01)|Australia|42.48|234|  
-|62|[Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01)|United Kingdom|42.41|237|  
-|63|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|42.39|239|  
-|64|[Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01)|Australia|42.29|242|  
-|65|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|42.23|247|  
-|66|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|42.10|251|  
-|67|[Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03)|Korea|42.06|252|  
-|68|[Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03)|USA|42.01|253|  
-|69|[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|USA|41.76|261|  
-|70|[Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04)|China|41.68|265|  
-|71|[Mahith Bandi](https://www.worldcubeassociation.org/persons/2014BAND04)|USA|41.67|266|  
-|72|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|41.66|267|  
-|73|[Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09)|China|41.33|273|  
-|74|[Peter Grassard](https://www.worldcubeassociation.org/persons/2016GRAS01)|France|41.02|277|  
-|=|[Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10)|China|41.02|277|  
-|76|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|China|40.95|279|  
-|77|[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|Australia|40.92|280|  
-|78|[Edward Vakula](https://www.worldcubeassociation.org/persons/2013VAKU01)|USA|40.82|283|  
-|79|[Elijah Brown](https://www.worldcubeassociation.org/persons/2015BROW03)|USA|40.78|285|  
-|80|[Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04)|Hungary|40.70|289|  
-|81|[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|40.67|291|  
-|82|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|40.65|293|  
-|83|[Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01)|China|40.59|296|  
-|84|[Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06)|USA|40.49|301|  
-|=|[Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44)|Spain|40.49|301|  
-|86|[Mason Langenderfer](https://www.worldcubeassociation.org/persons/2013LANG03)|USA|40.48|303|  
-|=|[Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01)|Poland|40.48|303|  
-|88|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|40.35|307|  
-|89|[Jason Lee](https://www.worldcubeassociation.org/persons/2015LEEJ12)|USA|40.27|310|  
-|=|[Will Belote](https://www.worldcubeassociation.org/persons/2015BELO03)|USA|40.27|310|  
-|91|[Daniel Mullen](https://www.worldcubeassociation.org/persons/2016MULL04)|USA|40.20|314|  
-|92|[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|USA|40.15|317|  
-|93|[Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07)|China|40.01|322|  
-|94|[Xiaobin Rui (芮晓彬)](https://www.worldcubeassociation.org/persons/2013RUIX02)|China|39.87|331|  
-|95|[Owen Widdis](https://www.worldcubeassociation.org/persons/2015WIDD01)|USA|39.81|334|  
-|96|[Igor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|Ukraine|39.77|337|  
-|97|[Christopher Sun](https://www.worldcubeassociation.org/persons/2017SUNC02)|USA|39.76|338|  
-|98|[Xinjie Shi (施鑫杰)](https://www.worldcubeassociation.org/persons/2016SHIX02)|China|39.75|339|  
-|99|[Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07)|Finland|39.74|341|  
-|100|[Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01)|USA|39.62|348|  
-|101|[Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19)|China|39.55|349|  
-|102|[Phillip Lewicki](https://www.worldcubeassociation.org/persons/2012LEWI01)|USA|39.54|351|  
-|103|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|39.41|354|  
-|104|[Will Russo](https://www.worldcubeassociation.org/persons/2015RUSS03)|USA|39.34|359|  
-|105|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|39.31|361|  
-|106|[Kit Clement](https://www.worldcubeassociation.org/persons/2008CLEM01)|USA|39.29|364|  
-|107|[Mitchell Hum](https://www.worldcubeassociation.org/persons/2017HUMM01)|USA|39.26|368|  
-|108|[Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03)|Australia|39.24|369|  
-|109|[Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01)|Australia|39.23|370|  
-|110|[Vladyslav Zhyhailo (Владислав Жигайло)](https://www.worldcubeassociation.org/persons/2013ZHYH01)|Ukraine|39.21|371|  
-|111|[Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02)|Poland|39.10|376|  
-|112|[Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01)|Germany|38.99|378|  
-|113|[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|38.98|379|  
-|=|[Braden Richards](https://www.worldcubeassociation.org/persons/2017RICH02)|USA|38.98|379|  
-|115|[Roan Paone](https://www.worldcubeassociation.org/persons/2017PAON01)|Canada|38.93|382|  
-|116|[Pranav Veera](https://www.worldcubeassociation.org/persons/2015VEER01)|USA|38.91|383|  
-|117|[Will Newhoff](https://www.worldcubeassociation.org/persons/2015NEWH01)|USA|38.87|386|  
-|118|[Zhichun Li (李志纯)](https://www.worldcubeassociation.org/persons/2017LIZH13)|China|38.85|387|  
-|=|[Timur Imanov](https://www.worldcubeassociation.org/persons/2018IMAN01)|Russia|38.85|387|  
-|120|[James Hildreth](https://www.worldcubeassociation.org/persons/2009HILD01)|USA|38.80|391|  
-|121|[Justin Gou](https://www.worldcubeassociation.org/persons/2015GOUJ01)|USA|38.77|392|  
-|122|[Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04)|Poland|38.73|394|  
-|123|[Henry Lichner](https://www.worldcubeassociation.org/persons/2018LICH05)|USA|38.71|398|  
-|124|[Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01)|Poland|38.66|399|  
-|125|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|38.61|402|  
-|126|[Zian Song (宋子安)](https://www.worldcubeassociation.org/persons/2014SONG08)|China|38.55|405|  
-|=|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|38.55|405|  
-|128|[Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06)|China|38.51|408|  
-|129|[Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02)|Ukraine|38.48|410|  
-|130|[Axel Brisse](https://www.worldcubeassociation.org/persons/2016BRIS01)|France|38.45|413|  
-|131|[Volodymyr Korol (Володимир Король)](https://www.worldcubeassociation.org/persons/2015KORO02)|Ukraine|38.40|414|  
-|132|[Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28)|USA|38.38|416|  
-|=|[Jack Manzo](https://www.worldcubeassociation.org/persons/2016MANZ01)|USA|38.38|416|  
-|134|[Dan Tran](https://www.worldcubeassociation.org/persons/2015TRAN07)|USA|38.32|418|  
-|135|[Alexei Sinyavin](https://www.worldcubeassociation.org/persons/2016SINY01)|USA|38.25|421|  
-|136|[Hargun Singh Tikku](https://www.worldcubeassociation.org/persons/2017TIKK01)|India|38.19|423|  
-|137|[Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01)|Korea|38.17|424|  
-|=|[Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01)|Japan|38.17|424|  
-|139|[Brandon Nunez](https://www.worldcubeassociation.org/persons/2016NUNE11)|USA|38.13|429|  
-|140|[Waldemar Sundin](https://www.worldcubeassociation.org/persons/2017SUND09)|Sweden|37.97|437|  
-|141|[Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07)|China|37.95|438|  
-|142|[Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03)|Ukraine|37.92|441|  
-|143|[Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24)|China|37.90|444|  
-|144|[Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17)|USA|37.88|446|  
-|145|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|37.86|449|  
-|146|[Nicolas Harper](https://www.worldcubeassociation.org/persons/2016HARP02)|USA|37.84|451|  
-|147|[Peter Weyers](https://www.worldcubeassociation.org/persons/2018WEYE01)|USA|37.80|453|  
-|148|[Bo Wang (王擘)](https://www.worldcubeassociation.org/persons/2013WANG69)|China|37.74|456|  
-|149|[Keenan Johnson](https://www.worldcubeassociation.org/persons/2016JOHN30)|USA|37.71|459|  
-|150|[Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01)|United Kingdom|37.66|461|  
-|151|[Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01)|Korea|37.58|463|  
-|152|[Ethan Dennis](https://www.worldcubeassociation.org/persons/2016DENN04)|USA|37.49|467|  
-|=|[Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13)|Brazil|37.49|467|  
-|154|[Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01)|USA|37.47|469|  
-|155|[Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02)|USA|37.39|473|  
-|156|[Enoch Gray](https://www.worldcubeassociation.org/persons/2012GRAY01)|USA|37.27|477|  
-|157|[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|37.26|479|  
-|158|[Logan McGraw](https://www.worldcubeassociation.org/persons/2013MCGR02)|USA|37.24|480|  
-|159|[AJ Blair](https://www.worldcubeassociation.org/persons/2009BLAI01)|USA|37.19|485|  
-|160|[Austin Reed](https://www.worldcubeassociation.org/persons/2011REED01)|USA|37.12|489|  
-|161|[Ari Randers-Pehrson](https://www.worldcubeassociation.org/persons/2017RAND06)|USA|36.93|494|  
-|162|[Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01)|China|36.88|497|  
-|163|[Xun Zhao (赵洵)](https://www.worldcubeassociation.org/persons/2015ZHAO07)|China|36.86|498|  
-|164|[Owen Chester](https://www.worldcubeassociation.org/persons/2016CHES01)|USA|36.85|499|  
-|=|[Ian Southa](https://www.worldcubeassociation.org/persons/2018SOUT01)|USA|36.85|499|  
-|166|[Carter Bitz](https://www.worldcubeassociation.org/persons/2016BITZ01)|USA|36.84|501|  
-|=|[Adriel Wiebe](https://www.worldcubeassociation.org/persons/2016WIEB01)|USA|36.84|501|  
-|168|[Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01)|Argentina|36.83|503|  
-|169|[Kanting Shi (史勘霆)](https://www.worldcubeassociation.org/persons/2016SHIK02)|China|36.82|504|  
-|170|[Niclas Mach](https://www.worldcubeassociation.org/persons/2018MACH13)|Germany|36.80|506|  
-|171|[Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07)|Peru|36.78|507|  
-|172|[Danila Ryabinin](https://www.worldcubeassociation.org/persons/2017RYAB02)|Russia|36.75|510|  
-|173|[Oscar Watson](https://www.worldcubeassociation.org/persons/2017WATS07)|Australia|36.72|514|  
-|=|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|India|36.72|514|  
-|175|[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|36.62|521|  
-|176|[Jason Ostdiek](https://www.worldcubeassociation.org/persons/2017OSTD02)|USA|36.60|524|  
-|177|[Ryan Yasinko](https://www.worldcubeassociation.org/persons/2015YASI02)|Canada|36.56|529|  
-|178|[Bowen Xiao (肖博文)](https://www.worldcubeassociation.org/persons/2017XIAO09)|China|36.52|534|  
-|179|[Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01)|United Kingdom|36.42|538|  
-|180|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|36.40|541|  
-|181|[Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05)|China|36.35|543|  
-|182|[Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06)|Sweden|36.33|547|  
-|183|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|36.29|551|  
-|184|[Brody Lassner](https://www.worldcubeassociation.org/persons/2015LASS03)|USA|36.28|552|  
-|185|[Arush Singh](https://www.worldcubeassociation.org/persons/2017SING18)|India|36.26|553|  
-|186|[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|36.25|554|  
-|187|[Fedor Abaev](https://www.worldcubeassociation.org/persons/2016ABAE01)|Russia|36.23|555|  
-|188|[Justin Thomas](https://www.worldcubeassociation.org/persons/2011THOM01)|USA|36.19|559|  
-|189|[Dylan Cossin](https://www.worldcubeassociation.org/persons/2016COSS01)|USA|36.13|564|  
-|190|[Akshaansh Chilakapati](https://www.worldcubeassociation.org/persons/2016CHIL02)|India|36.07|567|  
-|191|[Chilin Fang (方炽霖)](https://www.worldcubeassociation.org/persons/2016FANG12)|China|36.04|568|  
-|192|[Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01)|United Kingdom|36.02|569|  
-|193|[Chengxiang Cui (崔程翔)](https://www.worldcubeassociation.org/persons/2015CUIC01)|China|36.01|570|  
-|194|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|35.98|572|  
-|=|[Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01)|Germany|35.98|572|  
-|196|[Mikhail Kopylov (Михаил Копылов)](https://www.worldcubeassociation.org/persons/2018KOPY01)|Russia|35.95|576|  
-|197|[Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01)|Poland|35.91|580|  
-|198|[Jacob Posner](https://www.worldcubeassociation.org/persons/2010POSN02)|USA|35.90|581|  
-|199|[Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03)|USA|35.87|583|  
-|=|[César Abraham Briones Arreola](https://www.worldcubeassociation.org/persons/2016ARRE02)|Mexico|35.87|583|  
-|201|[Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37)|Peru|35.80|591|  
-|202|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|United Kingdom|35.78|594|  
-|203|[Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01)|USA|35.76|595|  
-|204|[Tyler Hicks](https://www.worldcubeassociation.org/persons/2017HICK03)|USA|35.72|597|  
-|=|[MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01)|Korea|35.72|597|  
-|206|[Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15)|Peru|35.66|601|  
-|207|[Stephen Griggs](https://www.worldcubeassociation.org/persons/2014GRIG01)|USA|35.65|603|  
-|208|[Yuhao Deng (邓宇豪)](https://www.worldcubeassociation.org/persons/2014DENG05)|China|35.63|607|  
-|209|[Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04)|Philippines|35.55|614|  
-|210|[Jun-Rui Rao (饒峻睿)](https://www.worldcubeassociation.org/persons/2015RAOJ01)|Taiwan|35.50|616|  
-|211|[Daniel Porter](https://www.worldcubeassociation.org/persons/2017PORT04)|USA|35.47|620|  
-|212|[Mengfei Shen (沈梦非)](https://www.worldcubeassociation.org/persons/2018SHEN07)|China|35.46|622|  
-|=|[Shujie Fang (方述杰)](https://www.worldcubeassociation.org/persons/2011FANG02)|China|35.46|622|  
-|=|[Henry Helmuth](https://www.worldcubeassociation.org/persons/2013HELM02)|USA|35.46|622|  
-|215|[Luca Stalpers](https://www.worldcubeassociation.org/persons/2017STAL02)|Netherlands|35.43|626|  
-|216|[Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26)|USA|35.41|628|  
-|=|[Leon Achata](https://www.worldcubeassociation.org/persons/2015ACHA01)|Peru|35.41|628|  
-|218|[Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08)|United Kingdom|35.37|631|  
-|219|[Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01)|Sweden|35.36|633|  
-|220|[Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02)|Korea|35.28|636|  
-|221|[Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01)|Poland|35.26|637|  
-|222|[Xin Shi (石欣)](https://www.worldcubeassociation.org/persons/2010SHIX01)|China|35.24|639|  
-|223|[Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01)|France|35.17|643|  
-|=|[Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02)|Spain|35.17|643|  
-|=|[Gamaliel Jimenez Oropeza](https://www.worldcubeassociation.org/persons/2018OROP01)|Mexico|35.17|643|  
-|=|[Daniel Gutierrez](https://www.worldcubeassociation.org/persons/2016GUTI23)|USA|35.17|643|  
-|227|[Andrew Karbusicky](https://www.worldcubeassociation.org/persons/2015KARB02)|USA|35.15|648|  
-|228|[Jordan Mosakowski](https://www.worldcubeassociation.org/persons/2014MOSA01)|USA|35.14|650|  
-|=|[Sydney Weaver](https://www.worldcubeassociation.org/persons/2013WEAV01)|USA|35.14|650|  
-|230|[Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12)|Spain|35.13|653|  
-|=|[Samuel Brenner](https://www.worldcubeassociation.org/persons/2014BREN02)|USA|35.13|653|  
-|=|[Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09)|Poland|35.13|653|  
-|233|[Constantin Lüske](https://www.worldcubeassociation.org/persons/2014LSKE01)|Germany|35.12|656|  
-|=|[Samuel Knoll](https://www.worldcubeassociation.org/persons/2015KNOL01)|USA|35.12|656|  
-|235|[Xiang Meng (孟响)](https://www.worldcubeassociation.org/persons/2017MENG07)|China|35.11|658|  
-|236|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|35.06|663|  
-|237|[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|34.99|667|  
-|238|[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|34.93|671|  
-|239|[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|34.87|678|  
-|240|[Yang Li (李扬)](https://www.worldcubeassociation.org/persons/2012LIYA01)|China|34.86|679|  
-|241|[Max Walaszek](https://www.worldcubeassociation.org/persons/2018WALA01)|USA|34.84|680|  
-|=|[Travis Burkett](https://www.worldcubeassociation.org/persons/2018BURK01)|USA|34.84|680|  
-|243|[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|United Kingdom|34.77|685|  
-|244|[Jan Staubach](https://www.worldcubeassociation.org/persons/2015STAU01)|Germany|34.75|687|  
-|245|[João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66)|Brazil|34.74|689|  
-|246|[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|34.71|690|  
-|247|[Daniel Greigg](https://www.worldcubeassociation.org/persons/2015GREI01)|USA|34.68|693|  
-|=|[Matthew Cook](https://www.worldcubeassociation.org/persons/2016COOK02)|Australia|34.68|693|  
-|249|[CJ Sheng](https://www.worldcubeassociation.org/persons/2012SHEN02)|USA|34.66|695|  
-|250|[Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01)|Philippines|34.61|696|  
-|251|[Nicholas Daneshvari](https://www.worldcubeassociation.org/persons/2012DANE01)|USA|34.59|698|  
-|252|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|34.58|699|  
-|253|[Mikhail Kuzin](https://www.worldcubeassociation.org/persons/2015KUZI01)|Russia|34.57|700|  
-|=|[Matthew Lee](https://www.worldcubeassociation.org/persons/2017LEEM03)|Canada|34.57|700|  
-|255|[Jonathan Tilahun](https://www.worldcubeassociation.org/persons/2014TILA01)|USA|34.55|703|  
-|256|[Einar Kvam Lundberg](https://www.worldcubeassociation.org/persons/2015LUND03)|Norway|34.53|704|  
-|=|[Xin Luo (罗鑫)](https://www.worldcubeassociation.org/persons/2013LUOX01)|China|34.53|704|  
-|258|[Sebastian Outh-Aut](https://www.worldcubeassociation.org/persons/2017OUTH01)|Australia|34.49|709|  
-|259|[Ryan Jew](https://www.worldcubeassociation.org/persons/2008JEWR01)|USA|34.47|711|  
-|=|[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|34.47|711|  
-|261|[Ethan Basanov](https://www.worldcubeassociation.org/persons/2015BASA02)|Canada|34.45|713|  
-|262|[Dan Pastushkov](https://www.worldcubeassociation.org/persons/2014PAST01)|USA|34.44|715|  
-|263|[Wenxuan Tang (唐文轩)](https://www.worldcubeassociation.org/persons/2014TANG07)|China|34.39|718|  
-|=|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|34.39|718|  
-|265|[William Klauer](https://www.worldcubeassociation.org/persons/2017KLAU01)|USA|34.33|721|  
-|266|[Beom San Kim (김범산)](https://www.worldcubeassociation.org/persons/2017KIMB02)|Korea|34.32|723|  
-|267|[Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03)|Poland|34.29|724|  
-|268|[Milo Black](https://www.worldcubeassociation.org/persons/2017BLAC06)|USA|34.26|726|  
-|269|[Michael Larsen](https://www.worldcubeassociation.org/persons/2017LARS03)|USA|34.24|727|  
-|=|[Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01)|Germany|34.24|727|  
-|271|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|34.20|730|  
-|272|[Robert Alden](https://www.worldcubeassociation.org/persons/2019ALDE01)|United Kingdom|34.19|732|  
-|273|[Tyler Halgren](https://www.worldcubeassociation.org/persons/2015HALG01)|USA|34.18|734|  
-|=|[Cary Huang](https://www.worldcubeassociation.org/persons/2015HUAN48)|USA|34.18|734|  
-|=|[Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03)|Indonesia|34.18|734|  
-|276|[Ryan Driscoll](https://www.worldcubeassociation.org/persons/2015DRIS02)|Australia|34.16|738|  
-|277|[Joey Stahl](https://www.worldcubeassociation.org/persons/2013STAH02)|USA|34.15|739|  
-|278|[Ben Marlin](https://www.worldcubeassociation.org/persons/2015MARL01)|USA|34.13|741|  
-|279|[Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02)|Poland|34.11|742|  
-|=|[Andreas Gröbmayr](https://www.worldcubeassociation.org/persons/2010GROB02)|Germany|34.11|742|  
-|=|[Shonathon Collins](https://www.worldcubeassociation.org/persons/2011COLL02)|USA|34.11|742|  
-|=|[Sicheng Gu (顾思成)](https://www.worldcubeassociation.org/persons/2017GUSI01)|China|34.11|742|  
-|283|[Zhiyang Chen (陈至扬)](https://www.worldcubeassociation.org/persons/2011CHAN10)|China|34.08|747|  
-|284|[Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01)|Germany|34.07|748|  
-|285|[Liudi Sun (孙柳笛)](https://www.worldcubeassociation.org/persons/2012SUNL03)|China|34.02|756|  
-|286|[Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01)|Poland|34.00|758|  
-|287|[Christopher Cabrera](https://www.worldcubeassociation.org/persons/2013CABR01)|USA|33.98|760|  
-|288|[Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07)|Peru|33.97|761|  
-|289|[Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01)|Spain|33.95|762|  
-|290|[Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01)|Poland|33.90|766|  
-|291|[Alix Jack](https://www.worldcubeassociation.org/persons/2016JACK05)|France|33.89|767|  
-|=|[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Germany|33.89|767|  
-|293|[Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94)|Mexico|33.87|770|  
-|=|[Xuan Liu (刘璇)](https://www.worldcubeassociation.org/persons/2016LIUX15)|China|33.87|770|  
-|295|[Jiahao Deng (邓家豪)](https://www.worldcubeassociation.org/persons/2014DENG08)|China|33.86|773|  
-|296|[Vyacheslav Kochergin (Вячеслав Кочергин)](https://www.worldcubeassociation.org/persons/2018KOCH11)|Russia|33.84|776|  
-|297|[Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01)|Finland|33.81|779|  
-|=|[Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04)|United Kingdom|33.81|779|  
-|299|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|33.76|781|  
-|300|[Zongwen Mu (牟宗文)](https://www.worldcubeassociation.org/persons/2015MUZO01)|China|33.74|783|  
-|=|[Victor Chenu](https://www.worldcubeassociation.org/persons/2013CHEN22)|France|33.74|783|  
-|302|[Marie Vincent](https://www.worldcubeassociation.org/persons/2016VINC01)|France|33.71|787|  
-|303|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|33.70|788|  
-|=|[Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01)|Germany|33.70|788|  
-|305|[Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04)|Philippines|33.67|791|  
-|=|[Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91)|Spain|33.67|791|  
-|307|[Marcos Meibel Corral Murillo](https://www.worldcubeassociation.org/persons/2016MURI01)|Mexico|33.65|794|  
-|308|[Aaron Ariff](https://www.worldcubeassociation.org/persons/2016ARIF05)|Malaysia|33.63|796|  
-|=|[Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01)|Taiwan|33.63|796|  
-|310|[Evan Mann](https://www.worldcubeassociation.org/persons/2016MANN01)|USA|33.58|801|  
-|=|[Shane Grogan](https://www.worldcubeassociation.org/persons/2011GROG02)|USA|33.58|801|  
-|312|[Shu-Yii Luo (駱書翊)](https://www.worldcubeassociation.org/persons/2012LUOS01)|Taiwan|33.57|803|  
-|313|[Dominic Amrhein](https://www.worldcubeassociation.org/persons/2016AMRH01)|Germany|33.56|805|  
-|314|[Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19)|USA|33.55|807|  
-|315|[Shin Myeong Park (박신명)](https://www.worldcubeassociation.org/persons/2015MYEO01)|Korea|33.54|809|  
-|316|[Chunhao Liu (柳春浩)](https://www.worldcubeassociation.org/persons/2017LIUC11)|China|33.53|811|  
-|317|[Christopher Connolly](https://www.worldcubeassociation.org/persons/2017CONN04)|Canada|33.52|813|  
-|318|[Qi Zhou (周祺)](https://www.worldcubeassociation.org/persons/2015ZHOU07)|China|33.50|814|  
-|=|[Liam Highducheck](https://www.worldcubeassociation.org/persons/2015HIGH01)|Australia|33.50|814|  
-|320|[Bokang Peng (彭博康)](https://www.worldcubeassociation.org/persons/2016PENG03)|China|33.47|817|  
-|=|[Levi Gibson](https://www.worldcubeassociation.org/persons/2018GIBS04)|USA|33.47|817|  
-|322|[Yubo Ji (纪宇博)](https://www.worldcubeassociation.org/persons/2017JIYU01)|China|33.42|822|  
-|323|[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|Switzerland|33.39|825|  
-|324|[Ivan Vanek](https://www.worldcubeassociation.org/persons/2015VANE01)|USA|33.38|826|  
-|=|[Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02)|Poland|33.38|826|  
-|326|[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|33.37|828|  
-|327|[Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01)|Russia|33.36|829|  
-|328|[Yu Zhou (周煜)](https://www.worldcubeassociation.org/persons/2017YUZH03)|China|33.34|830|  
-|=|[Ying Lin (林颖)](https://www.worldcubeassociation.org/persons/2015LINY08)|China|33.34|830|  
-|330|[Mathias Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN02)|Denmark|33.31|832|  
-|331|[Alvar Nylén](https://www.worldcubeassociation.org/persons/2017NYLE01)|Sweden|33.26|834|  
-|332|[Ewsey Obzherin](https://www.worldcubeassociation.org/persons/2017OBZH01)|Russia|33.24|835|  
-|333|[Jacob Grahame](https://www.worldcubeassociation.org/persons/2018GRAH05)|USA|33.20|840|  
-|334|[Kyeongmin Choi](https://www.worldcubeassociation.org/persons/2017CHOI07)|Korea|33.18|841|  
-|335|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|33.17|842|  
-|336|[Fazhen Wu (吴法臻)](https://www.worldcubeassociation.org/persons/2013WUFA03)|China|33.16|843|  
-|337|[Fengkai Zhang (张丰凯)](https://www.worldcubeassociation.org/persons/2013ZHAN29)|China|33.15|846|  
-|338|[Isaac Myers](https://www.worldcubeassociation.org/persons/2015MYER02)|USA|33.13|849|  
-|339|[Jack Stewart](https://www.worldcubeassociation.org/persons/2017STEW08)|USA|33.12|850|  
-|340|[Nikita Popkov](https://www.worldcubeassociation.org/persons/2017POPK01)|Russia|33.10|852|  
-|341|[Dale Stephen M. Palmares](https://www.worldcubeassociation.org/persons/2016STEP05)|Philippines|33.09|853|  
-|342|[Brayden Wroten](https://www.worldcubeassociation.org/persons/2018WROT01)|USA|33.08|855|  
-|343|[Max Hahnbück](https://www.worldcubeassociation.org/persons/2013HAHN02)|Germany|33.07|857|  
-|=|[Sameer Sethuram](https://www.worldcubeassociation.org/persons/2017SETH03)|USA|33.07|857|  
-|345|[Chenhao Ma (马晨皓)](https://www.worldcubeassociation.org/persons/2017MACH03)|China|33.06|860|  
-|=|[Justin Choi](https://www.worldcubeassociation.org/persons/2013CHOI04)|USA|33.06|860|  
-|347|[Dante Jesus Arevalo Leal](https://www.worldcubeassociation.org/persons/2017LEAL04)|Mexico|32.99|866|  
-|348|[Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02)|Brazil|32.96|867|  
-|349|[Carter Audet Marrero](https://www.worldcubeassociation.org/persons/2017MARR02)|USA|32.93|870|  
-|350|[Stanley Nerkowski IV](https://www.worldcubeassociation.org/persons/2014NERK01)|USA|32.90|873|  
-|351|[Lauren Phung](https://www.worldcubeassociation.org/persons/2016PHUN02)|USA|32.89|877|  
-|352|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|32.86|879|  
-|=|[Ethan Jan](https://www.worldcubeassociation.org/persons/2014JANE02)|USA|32.86|879|  
-|354|[Ivan Krueger](https://www.worldcubeassociation.org/persons/2016KRUE01)|USA|32.85|881|  
-|355|[Seth Talbot](https://www.worldcubeassociation.org/persons/2015TALB01)|USA|32.78|885|  
-|356|[Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09)|USA|32.77|887|  
-|357|[Nicolás Shwkyng Monroy](https://www.worldcubeassociation.org/persons/2013MONR01)|Colombia|32.76|888|  
-|358|[Cameron Jones](https://www.worldcubeassociation.org/persons/2017JONE14)|United Kingdom|32.74|890|  
-|359|[Matty Hiroto Inaba](https://www.worldcubeassociation.org/persons/2016INAB01)|USA|32.72|893|  
-|=|[Hongtong Zhu (朱泓同)](https://www.worldcubeassociation.org/persons/2018ZHUH05)|China|32.72|893|  
-|361|[Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01)|Japan|32.70|895|  
-|362|[Jinhao Zheng (郑金昊)](https://www.worldcubeassociation.org/persons/2013ZHEN02)|China|32.67|896|  
-|=|[Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01)|USA|32.67|896|  
-|364|[Josh Bloch](https://www.worldcubeassociation.org/persons/2014BLOC01)|USA|32.66|899|  
-|=|[Dominic Heising](https://www.worldcubeassociation.org/persons/2017HEIS02)|USA|32.66|899|  
-|=|[Xuanwei Liang (梁轩玮)](https://www.worldcubeassociation.org/persons/2016LIAN17)|China|32.66|899|  
-|367|[Haoxiang Ying (应浩祥)](https://www.worldcubeassociation.org/persons/2016YING02)|China|32.63|904|  
-|368|[Max Chan](https://www.worldcubeassociation.org/persons/2015CHAN37)|USA|32.62|906|  
-|369|[Linxiao Xu (徐林霄)](https://www.worldcubeassociation.org/persons/2014XULI01)|China|32.61|909|  
-|=|[Preston Duke](https://www.worldcubeassociation.org/persons/2018DUKE01)|USA|32.61|909|  
-|371|[Jason Bilgrei](https://www.worldcubeassociation.org/persons/2014BILG01)|USA|32.60|911|  
-|=|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|32.60|911|  
-|373|[Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02)|Poland|32.54|917|  
-|374|[Ganghui Lin (林刚辉)](https://www.worldcubeassociation.org/persons/2014LING04)|China|32.53|919|  
-|375|[Paul Luciw](https://www.worldcubeassociation.org/persons/2015LUCI02)|France|32.48|925|  
-|=|[Jorge Alfageme Sotillos](https://www.worldcubeassociation.org/persons/2016SOTI01)|Spain|32.48|925|  
-|377|[Mark Bennis](https://www.worldcubeassociation.org/persons/2017BENN09)|Netherlands|32.47|927|  
-|=|[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Germany|32.47|927|  
-|379|[Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01)|Poland|32.44|929|  
-|380|[Denys Shyshliannykov (Денис Шишлянников)](https://www.worldcubeassociation.org/persons/2015SHYS01)|Ukraine|32.42|930|  
-|=|[Eric Pesci](https://www.worldcubeassociation.org/persons/2015PESC01)|USA|32.42|930|  
-|382|[Abishua James Thomas](https://www.worldcubeassociation.org/persons/2013THOM03)|Canada|32.41|935|  
-|383|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|32.39|936|  
-|384|[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|32.37|940|  
-|=|[Tianping Ding (丁天平)](https://www.worldcubeassociation.org/persons/2016DING05)|China|32.37|940|  
-|386|[Daniel Yang](https://www.worldcubeassociation.org/persons/2015YANG02)|USA|32.35|943|  
-|387|[Jeremy Benik](https://www.worldcubeassociation.org/persons/2016BENI05)|USA|32.33|944|  
-|=|[Zejun Chen (陈泽鋆)](https://www.worldcubeassociation.org/persons/2018CHEZ21)|China|32.33|944|  
-|389|[Alexander Mutch](https://www.worldcubeassociation.org/persons/2014MUTC01)|Canada|32.32|947|  
-|390|[Jiazheng Zhao (赵家正)](https://www.worldcubeassociation.org/persons/2014ZHAO10)|China|32.29|952|  
-|=|[Ziyue Chen (陈子悦)](https://www.worldcubeassociation.org/persons/2017CHEZ05)|China|32.29|952|  
-|392|[Jeremy Collins](https://www.worldcubeassociation.org/persons/2014COLL02)|USA|32.26|956|  
-|393|[Zhiyuan Zhang (张智渊)](https://www.worldcubeassociation.org/persons/2016ZHAZ01)|China|32.25|957|  
-|394|[Tian Chen (陈天)](https://www.worldcubeassociation.org/persons/2016CHEN02)|China|32.22|960|  
-|395|[Bruno Fonsêca Coelho Lima](https://www.worldcubeassociation.org/persons/2011LIMA02)|Brazil|32.21|961|  
-|=|[Kazuki Sakamoto (坂本一樹)](https://www.worldcubeassociation.org/persons/2017SAKA03)|Japan|32.21|961|  
-|=|[Jin Young Kim (김진영)](https://www.worldcubeassociation.org/persons/2018KIMJ03)|Korea|32.21|961|  
-|398|[Liam Uno Timour-Silveira](https://www.worldcubeassociation.org/persons/2017TIMO01)|Norway|32.19|966|  
-|399|[Charlie Harrison](https://www.worldcubeassociation.org/persons/2017HARR08)|United Kingdom|32.16|968|  
-|400|[Dmitry Dergunov](https://www.worldcubeassociation.org/persons/2012DERG01)|Russia|32.15|969|  
-|401|[Chris Deng](https://www.worldcubeassociation.org/persons/2015DENG08)|USA|32.12|970|  
-|402|[Frederik Hutfleß](https://www.worldcubeassociation.org/persons/2014HUTF01)|Germany|32.11|971|  
-|403|[Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04)|India|32.07|974|  
-|404|[Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01)|Poland|32.06|975|  
-|405|[Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01)|Poland|32.04|978|  
-|406|[Dylan Hughlett](https://www.worldcubeassociation.org/persons/2012HUGH01)|USA|32.03|980|  
-|407|[Peter Preston](https://www.worldcubeassociation.org/persons/2017PRES02)|USA|31.98|983|  
-|408|[Axel Uriel Sánchez Zúñiga](https://www.worldcubeassociation.org/persons/2017ZUNI05)|Mexico|31.94|985|  
-|409|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|31.93|988|  
-|410|[Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01)|Brazil|31.92|989|  
-|=|[Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02)|USA|31.92|989|  
-|412|[Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04)|USA|31.90|995|  
-|=|[Kai Su (苏锴)](https://www.worldcubeassociation.org/persons/2013SUKA01)|China|31.90|995|  
-|414|[Eric Boudreau](https://www.worldcubeassociation.org/persons/2014BOUD01)|Canada|31.89|998|  
-|415|[Yicheng Bao (包亦成)](https://www.worldcubeassociation.org/persons/2015BAOY01)|China|31.87|1001|  
-|416|[Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01)|Poland|31.86|1002|  
-|=|[Mateo Tiul](https://www.worldcubeassociation.org/persons/2013TIUL01)|USA|31.86|1002|  
-|418|[Sumeet Agarwal](https://www.worldcubeassociation.org/persons/2011AGAR05)|USA|31.85|1004|  
-|=|[Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03)|Poland|31.85|1004|  
-|420|[Kailin Sun (孙凯霖)](https://www.worldcubeassociation.org/persons/2018SUNK01)|China|31.82|1006|  
-|=|[Ruimin Yan (颜瑞民)](https://www.worldcubeassociation.org/persons/2017YANR02)|China|31.82|1006|  
-|422|[Renzo Rodriguez Moreno](https://www.worldcubeassociation.org/persons/2014MORE01)|Colombia|31.81|1008|  
-|=|[David Adams](https://www.worldcubeassociation.org/persons/2009ADAM01)|USA|31.81|1008|  
-|424|[Jaden Burkhardt](https://www.worldcubeassociation.org/persons/2017BURK01)|USA|31.79|1010|  
-|425|[Monty Wain](https://www.worldcubeassociation.org/persons/2013WAIN01)|Australia|31.76|1013|  
-|=|[Michael Muething](https://www.worldcubeassociation.org/persons/2019MUET01)|USA|31.76|1013|  
-|427|[Xiaowei Wang (王晓伟)](https://www.worldcubeassociation.org/persons/2011WANG52)|China|31.74|1016|  
-|428|[Benjamin Pugh](https://www.worldcubeassociation.org/persons/2014PUGH01)|USA|31.72|1020|  
-|429|[Marco Yang](https://www.worldcubeassociation.org/persons/2017YANG62)|Canada|31.71|1021|  
-|=|[Kirby Jay Caragan](https://www.worldcubeassociation.org/persons/2017CARA04)|Philippines|31.71|1021|  
-|431|[Zhenyu Wang (王振宇)](https://www.worldcubeassociation.org/persons/2018WANG40)|China|31.68|1025|  
-|432|[Yonghao Xu (徐永浩)](https://www.worldcubeassociation.org/persons/2017XUYO01)|China|31.62|1030|  
-|433|[Fabian Emiliano Escareño Gonzalez](https://www.worldcubeassociation.org/persons/2017GONZ35)|Mexico|31.61|1031|  
-|=|[Tomek Bogdanik](https://www.worldcubeassociation.org/persons/2013BOGD04)|Poland|31.61|1031|  
-|435|[Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02)|Poland|31.60|1034|  
-|436|[Zachary Friedman](https://www.worldcubeassociation.org/persons/2014FRIE03)|USA|31.59|1035|  
-|437|[Alyssa Bell](https://www.worldcubeassociation.org/persons/2014BELL02)|USA|31.58|1037|  
-|438|[Marquez Phan](https://www.worldcubeassociation.org/persons/2015PHAN02)|Australia|31.57|1038|  
-|=|[Jiaxin Hou (侯家欣)](https://www.worldcubeassociation.org/persons/2013HOUJ01)|China|31.57|1038|  
-|440|[Jesús Fernando Castelán Gómez](https://www.worldcubeassociation.org/persons/2016GOME10)|Mexico|31.56|1042|  
-|441|[Tianyu Zhao (赵天愉)](https://www.worldcubeassociation.org/persons/2014ZHAO12)|China|31.54|1044|  
-|442|[Xingyan Ding (丁醒炎)](https://www.worldcubeassociation.org/persons/2014DING02)|China|31.53|1045|  
-|443|[Jared Balassaitis](https://www.worldcubeassociation.org/persons/2016BALA15)|USA|31.52|1046|  
-|444|[Christian Angelo Araneta Naguio](https://www.worldcubeassociation.org/persons/2016NAGU02)|Philippines|31.47|1048|  
-|=|[Eric Waldbillig](https://www.worldcubeassociation.org/persons/2018WALD03)|USA|31.47|1048|  
-|446|[Zi-Xian Liao (廖子賢)](https://www.worldcubeassociation.org/persons/2012LIAO03)|Taiwan|31.45|1052|  
-|447|[Erik Bryland](https://www.worldcubeassociation.org/persons/2018BRYL02)|Sweden|31.44|1055|  
-|448|[He-Ping Zheng (鄭和平)](https://www.worldcubeassociation.org/persons/2015ZHEN20)|Taiwan|31.39|1062|  
-|449|[Jackson DeVico](https://www.worldcubeassociation.org/persons/2015DEVI02)|USA|31.37|1064|  
-|=|[Alexandru Ioan Popescu](https://www.worldcubeassociation.org/persons/2017POPE02)|Romania|31.37|1064|  
-|=|[Kobe Balin](https://www.worldcubeassociation.org/persons/2012BALI01)|USA|31.37|1064|  
-|452|[Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02)|France|31.35|1068|  
-|453|[Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01)|Italy|31.34|1071|  
-|=|[Mathieu Hudon](https://www.worldcubeassociation.org/persons/2018HUDO01)|Canada|31.34|1071|  
-|=|[Grigoriy Barashkin](https://www.worldcubeassociation.org/persons/2017BARA05)|Russia|31.34|1071|  
-|456|[Chuhe Fang (方楚贺)](https://www.worldcubeassociation.org/persons/2017FANG07)|China|31.31|1077|  
-|=|[Angel Torres Perez](https://www.worldcubeassociation.org/persons/2017PERE26)|Mexico|31.31|1077|  
-|458|[Reagan Li](https://www.worldcubeassociation.org/persons/2017LIRE01)|Canada|31.30|1079|  
-|459|[Joe Yang](https://www.worldcubeassociation.org/persons/2017YANG12)|USA|31.29|1080|  
-|460|[Nikolay Vasilyev](https://www.worldcubeassociation.org/persons/2015VASI02)|Russia|31.27|1081|  
-|=|[David Nguyen](https://www.worldcubeassociation.org/persons/2012NGUY08)|USA|31.27|1081|  
-|=|[Jose Antonio Campero Morales](https://www.worldcubeassociation.org/persons/2016MORA10)|Bolivia|31.27|1081|  
-|463|[Yuxuan Song (宋宇轩)](https://www.worldcubeassociation.org/persons/2018SONG20)|China|31.26|1086|  
-|464|[Piero Alessandro Laguna Obregón](https://www.worldcubeassociation.org/persons/2016OBRE01)|Peru|31.24|1087|  
-|465|[Zeyu Gao (高泽宇)](https://www.worldcubeassociation.org/persons/2016GAOZ05)|China|31.22|1088|  
-|=|[Lukas Noel](https://www.worldcubeassociation.org/persons/2017NOEL03)|Sweden|31.22|1088|  
-|467|[Esteban Elías González Méndez](https://www.worldcubeassociation.org/persons/2016MEND03)|Mexico|31.21|1092|  
-|=|[John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03)|Ireland|31.21|1092|  
-|=|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|31.21|1092|  
-|470|[Nikolay Masson (Николай Массон)](https://www.worldcubeassociation.org/persons/2011MASS01)|Russia|31.19|1098|  
-|=|[Chingizkhan Mukhametdinov](https://www.worldcubeassociation.org/persons/2017MUKH02)|Russia|31.19|1098|  
-|=|[Yikuan Kan (阚亦宽)](https://www.worldcubeassociation.org/persons/2015KANY01)|China|31.19|1098|  
-|473|[Hongyuan Tang (唐鸿远)](https://www.worldcubeassociation.org/persons/2011TANG04)|China|31.17|1101|  
-|474|[Sheng Foon Kin](https://www.worldcubeassociation.org/persons/2016KINS01)|Malaysia|31.16|1102|  
-|=|[Vincent Chan](https://www.worldcubeassociation.org/persons/2017CHAN44)|Netherlands|31.16|1102|  
-|476|[Miguel Reyes](https://www.worldcubeassociation.org/persons/2016REYE11)|Mexico|31.14|1105|  
-|477|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|31.13|1107|  
-|478|[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|USA|31.08|1117|  
-|479|[Arttu Puttonen](https://www.worldcubeassociation.org/persons/2016PUTT01)|Finland|31.07|1118|  
-|=|[Evgeniy Mazhara](https://www.worldcubeassociation.org/persons/2018MAZH01)|Russia|31.07|1118|  
-|481|[Sergey Marin (Сергей Марьин)](https://www.worldcubeassociation.org/persons/2018MARI08)|Russia|31.06|1120|  
-|=|[Carl Joshua Garcia](https://www.worldcubeassociation.org/persons/2016GARC08)|Philippines|31.06|1120|  
-|483|[Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01)|USA|31.03|1123|  
-|=|[Isaac Vergara Castillo](https://www.worldcubeassociation.org/persons/2018CAST17)|Mexico|31.03|1123|  
-|=|[Oleksandr Seniuk (Олександр Сенюк)](https://www.worldcubeassociation.org/persons/2017SENI01)|Ukraine|31.03|1123|  
-|=|[Jami Viljanen](https://www.worldcubeassociation.org/persons/2017VILJ01)|Finland|31.03|1123|  
-|487|[Ricardo Lutchman](https://www.worldcubeassociation.org/persons/2012LUTC01)|USA|31.01|1130|  
-|=|[Pilan Scruggs](https://www.worldcubeassociation.org/persons/2014SCRU01)|USA|31.01|1130|  
-|489|[Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03)|USA|30.98|1133|  
-|490|[Silas Starling](https://www.worldcubeassociation.org/persons/2017STAR04)|USA|30.97|1134|  
-|=|[Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01)|USA|30.97|1134|  
-|492|[Shinichiro Sato (佐藤真一郎)](https://www.worldcubeassociation.org/persons/2009SATO02)|Japan|30.93|1139|  
-|=|[Thomas Valles](https://www.worldcubeassociation.org/persons/2013VALL03)|USA|30.93|1139|  
-|=|[Daniel Ortega Pastor](https://www.worldcubeassociation.org/persons/2014PAST03)|Spain|30.93|1139|  
-|495|[Lijiaqi Zhang (张李佳琦)](https://www.worldcubeassociation.org/persons/2011ZHAN03)|China|30.91|1145|  
-|=|[Yiming Liu (刘一鸣)](https://www.worldcubeassociation.org/persons/2009LIUY03)|China|30.91|1145|  
-|497|[Connor Yungbluth](https://www.worldcubeassociation.org/persons/2017YUNG02)|USA|30.90|1148|  
-|498|[Edbert Sim](https://www.worldcubeassociation.org/persons/2014SIME01)|Australia|30.89|1151|  
-|499|[Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01)|Brazil|30.88|1154|  
-|=|[Dmitry Shelomencev](https://www.worldcubeassociation.org/persons/2016SHEL09)|Russia|30.88|1154|  
-|501|[Jun-Bao Ni (倪君寶)](https://www.worldcubeassociation.org/persons/2016NIJU01)|Taiwan|30.85|1159|  
-|=|[Wilfrid Py](https://www.worldcubeassociation.org/persons/2016PYWI01)|France|30.85|1159|  
-|=|[Priyanshu Kumar](https://www.worldcubeassociation.org/persons/2014KUMA42)|India|30.85|1159|  
-|504|[Benjamin Wei](https://www.worldcubeassociation.org/persons/2015WEIB03)|USA|30.84|1162|  
-|=|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|30.84|1162|  
-|506|[Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01)|Vietnam|30.83|1164|  
-|507|[Tianlang Han (韩天朗)](https://www.worldcubeassociation.org/persons/2014HANT01)|China|30.81|1168|  
-|508|[Armando Dian](https://www.worldcubeassociation.org/persons/2017DIAN01)|Malaysia|30.79|1169|  
-|509|[Jungwoo Ha (하정우)](https://www.worldcubeassociation.org/persons/2017HAJU01)|Korea|30.73|1173|  
-|510|[Lee Hoween](https://www.worldcubeassociation.org/persons/2016HOWE03)|Malaysia|30.71|1175|  
-|511|[Luca Brasini](https://www.worldcubeassociation.org/persons/2017BRAS01)|Italy|30.68|1178|  
-|512|[Nathanael Morgan](https://www.worldcubeassociation.org/persons/2017MORG07)|USA|30.67|1182|  
-|=|[Jiahe Tang (唐嘉禾)](https://www.worldcubeassociation.org/persons/2017TANG20)|China|30.67|1182|  
-|514|[Krystian Załuski](https://www.worldcubeassociation.org/persons/2014ZAUS01)|Poland|30.66|1185|  
-|515|[Abraham Ismael Hernandez Sabido](https://www.worldcubeassociation.org/persons/2016SABI03)|Mexico|30.65|1188|  
-|516|[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|USA|30.64|1189|  
-|=|[Brandon Poulton](https://www.worldcubeassociation.org/persons/2019POUL02)|United Kingdom|30.64|1189|  
-|518|[Ryan McIlhenny](https://www.worldcubeassociation.org/persons/2010MCIL02)|USA|30.61|1192|  
-|=|[Varun Mohanraj](https://www.worldcubeassociation.org/persons/2015MOHA10)|USA|30.61|1192|  
-|=|[Kieran Dizon](https://www.worldcubeassociation.org/persons/2015DIZO02)|USA|30.61|1192|  
-|=|[Calven Lipec](https://www.worldcubeassociation.org/persons/2017LIPE01)|Australia|30.61|1192|  
-|522|[Nick Stanton](https://www.worldcubeassociation.org/persons/2011STAN02)|USA|30.60|1197|  
-|523|[Yeon Kyun Park (박연균)](https://www.worldcubeassociation.org/persons/2016PARK10)|Korea|30.59|1198|  
-|524|[Ernest Eh Zhong Yu](https://www.worldcubeassociation.org/persons/2017YUER01)|Malaysia|30.58|1199|  
-|=|[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|USA|30.58|1199|  
-|526|[Haodong Cheng (程昊东)](https://www.worldcubeassociation.org/persons/2015CHEN17)|China|30.57|1201|  
-|527|[Kaimu Chen (陈楷沐)](https://www.worldcubeassociation.org/persons/2018CHEK05)|China|30.56|1202|  
-|528|[Riley Workman](https://www.worldcubeassociation.org/persons/2016WORK02)|USA|30.54|1203|  
-|529|[Micah Walker](https://www.worldcubeassociation.org/persons/2015WALK03)|USA|30.50|1204|  
-|530|[Bowen Deng (邓博文)](https://www.worldcubeassociation.org/persons/2009DENG01)|China|30.49|1205|  
-|=|[Justin Barker](https://www.worldcubeassociation.org/persons/2013BARK01)|USA|30.49|1205|  
-|532|[Samantha Raskind](https://www.worldcubeassociation.org/persons/2013RASK01)|USA|30.48|1208|  
-|533|[Anirudh Sureshram](https://www.worldcubeassociation.org/persons/2014SURE11)|India|30.46|1209|  
-|534|[Pablo Contreras](https://www.worldcubeassociation.org/persons/2015CONT02)|France|30.45|1211|  
-|=|[Ekaterina Shutenko](https://www.worldcubeassociation.org/persons/2017SHUT02)|Russia|30.45|1211|  
-|536|[Adriano Matoba Lipski](https://www.worldcubeassociation.org/persons/2016LIPS01)|Brazil|30.44|1213|  
-|537|[Tang-Kai Huang (黃堂愷)](https://www.worldcubeassociation.org/persons/2017HUAT03)|Taiwan|30.43|1216|  
-|538|[Jay Lewis](https://www.worldcubeassociation.org/persons/2015LEWI01)|USA|30.41|1218|  
-|539|[Fandy Ramadhan Ganefianto](https://www.worldcubeassociation.org/persons/2011GANE01)|Indonesia|30.40|1220|  
-|=|[Joshua Eom](https://www.worldcubeassociation.org/persons/2017EOMJ01)|USA|30.40|1220|  
-|541|[Natsuki Ishizawa (石澤夏希)](https://www.worldcubeassociation.org/persons/2014ISHI04)|Japan|30.39|1223|  
-|542|[Giovane Rubin Fioravanti](https://www.worldcubeassociation.org/persons/2016FIOR01)|Brazil|30.38|1224|  
-|=|[Rick Hamburger](https://www.worldcubeassociation.org/persons/2016HAMB01)|Netherlands|30.38|1224|  
-|=|[Yuuki Kobayashi (古林祐輝)](https://www.worldcubeassociation.org/persons/2009KOBA02)|Japan|30.38|1224|  
-|545|[Santeri Laine](https://www.worldcubeassociation.org/persons/2017LAIN01)|Finland|30.37|1227|  
-|546|[William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07)|United Kingdom|30.36|1228|  
-|547|[Isaac Adair Nava Ozorio](https://www.worldcubeassociation.org/persons/2016OZOR01)|Mexico|30.35|1229|  
-|548|[Martin Kraut](https://www.worldcubeassociation.org/persons/2010KRAU02)|Germany|30.34|1230|  
-|549|[Jonas Rajagopal](https://www.worldcubeassociation.org/persons/2016RAJA06)|USA|30.33|1231|  
-|550|[Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11)|Spain|30.32|1232|  
-|551|[Haibo Sui (隋海波)](https://www.worldcubeassociation.org/persons/2011SUIH01)|China|30.31|1233|  
-|552|[Sujai Shakthivel](https://www.worldcubeassociation.org/persons/2018SHAK02)|India|30.30|1234|  
-|553|[Yiqun Fan (樊轶群)](https://www.worldcubeassociation.org/persons/2010FANY01)|China|30.29|1236|  
-|=|[Xiaoke Xu (徐晓珂)](https://www.worldcubeassociation.org/persons/2015XUXI02)|China|30.29|1236|  
-|555|[Yiting Chen (陈怡廷)](https://www.worldcubeassociation.org/persons/2017CHEY18)|China|30.28|1238|  
-|556|[Zihan Mu (穆子晗)](https://www.worldcubeassociation.org/persons/2016MUZI01)|China|30.26|1239|  
-|557|[Xinyu Li (李欣宇)](https://www.worldcubeassociation.org/persons/2017LIXI03)|China|30.25|1242|  
-|558|[Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01)|Poland|30.24|1243|  
-|559|[Simone Ohler](https://www.worldcubeassociation.org/persons/2014OHLE01)|Germany|30.23|1245|  
-|560|[JP Bulman](https://www.worldcubeassociation.org/persons/2013BULM01)|USA|30.21|1248|  
-|561|[Nathan Nakaguchi](https://www.worldcubeassociation.org/persons/2015NAKA02)|USA|30.20|1249|  
-|=|[Lachlan Stephens](https://www.worldcubeassociation.org/persons/2018STEP07)|Australia|30.20|1249|  
-|=|[Timothé Ringeard](https://www.worldcubeassociation.org/persons/2016RING01)|France|30.20|1249|  
-|564|[Zak Kenny](https://www.worldcubeassociation.org/persons/2016KENN01)|Australia|30.19|1252|  
-|565|[Ricardo Olea Catalán](https://www.worldcubeassociation.org/persons/2017CATA04)|Germany|30.18|1253|  
-|566|[Luis Sinhue Medina Salas](https://www.worldcubeassociation.org/persons/2014SALA15)|Mexico|30.14|1257|  
-|=|[Bo-Yu Lin (林柏佑)](https://www.worldcubeassociation.org/persons/2018LINB02)|Taiwan|30.14|1257|  
-|568|[Mathieu Preston](https://www.worldcubeassociation.org/persons/2014PRES03)|Canada|30.11|1260|  
-|569|[Yu Tang (唐语)](https://www.worldcubeassociation.org/persons/2017TANG35)|China|30.10|1262|  
-|570|[Steve Greer](https://www.worldcubeassociation.org/persons/2016GREE04)|USA|30.09|1265|  
-|=|[Bernhard Brodowsky](https://www.worldcubeassociation.org/persons/2016BROD01)|Germany|30.09|1265|  
-|572|[Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05)|Colombia|30.08|1269|  
-|=|[Rishabh Sanghavi](https://www.worldcubeassociation.org/persons/2012SANG02)|India|30.08|1269|  
-|574|[Adolfo Ortega Tecuapacho](https://www.worldcubeassociation.org/persons/2017TECU01)|Mexico|30.07|1271|  
-|575|[Jesús Jorge García López](https://www.worldcubeassociation.org/persons/2018LOPE09)|Mexico|30.06|1273|  
-|576|[Yibo Wang (王奕博)](https://www.worldcubeassociation.org/persons/2018WANG39)|China|30.05|1275|  
-|577|[Brandon Pierel](https://www.worldcubeassociation.org/persons/2018PIER02)|USA|30.04|1277|  
-|578|[Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01)|Poland|30.03|1278|  
-|=|[Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03)|Poland|30.03|1278|  
-|=|[Ákos Dél](https://www.worldcubeassociation.org/persons/2016DELA07)|Hungary|30.03|1278|  
-|=|[Alejandro Romero](https://www.worldcubeassociation.org/persons/2014ROME06)|Mexico|30.03|1278|  
-|582|[Marco Manno](https://www.worldcubeassociation.org/persons/2015MANN02)|Italy|30.02|1282|  
-|=|[Nicos Ahlgrimm](https://www.worldcubeassociation.org/persons/2017AHLG01)|Germany|30.02|1282|  
-|584|[Santiago Ramírez Jiménez](https://www.worldcubeassociation.org/persons/2017JIME07)|Colombia|30.01|1287|  
-|=|[Carson Deibert](https://www.worldcubeassociation.org/persons/2016DEIB01)|Canada|30.01|1287|  
-|586|[Azhar Virani](https://www.worldcubeassociation.org/persons/2015VIRA02)|USA|29.99|1292|  
-|=|[Jerry Yao](https://www.worldcubeassociation.org/persons/2019YAOJ01)|USA|29.99|1292|  
-|=|[Dmitriy Shevchenko](https://www.worldcubeassociation.org/persons/2016SHEV01)|Russia|29.99|1292|  
-|589|[Yusuf Ragab](https://www.worldcubeassociation.org/persons/2017RAGA02)|USA|29.98|1296|  
-|590|[Aaron Du](https://www.worldcubeassociation.org/persons/2018DUAA01)|USA|29.96|1299|  
-|=|[Mayron Blain](https://www.worldcubeassociation.org/persons/2014BLAI02)|France|29.96|1299|  
-|592|[Allen Gustrowsky](https://www.worldcubeassociation.org/persons/2016GUST02)|USA|29.92|1304|  
-|593|[Nitin Nathan](https://www.worldcubeassociation.org/persons/2015NATH02)|USA|29.91|1305|  
-|594|[Fred Lang](https://www.worldcubeassociation.org/persons/2016LANG12)|United Kingdom|29.90|1306|  
-|595|[Heewon Seo](https://www.worldcubeassociation.org/persons/2017SEOH01)|USA|29.89|1307|  
-|596|[Andrew Nathenson](https://www.worldcubeassociation.org/persons/2011NATH02)|USA|29.88|1309|  
-|=|[Sam Myung](https://www.worldcubeassociation.org/persons/2013MYUN01)|USA|29.88|1309|  
-|=|[Jakob Obleser](https://www.worldcubeassociation.org/persons/2013OBLE01)|Germany|29.88|1309|  
-|599|[Felipe Cardim](https://www.worldcubeassociation.org/persons/2016CARD06)|Brazil|29.86|1314|  
-|600|[Nathaniel Khalinsky](https://www.worldcubeassociation.org/persons/2015KHAL02)|Australia|29.85|1315|  
-|601|[Charlie van Ooran](https://www.worldcubeassociation.org/persons/2017OORA01)|Australia|29.83|1316|  
-|=|[Noah Pihlstrand](https://www.worldcubeassociation.org/persons/2018PIHL01)|Sweden|29.83|1316|  
-|=|[Jadon Castillo](https://www.worldcubeassociation.org/persons/2017CAST51)|USA|29.83|1316|  
-|604|[Ben Zoller](https://www.worldcubeassociation.org/persons/2013ZOLL01)|USA|29.82|1319|  
-|605|[Elliott Kobelansky](https://www.worldcubeassociation.org/persons/2019KOBE03)|Canada|29.79|1321|  
-|606|[Eduard Mrug](https://www.worldcubeassociation.org/persons/2016MRUG01)|Slovakia|29.78|1323|  
-|=|[Lincheng Cai (蔡林成)](https://www.worldcubeassociation.org/persons/2014CAIL01)|China|29.78|1323|  
-|=|[Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01)|Poland|29.78|1323|  
-|609|[Xujia Lei (雷旭嘉)](https://www.worldcubeassociation.org/persons/2017LEIX02)|China|29.77|1328|  
-|=|[Xiangjie Li (李祥杰)](https://www.worldcubeassociation.org/persons/2016LIXI04)|China|29.77|1328|  
-|611|[Jamil Mkelle](https://www.worldcubeassociation.org/persons/2017MKEL01)|Sweden|29.76|1332|  
-|612|[Ariq Rifqi Febrian](https://www.worldcubeassociation.org/persons/2017FEBR01)|Indonesia|29.73|1335|  
-|=|[Yue Shen (申粤)](https://www.worldcubeassociation.org/persons/2015SHEN07)|China|29.73|1335|  
-|614|[Kaiyang Gao (高凯阳)](https://www.worldcubeassociation.org/persons/2012GAOK01)|China|29.72|1337|  
-|615|[Liam Orovec](https://www.worldcubeassociation.org/persons/2014OROV01)|Canada|29.70|1341|  
-|=|[Rasmus Hagnäs](https://www.worldcubeassociation.org/persons/2016HAGN01)|Finland|29.70|1341|  
-|617|[Diego Boasso Vera](https://www.worldcubeassociation.org/persons/2015VERA02)|Brazil|29.68|1344|  
-|618|[Caleb Hoffman](https://www.worldcubeassociation.org/persons/2016HOFF03)|USA|29.66|1345|  
-|=|[Antto Pitkänen](https://www.worldcubeassociation.org/persons/2017PITK01)|Finland|29.66|1345|  
-|620|[Waden Cho](https://www.worldcubeassociation.org/persons/2016CHOW04)|USA|29.61|1354|  
-|621|[Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01)|Poland|29.60|1355|  
-|=|[Raghav Reddy](https://www.worldcubeassociation.org/persons/2016REDD10)|USA|29.60|1355|  
-|623|[Ryland Wilson](https://www.worldcubeassociation.org/persons/2015WILS05)|USA|29.58|1358|  
-|624|[Charles Koebele](https://www.worldcubeassociation.org/persons/2011KOEB01)|USA|29.57|1359|  
-|625|[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|Australia|29.55|1360|  
-|626|[Brendan White](https://www.worldcubeassociation.org/persons/2015WHIT03)|USA|29.53|1361|  
-|627|[James Golding](https://www.worldcubeassociation.org/persons/2017GOLD02)|United Kingdom|29.52|1363|  
-|628|[Benjamin Christie](https://www.worldcubeassociation.org/persons/2014CHRI04)|USA|29.51|1364|  
-|=|[Santino Maiorino](https://www.worldcubeassociation.org/persons/2017MAIO01)|USA|29.51|1364|  
-|630|[Shenchuan Mao (毛神川)](https://www.worldcubeassociation.org/persons/2011MAOS01)|China|29.49|1367|  
-|=|[Wenhao He (贺文浩)](https://www.worldcubeassociation.org/persons/2016HEWE02)|China|29.49|1367|  
-|632|[Adam Gradess](https://www.worldcubeassociation.org/persons/2014GRAD03)|USA|29.48|1370|  
-|633|[Robert Shindelar](https://www.worldcubeassociation.org/persons/2015SHIN07)|USA|29.47|1373|  
-|634|[Pengcheng Wang (王鹏程)](https://www.worldcubeassociation.org/persons/2017WANG24)|China|29.45|1375|  
-|635|[Alex Davani](https://www.worldcubeassociation.org/persons/2013DAVA01)|USA|29.43|1378|  
-|636|[Joseph Pasterski](https://www.worldcubeassociation.org/persons/2018PAST03)|USA|29.41|1379|  
-|637|[James Dean Behrle](https://www.worldcubeassociation.org/persons/2018BEHR01)|USA|29.40|1381|  
-|=|[Alfredo Vasquez Mendoza](https://www.worldcubeassociation.org/persons/2016MEND07)|Mexico|29.40|1381|  
-|639|[Michael Conard](https://www.worldcubeassociation.org/persons/2013CONA01)|USA|29.38|1383|  
-|640|[Graeme Watt](https://www.worldcubeassociation.org/persons/2015WATT02)|Canada|29.37|1385|  
-|641|[Yongyi Xiong (熊永一)](https://www.worldcubeassociation.org/persons/2010XION04)|China|29.35|1387|  
-|642|[Jingyuan Chen (陈静远)](https://www.worldcubeassociation.org/persons/2012CHEN25)|China|29.33|1388|  
-|643|[Hongyuan Fu (傅泓源)](https://www.worldcubeassociation.org/persons/2017FUHO01)|China|29.32|1389|  
-|644|[Cyrez Ronquillo](https://www.worldcubeassociation.org/persons/2013RONQ01)|Philippines|29.31|1390|  
-|645|[Dominic Morton](https://www.worldcubeassociation.org/persons/2017MORT02)|USA|29.30|1392|  
-|=|[Emil Khalimov](https://www.worldcubeassociation.org/persons/2018KHAL02)|Russia|29.30|1392|  
-|647|[Ilona Ansel](https://www.worldcubeassociation.org/persons/2016ANSE02)|France|29.29|1394|  
-|=|[Alexander Cohen](https://www.worldcubeassociation.org/persons/2015COHE02)|USA|29.29|1394|  
-|649|[Fernando Matadamas Luévanos](https://www.worldcubeassociation.org/persons/2014LUEV01)|Mexico|29.28|1396|  
-|=|[Sandy Aaron Jones](https://www.worldcubeassociation.org/persons/2018JONE05)|France|29.28|1396|  
-|=|[Anton Forsell](https://www.worldcubeassociation.org/persons/2016FORS05)|Sweden|29.28|1396|  
-|652|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|29.26|1399|  
-|653|[Yilin Yang (杨逸麟)](https://www.worldcubeassociation.org/persons/2018YANY05)|China|29.23|1401|  
-|654|[Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01)|Poland|29.22|1405|  
-|=|[Owen Brooks](https://www.worldcubeassociation.org/persons/2016BROO08)|USA|29.22|1405|  
-|=|[Andrey Kolevatykh (Андрей Колеватых)](https://www.worldcubeassociation.org/persons/2017KOLE01)|Russia|29.22|1405|  
-|657|[Micah Morrison](https://www.worldcubeassociation.org/persons/2017MORR05)|USA|29.21|1408|  
-|658|[Thomas Sonnenberg Jarner](https://www.worldcubeassociation.org/persons/2017JARN01)|Denmark|29.20|1409|  
-|=|[Maksym B. Tsymbaliuk (Максим Б. Цимбалюк)](https://www.worldcubeassociation.org/persons/2018TSYM01)|Ukraine|29.20|1409|  
-|660|[Simone Cantarelli](https://www.worldcubeassociation.org/persons/2012CANT02)|Italy|29.19|1412|  
-|661|[Patrick Hetco](https://www.worldcubeassociation.org/persons/2011HETC01)|Germany|29.17|1414|  
-|=|[Jianxu Chen (陈建旭)](https://www.worldcubeassociation.org/persons/2016CHEJ04)|China|29.17|1414|  
-|663|[Alex Agranov](https://www.worldcubeassociation.org/persons/2016AGRA01)|USA|29.15|1418|  
-|664|[An Le](https://www.worldcubeassociation.org/persons/2015LEAN01)|USA|29.14|1419|  
-|=|[Luiz Fellipe Oliuza Leal Silva](https://www.worldcubeassociation.org/persons/2016SILV02)|Brazil|29.14|1419|  
-|=|[Clay Moore](https://www.worldcubeassociation.org/persons/2017MOOR03)|USA|29.14|1419|  
-|667|[Oleksandr Kibenko (Олександр Кібенко)](https://www.worldcubeassociation.org/persons/2016KIBE01)|Ukraine|29.13|1422|  
-|668|[Michael Kristel](https://www.worldcubeassociation.org/persons/2012KRIS11)|Germany|29.12|1424|  
-|=|[Ankush Hommerich-Dutt](https://www.worldcubeassociation.org/persons/2013HOMM02)|USA|29.12|1424|  
-|670|[Max Sun](https://www.worldcubeassociation.org/persons/2017SUNM02)|Canada|29.09|1430|  
-|671|[Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03)|USA|29.08|1431|  
-|672|[Mihail Petrochenkov](https://www.worldcubeassociation.org/persons/2017PETR02)|Russia|29.07|1432|  
-|673|[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|USA|29.06|1433|  
-|674|[Andreas Lambropoulos](https://www.worldcubeassociation.org/persons/2017LAMB06)|USA|29.05|1434|  
-|=|[Hyun-Kyoo Rah (나현규)](https://www.worldcubeassociation.org/persons/2015RAHH01)|Korea|29.05|1434|  
-|=|[Carlos Joaquín Sánchez Oliva](https://www.worldcubeassociation.org/persons/2017OLIV26)|Mexico|29.05|1434|  
-|677|[Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01)|Poland|29.04|1437|  
-|678|[Theodore Chow](https://www.worldcubeassociation.org/persons/2012CHOW03)|Canada|29.03|1439|  
-|=|[Mannessah Kani](https://www.worldcubeassociation.org/persons/2016KANI01)|Australia|29.03|1439|  
-|=|[Andrew Tan Jing Bang](https://www.worldcubeassociation.org/persons/2019BANG01)|Singapore|29.03|1439|  
-|681|[Pietro Gasparetto](https://www.worldcubeassociation.org/persons/2016GASP01)|Italy|29.02|1443|  
-|682|[Jorge Rafael Castañeda Sánchez](https://www.worldcubeassociation.org/persons/2010CAST01)|Mexico|29.01|1444|  
-|=|[Toby Waters](https://www.worldcubeassociation.org/persons/2018WATE02)|USA|29.01|1444|  
-|=|[Lei Liu (刘磊)](https://www.worldcubeassociation.org/persons/2018LIUL01)|China|29.01|1444|  
-|685|[Zhengli Ning (宁郑立)](https://www.worldcubeassociation.org/persons/2017NING02)|China|29.00|1448|  
-|686|[Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01)|China|28.97|1454|  
-|=|[Mingzhi Da (达明志)](https://www.worldcubeassociation.org/persons/2014DAMI01)|China|28.97|1454|  
-|688|[Jason Zheng](https://www.worldcubeassociation.org/persons/2018ZHEN08)|USA|28.96|1456|  
-|=|[Emanuel Capule](https://www.worldcubeassociation.org/persons/2017CAPU01)|Philippines|28.96|1456|  
-|690|[Timotej Andrejko](https://www.worldcubeassociation.org/persons/2017ANDR16)|Slovakia|28.95|1460|  
-|=|[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|28.95|1460|  
-|=|[Shawn Poh](https://www.worldcubeassociation.org/persons/2016POHS01)|Malaysia|28.95|1460|  
-|=|[Jess Mitchell](https://www.worldcubeassociation.org/persons/2018MITC03)|USA|28.95|1460|  
-|694|[Sergio Minaya Pimentel](https://www.worldcubeassociation.org/persons/2017PIME01)|Peru|28.94|1464|  
-|695|[Tyler Kochy](https://www.worldcubeassociation.org/persons/2017KOCH08)|USA|28.93|1467|  
-|696|[Shihao Ou (欧世浩)](https://www.worldcubeassociation.org/persons/2014OUSH01)|China|28.92|1470|  
-|697|[Dmytro Zhyhai (Дмитро Жигай)](https://www.worldcubeassociation.org/persons/2014ZHYH01)|Ukraine|28.91|1471|  
-|=|[Dylan Seah Tze Siang](https://www.worldcubeassociation.org/persons/2015SIAN01)|Singapore|28.91|1471|  
-|=|[Xi Zhang (张希)](https://www.worldcubeassociation.org/persons/2015ZHAN62)|China|28.91|1471|  
-|=|[Artem Kulikov (Артём Куликов)](https://www.worldcubeassociation.org/persons/2019KULI02)|Russia|28.91|1471|  
-|701|[Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02)|New Zealand|28.89|1476|  
-|=|[Albert Quiñones](https://www.worldcubeassociation.org/persons/2012QUIA01)|Philippines|28.89|1476|  
-|703|[Bogdan Briciu](https://www.worldcubeassociation.org/persons/2018BRIC02)|Romania|28.88|1480|  
-|704|[Alexandru Constantin Stoica](https://www.worldcubeassociation.org/persons/2013STOI01)|Romania|28.84|1483|  
-|705|[Philipp Roth](https://www.worldcubeassociation.org/persons/2012ROTH01)|Germany|28.83|1484|  
-|=|[Yun-Rong Chiang (江昀容)](https://www.worldcubeassociation.org/persons/2015CHIA06)|Taiwan|28.83|1484|  
-|=|[Vianne Chang](https://www.worldcubeassociation.org/persons/2017CHAN47)|Canada|28.83|1484|  
-|=|[Lorenzo Franco Kasilag](https://www.worldcubeassociation.org/persons/2016KASI01)|Philippines|28.83|1484|  
-|=|[Ethan Misteri](https://www.worldcubeassociation.org/persons/2016MIST03)|USA|28.83|1484|  
-|710|[Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01)|Sweden|28.82|1490|  
-|711|[Nolan Wood](https://www.worldcubeassociation.org/persons/2016WOOD01)|USA|28.81|1491|  
-|=|[Logan Day-Richter](https://www.worldcubeassociation.org/persons/2017DAYR01)|USA|28.81|1491|  
-|=|[Shao-Yu Hu (胡紹宇)](https://www.worldcubeassociation.org/persons/2015HUSH02)|Taiwan|28.81|1491|  
-|=|[Yongtao Sun (孙永涛)](https://www.worldcubeassociation.org/persons/2013SUNY02)|China|28.81|1491|  
-|715|[Alex Thielemier](https://www.worldcubeassociation.org/persons/2009THIE02)|USA|28.80|1495|  
-|=|[Lucinda Zhou](https://www.worldcubeassociation.org/persons/2015ZHOU02)|USA|28.80|1495|  
-|717|[Ritwik Pattnaik](https://www.worldcubeassociation.org/persons/2014PATT03)|India|28.79|1498|  
-|=|[Jinzhou Huang (黄金洲)](https://www.worldcubeassociation.org/persons/2017HUAN34)|China|28.79|1498|  
-|719|[Yuxuan Guo (郭雨轩)](https://www.worldcubeassociation.org/persons/2014GUOY04)|China|28.78|1501|  
-|=|[Gerson Natanael](https://www.worldcubeassociation.org/persons/2010NATA01)|Indonesia|28.78|1501|  
-|=|[Darren Saito](https://www.worldcubeassociation.org/persons/2018SAIT06)|USA|28.78|1501|  
-|722|[Jerich Lee (李再圆)](https://www.worldcubeassociation.org/persons/2015LEEJ02)|USA|28.77|1504|  
-|723|[Junxiang Hong (洪骏翔)](https://www.worldcubeassociation.org/persons/2016HONG07)|China|28.76|1505|  
-|724|[Miguel Alejandro Blanco Ríos](https://www.worldcubeassociation.org/persons/2017RIOS06)|Mexico|28.74|1507|  
-|=|[Lei Wang (汪磊)](https://www.worldcubeassociation.org/persons/2013WANG11)|China|28.74|1507|  
-|726|[Jorge Martín Espinosa](https://www.worldcubeassociation.org/persons/2012ESPI02)|Spain|28.73|1510|  
-|=|[Rubén López de Juan](https://www.worldcubeassociation.org/persons/2016LOPE37)|Spain|28.73|1510|  
-|=|[Dylan Raymond](https://www.worldcubeassociation.org/persons/2016RAYM01)|USA|28.73|1510|  
-|=|[Corentin Furet](https://www.worldcubeassociation.org/persons/2014FURE01)|France|28.73|1510|  
-|730|[Daniel Evans](https://www.worldcubeassociation.org/persons/2016EVAN06)|United Kingdom|28.72|1515|  
-|731|[Maverick Sua](https://www.worldcubeassociation.org/persons/2016SUAM01)|Philippines|28.71|1516|  
-|732|[Glib Vedmid](https://www.worldcubeassociation.org/persons/2016VEDM01)|Ukraine|28.69|1518|  
-|733|[Mykhailo Akhunov (Михайло Ахунов)](https://www.worldcubeassociation.org/persons/2017AKHU02)|Ukraine|28.67|1520|  
-|734|[Alec Olson](https://www.worldcubeassociation.org/persons/2016OLSO01)|USA|28.66|1521|  
-|=|[Ramesh Vidyasagar](https://www.worldcubeassociation.org/persons/2013VIDY01)|Australia|28.66|1521|  
-|736|[Maggie Jordan](https://www.worldcubeassociation.org/persons/2013JORD01)|USA|28.65|1523|  
-|737|[Roman Povolotskii](https://www.worldcubeassociation.org/persons/2017POVO01)|Russia|28.64|1525|  
-|738|[Juan Bernardo Mora Alonso](https://www.worldcubeassociation.org/persons/2017ALON06)|Mexico|28.63|1526|  
-|739|[Jong Hun Kim](https://www.worldcubeassociation.org/persons/2016KIMJ12)|Korea|28.62|1529|  
-|=|[Spencer Andersen](https://www.worldcubeassociation.org/persons/2016ANDE02)|USA|28.62|1529|  
-|=|[Dan Selzer](https://www.worldcubeassociation.org/persons/2011SELZ01)|USA|28.62|1529|  
-|742|[Jack O'Mahony](https://www.worldcubeassociation.org/persons/2011OMAH01)|Australia|28.61|1532|  
-|=|[Oleg Martynov](https://www.worldcubeassociation.org/persons/2012MART05)|Russia|28.61|1532|  
-|744|[Qingze Li (李庆泽)](https://www.worldcubeassociation.org/persons/2016LIQI03)|China|28.60|1535|  
-|=|[Acchyut Jolly](https://www.worldcubeassociation.org/persons/2015JOLL02)|India|28.60|1535|  
-|746|[Luke Griesser](https://www.worldcubeassociation.org/persons/2015GRIE02)|USA|28.59|1537|  
-|=|[Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06)|Poland|28.59|1537|  
-|=|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|28.59|1537|  
-|749|[Sören Jaan Handschuch](https://www.worldcubeassociation.org/persons/2019HAND01)|Germany|28.58|1542|  
-|=|[Javier Tovar Castro](https://www.worldcubeassociation.org/persons/2016CAST23)|Spain|28.58|1542|  
-|751|[Zach Ramer](https://www.worldcubeassociation.org/persons/2015RAME01)|Canada|28.57|1544|  
-|=|[Grégoire Gsell](https://www.worldcubeassociation.org/persons/2016GSEL01)|France|28.57|1544|  
-|753|[Jorge Marín Segovia](https://www.worldcubeassociation.org/persons/2016SEGO02)|Spain|28.56|1546|  
-|=|[Chenxiao He (何辰骁)](https://www.worldcubeassociation.org/persons/2015HECH02)|China|28.56|1546|  
-|755|[Rhys Campbell](https://www.worldcubeassociation.org/persons/2014CAMP02)|Australia|28.55|1548|  
-|756|[Konstantin Krämer](https://www.worldcubeassociation.org/persons/2014KRAM02)|Germany|28.54|1549|  
-|757|[Shilan Wang (王石蓝)](https://www.worldcubeassociation.org/persons/2017WANG03)|China|28.53|1551|  
-|758|[Nick Nijssen](https://www.worldcubeassociation.org/persons/2017NIJS01)|Netherlands|28.52|1554|  
-|=|[Vishal Mohanraju](https://www.worldcubeassociation.org/persons/2017MOHA05)|India|28.52|1554|  
-|760|[Christian Smedegaard](https://www.worldcubeassociation.org/persons/2015SMED01)|Denmark|28.51|1556|  
-|=|[Sofiya Bondarenko](https://www.worldcubeassociation.org/persons/2017BOND07)|Ukraine|28.51|1556|  
-|762|[Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03)|China|28.49|1558|  
-|763|[Carter Thomas](https://www.worldcubeassociation.org/persons/2018THOM29)|USA|28.48|1559|  
-|764|[Lacey Dilworth](https://www.worldcubeassociation.org/persons/2018DILW02)|USA|28.47|1560|  
-|765|[Minkyu Shin (신민규)](https://www.worldcubeassociation.org/persons/2018SHIN08)|Korea|28.46|1561|  
-|766|[Gabriel LaForte](https://www.worldcubeassociation.org/persons/2012LAFO01)|USA|28.45|1562|  
-|=|[Ishmam Mirza](https://www.worldcubeassociation.org/persons/2011MIRZ01)|USA|28.45|1562|  
-|=|[Clancy Caster](https://www.worldcubeassociation.org/persons/2017CAST08)|USA|28.45|1562|  
-|769|[Christian Meyer](https://www.worldcubeassociation.org/persons/2016MEYE02)|Switzerland|28.42|1569|  
-|=|[Joris Mühlsteff](https://www.worldcubeassociation.org/persons/2008MHLS01)|Netherlands|28.42|1569|  
-|771|[Fumiya Matsui (松井郁也)](https://www.worldcubeassociation.org/persons/2013MATS02)|Japan|28.41|1571|  
-|=|[Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01)|Germany|28.41|1571|  
-|=|[Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01)|New Zealand|28.41|1571|  
-|=|[Pim Kloet](https://www.worldcubeassociation.org/persons/2016KLOE01)|Netherlands|28.41|1571|  
-|775|[Dongyun Yin (殷冬昀)](https://www.worldcubeassociation.org/persons/2012YIND01)|China|28.39|1576|  
-|=|[Walter Felix](https://www.worldcubeassociation.org/persons/2015FELI01)|Peru|28.39|1576|  
-|777|[John Albright](https://www.worldcubeassociation.org/persons/2016ALBR01)|USA|28.38|1578|  
-|=|[Akihiro Ishida (石田朗大)](https://www.worldcubeassociation.org/persons/2009ISHI01)|Japan|28.38|1578|  
-|779|[Pedro Miranda Moreira](https://www.worldcubeassociation.org/persons/2014MORE05)|Brazil|28.36|1581|  
-|=|[Nipun Kisari](https://www.worldcubeassociation.org/persons/2017KISA01)|USA|28.36|1581|  
-|781|[Ryan Przybocki](https://www.worldcubeassociation.org/persons/2013PRZY02)|USA|28.35|1583|  
-|782|[Takahiro Tomisawa (富沢隆広)](https://www.worldcubeassociation.org/persons/2008TOMI01)|Japan|28.34|1584|  
-|=|[Chun-Chen Chu (朱峻辰)](https://www.worldcubeassociation.org/persons/2013CHUC01)|Taiwan|28.34|1584|  
-|784|[Chris Brotzman](https://www.worldcubeassociation.org/persons/2013BROT01)|USA|28.33|1586|  
-|=|[Jiahui Zhu (朱嘉辉)](https://www.worldcubeassociation.org/persons/2015ZHUJ05)|China|28.33|1586|  
-|786|[Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01)|Poland|28.32|1589|  
-|=|[Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01)|USA|28.32|1589|  
-|788|[András Szigeti](https://www.worldcubeassociation.org/persons/2017SZIG01)|Romania|28.30|1594|  
-|=|[Chan-Min Lee (이찬민)](https://www.worldcubeassociation.org/persons/2015LEEC01)|Korea|28.30|1594|  
-|790|[Michael Kaiser](https://www.worldcubeassociation.org/persons/2016KAIS03)|USA|28.28|1597|  
-|=|[Qingwei Kong (孔庆玮)](https://www.worldcubeassociation.org/persons/2012KONG01)|China|28.28|1597|  
-|792|[Chandler Pike](https://www.worldcubeassociation.org/persons/2018PIKE01)|USA|28.27|1600|  
-|793|[Oliver Kugler](https://www.worldcubeassociation.org/persons/2016KUGL01)|Slovakia|28.26|1601|  
-|794|[Yikang Chen (陈毅康)](https://www.worldcubeassociation.org/persons/2016CHEY12)|China|28.25|1602|  
-|=|[Timur Kakhanovich](https://www.worldcubeassociation.org/persons/2014KAKH01)|Belarus|28.25|1602|  
-|796|[Danil Kotenkov (Данил Котенков)](https://www.worldcubeassociation.org/persons/2018KOTE06)|Russia|28.23|1605|  
-|797|[Oscar Sánchez Najarro](https://www.worldcubeassociation.org/persons/2017NAJA02)|Spain|28.21|1608|  
-|=|[James Gonsalves](https://www.worldcubeassociation.org/persons/2015GONS01)|India|28.21|1608|  
-|=|[Alexandre Ravel](https://www.worldcubeassociation.org/persons/2016RAVE02)|France|28.21|1608|  
-|800|[Jintao Jin (金锦涛)](https://www.worldcubeassociation.org/persons/2017JINJ02)|China|28.20|1612|  
-|=|[Zhaoshuai Zhong (仲昭帅)](https://www.worldcubeassociation.org/persons/2017ZHON01)|China|28.20|1612|  
-|=|[Zhuoxi Yin (尹卓曦)](https://www.worldcubeassociation.org/persons/2018YINZ03)|China|28.20|1612|  
-|803|[Gil Kochbeck](https://www.worldcubeassociation.org/persons/2017KOCH07)|Germany|28.19|1616|  
-|=|[Alex Burns](https://www.worldcubeassociation.org/persons/2017BURN05)|United Kingdom|28.19|1616|  
-|=|[Shubham Maharana](https://www.worldcubeassociation.org/persons/2016MAHA07)|India|28.19|1616|  
-|806|[Noah Wilde](https://www.worldcubeassociation.org/persons/2015WILD01)|Canada|28.18|1620|  
-|807|[Tianze Xu (徐天泽)](https://www.worldcubeassociation.org/persons/2015XUTI01)|China|28.15|1621|  
-|808|[Cheng-Hua Wu (巫政樺)](https://www.worldcubeassociation.org/persons/2015WUCH01)|Taiwan|28.13|1623|  
-|809|[Victor Wijsman](https://www.worldcubeassociation.org/persons/2016WIJS01)|France|28.12|1624|  
-|810|[Weiwen Zhang (章巍玟)](https://www.worldcubeassociation.org/persons/2016ZHAN95)|China|28.11|1626|  
-|=|[Nieh Zee Ernn Ryan](https://www.worldcubeassociation.org/persons/2016RYAN06)|Malaysia|28.11|1626|  
-|=|[Chen Kee Hong (曾纪宏)](https://www.worldcubeassociation.org/persons/2017HONG15)|Malaysia|28.11|1626|  
-|=|[Matías Ponte](https://www.worldcubeassociation.org/persons/2018PONT03)|Argentina|28.11|1626|  
-|=|[Linqi Chen (陈林奇)](https://www.worldcubeassociation.org/persons/2013CHEN13)|China|28.11|1626|  
-|=|[Stephen Bohner](https://www.worldcubeassociation.org/persons/2018BOHN04)|USA|28.11|1626|  
-|816|[Jun Fei (费俊)](https://www.worldcubeassociation.org/persons/2016FEIJ02)|China|28.10|1632|  
-|817|[Vishwa Sankar](https://www.worldcubeassociation.org/persons/2017SANK04)|USA|28.09|1633|  
-|818|[Tyler Brodzinski](https://www.worldcubeassociation.org/persons/2014BROD03)|USA|28.07|1637|  
-|=|[Ruzhen Ye (叶儒臻)](https://www.worldcubeassociation.org/persons/2009YERU01)|China|28.07|1637|  
-|820|[Ordway Persyn](https://www.worldcubeassociation.org/persons/2016PERS01)|USA|28.06|1641|  
-|=|[Muhammad Hafizuddin Akhtar Bin Mohd Zainal Abidin](https://www.worldcubeassociation.org/persons/2017ABID02)|Malaysia|28.06|1641|  
-|822|[Brandon Mikel](https://www.worldcubeassociation.org/persons/2011MIKE01)|USA|28.05|1644|  
-|=|[Trevor Petersen](https://www.worldcubeassociation.org/persons/2011PETE04)|USA|28.05|1644|  
-|824|[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|Romania|28.04|1646|  
-|825|[Jonathan Blöcher](https://www.worldcubeassociation.org/persons/2018BLOC01)|Germany|28.03|1648|  
-|=|[Jesper Frisk](https://www.worldcubeassociation.org/persons/2017FRIS01)|Sweden|28.03|1648|  
-|827|[Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06)|Spain|28.01|1652|  
-|828|[Michel Andre Gonzaga Quijano](https://www.worldcubeassociation.org/persons/2018QUIJ01)|Peru|28.00|1654|  
-|=|[Will Wooden](https://www.worldcubeassociation.org/persons/2016WOOD02)|USA|28.00|1654|  
-|=|[Chenying Pei (裴琛英)](https://www.worldcubeassociation.org/persons/2016PEIC01)|China|28.00|1654|  
-|=|[Zhaoyang Hong (洪兆阳)](https://www.worldcubeassociation.org/persons/2016HONG13)|China|28.00|1654|  
-|832|[Jack Doyle](https://www.worldcubeassociation.org/persons/2016DOYL02)|USA|27.99|1659|  
-|=|[Hazel Moises Ruiz Gutierrez](https://www.worldcubeassociation.org/persons/2017GUTI13)|Mexico|27.99|1659|  
-|834|[Jichen Zha (查吉辰)](https://www.worldcubeassociation.org/persons/2013ZHAJ01)|China|27.98|1661|  
-|=|[Vincentiu Tarsoaga](https://www.worldcubeassociation.org/persons/2017TARS01)|Romania|27.98|1661|  
-|836|[Nestor Sokhan](https://www.worldcubeassociation.org/persons/2016SOKH01)|USA|27.97|1663|  
-|837|[Xiaohan Yan (闫小晗)](https://www.worldcubeassociation.org/persons/2017YANX01)|China|27.96|1664|  
-|=|[Muhammad Badruddin](https://www.worldcubeassociation.org/persons/2010BADR01)|Indonesia|27.96|1664|  
-|=|[Zach Goldman](https://www.worldcubeassociation.org/persons/2010GOLD01)|USA|27.96|1664|  
-|840|[Jack Ryan](https://www.worldcubeassociation.org/persons/2015RYAN05)|USA|27.95|1669|  
-|=|[Wenxuan Yue (岳文轩)](https://www.worldcubeassociation.org/persons/2015YUEW01)|China|27.95|1669|  
-|842|[Ansh Iyer](https://www.worldcubeassociation.org/persons/2015IYER03)|India|27.94|1671|  
-|=|[Milhouse Gibbons-Paul](https://www.worldcubeassociation.org/persons/2017GIBB01)|United Kingdom|27.94|1671|  
-|844|[Benjamin Costantini](https://www.worldcubeassociation.org/persons/2016COST11)|USA|27.93|1673|  
-|845|[Ricky Meiler](https://www.worldcubeassociation.org/persons/2012MEIL01)|Germany|27.92|1674|  
-|=|[Sam van Vliet](https://www.worldcubeassociation.org/persons/2018VLIE02)|Australia|27.92|1674|  
-|=|[Joseph Williams](https://www.worldcubeassociation.org/persons/2018WILL27)|United Kingdom|27.92|1674|  
-|848|[Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04)|Hong Kong|27.91|1677|  
-|=|[Rodrigo Noe Gonzalez Hidalgo](https://www.worldcubeassociation.org/persons/2015HIDA03)|Mexico|27.91|1677|  
-|=|[Benjamin Tibbetts](https://www.worldcubeassociation.org/persons/2017TIBB01)|USA|27.91|1677|  
-|=|[Jonathan Truchot](https://www.worldcubeassociation.org/persons/2017TRUC02)|USA|27.91|1677|  
-|852|[Zhi Li (李志)](https://www.worldcubeassociation.org/persons/2016LIZH05)|China|27.88|1684|  
-|=|[Yevheniia Melnykova (Євгенія Мельникова)](https://www.worldcubeassociation.org/persons/2016MELN01)|Ukraine|27.88|1684|  
-|=|[Nobuaki Suga (菅信昭)](https://www.worldcubeassociation.org/persons/2007SUGA01)|Japan|27.88|1684|  
-|855|[Sebastian Alanen](https://www.worldcubeassociation.org/persons/2015ALAN02)|Sweden|27.87|1687|  
-|856|[Jonah Crosby](https://www.worldcubeassociation.org/persons/2012CROS01)|USA|27.86|1689|  
-|=|[Bhavya Goyal](https://www.worldcubeassociation.org/persons/2016GOYA02)|India|27.86|1689|  
-|858|[Sophia Burian](https://www.worldcubeassociation.org/persons/2016BURI01)|Germany|27.84|1692|  
-|859|[Patrick Fischer](https://www.worldcubeassociation.org/persons/2016FISC02)|USA|27.82|1694|  
-|=|[Timur Kononov (Тимур Кононов)](https://www.worldcubeassociation.org/persons/2018KONO05)|Russia|27.82|1694|  
-|861|[Alison Meador](https://www.worldcubeassociation.org/persons/2017MEAD01)|USA|27.81|1696|  
-|=|[Matthew Bidwell](https://www.worldcubeassociation.org/persons/2018BIDW02)|USA|27.81|1696|  
-|=|[Snehashish Chakravarti](https://www.worldcubeassociation.org/persons/2015CHAK01)|India|27.81|1696|  
-|864|[Sergio Torrijos Santano](https://www.worldcubeassociation.org/persons/2013SANT13)|Spain|27.80|1700|  
-|865|[Phoenix Patterson](https://www.worldcubeassociation.org/persons/2018PATT04)|Australia|27.79|1702|  
-|866|[Boxi Chen (陈博希)](https://www.worldcubeassociation.org/persons/2014CHEN08)|China|27.78|1703|  
-|867|[Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03)|Malaysia|27.77|1705|  
-|=|[Patrick Kern](https://www.worldcubeassociation.org/persons/2011KERN02)|Germany|27.77|1705|  
-|869|[Jonas Rongé](https://www.worldcubeassociation.org/persons/2014RONG01)|Belgium|27.76|1708|  
-|=|[Theo Hall](https://www.worldcubeassociation.org/persons/2017HALL06)|United Kingdom|27.76|1708|  
-|=|[Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02)|China|27.76|1708|  
-|872|[Shikai Jiang (江侍锴)](https://www.worldcubeassociation.org/persons/2012JIAN07)|China|27.74|1711|  
-|873|[Bae Chan Heyung (배찬형)](https://www.worldcubeassociation.org/persons/2017HEYU03)|Korea|27.73|1712|  
-|=|[Nicholas Tan Jun Wei](https://www.worldcubeassociation.org/persons/2017WEIN03)|Malaysia|27.73|1712|  
-|=|[Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02)|Latvia|27.73|1712|  
-|=|[Nela Sendlerová](https://www.worldcubeassociation.org/persons/2015SEND02)|Czech Republic|27.73|1712|  
-|877|[Ilia Murmulyak](https://www.worldcubeassociation.org/persons/2017MURM01)|Russia|27.70|1723|  
-|=|[Gabriele Cappelletti](https://www.worldcubeassociation.org/persons/2012CAPP01)|Italy|27.70|1723|  
-|=|[Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01)|Poland|27.70|1723|  
-|=|[Fredrik Trondhjem](https://www.worldcubeassociation.org/persons/2011TRON01)|Denmark|27.70|1723|  
-|881|[Christopher G. Argueta](https://www.worldcubeassociation.org/persons/2018ARGU01)|USA|27.69|1727|  
-|=|[Gerson Marcelo Nuñez Huanuiri](https://www.worldcubeassociation.org/persons/2017HUAN07)|Peru|27.69|1727|  
-|883|[Justin John Navarro](https://www.worldcubeassociation.org/persons/2016NAVA07)|Philippines|27.68|1730|  
-|884|[Ruotong Wang (王若同)](https://www.worldcubeassociation.org/persons/2015WANG92)|China|27.65|1731|  
-|=|[Andrew Bae](https://www.worldcubeassociation.org/persons/2014BAEA01)|USA|27.65|1731|  
-|=|[Yunfan Li (李云帆)](https://www.worldcubeassociation.org/persons/2018LIYU20)|China|27.65|1731|  
-|887|[Jihao Zhang (张纪豪)](https://www.worldcubeassociation.org/persons/2016ZHAJ09)|China|27.64|1734|  
-|=|[Virgile Perrot](https://www.worldcubeassociation.org/persons/2017PERR02)|France|27.64|1734|  
-|889|[Ugnius Byron Braun](https://www.worldcubeassociation.org/persons/2017BRAU02)|Lithuania|27.63|1738|  
-|890|[Ben Zwicky](https://www.worldcubeassociation.org/persons/2018ZWIC01)|Switzerland|27.62|1739|  
-|=|[Jiaxi Ye (叶佳希)](https://www.worldcubeassociation.org/persons/2011YEJI01)|China|27.62|1739|  
-|=|[Oleg Liven](https://www.worldcubeassociation.org/persons/2019LIVE02)|Russia|27.62|1739|  
-|893|[Yannick Balsiger](https://www.worldcubeassociation.org/persons/2017BALS01)|Switzerland|27.61|1742|  
-|894|[Theo Lyholm](https://www.worldcubeassociation.org/persons/2016LYHO01)|Denmark|27.58|1745|  
-|=|[Titus Sutterfield](https://www.worldcubeassociation.org/persons/2017SUTT01)|USA|27.58|1745|  
-|=|[Jitao Zhu (朱继涛)](https://www.worldcubeassociation.org/persons/2017ZHUJ02)|China|27.58|1745|  
-|=|[Hugo Adams](https://www.worldcubeassociation.org/persons/2013ADAM02)|Australia|27.58|1745|  
-|=|[David Beugnon](https://www.worldcubeassociation.org/persons/2015BEUG01)|USA|27.58|1745|  
-|899|[Matthew Shay](https://www.worldcubeassociation.org/persons/2015SHAY01)|USA|27.57|1752|  
-|=|[Jan van Dorst](https://www.worldcubeassociation.org/persons/2016DORS01)|Netherlands|27.57|1752|  
-|=|[Mikhail Ivashechkin](https://www.worldcubeassociation.org/persons/2018IVAS01)|Russia|27.57|1752|  
-|902|[Kevin Coulter](https://www.worldcubeassociation.org/persons/2016COUL02)|USA|27.56|1757|  
-|903|[Weisheng Chen (陈伟胜)](https://www.worldcubeassociation.org/persons/2015CHEN52)|China|27.55|1758|  
-|=|[Dmitry Matthew Yaquinto](https://www.worldcubeassociation.org/persons/2018YAQU01)|Russia|27.55|1758|  
-|=|[Daniel Méndez](https://www.worldcubeassociation.org/persons/2016MEND23)|Guatemala|27.55|1758|  
-|906|[Lakshmi Sai Srivatsa](https://www.worldcubeassociation.org/persons/2017SRIV11)|India|27.54|1762|  
-|907|[Gavin Olson](https://www.worldcubeassociation.org/persons/2016OLSO02)|Canada|27.53|1763|  
-|908|[Cai Ying (应才)](https://www.worldcubeassociation.org/persons/2014YING01)|China|27.52|1764|  
-|909|[Nick Camillone](https://www.worldcubeassociation.org/persons/2012CAMI01)|USA|27.51|1765|  
-|910|[Pranav Kulkarni](https://www.worldcubeassociation.org/persons/2017KULK10)|USA|27.49|1767|  
-|=|[Aman Bhutani](https://www.worldcubeassociation.org/persons/2014BHUT01)|USA|27.49|1767|  
-|912|[Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01)|Poland|27.48|1769|  
-|913|[Jia-He Lai (賴佳禾)](https://www.worldcubeassociation.org/persons/2015LAIJ02)|Taiwan|27.46|1775|  
-|914|[Vincenzo Maria Gammino](https://www.worldcubeassociation.org/persons/2016GAMM01)|Italy|27.45|1779|  
-|915|[Jiyi Wang (王吉怡)](https://www.worldcubeassociation.org/persons/2017WANJ21)|China|27.44|1781|  
-|916|[Ahmad Kamil Ihsan Bin Ikhwan](https://www.worldcubeassociation.org/persons/2016IKHW02)|Malaysia|27.42|1782|  
-|=|[Everett Kelly](https://www.worldcubeassociation.org/persons/2008KELL02)|USA|27.42|1782|  
-|918|[Caleb Tay](https://www.worldcubeassociation.org/persons/2016TAYC01)|Australia|27.41|1784|  
-|=|[Brendan Bakker](https://www.worldcubeassociation.org/persons/2015BAKK01)|USA|27.41|1784|  
-|920|[Efrem Blitz](https://www.worldcubeassociation.org/persons/2015BLIT01)|USA|27.40|1787|  
-|921|[Soheil Lotfi (سهیل لطفی)](https://www.worldcubeassociation.org/persons/2013LOTF01)|Iran|27.39|1789|  
-|922|[Joe Davis](https://www.worldcubeassociation.org/persons/2016DAVI05)|Australia|27.38|1791|  
-|=|[Cian-Jyun Yang (楊謙君)](https://www.worldcubeassociation.org/persons/2019YANG94)|Taiwan|27.38|1791|  
-|924|[Yongzhe Mao (毛勇喆)](https://www.worldcubeassociation.org/persons/2013MAOY01)|China|27.37|1793|  
-|=|[Er-Sheng Kuo (郭爾陞)](https://www.worldcubeassociation.org/persons/2011KUOE01)|Taiwan|27.37|1793|  
-|=|[Yiyun Chen (陈毅昀)](https://www.worldcubeassociation.org/persons/2017CHEN28)|China|27.37|1793|  
-|927|[Thomas Connor](https://www.worldcubeassociation.org/persons/2017CONN03)|United Kingdom|27.36|1796|  
-|=|[Samuel Hernandez Castro](https://www.worldcubeassociation.org/persons/2016CAST31)|Mexico|27.36|1796|  
-|929|[Matthieu Aubert](https://www.worldcubeassociation.org/persons/2016AUBE01)|France|27.34|1799|  
-|=|[Max Day](https://www.worldcubeassociation.org/persons/2014DAYM01)|United Kingdom|27.34|1799|  
-|=|[Om Joshi](https://www.worldcubeassociation.org/persons/2018JOSH01)|USA|27.34|1799|  
-|932|[Devin Guerrero](https://www.worldcubeassociation.org/persons/2015GUER04)|USA|27.33|1802|  
-|=|[Wesley Stephenson](https://www.worldcubeassociation.org/persons/2016STEP01)|USA|27.33|1802|  
-|934|[Maxime Josse](https://www.worldcubeassociation.org/persons/2015JOSS01)|France|27.32|1805|  
-|=|[Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27)|USA|27.32|1805|  
-|=|[Meng Yuan (袁梦)](https://www.worldcubeassociation.org/persons/2017YUAN10)|China|27.32|1805|  
-|=|[Leonid Shcherbakov (Леонид Щербаков)](https://www.worldcubeassociation.org/persons/2018SCHE07)|Russia|27.32|1805|  
-|=|[Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01)|USA|27.32|1805|  
-|939|[Samuel Ignacio Rozo Alvarez](https://www.worldcubeassociation.org/persons/2016ALVA06)|Colombia|27.29|1813|  
-|=|[Samuel Chiu](https://www.worldcubeassociation.org/persons/2010CHIU01)|USA|27.29|1813|  
-|941|[Velidi Venkata Jagan Mohana Murali Krishna](https://www.worldcubeassociation.org/persons/2012KRIS04)|India|27.28|1815|  
-|=|[Dalton Nichols](https://www.worldcubeassociation.org/persons/2014NICH02)|USA|27.28|1815|  
-|943|[Fangrui Zeng (曾方锐)](https://www.worldcubeassociation.org/persons/2013ZENG02)|China|27.26|1818|  
-|944|[Tam Quan](https://www.worldcubeassociation.org/persons/2016QUAN03)|Australia|27.25|1820|  
-|=|[Fred Quong](https://www.worldcubeassociation.org/persons/2015QUON01)|Canada|27.25|1820|  
-|=|[Iurii Chesnokov (Юрий Чесноков)](https://www.worldcubeassociation.org/persons/2018CHES17)|Russia|27.25|1820|  
-|947|[Adam Ahmad](https://www.worldcubeassociation.org/persons/2018AHMA02)|USA|27.24|1823|  
-|948|[Jefferson Fallas Rojas](https://www.worldcubeassociation.org/persons/2017ROJA18)|Costa Rica|27.22|1829|  
-|949|[Max Jiang](https://www.worldcubeassociation.org/persons/2015JIAN04)|Canada|27.21|1830|  
-|950|[Anang Hariyanto Nurhadi](https://www.worldcubeassociation.org/persons/2014NURH01)|Indonesia|27.20|1832|  
-|=|[Axel Aronsson](https://www.worldcubeassociation.org/persons/2015ARON01)|Sweden|27.20|1832|  
-|=|[Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01)|USA|27.20|1832|  
-|=|[Eben Quenneville](https://www.worldcubeassociation.org/persons/2017QUEN01)|USA|27.20|1832|  
-|=|[Angel Alexis Carrillo Ramirez](https://www.worldcubeassociation.org/persons/2017RAMI08)|Mexico|27.20|1832|  
-|955|[George Pelham](https://www.worldcubeassociation.org/persons/2017PELH01)|Australia|27.19|1838|  
-|=|[Mason Witt](https://www.worldcubeassociation.org/persons/2017WITT05)|USA|27.19|1838|  
-|=|[Denis Gromov (Денис Громов)](https://www.worldcubeassociation.org/persons/2018GROM01)|Russia|27.19|1838|  
-|=|[Mohan Balaji](https://www.worldcubeassociation.org/persons/2014BALA07)|India|27.19|1838|  
-|959|[Renxin Tang (汤任欣)](https://www.worldcubeassociation.org/persons/2013TANG02)|China|27.18|1843|  
-|=|[Luis Angel Huerta Barrales](https://www.worldcubeassociation.org/persons/2017BARR34)|Mexico|27.18|1843|  
-|961|[Alrimar Dias Rocha Sobrinho](https://www.worldcubeassociation.org/persons/2011SOBR01)|Brazil|27.17|1845|  
-|=|[William Yudi Matunoshita Ito](https://www.worldcubeassociation.org/persons/2013ITOW01)|Brazil|27.17|1845|  
-|963|[Łukasz Stępień](https://www.worldcubeassociation.org/persons/2018STEP04)|Poland|27.15|1848|  
-|964|[Timothy Townley](https://www.worldcubeassociation.org/persons/2017TOWN02)|USA|27.14|1851|  
-|965|[Pahul Singh](https://www.worldcubeassociation.org/persons/2016SING33)|Canada|27.12|1854|  
-|966|[Peter Chau](https://www.worldcubeassociation.org/persons/2011CHAU05)|USA|27.11|1857|  
-|967|[Heng Wu (吴桁)](https://www.worldcubeassociation.org/persons/2016WUHE01)|China|27.10|1859|  
-|=|[Mihail Stoicescu](https://www.worldcubeassociation.org/persons/2018STOI03)|Romania|27.10|1859|  
-|=|[Chen-Pin Sun (孫振斌)](https://www.worldcubeassociation.org/persons/2017SUNC03)|Taiwan|27.10|1859|  
-|=|[Aidar Aminev](https://www.worldcubeassociation.org/persons/2016AMIN02)|Russia|27.10|1859|  
-|971|[Leo Annett](https://www.worldcubeassociation.org/persons/2016ANNE02)|USA|27.09|1863|  
-|=|[James Karras](https://www.worldcubeassociation.org/persons/2017KARR01)|USA|27.09|1863|  
-|973|[Nikita Bespalov](https://www.worldcubeassociation.org/persons/2016BESP01)|Russia|27.07|1866|  
-|=|[Moses San Pascual](https://www.worldcubeassociation.org/persons/2012PASC01)|Philippines|27.07|1866|  
-|975|[Zheng Lin (林铮)](https://www.worldcubeassociation.org/persons/2011LINZ01)|China|27.06|1869|  
-|=|[Muhammad Fitri Hakim Bin Dzulkarnain](https://www.worldcubeassociation.org/persons/2017DZUL02)|Malaysia|27.06|1869|  
-|977|[Bryan Gan Tze Yang](https://www.worldcubeassociation.org/persons/2016YANG83)|Malaysia|27.05|1872|  
-|=|[Xinwei Zhou (周欣伟)](https://www.worldcubeassociation.org/persons/2016ZHOU13)|China|27.05|1872|  
-|=|[Rustam Valeev](https://www.worldcubeassociation.org/persons/2013VALE03)|Russia|27.05|1872|  
-|=|[Zhen Tang (唐镇)](https://www.worldcubeassociation.org/persons/2009TANG05)|China|27.05|1872|  
-|=|[Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21)|China|27.05|1872|  
-|=|[Konstantin Solovev (Константин Соловьёв)](https://www.worldcubeassociation.org/persons/2015SOLO01)|Russia|27.05|1872|  
-|983|[Aleksander Osipov (Александр Осипов)](https://www.worldcubeassociation.org/persons/2018OSIP04)|Russia|27.04|1879|  
-|=|[Shaun Mack](https://www.worldcubeassociation.org/persons/2018MACK04)|USA|27.04|1879|  
-|985|[Roger Lightbody III](https://www.worldcubeassociation.org/persons/2016LIGH01)|USA|27.03|1881|  
-|=|[James Donahue](https://www.worldcubeassociation.org/persons/2010DONA01)|USA|27.03|1881|  
-|987|[Sachio Iwasaki (岩崎幸生)](https://www.worldcubeassociation.org/persons/2009IWAS01)|Japan|27.01|1886|  
-|=|[Setya Hadi](https://www.worldcubeassociation.org/persons/2016HADI03)|Indonesia|27.01|1886|  
-|989|[Wesley Miller](https://www.worldcubeassociation.org/persons/2011MILL01)|USA|27.00|1888|  
-|990|[Oleg Fomenkov](https://www.worldcubeassociation.org/persons/2016FOME02)|Russia|26.99|1889|  
-|=|[Wei Wang (王炜)](https://www.worldcubeassociation.org/persons/2015WANG88)|China|26.99|1889|  
-|=|[Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01)|USA|26.99|1889|  
-|993|[Antoine Isselin](https://www.worldcubeassociation.org/persons/2014ISSE01)|France|26.98|1893|  
-|=|[Kook Ming-Jo](https://www.worldcubeassociation.org/persons/2017MING03)|Malaysia|26.98|1893|  
-|995|[Louis Fertier](https://www.worldcubeassociation.org/persons/2013FERT01)|France|26.96|1896|  
-|=|[Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03)|Poland|26.96|1896|  
-|=|[Dylan Baumbach](https://www.worldcubeassociation.org/persons/2019BAUM02)|USA|26.96|1896|  
-|=|[Ryouichi Ibaraki (茨木亮一)](https://www.worldcubeassociation.org/persons/2016IBAR06)|Japan|26.96|1896|  
-|=|[Shuyuan Zhang (张书源)](https://www.worldcubeassociation.org/persons/2016ZHAN32)|China|26.96|1896|  
-|=|[Kyle Miller](https://www.worldcubeassociation.org/persons/2016MILL17)|USA|26.96|1896|  
+||||Rank|Name|Country|CountryKinch|  |  |  |  
+||||--|--|--|--|--|  |  |  |  
+||||1|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|97.65|  |  |  |  
+||||2|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|91.80|  |  |  |  
+||||3|[David Vujasić](https://www.worldcubeassociation.org/persons/2015VUJA01)|Croatia|87.85|  |  |  |  
+||||4|[Ryan Pin Harry](https://www.worldcubeassociation.org/persons/2015HARR01)|Mauritius|87.83|  |  |  |  
+||||5|[Vilius Ribinskas](https://www.worldcubeassociation.org/persons/2015RIBI01)|Lithuania|87.69|  |  |  |  
+||||6|[Martin Fronescu](https://www.worldcubeassociation.org/persons/2013FRON01)|Romania|87.65|  |  |  |  
+||||7|[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|87.46|  |  |  |  
+||||8|[Mikus Lembergs](https://www.worldcubeassociation.org/persons/2017LEMB02)|Latvia|86.17|  |  |  |  
+||||9|[Ben Baron](https://www.worldcubeassociation.org/persons/2016BARO04)|Israel|85.96|  |  |  |  
+||||10|[Carlo Glod](https://www.worldcubeassociation.org/persons/2017GLOD01)|Luxembourg|84.59|  |  |  |  
+||||11|[Conor Cronin](https://www.worldcubeassociation.org/persons/2013CRON01)|South Africa|84.47|  |  |  |  
+||||12|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|83.70|  |  |  |  
+||||13|[Farid Mikhailov](https://www.worldcubeassociation.org/persons/2015MIKH04)|Kazakhstan|83.58|  |  |  |  
+||||14|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|82.83|  |  |  |  
+||||15|[Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01)|Sweden|82.46|  |  |  |  
+||||16|[Shukrullo Ibragimov](https://www.worldcubeassociation.org/persons/2017IBRA05)|Tajikistan|82.26|  |  |  |  
+||||17|[Ainesh Sevellaraja](https://www.worldcubeassociation.org/persons/2012SEVE01)|Malaysia|81.52|  |  |  |  
+||||18|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|81.47|  |  |  |  
+||||19|[Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06)|Italy|81.11|  |  |  |  
+||||20|[Muhammad Saleh Imtiaz](https://www.worldcubeassociation.org/persons/2018IMTI01)|Pakistan|80.75|  |  |  |  
+||||21|[Wong Chong Wen (黄崇文)](https://www.worldcubeassociation.org/persons/2014WENW01)|Singapore|79.93|  |  |  |  
+||||22|[Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03)|Malaysia|79.84|  |  |  |  
+||||23|[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|India|79.69|  |  |  |  
+||||24|[Moez Boussarsar](https://www.worldcubeassociation.org/persons/2015BOUS02)|Tunisia|79.33|  |  |  |  
+||||25|[Egdar Castillo](https://www.worldcubeassociation.org/persons/2017CAST48)|Panama|79.30|  |  |  |  
+||||26|[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|United Kingdom|78.46|  |  |  |  
+||||27|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|78.35|  |  |  |  
+||||28|[Jaden Lim](https://www.worldcubeassociation.org/persons/2017LIMJ02)|Philippines|77.55|  |  |  |  
+||||29|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|77.28|  |  |  |  
+||||30|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Slovenia|77.21|  |  |  |  
+||||31|[Oliver Fritz](https://www.worldcubeassociation.org/persons/2014FRIT02)|Germany|77.19|  |  |  |  
+||||32|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|Germany|77.13|  |  |  |  
+||||33|[Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01)|Argentina|76.95|  |  |  |  
+||||34|[Jakob Kogler](https://www.worldcubeassociation.org/persons/2011KOGL01)|Austria|76.94|  |  |  |  
+||||35|[Fan Derlentz Perceval](https://www.worldcubeassociation.org/persons/2015PERC01)|Haiti|76.47|  |  |  |  
+||||36|[Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02)|Thailand|76.40|  |  |  |  
+||||37|[Felipe Medel](https://www.worldcubeassociation.org/persons/2015MEDE01)|Chile|76.27|  |  |  |  
+||||38|[Feliks Zemdegs](https://www.worldcubeassociation.org/persons/2009ZEMD01)|Australia|75.86|  |  |  |  
+||||39|[Lucas O'Connell](https://www.worldcubeassociation.org/persons/2016OCON02)|New Zealand|75.56|  |  |  |  
+||||40|[Jolo Endona](https://www.worldcubeassociation.org/persons/2014ENDO01)|Philippines|75.27|  |  |  |  
+||||41|[Ruben Grobler](https://www.worldcubeassociation.org/persons/2015GROB02)|South Africa|74.39|  |  |  |  
+||||42|[Bence Barát](https://www.worldcubeassociation.org/persons/2008BARA01)|Hungary|73.76|  |  |  |  
+||||43|[Jēkabs Janovs](https://www.worldcubeassociation.org/persons/2016JANO01)|Latvia|73.38|  |  |  |  
+||||44|[Jakub Drobný](https://www.worldcubeassociation.org/persons/2016DROB01)|Slovakia|73.31|  |  |  |  
+||||45|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|72.91|  |  |  |  
+||||46|[Vicenzo Guerino Cecchini](https://www.worldcubeassociation.org/persons/2015CECC01)|Brazil|72.61|  |  |  |  
+||||47|[Callum Hales-Jepp](https://www.worldcubeassociation.org/persons/2012HALE01)|United Kingdom|72.48|  |  |  |  
+||||48|[Lev Golub (Лев Голуб)](https://www.worldcubeassociation.org/persons/2014HOLU01)|Ukraine|72.36|  |  |  |  
+||||49|[Olivier Vos](https://www.worldcubeassociation.org/persons/2016VOSO01)|Netherlands|72.21|  |  |  |  
+||||50|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|71.98|  |  |  |  
+||||51|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|71.08|  |  |  |  
+||||52|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|70.98|  |  |  |  
+||||53|[Sukant Koul](https://www.worldcubeassociation.org/persons/2014KOUL01)|India|70.79|  |  |  |  
+||||54|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|70.69|  |  |  |  
+||||55|[Lucas Jacobs](https://www.worldcubeassociation.org/persons/2018JACO10)|Saint Kitts and Nevis|70.59|  |  |  |  
+||||56|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|70.55|  |  |  |  
+||||57|[Alwin Rölz](https://www.worldcubeassociation.org/persons/2016ROLZ01)|Switzerland|70.53|  |  |  |  
+||||58|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|70.43|  |  |  |  
+||||59|[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|70.21|  |  |  |  
+||||60|[Tristan Chua Yong](https://www.worldcubeassociation.org/persons/2016YONG02)|Singapore|70.18|  |  |  |  
+||||61|[Ivan Li Ka Leong (李嘉亮)](https://www.worldcubeassociation.org/persons/2015LEON02)|Hong Kong|70.13|  |  |  |  
+||||62|[Matic Omulec](https://www.worldcubeassociation.org/persons/2010OMUL02)|Slovenia|70.03|  |  |  |  
+||||63|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|69.95|  |  |  |  
+||||64|[Hill Pong Yong Feng](https://www.worldcubeassociation.org/persons/2017FENG10)|Malaysia|69.74|  |  |  |  
+||||65|[Manuel Prieto de Antón](https://www.worldcubeassociation.org/persons/2015ANTO04)|Spain|69.60|  |  |  |  
+||||66|[Milko Sebastián Gutiérrez Arroyo](https://www.worldcubeassociation.org/persons/2016ARRO05)|Paraguay|69.50|  |  |  |  
+||||=|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|69.50|  |  |  |  
+||||68|[Elvin Thorsen](https://www.worldcubeassociation.org/persons/2016THOR08)|Sweden|69.36|  |  |  |  
+||||69|[José Antonio Navarro Sánchez](https://www.worldcubeassociation.org/persons/2015SANC18)|Spain|69.31|  |  |  |  
+||||70|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Netherlands|69.18|  |  |  |  
+||||71|[Renato Stopic](https://www.worldcubeassociation.org/persons/2014STOP01)|Bosnia and Herzegovina|69.16|  |  |  |  
+||||72|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|69.02|  |  |  |  
+||||73|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|68.86|  |  |  |  
+||||74|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|68.72|  |  |  |  
+||||75|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|68.68|  |  |  |  
+||||76|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|68.49|  |  |  |  
+||||77|[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|India|68.18|  |  |  |  
+||||78|[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|68.12|  |  |  |  
+||||79|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|67.99|  |  |  |  
+||||80|[Dylan Rene Centeno Chevez](https://www.worldcubeassociation.org/persons/2015CHEV01)|Nicaragua|67.73|  |  |  |  
+||||81|[Matěj Mužátko](https://www.worldcubeassociation.org/persons/2013MUAT01)|Czech Republic|67.24|  |  |  |  
+||||82|[Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02)|Sweden|67.15|  |  |  |  
+||||83|[Reto Bubendorf](https://www.worldcubeassociation.org/persons/2012BUBE01)|Finland|67.11|  |  |  |  
+||||=|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|67.11|  |  |  |  
+||||85|[Sebastiano Tronto](https://www.worldcubeassociation.org/persons/2011TRON02)|Italy|67.09|  |  |  |  
+||||86|[Yu Nakajima (中島悠)](https://www.worldcubeassociation.org/persons/2007NAKA03)|Japan|66.98|  |  |  |  
+||||87|[Abdullah Gulab](https://www.worldcubeassociation.org/persons/2014GULA02)|Pakistan|66.81|  |  |  |  
+||||88|[Ramses Amaya](https://www.worldcubeassociation.org/persons/2014AMAY01)|Colombia|66.79|  |  |  |  
+||||89|[Alexis Rodrigo Cazu Mendoza](https://www.worldcubeassociation.org/persons/2014MEND02)|Mexico|66.54|  |  |  |  
+||||90|[Tom Nelson](https://www.worldcubeassociation.org/persons/2013NELS01)|New Zealand|66.52|  |  |  |  
+||||91|[Jose Polorhenzo Aquino](https://www.worldcubeassociation.org/persons/2016AQUI02)|Philippines|66.50|  |  |  |  
+||||92|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|66.49|  |  |  |  
+||||93|[Francis Daniels Veğeris](https://www.worldcubeassociation.org/persons/2017VEGE01)|Latvia|66.41|  |  |  |  
+||||94|[Dominik Vidaković](https://www.worldcubeassociation.org/persons/2013VIDA03)|Croatia|66.35|  |  |  |  
+||||95|[Óskar Pétursson](https://www.worldcubeassociation.org/persons/2017PETU02)|Iceland|66.33|  |  |  |  
+||||=|[Jérôme Carlier](https://www.worldcubeassociation.org/persons/2016CARL02)|Belgium|66.33|  |  |  |  
+||||97|[José Enrique Jiménez](https://www.worldcubeassociation.org/persons/2015JIME10)|El Salvador|66.31|  |  |  |  
+||||98|[Gabriel Barrios](https://www.worldcubeassociation.org/persons/2014BARR02)|Guatemala|66.11|  |  |  |  
+||||99|[Bernardo Torres](https://www.worldcubeassociation.org/persons/2015TORR12)|Venezuela|66.09|  |  |  |  
+||||100|[Anđela Zečević](https://www.worldcubeassociation.org/persons/2017ZECE01)|Montenegro|66.01|  |  |  |  
+||||101|[Mattheo de Wit](https://www.worldcubeassociation.org/persons/2015WITM01)|Netherlands|65.72|  |  |  |  
+||||102|[Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02)|Argentina|65.63|  |  |  |  
+||||103|[Andrea Thull](https://www.worldcubeassociation.org/persons/2017THUL01)|Luxembourg|65.45|  |  |  |  
+||||104|[Luca Rizzi](https://www.worldcubeassociation.org/persons/2015RIZZ02)|Switzerland|65.21|  |  |  |  
+||||=|[Dada Ayooluwa Samuel](https://www.worldcubeassociation.org/persons/2019SAMU06)|Nigeria|65.21|  |  |  |  
+||||106|[José Leonardo Chaparro Prieto](https://www.worldcubeassociation.org/persons/2011CHAP01)|Colombia|65.14|  |  |  |  
+||||107|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|65.05|  |  |  |  
+||||108|[Anup Adhikari](https://www.worldcubeassociation.org/persons/2016ADHI01)|Nepal|65.00|  |  |  |  
+||||109|[DongSu Park (박동수)](https://www.worldcubeassociation.org/persons/2017PARK05)|Korea|64.98|  |  |  |  
+||||110|[Alessio Giuliano](https://www.worldcubeassociation.org/persons/2016GIUL01)|Switzerland|64.92|  |  |  |  
+||||111|[Jure Gregorc](https://www.worldcubeassociation.org/persons/2010GREG01)|Slovenia|64.88|  |  |  |  
+||||112|[Eli Jay](https://www.worldcubeassociation.org/persons/2014JAYE01)|United Kingdom|64.87|  |  |  |  
+||||113|[Marcus Moberg](https://www.worldcubeassociation.org/persons/2016MOBE01)|Sweden|64.81|  |  |  |  
+||||114|[Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01)|Russia|64.76|  |  |  |  
+||||115|[Linus Laurén](https://www.worldcubeassociation.org/persons/2016LAUR01)|Finland|64.74|  |  |  |  
+||||116|[Fitri Nurul Ain](https://www.worldcubeassociation.org/persons/2017AINF01)|Brunei|64.71|  |  |  |  
+||||117|[Luboš Bartík](https://www.worldcubeassociation.org/persons/2015BART01)|Czech Republic|64.40|  |  |  |  
+||||118|[Oscar Alberto Ceballos Contreras](https://www.worldcubeassociation.org/persons/2013CONT01)|Venezuela|64.11|  |  |  |  
+||||119|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|64.08|  |  |  |  
+||||120|[Andreas Jensen Forsgren](https://www.worldcubeassociation.org/persons/2016FORS08)|Norway|64.00|  |  |  |  
+||||121|[Mats Valk](https://www.worldcubeassociation.org/persons/2007VALK01)|Netherlands|63.92|  |  |  |  
+||||122|[Samuel Cuellar Ramirez](https://www.worldcubeassociation.org/persons/2015RAMI14)|El Salvador|63.75|  |  |  |  
+||||123|[Sergio Bulux](https://www.worldcubeassociation.org/persons/2014BULU01)|Guatemala|63.70|  |  |  |  
+||||124|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|63.68|  |  |  |  
+||||125|[Daniel Tidsey](https://www.worldcubeassociation.org/persons/2016TIDS01)|United Kingdom|63.67|  |  |  |  
+||||126|[Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02)|Vietnam|63.59|  |  |  |  
+||||127|[Fabian Löhle](https://www.worldcubeassociation.org/persons/2012LAHL01)|Switzerland|63.51|  |  |  |  
+||||128|[Andrey Che](https://www.worldcubeassociation.org/persons/2015CHEA01)|Russia|63.48|  |  |  |  
+||||129|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|63.40|  |  |  |  
+||||130|[Pavel Yushkevich](https://www.worldcubeassociation.org/persons/2013YUSH01)|Belarus|63.39|  |  |  |  
+||||131|[Anqi Yu](https://www.worldcubeassociation.org/persons/2018YUAN02)|Bulgaria|63.38|  |  |  |  
+||||132|[Rūdolfs Vīnkalns](https://www.worldcubeassociation.org/persons/2017VNKA01)|Latvia|63.20|  |  |  |  
+||||=|[Michael Eleftheriades](https://www.worldcubeassociation.org/persons/2017ELEF02)|Cyprus|63.20|  |  |  |  
+||||134|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|63.16|  |  |  |  
+||||135|[Guido Dipietro](https://www.worldcubeassociation.org/persons/2013DIPI01)|Argentina|63.13|  |  |  |  
+||||136|[Robbie Villarica](https://www.worldcubeassociation.org/persons/2010VILL03)|Philippines|63.06|  |  |  |  
+||||137|[Carter Kucala](https://www.worldcubeassociation.org/persons/2015KUCA01)|USA|63.00|  |  |  |  
+||||138|[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|Korea|62.94|  |  |  |  
+||||139|[Jonathan Mauroy](https://www.worldcubeassociation.org/persons/2012MAUR01)|Belgium|62.91|  |  |  |  
+||||140|[Oscar Nieto](https://www.worldcubeassociation.org/persons/2014NIET03)|Colombia|62.86|  |  |  |  
+||||141|[Dylan Swarts](https://www.worldcubeassociation.org/persons/2017SWAR03)|South Africa|62.72|  |  |  |  
+||||142|[Antonio López](https://www.worldcubeassociation.org/persons/2014LOPE04)|Spain|62.39|  |  |  |  
+||||143|[Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01)|Austria|62.28|  |  |  |  
+||||144|[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Netherlands|62.25|  |  |  |  
+||||145|[Mihály Horváth](https://www.worldcubeassociation.org/persons/2016HORV04)|Hungary|62.23|  |  |  |  
+||||146|[Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01)|Japan|61.99|  |  |  |  
+||||147|[Gjorgji Cheshmedjievski](https://www.worldcubeassociation.org/persons/2018CHES02)|North Macedonia|61.98|  |  |  |  
+||||148|[Shantanu Modak](https://www.worldcubeassociation.org/persons/2014MODA01)|Singapore|61.88|  |  |  |  
+||||149|[Yerkin Assylbek](https://www.worldcubeassociation.org/persons/2018YERK02)|Kazakhstan|61.77|  |  |  |  
+||||150|[Julen Simón Iriarte](https://www.worldcubeassociation.org/persons/2014IRIA01)|Spain|61.69|  |  |  |  
+||||151|[Luka Jankovic](https://www.worldcubeassociation.org/persons/2018JANK01)|Serbia|61.68|  |  |  |  
+||||152|[Theo Iván Goluboff](https://www.worldcubeassociation.org/persons/2017GOLU01)|Argentina|61.47|  |  |  |  
+||||153|[Ho Hsieh (謝合)](https://www.worldcubeassociation.org/persons/2015HSIE02)|Taiwan|61.46|  |  |  |  
+||||154|[Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01)|Hong Kong|61.43|  |  |  |  
+||||155|[José Chávez](https://www.worldcubeassociation.org/persons/2016CHAV18)|Paraguay|61.42|  |  |  |  
+||||156|[Lucas Wesche](https://www.worldcubeassociation.org/persons/2012WESC01)|Germany|61.39|  |  |  |  
+||||157|[Nikhil Soares](https://www.worldcubeassociation.org/persons/2015SOAR01)|India|61.29|  |  |  |  
+||||158|[Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02)|Uruguay|61.25|  |  |  |  
+||||=|[Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01)|Mongolia|61.25|  |  |  |  
+||||160|[Szabolcs Szántai](https://www.worldcubeassociation.org/persons/2016SZAN01)|Hungary|61.00|  |  |  |  
+||||161|[Tom Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN05)|New Zealand|60.97|  |  |  |  
+||||162|[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|Russia|60.91|  |  |  |  
+||||163|[Ace Djun T. Aguirre Jr.](https://www.worldcubeassociation.org/persons/2016JRAC01)|Philippines|60.85|  |  |  |  
+||||164|[Taosif Amin Sahil](https://www.worldcubeassociation.org/persons/2017SAHI01)|Bangladesh|60.82|  |  |  |  
+||||165|[Oleksandr Ivanchak (Олександр Іванчак)](https://www.worldcubeassociation.org/persons/2015IVAN03)|Ukraine|60.77|  |  |  |  
+||||166|[János Bereczki](https://www.worldcubeassociation.org/persons/2018BERE01)|Romania|60.71|  |  |  |  
+||||167|[Paris Dorn](https://www.worldcubeassociation.org/persons/2015DORN02)|Canada|60.66|  |  |  |  
+||||168|[Aset Agabekov (Асет Агабеков)](https://www.worldcubeassociation.org/persons/2018AGAB03)|Kazakhstan|60.51|  |  |  |  
+||||169|[James Macdiarmid](https://www.worldcubeassociation.org/persons/2015MACD03)|New Zealand|60.49|  |  |  |  
+||||170|[Ivan Miletić](https://www.worldcubeassociation.org/persons/2015MILE01)|Serbia|60.45|  |  |  |  
+||||171|[Andrei Solntsev](https://www.worldcubeassociation.org/persons/2018SOLN01)|Estonia|60.42|  |  |  |  
+||||172|[Viktor Kalmar](https://www.worldcubeassociation.org/persons/2011KALM01)|Austria|60.41|  |  |  |  
+||||173|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|60.38|  |  |  |  
+||||174|[Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)](https://www.worldcubeassociation.org/persons/2009KONV01)|Thailand|60.34|  |  |  |  
+||||175|[Mattias Uvesten](https://www.worldcubeassociation.org/persons/2013UVES01)|Sweden|60.32|  |  |  |  
+||||=|[Daniel Guardado Cabral](https://www.worldcubeassociation.org/persons/2014CABR07)|Mexico|60.32|  |  |  |  
+||||177|[Lucas Déglise](https://www.worldcubeassociation.org/persons/2015DEGL01)|France|60.20|  |  |  |  
+||||178|[Tomáš Zatroch](https://www.worldcubeassociation.org/persons/2016ZATR01)|Slovakia|60.19|  |  |  |  
+||||179|[Daniel Grabski](https://www.worldcubeassociation.org/persons/2010GRAB01)|Austria|60.16|  |  |  |  
+||||180|[Israel Fraga da Silva](https://www.worldcubeassociation.org/persons/2012SILV22)|Brazil|60.15|  |  |  |  
+||||181|[Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03)|Belarus|60.08|  |  |  |  
+||||182|[Jong-Ho Jeong (정종호)](https://www.worldcubeassociation.org/persons/2008JONG03)|Korea|60.03|  |  |  |  
+||||183|[Yuhei Takagi (高木佑平)](https://www.worldcubeassociation.org/persons/2008TAKA01)|Japan|60.01|  |  |  |  
+||||184|[Ilya Nazarov](https://www.worldcubeassociation.org/persons/2015NAZA02)|Russia|60.00|  |  |  |  
+||||185|[Alexey Kislovskiy](https://www.worldcubeassociation.org/persons/2017KISL01)|Russia|59.86|  |  |  |  
+||||186|[Vladyslav Hryniuk (Владислав Гринюк)](https://www.worldcubeassociation.org/persons/2016HRYN02)|Ukraine|59.80|  |  |  |  
+||||187|[Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01)|Romania|59.78|  |  |  |  
+||||188|[Daniel Escobar](https://www.worldcubeassociation.org/persons/2014ESCO02)|Guatemala|59.76|  |  |  |  
+||||189|[Maarten Smit](https://www.worldcubeassociation.org/persons/2008SMIT04)|Netherlands|59.68|  |  |  |  
+||||190|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|59.67|  |  |  |  
+||||191|[Theo Mayer](https://www.worldcubeassociation.org/persons/2012MAYE01)|Switzerland|59.65|  |  |  |  
+||||192|[Emile Compion](https://www.worldcubeassociation.org/persons/2007COMP01)|South Africa|59.56|  |  |  |  
+||||=|[Tomohiro Kobayashi (小林知広)](https://www.worldcubeassociation.org/persons/2013KOBA01)|Japan|59.56|  |  |  |  
+||||194|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|59.44|  |  |  |  
+||||195|[Sean Hartman](https://www.worldcubeassociation.org/persons/2016HART02)|USA|59.40|  |  |  |  
+||||196|[Francisco Alonso](https://www.worldcubeassociation.org/persons/2014ALON05)|Uruguay|59.39|  |  |  |  
+||||197|[Zhao-Zhe Zhong (鍾肇哲)](https://www.worldcubeassociation.org/persons/2012CHON03)|Taiwan|59.33|  |  |  |  
+||||198|[Timur Mavlyanov](https://www.worldcubeassociation.org/persons/2017MAVL02)|Uzbekistan|59.31|  |  |  |  
+||||199|[Mattia Furlan](https://www.worldcubeassociation.org/persons/2013FURL01)|Italy|59.29|  |  |  |  
+||||200|[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|Switzerland|59.11|  |  |  |  
+||||201|[Joel Cetra](https://www.worldcubeassociation.org/persons/2016CETR01)|Germany|59.09|  |  |  |  
+||||202|[Daniel Gracia Ortiz](https://www.worldcubeassociation.org/persons/2009ORTI01)|Spain|59.08|  |  |  |  
+||||203|[Aleksa Radovanović](https://www.worldcubeassociation.org/persons/2016RADO01)|Serbia|59.00|  |  |  |  
+||||204|[Milán Baticz](https://www.worldcubeassociation.org/persons/2005BATI01)|Hungary|58.95|  |  |  |  
+||||205|[Arnav Arora](https://www.worldcubeassociation.org/persons/2015AROR02)|India|58.92|  |  |  |  
+||||206|[Ahmet Çınar Ablak](https://www.worldcubeassociation.org/persons/2018ABLA01)|Turkey|58.89|  |  |  |  
+||||207|[Vladyslav Zhydkov (Владислав Жидков)](https://www.worldcubeassociation.org/persons/2015ZHYD01)|Ukraine|58.86|  |  |  |  
+||||=|[Cedric Meysing](https://www.worldcubeassociation.org/persons/2017MEYS02)|Germany|58.86|  |  |  |  
+||||209|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|58.83|  |  |  |  
+||||210|[Jannik Gartmann](https://www.worldcubeassociation.org/persons/2016GART01)|Liechtenstein|58.82|  |  |  |  
+||||211|[Hunor Bózsing](https://www.worldcubeassociation.org/persons/2009BOZS01)|Hungary|58.72|  |  |  |  
+||||212|[Pedro Alejandro Condo Tellez](https://www.worldcubeassociation.org/persons/2015TELL01)|Peru|58.69|  |  |  |  
+||||213|[Nejc Ian Čurman](https://www.worldcubeassociation.org/persons/2015CURM01)|Slovenia|58.66|  |  |  |  
+||||214|[Rodrigo Ugarte](https://www.worldcubeassociation.org/persons/2015UGAR01)|Bolivia|58.56|  |  |  |  
+||||215|[Emanuel Rheinert](https://www.worldcubeassociation.org/persons/2011RHEI01)|Germany|58.55|  |  |  |  
+||||216|[Maksym Yeli (Максим Єлі)](https://www.worldcubeassociation.org/persons/2014YELI01)|Ukraine|58.50|  |  |  |  
+||||217|[Laura Holzhauer](https://www.worldcubeassociation.org/persons/2016HOLZ01)|Germany|58.47|  |  |  |  
+||||=|[Julián García Sánchez](https://www.worldcubeassociation.org/persons/2014SANC28)|Mexico|58.47|  |  |  |  
+||||219|[Gabriel Santiago Velez Gonzalez](https://www.worldcubeassociation.org/persons/2016GONZ52)|Colombia|58.35|  |  |  |  
+||||220|[William Gan Wei Ren (颜伟仁)](https://www.worldcubeassociation.org/persons/2014RENW01)|Malaysia|58.34|  |  |  |  
+||||221|[Erik Kippus](https://www.worldcubeassociation.org/persons/2017KIPP01)|Estonia|58.30|  |  |  |  
+||||222|[Bertie Longden](https://www.worldcubeassociation.org/persons/2014LONG06)|United Kingdom|58.26|  |  |  |  
+||||223|[Kim Jokinen](https://www.worldcubeassociation.org/persons/2013JOKI01)|Finland|58.21|  |  |  |  
+||||224|[Darren Siew Ee Yaang (蕭奕暘)](https://www.worldcubeassociation.org/persons/2009SIEW01)|Malaysia|58.10|  |  |  |  
+||||225|[Rok Glinšek](https://www.worldcubeassociation.org/persons/2013GLIN01)|Slovenia|58.09|  |  |  |  
+||||226|[Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01)|Slovakia|58.05|  |  |  |  
+||||227|[Linus Frész](https://www.worldcubeassociation.org/persons/2011FRES01)|Germany|57.98|  |  |  |  
+||||=|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|57.98|  |  |  |  
+||||229|[Jaemin Chang (장재민)](https://www.worldcubeassociation.org/persons/2016CHAN09)|Korea|57.95|  |  |  |  
+||||230|[Luis David Hernández Mejía](https://www.worldcubeassociation.org/persons/2017MEJI03)|Honduras|57.91|  |  |  |  
+||||231|[Michael Andres Castillo Lemus](https://www.worldcubeassociation.org/persons/2011CAST02)|Colombia|57.84|  |  |  |  
+||||=|[Rodrigo Paz Vaca](https://www.worldcubeassociation.org/persons/2015VACA01)|Bolivia|57.84|  |  |  |  
+||||233|[Marcos Masini](https://www.worldcubeassociation.org/persons/2016MASI01)|Argentina|57.83|  |  |  |  
+||||234|[Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01)|Malaysia|57.78|  |  |  |  
+||||235|[Nikita Kovalchuk (Нікіта Ковальчук)](https://www.worldcubeassociation.org/persons/2015KOVA07)|Ukraine|57.77|  |  |  |  
+||||236|[Kaur Tuule](https://www.worldcubeassociation.org/persons/2018TUUL01)|Estonia|57.72|  |  |  |  
+||||237|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|57.71|  |  |  |  
+||||238|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|57.69|  |  |  |  
+||||239|[Josias Milan Sirpa Pinto](https://www.worldcubeassociation.org/persons/2017PINT05)|Bolivia|57.66|  |  |  |  
+||||240|[Joel Hernández](https://www.worldcubeassociation.org/persons/2007HERN02)|El Salvador|57.59|  |  |  |  
+||||241|[Noah Kraft](https://www.worldcubeassociation.org/persons/2016KRAF01)|Germany|57.54|  |  |  |  
+||||=|[Aldo José Gramajo de León](https://www.worldcubeassociation.org/persons/2015LEON08)|Guatemala|57.54|  |  |  |  
+||||243|[Can Gücüyener](https://www.worldcubeassociation.org/persons/2011GUCU01)|Turkey|57.43|  |  |  |  
+||||=|[Quinten Andelhofs](https://www.worldcubeassociation.org/persons/2014ANDE01)|Belgium|57.43|  |  |  |  
+||||245|[Li Chak Kwan (李澤堃)](https://www.worldcubeassociation.org/persons/2017KWAN05)|Hong Kong|57.41|  |  |  |  
+||||246|[Alexander Botz](https://www.worldcubeassociation.org/persons/2013BOTZ01)|Germany|57.35|  |  |  |  
+||||247|[Samuel Simko](https://www.worldcubeassociation.org/persons/2016SIMK01)|Slovakia|57.33|  |  |  |  
+||||248|[Tomáš Szyszkowicz](https://www.worldcubeassociation.org/persons/2017SZYS01)|Czech Republic|57.32|  |  |  |  
+||||249|[Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02)|Finland|57.26|  |  |  |  
+||||250|[Zabir Bin Moaj](https://www.worldcubeassociation.org/persons/2017MOAJ01)|Bangladesh|57.23|  |  |  |  
+||||251|[Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01)|Hong Kong|57.11|  |  |  |  
+||||252|[Francisco Hamlin](https://www.worldcubeassociation.org/persons/2012HAML01)|Argentina|57.10|  |  |  |  
+||||253|[Michael Röhrer](https://www.worldcubeassociation.org/persons/2009ROHR01)|Austria|57.05|  |  |  |  
+||||254|[Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01)|Poland|56.96|  |  |  |  
+||||255|[Igor Tarasov (Ігор Тарасов)](https://www.worldcubeassociation.org/persons/2016TARA04)|Ukraine|56.90|  |  |  |  
+||||256|[Christian Goñi](https://www.worldcubeassociation.org/persons/2014GONI01)|Uruguay|56.89|  |  |  |  
+||||257|[Kevin Matthews](https://www.worldcubeassociation.org/persons/2010MATT02)|Canada|56.81|  |  |  |  
+||||258|[Sheng Cao (曹晟)](https://www.worldcubeassociation.org/persons/2011CAOS01)|China|56.78|  |  |  |  
+||||259|[Max Xiong (熊锐明)](https://www.worldcubeassociation.org/persons/2015XION03)|China|56.75|  |  |  |  
+||||=|[Akmal Abduazizov](https://www.worldcubeassociation.org/persons/2017ABDU03)|Uzbekistan|56.75|  |  |  |  
+||||261|[Manuel Bühler](https://www.worldcubeassociation.org/persons/2014BUEH01)|Switzerland|56.72|  |  |  |  
+||||262|[Maxim Ilin](https://www.worldcubeassociation.org/persons/2017ILIN01)|Russia|56.69|  |  |  |  
+||||=|[Takayuki Tanaka (田中隆喜)](https://www.worldcubeassociation.org/persons/2014TANA01)|Japan|56.69|  |  |  |  
+||||264|[Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01)|India|56.64|  |  |  |  
+||||265|[Ilie Nagrineac](https://www.worldcubeassociation.org/persons/2016NAGR01)|Moldova|56.58|  |  |  |  
+||||266|[Luis Fernando Aldás Cuestas](https://www.worldcubeassociation.org/persons/2017CUES02)|Ecuador|56.55|  |  |  |  
+||||267|[Yuji Yoshida](https://www.worldcubeassociation.org/persons/2015YOSH01)|Philippines|56.51|  |  |  |  
+||||268|[Andre Febriato Jonathan](https://www.worldcubeassociation.org/persons/2011JONA01)|Indonesia|56.46|  |  |  |  
+||||269|[Daniel Cano Salgado](https://www.worldcubeassociation.org/persons/2011SALG01)|Colombia|56.40|  |  |  |  
+||||270|[George Scholey](https://www.worldcubeassociation.org/persons/2015SCHO05)|United Kingdom|56.38|  |  |  |  
+||||271|[Volodymyr Korol (Володимир Король)](https://www.worldcubeassociation.org/persons/2015KORO02)|Ukraine|56.35|  |  |  |  
+||||272|[Wilhelm Kilders](https://www.worldcubeassociation.org/persons/2010KILD02)|Germany|56.25|  |  |  |  
+||||273|[Assylkhan Meirkhanov (Асылхан Мейрханов)](https://www.worldcubeassociation.org/persons/2018MEIR04)|Kazakhstan|56.20|  |  |  |  
+||||=|[Federico Da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02)|Argentina|56.20|  |  |  |  
+||||275|[Sean Moran](https://www.worldcubeassociation.org/persons/2016MORA24)|United Kingdom|56.16|  |  |  |  
+||||276|[James Molloy](https://www.worldcubeassociation.org/persons/2011MOLL01)|United Kingdom|56.11|  |  |  |  
+||||277|[Kim Roger Høyland Larsen](https://www.worldcubeassociation.org/persons/2015LARS04)|Norway|56.09|  |  |  |  
+||||278|[Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01)|Lithuania|56.03|  |  |  |  
+||||279|[Anish Rajesh](https://www.worldcubeassociation.org/persons/2014RAJE03)|India|56.02|  |  |  |  
+||||280|[Brenton Angelo Lo Wong](https://www.worldcubeassociation.org/persons/2017WONG01)|Philippines|56.01|  |  |  |  
+||||281|[Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02)|Poland|55.94|  |  |  |  
+||||282|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|55.85|  |  |  |  
+||||=|[Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01)|France|55.85|  |  |  |  
+||||284|[Rodson Lingad](https://www.worldcubeassociation.org/persons/2011LING02)|Philippines|55.80|  |  |  |  
+||||285|[Florian Truckenthanner](https://www.worldcubeassociation.org/persons/2013TRUC01)|Austria|55.79|  |  |  |  
+||||286|[Ethan Pan](https://www.worldcubeassociation.org/persons/2015PANE01)|New Zealand|55.78|  |  |  |  
+||||287|[Chan Hay Yin (陳希言)](https://www.worldcubeassociation.org/persons/2015YINC01)|Hong Kong|55.70|  |  |  |  
+||||=|[Tomas Jankauskas](https://www.worldcubeassociation.org/persons/2013JANK02)|Lithuania|55.70|  |  |  |  
+||||=|[Yuki Yamamoto (山本祐輝)](https://www.worldcubeassociation.org/persons/2010YAMA04)|Japan|55.70|  |  |  |  
+||||290|[Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01)|Poland|55.62|  |  |  |  
+||||291|[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|55.59|  |  |  |  
+||||=|[Ben Stokes](https://www.worldcubeassociation.org/persons/2018STOK01)|United Kingdom|55.59|  |  |  |  
+||||293|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|55.56|  |  |  |  
+||||294|[Mauro Moises López](https://www.worldcubeassociation.org/persons/2016LOPE44)|Spain|55.46|  |  |  |  
+||||=|[Bhargav Narasimhan](https://www.worldcubeassociation.org/persons/2011NARA02)|India|55.46|  |  |  |  
+||||296|[Jose Carlos García Vélez](https://www.worldcubeassociation.org/persons/2016VELE01)|Colombia|55.45|  |  |  |  
+||||297|[Jareth Soong](https://www.worldcubeassociation.org/persons/2016SOON01)|Singapore|55.41|  |  |  |  
+||||=|[Ivaylo Ivaylov Vichev](https://www.worldcubeassociation.org/persons/2018VICH01)|Bulgaria|55.41|  |  |  |  
+||||299|[Yi-Fan Wu (吳亦凡)](https://www.worldcubeassociation.org/persons/2010WUIF01)|Taiwan|55.31|  |  |  |  
+||||300|[Akash Rupela](https://www.worldcubeassociation.org/persons/2012RUPE01)|India|55.25|  |  |  |  
+||||301|[Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01)|Indonesia|55.17|  |  |  |  
+||||302|[Mok Man Kit (莫文傑)](https://www.worldcubeassociation.org/persons/2009KITM01)|Hong Kong|55.16|  |  |  |  
+||||303|[Alberto Pérez de Rada Fiol](https://www.worldcubeassociation.org/persons/2011FIOL01)|Spain|55.11|  |  |  |  
+||||304|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|55.09|  |  |  |  
+||||305|[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|55.07|  |  |  |  
+||||306|[Kari Hyttinen](https://www.worldcubeassociation.org/persons/2016HYTT01)|Finland|55.03|  |  |  |  
+||||=|[Steven Kearns](https://www.worldcubeassociation.org/persons/2015KEAR01)|United Kingdom|55.03|  |  |  |  
+||||308|[Marco Rota](https://www.worldcubeassociation.org/persons/2009ROTA01)|Italy|54.93|  |  |  |  
+||||309|[Staš Zupanc](https://www.worldcubeassociation.org/persons/2014ZUPA01)|Slovenia|54.90|  |  |  |  
+||||310|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|54.89|  |  |  |  
+||||311|[Vladyslav Zhyhailo (Владислав Жигайло)](https://www.worldcubeassociation.org/persons/2013ZHYH01)|Ukraine|54.85|  |  |  |  
+||||=|[Manu Vereecken](https://www.worldcubeassociation.org/persons/2010VERE01)|Belgium|54.85|  |  |  |  
+||||313|[Ivo Bakker](https://www.worldcubeassociation.org/persons/2009BAKK01)|Netherlands|54.82|  |  |  |  
+||||314|[Giorgi Tarielashvili](https://www.worldcubeassociation.org/persons/2013TARI01)|Georgia|54.74|  |  |  |  
+||||=|[Dominik Fürer](https://www.worldcubeassociation.org/persons/2017FURE01)|Switzerland|54.74|  |  |  |  
+||||316|[Tomoya Firman](https://www.worldcubeassociation.org/persons/2015FIRM01)|Australia|54.67|  |  |  |  
+||||317|[Olander Rafael Hernández Morales](https://www.worldcubeassociation.org/persons/2017MORA08)|Guatemala|54.57|  |  |  |  
+||||318|[Alaik Bhatia](https://www.worldcubeassociation.org/persons/2014BHAT09)|India|54.56|  |  |  |  
+||||319|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|54.48|  |  |  |  
+||||320|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|54.38|  |  |  |  
+||||321|[Doyul Kim (김도율)](https://www.worldcubeassociation.org/persons/2014KIMD06)|Korea|54.35|  |  |  |  
+||||322|[Nathaniel Berg](https://www.worldcubeassociation.org/persons/2012BERG04)|Sweden|54.33|  |  |  |  
+||||323|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|54.28|  |  |  |  
+||||324|[Agustín Bernasconi](https://www.worldcubeassociation.org/persons/2015BERN02)|Argentina|54.25|  |  |  |  
+||||=|[Joonas Silvennoinen](https://www.worldcubeassociation.org/persons/2016SILV07)|Finland|54.25|  |  |  |  
+||||326|[Eason Siew Ee Son (蕭奕晨)](https://www.worldcubeassociation.org/persons/2009SIEW02)|Malaysia|54.22|  |  |  |  
+||||327|[Nicolas Gertner](https://www.worldcubeassociation.org/persons/2013GERT01)|France|54.20|  |  |  |  
+||||=|[Aleksandar Dukleski](https://www.worldcubeassociation.org/persons/2018DUKL01)|North Macedonia|54.20|  |  |  |  
+||||329|[Vladislavs Baranovs](https://www.worldcubeassociation.org/persons/2012BARA03)|Latvia|54.18|  |  |  |  
+||||330|[Claudio Andre Gomez Villca](https://www.worldcubeassociation.org/persons/2017VILL42)|Bolivia|54.13|  |  |  |  
+||||331|[Rafael Antonio Sanchez](https://www.worldcubeassociation.org/persons/2014SANC19)|Venezuela|54.11|  |  |  |  
+||||332|[Jesser Armando Ramírez Diaz](https://www.worldcubeassociation.org/persons/2016DIAZ21)|Guatemala|54.10|  |  |  |  
+||||=|[Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01)|Poland|54.10|  |  |  |  
+||||334|[Taku Yanai (矢内拓)](https://www.worldcubeassociation.org/persons/2012YANA01)|Japan|54.09|  |  |  |  
+||||335|[Salon Ngakhushi](https://www.worldcubeassociation.org/persons/2017NGAK01)|Nepal|54.08|  |  |  |  
+||||336|[Igor Aipkin](https://www.worldcubeassociation.org/persons/2017AIPK01)|Uzbekistan|54.07|  |  |  |  
+||||337|[Govend Avgerinos Djangoi](https://www.worldcubeassociation.org/persons/2015DJAN01)|Sweden|54.06|  |  |  |  
+||||=|[Carlos Miguel Parra Gonzalez](https://www.worldcubeassociation.org/persons/2013GONZ07)|Venezuela|54.06|  |  |  |  
+||||339|[Pablo Say](https://www.worldcubeassociation.org/persons/2013SAYP01)|Guatemala|54.05|  |  |  |  
+||||=|[Igor Semyonov](https://www.worldcubeassociation.org/persons/2018SEMY01)|Uzbekistan|54.05|  |  |  |  
+||||341|[Niko Ronkainen](https://www.worldcubeassociation.org/persons/2010RONK01)|Finland|54.04|  |  |  |  
+||||342|[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|53.99|  |  |  |  
+||||343|[Roberts Dreijers](https://www.worldcubeassociation.org/persons/2018DREI02)|Latvia|53.98|  |  |  |  
+||||344|[Toni Beljo](https://www.worldcubeassociation.org/persons/2015BELJ01)|Sweden|53.95|  |  |  |  
+||||345|[Vladimir Korovin](https://www.worldcubeassociation.org/persons/2014KORO02)|Russia|53.94|  |  |  |  
+||||346|[Eder Olivencia Gonzalez](https://www.worldcubeassociation.org/persons/2012GONZ10)|Spain|53.93|  |  |  |  
+||||347|[Filip Nilsen](https://www.worldcubeassociation.org/persons/2016NILS03)|Norway|53.89|  |  |  |  
+||||348|[Jhon Edinson Arias Parra](https://www.worldcubeassociation.org/persons/2011PARR02)|Colombia|53.84|  |  |  |  
+||||349|[Ben Kirby](https://www.worldcubeassociation.org/persons/2017KIRB01)|New Zealand|53.83|  |  |  |  
+||||=|[Christian König](https://www.worldcubeassociation.org/persons/2015KOEN01)|Germany|53.83|  |  |  |  
+||||351|[Lir Ukaj](https://www.worldcubeassociation.org/persons/2016UKAJ01)|Kosovo|53.82|  |  |  |  
+||||352|[Ping-Yueh Huang (黃品越)](https://www.worldcubeassociation.org/persons/2012HUAN12)|Taiwan|53.81|  |  |  |  
+||||353|[Andy Gong](https://www.worldcubeassociation.org/persons/2016GONG02)|Australia|53.78|  |  |  |  
+||||354|[Xingkai Yin (尹星凯)](https://www.worldcubeassociation.org/persons/2017YINX01)|China|53.64|  |  |  |  
+||||355|[Genaro Sahib Leguizamon](https://www.worldcubeassociation.org/persons/2015LEGU01)|Argentina|53.62|  |  |  |  
+||||356|[Rúnar Gauti Gunnarsson](https://www.worldcubeassociation.org/persons/2018GUNN03)|Iceland|53.61|  |  |  |  
+||||357|[Alessandro Nicolì](https://www.worldcubeassociation.org/persons/2012NICO02)|Italy|53.58|  |  |  |  
+||||=|[Andreas Wagner](https://www.worldcubeassociation.org/persons/2013WAGN01)|Austria|53.58|  |  |  |  
+||||359|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|53.57|  |  |  |  
+||||360|[Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03)|Thailand|53.51|  |  |  |  
+||||361|[Taiga Takaoka (高岡汰虎)](https://www.worldcubeassociation.org/persons/2015TAKA06)|Japan|53.46|  |  |  |  
+||||362|[Ihor Sukhovatenko (Ігор Суховатенко)](https://www.worldcubeassociation.org/persons/2017SUKH02)|Ukraine|53.44|  |  |  |  
+||||363|[Stian Nystad Østli](https://www.worldcubeassociation.org/persons/2016OSTL02)|Norway|53.41|  |  |  |  
+||||364|[Francisco Moraes Mandalozzo](https://www.worldcubeassociation.org/persons/2017MAND13)|Brazil|53.39|  |  |  |  
+||||=|[Juan Pablo Suárez Narváez](https://www.worldcubeassociation.org/persons/2017NARV01)|Ecuador|53.39|  |  |  |  
+||||366|[Darja Makurina](https://www.worldcubeassociation.org/persons/2014MAKU02)|Latvia|53.37|  |  |  |  
+||||367|[Hilmar Magnusson](https://www.worldcubeassociation.org/persons/2009MAGN02)|Iceland|53.36|  |  |  |  
+||||368|[Nicolás Irenco Peña Henríquez](https://www.worldcubeassociation.org/persons/2016HENR02)|Chile|53.35|  |  |  |  
+||||369|[Ujjawal Pabreja](https://www.worldcubeassociation.org/persons/2015PABR01)|India|53.34|  |  |  |  
+||||370|[Naglis Peciulis](https://www.worldcubeassociation.org/persons/2017PECI01)|Lithuania|53.30|  |  |  |  
+||||371|[Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01)|Poland|53.23|  |  |  |  
+||||372|[Ahsanul Insan Hamid](https://www.worldcubeassociation.org/persons/2011HAMI01)|Indonesia|53.18|  |  |  |  
+||||=|[Andrés Irías Li](https://www.worldcubeassociation.org/persons/2017LIAN32)|Costa Rica|53.18|  |  |  |  
+||||374|[Sameer Aggarwal](https://www.worldcubeassociation.org/persons/2017AGGA01)|USA|53.17|  |  |  |  
+||||375|[Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04)|Australia|53.15|  |  |  |  
+||||376|[Yu Sajima (佐島優)](https://www.worldcubeassociation.org/persons/2008SAJI01)|Japan|53.13|  |  |  |  
+||||377|[Lim Chun Yik](https://www.worldcubeassociation.org/persons/2018YIKL01)|Malaysia|53.12|  |  |  |  
+||||378|[Kristian Holme](https://www.worldcubeassociation.org/persons/2013HOLM01)|Norway|53.09|  |  |  |  
+||||379|[Afonso Carapeto](https://www.worldcubeassociation.org/persons/2015CARA03)|Portugal|53.08|  |  |  |  
+||||380|[Jonas Rongé](https://www.worldcubeassociation.org/persons/2014RONG01)|Belgium|53.07|  |  |  |  
+||||381|[Dieter Amberger](https://www.worldcubeassociation.org/persons/2016AMBE02)|Austria|53.06|  |  |  |  
+||||=|[Lim Hung (林弘)](https://www.worldcubeassociation.org/persons/2016HUNG08)|Malaysia|53.06|  |  |  |  
+||||383|[Pavlo Bondar (Павло Бондар)](https://www.worldcubeassociation.org/persons/2018BOND03)|Ukraine|52.94|  |  |  |  
+||||=|[Morten Arborg](https://www.worldcubeassociation.org/persons/2010ARBO01)|Norway|52.94|  |  |  |  
+||||385|[Pedro Roque](https://www.worldcubeassociation.org/persons/2012ROQU01)|Brazil|52.91|  |  |  |  
+||||386|[Sebastian Werb](https://www.worldcubeassociation.org/persons/2012WERB01)|Germany|52.88|  |  |  |  
+||||387|[Manfred Siew Ee Sheng (蕭奕晟)](https://www.worldcubeassociation.org/persons/2009SIEW03)|Malaysia|52.87|  |  |  |  
+||||388|[Andreas Pohl](https://www.worldcubeassociation.org/persons/2012POHL01)|Germany|52.86|  |  |  |  
+||||389|[Cyril Barigand](https://www.worldcubeassociation.org/persons/2012BARI01)|Belgium|52.81|  |  |  |  
+||||390|[Jules Desjardin](https://www.worldcubeassociation.org/persons/2010DESJ01)|France|52.79|  |  |  |  
+||||391|[Dagne Poveda](https://www.worldcubeassociation.org/persons/2017POVE02)|Costa Rica|52.70|  |  |  |  
+||||392|[Kyle McDonald Trejos](https://www.worldcubeassociation.org/persons/2017TREJ03)|Costa Rica|52.69|  |  |  |  
+||||393|[Luca Stalpers](https://www.worldcubeassociation.org/persons/2017STAL02)|Netherlands|52.66|  |  |  |  
+||||394|[Louis Cormier](https://www.worldcubeassociation.org/persons/2010CORM02)|Canada|52.63|  |  |  |  
+||||395|[Arifumi Fushimi (伏見有史)](https://www.worldcubeassociation.org/persons/2009FUSH01)|Japan|52.61|  |  |  |  
+||||=|[Damir Zhanataev (Дамир Жанатаев)](https://www.worldcubeassociation.org/persons/2017ZHAD01)|Kazakhstan|52.61|  |  |  |  
+||||397|[Jorge Leonardo Sánchez Salazar](https://www.worldcubeassociation.org/persons/2009SALA01)|Mexico|52.54|  |  |  |  
+||||398|[Yap Jia Yang](https://www.worldcubeassociation.org/persons/2016YANG84)|Malaysia|52.43|  |  |  |  
+||||399|[Dániel Varga](https://www.worldcubeassociation.org/persons/2008VARG01)|Hungary|52.40|  |  |  |  
+||||400|[Edoardo Disarò](https://www.worldcubeassociation.org/persons/2013DISA01)|Italy|52.39|  |  |  |  
+||||=|[Kaloyan Galabinov](https://www.worldcubeassociation.org/persons/2018GALA05)|Bulgaria|52.39|  |  |  |  
+||||402|[Cyrus Wong Yuk Chi (黃昱誌)](https://www.worldcubeassociation.org/persons/2015CHIC01)|Hong Kong|52.38|  |  |  |  
+||||403|[Einar Kvam Lundberg](https://www.worldcubeassociation.org/persons/2015LUND03)|Norway|52.34|  |  |  |  
+||||=|[Jānis Zirnis](https://www.worldcubeassociation.org/persons/2013ZIRN01)|Latvia|52.34|  |  |  |  
+||||405|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|52.33|  |  |  |  
+||||406|[Sheldon Rego](https://www.worldcubeassociation.org/persons/2016REGO01)|India|52.27|  |  |  |  
+||||407|[Dávid Balog](https://www.worldcubeassociation.org/persons/2009BALO03)|Hungary|52.25|  |  |  |  
+||||=|[Wong Kin Lok (黃健樂)](https://www.worldcubeassociation.org/persons/2014LOKW01)|Hong Kong|52.25|  |  |  |  
+||||409|[Vasco Vasconcelos](https://www.worldcubeassociation.org/persons/2008VASC01)|Portugal|52.20|  |  |  |  
+||||410|[Mykhailo Lagoida (Михайло Лагойда)](https://www.worldcubeassociation.org/persons/2016LAGO04)|Ukraine|52.14|  |  |  |  
+||||411|[Olli Vikstedt](https://www.worldcubeassociation.org/persons/2014VIKS01)|Finland|52.11|  |  |  |  
+||||412|[Xinyun Chen (陈新运)](https://www.worldcubeassociation.org/persons/2017CHEN36)|China|52.10|  |  |  |  
+||||413|[Manuel Aleandro Chang Pérez](https://www.worldcubeassociation.org/persons/2015PERE29)|Guatemala|52.07|  |  |  |  
+||||414|[Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01)|Poland|52.06|  |  |  |  
+||||415|[Celine Tran](https://www.worldcubeassociation.org/persons/2017TRAN25)|Norway|52.05|  |  |  |  
+||||416|[Richard Delacoste](https://www.worldcubeassociation.org/persons/2015DELA05)|Switzerland|52.01|  |  |  |  
+||||417|[Amauri Miguel Caballero](https://www.worldcubeassociation.org/persons/2016CABA07)|Dominican Republic|51.96|  |  |  |  
+||||=|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|51.96|  |  |  |  
+||||419|[Leudy Rodríguez](https://www.worldcubeassociation.org/persons/2014RODR31)|Dominican Republic|51.89|  |  |  |  
+||||420|[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03)|USA|51.87|  |  |  |  
+||||421|[Hendry Cahyadi](https://www.worldcubeassociation.org/persons/2011CAHY03)|Indonesia|51.85|  |  |  |  
+||||=|[Ting Sheng Bao Yang](https://www.worldcubeassociation.org/persons/2008BAOY01)|Spain|51.85|  |  |  |  
+||||423|[Jose Antonio Campero Morales](https://www.worldcubeassociation.org/persons/2016MORA10)|Bolivia|51.81|  |  |  |  
+||||=|[Yunliang Zhang (张赟量)](https://www.worldcubeassociation.org/persons/2016ZHAN45)|China|51.81|  |  |  |  
+||||425|[Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17)|Korea|51.66|  |  |  |  
+||||=|[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|51.66|  |  |  |  
+||||=|[Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01)|USA|51.66|  |  |  |  
+||||428|[Magnus Patrick Kanstrup](https://www.worldcubeassociation.org/persons/2015KANS01)|Denmark|51.64|  |  |  |  
+||||429|[Gael Augusto Lapeyre](https://www.worldcubeassociation.org/persons/2018LAPE01)|Argentina|51.63|  |  |  |  
+||||430|[Timur Imanov](https://www.worldcubeassociation.org/persons/2018IMAN01)|Russia|51.62|  |  |  |  
+||||=|[Franklin Ronquillo](https://www.worldcubeassociation.org/persons/2015RONQ01)|Venezuela|51.62|  |  |  |  
+||||432|[John Edison Ubaldo](https://www.worldcubeassociation.org/persons/2010UBAL01)|Philippines|51.61|  |  |  |  
+||||433|[Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03)|Poland|51.59|  |  |  |  
+||||434|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|51.58|  |  |  |  
+||||=|[Amir Husain](https://www.worldcubeassociation.org/persons/2018HUSA02)|Kazakhstan|51.58|  |  |  |  
+||||=|[Pessi Ansaranta](https://www.worldcubeassociation.org/persons/2016ANSA02)|Finland|51.58|  |  |  |  
+||||437|[Gerardo Varela](https://www.worldcubeassociation.org/persons/2017VARE01)|Honduras|51.57|  |  |  |  
+||||438|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|51.56|  |  |  |  
+||||439|[Aral Askarov](https://www.worldcubeassociation.org/persons/2017ASKA02)|Kazakhstan|51.55|  |  |  |  
+||||440|[Jorge Castillo Matas](https://www.worldcubeassociation.org/persons/2011MATA01)|Spain|51.52|  |  |  |  
+||||441|[Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33)|Vietnam|51.49|  |  |  |  
+||||442|[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|USA|51.46|  |  |  |  
+||||=|[Grigorii Alekseev](https://www.worldcubeassociation.org/persons/2015ALEK01)|Russia|51.46|  |  |  |  
+||||444|[Michael (謝富亦)](https://www.worldcubeassociation.org/persons/2017TANM01)|Indonesia|51.44|  |  |  |  
+||||445|[Magnus Søndergaard Byrne](https://www.worldcubeassociation.org/persons/2017BYRN01)|Denmark|51.42|  |  |  |  
+||||446|[Alikhan Yertursyn (Алихан Ертурсын)](https://www.worldcubeassociation.org/persons/2015YERT01)|Kazakhstan|51.40|  |  |  |  
+||||447|[Zaid Doofesh (زيد دوفش)](https://www.worldcubeassociation.org/persons/2012DOOF02)|Jordan|51.38|  |  |  |  
+||||448|[Peter Grassard](https://www.worldcubeassociation.org/persons/2016GRAS01)|France|51.31|  |  |  |  
+||||449|[Aamir Saifee](https://www.worldcubeassociation.org/persons/2015SAIF01)|India|51.30|  |  |  |  
+||||450|[Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01)|Poland|51.29|  |  |  |  
+||||451|[Yunke Zhang (张云柯)](https://www.worldcubeassociation.org/persons/2014ZHAN11)|China|51.25|  |  |  |  
+||||452|[Bill Hammill](https://www.worldcubeassociation.org/persons/2015HAMM01)|United Kingdom|51.22|  |  |  |  
+||||=|[Waldemar Sundin](https://www.worldcubeassociation.org/persons/2017SUND09)|Sweden|51.22|  |  |  |  
+||||454|[Arian Geravandi (آرین گراوندی)](https://www.worldcubeassociation.org/persons/2015GERA02)|Iran|51.21|  |  |  |  
+||||455|[Dmitry Kryuzban](https://www.worldcubeassociation.org/persons/2010KRYU01)|Russia|51.20|  |  |  |  
+||||456|[Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04)|Korea|51.18|  |  |  |  
+||||457|[Noé Bourdon](https://www.worldcubeassociation.org/persons/2016BOUR01)|France|51.07|  |  |  |  
+||||458|[Kim Min (김민)](https://www.worldcubeassociation.org/persons/2015MINK03)|Korea|51.05|  |  |  |  
+||||=|[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|Germany|51.05|  |  |  |  
+||||460|[Kunal Oak](https://www.worldcubeassociation.org/persons/2015OAKK01)|India|51.04|  |  |  |  
+||||461|[Francisco Alberto Castañeda Lima](https://www.worldcubeassociation.org/persons/2014LIMA09)|Guatemala|51.03|  |  |  |  
+||||=|[Jonathan Esparaz](https://www.worldcubeassociation.org/persons/2013ESPA01)|Canada|51.03|  |  |  |  
+||||=|[David Remolina Amórtegui](https://www.worldcubeassociation.org/persons/2011AMOR01)|Colombia|51.03|  |  |  |  
+||||=|[Elias Malomgré](https://www.worldcubeassociation.org/persons/2017MALO02)|Belgium|51.03|  |  |  |  
+||||465|[Raman Shakya](https://www.worldcubeassociation.org/persons/2017SHAK07)|Nepal|51.01|  |  |  |  
+||||466|[Simon Lim (林少秋)](https://www.worldcubeassociation.org/persons/2008LIMS01)|Philippines|51.00|  |  |  |  
+||||=|[Joseph Daniel Blas Sanchez](https://www.worldcubeassociation.org/persons/2016SANC08)|Bolivia|51.00|  |  |  |  
+||||468|[Lee Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN04)|New Zealand|50.88|  |  |  |  
+||||=|[Anuar Miguel Abib Onofre](https://www.worldcubeassociation.org/persons/2015ONOF01)|Brazil|50.88|  |  |  |  
+||||470|[Nevins Chan Pak Hoong (陈百鸿)](https://www.worldcubeassociation.org/persons/2010CHAN20)|Malaysia|50.83|  |  |  |  
+||||471|[Jack Cai](https://www.worldcubeassociation.org/persons/2014CAIJ02)|Australia|50.81|  |  |  |  
+||||472|[Kristian Gil Caragan](https://www.worldcubeassociation.org/persons/2016CARA04)|Philippines|50.80|  |  |  |  
+||||473|[Lucas Ichiro Yunomae](https://www.worldcubeassociation.org/persons/2014YUNO01)|Brazil|50.77|  |  |  |  
+||||=|[Finn Trass](https://www.worldcubeassociation.org/persons/2016TRAS01)|New Zealand|50.77|  |  |  |  
+||||475|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|50.76|  |  |  |  
+||||=|[Daniel Karnaukh](https://www.worldcubeassociation.org/persons/2014KARN02)|USA|50.76|  |  |  |  
+||||477|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|50.72|  |  |  |  
+||||=|[José Garrido](https://www.worldcubeassociation.org/persons/2009GARR01)|Chile|50.72|  |  |  |  
+||||479|[Yinghao Wang (王鹰豪)](https://www.worldcubeassociation.org/persons/2010WANG07)|China|50.71|  |  |  |  
+||||=|[Antonio Gabriel Freitas da Silva](https://www.worldcubeassociation.org/persons/2015SILV55)|Brazil|50.71|  |  |  |  
+||||=|[Brian Acuña](https://www.worldcubeassociation.org/persons/2016ACUN04)|Philippines|50.71|  |  |  |  
+||||482|[Cameron Blumenow](https://www.worldcubeassociation.org/persons/2016BLUM01)|South Africa|50.70|  |  |  |  
+||||483|[Eva Kato](https://www.worldcubeassociation.org/persons/2013KATO01)|USA|50.66|  |  |  |  
+||||484|[Jacob Oliver Bruun](https://www.worldcubeassociation.org/persons/2018BRUU01)|Norway|50.65|  |  |  |  
+||||=|[Jesse Tipton](https://www.worldcubeassociation.org/persons/2014TIPT01)|South Africa|50.65|  |  |  |  
+||||=|[Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01)|Singapore|50.65|  |  |  |  
+||||487|[Ihor Bilchenko (Ігор Більченко)](https://www.worldcubeassociation.org/persons/2011BILC01)|Ukraine|50.63|  |  |  |  
+||||=|[Muhtasim Al Farabi](https://www.worldcubeassociation.org/persons/2017FARA06)|Bangladesh|50.63|  |  |  |  
+||||489|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|USA|50.62|  |  |  |  
+||||490|[Róbert Maróti](https://www.worldcubeassociation.org/persons/2012MARA03)|Hungary|50.58|  |  |  |  
+||||=|[Víctor Adán Solis Martinez](https://www.worldcubeassociation.org/persons/2017MART94)|Mexico|50.58|  |  |  |  
+||||=|[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|50.58|  |  |  |  
+||||493|[Artem Yashkov](https://www.worldcubeassociation.org/persons/2014YASH01)|Russia|50.56|  |  |  |  
+||||494|[Aneurin Hunt](https://www.worldcubeassociation.org/persons/2010HUNT02)|New Zealand|50.55|  |  |  |  
+||||495|[Dušan Zakelšek](https://www.worldcubeassociation.org/persons/2012ZAKE02)|Slovenia|50.52|  |  |  |  
+||||496|[Taha Ben Salah](https://www.worldcubeassociation.org/persons/2015SALA03)|Tunisia|50.51|  |  |  |  
+||||=|[Davron Takhirov](https://www.worldcubeassociation.org/persons/2018TAKH01)|Uzbekistan|50.51|  |  |  |  
+||||=|[Andrii Vasyliev (Андрій Васильєв)](https://www.worldcubeassociation.org/persons/2018VASY01)|Ukraine|50.51|  |  |  |  
+||||499|[Jacob Sanchez](https://www.worldcubeassociation.org/persons/2013SANC05)|Venezuela|50.47|  |  |  |  
+||||=|[Chio Wai Cheng (趙偉程)](https://www.worldcubeassociation.org/persons/2008CHEN10)|Macau|50.47|  |  |  |  
+||||501|[AJ Kamal](https://www.worldcubeassociation.org/persons/2016KAMA04)|USA|50.45|  |  |  |  
+||||502|[Lorenzo Layug](https://www.worldcubeassociation.org/persons/2016LAYU01)|Philippines|50.44|  |  |  |  
+||||503|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|USA|50.42|  |  |  |  
+||||504|[Felipe Rueda Hernández](https://www.worldcubeassociation.org/persons/2012HERN03)|Colombia|50.37|  |  |  |  
+||||505|[Ao Nogami (野上碧)](https://www.worldcubeassociation.org/persons/2019NOGA01)|Japan|50.36|  |  |  |  
+||||506|[Freddy Fernández Córdova](https://www.worldcubeassociation.org/persons/2014CORD04)|Peru|50.35|  |  |  |  
+||||507|[Ang Chin Zhen (洪靖程)](https://www.worldcubeassociation.org/persons/2016ZHEN09)|Malaysia|50.33|  |  |  |  
+||||508|[Daniel Tarifa](https://www.worldcubeassociation.org/persons/2016TARI02)|Bolivia|50.31|  |  |  |  
+||||509|[Arthur Garcin](https://www.worldcubeassociation.org/persons/2014GARC27)|France|50.29|  |  |  |  
+||||=|[Roy Tamir](https://www.worldcubeassociation.org/persons/2014TAMI01)|Israel|50.29|  |  |  |  
+||||511|[Ivan Torgashov (Иван Торгашов)](https://www.worldcubeassociation.org/persons/2011TORG01)|Russia|50.28|  |  |  |  
+||||=|[Samir Homsi](https://www.worldcubeassociation.org/persons/2018HOMS01)|Turkey|50.28|  |  |  |  
+||||513|[Miguel Gonzaga](https://www.worldcubeassociation.org/persons/2017GONZ21)|Philippines|50.26|  |  |  |  
+||||=|[Yunqi Ouyang (欧阳韵奇)](https://www.worldcubeassociation.org/persons/2007YUNQ01)|China|50.26|  |  |  |  
+||||515|[SeungBeom Cho (조승범)](https://www.worldcubeassociation.org/persons/2012CHOS01)|Korea|50.23|  |  |  |  
+||||=|[Hargun Singh Tikku](https://www.worldcubeassociation.org/persons/2017TIKK01)|India|50.23|  |  |  |  
+||||517|[Ivan Zabrodin](https://www.worldcubeassociation.org/persons/2012ZABR01)|Russia|50.22|  |  |  |  
+||||518|[Oliver Wheat](https://www.worldcubeassociation.org/persons/2016WHEA01)|United Kingdom|50.18|  |  |  |  
+||||519|[Shao-Heng Hung (洪紹恆)](https://www.worldcubeassociation.org/persons/2011HUNG02)|Taiwan|50.09|  |  |  |  
+||||520|[Eric Limeback](https://www.worldcubeassociation.org/persons/2007LIME01)|Canada|50.06|  |  |  |  
+||||=|[Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01)|China|50.06|  |  |  |  
+||||522|[César Abraham Briones Arreola](https://www.worldcubeassociation.org/persons/2016ARRE02)|Mexico|50.03|  |  |  |  
+||||=|[Nicolás Shwkyng Monroy](https://www.worldcubeassociation.org/persons/2013MONR01)|Colombia|50.03|  |  |  |  
+||||524|[Yannic Waser](https://www.worldcubeassociation.org/persons/2016WASE01)|Switzerland|50.00|  |  |  |  
+||||525|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|49.99|  |  |  |  
+||||526|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|49.95|  |  |  |  
+||||527|[Ng Jun Jie](https://www.worldcubeassociation.org/persons/2016JIEN01)|Singapore|49.94|  |  |  |  
+||||528|[Chris Mills](https://www.worldcubeassociation.org/persons/2014MILL04)|United Kingdom|49.91|  |  |  |  
+||||529|[Agustín Diano](https://www.worldcubeassociation.org/persons/2015DIAN02)|Uruguay|49.89|  |  |  |  
+||||=|[Pedro Giuseppe Garcia Milla](https://www.worldcubeassociation.org/persons/2016MILL07)|Peru|49.89|  |  |  |  
+||||531|[Siah Yee Long](https://www.worldcubeassociation.org/persons/2015LONG01)|Singapore|49.88|  |  |  |  
+||||532|[Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01)|Poland|49.87|  |  |  |  
+||||533|[Christopher Chi](https://www.worldcubeassociation.org/persons/2014CHIC01)|USA|49.84|  |  |  |  
+||||534|[Pavel Galaktionov](https://www.worldcubeassociation.org/persons/2013GALA04)|Russia|49.82|  |  |  |  
+||||535|[Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01)|USA|49.80|  |  |  |  
+||||536|[Anatoly Kim](https://www.worldcubeassociation.org/persons/2009KIMA01)|Belarus|49.77|  |  |  |  
+||||537|[Juan de Dios Noriega Sánchez](https://www.worldcubeassociation.org/persons/2017SANC24)|Mexico|49.70|  |  |  |  
+||||538|[Caleb Salcedo Rivera](https://www.worldcubeassociation.org/persons/2018RIVE09)|Ecuador|49.69|  |  |  |  
+||||=|[Oscar Rene Mejia Aguirre](https://www.worldcubeassociation.org/persons/2017AGUI18)|El Salvador|49.69|  |  |  |  
+||||540|[Wataru Hashimura (端村航)](https://www.worldcubeassociation.org/persons/2008HASH02)|Japan|49.68|  |  |  |  
+||||541|[Shuhei Omura (大村周平)](https://www.worldcubeassociation.org/persons/2007OMUR01)|Japan|49.61|  |  |  |  
+||||=|[Wayne Pi](https://www.worldcubeassociation.org/persons/2017PIWA01)|Taiwan|49.61|  |  |  |  
+||||=|[Frederico Canal Gomes](https://www.worldcubeassociation.org/persons/2018GOME29)|Brazil|49.61|  |  |  |  
+||||544|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|49.56|  |  |  |  
+||||545|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|49.53|  |  |  |  
+||||546|[Damian Peter Shaw](https://www.worldcubeassociation.org/persons/2019SHAW04)|Zimbabwe|49.50|  |  |  |  
+||||547|[Mohamed Ben Driss Chokri](https://www.worldcubeassociation.org/persons/2015CHOK01)|Morocco|49.46|  |  |  |  
+||||=|[Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی)](https://www.worldcubeassociation.org/persons/2011FATE01)|Iran|49.46|  |  |  |  
+||||549|[Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01)|Australia|49.44|  |  |  |  
+||||=|[Timothy Lawrance](https://www.worldcubeassociation.org/persons/2017LAWR04)|South Africa|49.44|  |  |  |  
+||||551|[Lorenzo Vigani Poli](https://www.worldcubeassociation.org/persons/2007POLI01)|Italy|49.41|  |  |  |  
+||||552|[Damián Campos](https://www.worldcubeassociation.org/persons/2015CAMP03)|Argentina|49.39|  |  |  |  
+||||=|[António Gomes](https://www.worldcubeassociation.org/persons/2014GOME07)|Portugal|49.39|  |  |  |  
+||||554|[Vladislav Kozhin](https://www.worldcubeassociation.org/persons/2015KOZH01)|Russia|49.36|  |  |  |  
+||||=|[Mara Oprea](https://www.worldcubeassociation.org/persons/2017OPRE02)|Romania|49.36|  |  |  |  
+||||556|[Feruz Gulomov](https://www.worldcubeassociation.org/persons/2017GULO01)|Uzbekistan|49.29|  |  |  |  
+||||557|[Parham Saeed Nia (پرهام سعیدنیا)](https://www.worldcubeassociation.org/persons/2011NIAP01)|Iran|49.27|  |  |  |  
+||||558|[Midas Kiebert](https://www.worldcubeassociation.org/persons/2016KIEB01)|Netherlands|49.25|  |  |  |  
+||||559|[Aniketh Arya](https://www.worldcubeassociation.org/persons/2015ARYA03)|India|49.23|  |  |  |  
+||||560|[Joel Lundström](https://www.worldcubeassociation.org/persons/2017LUND06)|Sweden|49.19|  |  |  |  
+||||561|[Ben Whitmore](https://www.worldcubeassociation.org/persons/2009WHIT01)|United Kingdom|49.17|  |  |  |  
+||||562|[Hector David Martinez Argaez](https://www.worldcubeassociation.org/persons/2014ARGA01)|Colombia|49.15|  |  |  |  
+||||563|[Joel Ulin](https://www.worldcubeassociation.org/persons/2011ULIN01)|Sweden|49.14|  |  |  |  
+||||564|[Axel Brisse](https://www.worldcubeassociation.org/persons/2016BRIS01)|France|49.13|  |  |  |  
+||||=|[João Vinícius de Andrade Santos](https://www.worldcubeassociation.org/persons/2016SANT66)|Brazil|49.13|  |  |  |  
+||||566|[Daniel Anker Hermansen](https://www.worldcubeassociation.org/persons/2017HERM01)|Denmark|49.11|  |  |  |  
+||||567|[Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01)|USA|49.09|  |  |  |  
+||||=|[Daniel Alberto Sánchez Dugarte](https://www.worldcubeassociation.org/persons/2013DUGA02)|Venezuela|49.09|  |  |  |  
+||||569|[Yu Feng (冯煜)](https://www.worldcubeassociation.org/persons/2017FENG09)|China|49.03|  |  |  |  
+||||=|[Sebastian Guerrero](https://www.worldcubeassociation.org/persons/2017GUER19)|Costa Rica|49.03|  |  |  |  
+||||571|[Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01)|Australia|49.02|  |  |  |  
+||||=|[Ishaan Lal](https://www.worldcubeassociation.org/persons/2014LALI01)|USA|49.02|  |  |  |  
+||||573|[Christopher Morris](https://www.worldcubeassociation.org/persons/2013MORR03)|United Kingdom|49.00|  |  |  |  
+||||574|[Erick Lemus Fuentes](https://www.worldcubeassociation.org/persons/2013FUEN01)|Chile|48.99|  |  |  |  
+||||575|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|Spain|48.98|  |  |  |  
+||||576|[Joshua Feran](https://www.worldcubeassociation.org/persons/2011FERA01)|USA|48.97|  |  |  |  
+||||577|[Alexander Batz](https://www.worldcubeassociation.org/persons/2017BATZ01)|Guatemala|48.96|  |  |  |  
+||||578|[Zhiyuan Ma (马之元)](https://www.worldcubeassociation.org/persons/2017MAZH04)|China|48.95|  |  |  |  
+||||=|[Danila Ryabinin](https://www.worldcubeassociation.org/persons/2017RYAB02)|Russia|48.95|  |  |  |  
+||||580|[Luke Tycksen](https://www.worldcubeassociation.org/persons/2012TYCK01)|USA|48.94|  |  |  |  
+||||581|[Noah Swor](https://www.worldcubeassociation.org/persons/2017SWOR01)|USA|48.93|  |  |  |  
+||||582|[Callum Goodyear](https://www.worldcubeassociation.org/persons/2012GOOD02)|United Kingdom|48.92|  |  |  |  
+||||583|[Joaquin Ruenes Hernández](https://www.worldcubeassociation.org/persons/2017HERN11)|Mexico|48.91|  |  |  |  
+||||584|[Daniel Méndez](https://www.worldcubeassociation.org/persons/2016MEND23)|Guatemala|48.88|  |  |  |  
+||||=|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|USA|48.88|  |  |  |  
+||||=|[Imants Liepiņš](https://www.worldcubeassociation.org/persons/2015LIEP02)|Latvia|48.88|  |  |  |  
+||||587|[Joaquín Infante Medrano](https://www.worldcubeassociation.org/persons/2017MEDR01)|Mexico|48.87|  |  |  |  
+||||588|[Liam Uno Timour-Silveira](https://www.worldcubeassociation.org/persons/2017TIMO01)|Norway|48.85|  |  |  |  
+||||589|[Gamaliel Jimenez Oropeza](https://www.worldcubeassociation.org/persons/2018OROP01)|Mexico|48.82|  |  |  |  
+||||590|[Bryan Eng](https://www.worldcubeassociation.org/persons/2017ENGB01)|Australia|48.80|  |  |  |  
+||||591|[Angel Jesus Panebra Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR37)|Peru|48.79|  |  |  |  
+||||=|[Raúl Low Beattie](https://www.worldcubeassociation.org/persons/2011BEAT01)|Chile|48.79|  |  |  |  
+||||593|[Sardar Bakiev (Сардар Бакиев)](https://www.worldcubeassociation.org/persons/2017BAKI01)|Kyrgyzstan|48.77|  |  |  |  
+||||=|[Fabricio Andrés Yañez Terrazas](https://www.worldcubeassociation.org/persons/2015TERR01)|Bolivia|48.77|  |  |  |  
+||||595|[Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01)|Poland|48.75|  |  |  |  
+||||596|[Erwan Kohler](https://www.worldcubeassociation.org/persons/2010KOHL02)|Switzerland|48.73|  |  |  |  
+||||597|[Gabriel Alejandro Orozco Casillas](https://www.worldcubeassociation.org/persons/2008CASI01)|Mexico|48.71|  |  |  |  
+||||=|[David Arzamastsev](https://www.worldcubeassociation.org/persons/2016ARZA01)|Russia|48.71|  |  |  |  
+||||599|[Shenghai Fang (方胜海)](https://www.worldcubeassociation.org/persons/2016FANG01)|China|48.70|  |  |  |  
+||||600|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|48.68|  |  |  |  
+||||=|[Kaidrich Keolo Pobre](https://www.worldcubeassociation.org/persons/2013POBR01)|Philippines|48.68|  |  |  |  
+||||=|[Daan Baartmans](https://www.worldcubeassociation.org/persons/2014BAAR01)|Netherlands|48.68|  |  |  |  
+||||603|[Serhii Mormul (Сергій Мормуль)](https://www.worldcubeassociation.org/persons/2012MORM01)|Ukraine|48.67|  |  |  |  
+||||=|[Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01)|Vietnam|48.67|  |  |  |  
+||||605|[Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01)|France|48.66|  |  |  |  
+||||606|[Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02)|Taiwan|48.62|  |  |  |  
+||||=|[Chetan Roger Dhanjal](https://www.worldcubeassociation.org/persons/2014DHAN01)|India|48.62|  |  |  |  
+||||=|[Kristiāns Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET01)|Latvia|48.62|  |  |  |  
+||||609|[Weijie Fang (方伟杰)](https://www.worldcubeassociation.org/persons/2018FANG10)|China|48.61|  |  |  |  
+||||610|[Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01)|Poland|48.60|  |  |  |  
+||||=|[Renato José Orrego Insfran](https://www.worldcubeassociation.org/persons/2017INSF01)|Paraguay|48.60|  |  |  |  
+||||612|[Rafael Rodriguez Santana](https://www.worldcubeassociation.org/persons/2012SANT12)|Spain|48.56|  |  |  |  
+||||613|[Fabian Settelen](https://www.worldcubeassociation.org/persons/2015SETT01)|Switzerland|48.54|  |  |  |  
+||||614|[Daniel Yakhkind (Даніель Яхкінд)](https://www.worldcubeassociation.org/persons/2015YAKH01)|Ukraine|48.53|  |  |  |  
+||||615|[Angel Arrioja Landa](https://www.worldcubeassociation.org/persons/2010LAND01)|Mexico|48.50|  |  |  |  
+||||616|[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|48.45|  |  |  |  
+||||=|[Shek Ho Hin (石灝軒)](https://www.worldcubeassociation.org/persons/2016HINS02)|Hong Kong|48.45|  |  |  |  
+||||618|[Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02)|Sweden|48.44|  |  |  |  
+||||619|[Raúl Martínez Redondo](https://www.worldcubeassociation.org/persons/2017REDO02)|Spain|48.42|  |  |  |  
+||||620|[Yifan Wang (王逸帆)](https://www.worldcubeassociation.org/persons/2017WANY29)|China|48.40|  |  |  |  
+||||621|[Marco Antonio Ponce de León Aguilar](https://www.worldcubeassociation.org/persons/2017AGUI15)|Peru|48.39|  |  |  |  
+||||622|[Alejandro Isaza](https://www.worldcubeassociation.org/persons/2015ISAZ01)|Colombia|48.38|  |  |  |  
+||||623|[Angel Armando Jaime Sánchez](https://www.worldcubeassociation.org/persons/2018SANC03)|Mexico|48.36|  |  |  |  
+||||624|[Leon Achata](https://www.worldcubeassociation.org/persons/2015ACHA01)|Peru|48.35|  |  |  |  
+||||=|[Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02)|China|48.35|  |  |  |  
+||||626|[Eduardo Antonio Lara Martínez](https://www.worldcubeassociation.org/persons/2016MART09)|Mexico|48.34|  |  |  |  
+||||627|[Mark Boyanowski](https://www.worldcubeassociation.org/persons/2014BOYA01)|USA|48.27|  |  |  |  
+||||628|[Renzo Rodriguez Moreno](https://www.worldcubeassociation.org/persons/2014MORE01)|Colombia|48.24|  |  |  |  
+||||629|[Fedor Abaev](https://www.worldcubeassociation.org/persons/2016ABAE01)|Russia|48.23|  |  |  |  
+||||=|[Jurgens Filiaggi](https://www.worldcubeassociation.org/persons/2013FILI01)|Venezuela|48.23|  |  |  |  
+||||=|[Vicente Astroza](https://www.worldcubeassociation.org/persons/2017ASTR01)|Chile|48.23|  |  |  |  
+||||632|[Leonard Wetzel](https://www.worldcubeassociation.org/persons/2016WETZ01)|Germany|48.22|  |  |  |  
+||||633|[Matthew Prestwich](https://www.worldcubeassociation.org/persons/2016PRES04)|United Kingdom|48.21|  |  |  |  
+||||634|[Jared Stinson](https://www.worldcubeassociation.org/persons/2014STIN01)|USA|48.18|  |  |  |  
+||||635|[Damiano Di Paola](https://www.worldcubeassociation.org/persons/2016PAOL01)|Italy|48.16|  |  |  |  
+||||636|[Dhruv Arora](https://www.worldcubeassociation.org/persons/2015AROR05)|India|48.15|  |  |  |  
+||||=|[Alex Loor](https://www.worldcubeassociation.org/persons/2018LOOR01)|Ecuador|48.15|  |  |  |  
+||||638|[Lee Chiang (蔣礪)](https://www.worldcubeassociation.org/persons/2013CHIA02)|Taiwan|48.14|  |  |  |  
+||||639|[Chi-Lun Hung (洪啟倫)](https://www.worldcubeassociation.org/persons/2010HONG01)|Taiwan|48.09|  |  |  |  
+||||640|[Ethan Stevens](https://www.worldcubeassociation.org/persons/2015STEV03)|Australia|48.08|  |  |  |  
+||||641|[Maverick Pearson](https://www.worldcubeassociation.org/persons/2014PEAR02)|South Africa|48.05|  |  |  |  
+||||=|[Jiawei Wu (伍嘉维)](https://www.worldcubeassociation.org/persons/2014WUJI01)|China|48.05|  |  |  |  
+||||=|[Jhoan Andrade](https://www.worldcubeassociation.org/persons/2017ANDR22)|Ecuador|48.05|  |  |  |  
+||||=|[Burak Erdil Biçer](https://www.worldcubeassociation.org/persons/2017BICE01)|Turkey|48.05|  |  |  |  
+||||645|[Frederiks Rūdolfs Kronbergs](https://www.worldcubeassociation.org/persons/2017KRON03)|Latvia|48.02|  |  |  |  
+||||646|[Nikolaus Lindinger](https://www.worldcubeassociation.org/persons/2014LIND04)|Austria|48.01|  |  |  |  
+||||647|[Ben Ridley](https://www.worldcubeassociation.org/persons/2016RIDL01)|United Kingdom|48.00|  |  |  |  
+||||=|[Adrien Schumacker](https://www.worldcubeassociation.org/persons/2016SCHU02)|Belgium|48.00|  |  |  |  
+||||=|[Riley Woo](https://www.worldcubeassociation.org/persons/2007WOOR01)|USA|48.00|  |  |  |  
+||||650|[Arush Singh](https://www.worldcubeassociation.org/persons/2017SING18)|India|47.99|  |  |  |  
+||||651|[Hassen Kallala](https://www.worldcubeassociation.org/persons/2016KALL01)|Tunisia|47.95|  |  |  |  
+||||652|[Dereck Estrada](https://www.worldcubeassociation.org/persons/2017ESTR04)|Ecuador|47.94|  |  |  |  
+||||=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|Spain|47.94|  |  |  |  
+||||654|[Qijun Miao (缪其隽)](https://www.worldcubeassociation.org/persons/2014MIAO02)|China|47.93|  |  |  |  
+||||655|[Matteo Colombo](https://www.worldcubeassociation.org/persons/2009COLO03)|Italy|47.92|  |  |  |  
+||||=|[Semen Artyukhov](https://www.worldcubeassociation.org/persons/2018ARTY01)|Russia|47.92|  |  |  |  
+||||657|[Zixuan Liu (刘子瑄)](https://www.worldcubeassociation.org/persons/2015LIUZ07)|China|47.88|  |  |  |  
+||||658|[Karam Al-Robaie](https://www.worldcubeassociation.org/persons/2016ALRO01)|United Kingdom|47.87|  |  |  |  
+||||659|[Mikhail Kopylov (Михаил Копылов)](https://www.worldcubeassociation.org/persons/2018KOPY01)|Russia|47.86|  |  |  |  
+||||660|[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|Australia|47.83|  |  |  |  
+||||=|[Matthew Sheerin](https://www.worldcubeassociation.org/persons/2009SHEE01)|United Kingdom|47.83|  |  |  |  
+||||662|[Joe Ewbank](https://www.worldcubeassociation.org/persons/2015EWBA01)|United Kingdom|47.82|  |  |  |  
+||||=|[Emilio Alberto Rodríguez Jiménez](https://www.worldcubeassociation.org/persons/2018JIME14)|Mexico|47.82|  |  |  |  
+||||664|[Tomoyuki Hiraide (平出智之)](https://www.worldcubeassociation.org/persons/2012HIRA01)|Japan|47.76|  |  |  |  
+||||665|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|47.75|  |  |  |  
+||||666|[Muhammad Razin Bin Roslan](https://www.worldcubeassociation.org/persons/2015ROSL01)|Malaysia|47.70|  |  |  |  
+||||=|[Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06)|USA|47.70|  |  |  |  
+||||668|[Fernando Daniel Domínguez Castaneda](https://www.worldcubeassociation.org/persons/2017CAST49)|El Salvador|47.66|  |  |  |  
+||||=|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|47.66|  |  |  |  
+||||670|[Isaac Lai Yin Chung](https://www.worldcubeassociation.org/persons/2015LAII01)|Singapore|47.65|  |  |  |  
+||||671|[Cormac Farrell](https://www.worldcubeassociation.org/persons/2016FARR01)|United Kingdom|47.63|  |  |  |  
+||||672|[Dmitry Zvyagintsev](https://www.worldcubeassociation.org/persons/2011ZVYA01)|Russia|47.58|  |  |  |  
+||||673|[Raymond Goslow](https://www.worldcubeassociation.org/persons/2014GOSL01)|USA|47.55|  |  |  |  
+||||674|[Haluk Ulkusal](https://www.worldcubeassociation.org/persons/2016ULKU01)|Romania|47.51|  |  |  |  
+||||675|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|47.50|  |  |  |  
+||||=|[Thompson Clarke](https://www.worldcubeassociation.org/persons/2008CLAR01)|Canada|47.50|  |  |  |  
+||||677|[Zhulu Ke (柯助錄)](https://www.worldcubeassociation.org/persons/2007KEZH01)|Macau|47.49|  |  |  |  
+||||678|[Sherkhan-Mukhammad Nasirov](https://www.worldcubeassociation.org/persons/2017NASI01)|Uzbekistan|47.44|  |  |  |  
+||||679|[Avishek Prajapati](https://www.worldcubeassociation.org/persons/2016PRAJ02)|Nepal|47.42|  |  |  |  
+||||680|[José Miguel Lanz Mendoza](https://www.worldcubeassociation.org/persons/2013MEND05)|Venezuela|47.41|  |  |  |  
+||||681|[Bat-Erdene Sambuudolgor (Самбуудолгор Бат-Эрдэнэ)](https://www.worldcubeassociation.org/persons/2016SAMB04)|Mongolia|47.36|  |  |  |  
+||||682|[Jiayu Wang (王佳宇)](https://www.worldcubeassociation.org/persons/2010WANG53)|China|47.35|  |  |  |  
+||||=|[Jeremy Singson](https://www.worldcubeassociation.org/persons/2015SING22)|India|47.35|  |  |  |  
+||||684|[Luis Angel Soto Castillo](https://www.worldcubeassociation.org/persons/2018CAST58)|Panama|47.34|  |  |  |  
+||||685|[Rodrigo Cabezas](https://www.worldcubeassociation.org/persons/2015CABE01)|Chile|47.29|  |  |  |  
+||||686|[Akshaansh Chilakapati](https://www.worldcubeassociation.org/persons/2016CHIL02)|India|47.28|  |  |  |  
+||||687|[Simon Kellum](https://www.worldcubeassociation.org/persons/2016KELL12)|USA|47.27|  |  |  |  
+||||688|[Dmitry Aniskin](https://www.worldcubeassociation.org/persons/2011ANIS01)|Russia|47.20|  |  |  |  
+||||689|[Teruki Tamura (田村旭輝)](https://www.worldcubeassociation.org/persons/2016TAMU01)|Japan|47.17|  |  |  |  
+||||690|[Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2017HUNG03)|Vietnam|47.13|  |  |  |  
+||||=|[Richard-Mattias Prints](https://www.worldcubeassociation.org/persons/2017PRIN01)|Estonia|47.13|  |  |  |  
+||||=|[Gregor Billing](https://www.worldcubeassociation.org/persons/2012BILL01)|Germany|47.13|  |  |  |  
+||||=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|47.13|  |  |  |  
+||||694|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|47.12|  |  |  |  
+||||=|[Gustav Wälivaara](https://www.worldcubeassociation.org/persons/2016WALI01)|Sweden|47.12|  |  |  |  
+||||696|[Olivér Perge](https://www.worldcubeassociation.org/persons/2007PERG01)|Hungary|47.11|  |  |  |  
+||||697|[Robin Tschümperlin](https://www.worldcubeassociation.org/persons/2013TSCH02)|Switzerland|47.09|  |  |  |  
+||||698|[Alexander Karlov](https://www.worldcubeassociation.org/persons/2014KARL01)|Sweden|47.08|  |  |  |  
+||||699|[John Brechon](https://www.worldcubeassociation.org/persons/2010BREC01)|USA|47.06|  |  |  |  
+||||=|[Ugnius Byron Braun](https://www.worldcubeassociation.org/persons/2017BRAU02)|Lithuania|47.06|  |  |  |  
+||||701|[Surav Krishna Shrestha](https://www.worldcubeassociation.org/persons/2016SHRE05)|Nepal|47.05|  |  |  |  
+||||702|[Xiaobin Rui (芮晓彬)](https://www.worldcubeassociation.org/persons/2013RUIX02)|China|47.04|  |  |  |  
+||||=|[Ray Bai](https://www.worldcubeassociation.org/persons/2014BAIR01)|USA|47.04|  |  |  |  
+||||704|[Aysha Jamsheer](https://www.worldcubeassociation.org/persons/2017JAMS01)|Bahrain|47.02|  |  |  |  
+||||705|[Xinjie Shi (施鑫杰)](https://www.worldcubeassociation.org/persons/2016SHIX02)|China|47.01|  |  |  |  
+||||706|[Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01)|United Kingdom|47.00|  |  |  |  
+||||707|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|46.98|  |  |  |  
+||||=|[Raluca Ioana Grigoraș](https://www.worldcubeassociation.org/persons/2016GRIG01)|Romania|46.98|  |  |  |  
+||||709|[Pavel Mesyatsev](https://www.worldcubeassociation.org/persons/2017MESY01)|Russia|46.96|  |  |  |  
+||||710|[Roan Paone](https://www.worldcubeassociation.org/persons/2017PAON01)|Canada|46.91|  |  |  |  
+||||=|[Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01)|Netherlands|46.91|  |  |  |  
+||||712|[Eduard Mrug](https://www.worldcubeassociation.org/persons/2016MRUG01)|Slovakia|46.90|  |  |  |  
+||||713|[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|USA|46.88|  |  |  |  
+||||714|[Diego Trujeque](https://www.worldcubeassociation.org/persons/2015TRUJ04)|Mexico|46.86|  |  |  |  
+||||715|[Luis Alonso Inestroza Henriquez](https://www.worldcubeassociation.org/persons/2015HENR02)|El Salvador|46.85|  |  |  |  
+||||=|[Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19)|China|46.85|  |  |  |  
+||||717|[Ryan Pilat](https://www.worldcubeassociation.org/persons/2016PILA03)|USA|46.83|  |  |  |  
+||||718|[Ryan Minjun Cho](https://www.worldcubeassociation.org/persons/2014CHOR01)|Canada|46.79|  |  |  |  
+||||719|[Jonathan Tan Wei Xiat](https://www.worldcubeassociation.org/persons/2009XIAT02)|Malaysia|46.78|  |  |  |  
+||||720|[Fung Hoi Yin (馮凱賢)](https://www.worldcubeassociation.org/persons/2010YINF01)|Hong Kong|46.77|  |  |  |  
+||||721|[Davis Joel Fonseca Rios](https://www.worldcubeassociation.org/persons/2018RIOS04)|Panama|46.72|  |  |  |  
+||||=|[John O'Connell](https://www.worldcubeassociation.org/persons/2015OCON03)|Ireland|46.72|  |  |  |  
+||||723|[Petr Michovský](https://www.worldcubeassociation.org/persons/2015MICH01)|Czech Republic|46.71|  |  |  |  
+||||724|[Fardin Bahadory Nejad (فردین بهادری نژاد)](https://www.worldcubeassociation.org/persons/2011NEJA02)|Iran|46.70|  |  |  |  
+||||=|[Gabriel Bergue Campos Borges](https://www.worldcubeassociation.org/persons/2017BORG02)|Brazil|46.70|  |  |  |  
+||||726|[Keaton Ellis](https://www.worldcubeassociation.org/persons/2012ELLI01)|USA|46.67|  |  |  |  
+||||=|[Matej Bolta](https://www.worldcubeassociation.org/persons/2015BOLT01)|Slovenia|46.67|  |  |  |  
+||||728|[Javier López Fernández](https://www.worldcubeassociation.org/persons/2016FERN07)|Spain|46.62|  |  |  |  
+||||729|[David Lim](https://www.worldcubeassociation.org/persons/2010LIMD01)|New Zealand|46.61|  |  |  |  
+||||730|[Paul Taylor](https://www.worldcubeassociation.org/persons/2016TAYL02)|USA|46.56|  |  |  |  
+||||731|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|USA|46.55|  |  |  |  
+||||732|[Choi Hyo-jin (최효진)](https://www.worldcubeassociation.org/persons/2017HYOJ01)|Korea|46.50|  |  |  |  
+||||733|[Marcos Meibel Corral Murillo](https://www.worldcubeassociation.org/persons/2016MURI01)|Mexico|46.49|  |  |  |  
+||||=|[William Phommaha](https://www.worldcubeassociation.org/persons/2015PHOM01)|France|46.49|  |  |  |  
+||||735|[David Pearce](https://www.worldcubeassociation.org/persons/2015PEAR02)|Australia|46.42|  |  |  |  
+||||=|[Niclas Mach](https://www.worldcubeassociation.org/persons/2018MACH13)|Germany|46.42|  |  |  |  
+||||737|[Chengyang Song (宋成阳)](https://www.worldcubeassociation.org/persons/2016SONG04)|China|46.40|  |  |  |  
+||||738|[Francisco Cabral de Jesus](https://www.worldcubeassociation.org/persons/2015JESU01)|Argentina|46.39|  |  |  |  
+||||739|[Chan Hui Tung (陳許瞳)](https://www.worldcubeassociation.org/persons/2017TUNG16)|Hong Kong|46.37|  |  |  |  
+||||740|[Christian Angelo Araneta Naguio](https://www.worldcubeassociation.org/persons/2016NAGU02)|Philippines|46.36|  |  |  |  
+||||741|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|46.34|  |  |  |  
+||||742|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|46.32|  |  |  |  
+||||743|[Timur Kakhanovich](https://www.worldcubeassociation.org/persons/2014KAKH01)|Belarus|46.31|  |  |  |  
+||||=|[Jostin Alvarez](https://www.worldcubeassociation.org/persons/2017ALVA27)|Costa Rica|46.31|  |  |  |  
+||||745|[Nicolás Lasso Peña](https://www.worldcubeassociation.org/persons/2013PENA05)|Colombia|46.30|  |  |  |  
+||||746|[Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01)|Poland|46.28|  |  |  |  
+||||747|[Aharon Campoli Tono](https://www.worldcubeassociation.org/persons/2014TONO01)|Brazil|46.25|  |  |  |  
+||||=|[Ronald Fernando Remuzgo Salazar](https://www.worldcubeassociation.org/persons/2017SALA07)|Peru|46.25|  |  |  |  
+||||749|[Bruno Vervoort](https://www.worldcubeassociation.org/persons/2011VERV01)|Belgium|46.23|  |  |  |  
+||||750|[Tomáš Novotný](https://www.worldcubeassociation.org/persons/2014NOVO01)|Czech Republic|46.20|  |  |  |  
+||||=|[Ryan Peh (白凯明)](https://www.worldcubeassociation.org/persons/2015PEHR01)|Singapore|46.20|  |  |  |  
+||||752|[Phil Patrick F. Isidro](https://www.worldcubeassociation.org/persons/2016ISID01)|Philippines|46.16|  |  |  |  
+||||753|[Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01)|Poland|46.15|  |  |  |  
+||||754|[Urho Kinnunen](https://www.worldcubeassociation.org/persons/2018KINN05)|Finland|46.14|  |  |  |  
+||||755|[Aniket Das](https://www.worldcubeassociation.org/persons/2015DASA02)|India|46.12|  |  |  |  
+||||=|[Dante Jesus Arevalo Leal](https://www.worldcubeassociation.org/persons/2017LEAL04)|Mexico|46.12|  |  |  |  
+||||757|[Jacob Ambrose](https://www.worldcubeassociation.org/persons/2010AMBR01)|USA|46.11|  |  |  |  
+||||=|[Jerónimo Ibarra Bernal](https://www.worldcubeassociation.org/persons/2010IBAR01)|Spain|46.11|  |  |  |  
+||||759|[Takayuki Ookusa (大艸尊之)](https://www.worldcubeassociation.org/persons/2006OOKU01)|Japan|46.10|  |  |  |  
+||||=|[Noah Joiner](https://www.worldcubeassociation.org/persons/2015JOIN01)|USA|46.10|  |  |  |  
+||||761|[Diego Alejandro Casas Jimenez](https://www.worldcubeassociation.org/persons/2014JIME05)|Colombia|46.06|  |  |  |  
+||||762|[Yumu Tabuchi (田渕雄夢)](https://www.worldcubeassociation.org/persons/2006TABU02)|Japan|46.04|  |  |  |  
+||||763|[Alejandro Daniel Salceda Corvera](https://www.worldcubeassociation.org/persons/2016CORV01)|Mexico|46.03|  |  |  |  
+||||764|[Ivan Polkanov (Иван Полканов)](https://www.worldcubeassociation.org/persons/2018POLK03)|Russia|46.02|  |  |  |  
+||||765|[Dániel Székely](https://www.worldcubeassociation.org/persons/2014SZEK01)|Hungary|46.01|  |  |  |  
+||||766|[Eddy Deturche](https://www.worldcubeassociation.org/persons/2014DETU01)|France|45.98|  |  |  |  
+||||=|[Diego Serrano Martínez](https://www.worldcubeassociation.org/persons/2016MART91)|Spain|45.98|  |  |  |  
+||||768|[Kai Roff](https://www.worldcubeassociation.org/persons/2018ROFF01)|United Kingdom|45.95|  |  |  |  
+||||=|[José David Castiblanco Marin](https://www.worldcubeassociation.org/persons/2012MARI04)|Colombia|45.95|  |  |  |  
+||||=|[Yu-Kai Chen (陳宇楷)](https://www.worldcubeassociation.org/persons/2015CHEN56)|Taiwan|45.95|  |  |  |  
+||||771|[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Peru|45.94|  |  |  |  
+||||772|[Michael Kevin Astudillo Muñoz](https://www.worldcubeassociation.org/persons/2017MUNO05)|Ecuador|45.93|  |  |  |  
+||||=|[Sebastián Herrera Pomares](https://www.worldcubeassociation.org/persons/2017POMA02)|Costa Rica|45.93|  |  |  |  
+||||774|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|45.92|  |  |  |  
+||||775|[Zhichun Li (李志纯)](https://www.worldcubeassociation.org/persons/2017LIZH13)|China|45.88|  |  |  |  
+||||776|[Benjamin Agnew](https://www.worldcubeassociation.org/persons/2015AGNE02)|New Zealand|45.85|  |  |  |  
+||||=|[Saravanan Gowthaman](https://www.worldcubeassociation.org/persons/2015GOWT01)|India|45.85|  |  |  |  
+||||778|[Nathan Azaria](https://www.worldcubeassociation.org/persons/2010AZAR01)|Indonesia|45.84|  |  |  |  
+||||779|[Katie Davies](https://www.worldcubeassociation.org/persons/2017DAVI03)|United Kingdom|45.83|  |  |  |  
+||||780|[Oliver Castledine](https://www.worldcubeassociation.org/persons/2018CAST08)|United Kingdom|45.82|  |  |  |  
+||||781|[Santiago Ramírez Jiménez](https://www.worldcubeassociation.org/persons/2017JIME07)|Colombia|45.77|  |  |  |  
+||||=|[Daniel Goodman](https://www.worldcubeassociation.org/persons/2013GOOD01)|USA|45.77|  |  |  |  
+||||=|[Jun-Rui Rao (饒峻睿)](https://www.worldcubeassociation.org/persons/2015RAOJ01)|Taiwan|45.77|  |  |  |  
+||||784|[Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01)|USA|45.76|  |  |  |  
+||||785|[Qingbin Chen (陈庆斌)](https://www.worldcubeassociation.org/persons/2011CHEN19)|China|45.74|  |  |  |  
+||||=|[Hari Anirudh](https://www.worldcubeassociation.org/persons/2013ANIR01)|India|45.74|  |  |  |  
+||||787|[Artem Melikian (Артем Мелікян)](https://www.worldcubeassociation.org/persons/2011MELI01)|Ukraine|45.73|  |  |  |  
+||||788|[Mikhail Kuzin](https://www.worldcubeassociation.org/persons/2015KUZI01)|Russia|45.71|  |  |  |  
+||||789|[Alexandre Carlier](https://www.worldcubeassociation.org/persons/2012CARL03)|France|45.69|  |  |  |  
+||||=|[Giovanny Coronado](https://www.worldcubeassociation.org/persons/2012CORO01)|Colombia|45.69|  |  |  |  
+||||791|[Joaquin Abarca](https://www.worldcubeassociation.org/persons/2017ABAR02)|Canada|45.68|  |  |  |  
+||||792|[Ko Youngjin (고영진)](https://www.worldcubeassociation.org/persons/2007YOUN04)|Korea|45.67|  |  |  |  
+||||793|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|45.64|  |  |  |  
+||||=|[Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01)|Australia|45.64|  |  |  |  
+||||795|[Korakot Inkaew (กรกฎ อิ่นแก้ว)](https://www.worldcubeassociation.org/persons/2017INKA01)|Thailand|45.61|  |  |  |  
+||||796|[Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03)|Australia|45.56|  |  |  |  
+||||=|[Juho Arjanne](https://www.worldcubeassociation.org/persons/2015ARJA01)|Finland|45.56|  |  |  |  
+||||=|[Dwyane Ramos](https://www.worldcubeassociation.org/persons/2019RAMO05)|New Zealand|45.56|  |  |  |  
+||||799|[James Quinn](https://www.worldcubeassociation.org/persons/2016QUIN01)|USA|45.52|  |  |  |  
+||||800|[Chris Choi](https://www.worldcubeassociation.org/persons/2016CHOI01)|USA|45.51|  |  |  |  
+||||801|[Rodrigo Pueblas Núñez](https://www.worldcubeassociation.org/persons/2014NUNE05)|Spain|45.49|  |  |  |  
+||||802|[Zian Song (宋子安)](https://www.worldcubeassociation.org/persons/2014SONG08)|China|45.48|  |  |  |  
+||||803|[Ronald Josué Sicá Alvarado](https://www.worldcubeassociation.org/persons/2017ALVA25)|Guatemala|45.44|  |  |  |  
+||||804|[Jefferson Andres Durango Argaez](https://www.worldcubeassociation.org/persons/2014ARGA02)|Colombia|45.43|  |  |  |  
+||||=|[Abylai Orazalin (Абылай Оразалин)](https://www.worldcubeassociation.org/persons/2018ORAZ01)|Kazakhstan|45.43|  |  |  |  
+||||806|[Jefferson Fallas Rojas](https://www.worldcubeassociation.org/persons/2017ROJA18)|Costa Rica|45.42|  |  |  |  
+||||=|[Shunsuke Wada (和田俊輔)](https://www.worldcubeassociation.org/persons/2016WADA01)|Japan|45.42|  |  |  |  
+||||=|[Guillaume David](https://www.worldcubeassociation.org/persons/2017DAVI21)|Belgium|45.42|  |  |  |  
+||||809|[Lauri Korhonen](https://www.worldcubeassociation.org/persons/2017KORH01)|Finland|45.37|  |  |  |  
+||||810|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|45.36|  |  |  |  
+||||811|[Richard Madden](https://www.worldcubeassociation.org/persons/2017MADD04)|Ireland|45.33|  |  |  |  
+||||=|[Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01)|Germany|45.33|  |  |  |  
+||||813|[Ulrik Bredland](https://www.worldcubeassociation.org/persons/2012BRED01)|Norway|45.32|  |  |  |  
+||||814|[Matteo Dummar](https://www.worldcubeassociation.org/persons/2017DUMM01)|Italy|45.31|  |  |  |  
+||||815|[Eduard Esteban García Domínguez](https://www.worldcubeassociation.org/persons/2011EDUA01)|Colombia|45.30|  |  |  |  
+||||=|[Elias Fischer](https://www.worldcubeassociation.org/persons/2013FISC01)|Germany|45.30|  |  |  |  
+||||817|[Nicholas Patterson](https://www.worldcubeassociation.org/persons/2016PATT02)|Canada|45.29|  |  |  |  
+||||818|[Pieterjan Joubert](https://www.worldcubeassociation.org/persons/2014JOUB01)|South Africa|45.28|  |  |  |  
+||||819|[Bruno Fonsêca Coelho Lima](https://www.worldcubeassociation.org/persons/2011LIMA02)|Brazil|45.23|  |  |  |  
+||||820|[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|45.21|  |  |  |  
+||||821|[Dale Stephen M. Palmares](https://www.worldcubeassociation.org/persons/2016STEP05)|Philippines|45.18|  |  |  |  
+||||822|[Mitchell Lane](https://www.worldcubeassociation.org/persons/2010LANE02)|USA|45.16|  |  |  |  
+||||=|[Vadzim Smirnou](https://www.worldcubeassociation.org/persons/2017SMIR01)|Belarus|45.16|  |  |  |  
+||||824|[Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03)|Indonesia|45.14|  |  |  |  
+||||=|[Sooho Lee (이수호)](https://www.worldcubeassociation.org/persons/2014LEES01)|Korea|45.14|  |  |  |  
+||||826|[Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01)|Poland|45.13|  |  |  |  
+||||827|[Feilong Tang (唐飞龙)](https://www.worldcubeassociation.org/persons/2013TANG07)|China|45.12|  |  |  |  
+||||828|[Timotej Andrejko](https://www.worldcubeassociation.org/persons/2017ANDR16)|Slovakia|45.11|  |  |  |  
+||||829|[Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03)|Malaysia|45.10|  |  |  |  
+||||830|[Georgiy Titov (Георгій Тітов)](https://www.worldcubeassociation.org/persons/2013TITO02)|Ukraine|45.09|  |  |  |  
+||||831|[Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01)|Czech Republic|45.05|  |  |  |  
+||||832|[Ty Marshall](https://www.worldcubeassociation.org/persons/2014MARS04)|USA|45.04|  |  |  |  
+||||833|[Angel Torres Perez](https://www.worldcubeassociation.org/persons/2017PERE26)|Mexico|45.03|  |  |  |  
+||||=|[Stephen Waller](https://www.worldcubeassociation.org/persons/2017WALL12)|United Kingdom|45.03|  |  |  |  
+||||835|[Ernur Ersayynov](https://www.worldcubeassociation.org/persons/2017ERSA01)|Kazakhstan|45.02|  |  |  |  
+||||=|[Deni Mintsaev (Дени Минцаев)](https://www.worldcubeassociation.org/persons/2013MINT01)|Russia|45.02|  |  |  |  
+||||837|[Dmitry Dobrjakov](https://www.worldcubeassociation.org/persons/2011DOBR01)|Russia|45.00|  |  |  |  
+||||=|[Kaijun Lin (林恺俊)](https://www.worldcubeassociation.org/persons/2013LINK01)|China|45.00|  |  |  |  
+||||839|[Michael Zúñiga Meléndez](https://www.worldcubeassociation.org/persons/2019MELE04)|Costa Rica|44.97|  |  |  |  
+||||840|[Xulang Li (黎旭朗)](https://www.worldcubeassociation.org/persons/2017LIXU06)|China|44.96|  |  |  |  
+||||841|[Isaac Langer](https://www.worldcubeassociation.org/persons/2014LANG02)|USA|44.95|  |  |  |  
+||||842|[Daniel Wannamaker](https://www.worldcubeassociation.org/persons/2011WANN01)|USA|44.94|  |  |  |  
+||||843|[Pablo Grasböck](https://www.worldcubeassociation.org/persons/2011GRAS01)|Austria|44.91|  |  |  |  
+||||844|[Laura Mellier](https://www.worldcubeassociation.org/persons/2017MELL02)|Switzerland|44.90|  |  |  |  
+||||845|[Leonid Palchenko (Леонід Пальченко)](https://www.worldcubeassociation.org/persons/2016PALC02)|Ukraine|44.89|  |  |  |  
+||||=|[Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01)|Canada|44.89|  |  |  |  
+||||847|[Mukund Karthik](https://www.worldcubeassociation.org/persons/2015KART01)|New Zealand|44.86|  |  |  |  
+||||=|[Oleg Gritsenko](https://www.worldcubeassociation.org/persons/2011GRIT01)|Russia|44.86|  |  |  |  
+||||=|[Dennis Rosero](https://www.worldcubeassociation.org/persons/2010ROSE03)|Colombia|44.86|  |  |  |  
+||||850|[Leo Lindqvist](https://www.worldcubeassociation.org/persons/2017LIND01)|Sweden|44.85|  |  |  |  
+||||851|[Chawin Ratanasiri (ชวิน รัตนสิริ)](https://www.worldcubeassociation.org/persons/2016RATA01)|Thailand|44.82|  |  |  |  
+||||=|[Aaron Ariff](https://www.worldcubeassociation.org/persons/2016ARIF05)|Malaysia|44.82|  |  |  |  
+||||=|[Soheil Lotfi (سهیل لطفی)](https://www.worldcubeassociation.org/persons/2013LOTF01)|Iran|44.82|  |  |  |  
+||||854|[Ethan Davis](https://www.worldcubeassociation.org/persons/2016DAVI02)|USA|44.80|  |  |  |  
+||||855|[Alimzhan Kenesbek (Алимжан Кенесбек)](https://www.worldcubeassociation.org/persons/2018KENE01)|Kazakhstan|44.79|  |  |  |  
+||||=|[Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02)|Poland|44.79|  |  |  |  
+||||857|[Bo Wang (王擘)](https://www.worldcubeassociation.org/persons/2013WANG69)|China|44.76|  |  |  |  
+||||858|[Vojtěch Kundera](https://www.worldcubeassociation.org/persons/2015KUND04)|Czech Republic|44.75|  |  |  |  
+||||859|[Parker Trager](https://www.worldcubeassociation.org/persons/2016TRAG01)|USA|44.74|  |  |  |  
+||||860|[Abraham Torres Ortíz Aguirre](https://www.worldcubeassociation.org/persons/2016AGUI09)|Mexico|44.72|  |  |  |  
+||||861|[Stephen Adhisaputra](https://www.worldcubeassociation.org/persons/2010ADHI01)|Indonesia|44.71|  |  |  |  
+||||862|[Luke Heath-Edwards](https://www.worldcubeassociation.org/persons/2018HEAT01)|New Zealand|44.70|  |  |  |  
+||||863|[Chunyu Zhang (张春雨)](https://www.worldcubeassociation.org/persons/2011ZHAN24)|China|44.69|  |  |  |  
+||||864|[Viljo Elo](https://www.worldcubeassociation.org/persons/2016ELOV01)|Finland|44.68|  |  |  |  
+||||865|[Victor Chenu](https://www.worldcubeassociation.org/persons/2013CHEN22)|France|44.67|  |  |  |  
+||||866|[Jonathan Chng](https://www.worldcubeassociation.org/persons/2015CHNG01)|Singapore|44.66|  |  |  |  
+||||867|[Ákos Dél](https://www.worldcubeassociation.org/persons/2016DELA07)|Hungary|44.65|  |  |  |  
+||||868|[Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02)|Poland|44.64|  |  |  |  
+||||=|[Oliver Frost](https://www.worldcubeassociation.org/persons/2012FROS01)|United Kingdom|44.64|  |  |  |  
+||||870|[Vyacheslav Kochergin (Вячеслав Кочергин)](https://www.worldcubeassociation.org/persons/2018KOCH11)|Russia|44.63|  |  |  |  
+||||871|[Jesús Fernando Castelán Gómez](https://www.worldcubeassociation.org/persons/2016GOME10)|Mexico|44.59|  |  |  |  
+||||=|[Alexandru Ioan Popescu](https://www.worldcubeassociation.org/persons/2017POPE02)|Romania|44.59|  |  |  |  
+||||873|[Andrés Hisashi Suzuki](https://www.worldcubeassociation.org/persons/2016SUZU03)|Peru|44.57|  |  |  |  
+||||=|[Uladzislau Ushakov (Владислав Ушаков)](https://www.worldcubeassociation.org/persons/2014USHA01)|Belarus|44.57|  |  |  |  
+||||=|[Louie Jay Quibote](https://www.worldcubeassociation.org/persons/2012QUIB01)|Philippines|44.57|  |  |  |  
+||||876|[Mohammad Ibnu Sabilillah](https://www.worldcubeassociation.org/persons/2015SABI01)|Indonesia|44.55|  |  |  |  
+||||877|[Pedro Santos Guimarães](https://www.worldcubeassociation.org/persons/2007GUIM01)|Brazil|44.54|  |  |  |  
+||||878|[Ryan Yasinko](https://www.worldcubeassociation.org/persons/2015YASI02)|Canada|44.52|  |  |  |  
+||||879|[Jorge Alfageme Sotillos](https://www.worldcubeassociation.org/persons/2016SOTI01)|Spain|44.51|  |  |  |  
+||||880|[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|44.48|  |  |  |  
+||||=|[Reinier Schippers](https://www.worldcubeassociation.org/persons/2010SCHI01)|Netherlands|44.48|  |  |  |  
+||||=|[Stephano Saucedo Reyes](https://www.worldcubeassociation.org/persons/2011REYE04)|Mexico|44.48|  |  |  |  
+||||883|[Ilya Tsiareshka](https://www.worldcubeassociation.org/persons/2012TERE01)|Belarus|44.47|  |  |  |  
+||||=|[Thomas Schmidt](https://www.worldcubeassociation.org/persons/2013SCHM02)|Denmark|44.47|  |  |  |  
+||||=|[Axel Uriel Sánchez Zúñiga](https://www.worldcubeassociation.org/persons/2017ZUNI05)|Mexico|44.47|  |  |  |  
+||||886|[Alvar Nylén](https://www.worldcubeassociation.org/persons/2017NYLE01)|Sweden|44.46|  |  |  |  
+||||=|[Shih-Hao Wang (王士豪)](https://www.worldcubeassociation.org/persons/2015WANG46)|Taiwan|44.46|  |  |  |  
+||||888|[Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04)|Poland|44.45|  |  |  |  
+||||889|[Robert Alden](https://www.worldcubeassociation.org/persons/2019ALDE01)|United Kingdom|44.43|  |  |  |  
+||||890|[Cheng-Ru Yang](https://www.worldcubeassociation.org/persons/2015YANG23)|New Zealand|44.40|  |  |  |  
+||||891|[Denys Shyshliannykov (Денис Шишлянников)](https://www.worldcubeassociation.org/persons/2015SHYS01)|Ukraine|44.39|  |  |  |  
+||||892|[Nathaniel Ortega](https://www.worldcubeassociation.org/persons/2015ORTE02)|Philippines|44.38|  |  |  |  
+||||893|[Ewsey Obzherin](https://www.worldcubeassociation.org/persons/2017OBZH01)|Russia|44.36|  |  |  |  
+||||894|[Albin Sten](https://www.worldcubeassociation.org/persons/2012XHEM01)|Sweden|44.35|  |  |  |  
+||||895|[Mitsuki Gunji (郡司光貴)](https://www.worldcubeassociation.org/persons/2006GUNJ01)|Japan|44.33|  |  |  |  
+||||896|[Caio Hideaki Sato](https://www.worldcubeassociation.org/persons/2016SATO01)|Brazil|44.31|  |  |  |  
+||||897|[Corey Sakowski](https://www.worldcubeassociation.org/persons/2011SAKO01)|USA|44.29|  |  |  |  
+||||=|[Giovanni Contardi](https://www.worldcubeassociation.org/persons/2009CONT01)|Italy|44.29|  |  |  |  
+||||899|[Brendan James Gray](https://www.worldcubeassociation.org/persons/2014GRAY03)|South Africa|44.26|  |  |  |  
+||||900|[Daniël Kassab](https://www.worldcubeassociation.org/persons/2012KASS01)|Netherlands|44.23|  |  |  |  
+||||901|[Ivan Vynnyk (Іван Винник)](https://www.worldcubeassociation.org/persons/2010VYNN01)|Ukraine|44.20|  |  |  |  
+||||=|[Olivera Radovanović](https://www.worldcubeassociation.org/persons/2018RADO01)|Serbia|44.20|  |  |  |  
+||||=|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|44.20|  |  |  |  
+||||904|[Dylan Wang](https://www.worldcubeassociation.org/persons/2014WANG48)|Canada|44.19|  |  |  |  
+||||=|[Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01)|Brazil|44.19|  |  |  |  
+||||906|[Sam Jacklin](https://www.worldcubeassociation.org/persons/2015JACK04)|United Kingdom|44.15|  |  |  |  
+||||907|[Alexis Fedeler](https://www.worldcubeassociation.org/persons/2015FEDE01)|Germany|44.14|  |  |  |  
+||||=|[Balázs Bernát](https://www.worldcubeassociation.org/persons/2007BERN01)|Hungary|44.14|  |  |  |  
+||||=|[Brian Bernabé Bolaños Arreaga](https://www.worldcubeassociation.org/persons/2017ARRE04)|Guatemala|44.14|  |  |  |  
+||||910|[Tiemen De Meester](https://www.worldcubeassociation.org/persons/2012MEES01)|Belgium|44.13|  |  |  |  
+||||=|[Carsten Matheus](https://www.worldcubeassociation.org/persons/2014MATH02)|Germany|44.13|  |  |  |  
+||||912|[Emilio Eleodoro Ramírez Lahsen](https://www.worldcubeassociation.org/persons/2015RAMI07)|Chile|44.08|  |  |  |  
+||||=|[Gergely Novotni](https://www.worldcubeassociation.org/persons/2016NOVO01)|Hungary|44.08|  |  |  |  
+||||914|[Amarsanaa Enkhbaatar](https://www.worldcubeassociation.org/persons/2017ENKH01)|Mongolia|44.06|  |  |  |  
+||||915|[Raimy Marte](https://www.worldcubeassociation.org/persons/2016MART05)|Dominican Republic|44.03|  |  |  |  
+||||=|[Carl Joshua Garcia](https://www.worldcubeassociation.org/persons/2016GARC08)|Philippines|44.03|  |  |  |  
+||||=|[Henry Savich](https://www.worldcubeassociation.org/persons/2013SAVI01)|USA|44.03|  |  |  |  
+||||918|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|44.01|  |  |  |  
+||||919|[Fabian Emiliano Escareño Gonzalez](https://www.worldcubeassociation.org/persons/2017GONZ35)|Mexico|44.00|  |  |  |  
+||||920|[Facundo Finola](https://www.worldcubeassociation.org/persons/2012FINO02)|Argentina|43.99|  |  |  |  
+||||921|[Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01)|Poland|43.98|  |  |  |  
+||||=|[Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01)|Poland|43.98|  |  |  |  
+||||923|[Nathan Soria](https://www.worldcubeassociation.org/persons/2012SORI01)|USA|43.97|  |  |  |  
+||||=|[William Wright](https://www.worldcubeassociation.org/persons/2015WRIG07)|United Kingdom|43.97|  |  |  |  
+||||=|[Jim Zhu](https://www.worldcubeassociation.org/persons/2017ZHUJ06)|New Zealand|43.97|  |  |  |  
+||||926|[Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02)|France|43.95|  |  |  |  
+||||=|[Richmond Mico Rigor](https://www.worldcubeassociation.org/persons/2013RIGO01)|Philippines|43.95|  |  |  |  
+||||928|[Pranav Prabhu](https://www.worldcubeassociation.org/persons/2016PRAB03)|India|43.93|  |  |  |  
+||||929|[Adrián Ramírez](https://www.worldcubeassociation.org/persons/2013RAMI02)|Guatemala|43.91|  |  |  |  
+||||930|[Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06)|Vietnam|43.90|  |  |  |  
+||||931|[Rashid Alhajri](https://www.worldcubeassociation.org/persons/2016ALHA01)|Bahrain|43.88|  |  |  |  
+||||=|[Sergey Chirin](https://www.worldcubeassociation.org/persons/2015CHIR01)|Russia|43.88|  |  |  |  
+||||933|[Mihajlo Sremac](https://www.worldcubeassociation.org/persons/2018SREM01)|Serbia|43.87|  |  |  |  
+||||934|[Daniel Waldo](https://www.worldcubeassociation.org/persons/2012WALD01)|Mexico|43.86|  |  |  |  
+||||935|[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Germany|43.84|  |  |  |  
+||||=|[Yoni Strassberg](https://www.worldcubeassociation.org/persons/2016STRA05)|Israel|43.84|  |  |  |  
+||||=|[Clyde Dencer Tutor](https://www.worldcubeassociation.org/persons/2016TUTO01)|Philippines|43.84|  |  |  |  
+||||938|[Nikita Popkov](https://www.worldcubeassociation.org/persons/2017POPK01)|Russia|43.83|  |  |  |  
+||||939|[Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04)|Philippines|43.80|  |  |  |  
+||||940|[Michael Nielsen](https://www.worldcubeassociation.org/persons/2017NIEL03)|USA|43.78|  |  |  |  
+||||941|[Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01)|Poland|43.77|  |  |  |  
+||||942|[Kazuki Sakamoto (坂本一樹)](https://www.worldcubeassociation.org/persons/2017SAKA03)|Japan|43.74|  |  |  |  
+||||943|[Leandro Baltazar](https://www.worldcubeassociation.org/persons/2009BALT02)|Portugal|43.69|  |  |  |  
+||||944|[Jaime Andrés Escobar Chan](https://www.worldcubeassociation.org/persons/2015CHAN26)|Guatemala|43.67|  |  |  |  
+||||945|[Saveliy Surikov](https://www.worldcubeassociation.org/persons/2017SURI01)|Russia|43.66|  |  |  |  
+||||946|[Erdenebayar Otgonjargal](https://www.worldcubeassociation.org/persons/2017OTGO01)|Mongolia|43.58|  |  |  |  
+||||947|[Dorian Ernesto Rosales Rodriguez](https://www.worldcubeassociation.org/persons/2017RODR24)|Honduras|43.56|  |  |  |  
+||||=|[Gabriel Sargeiro Gomes de Mello](https://www.worldcubeassociation.org/persons/2014MELL03)|Brazil|43.56|  |  |  |  
+||||=|[Karina Grandjean Beck](https://www.worldcubeassociation.org/persons/2010BECK01)|Denmark|43.56|  |  |  |  
+||||950|[Tim Wong](https://www.worldcubeassociation.org/persons/2007WONG02)|USA|43.55|  |  |  |  
+||||951|[Tommaso Raposio](https://www.worldcubeassociation.org/persons/2014RAPO01)|Italy|43.52|  |  |  |  
+||||952|[Mert Sağdınç](https://www.worldcubeassociation.org/persons/2014SADN01)|Turkey|43.51|  |  |  |  
+||||=|[Alejandro Nicolay](https://www.worldcubeassociation.org/persons/2017NICO01)|Spain|43.51|  |  |  |  
+||||954|[Xun Zhao (赵洵)](https://www.worldcubeassociation.org/persons/2015ZHAO07)|China|43.48|  |  |  |  
+||||=|[Ricardo Zapata Cruz](https://www.worldcubeassociation.org/persons/2018CRUZ17)|Venezuela|43.48|  |  |  |  
+||||956|[Petar Petrov Konstantinov](https://www.worldcubeassociation.org/persons/2018KONS02)|Bulgaria|43.47|  |  |  |  
+||||957|[Zachary White](https://www.worldcubeassociation.org/persons/2010WHIT05)|USA|43.46|  |  |  |  
+||||958|[Constantin Lüske](https://www.worldcubeassociation.org/persons/2014LSKE01)|Germany|43.45|  |  |  |  
+||||959|[Teo Bin Jie (张斌杰)](https://www.worldcubeassociation.org/persons/2012JIET01)|Singapore|43.43|  |  |  |  
+||||960|[Henrik Buus Aagaard](https://www.worldcubeassociation.org/persons/2006BUUS01)|Denmark|43.42|  |  |  |  
+||||=|[Ryota Aoki (青木涼太)](https://www.worldcubeassociation.org/persons/2016AOKI02)|Japan|43.42|  |  |  |  
+||||=|[Kanting Shi (史勘霆)](https://www.worldcubeassociation.org/persons/2016SHIK02)|China|43.42|  |  |  |  
+||||963|[Stefán Jónsson](https://www.worldcubeassociation.org/persons/2018JONS01)|Iceland|43.40|  |  |  |  
+||||964|[Chris Wall](https://www.worldcubeassociation.org/persons/2011WALL02)|United Kingdom|43.38|  |  |  |  
+||||=|[Shu-Yii Luo (駱書翊)](https://www.worldcubeassociation.org/persons/2012LUOS01)|Taiwan|43.38|  |  |  |  
+||||=|[Fakhri Raihaan](https://www.worldcubeassociation.org/persons/2010RAIH01)|Indonesia|43.38|  |  |  |  
+||||967|[Jorge Augusto Siqueira Pinto](https://www.worldcubeassociation.org/persons/2012PINT01)|Brazil|43.36|  |  |  |  
+||||968|[Mehrzad Goli (مهرزاد گلی)](https://www.worldcubeassociation.org/persons/2012GOLI02)|Iran|43.33|  |  |  |  
+||||=|[Berk Rende](https://www.worldcubeassociation.org/persons/2016REND02)|Turkey|43.33|  |  |  |  
+||||=|[Markuss Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET02)|Latvia|43.33|  |  |  |  
+||||971|[Mark Bennis](https://www.worldcubeassociation.org/persons/2017BENN09)|Netherlands|43.31|  |  |  |  
+||||=|[Kirby Jay Caragan](https://www.worldcubeassociation.org/persons/2017CARA04)|Philippines|43.31|  |  |  |  
+||||=|[Key Yu Wan](https://www.worldcubeassociation.org/persons/2013WANK01)|Brazil|43.31|  |  |  |  
+||||974|[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|USA|43.30|  |  |  |  
+||||975|[Benjamín González Camus](https://www.worldcubeassociation.org/persons/2017GONZ07)|Chile|43.29|  |  |  |  
+||||976|[Adrien Auvray Matyn](https://www.worldcubeassociation.org/persons/2018MATY02)|New Zealand|43.28|  |  |  |  
+||||=|[Dongzhe Li (李东哲)](https://www.worldcubeassociation.org/persons/2014LIDO01)|China|43.28|  |  |  |  
+||||978|[Aiden Bartlett](https://www.worldcubeassociation.org/persons/2015BART05)|USA|43.26|  |  |  |  
+||||979|[Rémi Esturoune](https://www.worldcubeassociation.org/persons/2010ESTU01)|France|43.25|  |  |  |  
+||||980|[Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|43.18|  |  |  |  
+||||981|[David Serban Enescu](https://www.worldcubeassociation.org/persons/2014ENES01)|Romania|43.13|  |  |  |  
+||||=|[John Bacouël](https://www.worldcubeassociation.org/persons/2018BACO01)|France|43.13|  |  |  |  
+||||983|[Gunnar Kantare Krig](https://www.worldcubeassociation.org/persons/2004KRIG01)|Sweden|43.12|  |  |  |  
+||||984|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|43.10|  |  |  |  
+||||985|[Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01)|China|43.09|  |  |  |  
+||||986|[Jungwoo Kim (김정우)](https://www.worldcubeassociation.org/persons/2014KIMJ02)|Korea|43.08|  |  |  |  
+||||=|[Cameron Jones](https://www.worldcubeassociation.org/persons/2017JONE14)|United Kingdom|43.08|  |  |  |  
+||||988|[Christopher Olson](https://www.worldcubeassociation.org/persons/2009OLSO01)|USA|43.06|  |  |  |  
+||||989|[Anas Meziani](https://www.worldcubeassociation.org/persons/2015MEZI01)|Morocco|43.05|  |  |  |  
+||||=|[Erik Bryland](https://www.worldcubeassociation.org/persons/2018BRYL02)|Sweden|43.05|  |  |  |  
+||||991|[Esteban Elías González Méndez](https://www.worldcubeassociation.org/persons/2016MEND03)|Mexico|43.04|  |  |  |  
+||||992|[Zongyang Li (李宗阳)](https://www.worldcubeassociation.org/persons/2013LIZO01)|China|43.03|  |  |  |  
+||||=|[Sungho Hong (홍성호)](https://www.worldcubeassociation.org/persons/2011SUNG01)|Korea|43.03|  |  |  |  
+||||994|[Linus Kunath](https://www.worldcubeassociation.org/persons/2017KUNA01)|Germany|43.02|  |  |  |  
+||||995|[Raúl Cuevas Castillo](https://www.worldcubeassociation.org/persons/2018CAST11)|Spain|43.01|  |  |  |  
+||||996|[Emil Francisco Solano Gil](https://www.worldcubeassociation.org/persons/2018GILE02)|Dominican Republic|43.00|  |  |  |  
+||||=|[MinSeo Gu (구민서)](https://www.worldcubeassociation.org/persons/2014GUMI01)|Korea|43.00|  |  |  |  
+||||998|[Gabriel Ignacio Fernández Albarracin](https://www.worldcubeassociation.org/persons/2015FERN07)|Chile|42.98|  |  |  |  
+||||=|[Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01)|Poland|42.98|  |  |  |  
+||||1000|[Lichao Liu (刘立超)](https://www.worldcubeassociation.org/persons/2018LIUL05)|China|42.97|  |  |  |  
