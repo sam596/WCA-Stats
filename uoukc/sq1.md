@@ -1,6 +1,6 @@
 ## Unofficial-Official UK Champions History
 
-*Last updated using WCA Developer Export from Sun May 03 at 0910UTC*
+*Last updated using WCA Developer Export from Wed May 06 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -20,4 +20,4 @@
 |[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|2019-03-31|[ChesterOpen2019 - Final](https://www.worldcubeassociation.org/competitions/ChesterOpen2019/results/all#esq1_f)|[BritishSummerOpen2019 - Final](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019/results/all#esq1_f)|91|  
 |[Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01)|United Kingdom|2019-06-30|[BritishSummerOpen2019 - Final](https://www.worldcubeassociation.org/competitions/BritishSummerOpen2019/results/all#esq1_f)|[UKChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#esq1_f)|119|  
 |[Charlie Stark](https://www.worldcubeassociation.org/persons/2014STAR05)|United Kingdom|2019-10-27|[UKChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/UKChampionship2019/results/all#esq1_f)|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#esq1_f)|119|  
-|[Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#esq1_f)|Ongoing|70|  
+|[Marcus Siu](https://www.worldcubeassociation.org/persons/2016SIUM01)|United Kingdom|2020-02-23|[DoncasterOpen2020 - Final](https://www.worldcubeassociation.org/competitions/DoncasterOpen2020/results/all#esq1_f)|Ongoing|73|  

@@ -1,6 +1,6 @@
 ## WCA Relays - bld
 
-*Last updated using WCA Developer Export from Sun May 03 at 0910UTC*
+*Last updated using WCA Developer Export from Wed May 06 at 1011UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
