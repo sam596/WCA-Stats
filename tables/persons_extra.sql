@@ -258,7 +258,6 @@ CREATE TABLE persons_extra
       o.nextComp,
       g.delegate_status delegateStatus, 
       g.region, 
-      g.location_description location, 
       IFNULL(h.competitionsDelegated,0) competitionsDelegated,
       IFNULL(h.competitionsDelegating,0) competitionsDelegating,
       IFNULL(j.competitionsOrganized,0) competitionsOrganized,
