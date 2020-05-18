@@ -1,111 +1,261 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Fri May 15 at 1210UTC*
+*Last updated using WCA Developer Export from Mon May 18 at 1310UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
 #### Sub-15
 
 
-||||||||||||Rank|Name|Country|Result|Competition|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||--|--|--|--|--|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||1|[Ng Jia Quan (黄佳铨)](https://www.worldcubeassociation.org/persons/2015QUAN03)|Malaysia|10.58|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||2|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|10.67|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||3|[Tommy Kiprillis](https://www.worldcubeassociation.org/persons/2014KIPR01)|Australia|10.93|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||4|[Firstian Fushada (符逢城)](https://www.worldcubeassociation.org/persons/2015FUSH01)|Indonesia|11.01|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||5|[Tommy Cherry](https://www.worldcubeassociation.org/persons/2015CHER07)|USA|11.06|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||6|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|11.09|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||7|[Brian Johnson](https://www.worldcubeassociation.org/persons/2013JOHN10)|USA|11.10|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Rowe Hessler](https://www.worldcubeassociation.org/persons/2007HESS01)|USA|11.10|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||9|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|11.18|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||10|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|11.26|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||11|[Michael Young](https://www.worldcubeassociation.org/persons/2008YOUN02)|USA|11.33|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Zachary Ochs](https://www.worldcubeassociation.org/persons/2016OCHS01)|USA|11.33|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||13|[Qiyu Zhang (张淇奥)](https://www.worldcubeassociation.org/persons/2017ZHAQ04)|China|11.34|[China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||14|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|11.38|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||15|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|11.43|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||16|[Natthaphat Mahtani (ณัฐภัทร จี มาทานี)](https://www.worldcubeassociation.org/persons/2011MAHT02)|Thailand|11.46|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||17|[Luigi Soriano](https://www.worldcubeassociation.org/persons/2016SORI04)|USA|11.48|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||18|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|11.57|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||19|[Will Gurnett](https://www.worldcubeassociation.org/persons/2016GURN01)|Australia|11.64|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||20|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|11.69|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||21|[Jonathan Charlesworth](https://www.worldcubeassociation.org/persons/2016CHAR01)|Australia|11.75|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||22|[Nolan Yiu](https://www.worldcubeassociation.org/persons/2016YIUN01)|USA|11.89|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||23|[Ethan Rusnak](https://www.worldcubeassociation.org/persons/2015RUSN01)|Canada|11.92|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Vincent Chen](https://www.worldcubeassociation.org/persons/2018CHEN17)|USA|11.92|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||25|[RJ Gohn](https://www.worldcubeassociation.org/persons/2016GOHN01)|USA|12.04|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||26|[Zhoupeng Yang (杨周澎)](https://www.worldcubeassociation.org/persons/2017YANG03)|China|12.05|[China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06)|USA|12.05|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||28|[Sophie Chan](https://www.worldcubeassociation.org/persons/2014CHAN23)|USA|12.10|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||29|[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|12.21|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||30|[Jack Pfeifer](https://www.worldcubeassociation.org/persons/2016PFEI01)|USA|12.24|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||31|[Jason Lee](https://www.worldcubeassociation.org/persons/2015LEEJ12)|USA|12.29|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||32|[Patrick Ponce](https://www.worldcubeassociation.org/persons/2012PONC02)|USA|12.34|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||33|[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|12.35|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||34|[Chan Hui Tung (陳許瞳)](https://www.worldcubeassociation.org/persons/2017TUNG16)|Hong Kong|12.39|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||35|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|12.46|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||36|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|12.52|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||37|[Aryan Kejriwal](https://www.worldcubeassociation.org/persons/2013KEJR01)|USA|12.54|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||38|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|12.59|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||39|[Aidan McKenzie](https://www.worldcubeassociation.org/persons/2017MCKE02)|USA|12.65|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||40|[Tyler Robinson](https://www.worldcubeassociation.org/persons/2015ROBI04)|USA|12.67|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||41|[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|12.71|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||42|[Charles Jerome](https://www.worldcubeassociation.org/persons/2016JERO01)|USA|12.73|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||43|[Yunhao Lou (娄云皓)](https://www.worldcubeassociation.org/persons/2017LOUY01)|China|12.74|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||44|[Anthony Lafourcade](https://www.worldcubeassociation.org/persons/2014LAFO01)|France|12.75|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||45|[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|12.81|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||46|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|12.85|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||47|[Chuan He (何川)](https://www.worldcubeassociation.org/persons/2018HECH05)|China|12.90|[China Championship 2019](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||48|[Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01)|Japan|12.91|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||49|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|12.97|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||50|[Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06)|USA|13.00|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||51|[Bautista Bonazzola](https://www.worldcubeassociation.org/persons/2014BONA02)|Argentina|13.01|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||52|[Kou Oobatake (大畠功)](https://www.worldcubeassociation.org/persons/2007OOBA01)|Japan|13.04|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||53|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|13.08|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|13.08|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||55|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|13.10|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||56|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|13.18|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||57|[Elian Beguec](https://www.worldcubeassociation.org/persons/2014BEGU01)|France|13.22|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||58|[Zeke Mackay](https://www.worldcubeassociation.org/persons/2015MACK06)|USA|13.30|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||59|[Kerry Creech](https://www.worldcubeassociation.org/persons/2018CREE01)|USA|13.32|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||60|[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|13.34|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Joshua Broderick Phillips](https://www.worldcubeassociation.org/persons/2014PHIL02)|USA|13.34|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||62|[Rui-Jun Liu (劉睿鈞)](https://www.worldcubeassociation.org/persons/2011LIUR02)|Taiwan|13.46|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||63|[Krish Shah-Nathwani](https://www.worldcubeassociation.org/persons/2015SHAH09)|USA|13.47|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||64|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|13.48|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||65|[Ciarán Beahan](https://www.worldcubeassociation.org/persons/2012BEAH01)|Ireland|13.54|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||66|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|13.55|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||67|[Lee Stanton-Barnett](https://www.worldcubeassociation.org/persons/2016STAN04)|New Zealand|13.62|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||68|[Angeline Wijaya (黃千儀)](https://www.worldcubeassociation.org/persons/2011WIJA03)|Indonesia|13.64|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||69|[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03)|USA|13.67|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Kymberlyn Calderon](https://www.worldcubeassociation.org/persons/2015CALD02)|USA|13.67|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Ethan Stevens](https://www.worldcubeassociation.org/persons/2015STEV03)|Australia|13.67|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||72|[Ben Yu](https://www.worldcubeassociation.org/persons/2011YUBE01)|USA|13.68|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||73|[Jason White](https://www.worldcubeassociation.org/persons/2016WHIT16)|USA|13.73|[Oregon State Leap Day 2020](https://www.worldcubeassociation.org/competitions/OregonStateLeapDay2020/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||74|[Calven Lipec](https://www.worldcubeassociation.org/persons/2017LIPE01)|Australia|13.77|[Koalafication Melbourne 2019](https://www.worldcubeassociation.org/competitions/KoalaficationMelbourne2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||75|[Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01)|USA|13.86|[CubingUSA Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||76|[Stanley Chapel](https://www.worldcubeassociation.org/persons/2016CHAP04)|USA|13.88|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Livia Kleiner](https://www.worldcubeassociation.org/persons/2013KLEI03)|USA|13.88|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||78|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|13.92|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||79|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|13.94|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||80|[Will Callan](https://www.worldcubeassociation.org/persons/2012CALL01)|USA|13.95|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||81|[Nicholas Daneshvari](https://www.worldcubeassociation.org/persons/2012DANE01)|USA|14.01|[CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Henri Gerber](https://www.worldcubeassociation.org/persons/2014GERB01)|Germany|14.01|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Shuto Ueno (上野柊斗)](https://www.worldcubeassociation.org/persons/2008UENO01)|Japan|14.01|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||84|[Robert Yau](https://www.worldcubeassociation.org/persons/2009YAUR01)|United Kingdom|14.05|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||85|[Nicholas Daneshvari](https://www.worldcubeassociation.org/persons/2012DANE01)|USA|14.07|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||86|[Ignatiy Alkaev](https://www.worldcubeassociation.org/persons/2017ALKA05)|Russia|14.15|[YJ Moscow Special 2019](https://www.worldcubeassociation.org/competitions/YJMoscowSpecial2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||87|[Darby Lee](https://www.worldcubeassociation.org/persons/2018LEED03)|Australia|14.16|[Koalafication Melbourne 2019](https://www.worldcubeassociation.org/competitions/KoalaficationMelbourne2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||88|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|14.21|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||89|[Aedan Bryant](https://www.worldcubeassociation.org/persons/2017BRYA06)|USA|14.24|[Bridgeport Side Events 2019](https://www.worldcubeassociation.org/competitions/BridgeportSideEvents2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Malte Ihlefeld](https://www.worldcubeassociation.org/persons/2016IHLE01)|Germany|14.24|[WCA European Championship 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||91|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|14.25|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||92|[Lorenzo Mauro](https://www.worldcubeassociation.org/persons/2014MAUR06)|Italy|14.29|[WCA European Championship 2018](https://www.worldcubeassociation.org/competitions/Euro2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||93|[Conlan Trace](https://www.worldcubeassociation.org/persons/2015TRAC01)|USA|14.31|[CubingUSA Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||94|[Tijmen van der Ree](https://www.worldcubeassociation.org/persons/2016REET01)|Netherlands|14.36|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||95|[Clément Cherblanc](https://www.worldcubeassociation.org/persons/2014CHER05)|France|14.41|[Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||96|[Katie Hull](https://www.worldcubeassociation.org/persons/2010HULL01)|USA|14.42|[CubingUSA Northeast Championship 2019](https://www.worldcubeassociation.org/competitions/NortheastChampionship2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||97|[Jan Bentlage](https://www.worldcubeassociation.org/persons/2010BENT01)|Germany|14.47|[World Rubik's Cube Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||98|[Caleb Clark](https://www.worldcubeassociation.org/persons/2014CLAR03)|Australia|14.48|[Warm Up Sydney 2019](https://www.worldcubeassociation.org/competitions/WarmUpSydney2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||=|[Federico Da Fonseca](https://www.worldcubeassociation.org/persons/2015FONS02)|Argentina|14.48|[WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
-||||||||||||100|[Tyler Howlett](https://www.worldcubeassociation.org/persons/2014HOWL02)|USA|14.53|[CubingUSA Nationals 2018](https://www.worldcubeassociation.org/competitions/CubingUSANationals2018/results/all?event=sq1)|  |  |  |  |  |  |  |  |  |  |  |  
+|Rank|Name|Country|Average|  
+|--|--|--|--|--|  
+|1|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|9.36|  
+|2|[Arisandra Soo](https://www.worldcubeassociation.org/persons/2018SOOA01)|Australia|9.68|  
+|3|[Yunfeng Zhu (朱云峰)](https://www.worldcubeassociation.org/persons/2014ZHUY02)|China|9.74|  
+|4|[Raphael Lee](https://www.worldcubeassociation.org/persons/2017LEER01)|New Zealand|9.92|  
+|5|[Morgan Yeh](https://www.worldcubeassociation.org/persons/2017YEHM01)|Canada|9.94|  
+|6|[Brian Nguyen](https://www.worldcubeassociation.org/persons/2016NGUY10)|USA|10.17|  
+|7|[Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2017DIEN02)|Vietnam|10.18|  
+|8|[Đorđe Vuković](https://www.worldcubeassociation.org/persons/2016VUKO01)|Serbia|10.22|  
+|9|[Nakula Neeraje](https://www.worldcubeassociation.org/persons/2015NEER01)|India|10.25|  
+|10|[Stanley Wang](https://www.worldcubeassociation.org/persons/2017WANS05)|Canada|10.37|  
+|=|[Mohamed Elkhatri](https://www.worldcubeassociation.org/persons/2017ELKH01)|Morocco|10.37|  
+|12|[Khayll Paolo Sandukan](https://www.worldcubeassociation.org/persons/2018SAND07)|Philippines|10.40|  
+|13|[Mark Aeron Santos](https://www.worldcubeassociation.org/persons/2017SANT67)|Philippines|10.45|  
+|14|[Joshua Meriño](https://www.worldcubeassociation.org/persons/2014MERI01)|Philippines|10.48|  
+|15|[Shuang Liang (梁爽)](https://www.worldcubeassociation.org/persons/2016LIAN08)|China|10.54|  
+|16|[Yassine Bettahar](https://www.worldcubeassociation.org/persons/2016YASS01)|Algeria|10.58|  
+|=|[Staš Zupanc](https://www.worldcubeassociation.org/persons/2014ZUPA01)|Slovenia|10.58|  
+|18|[Evrich Markell Robert](https://www.worldcubeassociation.org/persons/2018ROBE10)|Malaysia|10.59|  
+|19|[Will Richardson](https://www.worldcubeassociation.org/persons/2018RICH01)|USA|10.60|  
+|20|[Aleh Simanovich (Олег Симанович)](https://www.worldcubeassociation.org/persons/2019SIMA02)|Belarus|10.63|  
+|=|[Samuel Talacko](https://www.worldcubeassociation.org/persons/2019TALA02)|Czech Republic|10.63|  
+|22|[Dereck Estrada](https://www.worldcubeassociation.org/persons/2017ESTR04)|Ecuador|10.64|  
+|23|[Bryce Maragni](https://www.worldcubeassociation.org/persons/2018MARA02)|USA|10.66|  
+|24|[Reinhard Democrito](https://www.worldcubeassociation.org/persons/2016DEMO01)|Philippines|10.67|  
+|25|[Will Roberts](https://www.worldcubeassociation.org/persons/2015ROBE05)|United Kingdom|10.70|  
+|=|[Surya Arun](https://www.worldcubeassociation.org/persons/2019ARUN02)|India|10.70|  
+|27|[Julio Emilio Hernandez Urbina](https://www.worldcubeassociation.org/persons/2016URBI02)|Mexico|10.73|  
+|28|[Szymon Szafrański](https://www.worldcubeassociation.org/persons/2017SZAF01)|Poland|10.77|  
+|=|[Hsiang-Kuang Zhuang (莊翔光)](https://www.worldcubeassociation.org/persons/2015ZHUA02)|Taiwan|10.77|  
+|=|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|10.77|  
+|31|[SeungWook Eun (은승욱)](https://www.worldcubeassociation.org/persons/2011EUNS01)|Korea|10.85|  
+|32|[Rottie Cabael](https://www.worldcubeassociation.org/persons/2015CABA02)|Philippines|10.88|  
+|33|[Sebastián Navarrete](https://www.worldcubeassociation.org/persons/2018NAVA13)|Venezuela|10.90|  
+|34|[Anirudh Manoj](https://www.worldcubeassociation.org/persons/2017MANO04)|India|10.93|  
+|35|[Parist Pariyakanok (พริษฐ์ ปริยกนก)](https://www.worldcubeassociation.org/persons/2018PARI07)|Thailand|10.94|  
+|36|[Hongkai Chen (陈洪凯)](https://www.worldcubeassociation.org/persons/2017CHEH02)|China|10.95|  
+|37|[Seamus Twyman](https://www.worldcubeassociation.org/persons/2016TWYM01)|Canada|10.97|  
+|38|[Yan-Rui Chen (陳彥叡)](https://www.worldcubeassociation.org/persons/2016CHEN82)|Taiwan|10.98|  
+|39|[Edwin Chan Ho Yeung (陳皓揚)](https://www.worldcubeassociation.org/persons/2017YEUN01)|Hong Kong|10.99|  
+|40|[Vladimir Fedorov](https://www.worldcubeassociation.org/persons/2017FEDO13)|Russia|11.00|  
+|41|[David Racoviță](https://www.worldcubeassociation.org/persons/2018RACO01)|Romania|11.01|  
+|=|[Han Wang (王瀚)](https://www.worldcubeassociation.org/persons/2016WANH03)|China|11.01|  
+|43|[Liangce Kong (孔亮策)](https://www.worldcubeassociation.org/persons/2018KONG09)|China|11.04|  
+|44|[Marcos Aparicio Caro](https://www.worldcubeassociation.org/persons/2016CARO06)|Spain|11.05|  
+|45|[Miguel Angel Cabrera Corrales](https://www.worldcubeassociation.org/persons/2017CORR09)|Mexico|11.07|  
+|46|[Monthon Hueaykhew (มณฑล ห้วยแก้ว)](https://www.worldcubeassociation.org/persons/2018HUEA01)|Thailand|11.08|  
+|47|[Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04)|USA|11.10|  
+|48|[Volodymyr Hnidko (Володимир Гнідко)](https://www.worldcubeassociation.org/persons/2016HNID01)|Ukraine|11.12|  
+|49|[Khairur Rachman](https://www.worldcubeassociation.org/persons/2011RACH02)|Indonesia|11.13|  
+|=|[Mantas Urbanavičius](https://www.worldcubeassociation.org/persons/2017URBA01)|Lithuania|11.13|  
+|51|[Yining Liu (刘译柠)](https://www.worldcubeassociation.org/persons/2017LIUY23)|China|11.14|  
+|52|[Ho Yeon Jang (장호연)](https://www.worldcubeassociation.org/persons/2014JANG01)|Korea|11.15|  
+|53|[Danila Cheptsov](https://www.worldcubeassociation.org/persons/2016CHEP01)|Belarus|11.16|  
+|=|[Leandro Abarca](https://www.worldcubeassociation.org/persons/2016ABAR01)|Chile|11.16|  
+|55|[Jerich Lee (李再圆)](https://www.worldcubeassociation.org/persons/2015LEEJ02)|USA|11.17|  
+|=|[Caini Huang (黄彩妮)](https://www.worldcubeassociation.org/persons/2016HUAN33)|China|11.17|  
+|57|[Luxiang Luo (罗绿翔)](https://www.worldcubeassociation.org/persons/2018LUOL03)|China|11.18|  
+|=|[Caleb Bradley](https://www.worldcubeassociation.org/persons/2016BRAD10)|Canada|11.18|  
+|59|[Daniel Janzon](https://www.worldcubeassociation.org/persons/2016JANZ01)|Sweden|11.20|  
+|=|[Choi Young In (최영인)](https://www.worldcubeassociation.org/persons/2018INCH01)|Korea|11.20|  
+|61|[Marcel Pfeuti](https://www.worldcubeassociation.org/persons/2015PFEU02)|Switzerland|11.21|  
+|=|[Peeranat Sugsavanvit (พีรณัฐ สุกสวรรณวิทย์)](https://www.worldcubeassociation.org/persons/2019SUGS01)|Thailand|11.21|  
+|63|[Troy Tan Hong Kai](https://www.worldcubeassociation.org/persons/2017KAIT01)|Singapore|11.22|  
+|64|[Muhammad Hakimi Bin Mohd Azhar](https://www.worldcubeassociation.org/persons/2017AZHA02)|Malaysia|11.24|  
+|65|[Kook Ming-Jo](https://www.worldcubeassociation.org/persons/2017MING03)|Malaysia|11.26|  
+|66|[Michael Tjandra (锺梓翔)](https://www.worldcubeassociation.org/persons/2017TJAN03)|Indonesia|11.27|  
+|=|[Anang Hariyanto Nurhadi](https://www.worldcubeassociation.org/persons/2014NURH01)|Indonesia|11.27|  
+|68|[Micah Walker](https://www.worldcubeassociation.org/persons/2015WALK03)|USA|11.30|  
+|=|[Paolo Resta](https://www.worldcubeassociation.org/persons/2018REST04)|Italy|11.30|  
+|70|[Zhansen Shingis (Жансен Шингис)](https://www.worldcubeassociation.org/persons/2017SHIN16)|Kazakhstan|11.31|  
+|71|[Tao Wen (温韬)](https://www.worldcubeassociation.org/persons/2015WENT01)|China|11.33|  
+|72|[Leo Palfrey](https://www.worldcubeassociation.org/persons/2016PALF01)|United Kingdom|11.37|  
+|=|[Vlad Ciobanu](https://www.worldcubeassociation.org/persons/2016CIOB01)|Moldova|11.37|  
+|74|[Jordan Granados](https://www.worldcubeassociation.org/persons/2019GRAN05)|USA|11.39|  
+|=|[Bence Irsik](https://www.worldcubeassociation.org/persons/2009IRSI01)|Hungary|11.39|  
+|76|[Canlin Zhai (翟灿林)](https://www.worldcubeassociation.org/persons/2016ZHAI01)|China|11.40|  
+|=|[Nicolas Naing](https://www.worldcubeassociation.org/persons/2015NAIN01)|USA|11.40|  
+|78|[Theodore Chow](https://www.worldcubeassociation.org/persons/2012CHOW03)|Canada|11.41|  
+|=|[Lachlan Malcolm](https://www.worldcubeassociation.org/persons/2016MALC03)|Australia|11.41|  
+|80|[Manan Joshi](https://www.worldcubeassociation.org/persons/2016JOSH04)|India|11.42|  
+|81|[CJ Dresdner](https://www.worldcubeassociation.org/persons/2019DRES01)|USA|11.44|  
+|82|[Ignacio Luquez](https://www.worldcubeassociation.org/persons/2017LUQU01)|Argentina|11.45|  
+|=|[Ivan Bogdan](https://www.worldcubeassociation.org/persons/2017BOGD03)|Belarus|11.45|  
+|84|[Junzhi Huang (黄俊智)](https://www.worldcubeassociation.org/persons/2019HUAN41)|China|11.46|  
+|=|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|11.46|  
+|=|[Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02)|Vietnam|11.46|  
+|87|[Shimeng Li (李诗萌)](https://www.worldcubeassociation.org/persons/2017LISH12)|China|11.47|  
+|=|[Elvin Bartolo](https://www.worldcubeassociation.org/persons/2016BART06)|Philippines|11.47|  
+|=|[Yinghao Zhu (朱英豪)](https://www.worldcubeassociation.org/persons/2013ZHUY01)|China|11.47|  
+|90|[Maryam Khazaie (مریم خزایی)](https://www.worldcubeassociation.org/persons/2019KHAZ01)|Iran|11.49|  
+|91|[Artem Ryabikin](https://www.worldcubeassociation.org/persons/2015RYAB02)|Russia|11.50|  
+|92|[Seath Margatinez](https://www.worldcubeassociation.org/persons/2017MARG03)|Philippines|11.51|  
+|=|[Congkai Ruan (阮琮凯)](https://www.worldcubeassociation.org/persons/2016RUAN01)|China|11.51|  
+|94|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|11.52|  
+|95|[Isaac Wong Chang Man](https://www.worldcubeassociation.org/persons/2015MANI01)|Singapore|11.53|  
+|=|[Kaur Tuule](https://www.worldcubeassociation.org/persons/2018TUUL01)|Estonia|11.53|  
+|=|[David Alfaro Estrada](https://www.worldcubeassociation.org/persons/2018ESTR04)|Costa Rica|11.53|  
+|98|[Aral Askarov](https://www.worldcubeassociation.org/persons/2017ASKA02)|Kazakhstan|11.54|  
+|=|[Eyal Alfasi](https://www.worldcubeassociation.org/persons/2010ALFA03)|Israel|11.54|  
+|=|[Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01)|Thailand|11.54|  
+|101|[Levi Oud](https://www.worldcubeassociation.org/persons/2017OUDL01)|Netherlands|11.55|  
+|102|[Hitoki Kidahashi (木田桥仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02)|Japan|11.57|  
+|=|[Nicholas Paul](https://www.worldcubeassociation.org/persons/2014PAUL06)|Australia|11.57|  
+|104|[Clément Boyer](https://www.worldcubeassociation.org/persons/2014BOYE01)|France|11.58|  
+|=|[Flavio Bocola](https://www.worldcubeassociation.org/persons/2014BOCO01)|Italy|11.58|  
+|=|[Andreas Block Laberg](https://www.worldcubeassociation.org/persons/2014LABE01)|Norway|11.58|  
+|107|[Jack Engledow](https://www.worldcubeassociation.org/persons/2013ENGL01)|USA|11.59|  
+|=|[Samuel Fang](https://www.worldcubeassociation.org/persons/2014FANG01)|USA|11.59|  
+|109|[Jacob Chambers](https://www.worldcubeassociation.org/persons/2017CHAM09)|United Kingdom|11.60|  
+|=|[Fred Quong](https://www.worldcubeassociation.org/persons/2015QUON01)|Canada|11.60|  
+|111|[Alejandro Cisneros Bracho](https://www.worldcubeassociation.org/persons/2017BRAC03)|Mexico|11.61|  
+|=|[Aswin Raj](https://www.worldcubeassociation.org/persons/2018RAJA09)|India|11.61|  
+|=|[Markus Immonen](https://www.worldcubeassociation.org/persons/2015IMMO01)|Finland|11.61|  
+|=|[Zhaoyu Tang](https://www.worldcubeassociation.org/persons/2015TANG15)|New Zealand|11.61|  
+|115|[Saman Parvizi (سامان پرویزی)](https://www.worldcubeassociation.org/persons/2016PARV01)|Iran|11.62|  
+|116|[Blake Stamper](https://www.worldcubeassociation.org/persons/2017STAM05)|USA|11.63|  
+|=|[Asato Irifune (入船朝斗)](https://www.worldcubeassociation.org/persons/2011IRIF01)|Japan|11.63|  
+|=|[Jonathan Haupt](https://www.worldcubeassociation.org/persons/2018HAUP01)|Germany|11.63|  
+|=|[Luis Daniel Rodríguez Romo](https://www.worldcubeassociation.org/persons/2015ROMO01)|Mexico|11.63|  
+|120|[Xavier W. NcCorchuk](https://www.worldcubeassociation.org/persons/2017NCCO01)|USA|11.64|  
+|121|[Alexander Sazonov (Александр Сазонов)](https://www.worldcubeassociation.org/persons/2018SAZO03)|Russia|11.65|  
+|=|[Sean Fei](https://www.worldcubeassociation.org/persons/2017FEIS01)|USA|11.65|  
+|=|[Konstantinos Parissis](https://www.worldcubeassociation.org/persons/2019PARI01)|Greece|11.65|  
+|=|[Yuntao Hu (胡云韬)](https://www.worldcubeassociation.org/persons/2015HUYU02)|China|11.65|  
+|125|[Issam Imad El Halabi](https://www.worldcubeassociation.org/persons/2019HALA01)|Lebanon|11.66|  
+|=|[Tran Thanh Trung](https://www.worldcubeassociation.org/persons/2017TRUN05)|Vietnam|11.66|  
+|=|[Damon Goddard](https://www.worldcubeassociation.org/persons/2015GODD01)|USA|11.66|  
+|128|[Omar Ellabban](https://www.worldcubeassociation.org/persons/2018ELLA01)|Canada|11.67|  
+|=|[Weicong Peng (彭伟聪)](https://www.worldcubeassociation.org/persons/2015PENG05)|China|11.67|  
+|=|[Kosuke Watanabe (渡邊宏介)](https://www.worldcubeassociation.org/persons/2016WATA03)|Japan|11.67|  
+|=|[Shivaan Harichander](https://www.worldcubeassociation.org/persons/2016HARI06)|South Africa|11.67|  
+|=|[Chan Hong Lik](https://www.worldcubeassociation.org/persons/2012LIKC01)|Brazil|11.67|  
+|133|[Hongzhou Chen (陈洪舟)](https://www.worldcubeassociation.org/persons/2016CHEN76)|China|11.68|  
+|=|[Nguyễn Trí Đức](https://www.worldcubeassociation.org/persons/2016DUCN01)|Vietnam|11.68|  
+|=|[Nicholas De Leon](https://www.worldcubeassociation.org/persons/2015LEON04)|Philippines|11.68|  
+|136|[Thomas Liao](https://www.worldcubeassociation.org/persons/2017LIAO09)|Australia|11.69|  
+|=|[David Alberto García Moreno](https://www.worldcubeassociation.org/persons/2012MORE01)|Mexico|11.69|  
+|138|[Jae Min Ahn](https://www.worldcubeassociation.org/persons/2017AHNJ01)|USA|11.70|  
+|139|[Andy Denney](https://www.worldcubeassociation.org/persons/2013DENN01)|USA|11.71|  
+|=|[Joseph Goyder](https://www.worldcubeassociation.org/persons/2015GOYD01)|Canada|11.71|  
+|=|[Eduardo Alexis Cortes Vega](https://www.worldcubeassociation.org/persons/2017VEGA03)|Mexico|11.71|  
+|=|[Mikhail Sartakov](https://www.worldcubeassociation.org/persons/2017SART01)|Russia|11.71|  
+|143|[Nick Schoelkopf](https://www.worldcubeassociation.org/persons/2017SCHO06)|USA|11.72|  
+|144|[Hadif Hary Bin Hasfia](https://www.worldcubeassociation.org/persons/2017HASF01)|Malaysia|11.73|  
+|=|[Daniel Song](https://www.worldcubeassociation.org/persons/2010SONG02)|Canada|11.73|  
+|=|[Christopher Danh](https://www.worldcubeassociation.org/persons/2018DANH01)|USA|11.73|  
+|=|[Mohammed Rushaan](https://www.worldcubeassociation.org/persons/2019RUSH01)|India|11.73|  
+|148|[Kent Narciso](https://www.worldcubeassociation.org/persons/2015NARC01)|Philippines|11.74|  
+|=|[Herman Westerlund Kalland](https://www.worldcubeassociation.org/persons/2019KALL02)|Norway|11.74|  
+|=|[Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01)|Poland|11.74|  
+|151|[Diego Brizuela Crespo](https://www.worldcubeassociation.org/persons/2016CRES01)|Mexico|11.75|  
+|=|[Frenz Edrian Tabaniag](https://www.worldcubeassociation.org/persons/2016TABA01)|Philippines|11.75|  
+|=|[Hilarry Henry](https://www.worldcubeassociation.org/persons/2017HENR03)|Malaysia|11.75|  
+|=|[Alexander Smith](https://www.worldcubeassociation.org/persons/2017SMIT16)|USA|11.75|  
+|155|[Kevin Min](https://www.worldcubeassociation.org/persons/2015MINK04)|Korea|11.76|  
+|=|[Chan-Young Lee](https://www.worldcubeassociation.org/persons/2016LEEC05)|Korea|11.76|  
+|=|[Philip Andrew C. Hilario](https://www.worldcubeassociation.org/persons/2014HILA02)|Philippines|11.76|  
+|=|[Angel Omar Vega Paez](https://www.worldcubeassociation.org/persons/2015PAEZ01)|Mexico|11.76|  
+|=|[Ganesh Bhat](https://www.worldcubeassociation.org/persons/2014BHAT07)|India|11.76|  
+|=|[Dhruv Sharma](https://www.worldcubeassociation.org/persons/2018SHAR35)|India|11.76|  
+|161|[Siyu Sun (孙思雨)](https://www.worldcubeassociation.org/persons/2013SUNS01)|China|11.77|  
+|=|[Matteo Malcoci](https://www.worldcubeassociation.org/persons/2019MALC01)|Romania|11.77|  
+|=|[Piero Jorge Solorzano Tomasto](https://www.worldcubeassociation.org/persons/2016TOMA03)|Peru|11.77|  
+|164|[Lam Man King (林文景)](https://www.worldcubeassociation.org/persons/2017KING03)|Hong Kong|11.78|  
+|=|[Daniel Lin](https://www.worldcubeassociation.org/persons/2016LIND01)|USA|11.78|  
+|=|[Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04)|Hong Kong|11.78|  
+|167|[Husaini Hanif](https://www.worldcubeassociation.org/persons/2016HANI01)|Indonesia|11.79|  
+|=|[Kanting Shi (史勘霆)](https://www.worldcubeassociation.org/persons/2016SHIK02)|China|11.79|  
+|=|[Jack Rysz](https://www.worldcubeassociation.org/persons/2018RYSZ01)|USA|11.79|  
+|170|[Leon Alexander Götze](https://www.worldcubeassociation.org/persons/2017GOTZ01)|Germany|11.80|  
+|171|[Yuan Qian (钱源)](https://www.worldcubeassociation.org/persons/2016QIAN04)|China|11.81|  
+|=|[Ilya Komonov (Илья Комонов)](https://www.worldcubeassociation.org/persons/2018KOMO02)|Russia|11.81|  
+|173|[Michael Jay Paraguas](https://www.worldcubeassociation.org/persons/2016PARA03)|Philippines|11.82|  
+|=|[Zihan Chen (陈子涵)](https://www.worldcubeassociation.org/persons/2018CHEZ16)|China|11.82|  
+|=|[Henry Lipka](https://www.worldcubeassociation.org/persons/2019LIPK01)|USA|11.82|  
+|176|[Yubo Ji (纪宇博)](https://www.worldcubeassociation.org/persons/2017JIYU01)|China|11.83|  
+|=|[Muhammad Faeyza Koda](https://www.worldcubeassociation.org/persons/2018KODA01)|Indonesia|11.83|  
+|=|[Ethan Cho](https://www.worldcubeassociation.org/persons/2018CHOE02)|USA|11.83|  
+|179|[Pavel Galaktionov](https://www.worldcubeassociation.org/persons/2013GALA04)|Russia|11.84|  
+|180|[Adam McCormick](https://www.worldcubeassociation.org/persons/2017MCCO04)|Canada|11.85|  
+|=|[Karl Taagaard Hansen](https://www.worldcubeassociation.org/persons/2016HANS01)|Denmark|11.85|  
+|182|[Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06)|Vietnam|11.86|  
+|183|[Jerzy Chmiel](https://www.worldcubeassociation.org/persons/2019CHMI01)|Poland|11.87|  
+|=|[Jacob Nokes](https://www.worldcubeassociation.org/persons/2017NOKE01)|USA|11.87|  
+|185|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|11.88|  
+|=|[Tristan Yun](https://www.worldcubeassociation.org/persons/2016YUNT01)|USA|11.88|  
+|=|[Allyn Jacob Rubin](https://www.worldcubeassociation.org/persons/2015RUBI03)|Philippines|11.88|  
+|188|[Junming Zhang (张峻鸣)](https://www.worldcubeassociation.org/persons/2017ZHAJ13)|China|11.89|  
+|=|[Haochuan Wang (王浩川)](https://www.worldcubeassociation.org/persons/2013WANG27)|China|11.89|  
+|=|[Oleh Korchan (Олег Корчан)](https://www.worldcubeassociation.org/persons/2017KORC01)|Ukraine|11.89|  
+|191|[Vladislav Kaminskiy](https://www.worldcubeassociation.org/persons/2013KAMI03)|Belarus|11.90|  
+|=|[Nicolay Roness](https://www.worldcubeassociation.org/persons/2013RONE01)|Norway|11.90|  
+|193|[Faisal Aziz Mehboob](https://www.worldcubeassociation.org/persons/2017MEHB01)|India|11.91|  
+|=|[Yehao Wang (王业豪)](https://www.worldcubeassociation.org/persons/2016WANG72)|China|11.91|  
+|=|[Arsenii Evdokimov (Арсений Евдокимов)](https://www.worldcubeassociation.org/persons/2018EVDO02)|Russia|11.91|  
+|196|[Raghav Arora](https://www.worldcubeassociation.org/persons/2015AROR04)|India|11.92|  
+|=|[Yaroslav Morhun (Ярослав Моргун)](https://www.worldcubeassociation.org/persons/2018MORH01)|Ukraine|11.92|  
+|=|[Chun-Yu Yang (楊竣宇)](https://www.worldcubeassociation.org/persons/2014YANG38)|Taiwan|11.92|  
+|=|[Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02)|Poland|11.92|  
+|=|[Paul Sanchirico](https://www.worldcubeassociation.org/persons/2016SANC28)|USA|11.92|  
+|=|[Longwang Li (李龙旺)](https://www.worldcubeassociation.org/persons/2016LILO02)|China|11.92|  
+|202|[Isa Daurenbek](https://www.worldcubeassociation.org/persons/2018DAUR02)|Kazakhstan|11.93|  
+|=|[Yi Zhao (赵轶)](https://www.worldcubeassociation.org/persons/2016ZHAO51)|China|11.93|  
+|=|[Sarina Wang](https://www.worldcubeassociation.org/persons/2016WANS12)|New Zealand|11.93|  
+|=|[Kaimu Chen (陈楷沐)](https://www.worldcubeassociation.org/persons/2018CHEK05)|China|11.93|  
+|=|[Aidan Bell](https://www.worldcubeassociation.org/persons/2017BELL02)|USA|11.93|  
+|=|[Alan Wong](https://www.worldcubeassociation.org/persons/2016WONG05)|USA|11.93|  
+|208|[Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02)|Finland|11.94|  
+|=|[Mihnea Andrei Panţu](https://www.worldcubeassociation.org/persons/2013PANT01)|Romania|11.94|  
+|=|[Nitin Subramanian](https://www.worldcubeassociation.org/persons/2014SUBR04)|USA|11.94|  
+|=|[Fernando Vilca Leonardo](https://www.worldcubeassociation.org/persons/2017LEON12)|Peru|11.94|  
+|212|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|11.95|  
+|=|[Luke Pham-Kim](https://www.worldcubeassociation.org/persons/2010PHAM02)|Canada|11.95|  
+|=|[Zhenwei Su (苏振威)](https://www.worldcubeassociation.org/persons/2015SUZH01)|China|11.95|  
+|=|[Mohammed Al Said](https://www.worldcubeassociation.org/persons/2019SAID03)|Oman|11.95|  
+|=|[Leon Schmidtchen](https://www.worldcubeassociation.org/persons/2010SCHM01)|Germany|11.95|  
+|217|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|11.96|  
+|=|[Sambit Sarkar](https://www.worldcubeassociation.org/persons/2017SARK03)|India|11.96|  
+|219|[Rafail Dzoz (Рафаил Дзоз)](https://www.worldcubeassociation.org/persons/2019DZOZ01)|Russia|11.97|  
+|=|[Wenxuan Yue (岳文轩)](https://www.worldcubeassociation.org/persons/2015YUEW01)|China|11.97|  
+|221|[Baibhab Patra](https://www.worldcubeassociation.org/persons/2016PATR02)|India|11.98|  
+|=|[Sherman Alfred Malonzo](https://www.worldcubeassociation.org/persons/2017MALO01)|Philippines|11.98|  
+|223|[Isabella Corona](https://www.worldcubeassociation.org/persons/2017CORO01)|USA|11.99|  
+|=|[Kathiresan Chellappan](https://www.worldcubeassociation.org/persons/2018CHEL09)|India|11.99|  
+|=|[Alexey Zharikov](https://www.worldcubeassociation.org/persons/2015ZHAR01)|Russia|11.99|  
+|=|[Sungyun Kim (김성윤)](https://www.worldcubeassociation.org/persons/2018KIMS07)|Korea|11.99|  
+|227|[Hutchinson Andres Martinez-Self](https://www.worldcubeassociation.org/persons/2018MART50)|USA|12.00|  
+|=|[Yifei Chen (陈奕霏)](https://www.worldcubeassociation.org/persons/2012CHEN28)|China|12.00|  
+|=|[Toby Waters](https://www.worldcubeassociation.org/persons/2018WATE02)|USA|12.00|  
+|=|[Kenneth Bechtel](https://www.worldcubeassociation.org/persons/2017BECH01)|USA|12.00|  
+|=|[James Mäenpää](https://www.worldcubeassociation.org/persons/2018MAEN01)|Finland|12.00|  
+|=|[Qiaosen Zhu (朱乔森)](https://www.worldcubeassociation.org/persons/2015ZHUQ02)|China|12.00|  
+|233|[Matthew Carlson](https://www.worldcubeassociation.org/persons/2015CARL04)|USA|12.01|  
+|=|[Kenneth Pérez Arias](https://www.worldcubeassociation.org/persons/2016ARIA04)|Mexico|12.01|  
+|=|[Jaroonroj Somsakulrungrueng (จรูญโรจน์ สมสกุลรุ่งเรือง)](https://www.worldcubeassociation.org/persons/2018SOMS01)|Thailand|12.01|  
+|=|[Lachlan Stephens](https://www.worldcubeassociation.org/persons/2018STEP07)|Australia|12.01|  
+|=|[Michael Wang](https://www.worldcubeassociation.org/persons/2019WANG25)|USA|12.01|  
+|=|[Lê Hoàng Công Thành](https://www.worldcubeassociation.org/persons/2010LEHO01)|Vietnam|12.01|  
+|239|[Ahmad Kamil Ihsan Bin Ikhwan](https://www.worldcubeassociation.org/persons/2016IKHW02)|Malaysia|12.02|  
+|=|[Sergey Shitov](https://www.worldcubeassociation.org/persons/2013SHIT01)|Russia|12.02|  
+|=|[Christian Pizzasegola](https://www.worldcubeassociation.org/persons/2014PIZZ02)|Italy|12.02|  
+|=|[Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)](https://www.worldcubeassociation.org/persons/2009CHAR03)|Thailand|12.02|  
+|=|[Kristian Holme](https://www.worldcubeassociation.org/persons/2013HOLM01)|Norway|12.02|  
+|244|[Julian Syaputra](https://www.worldcubeassociation.org/persons/2015SYAP01)|Indonesia|12.03|  
+|=|[Yuhao Deng (邓宇豪)](https://www.worldcubeassociation.org/persons/2014DENG05)|China|12.03|  
+|246|[Carlos Ortiz Suarez](https://www.worldcubeassociation.org/persons/2016SUAR05)|New Zealand|12.04|  
+|=|[Miguel Angel Leyva Bejarano](https://www.worldcubeassociation.org/persons/2011BEJA01)|Mexico|12.04|  
+|=|[Daniel Atlas](https://www.worldcubeassociation.org/persons/2016ATLA01)|Israel|12.04|  
+|=|[Wyatt Williams](https://www.worldcubeassociation.org/persons/2018WILL26)|USA|12.04|  
+|=|[Abdul Darries](https://www.worldcubeassociation.org/persons/2016DARR02)|South Africa|12.04|  
