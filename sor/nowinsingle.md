@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Thu May 21 at 1421UTC*
+*Last updated using WCA Developer Export from Sun May 24 at 1510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -996,7 +996,7 @@
 |986|[Ian Gorev](https://www.worldcubeassociation.org/persons/2016GORE01)|Russia|88154|3206|  
 |987|[Andres Flügel](https://www.worldcubeassociation.org/persons/2009FLUG01)|Germany|88184|3207|  
 |988|[Phillip Monteiro](https://www.worldcubeassociation.org/persons/2017MONT24)|USA|88190|3208|  
-|989|[David Verdooren Flórez](https://www.worldcubeassociation.org/persons/2017FLOR05)|Colombia|88215|3210|  
+|989|[David Verdooren Flórez](https://www.worldcubeassociation.org/persons/2017FLOR05)|Colombia|88214|3210|  
 |990|[Heng Wang (王衡)](https://www.worldcubeassociation.org/persons/2014WANG55)|China|88220|3211|  
 |991|[Abel Piper](https://www.worldcubeassociation.org/persons/2016PIPE01)|USA|88225|3212|  
 |992|[Alex Loor](https://www.worldcubeassociation.org/persons/2018LOOR01)|Ecuador|88256|3213|  

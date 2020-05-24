@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Thu May 21 at 1421UTC*
+*Last updated using WCA Developer Export from Sun May 24 at 1510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -413,7 +413,7 @@
 |403|[Gabriel Hagman](https://www.worldcubeassociation.org/persons/2017HAGM02)|Sweden|51813|1881|  
 |404|[David Doty](https://www.worldcubeassociation.org/persons/2016DOTY01)|USA|51838|1882|  
 |405|[Connor McLaughlin](https://www.worldcubeassociation.org/persons/2016MCLA02)|USA|51922|1885|  
-|406|[Yi Li (李燚)](https://www.worldcubeassociation.org/persons/2016LIYI05)|China|51929|1887|  
+|406|[Yi Li (李燚)](https://www.worldcubeassociation.org/persons/2016LIYI05)|China|51928|1887|  
 |407|[Jensen Belen-Brown](https://www.worldcubeassociation.org/persons/2016BELE02)|Canada|51990|1890|  
 |408|[Guohua Chai (柴国华)](https://www.worldcubeassociation.org/persons/2018CHAI05)|China|52068|1893|  
 |409|[Tucker Chamberlain](https://www.worldcubeassociation.org/persons/2018CHAM01)|USA|52106|1894|  
@@ -721,7 +721,7 @@
 |711|[Jacob Chirkoff](https://www.worldcubeassociation.org/persons/2016CHIR01)|Canada|63303|2581|  
 |712|[Wilson C. Rios](https://www.worldcubeassociation.org/persons/2016RIOS06)|Bolivia|63353|2583|  
 |713|[Antoni Guiscafrè Rosselló](https://www.worldcubeassociation.org/persons/2017ROSS03)|Spain|63373|2584|  
-|714|[Jacob Keener](https://www.worldcubeassociation.org/persons/2017KEEN04)|USA|63377|2585|  
+|714|[Jacob Keener](https://www.worldcubeassociation.org/persons/2017KEEN04)|USA|63376|2585|  
 |715|[Sam Cooperman](https://www.worldcubeassociation.org/persons/2018COOP01)|USA|63420|2587|  
 |716|[Nanqin Ding (丁南钦)](https://www.worldcubeassociation.org/persons/2018DING06)|China|63477|2589|  
 |717|[Yunhao Cai (蔡云浩)](https://www.worldcubeassociation.org/persons/2016CAIY01)|China|63509|2591|  
@@ -848,7 +848,7 @@
 |838|[Srish Udayakumar](https://www.worldcubeassociation.org/persons/2014UDAY01)|USA|66915|2830|  
 |839|[Lei He (贺雷)](https://www.worldcubeassociation.org/persons/2016HELE01)|China|66926|2834|  
 |840|[Javier Atienza Rodriguez](https://www.worldcubeassociation.org/persons/2016RODR48)|Spain|66934|2837|  
-|841|[Shane David](https://www.worldcubeassociation.org/persons/2018DAVI08)|USA|66936|2838|  
+|841|[Shane David](https://www.worldcubeassociation.org/persons/2018DAVI08)|USA|66935|2838|  
 |842|[Hua Geng (耿华)](https://www.worldcubeassociation.org/persons/2017GENG01)|China|66948|2839|  
 |843|[Jake Johnston](https://www.worldcubeassociation.org/persons/2016JOHN26)|United Kingdom|66950|2840|  
 |844|[Maggie Clark](https://www.worldcubeassociation.org/persons/2016CLAR01)|USA|66958|2841|  
@@ -923,7 +923,7 @@
 |913|[Teng Wang (王腾)](https://www.worldcubeassociation.org/persons/2018WANT04)|China|68844|2966|  
 |914|[Matthew Feldmann](https://www.worldcubeassociation.org/persons/2016FELD01)|USA|68845|2967|  
 |915|[Qinxi Wei (韦钦曦)](https://www.worldcubeassociation.org/persons/2017WEIQ01)|China|68852|2968|  
-|916|[Boris Monakhov](https://www.worldcubeassociation.org/persons/2018MONA01)|Russia|68874|2969|  
+|916|[Boris Monakhov](https://www.worldcubeassociation.org/persons/2018MONA01)|Russia|68873|2969|  
 |917|[Dylan Keyser](https://www.worldcubeassociation.org/persons/2016KEYS02)|USA|68902|2970|  
 |918|[Arin Khare](https://www.worldcubeassociation.org/persons/2018KHAR01)|USA|68904|2971|  
 |919|[Alex Bohac](https://www.worldcubeassociation.org/persons/2018BOHA01)|USA|68913|2972|  
@@ -937,7 +937,7 @@
 |927|[James Alonso](https://www.worldcubeassociation.org/persons/2018ALON07)|United Kingdom|69026|2986|  
 |928|[Ioann Smolin (Иоанн Смолин)](https://www.worldcubeassociation.org/persons/2018SMOL01)|Russia|69047|2990|  
 |929|[Yiren Lu (陆弈人)](https://www.worldcubeassociation.org/persons/2015LUYI01)|China|69082|2993|  
-|930|[Tomas Kaiser](https://www.worldcubeassociation.org/persons/2016KAIS01)|Czech Republic|69104|2995|  
+|930|[Tomas Kaiser](https://www.worldcubeassociation.org/persons/2016KAIS01)|Czech Republic|69103|2995|  
 |931|[Alex Paschal](https://www.worldcubeassociation.org/persons/2017PASC05)|USA|69107|2996|  
 |932|[Junfeng Chen (陈骏枫)](https://www.worldcubeassociation.org/persons/2016CHEN04)|China|69108|2997|  
 |933|[Alejandro Hernández Arce](https://www.worldcubeassociation.org/persons/2017ARCE03)|Costa Rica|69115|2998|  

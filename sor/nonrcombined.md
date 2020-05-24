@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Thu May 21 at 1421UTC*
+*Last updated using WCA Developer Export from Sun May 24 at 1510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -1000,7 +1000,7 @@
 |990|[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|112128|1773|  
 |991|[Lei Wang (汪磊)](https://www.worldcubeassociation.org/persons/2013WANG11)|China|112129|1774|  
 |992|[Maoxuan Chen (陈茂轩)](https://www.worldcubeassociation.org/persons/2018CHEM01)|China|112132|1775|  
-|993|[Yi Li (李燚)](https://www.worldcubeassociation.org/persons/2016LIYI05)|China|112334|1778|  
+|993|[Yi Li (李燚)](https://www.worldcubeassociation.org/persons/2016LIYI05)|China|112333|1778|  
 |994|[Farid Fhakhrian (فرید فخریان)](https://www.worldcubeassociation.org/persons/2017FHAK01)|Iran|112339|1779|  
 |995|[Minjun Kim (김민준)](https://www.worldcubeassociation.org/persons/2017MINJ03)|Korea|112504|1782|  
 |996|[Miles Lentz](https://www.worldcubeassociation.org/persons/2016LENT01)|USA|112506|1783|  
