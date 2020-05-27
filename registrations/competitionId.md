@@ -1,6 +1,6 @@
 ## All WCA Registrations
 
-*Last updated using WCA Developer Export from Sun May 24 at 1510UTC*
+*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -38,6 +38,7 @@ Key:
 |[Drew Harrison Ludwig](https://www.worldcubeassociation.org/persons/2020LUDW01)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444|  
 |Folarin David|NULL|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Pending|333|  
 |Gabe Xavier Johnson|NULL|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Pending|333,444|  
+|Gabriel X. Johnson|NULL|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Pending|333,444|  
 |[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444,555,777,333oh|  
 |[Hassan Khanani](https://www.worldcubeassociation.org/persons/2018KHAN26)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444,555,777,333oh|  
 |[Ibrahim Khanani](https://www.worldcubeassociation.org/persons/2018KHAN27)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444,555,777,333oh|  
@@ -54,6 +55,7 @@ Key:
 |[Srijay Bandi](https://www.worldcubeassociation.org/persons/2018BAND02)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Pending|333,444,555,333oh|  
 |[Stephen Bohner](https://www.worldcubeassociation.org/persons/2018BOHN04)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444,555,777,333oh|  
 |Thanushri Krishna Kumar|NULL|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333|  
+|[Tomas Kaiser](https://www.worldcubeassociation.org/persons/2016KAIS01)|Czech Republic|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Pending|333,444,555,333oh|  
 |[Zayn Khanani](https://www.worldcubeassociation.org/persons/2018KHAN28)|USA|[ClashatCarlisleSpring2020](https://www.worldcubeassociation.org/competitions/ClashatCarlisleSpring2020)|Accepted|333,444,555,777,333oh|  
 |Alejandro Moranchel Medina|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Pending|333,222,444|  
 |[Alex Walker](https://www.worldcubeassociation.org/persons/2014WALK05)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,333oh,skewb,sq1|  
@@ -77,15 +79,17 @@ Key:
 |Evan Prosser|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,333oh,skewb|  
 |Ezekial Waxler|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,333oh|  
 |Hunter Osborn|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,333oh|  
+|Isaac Grant|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,skewb,sq1|  
 |Jacob Alexander|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444|  
 |Jedidiah Williams|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,333oh,skewb|  
 |Landon Coker|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Pending|333,222,444,333oh,skewb,sq1|  
 |[Liam Finn McCool Kelly](https://www.worldcubeassociation.org/persons/2020KELL01)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,333oh,skewb,sq1|  
 |[Luke Gammill](https://www.worldcubeassociation.org/persons/2018GAMM01)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,skewb|  
-|Mikah Nelson|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Pending|333,222,444|  
+|Mikah Nelson|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444|  
 |[Nathan Jeremiah Hernandez](https://www.worldcubeassociation.org/persons/2019HERN23)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Pending|333,222,444,333oh|  
 |Nathaniel Waxler|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,skewb|  
 |[Oliver Michael Sitja Sichel](https://www.worldcubeassociation.org/persons/2019SICH01)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,333oh,skewb,sq1|  
+|[Olivia Schroeder](https://www.worldcubeassociation.org/persons/2020SCHR02)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,skewb|  
 |Robert Lawrence|NULL|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444|  
 |[Ronaldo Zavala](https://www.worldcubeassociation.org/persons/2019ZAVA01)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Accepted|333,222,444,333oh,skewb,sq1|  
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[ColoradoWesternSlope2020](https://www.worldcubeassociation.org/competitions/ColoradoWesternSlope2020)|Pending|333,222,444,333oh,skewb,sq1|  
@@ -105,6 +109,7 @@ Key:
 |[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|Australia|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Accepted|333,222,444,333bf,333oh,pyram,skewb|  
 |[Jack Broad](https://www.worldcubeassociation.org/persons/2019BROA02)|Australia|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Accepted|333,222,444,pyram|  
 |[Nicholas Baker](https://www.worldcubeassociation.org/persons/2019BAKE06)|Australia|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Accepted|333,222,444,333bf,333oh|  
+|[Oscar Lane](https://www.worldcubeassociation.org/persons/2018LANE02)|Australia|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Pending|333,222,444,333bf,333oh,pyram,skewb|  
 |[Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01)|United Kingdom|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Accepted|333,222,444,pyram,skewb|  
 |[Songtao Zhang (张松涛)](https://www.worldcubeassociation.org/persons/2017ZHAN21)|China|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Deleted|444,333bf,333oh,pyram,skewb|  
 |[Thomas Kuswadi](https://www.worldcubeassociation.org/persons/2019KUSW01)|Australia|[DarwinDrySeason2020](https://www.worldcubeassociation.org/competitions/DarwinDrySeason2020)|Accepted|333,222,444,333oh,pyram,skewb|  
@@ -148,6 +153,7 @@ Key:
 |[Jason Harley](https://www.worldcubeassociation.org/persons/2016HARL01)|United Kingdom|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |Jeppe Søndergaard Bech Poulsen|NULL|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Pending|333,222,pyram,skewb|  
 |Joseph Uldahl Cropper|NULL|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Accepted|333,222,pyram|  
+|[Juliette Sébastien](https://www.worldcubeassociation.org/persons/2014SEBA01)|France|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Pending|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Kaisa Exner](https://www.worldcubeassociation.org/persons/2018EXNE01)|Denmark|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Accepted|333,222,444,pyram,skewb|  
 |[Kasper Warberg Borg](https://www.worldcubeassociation.org/persons/2020BORG01)|Denmark|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
 |[Konstantin Jaehne](https://www.worldcubeassociation.org/persons/2015JAEH01)|Germany|[DenmarkFriends2020](https://www.worldcubeassociation.org/competitions/DenmarkFriends2020)|Accepted|333,222,444,555,666,333bf,333fm,333oh,clock,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -236,12 +242,13 @@ Key:
 |[Antonio Bonessi](https://www.worldcubeassociation.org/persons/2019BONE03)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,minx,pyram,skewb,sq1|  
 |[Austin Meck](https://www.worldcubeassociation.org/persons/2019MECK01)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram,skewb,sq1|  
 |[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|Caleb Paterson|NULL|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,444,555,333fm,333oh,minx,pyram|  
+|Caleb Paterson|NULL|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,333fm,333oh,minx,pyram|  
 |[Calvin Nielson](https://www.worldcubeassociation.org/persons/2014NIEL03)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |[Clarke Hawkinson](https://www.worldcubeassociation.org/persons/2009HAWK01)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Connor Hollison](https://www.worldcubeassociation.org/persons/2015HOLL03)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,pyram,skewb|  
 |[Damian Wilding](https://www.worldcubeassociation.org/persons/2014WILD03)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |Isabella Haderlie|NULL|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,pyram,skewb|  
+|Jacob Douglas O'Coyne|NULL|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|555,666,777,333bf,333fm,333oh,clock,minx,skewb,sq1,444bf,555bf,333mbf|  
 |[Joseph Sale](https://www.worldcubeassociation.org/persons/2018SALE02)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb|  
 |[Kyle Van Straaten](https://www.worldcubeassociation.org/persons/2017STRA03)|Canada|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Marcus Kamen](https://www.worldcubeassociation.org/persons/2015KAME02)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb,sq1|  
@@ -252,6 +259,7 @@ Key:
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Sanjay Jacob](https://www.worldcubeassociation.org/persons/2013JACO02)|India|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,444,555,666,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Timothy Castle](https://www.worldcubeassociation.org/persons/2016CAST48)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Tye Gorder](https://www.worldcubeassociation.org/persons/2018GORD04)|USA|[IdahoChampionship2020](https://www.worldcubeassociation.org/competitions/IdahoChampionship2020)|Pending|333,222,444,333oh,pyram,skewb|  
 |Ace may|NULL|[Indiana2020](https://www.worldcubeassociation.org/competitions/Indiana2020)|Pending|333,pyram,skewb|  
 |[Adam Wuestefeld](https://www.worldcubeassociation.org/persons/2019WUES01)|USA|[Indiana2020](https://www.worldcubeassociation.org/competitions/Indiana2020)|Pending|333,333oh,pyram,skewb|  
 |[Andrew Shattuck](https://www.worldcubeassociation.org/persons/2017SHAT01)|USA|[Indiana2020](https://www.worldcubeassociation.org/competitions/Indiana2020)|Pending|333,444,555,666,333bf,333fm,333oh,minx,pyram,skewb,sq1,333mbf|  
@@ -692,6 +700,7 @@ Key:
 |Yasser Cherti|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333,222,444,minx,pyram,skewb|  
 |Youness Amzil|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333|  
 |Youssef Bentaleb|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333,333bf|  
+|Youssef Bnetaleb|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333,222,444,333bf,minx,pyram,skewb|  
 |Youssef Rami Yahyaoui|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333,222,444,pyram|  
 |Zakaria Farini|NULL|[MarrakechOpen2020](https://www.worldcubeassociation.org/competitions/MarrakechOpen2020)|Accepted|333,222,333bf|  
 |[Aditya Vatsavai](https://www.worldcubeassociation.org/persons/2018VATS01)|USA|[NorthCarolinaChampionship2020](https://www.worldcubeassociation.org/competitions/NorthCarolinaChampionship2020)|Accepted|333|  
@@ -777,6 +786,7 @@ Key:
 |[Dean Lockett](https://www.worldcubeassociation.org/persons/2017LOCK02)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Pending|333,222,444,555,666,333fm,333oh,clock,minx,pyram,sq1|  
 |[Declan Wilhelm](https://www.worldcubeassociation.org/persons/2016WILH03)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,222,444,555,333oh,minx,sq1|  
 |[Deniz Atak](https://www.worldcubeassociation.org/persons/2010ATAK01)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,444,555,666,333oh,minx|  
+|[Elvin Xu](https://www.worldcubeassociation.org/persons/2019XUEL02)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,minx,pyram|  
 |[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,sq1|  
 |[Henry Godin](https://www.worldcubeassociation.org/persons/2018GODI04)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333|  
 |[Hongfei Tian (田洪飞)](https://www.worldcubeassociation.org/persons/2010TIAN03)|China|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,sq1|  
@@ -819,6 +829,7 @@ Key:
 |[Toby Waters](https://www.worldcubeassociation.org/persons/2018WATE02)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,sq1|  
 |[Yiling Huang](https://www.worldcubeassociation.org/persons/2020HUAN13)|China|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333|  
 |[Zachary Ridall](https://www.worldcubeassociation.org/persons/2018RIDA01)|USA|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,sq1|  
+|Zed Zed|NULL|[PennsylvaniaChampionship2020](https://www.worldcubeassociation.org/competitions/PennsylvaniaChampionship2020)|Pending|333,222|  
 |[Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02)|Poland|[SintMichielsgestel2020](https://www.worldcubeassociation.org/competitions/SintMichielsgestel2020)|Accepted|333,222,444,555,666,777,333oh,minx,pyram,skewb,sq1|  
 |Alon Sonneveld|NULL|[SintMichielsgestel2020](https://www.worldcubeassociation.org/competitions/SintMichielsgestel2020)|Pending|333,222,444,minx,pyram,skewb|  
 |[Amiel Engel](https://www.worldcubeassociation.org/persons/2017ENGE01)|Netherlands|[SintMichielsgestel2020](https://www.worldcubeassociation.org/competitions/SintMichielsgestel2020)|Accepted|333,222,444,555,777,333fm,333oh,minx,pyram,skewb|  
@@ -885,14 +896,19 @@ Key:
 |[Anders Berggren](https://www.worldcubeassociation.org/persons/2011BERG02)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1|  
 |[Axel Flordal](https://www.worldcubeassociation.org/persons/2016FLOR24)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Dante Wallin Arvidsson](https://www.worldcubeassociation.org/persons/2016ARVI04)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,333oh,clock,minx,pyram,skewb,sq1|  
 |[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |Isac Andersson|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444|  
 |Jack Larsson Backsell|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,333oh,skewb,sq1|  
 |[Jakob Gunnarsson](https://www.worldcubeassociation.org/persons/2015GUNN01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
+|[Lars Wallin](https://www.worldcubeassociation.org/persons/2017WALL07)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,pyram|  
+|[Leonid Kuzmin (Леонид Кузьмин)](https://www.worldcubeassociation.org/persons/2018KUZM04)|Russia|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Pending|333,222,444,555,666,777,333fm,333oh,clock,pyram|  
 |[Levi Jonsson](https://www.worldcubeassociation.org/persons/2018JONS03)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,333oh,pyram,skewb|  
 |Lisa Meuller|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333|  
 |[Ludvig Nilsson](https://www.worldcubeassociation.org/persons/2019NILS01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,333oh,minx,pyram,skewb|  
+|[Mikael Edvardsson](https://www.worldcubeassociation.org/persons/2018EDVA01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,minx,pyram,skewb|  
 |Oliver Taslic|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,555,333bf,333oh|  
+|Patrik Oom|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,333bf,pyram|  
 |[Remo Pihel](https://www.worldcubeassociation.org/persons/2017PIHE01)|Estonia|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,333mbf|  
 |Rui Feng|NULL|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Deleted|333|  
 |[Samuel Eklund-Hanna](https://www.worldcubeassociation.org/persons/2019EKLU01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,333fm,333oh,pyram,skewb,sq1|  
@@ -902,22 +918,9 @@ Key:
 |[Timothy Edegran Gren](https://www.worldcubeassociation.org/persons/2013GREN01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,333oh|  
 |[Viktor Zenk](https://www.worldcubeassociation.org/persons/2016ZENK01)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[William Jensen](https://www.worldcubeassociation.org/persons/2016JENS09)|Sweden|[SwedishChampionship2020](https://www.worldcubeassociation.org/competitions/SwedishChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
-|[Alex Hirschhorn](https://www.worldcubeassociation.org/persons/2018HIRS04)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Deleted|333,222,444,pyram,skewb|  
-|[Anthony Rochester](https://www.worldcubeassociation.org/persons/2019ROCH03)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,333bf,pyram,skewb|  
-|[Brianna Amedovski](https://www.worldcubeassociation.org/persons/2019AMED01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,pyram|  
-|[David Edwards](https://www.worldcubeassociation.org/persons/2010EDWA02)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,333bf,pyram,skewb|  
-|[Ethan Pride](https://www.worldcubeassociation.org/persons/2014PRID01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,333bf,pyram,skewb|  
-|[George Pelham](https://www.worldcubeassociation.org/persons/2017PELH01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,pyram,skewb|  
-|[Jode Brewster](https://www.worldcubeassociation.org/persons/2016JONE04)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,333bf,pyram,skewb|  
-|[Joey Cavanagh](https://www.worldcubeassociation.org/persons/2018CAVA01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,pyram,skewb|  
-|[Kerrie Jarman](https://www.worldcubeassociation.org/persons/2019JARM01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,pyram|  
-|[Michelle Brewster](https://www.worldcubeassociation.org/persons/2016BREW04)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,pyram,skewb|  
-|[Oscar Lane](https://www.worldcubeassociation.org/persons/2018LANE02)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Pending|333,222,444,333bf,pyram,skewb|  
-|[Paddy Eldershaw](https://www.worldcubeassociation.org/persons/2018ELDE01)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333,222,444,333bf,pyram,skewb|  
-|Ruben Moon|NULL|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Accepted|333|  
-|[Zack Hall](https://www.worldcubeassociation.org/persons/2019HALL02)|Australia|[TassieTwobyTwoTwistoff2020](https://www.worldcubeassociation.org/competitions/TassieTwobyTwoTwistoff2020)|Pending|333,222,444,pyram,skewb|  
 |[Aabid Khan](https://www.worldcubeassociation.org/persons/2017KHAN30)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram|  
 |[Adam Shinnawi](https://www.worldcubeassociation.org/persons/2019SHIN19)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,pyram|  
+|Adrian Bui|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333|  
 |[Akito Nipatcharoen](https://www.worldcubeassociation.org/persons/2016NIPA01)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram,skewb|  
 |[Alex Hirschhorn](https://www.worldcubeassociation.org/persons/2018HIRS04)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,333bf,pyram,skewb|  
 |[Alexander Gallagher](https://www.worldcubeassociation.org/persons/2020GALL02)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram,skewb|  
@@ -961,6 +964,7 @@ Key:
 |[Paul N. van de Geest](https://www.worldcubeassociation.org/persons/2017GEES01)|United Kingdom|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,pyram,skewb|  
 |Rick Lush|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444|  
 |[Ruby van Vliet](https://www.worldcubeassociation.org/persons/2018VLIE03)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,333bf|  
+|Rushil Limbu|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333|  
 |[Saavar Bajaj](https://www.worldcubeassociation.org/persons/2020BAJA01)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444|  
 |[Sam Stoneham](https://www.worldcubeassociation.org/persons/2019STON07)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram,skewb|  
 |[Sam van Vliet](https://www.worldcubeassociation.org/persons/2018VLIE02)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,333bf,pyram|  
@@ -970,6 +974,7 @@ Key:
 |Sihan Chen|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,pyram|  
 |[Sora Sato](https://www.worldcubeassociation.org/persons/2018SATO01)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Accepted|333,444,333bf,pyram,skewb|  
 |[Thomas Tinlin](https://www.worldcubeassociation.org/persons/2020TINL01)|Australia|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram,skewb|  
+|Youyan Wang|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,444,pyram,skewb|  
 |Yutao Chen|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,pyram|  
 |Zachary Tang|NULL|[TramshedsTwinSaturday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSaturday2020)|Pending|333,333bf|  
 |[Aaron Oh](https://www.worldcubeassociation.org/persons/2020OHAA01)|Australia|[TramshedsTwinSunday2020](https://www.worldcubeassociation.org/competitions/TramshedsTwinSunday2020)|Accepted|333,555,333oh|  
@@ -1058,6 +1063,8 @@ Key:
 |[Cory Yurkovic](https://www.worldcubeassociation.org/persons/2016YURK01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Creston Brooks](https://www.worldcubeassociation.org/persons/2014BROO02)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,333bf,pyram,skewb,333mbf|  
 |[Dana Yi](https://www.worldcubeassociation.org/persons/2010YIDA01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
+|DJ Sassone|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,333bf,skewb|  
+|[Elvin Xu](https://www.worldcubeassociation.org/persons/2019XUEL02)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,555,666,777,333bf,333oh,minx,skewb,444bf,555bf|  
 |[Eric Zhao](https://www.worldcubeassociation.org/persons/2010ZHAO19)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Ernie Pulchny](https://www.worldcubeassociation.org/persons/2010PULC01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333bf,pyram,skewb|  
 |[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333bf,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
@@ -1086,6 +1093,7 @@ Key:
 |[Louis Meunier](https://www.worldcubeassociation.org/persons/2016MEUN01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |Lucas Thomas|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,555,666,777,333oh,clock,pyram,skewb,sq1|  
 |[Luke Galioto](https://www.worldcubeassociation.org/persons/2015GALI02)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,333oh,clock,minx,pyram,skewb,sq1|  
+|[Luke Robles](https://www.worldcubeassociation.org/persons/2018ROBL07)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,555,666,777,333oh,clock,minx,pyram,skewb,sq1|  
 |[Mariana K. Lee](https://www.worldcubeassociation.org/persons/2017LEEM04)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,333oh,clock,pyram,skewb|  
 |Michael Anthony Voegtle|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222|  
 |Michael K. Lee|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|222,pyram|  
@@ -1096,6 +1104,7 @@ Key:
 |[Nick Cortese](https://www.worldcubeassociation.org/persons/2018CORT02)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,555,666,777,333oh,pyram,skewb,sq1|  
 |[Nico Spatucci](https://www.worldcubeassociation.org/persons/2020SPAT01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,pyram|  
 |Nicolas Messina|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,skewb|  
+|Paul Fagans|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,333oh,pyram,skewb,sq1|  
 |Pulletikurty Krishna|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Pending|333,222,444,333oh,pyram|  
 |Reagan Jae Fesel|NULL|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,333oh,pyram,skewb|  
 |[Roy Lee](https://www.worldcubeassociation.org/persons/2011LEER01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,333oh,minx,sq1|  
@@ -1122,7 +1131,7 @@ Key:
 |[Zachary Ridall](https://www.worldcubeassociation.org/persons/2018RIDA01)|USA|[TriStateChampionship2020](https://www.worldcubeassociation.org/competitions/TriStateChampionship2020)|Accepted|333,222,444,555,666,777,333oh,pyram,skewb,sq1|  
 |[Anthony Thompson](https://www.worldcubeassociation.org/persons/2020THOM03)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,pyram,skewb|  
 |[Ashton Reed](https://www.worldcubeassociation.org/persons/2019REED01)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Accepted|333,444,333oh,clock,pyram,skewb|  
-|Austin Arnold|NULL|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,pyram,skewb|  
+|Austin Arnold|NULL|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Accepted|333,444,333oh,pyram,skewb|  
 |[Benjamin Gottschalk](https://www.worldcubeassociation.org/persons/2016GOTT01)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,clock,pyram,skewb|  
 |Bradley L. Ekstrom|NULL|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Accepted|333,444,pyram|  
 |[Bradley Sampson](https://www.worldcubeassociation.org/persons/2008SAMP01)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Accepted|333,444,333oh,clock,pyram,skewb|  
@@ -1146,7 +1155,7 @@ Key:
 |[Riley Workman](https://www.worldcubeassociation.org/persons/2016WORK02)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,clock,pyram,skewb|  
 |[Rustin Haderlie](https://www.worldcubeassociation.org/persons/2017HADE01)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,clock,pyram,skewb|  
 |[Tripp Peters](https://www.worldcubeassociation.org/persons/2017PETE04)|USA|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Deleted|333,444,333oh,clock,pyram,skewb|  
-|Wyatt Arnold|NULL|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Pending|333,444,333oh,pyram,skewb|  
+|Wyatt Arnold|NULL|[UtahSummerOpen2020](https://www.worldcubeassociation.org/competitions/UtahSummerOpen2020)|Accepted|333,444,333oh,pyram,skewb|  
 |[Aaron Paskow](https://www.worldcubeassociation.org/persons/2016PASK01)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Accepted|333,222,444,555,666,777,333fm,333oh,clock,minx,pyram,skewb|  
 |[Advay Kulkarni](https://www.worldcubeassociation.org/persons/2019KULK04)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Accepted|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |[Alexander Nagler](https://www.worldcubeassociation.org/persons/2019NAGL01)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Accepted|333,222,444,555,666,777,333fm,333oh,minx,pyram,skewb,sq1|  
@@ -1212,7 +1221,7 @@ Key:
 |Marius Lecomte|NULL|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Pending|333,222,444,555,minx,pyram,skewb|  
 |[Matteo Beretta](https://www.worldcubeassociation.org/persons/2017BERE02)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Pending|333,222,444,pyram,skewb|  
 |[Matthew Arca](https://www.worldcubeassociation.org/persons/2019ARCA01)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Deleted|333,222,444,333fm,333oh,pyram,skewb|  
-|[Max Christiansen](https://www.worldcubeassociation.org/persons/2019CHRI04)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Accepted|333,222,444,333oh,clock,minx,pyram,skewb,sq1|  
+|[Max Christiansen](https://www.worldcubeassociation.org/persons/2019CHRI04)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Deleted|333,222,444,333oh,clock,minx,pyram,skewb,sq1|  
 |[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Accepted|333,444,555,666,777,333oh|  
 |[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Pending|333,222,444,555,666,777,333bf,333fm,333oh,clock,minx,pyram,skewb,sq1,444bf,555bf,333mbf|  
 |Micah Crowe|NULL|[WesternChampionship2021](https://www.worldcubeassociation.org/competitions/WesternChampionship2021)|Pending|333,555,pyram,sq1|  

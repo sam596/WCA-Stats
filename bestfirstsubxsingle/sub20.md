@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Single
 
-*Last updated using WCA Developer Export from Sun May 24 at 1510UTC*
+*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
