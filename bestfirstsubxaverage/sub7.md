@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
+*Last updated using WCA Developer Export from Fri Jun 05 at 1811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -17,8 +17,8 @@
 |6|[Weihao Kong (孔维浩)](https://www.worldcubeassociation.org/persons/2017KONG05)|China|6.62|  
 |7|[Rami Sbahi](https://www.worldcubeassociation.org/persons/2011SBAH01)|USA|6.66|  
 |8|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|6.71|  
-|9|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|6.72|  
-|=|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|  
+|9|[Dylan Miller](https://www.worldcubeassociation.org/persons/2015MILL01)|USA|6.72|  
+|=|[Bill Wang](https://www.worldcubeassociation.org/persons/2010WANG68)|Canada|6.72|  
 |11|[Paul Mahvi](https://www.worldcubeassociation.org/persons/2012MAHV01)|USA|6.73|  
 |12|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|6.74|  
 |13|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|6.75|  
@@ -29,8 +29,8 @@
 |=|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|6.78|  
 |19|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|6.79|  
 |20|[Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01)|China|6.81|  
-|=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|6.81|  
 |=|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.81|  
+|=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|6.81|  
 |=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|6.81|  
 |24|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|6.82|  
 |25|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|6.83|  

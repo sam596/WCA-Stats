@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
+*Last updated using WCA Developer Export from Fri Jun 05 at 1811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -87,8 +87,8 @@
 |76|[Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01)|Poland|10.75|  
 |77|[Steven Wang](https://www.worldcubeassociation.org/persons/2013WANG63)|USA|10.76|  
 |=|[Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04)|Poland|10.76|  
-|79|[Szymon Szafrański](https://www.worldcubeassociation.org/persons/2017SZAF01)|Poland|10.77|  
-|=|[Isaac Sánchez Aguilar](https://www.worldcubeassociation.org/persons/2012AGUI02)|Mexico|10.77|  
+|79|[Isaac Sánchez Aguilar](https://www.worldcubeassociation.org/persons/2012AGUI02)|Mexico|10.77|  
+|=|[Szymon Szafrański](https://www.worldcubeassociation.org/persons/2017SZAF01)|Poland|10.77|  
 |=|[Maximiliano Perez Madrid](https://www.worldcubeassociation.org/persons/2017MADR01)|Chile|10.77|  
 |=|[Hsiang-Kuang Zhuang (莊翔光)](https://www.worldcubeassociation.org/persons/2015ZHUA02)|Taiwan|10.77|  
 |=|[Valerio Locatelli](https://www.worldcubeassociation.org/persons/2018LOCA01)|Italy|10.77|  
@@ -177,8 +177,8 @@
 |166|[Alvaro Guerra](https://www.worldcubeassociation.org/persons/2018GUER06)|Ecuador|11.03|  
 |=|[Ihor Kastranets (Ігор Кастранець)](https://www.worldcubeassociation.org/persons/2018KAST02)|Ukraine|11.03|  
 |=|[Adam Saguy Cohen](https://www.worldcubeassociation.org/persons/2016COHE03)|Israel|11.03|  
-|169|[Mani Kumar](https://www.worldcubeassociation.org/persons/2014KUMA41)|India|11.04|  
-|=|[Liangce Kong (孔亮策)](https://www.worldcubeassociation.org/persons/2018KONG09)|China|11.04|  
+|169|[Liangce Kong (孔亮策)](https://www.worldcubeassociation.org/persons/2018KONG09)|China|11.04|  
+|=|[Mani Kumar](https://www.worldcubeassociation.org/persons/2014KUMA41)|India|11.04|  
 |=|[Ryota Sekiya (関谷亮汰)](https://www.worldcubeassociation.org/persons/2019SEKI01)|Japan|11.04|  
 |172|[Jacob Marinas](https://www.worldcubeassociation.org/persons/2016MARI14)|USA|11.05|  
 |=|[Erick Tian](https://www.worldcubeassociation.org/persons/2016TIAN01)|Canada|11.05|  
@@ -205,8 +205,8 @@
 |=|[Carlos Quispe Cantorin](https://www.worldcubeassociation.org/persons/2017CANT03)|Peru|11.09|  
 |195|[Jules Porteners](https://www.worldcubeassociation.org/persons/2019PORT04)|Netherlands|11.10|  
 |=|[Luke Van Laningham](https://www.worldcubeassociation.org/persons/2015VANL01)|USA|11.10|  
-|=|[Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04)|USA|11.10|  
 |=|[Alexander Belyakov](https://www.worldcubeassociation.org/persons/2016BELY01)|Russia|11.10|  
+|=|[Calix Tang](https://www.worldcubeassociation.org/persons/2015TANG04)|USA|11.10|  
 |=|[Rayan Al Hobayb](https://www.worldcubeassociation.org/persons/2017HOBA01)|Lebanon|11.10|  
 |=|[Manu Sasidharan](https://www.worldcubeassociation.org/persons/2016SASI01)|India|11.10|  
 |201|[Zhiying Liang (梁芷瑛)](https://www.worldcubeassociation.org/persons/2017LIAN15)|China|11.11|  
@@ -227,16 +227,16 @@
 |=|[Khairur Rachman](https://www.worldcubeassociation.org/persons/2011RACH02)|Indonesia|11.13|  
 |=|[Thomas Dussault](https://www.worldcubeassociation.org/persons/2017DUSS01)|Canada|11.13|  
 |=|[Yashwardhan Budhiraja](https://www.worldcubeassociation.org/persons/2018BUDH01)|India|11.13|  
-|219|[Mateusz Konarski](https://www.worldcubeassociation.org/persons/2015KONA01)|Poland|11.14|  
-|=|[Caleb Starr](https://www.worldcubeassociation.org/persons/2016STAR02)|USA|11.14|  
+|219|[Caleb Starr](https://www.worldcubeassociation.org/persons/2016STAR02)|USA|11.14|  
+|=|[Mateusz Konarski](https://www.worldcubeassociation.org/persons/2015KONA01)|Poland|11.14|  
 |=|[Sean Cheng](https://www.worldcubeassociation.org/persons/2016CHES06)|USA|11.14|  
 |=|[Yining Liu (刘译柠)](https://www.worldcubeassociation.org/persons/2017LIUY23)|China|11.14|  
 |223|[Ho Yeon Jang (장호연)](https://www.worldcubeassociation.org/persons/2014JANG01)|Korea|11.15|  
 |=|[Zhongyu Zheng (郑仲宇)](https://www.worldcubeassociation.org/persons/2017ZHEN43)|China|11.15|  
 |=|[Pengwei Chen (陈芃威)](https://www.worldcubeassociation.org/persons/2015CHEN87)|China|11.15|  
 |=|[Antonio Kam Ho Tung (甘浩東)](https://www.worldcubeassociation.org/persons/2017TUNG13)|Hong Kong|11.15|  
-|=|[Jesús Armando Aguirre Ibarra](https://www.worldcubeassociation.org/persons/2016IBAR07)|Mexico|11.15|  
 |=|[Ottfried Kejs](https://www.worldcubeassociation.org/persons/2012KEJS01)|Germany|11.15|  
+|=|[Jesús Armando Aguirre Ibarra](https://www.worldcubeassociation.org/persons/2016IBAR07)|Mexico|11.15|  
 |=|[Deven Bector](https://www.worldcubeassociation.org/persons/2016BECT01)|Canada|11.15|  
 |=|[Juan Felipe Silva Palacios](https://www.worldcubeassociation.org/persons/2017PALA02)|Colombia|11.15|  
 |=|[Liangjun Huang (黄良俊)](https://www.worldcubeassociation.org/persons/2017HUAN68)|China|11.15|  
@@ -253,9 +253,9 @@
 |=|[Simon Crawford](https://www.worldcubeassociation.org/persons/2008CRAW01)|United Kingdom|11.17|  
 |=|[Caini Huang (黄彩妮)](https://www.worldcubeassociation.org/persons/2016HUAN33)|China|11.17|  
 |=|[Ábris Galler](https://www.worldcubeassociation.org/persons/2017GALL07)|Hungary|11.17|  
-|245|[Caleb Bradley](https://www.worldcubeassociation.org/persons/2016BRAD10)|Canada|11.18|  
-|=|[Luxiang Luo (罗绿翔)](https://www.worldcubeassociation.org/persons/2018LUOL03)|China|11.18|  
+|245|[Luxiang Luo (罗绿翔)](https://www.worldcubeassociation.org/persons/2018LUOL03)|China|11.18|  
 |=|[Hau-Yu Huang (黃浩宇)](https://www.worldcubeassociation.org/persons/2017HUAN05)|Taiwan|11.18|  
+|=|[Caleb Bradley](https://www.worldcubeassociation.org/persons/2016BRAD10)|Canada|11.18|  
 |=|[Carl Håkon Solheim](https://www.worldcubeassociation.org/persons/2012SOLH01)|Norway|11.18|  
 |=|[Daniel Wallin](https://www.worldcubeassociation.org/persons/2013WALL03)|Sweden|11.18|  
 |=|[Mateusz Kozioł](https://www.worldcubeassociation.org/persons/2017KOZI01)|Poland|11.18|  

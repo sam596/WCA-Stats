@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
+*Last updated using WCA Developer Export from Fri Jun 05 at 1811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -45,4 +45,4 @@
 |[Alex Maass](https://www.worldcubeassociation.org/persons/2011MAAS01)|USA|2019-05-25|[Brooklyn2019 - First round](https://www.worldcubeassociation.org/competitions/Brooklyn2019/results/all#epyram_1)|[Brooklyn2019 - Final](https://www.worldcubeassociation.org/competitions/Brooklyn2019/results/all#epyram_f)|0|  
 |[Jinseo Hong](https://www.worldcubeassociation.org/persons/2017HONG17)|Korea|2019-05-25|[Brooklyn2019 - Final](https://www.worldcubeassociation.org/competitions/Brooklyn2019/results/all#epyram_f)|[KoreanChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019/results/all#epyram_f)|85|  
 |[Dohyun Kim (김도현)](https://www.worldcubeassociation.org/persons/2013KIMD01)|Korea|2019-08-18|[KoreanChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/KoreanChampionship2019/results/all#epyram_f)|[ByeolLaeOpen2020 - Final](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020/results/all#epyram_f)|167|  
-|[Yoo-chan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03)|Korea|2020-02-01|[ByeolLaeOpen2020 - Final](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020/results/all#epyram_f)|Ongoing|116|  
+|[Yoo-chan Hong (홍유찬)](https://www.worldcubeassociation.org/persons/2016HONG03)|Korea|2020-02-01|[ByeolLaeOpen2020 - Final](https://www.worldcubeassociation.org/competitions/ByeolLaeOpen2020/results/all#epyram_f)|Ongoing|125|  

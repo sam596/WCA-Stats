@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Wed May 27 at 1611UTC*
+*Last updated using WCA Developer Export from Fri Jun 05 at 1811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -323,16 +323,16 @@
 
 |Name|All Events|Speedsolving Averages|BLD and FMC Means|WC Podium|WR|Events Won|  
 |--|--|--|--|--|--|--|--|  
-|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Y|N (11/12)|N (2/4)|N|N|N (6/17)|  
 |[Rodrigo Zarate](https://www.worldcubeassociation.org/persons/2014ZARA01)|Y|N (11/12)|N (2/4)|N|N|N (6/17)|  
+|[Marcel Ručigaj](https://www.worldcubeassociation.org/persons/2016RUCI01)|Y|N (11/12)|N (2/4)|N|N|N (6/17)|  
 |[Anton Krokhmal (Антон Крохмаль)](https://www.worldcubeassociation.org/persons/2012KROK01)|Y|N (11/12)|N (2/4)|N|N|N (5/17)|  
 |[Samuel Baird](https://www.worldcubeassociation.org/persons/2016BAIR01)|Y|N (11/12)|N (2/4)|N|N|N (4/17)|  
 |[Modest Podzolkin](https://www.worldcubeassociation.org/persons/2017PODZ01)|Y|N (11/12)|N (2/4)|N|N|N (3/17)|  
 |[Victor Tang Yao Jun (湯曜駿)](https://www.worldcubeassociation.org/persons/2015JUNV01)|Y|N (11/12)|N (2/4)|N|N|N (3/17)|  
 |[Martin Brath](https://www.worldcubeassociation.org/persons/2013BRAT01)|Y|N (11/12)|N (2/4)|N|N|N (2/17)|  
 |[Zhe Wang (王哲)](https://www.worldcubeassociation.org/persons/2019WANZ21)|Y|N (11/12)|N (2/4)|N|N|N (0/17)|  
-|[Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03)|Y|N (11/12)|N (1/4)|N|N|N (3/17)|  
 |[Maxime Madrzyk](https://www.worldcubeassociation.org/persons/2018MADR02)|Y|N (11/12)|N (1/4)|N|N|N (3/17)|  
+|[Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03)|Y|N (11/12)|N (1/4)|N|N|N (3/17)|  
 |[Billy Jeffs](https://www.worldcubeassociation.org/persons/2012JEFF01)|Y|N (10/12)|N (2/4)|N|N|N (0/17)|  
 |[Ha Min Oh (오해민)](https://www.worldcubeassociation.org/persons/2015OHHA01)|Y|N (10/12)|N (1/4)|N|N|N (2/17)|  
 |[Siva Shanmukh Vetcha](https://www.worldcubeassociation.org/persons/2008SHAN01)|Y|N (10/12)|N (1/4)|N|N|N (1/17)|  
@@ -342,7 +342,6 @@
 |[Mimmi Leckius](https://www.worldcubeassociation.org/persons/2006LECK01)|Y|N (9/12)|N (0/4)|N|N|N (2/17)|  
 |[Alexandre Henrique Afonso Campos](https://www.worldcubeassociation.org/persons/2015CAMP17)|Y|N (8/12)|N (2/4)|N|N|N (5/17)|  
 |[Gianluca Placenti](https://www.worldcubeassociation.org/persons/2012PLAC01)|Y|N (8/12)|N (2/4)|N|N|N (4/17)|  
-|[Anonymous](https://www.worldcubeassociation.org/persons/2019ANON02)|NULL|NULL|NULL|N|N|NULL|  
 
 ### One Event Missing
 
