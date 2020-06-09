@@ -1,6 +1,6 @@
 ## Longest Streak of Months Competed in
 
-*Last updated using WCA Developer Export from Fri Jun 05 at 1811UTC*
+*Last updated using WCA Developer Export from Mon Jun 08 at 1911UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
