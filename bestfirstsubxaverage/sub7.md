@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Thu Jun 11 at 2011UTC*
+*Last updated using WCA Developer Export from Sun Jun 14 at 2111UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -30,8 +30,8 @@
 |19|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|6.79|  
 |20|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|6.81|  
 |=|[Yusheng Du (杜宇生)](https://www.worldcubeassociation.org/persons/2015DUYU01)|China|6.81|  
-|=|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.81|  
 |=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|6.81|  
+|=|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|6.81|  
 |24|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|6.82|  
 |25|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|6.83|  
 |=|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|6.83|  
