@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Single
 
-*Last updated using WCA Developer Export from Sun Jun 14 at 2111UTC*
+*Last updated using WCA Developer Export from Wed Jun 17 at 2210UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -29,17 +29,17 @@
 |18|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|4.86|  
 |19|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|4.88|  
 |20|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|4.89|  
-|21|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
-|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
+|21|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
+|=|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
 |23|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|4.91|  
 |24|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|4.93|  
-|25|[Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01)|Korea|4.94|  
+|25|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|4.94|  
+|=|[Hyo-Min Seo (서효민)](https://www.worldcubeassociation.org/persons/2013SEOH01)|Korea|4.94|  
 |=|[Amos Nordman](https://www.worldcubeassociation.org/persons/2014NORD02)|Finland|4.94|  
 |=|[Christopher Yen](https://www.worldcubeassociation.org/persons/2016YENC01)|USA|4.94|  
-|=|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|4.94|  
 |29|[Luke Garrett](https://www.worldcubeassociation.org/persons/2017GARR05)|USA|4.95|  
-|30|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|4.97|  
-|=|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|4.97|  
+|30|[Matěj Grohmann](https://www.worldcubeassociation.org/persons/2015GROH02)|Czech Republic|4.97|  
+|=|[Jayden McNeill](https://www.worldcubeassociation.org/persons/2012MCNE01)|Australia|4.97|  
 |32|[Sean Patrick Villanueva](https://www.worldcubeassociation.org/persons/2017VILL41)|Philippines|4.98|  
 |33|[Nicolás Sánchez](https://www.worldcubeassociation.org/persons/2015SANC11)|USA|4.99|  
 |=|[Max Park](https://www.worldcubeassociation.org/persons/2012PARK03)|USA|4.99|  
