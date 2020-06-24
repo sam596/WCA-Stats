@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Sat Jun 20 at 2311UTC*
+*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -41,4 +41,4 @@
 |[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|2019-01-13|[PSTLLSLublin2019 - Final](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019/results/all#eclock_f)|[ByczyCubeRace2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019/results/all#eclock_d)|175|  
 |[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2019-07-07|[ByczyCubeRace2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2019/results/all#eclock_d)|[PolishChampionship2019 - First round](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eclock_1)|98|  
 |[Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02)|Poland|2019-10-13|[PolishChampionship2019 - First round](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eclock_1)|[PolishChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eclock_f)|0|  
-|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2019-10-13|[PolishChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eclock_f)|Ongoing|252|  
+|[Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01)|Poland|2019-10-13|[PolishChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/PolishChampionship2019/results/all#eclock_f)|Ongoing|255|  

@@ -1,6 +1,6 @@
 ## WCA Relays - mini_guildford
 
-*Last updated using WCA Developer Export from Sat Jun 20 at 2311UTC*
+*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
