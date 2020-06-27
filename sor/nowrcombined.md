@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -608,7 +608,7 @@
 |598|[Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02)|Korea|60050|659|  
 |599|[Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01)|France|60107|660|  
 |600|[Ethan Jan](https://www.worldcubeassociation.org/persons/2014JANE02)|USA|60287|661|  
-|601|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|60372|663|  
+|601|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|60371|663|  
 |602|[William Klauer](https://www.worldcubeassociation.org/persons/2017KLAU01)|USA|60373|664|  
 |603|[Justin Thomas](https://www.worldcubeassociation.org/persons/2011THOM01)|USA|60448|665|  
 |604|[Darby Lee](https://www.worldcubeassociation.org/persons/2018LEED03)|Australia|60553|666|  
@@ -891,7 +891,7 @@
 |881|[Daniel Waldo](https://www.worldcubeassociation.org/persons/2012WALD01)|Mexico|77861|953|  
 |882|[Oliver Kugler](https://www.worldcubeassociation.org/persons/2016KUGL01)|Slovakia|77881|954|  
 |883|[Abhijeet Ghodgaonkar](https://www.worldcubeassociation.org/persons/2013GHOD01)|India|77949|955|  
-|884|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78082|956|  
+|884|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78081|956|  
 |885|[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|78126|957|  
 |886|[Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04)|Philippines|78137|958|  
 |887|[Cameron Stollery](https://www.worldcubeassociation.org/persons/2010STOL01)|Australia|78178|959|  

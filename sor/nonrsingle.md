@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -626,7 +626,7 @@
 |616|[Huang-Bang Fang (房黃邦)](https://www.worldcubeassociation.org/persons/2017FANG10)|Taiwan|49900|1251|  
 |617|[Wesley Miller](https://www.worldcubeassociation.org/persons/2011MILL01)|USA|49937|1253|  
 |618|[Chris Deng](https://www.worldcubeassociation.org/persons/2015DENG08)|USA|49955|1255|  
-|619|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|49973|1256|  
+|619|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|49972|1256|  
 |620|[Hannah Minas](https://www.worldcubeassociation.org/persons/2017MINA04)|Switzerland|50028|1258|  
 |621|[Christian Meyer](https://www.worldcubeassociation.org/persons/2016MEYE02)|Switzerland|50094|1261|  
 |622|[Emil Khalimov](https://www.worldcubeassociation.org/persons/2018KHAL02)|Russia|50146|1262|  

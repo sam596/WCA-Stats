@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -842,7 +842,7 @@
 |832|[Yongxiang Guo (郭永祥)](https://www.worldcubeassociation.org/persons/2017GUOY03)|China|108065|4563|  
 |833|[Samuel Wexler](https://www.worldcubeassociation.org/persons/2017WEXL01)|USA|108168|4567|  
 |834|[Jasmine Mapatac](https://www.worldcubeassociation.org/persons/2018MAPA02)|USA|108255|4571|  
-|=|[George Austin](https://www.worldcubeassociation.org/persons/2016AUST05)|United Kingdom|108255|4571|  
+|835|[George Austin](https://www.worldcubeassociation.org/persons/2016AUST05)|United Kingdom|108296|4576|  
 |836|[Richard Borowsky](https://www.worldcubeassociation.org/persons/2014BORO01)|USA|108324|4578|  
 |837|[David Ametrin](https://www.worldcubeassociation.org/persons/2019AMET01)|Sweden|108395|4580|  
 |=|[Stephen Huan](https://www.worldcubeassociation.org/persons/2018HUAN21)|USA|108395|4580|  
@@ -928,7 +928,7 @@
 |918|[Fabian Senn](https://www.worldcubeassociation.org/persons/2016SENN01)|Switzerland|110939|4763|  
 |919|[Thomas Rosky](https://www.worldcubeassociation.org/persons/2017ROSK01)|USA|110985|4764|  
 |920|[Noah Wymbs](https://www.worldcubeassociation.org/persons/2015WYMB01)|USA|110986|4765|  
-|921|[Calvin Brauer](https://www.worldcubeassociation.org/persons/2015BRAU02)|USA|111024|4766|  
+|921|[Calvin Brauer](https://www.worldcubeassociation.org/persons/2015BRAU02)|USA|111023|4766|  
 |922|[Nordarwish Akmal Bin Noor Ibrahim](https://www.worldcubeassociation.org/persons/2019IBRA02)|Malaysia|111058|4768|  
 |923|[Zijie Xu (徐子杰)](https://www.worldcubeassociation.org/persons/2018XUZI02)|China|111176|4776|  
 |924|[Rafael Fellmann](https://www.worldcubeassociation.org/persons/2018FELL02)|Germany|111217|4777|  

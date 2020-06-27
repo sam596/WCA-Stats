@@ -476,8 +476,8 @@
 |474|[Rūdolfs Vīnkalns](https://www.worldcubeassociation.org/persons/2017VNKA01)|Latvia|5988|333bfs|  
 |475|[Timo Norrkniivilä](https://www.worldcubeassociation.org/persons/2017NORR01)|Finland|5993|333a|  
 |476|[Tyler Johnson](https://www.worldcubeassociation.org/persons/2017JOHN09)|USA|6001|333bfs|  
-|477|[Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01)|USA|6025|333ohs|  
-|=|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|6025|pyrams|  
+|477|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|6024|pyrams|  
+|478|[Will Cerne](https://www.worldcubeassociation.org/persons/2015CERN01)|USA|6025|333ohs|  
 |479|[Bruno Lezama](https://www.worldcubeassociation.org/persons/2014LEZA02)|Uruguay|6027|333bfs|  
 |480|[Shintaro Nishijo](https://www.worldcubeassociation.org/persons/2014NISH04)|Japan|6061|333a|  
 |481|[William Tao](https://www.worldcubeassociation.org/persons/2014TAOW01)|Australia|6122|pyrams|  

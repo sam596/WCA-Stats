@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -519,7 +519,7 @@
 |509|[Junseop Kim (김준섭)](https://www.worldcubeassociation.org/persons/2017KIMJ02)|Korea|60050|659|  
 |510|[Abdelhak Kaddour](https://www.worldcubeassociation.org/persons/2010KADD01)|France|60107|660|  
 |511|[Ethan Jan](https://www.worldcubeassociation.org/persons/2014JANE02)|USA|60287|661|  
-|512|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|60372|663|  
+|512|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|60371|663|  
 |513|[William Klauer](https://www.worldcubeassociation.org/persons/2017KLAU01)|USA|60373|664|  
 |514|[Justin Thomas](https://www.worldcubeassociation.org/persons/2011THOM01)|USA|60448|665|  
 |515|[Daryl Tan Hong An](https://www.worldcubeassociation.org/persons/2015ANDA01)|Singapore|60605|667|  
@@ -777,7 +777,7 @@
 |767|[Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01)|Vietnam|77848|952|  
 |768|[Daniel Waldo](https://www.worldcubeassociation.org/persons/2012WALD01)|Mexico|77861|953|  
 |769|[Oliver Kugler](https://www.worldcubeassociation.org/persons/2016KUGL01)|Slovakia|77881|954|  
-|770|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78082|956|  
+|770|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78081|956|  
 |771|[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|78126|957|  
 |772|[Inigo Miguel B. Palisoc](https://www.worldcubeassociation.org/persons/2017PALI04)|Philippines|78137|958|  
 |773|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|78325|960|  

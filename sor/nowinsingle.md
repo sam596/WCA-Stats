@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -585,7 +585,7 @@
 |575|[Chenghao Guo (国成浩)](https://www.worldcubeassociation.org/persons/2016GUOC01)|China|74087|2395|  
 |576|[Xusheng Hong (洪旭升)](https://www.worldcubeassociation.org/persons/2010HONG07)|China|74093|2396|  
 |577|[Rémi Perrin](https://www.worldcubeassociation.org/persons/2018PERR04)|France|74227|2402|  
-|578|[Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01)|USA|74284|2403|  
+|578|[Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01)|USA|74283|2403|  
 |579|[Luke Hudlass-Galley](https://www.worldcubeassociation.org/persons/2010HUDL01)|United Kingdom|74290|2404|  
 |580|[Michael DeLaRosa](https://www.worldcubeassociation.org/persons/2013DELA01)|USA|74330|2409|  
 |=|[Gaëtan Fragnière](https://www.worldcubeassociation.org/persons/2016FRAG01)|Switzerland|74330|2409|  
@@ -869,7 +869,7 @@
 |859|[Lennon Young](https://www.worldcubeassociation.org/persons/2015YOUN03)|USA|83576|2960|  
 |860|[Wiktor Kowalski](https://www.worldcubeassociation.org/persons/2019KOWA02)|Poland|83600|2961|  
 |861|[Fabian Alberti Maldonado](https://www.worldcubeassociation.org/persons/2016MALD02)|Bolivia|83601|2962|  
-|862|[Lisa Rengers](https://www.worldcubeassociation.org/persons/2016RENG03)|Netherlands|83618|2963|  
+|862|[Lisa Rengers](https://www.worldcubeassociation.org/persons/2016RENG03)|Netherlands|83617|2963|  
 |863|[Ismael Lorente](https://www.worldcubeassociation.org/persons/2016LORE02)|Spain|83641|2964|  
 |864|[Dominik Czechowski](https://www.worldcubeassociation.org/persons/2013CZEC02)|Poland|83673|2966|  
 |865|[Ng Yong Teng](https://www.worldcubeassociation.org/persons/2018TENG01)|Singapore|83721|2967|  

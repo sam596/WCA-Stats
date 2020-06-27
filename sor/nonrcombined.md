@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -447,7 +447,7 @@
 |437|[Evan Wright](https://www.worldcubeassociation.org/persons/2017WRIG03)|USA|77801|951|  
 |438|[Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01)|Vietnam|77848|952|  
 |439|[Oliver Kugler](https://www.worldcubeassociation.org/persons/2016KUGL01)|Slovakia|77881|954|  
-|440|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78082|956|  
+|440|[Ang Chin Xiang](https://www.worldcubeassociation.org/persons/2016XIAN01)|Malaysia|78081|956|  
 |441|[Finn Ickler](https://www.worldcubeassociation.org/persons/2012ICKL01)|Germany|78126|957|  
 |442|[James Hamory](https://www.worldcubeassociation.org/persons/2009HAMO01)|USA|78325|960|  
 |443|[Alex Agranov](https://www.worldcubeassociation.org/persons/2016AGRA01)|USA|78344|962|  

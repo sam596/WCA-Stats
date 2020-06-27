@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -454,7 +454,7 @@
 |444|[Naman Jain](https://www.worldcubeassociation.org/persons/2016JAIN04)|India|31388|593|  
 |445|[Amelie Dieterich](https://www.worldcubeassociation.org/persons/2016DIET01)|Germany|31420|594|  
 |446|[Linus Buck](https://www.worldcubeassociation.org/persons/2016BUCK01)|Germany|31464|595|  
-|447|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|31472|596|  
+|447|[Lee Zhi Xuan](https://www.worldcubeassociation.org/persons/2017XUAN03)|Malaysia|31471|596|  
 |448|[Asher Kim-Magierek](https://www.worldcubeassociation.org/persons/2017KIMM01)|USA|31528|597|  
 |449|[Junze Zhao (赵俊泽)](https://www.worldcubeassociation.org/persons/2016ZHAO28)|China|31557|598|  
 |450|[Muhammad Syahmi](https://www.worldcubeassociation.org/persons/2010SYAH03)|Malaysia|31567|599|  

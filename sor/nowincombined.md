@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Wed Jun 24 at 0010UTC*
+*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -666,7 +666,7 @@
 |656|[Harishan Ramanan](https://www.worldcubeassociation.org/persons/2018RAMA26)|United Kingdom|139267|2535|  
 |657|[Jundi Ahmad Alwan](https://www.worldcubeassociation.org/persons/2010ALWA01)|Indonesia|139337|2538|  
 |658|[Nicholas Tan Jun Wei](https://www.worldcubeassociation.org/persons/2017WEIN03)|Malaysia|139415|2540|  
-|659|[Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01)|USA|139428|2542|  
+|659|[Parth Garg](https://www.worldcubeassociation.org/persons/2014GARG01)|USA|139427|2542|  
 |660|[Jacob Fleishauer](https://www.worldcubeassociation.org/persons/2018FLEI02)|USA|139453|2544|  
 |661|[Michał Woźniak](https://www.worldcubeassociation.org/persons/2017WOZN01)|Poland|139463|2545|  
 |662|[Alexey Semichastnov](https://www.worldcubeassociation.org/persons/2016SEMI01)|Russia|139496|2546|  
@@ -801,7 +801,7 @@
 |791|[Shane David](https://www.worldcubeassociation.org/persons/2018DAVI08)|USA|147853|2791|  
 |792|[Andrea Thull](https://www.worldcubeassociation.org/persons/2017THUL01)|Luxembourg|147934|2792|  
 |793|[Hector Eduardo Ramirez Manuel](https://www.worldcubeassociation.org/persons/2016MANU01)|Mexico|147977|2794|  
-|794|[Lisa Rengers](https://www.worldcubeassociation.org/persons/2016RENG03)|Netherlands|148238|2799|  
+|794|[Lisa Rengers](https://www.worldcubeassociation.org/persons/2016RENG03)|Netherlands|148237|2799|  
 |795|[Andrey Mozgovoy (Андрей Мозговой)](https://www.worldcubeassociation.org/persons/2018MOZG01)|Russia|148257|2800|  
 |796|[Yevhen Riabokon (Євген Рябоконь)](https://www.worldcubeassociation.org/persons/2013RIAB01)|Ukraine|148290|2803|  
 |797|[Flavio Rimi](https://www.worldcubeassociation.org/persons/2018RIMI01)|Italy|148300|2804|  
