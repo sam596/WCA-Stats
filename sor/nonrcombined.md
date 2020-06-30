@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
+*Last updated using WCA Developer Export from Tue Jun 30 at 0211UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -777,7 +777,7 @@
 |767|[Rafael Carreiro Campos](https://www.worldcubeassociation.org/persons/2015CAMP01)|Brazil|99538|1467|  
 |768|[Baocheng Wu (吴宝城)](https://www.worldcubeassociation.org/persons/2014WUBA01)|China|99692|1469|  
 |769|[Muhammad Badruddin](https://www.worldcubeassociation.org/persons/2010BADR01)|Indonesia|99729|1470|  
-|770|[Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08)|USA|99734|1471|  
+|770|[Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08)|USA|99733|1471|  
 |771|[Dominic Morton](https://www.worldcubeassociation.org/persons/2017MORT02)|USA|99749|1472|  
 |772|[Michael Kaiser](https://www.worldcubeassociation.org/persons/2016KAIS03)|USA|99811|1473|  
 |773|[Noah Wilde](https://www.worldcubeassociation.org/persons/2015WILD01)|Canada|99883|1474|  
@@ -878,7 +878,7 @@
 |868|[Taine Cassar](https://www.worldcubeassociation.org/persons/2018CASS01)|Australia|105029|1599|  
 |869|[Anael Champion](https://www.worldcubeassociation.org/persons/2017CHAM02)|France|105035|1600|  
 |870|[Nick Camillone](https://www.worldcubeassociation.org/persons/2012CAMI01)|USA|105051|1601|  
-|871|[Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03)|China|105242|1602|  
+|871|[Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03)|China|105241|1602|  
 |872|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|105326|1604|  
 |873|[Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01)|USA|105389|1605|  
 |874|[Xingqi Chen (陈星奇)](https://www.worldcubeassociation.org/persons/2016CHEX02)|China|105559|1608|  
@@ -919,7 +919,7 @@
 |909|[Turcanu Vlad](https://www.worldcubeassociation.org/persons/2017VLAD02)|Romania|107652|1657|  
 |910|[Muhammad Faeyza Koda](https://www.worldcubeassociation.org/persons/2018KODA01)|Indonesia|107730|1660|  
 |911|[Dalton Padgett](https://www.worldcubeassociation.org/persons/2015PADG01)|USA|107732|1661|  
-|912|[Yuzhe Gan (甘宇喆)](https://www.worldcubeassociation.org/persons/2018GANY01)|China|107739|1662|  
+|912|[Yuzhe Gan (甘宇喆)](https://www.worldcubeassociation.org/persons/2018GANY01)|China|107738|1662|  
 |913|[Chris Yeager](https://www.worldcubeassociation.org/persons/2016YEAG01)|USA|107804|1663|  
 |914|[Allan Beres](https://www.worldcubeassociation.org/persons/2016BERE01)|USA|107823|1665|  
 |915|[Eben Quenneville](https://www.worldcubeassociation.org/persons/2017QUEN01)|USA|107856|1667|  

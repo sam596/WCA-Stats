@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Sat Jun 27 at 0110UTC*
+*Last updated using WCA Developer Export from Tue Jun 30 at 0211UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -1000,7 +1000,7 @@
 |990|[Andrii Lushpak (Андрій Лушпак)](https://www.worldcubeassociation.org/persons/2016LUSH02)|Ukraine|61433|1781|  
 |991|[Carson Claud](https://www.worldcubeassociation.org/persons/2015CLAU02)|USA|61477|1784|  
 |992|[Jacob Turrubiartes](https://www.worldcubeassociation.org/persons/2018TURR01)|USA|61490|1785|  
-|993|[Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08)|USA|61519|1787|  
+|993|[Cameron Miller](https://www.worldcubeassociation.org/persons/2018MILL08)|USA|61518|1787|  
 |994|[Esdras Rodolfo Toc Hi](https://www.worldcubeassociation.org/persons/2017HIES01)|Guatemala|61569|1789|  
 |995|[Zhijian Wang (王志坚)](https://www.worldcubeassociation.org/persons/2017WANZ07)|China|61629|1793|  
 |996|[Sofiya Bondarenko](https://www.worldcubeassociation.org/persons/2017BOND07)|Ukraine|61653|1795|  
