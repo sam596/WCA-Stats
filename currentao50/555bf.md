@@ -1,6 +1,6 @@
 ## Current Average of 50
 
-*Last updated using WCA Developer Export from Tue Jun 30 at 0211UTC*
+*Last updated using WCA Developer Export from Fri Jul 03 at 0310UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
