@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Fri Jul 03 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -102,15 +102,15 @@
 |=|[Max Lau](https://www.worldcubeassociation.org/persons/2016LAUM01)|USA|9.79|  
 |=|[Yii Ming Siang](https://www.worldcubeassociation.org/persons/2017SIAN02)|Malaysia|9.79|  
 |93|[Futian Tan (谈符天)](https://www.worldcubeassociation.org/persons/2016TANF01)|China|9.80|  
-|=|[Francis Wong Jia Yen](https://www.worldcubeassociation.org/persons/2009JIAY01)|Malaysia|9.80|  
 |=|[Noah Kim](https://www.worldcubeassociation.org/persons/2017KIMN05)|USA|9.80|  
 |=|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Denmark|9.80|  
+|=|[Francis Wong Jia Yen](https://www.worldcubeassociation.org/persons/2009JIAY01)|Malaysia|9.80|  
 |=|[Yiming Zhu (祝一鸣)](https://www.worldcubeassociation.org/persons/2016ZHUY07)|China|9.80|  
 |98|[Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01)|Poland|9.81|  
 |=|[Graham Lively](https://www.worldcubeassociation.org/persons/2018LIVE01)|USA|9.81|  
 |=|[Kailong Li (李开隆)](https://www.worldcubeassociation.org/persons/2008LIKA01)|China|9.81|  
-|101|[Leong Wing Sik](https://www.worldcubeassociation.org/persons/2009SIKL01)|Malaysia|9.82|  
-|=|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|9.82|  
+|101|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|9.82|  
+|=|[Leong Wing Sik](https://www.worldcubeassociation.org/persons/2009SIKL01)|Malaysia|9.82|  
 |103|[Zihan Xu (徐子涵)](https://www.worldcubeassociation.org/persons/2019XUZI01)|China|9.83|  
 |104|[Edgar Alejandro Ortega Cortes](https://www.worldcubeassociation.org/persons/2016CORT01)|Mexico|9.84|  
 |=|[Lennon Hughes](https://www.worldcubeassociation.org/persons/2017HUGH04)|Australia|9.84|  
@@ -167,8 +167,8 @@
 |=|[Ethan Erez](https://www.worldcubeassociation.org/persons/2017EREZ01)|Canada|9.94|  
 |=|[Frederik Løchte](https://www.worldcubeassociation.org/persons/2018LOCH01)|Denmark|9.94|  
 |=|[Nathan Dwyer](https://www.worldcubeassociation.org/persons/2011DWYE02)|USA|9.94|  
-|159|[Haowei Fan (樊浩玮)](https://www.worldcubeassociation.org/persons/2009FANH01)|China|9.95|  
-|=|[Herman Westerlund Kalland](https://www.worldcubeassociation.org/persons/2019KALL02)|Norway|9.95|  
+|159|[Herman Westerlund Kalland](https://www.worldcubeassociation.org/persons/2019KALL02)|Norway|9.95|  
+|=|[Haowei Fan (樊浩玮)](https://www.worldcubeassociation.org/persons/2009FANH01)|China|9.95|  
 |=|[Nick Nijssen](https://www.worldcubeassociation.org/persons/2017NIJS01)|Netherlands|9.95|  
 |162|[Dylan Keyser](https://www.worldcubeassociation.org/persons/2016KEYS02)|USA|9.96|  
 |=|[Zihang Lin (林子杭)](https://www.worldcubeassociation.org/persons/2013LINZ04)|China|9.96|  
@@ -213,15 +213,15 @@
 |=|[Jared Huffman](https://www.worldcubeassociation.org/persons/2017HUFF01)|USA|10.02|  
 |203|[Jakob Fiechter](https://www.worldcubeassociation.org/persons/2014FIEC01)|Austria|10.03|  
 |=|[Owen Brooks](https://www.worldcubeassociation.org/persons/2016BROO08)|USA|10.03|  
-|=|[Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01)|USA|10.03|  
 |=|[Huang-Bang Fang (房黃邦)](https://www.worldcubeassociation.org/persons/2017FANG10)|Taiwan|10.03|  
 |=|[Jack Doyle](https://www.worldcubeassociation.org/persons/2016DOYL02)|USA|10.03|  
+|=|[Deven Nadudvari](https://www.worldcubeassociation.org/persons/2008NADU01)|USA|10.03|  
 |=|[Jordan Herman](https://www.worldcubeassociation.org/persons/2016HERM07)|USA|10.03|  
 |209|[Max Siauw](https://www.worldcubeassociation.org/persons/2017SIAU02)|USA|10.04|  
-|=|[Di Fan (樊迪)](https://www.worldcubeassociation.org/persons/2010FAND01)|China|10.04|  
 |=|[Kristóf Veres](https://www.worldcubeassociation.org/persons/2015VERE01)|Hungary|10.04|  
 |=|[Marco Vorländer](https://www.worldcubeassociation.org/persons/2014VORL01)|Germany|10.04|  
 |=|[Kamil Fiedoruk](https://www.worldcubeassociation.org/persons/2012FIED01)|Poland|10.04|  
+|=|[Di Fan (樊迪)](https://www.worldcubeassociation.org/persons/2010FAND01)|China|10.04|  
 |=|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|10.04|  
 |=|[Iwo Staniszewski](https://www.worldcubeassociation.org/persons/2017STAN05)|Poland|10.04|  
 |=|[Faiyaz Ahamed Fazil](https://www.worldcubeassociation.org/persons/2016FAZI01)|India|10.04|  

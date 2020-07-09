@@ -1,6 +1,6 @@
 ## Unofficial-Official World Champions History
 
-*Last updated using WCA Developer Export from Fri Jul 03 at 0310UTC*
+*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -38,4 +38,4 @@
 |[Zijia Feng (冯子甲)](https://www.worldcubeassociation.org/persons/2013FENG02)|China|2017-08-19|[QuanzhouSideEvent2017 - Combined First round](https://www.worldcubeassociation.org/competitions/QuanzhouSideEvent2017/results/all#esq1_d)|[HefeiSummer2018 - Combined First round](https://www.worldcubeassociation.org/competitions/HefeiSummer2018/results/all#esq1_d)|330|  
 |[Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02)|China|2018-07-15|[HefeiSummer2018 - Combined First round](https://www.worldcubeassociation.org/competitions/HefeiSummer2018/results/all#esq1_d)|[ChinaChampionship2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#esq1_d)|378|  
 |[Jiazhou Li (李佳洲)](https://www.worldcubeassociation.org/persons/2016LIJI05)|China|2019-07-28|[ChinaChampionship2019 - Combined First round](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#esq1_d)|[ChinaChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#esq1_f)|0|  
-|[Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02)|China|2019-07-28|[ChinaChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#esq1_f)|Ongoing|341|  
+|[Xuechao Zhang (张学超)](https://www.worldcubeassociation.org/persons/2017ZHAX02)|China|2019-07-28|[ChinaChampionship2019 - Final](https://www.worldcubeassociation.org/competitions/ChinaChampionship2019/results/all#esq1_f)|Ongoing|347|  
