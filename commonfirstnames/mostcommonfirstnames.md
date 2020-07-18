@@ -1,6 +1,6 @@
 ## Most Common First Names
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -10,7 +10,7 @@
 |--|--|--|  
 |1|Daniel |1164|  
 |2|David |855|  
-|3|Juan |725|  
+|3|Juan |724|  
 |4|Nguyen |651|  
 |5|Muhammad |648|  
 |6|José |603|  
@@ -40,7 +40,7 @@
 |30|Diego |385|  
 |31|Sebastian |380|  
 |32|Jonathan |356|  
-|33|Noah |347|  
+|33|Noah |348|  
 |34|Nicolas |344|  
 |35|James |341|  
 |36|Christian |321|  
@@ -56,7 +56,7 @@
 |=|Nicholas |268|  
 |47|Pedro |264|  
 |48|Miguel |261|  
-|49|Mark |257|  
+|49|Mark |258|  
 |50|Christopher |252|  
 |51|Ben |250|  
 |=|Max |250|  
@@ -236,10 +236,10 @@
 |226|Harry |89|  
 |=|Andrea |89|  
 |=|Axel |89|  
-|229|Matt |88|  
+|229|Andreas |88|  
+|=|Matt |88|  
 |=|Hunter |88|  
-|231|Andreas |87|  
-|=|Viktor |87|  
+|232|Viktor |87|  
 |=|Rahul |87|  
 |234|Roberto |86|  
 |=|Colin |86|  

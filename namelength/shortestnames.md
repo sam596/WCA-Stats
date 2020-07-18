@@ -1,6 +1,6 @@
 ## Name Length
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -653,7 +653,6 @@
 |=|[Yi Zou (邹逸)](https://www.worldcubeassociation.org/persons/2018ZOUY03)|China|5|  
 |=|[Anmol](https://www.worldcubeassociation.org/persons/2019ANMO01)|India|5|  
 |=|[Siru A (阿斯儒)](https://www.worldcubeassociation.org/persons/2019ASIR01)|China|5|  
-|=|[Ayman](https://www.worldcubeassociation.org/persons/2019AYMA01)|Bangladesh|5|  
 |=|[Yi Cao (曹奕)](https://www.worldcubeassociation.org/persons/2019CAOY04)|China|5|  
 |=|[Yi Dai (戴翊)](https://www.worldcubeassociation.org/persons/2019DAIY03)|China|5|  
 |=|[Jia Du (杜佳)](https://www.worldcubeassociation.org/persons/2019DUJI03)|China|5|  
@@ -741,7 +740,7 @@
 |=|[Ray Hu](https://www.worldcubeassociation.org/persons/2020HURA01)|New Zealand|5|  
 |=|[Sam Li](https://www.worldcubeassociation.org/persons/2020LISA01)|USA|5|  
 |=|[Jed Ng](https://www.worldcubeassociation.org/persons/2020NGJE01)|USA|5|  
-|734|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
+|733|[Doug Li](https://www.worldcubeassociation.org/persons/2003LIDO01)|USA|6|  
 |=|[Clif Wu](https://www.worldcubeassociation.org/persons/2004WUCL01)|USA|6|  
 |=|[Eric Wu](https://www.worldcubeassociation.org/persons/2004WUER01)|USA|6|  
 |=|[Kai Zhu](https://www.worldcubeassociation.org/persons/2004ZHUK01)|USA|6|  
@@ -1008,3 +1007,4 @@
 |=|[Kai Yao (姚开)](https://www.worldcubeassociation.org/persons/2011YAOK01)|China|6|  
 |=|[Sihe Yi (易思合)](https://www.worldcubeassociation.org/persons/2011YISI01)|China|6|  
 |=|[Ye Yuan (袁野)](https://www.worldcubeassociation.org/persons/2011YUAN01)|China|6|  
+|=|[Bo Yuan (袁搏)](https://www.worldcubeassociation.org/persons/2011YUAN07)|China|6|  

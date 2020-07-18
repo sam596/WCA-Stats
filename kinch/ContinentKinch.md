@@ -1,6 +1,6 @@
 ## KinchRanks 
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -44,7 +44,7 @@
 |34|[Evan Liu](https://www.worldcubeassociation.org/persons/2009LIUE01)|USA|57.98|  
 |35|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|57.79|  
 |36|[Cale Schoon](https://www.worldcubeassociation.org/persons/2014SCHO02)|USA|57.69|  
-|37|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|57.40|  
+|37|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|57.53|  
 |38|[Daniel Sheppard](https://www.worldcubeassociation.org/persons/2009SHEP01)|United Kingdom|57.27|  
 |39|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|57.10|  
 |40|[Antoine Cantin](https://www.worldcubeassociation.org/persons/2010CANT02)|Canada|56.73|  

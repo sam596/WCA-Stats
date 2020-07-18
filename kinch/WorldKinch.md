@@ -1,6 +1,6 @@
 ## KinchRanks 
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -33,7 +33,7 @@
 |23|[Vincent Hartanto Utomo](https://www.worldcubeassociation.org/persons/2010UTOM01)|Indonesia|54.09|  
 |24|[Rasmus Stub Detlefsen](https://www.worldcubeassociation.org/persons/2014DETL01)|Denmark|53.84|  
 |25|[Daniel Rose-Levine](https://www.worldcubeassociation.org/persons/2015ROSE01)|USA|53.64|  
-|26|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|53.19|  
+|26|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|53.31|  
 |27|[Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|52.94|  
 |28|[Walker Welch](https://www.worldcubeassociation.org/persons/2011WELC01)|USA|52.73|  
 |29|[Kai-Wen Wang (王楷文)](https://www.worldcubeassociation.org/persons/2015WANG09)|Taiwan|52.61|  

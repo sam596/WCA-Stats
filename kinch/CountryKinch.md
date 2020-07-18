@@ -1,6 +1,6 @@
 ## KinchRanks 
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -81,8 +81,8 @@
 |71|[Renato Stopic](https://www.worldcubeassociation.org/persons/2014STOP01)|Bosnia and Herzegovina|69.16|  
 |72|[Nikita Loika](https://www.worldcubeassociation.org/persons/2013LOYK01)|Belarus|69.02|  
 |73|[Carlos Méndez García-Barroso](https://www.worldcubeassociation.org/persons/2010GARC02)|Spain|68.86|  
-|74|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|68.72|  
-|75|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|68.68|  
+|74|[Daniel Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA01)|Denmark|68.85|  
+|75|[Enzo Mattos](https://www.worldcubeassociation.org/persons/2015MATT05)|Brazil|68.72|  
 |76|[Artyom Martirosov](https://www.worldcubeassociation.org/persons/2016MART29)|Russia|68.49|  
 |77|[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|India|68.18|  
 |78|[Javid Nabizade](https://www.worldcubeassociation.org/persons/2015NABI01)|Azerbaijan|68.12|  

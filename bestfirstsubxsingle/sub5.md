@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Single
 
-*Last updated using WCA Developer Export from Thu Jul 09 at 0411UTC*
+*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -23,14 +23,14 @@
 |=|[Drew Brads](https://www.worldcubeassociation.org/persons/2010BRAD01)|USA|4.76|  
 |13|[Sei Sugama (洲鎌星)](https://www.worldcubeassociation.org/persons/2010SUGA01)|Japan|4.80|  
 |14|[Philipp Weyer](https://www.worldcubeassociation.org/persons/2010WEYE01)|Germany|4.81|  
-|15|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|4.83|  
-|=|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|4.83|  
+|15|[Cornelius Dieckmann](https://www.worldcubeassociation.org/persons/2009DIEC01)|Germany|4.83|  
+|=|[Sebastian Weyer](https://www.worldcubeassociation.org/persons/2010WEYE02)|Germany|4.83|  
 |17|[Myagmardorj Ulziijargal (Өлзийжаргал Мягмардорж)](https://www.worldcubeassociation.org/persons/2016OLZI01)|Mongolia|4.84|  
 |18|[Blake Thompson](https://www.worldcubeassociation.org/persons/2010THOM03)|USA|4.86|  
 |19|[Danny SungIn Park](https://www.worldcubeassociation.org/persons/2015PARK13)|Korea|4.88|  
 |20|[Antonie Paterakis](https://www.worldcubeassociation.org/persons/2012PATE01)|Greece|4.89|  
-|21|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
-|=|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
+|21|[Seung Hyuk Nahm (남승혁)](https://www.worldcubeassociation.org/persons/2013NAHM01)|Korea|4.90|  
+|=|[Lucas Etter](https://www.worldcubeassociation.org/persons/2011ETTE01)|USA|4.90|  
 |23|[Aryan Chhabra](https://www.worldcubeassociation.org/persons/2015CHHA03)|India|4.91|  
 |24|[Tanzer Balimtas](https://www.worldcubeassociation.org/persons/2013BALI01)|USA|4.93|  
 |25|[Kevin Gerhardt](https://www.worldcubeassociation.org/persons/2013GERH01)|Germany|4.94|  
