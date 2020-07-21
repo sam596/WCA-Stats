@@ -1,6 +1,6 @@
 ## Most Common First Names
 
-*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
+*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -464,11 +464,11 @@
 |=|Landon |47|  
 |=|Anish |47|  
 |=|Ashton |47|  
-|=|Bradley |47|  
 |=|Choi |47|  
-|459|Aarav |46|  
+|458|Aarav |46|  
 |=|Anirudh |46|  
 |=|Ariel |46|  
+|=|Bradley |46|  
 |=|Bùi |46|  
 |=|Sahil |46|  
 |=|Lars |46|  
@@ -937,6 +937,7 @@
 |=|Ayden |23|  
 |=|Bálint |23|  
 |=|Bastian |23|  
+|=|Brad |23|  
 |=|Brennan |23|  
 |=|Conner |23|  
 |=|Ziyue |23|  
@@ -950,7 +951,7 @@
 |=|Shaun |23|  
 |=|Suraj |23|  
 |=|Vihaan |23|  
-|943|Sidharth |22|  
+|944|Sidharth |22|  
 |=|Sri |22|  
 |=|Trey |22|  
 |=|Troy |22|  
@@ -963,7 +964,6 @@
 |=|Angela |22|  
 |=|Angus |22|  
 |=|Beatriz |22|  
-|=|Brad |22|  
 |=|Dean |22|  
 |=|Di |22|  
 |=|Haozhe |22|  

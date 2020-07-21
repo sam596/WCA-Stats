@@ -1,6 +1,6 @@
 ## Longest PR Streaks
 
-*Last updated using WCA Developer Export from Sat Jul 18 at 0510UTC*
+*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -765,8 +765,8 @@
 |=|[Zi-Xian Liao (廖子賢)](https://www.worldcubeassociation.org/persons/2012LIAO03)|24|[TaiwanSummer2012](https://www.worldcubeassociation.org/competitions/TaiwanSummer2012)|[YangzhouOpen2017](https://www.worldcubeassociation.org/competitions/YangzhouOpen2017)|  
 |756|[Abhishrut Khanna](https://www.worldcubeassociation.org/persons/2013KHAN04)|23|[DelhiSummerOpen2013](https://www.worldcubeassociation.org/competitions/DelhiSummerOpen2013)||  
 |=|[Adam Heilweil](https://www.worldcubeassociation.org/persons/2016HEIL01)|23|[RedCrossCubingOpen2016](https://www.worldcubeassociation.org/competitions/RedCrossCubingOpen2016)|[BUSpring2018](https://www.worldcubeassociation.org/competitions/BUSpring2018)|  
-|=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|23|[TemblequeOpen2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017)|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|  
 |=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|23|[MadridOpen2013](https://www.worldcubeassociation.org/competitions/MadridOpen2013)|[AchoOpen2017](https://www.worldcubeassociation.org/competitions/AchoOpen2017)|  
+|=|[Adrián Martínez Macías](https://www.worldcubeassociation.org/persons/2013MACI01)|23|[TemblequeOpen2017](https://www.worldcubeassociation.org/competitions/TemblequeOpen2017)|[IndalOpen2019](https://www.worldcubeassociation.org/competitions/IndalOpen2019)|  
 |=|[Alejandro Isaza](https://www.worldcubeassociation.org/persons/2015ISAZ01)|23|[AquarelaSpeedcubing2015](https://www.worldcubeassociation.org/competitions/AquarelaSpeedcubing2015)||  
 |=|[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|23|[MPEIOpen2017](https://www.worldcubeassociation.org/competitions/MPEIOpen2017)|[NicosiaCubers2020](https://www.worldcubeassociation.org/competitions/NicosiaCubers2020)|  
 |=|[Alexander Olleta del Molino](https://www.worldcubeassociation.org/persons/2008OLLE01)|23|[Euro2008](https://www.worldcubeassociation.org/competitions/Euro2008)|[SpanishChampionships2013](https://www.worldcubeassociation.org/competitions/SpanishChampionships2013)|  
