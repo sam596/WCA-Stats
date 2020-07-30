@@ -1,6 +1,6 @@
 ## Sum of Ranks 
 
-*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
+*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -902,7 +902,7 @@
 |892|[Zerong Zheng (郑泽荣)](https://www.worldcubeassociation.org/persons/2015ZHEN06)|China|58765|1652|  
 |893|[Ryan Przybocki](https://www.worldcubeassociation.org/persons/2013PRZY02)|USA|58780|1653|  
 |894|[Oleg Fomenkov](https://www.worldcubeassociation.org/persons/2016FOME02)|Russia|58820|1655|  
-|895|[Hitoki Kidahashi (木田桥仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02)|Japan|58953|1659|  
+|895|[Hitoki Kidahashi (木田橋仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02)|Japan|58953|1659|  
 |896|[Anael Champion](https://www.worldcubeassociation.org/persons/2017CHAM02)|France|59006|1660|  
 |897|[Oscar Paul Mamani Oscalla](https://www.worldcubeassociation.org/persons/2017OSCA02)|Peru|59029|1661|  
 |898|[Muhammad Zhafran Al-Allam](https://www.worldcubeassociation.org/persons/2011ALAL01)|Indonesia|59084|1665|  

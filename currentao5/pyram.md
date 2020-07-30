@@ -1,6 +1,6 @@
 ## Current Average of 5
 
-*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
+*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -190,7 +190,7 @@
 |180|[Iulius Urieșu](https://www.worldcubeassociation.org/persons/2017URIE03)|Romania|3.68|3.80, 2.73, 4.61, 3.88, 3.37|  
 |=|[Ryan Wu](https://www.worldcubeassociation.org/persons/2017WURY01)|Canada|3.68|3.15, DNF, 3.30, 4.15, 3.60|  
 |182|[Riley Dexter](https://www.worldcubeassociation.org/persons/2016DEXT01)|Australia|3.68|3.10, 2.13, 5.32, 6.38, 2.64|  
-|183|[Abhinav Govindaraj](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|3.69|3.30, 3.51, 6.04, 4.27, 3.14|  
+|183|[Abhinav Govindaraju](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|3.69|3.30, 3.51, 6.04, 4.27, 3.14|  
 |=|[Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01)|Poland|3.69|3.50, 4.19, 5.22, 3.05, 3.39|  
 |185|[Reed Donnelly](https://www.worldcubeassociation.org/persons/2016DONN01)|USA|3.69|3.32, 3.50, 6.64, 4.12, 3.47|  
 |186|[Markuss Pietkuns](https://www.worldcubeassociation.org/persons/2017PIET02)|Latvia|3.70|3.25, 4.21, 3.64, 5.30, 1.96|  

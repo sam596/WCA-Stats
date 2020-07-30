@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
+*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -76,7 +76,7 @@
 |66|[Astrid Lacotte](https://www.worldcubeassociation.org/persons/2018LACO02)|France|7.92|  
 |67|[Aleksandr Tsoy (Александр Цой)](https://www.worldcubeassociation.org/persons/2019TSOY03)|Kazakhstan|7.93|  
 |68|[Se-jun Ahn](https://www.worldcubeassociation.org/persons/2013AHNS01)|Korea|7.94|  
-|=|[Abhinav Govindaraj](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|7.94|  
+|=|[Abhinav Govindaraju](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|7.94|  
 |70|[Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01)|France|7.95|  
 |=|[Ariel Vacacela](https://www.worldcubeassociation.org/persons/2018VACA02)|Ecuador|7.95|  
 |72|[Nolan Blankenau](https://www.worldcubeassociation.org/persons/2014BLAN04)|USA|7.97|  

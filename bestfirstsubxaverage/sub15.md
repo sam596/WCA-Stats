@@ -1,6 +1,6 @@
 ## Best First Sub-X 3x3 Average
 
-*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
+*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -110,7 +110,7 @@
 |=|[Eyal Alfasi](https://www.worldcubeassociation.org/persons/2010ALFA03)|Israel|11.54|  
 |=|[Sutep Nopnatee (สุเทพ นภนที)](https://www.worldcubeassociation.org/persons/2010NOPN01)|Thailand|11.54|  
 |101|[Levi Oud](https://www.worldcubeassociation.org/persons/2017OUDL01)|Netherlands|11.55|  
-|102|[Hitoki Kidahashi (木田桥仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02)|Japan|11.57|  
+|102|[Hitoki Kidahashi (木田橋仁毅)](https://www.worldcubeassociation.org/persons/2016KIDA02)|Japan|11.57|  
 |=|[Nicholas Paul](https://www.worldcubeassociation.org/persons/2014PAUL06)|Australia|11.57|  
 |104|[Clément Boyer](https://www.worldcubeassociation.org/persons/2014BOYE01)|France|11.58|  
 |=|[Flavio Bocola](https://www.worldcubeassociation.org/persons/2014BOCO01)|Italy|11.58|  

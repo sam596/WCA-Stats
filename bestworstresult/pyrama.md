@@ -1,6 +1,6 @@
 ## Best Podiums
 
-*Last updated using WCA Developer Export from Tue Jul 21 at 0611UTC*
+*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -66,7 +66,7 @@
 |56|[Otgonbayar Bombish (Бомбиш Отгонбаяр)](https://www.worldcubeassociation.org/persons/2016BOMB01)|Mongolia|5.83|  
 |57|[Finn Heukelbach](https://www.worldcubeassociation.org/persons/2017HEUK01)|Germany|5.84|  
 |=|[Diego Alfonso](https://www.worldcubeassociation.org/persons/2018ALFO01)|France|5.84|  
-|59|[Abhinav Govindaraj](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|5.85|  
+|59|[Abhinav Govindaraju](https://www.worldcubeassociation.org/persons/2015GOVI03)|USA|5.85|  
 |60|[Naoto Shinagawa (品川直登)](https://www.worldcubeassociation.org/persons/2017SHIN02)|Japan|5.86|  
 |61|[Louis-Marie Ratto](https://www.worldcubeassociation.org/persons/2019RATT02)|France|5.87|  
 |62|[Byeong-Hyeon Woo](https://www.worldcubeassociation.org/persons/2013WOOB02)|Korea|5.88|  
