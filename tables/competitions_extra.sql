@@ -113,6 +113,8 @@ SELECT
 	a.announced_at announcedAt,
 	a.results_posted_at resultsPostedAt,
 	IF(DATEDIFF(a.start_date,CURDATE()) >0, 1, 0) upcoming,
+	IF(ISNULL(a.cancelled_at),0,1) cancelled,
+	a.cancelled_at,
 	IF(a.competitor_limit_enabled IS NULL, NULL, a.competitor_limit) competitorLimit,
 	g.competitors,
 	IFNULL(h.firstTimers,IF(DATEDIFF(a.start_date,CURDATE()) < 0,0,NULL)) firstTimers,
