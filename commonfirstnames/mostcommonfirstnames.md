@@ -1,6 +1,6 @@
 ## Most Common First Names
 
-*Last updated using WCA Developer Export from Thu Jul 30 at 0811UTC*
+*Last updated using WCA Developer Export from Sun Aug 02 at 0910UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -963,6 +963,7 @@
 |=|Alonso |22|  
 |=|Angela |22|  
 |=|Angus |22|  
+|=|Anonymous|22|  
 |=|Beatriz |22|  
 |=|Dean |22|  
 |=|Di |22|  
@@ -996,7 +997,7 @@
 |=|Yuxiang |22|  
 |=|Yuze |22|  
 |=|Zihang |22|  
-|989|Yehor |21|  
+|990|Yehor |21|  
 |=|Yiran |21|  
 |=|Yiwen |21|  
 |=|Yufei |21|  
@@ -1007,4 +1008,3 @@
 |=|Dương |21|  
 |=|Enrico |21|  
 |=|Eugene |21|  
-|=|Eva |21|  
