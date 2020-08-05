@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Aug 02 at 0910UTC*
+*Last updated using WCA Developer Export from Wed Aug 05 at 1016UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -252,9 +252,9 @@
 |242|[Shu-Yii Luo (駱書翊)](https://www.worldcubeassociation.org/persons/2012LUOS01)|Taiwan|9.28|8.25|  
 |243|[Dharmesh Shahu](https://www.worldcubeassociation.org/persons/2011SHAH01)|India|9.32|8.24|  
 |244|[Genesis Vertudez](https://www.worldcubeassociation.org/persons/2014VERT01)|Philippines|9.74|8.24|  
-|245|[Harald Skinnes Kryvi](https://www.worldcubeassociation.org/persons/2018KRYV02)|Norway|9.75|8.24|  
-|=|[Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01)|USA|9.75|8.23|  
-|247|[Kevin Ruiz](https://www.worldcubeassociation.org/persons/2013RUIZ02)|Venezuela|9.92|8.23|  
-|248|[Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01)|Poland|9.78|8.23|  
-|249|[Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01)|Hong Kong|9.67|8.23|  
-|250|[Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03)|United Kingdom|9.12|8.22|  
+|245|[Angelo Zhang](https://www.worldcubeassociation.org/persons/2014ZHAN01)|USA|9.75|8.23|  
+|246|[Kevin Ruiz](https://www.worldcubeassociation.org/persons/2013RUIZ02)|Venezuela|9.92|8.23|  
+|247|[Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01)|Poland|9.78|8.23|  
+|248|[Ray Leung Ka Ho (梁家浩)](https://www.worldcubeassociation.org/persons/2012HOLE01)|Hong Kong|9.67|8.23|  
+|249|[Aarin Manik](https://www.worldcubeassociation.org/persons/2017MANI03)|United Kingdom|9.12|8.22|  
+|250|[Dylan Cook](https://www.worldcubeassociation.org/persons/2012COOK01)|USA|9.92|8.22|  

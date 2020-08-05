@@ -1,6 +1,6 @@
 ## Mollerz WCA Memberships
 
-*Last updated using WCA Developer Export from Sun Aug 02 at 0910UTC*
+*Last updated using WCA Developer Export from Wed Aug 05 at 1016UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -53,6 +53,7 @@
 |[Graham Siggins](https://www.worldcubeassociation.org/persons/2016SIGG01)|Y|Y|N (3/4)|Y|Y|N (5/17)|  
 |[Shivam Bansal](https://www.worldcubeassociation.org/persons/2011BANS02)|Y|Y|N (3/4)|Y|Y|N (16/17)|  
 |[Mohammed Aiman Koli](https://www.worldcubeassociation.org/persons/2017KOLI01)|Y|Y|N (3/4)|Y|Y|N (10/17)|  
+|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Y|Y|N (3/4)|N|Y|Y|  
 |[Erik Akkersdijk](https://www.worldcubeassociation.org/persons/2005AKKE01)|Y|Y|N (2/4)|Y|Y|N (14/17)|  
 |[Simon Westlund](https://www.worldcubeassociation.org/persons/2008WEST02)|Y|Y|N (2/4)|Y|Y|N (15/17)|  
 |[Sébastien Auroux](https://www.worldcubeassociation.org/persons/2008AURO01)|Y|Y|N (2/4)|Y|Y|N (15/17)|  
@@ -98,7 +99,6 @@
 |[Wenjie Xu (徐文杰)](https://www.worldcubeassociation.org/persons/2016XUWE02)|Y|Y|Y|N|N|N (0/17)|  
 |[Manuel Gutman](https://www.worldcubeassociation.org/persons/2017GUTM01)|Y|Y|N (3/4)|Y|N|N (6/17)|  
 |[Yu Da-Hyun (유다현)](https://www.worldcubeassociation.org/persons/2008YUDA01)|Y|Y|N (3/4)|N|Y|N (6/17)|  
-|[Martin Vædele Egdal](https://www.worldcubeassociation.org/persons/2013EGDA02)|Y|Y|N (3/4)|N|Y|N (16/17)|  
 |[Harry Savage](https://www.worldcubeassociation.org/persons/2013SAVA01)|Y|Y|N (3/4)|N|Y|N (8/17)|  
 |[Helmer Ewert](https://www.worldcubeassociation.org/persons/2015EWER01)|Y|Y|N (3/4)|N|Y|N (7/17)|  
 |[Tobias Peter](https://www.worldcubeassociation.org/persons/2014PETE03)|Y|Y|N (3/4)|N|N|Y|  

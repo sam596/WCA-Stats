@@ -1,6 +1,6 @@
 ## Worst 3x3 Single with a Sub-X Average
 
-*Last updated using WCA Developer Export from Sun Aug 02 at 0910UTC*
+*Last updated using WCA Developer Export from Wed Aug 05 at 1016UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -93,7 +93,7 @@
 |83|[Nathan Wu](https://www.worldcubeassociation.org/persons/2016WUNA01)|USA|7.95|6.25|  
 |84|[Eli Parker](https://www.worldcubeassociation.org/persons/2016PARK02)|USA|7.88|6.24|  
 |85|[Alexander Bashutkin](https://www.worldcubeassociation.org/persons/2017BASH04)|Russia|7.32|6.23|  
-|86|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|7.47|6.20|  
+|86|[Knut Skaug Haraldsen](https://www.worldcubeassociation.org/persons/2016HARA02)|Norway|7.44|6.20|  
 |87|[Seung Hyun Kil (길승현)](https://www.worldcubeassociation.org/persons/2017KILS01)|Korea|7.42|6.20|  
 |88|[Fabio Schwandt](https://www.worldcubeassociation.org/persons/2014SCHW02)|United Kingdom|7.87|6.19|  
 |89|[Yinqin Li (李尹钦)](https://www.worldcubeassociation.org/persons/2011LIYI02)|China|7.90|6.19|  

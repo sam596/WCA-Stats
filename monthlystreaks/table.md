@@ -1,6 +1,6 @@
 ## Longest Streak of Months Competed in
 
-*Last updated using WCA Developer Export from Sun Aug 02 at 0910UTC*
+*Last updated using WCA Developer Export from Wed Aug 05 at 1016UTC*
 
 *The [World Cube Association](https://www.worldcubeassociation.org) is the source and owner of this information. This published information is not actual information, the actual information can be found [here](https://www.worldcubeassociation.org/results).*
 
@@ -24,7 +24,7 @@
 |=|[Michał Rzewuski](http://www.worldcubeassociation.org/persons/2014RZEW01)|Poland|37|[GLSCupFinal2016](https://www.worldcubeassociation.org/competitions/GLSCupFinal2016) (December 2016)|[CubersEve2019](http://www.worldcubeassociation.org/competitions/CubersEve2019) (December 2019)|  
 |=|[Tymon Kolasiński](http://www.worldcubeassociation.org/persons/2016KOLA02)|Poland|37|[SLSGliwice2017](https://www.worldcubeassociation.org/competitions/SLSGliwice2017) (February 2017)|[MLSWarszawa2020](http://www.worldcubeassociation.org/competitions/MLSWarszawa2020) (February 2020)|  
 |16|[Wojciech Szatanowski](http://www.worldcubeassociation.org/persons/2011SZAT01)|Poland|36|[BONDOpen2016](https://www.worldcubeassociation.org/competitions/BONDOpen2016) (February 2016)|[PSSFMCWarszawa2019](http://www.worldcubeassociation.org/competitions/PSSFMCWarszawa2019) (January 2019)|  
-|=|[Reto Bubendorf](http://www.worldcubeassociation.org/persons/2012BUBE01)|Finland|36|[BelfortOpen2016](https://www.worldcubeassociation.org/competitions/BelfortOpen2016) (July 2016)|[SwedishChampionship2019](http://www.worldcubeassociation.org/competitions/SwedishChampionship2019) (June 2019)|  
+|=|[Reto Bubendorf](http://www.worldcubeassociation.org/persons/2012BUBE01)|Finland|36|[BelfortOpen2016](https://www.worldcubeassociation.org/competitions/BelfortOpen2016) (July 2016)|[SwissNationals2019](http://www.worldcubeassociation.org/competitions/SwissNationals2019) (June 2019)|  
 |=|[Tobias Peter](http://www.worldcubeassociation.org/persons/2014PETE03)|Switzerland|36|[BelfortOpen2016](https://www.worldcubeassociation.org/competitions/BelfortOpen2016) (July 2016)|[ViennaCubeDay2019](http://www.worldcubeassociation.org/competitions/ViennaCubeDay2019) (June 2019)|  
 |=|[Iuri Grangeiro Carvalho](http://www.worldcubeassociation.org/persons/2015CARV06)|Brazil|36|[OrangeTech2017](https://www.worldcubeassociation.org/competitions/OrangeTech2017) (March 2017)|[DesafioBrasileirodeVerao2020](http://www.worldcubeassociation.org/competitions/DesafioBrasileirodeVerao2020) (February 2020)|  
 |20|[Ronan Felipe Jorge](http://www.worldcubeassociation.org/persons/2009JORG02)|Brazil|35|[LorenaOpen2017](https://www.worldcubeassociation.org/competitions/LorenaOpen2017) (February 2017)|[CampeonatoBrasileiro2019](http://www.worldcubeassociation.org/competitions/CampeonatoBrasileiro2019) (December 2019)|  
