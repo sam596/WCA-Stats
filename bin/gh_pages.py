@@ -44,10 +44,10 @@ def create_query_table(cur):
         for value in row:
             if value == "personId":
                 this_row["URL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
-            elif value == "rank":
+            elif value == "Rank":
                 if last_rank != None:
                     if row[value] == last_rank:
-                        this_row["rank"] = "="
+                        this_row["Rank"] = "="
                 last_rank = row[value]
         table.append(this_row)
 
