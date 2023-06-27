@@ -1,12 +1,12 @@
 import db_init, connection
 
 from import_new_db import cur
-import os
+import os, ast
 
 ghpages_dir = "queries/gh-pages"
 
 def parse_sql_metadata(file):
-    title = description = summary = valrange = valfiles = ""
+    title = description = summary = valrange = valfiles = headers = ""
     for line in file:
             if line.startswith("##"):
                 line = line.replace("##","")
@@ -20,7 +20,9 @@ def parse_sql_metadata(file):
                     valrange = line.replace("valrange","").strip()
                 elif line.startswith("valfiles"):
                     valfiles = line.replace("valfiles","").strip()
-    return title, description, summary, valrange, valfiles
+                elif line.startswith("headers"):
+                    headers = line.replace("headers","").strip()
+    return title, description, summary, valrange, valfiles, headers
 
 def create_query_table(cur):
     rows = cur.fetchall()
@@ -77,7 +79,7 @@ for file in os.listdir(ghpages_dir):
     file_path = os.path.join(ghpages_dir, file)
     
     with open(file_path, "r") as f:
-        title, description, summary, valrange, valfiles = parse_sql_metadata(f)
+        title, description, summary, valrange, valfiles, headers = parse_sql_metadata(f)
 
         if valrange == '':
             pass
@@ -88,7 +90,6 @@ for file in os.listdir(ghpages_dir):
                 query = f.read().format(X=x, best=x_centi)
                 cur.execute(query)
 
-                headers = ["Rank", "Person", "Country", "Average", "Single"]
                 table = create_query_table(cur)
                 
                 html_table = generate_html_table(table, headers)
@@ -99,6 +100,9 @@ for file in os.listdir(ghpages_dir):
 
                 with open("docs/template.html", "r") as f_template:
                     template = f_template.read()
+
+                if '{X}' in title:
+                    title = title.format(X=x)
 
                 template = template.replace("<!-- title -->",title)
                 template = template.replace("<!-- summary -->",summary)
