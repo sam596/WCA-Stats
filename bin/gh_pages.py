@@ -17,11 +17,11 @@ def parse_sql_metadata(file):
                 elif line.startswith("summary"):
                     summary = line.replace("summary","").strip()
                 elif line.startswith("valrange"):
-                    valrange = line.replace("valrange","").strip()
+                    valrange = eval(line.replace("valrange","").strip())
                 elif line.startswith("valfiles"):
                     valfiles = line.replace("valfiles","").strip()
                 elif line.startswith("headers"):
-                    headers = line.replace("headers","").strip()
+                    headers = eval(line.replace("headers","").strip())
     return title, description, summary, valrange, valfiles, headers
 
 def create_query_table(cur):
@@ -84,16 +84,15 @@ for file in os.listdir(ghpages_dir):
         if valrange == '':
             pass
         else:
-            for x in eval(valrange):
+            for x in valrange:
                 x_centi = x * 100
                 f.seek(0)
                 query = f.read().format(X=x, best=x_centi)
                 cur.execute(query)
 
                 table = create_query_table(cur)
-                
                 html_table = generate_html_table(table, headers)
-                
+
                 this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=x))
 
                 os.makedirs(os.path.dirname(this_file), exist_ok=True)
