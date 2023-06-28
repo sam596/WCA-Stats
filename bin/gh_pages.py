@@ -84,26 +84,28 @@ for file in os.listdir(ghpages_dir):
         if valrange == '':
             pass
         else:
-            for x in valrange:
-                x_centi = x * 100
+            for val in valrange:
+                if '{X}' in title:
+                    this_title = title.format(X=val)
+                else:
+                    this_title = title
+                print(this_title)
+                val_centi = val * 100
                 f.seek(0)
-                query = f.read().format(X=x, best=x_centi)
+                query = f.read().format(X=val, best=val_centi)
                 cur.execute(query)
 
                 table = create_query_table(cur)
                 html_table = generate_html_table(table, headers)
 
-                this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=x))
+                this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=val))
 
                 os.makedirs(os.path.dirname(this_file), exist_ok=True)
 
                 with open("docs/template.html", "r") as f_template:
                     template = f_template.read()
 
-                if '{X}' in title:
-                    title = title.format(X=x)
-
-                template = template.replace("<!-- title -->",title)
+                template = template.replace("<!-- title -->",this_title)
                 template = template.replace("<!-- summary -->",summary)
                 template = template.replace("<!-- description -->",description)
                 template = template.replace("<!-- table -->",html_table)
