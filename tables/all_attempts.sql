@@ -1,50 +1,326 @@
-INSERT INTO wca_stats.last_updated VALUES ('all_attempts', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
-
 DROP TABLE IF EXISTS all_attempts;
-CREATE TABLE all_attempts
-(id INT NOT NULL AUTO_INCREMENT, 
-PRIMARY KEY(id), 
-KEY asr_personcompevent (personId,competitionId,eventId,roundTypeId),
-KEY asr_event (eventId),
-KEY asr_round (competitionId,eventId,roundTypeId),
-KEY asr_round2 (roundTypeId),
-KEY asr_eventval (eventId,value))
-  SELECT * FROM
-  (
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 1 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value1 value FROM results_extra WHERE value1 NOT IN (0,-2)
-    UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 2 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value2 value FROM results_extra WHERE value2 NOT IN (0,-2)
-    UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 3 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value3 value FROM results_extra WHERE value3 NOT IN (0,-2)
-    UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 4 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value4 value FROM results_extra WHERE value4 NOT IN (0,-2)
-    UNION ALL
-    SELECT competitionId, compCountryId, compContinentId, date, weekend, weeksago, eventId, roundTypeId, 5 solve, 0 solveRank, formatId, pos, personId, personName, personCountryId, personContinentId, value5 value FROM results_extra WHERE value5 NOT IN (0,-2)
-  ) a
-  ORDER BY 
-    date, 
+CREATE TABLE all_attempts (
+    resultId INT,
+    competitionId VARCHAR(32),
+    eventId VARCHAR(6),
+    roundTypeId CHAR(1),
+    formatId CHAR(1),
+    personId VARCHAR(10),
+    personName VARCHAR(80),
+    personCountryId VARCHAR(50),
+    personContinentId VARCHAR(24),
+    result INT,
+    solve SMALLINT,
+    compVenue VARCHAR(240),
+    compCityName VARCHAR(50),
+    compCountryId VARCHAR(50),
+    compContinentId VARCHAR(24),
+    compStartDate DATE,
+    compEndDate DATE,
+    compWeekend DATE,
+    compWeeksAgo INT,
+    rtRank INT
+);
+
+CREATE INDEX idx_results_extra_value1 ON results_extra (value1);
+CREATE INDEX idx_results_extra_value2 ON results_extra (value2);
+CREATE INDEX idx_results_extra_value3 ON results_extra (value3);
+CREATE INDEX idx_results_extra_value4 ON results_extra (value4);
+CREATE INDEX idx_results_extra_value5 ON results_extra (value5);
+CREATE INDEX idx_results_extra_roundTypeId ON results_extra (roundTypeId);
+CREATE INDEX idx_results_extra_pos ON results_extra (pos);
+
+INSERT INTO all_attempts (
+    resultId,
     competitionId,
-    eventId, 
-    (SELECT rank FROM wca_dev.roundtypes b WHERE id = a.roundTypeId), 
+    eventId,
+    roundTypeId,
+    rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    result,
     solve,
-    pos
-;
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+)
+SELECT
+    re.id,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rt.rank rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    value1,
+    1,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+FROM
+    results_extra re
+JOIN
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+WHERE
+    value1 NOT IN (0,-2)
+ORDER BY
+    compEndDate ASC,
+    competitionId ASC,
+    eventId ASC,
+    rt.rank ASC,
+    pos ASC;
 
-# ~ 26 mins
+INSERT INTO all_attempts (
+    resultId,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    result,
+    solve,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+)
+SELECT
+    re.id,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rt.rank rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    value2,
+    2,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+FROM
+    results_extra re
+JOIN
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+WHERE
+    value1 NOT IN (0,-2)
+ORDER BY
+    compEndDate ASC,
+    competitionId ASC,
+    eventId ASC,
+    rt.rank ASC,
+    pos ASC;
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'all_attempts';
+INSERT INTO all_attempts (
+    resultId,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    result,
+    solve,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+)
+SELECT
+    re.id,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rt.rank rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    value3,
+    3,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+FROM
+    results_extra re
+JOIN
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+WHERE
+    value1 NOT IN (0,-2)
+ORDER BY
+    compEndDate ASC,
+    competitionId ASC,
+    eventId ASC,
+    rt.rank ASC,
+    pos ASC;
 
-SET @curr = NULL, @rank = 1, @con = NULL, @prev = NULL, @n = 1;
-UPDATE wca_stats.all_attempts aa JOIN
-(
-  SELECT id, personId, competitionId, eventId, roundTypeId,
-    @curr := IF(value <= 0, 9999999999999999, value) curr,
-    @rank := IF(@con = CONCAT(personId, " - ", competitionId, " - ", eventId, " - ", roundTypeId), @rank + 1, 1) rank,
-    @prev := IF(value <= 0, 9999999999999999, value),
-    @con := CONCAT(personId, " - ", competitionId, " - ", eventId, " - ", roundTypeId)
-  FROM all_attempts
-  ORDER BY personId, competitionId, eventId, roundTypeId, IF(value <= 0, 9999999999999999, value) ASC) rank
-ON aa.id = rank.id
-SET aa.solveRank = rank.rank;
+INSERT INTO all_attempts (
+    resultId,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    result,
+    solve,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+)
+SELECT
+    re.id,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rt.rank rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    value4,
+    4,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+FROM
+    results_extra re
+JOIN
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+WHERE
+    value1 NOT IN (0,-2)
+ORDER BY
+    compEndDate ASC,
+    competitionId ASC,
+    eventId ASC,
+    rt.rank ASC,
+    pos ASC;
 
-# 40-45 mins
+INSERT INTO all_attempts (
+    resultId,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    result,
+    solve,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+)
+SELECT
+    re.id,
+    competitionId,
+    eventId,
+    roundTypeId,
+    rt.rank rtRank,
+    formatId,
+    personId,
+    personName,
+    personCountryId,
+    personContinentId,
+    value5,
+    5,
+    compVenue,
+    compCityName,
+    compCountryId,
+    compContinentId,
+    compStartDate,
+    compEndDate,
+    compWeekend,
+    compWeeksAgo
+FROM
+    results_extra re
+JOIN
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+WHERE
+    value1 NOT IN (0,-2)
+ORDER BY
+    compEndDate ASC,
+    competitionId ASC,
+    eventId ASC,
+    rt.rank ASC,
+    pos ASC;
+
+ALTER TABLE all_attempts
+    ORDER BY
+        compEndDate ASC,
+        competitionId ASC,
+        eventId ASC,
+        rtRank ASC,
+        personId ASC,
+        solve ASC;
+
+ALTER TABLE all_attempts 
+    ADD id INT PRIMARY KEY AUTO_INCREMENT FIRST;
+
+ALTER TABLE all_attempts
+    DROP rtRank;

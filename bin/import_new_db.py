@@ -30,11 +30,11 @@ def execute_sql(sql, multi=True):
     except Exception as e:
         # Handle any other exceptions that may occur
         print(f'Exception occurred: {e}')
+        return cur
 
 
 def is_end_of_query(line):
     return line.strip().endswith(';')
-
 
 def check_for_new_version(db_name, url, force_update):
     if force_update:
@@ -50,7 +50,6 @@ def check_for_new_version(db_name, url, force_update):
 
 
 def download_and_extract_db(file, extractfolder, url, db_name):
-    print(f'Downloading to {file}, then extracting to {extractfolder}')
     download_db(url)
     print(f'Ready to import ' + db_name)
 
@@ -101,7 +100,7 @@ def import_database(db_name, extractfile):
 
             if line:
                 query += line
-                if is_end_of_query(line):
+                if is_end_of_query(line,';'):
                     execute_sql(query)
                     query = ""
 

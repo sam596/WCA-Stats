@@ -1,26 +1,42 @@
+CREATE INDEX idx_results_extra_person_competition_event_round ON results_extra (personId, competitionId, eventId, roundTypeId);
+CREATE INDEX idx_results_extra_competition_event_round ON results_extra (competitionId, eventId, roundTypeId);
+CREATE INDEX idx_results_extra_pos ON results_extra (pos);
+
 DROP TABLE IF EXISTS tmp_roundTypeReverseRank;
 CREATE TEMPORARY TABLE tmp_roundTypeReverseRank (
-competitionId VARCHAR(32),
-eventId VARCHAR(6),
-roundTypeId CHAR(1),
-rtRank INT,
-reverseRank INT,
-INDEX idx_comp_event_round (competitionId, eventId, roundTypeId),
-INDEX idx_round_rank (roundTypeId, rtRank),
-INDEX idx_reverse_rank (competitionId, eventId, reverseRank)
+    competitionId VARCHAR(32),
+    eventId VARCHAR(6),
+    roundTypeId CHAR(1),
+    rtRank INT,
+    reverseRank INT,
+    INDEX idx_comp_event_round (competitionId, eventId, roundTypeId),
+    INDEX idx_round_rank (roundTypeId, rtRank),
+    INDEX idx_reverse_rank (competitionId, eventId, reverseRank)
 )
 SELECT
-competitionId,
-eventId,
-roundTypeId,
-MAX(roundTypeRank) rtRank,
-ROW_NUMBER() OVER (PARTITION BY competitionId, eventId ORDER BY MAX(roundTypeRank) DESC) reverseRank
+    t.competitionId,
+    t.eventId,
+    t.roundTypeId,
+    t.rtRank,
+    ROW_NUMBER() OVER (PARTITION BY t.competitionId, t.eventId ORDER BY t.rtRank DESC) AS reverseRank
 FROM
-results_extra
-GROUP BY
-competitionId,
-eventId,
-roundTypeId;
+    (
+        SELECT
+            re.competitionId,
+            re.eventId,
+            re.roundTypeId,
+            MAX(rt.rank) AS rtRank
+        FROM
+            results_extra re
+        JOIN
+            wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+        GROUP BY
+            re.competitionId,
+            re.eventId,
+            re.roundTypeId
+    ) AS t;
+
+CREATE INDEX idx_tmp_roundTypeReverseRank_competition_event_round_reverse ON tmp_roundTypeReverseRank (competitionId, eventId, roundTypeId, reverseRank);
 
 CREATE TEMPORARY TABLE tmp_finalMissers (id INT, INDEX idx_id (id))
 SELECT b.id

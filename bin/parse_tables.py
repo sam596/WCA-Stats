@@ -4,9 +4,12 @@ tables = [
     'results_extra',
     'podium_sums',
     'final_missers',
-    'all_attempts'
-    #'sum_of_ranks',
-    #'kinch',
+    'all_attempts',
+    'average_sor',
+    'single_sor',
+    'all_ranks_and_sor',
+    'records',
+    'kinch'
     #'uowc',
     #'records',
     #'championship_podiums',

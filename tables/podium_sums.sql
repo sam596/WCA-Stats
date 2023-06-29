@@ -1,3 +1,5 @@
+CREATE INDEX idx_podiums ON wca_stats.results_extra (roundTypeId, pos);
+
 DROP TABLE IF EXISTS podium_sums;
 
 CREATE TABLE podium_sums (
@@ -40,12 +42,12 @@ FROM
         eventId, 
         pos, 
         personId, 
-        (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) result,
+        (CASE WHEN formatId REGEXP '[0-9]' THEN best ELSE average END) result,
         compCountryId,
         compContinentId,
         personCountryId
     FROM results_extra
-    WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0
+    WHERE (CASE WHEN formatId REGEXP '[0-9]' THEN best ELSE average END) > 0
         AND roundTypeId IN ('c', 'f')
         AND pos <= 3
         AND best > 0

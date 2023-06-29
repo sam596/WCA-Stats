@@ -3,3 +3,4 @@ bin/.connectors.cnf
 bin/__pycache__/
 .vscode/
 downloads/*
+git-filter-repo

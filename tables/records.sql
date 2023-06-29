@@ -1,45 +1,132 @@
-INSERT INTO wca_stats.last_updated VALUES ('records', NOW(), NULL, '') ON DUPLICATE KEY UPDATE started=NOW(), completed = NULL;
--- entire file pretty self explanatory
-DROP TABLE IF EXISTS National_Records;
-CREATE TABLE National_Records
-(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id))
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 's' format, best 'result', regionalSingleRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalSingleRecord != ''
-UNION ALL
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 'a' format, average 'result', regionalAverageRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalAverageRecord != ''
-ORDER BY personCountryId, eventId, format DESC, date ASC;
+DROP TABLE IF EXISTS current_nrs;
+DROP TABLE IF EXISTS current_crs;
+DROP TABLE IF EXISTS current_wrs;
 
-# <10 secs
+CREATE TABLE current_nrs (
+    personId VARCHAR(10),
+    personName VARCHAR(80),
+    countryId VARCHAR(50),
+    continentId VARCHAR(24),
+    eventId VARCHAR(6),
+    format CHAR(1),
+    result INT,
+    worldRank INT,
+    continentRank INT,
+    competitionId VARCHAR(32),
+    roundTypeId CHAR(1),
+    compEndDate DATE
+);
 
-DROP TABLE IF EXISTS Continent_Records;
-CREATE TABLE Continent_Records
-(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id))
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 's' format, best 'result', regionalSingleRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalSingleRecord NOT IN ('','NR')
-UNION ALL
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 'a' format, average 'result', regionalAverageRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalAverageRecord NOT IN ('','NR')
-ORDER BY personContinentId, eventId, format DESC, date ASC;
+INSERT INTO current_nrs (
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    worldRank,
+    continentRank,
+    competitionId,
+    roundTypeId,
+    compEndDate
+)
+SELECT 
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    worldRank,
+    continentRank,
+    competitionId,
+    roundTypeId,
+    compEndDate
+FROM ranks_all 
+WHERE countryRank = 1 
+    AND succeeded;
 
-# <10 secs
+CREATE TABLE current_crs (
+    personId VARCHAR(10),
+    personName VARCHAR(80),
+    countryId VARCHAR(50),
+    continentId VARCHAR(24),
+    eventId VARCHAR(6),
+    format CHAR(1),
+    result INT,
+    worldRank INT,
+    competitionId VARCHAR(32),
+    roundTypeId CHAR(1),
+    compEndDate DATE
+);
 
-DROP TABLE IF EXISTS World_Records;
-CREATE TABLE World_Records
-(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY (id))
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 's' format, best 'result', regionalSingleRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalSingleRecord = 'WR'
-UNION ALL
-SELECT competitionId, date, personId, personName, personCountryId, personContinentId, eventId, 'a' format, average 'result', regionalAverageRecord 'record'
-	FROM wca_stats.results_extra
-	WHERE regionalAverageRecord = 'WR'
-ORDER BY eventId, format DESC, date ASC;
+INSERT INTO current_crs (
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    worldRank,
+    competitionId,
+    roundTypeId,
+    compEndDate
+)
+SELECT 
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    worldRank,
+    competitionId,
+    roundTypeId,
+    compEndDate
+FROM ranks_all 
+WHERE continentRank = 1 
+    AND succeeded;
 
-# <10 secs
+CREATE TABLE current_wrs (
+    personId VARCHAR(10),
+    personName VARCHAR(80),
+    countryId VARCHAR(50),
+    continentId VARCHAR(24),
+    eventId VARCHAR(6),
+    format CHAR(1),
+    result INT,
+    competitionId VARCHAR(32),
+    roundTypeId CHAR(1),
+    compEndDate DATE
+);
 
-UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'records';
+INSERT INTO current_wrs (
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    competitionId,
+    roundTypeId,
+    compEndDate
+)
+SELECT 
+    personId,
+    personName,
+    countryId,
+    continentId,
+    eventId,
+    format,
+    result,
+    competitionId,
+    roundTypeId,
+    compEndDate
+FROM ranks_all 
+WHERE worldRank = 1 
+    AND succeeded;
