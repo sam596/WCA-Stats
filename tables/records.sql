@@ -15,7 +15,7 @@ CREATE TABLE current_nrs (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO current_nrs (
     personId,
@@ -60,7 +60,7 @@ CREATE TABLE current_crs (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO current_crs (
     personId,
@@ -102,7 +102,7 @@ CREATE TABLE current_wrs (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO current_wrs (
     personId,

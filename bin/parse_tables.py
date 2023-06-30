@@ -1,25 +1,25 @@
 import time
 
 tables = [
-    'results_extra',
-    'podium_sums',
-    'final_missers',
-    'all_attempts',
-    'average_sor',
-    'single_sor',
-    'all_ranks_and_sor',
-    'records',
-    'kinch'
-    #'uowc',
+    #'results_extra',
+    #'podium_sums',
+    #'final_missers',
+    #'all_attempts'
+    #'average_sor',
+    #'single_sor',
+    #'all_ranks_and_sor',
     #'records',
+    #'kinch',
+    #'uowc',
+    #'uoukc'
     #'championship_podiums',
     #'concise_results',
-    #'prs',
-    #'pr_streak',
-    #'mbld_decoded',
-    #'relays',
-    #'registrations_extra',
-    #'persons_extra',
+    #'prs'
+    #'pr_streak'
+    #'mbld_decoded'
+    #'relays'
+    #'registrations_extra'
+    'persons_extra'
     #'competitions_extra',
     #'person_comps_extra',
     #'seasons',
@@ -46,10 +46,10 @@ for table in tables:
                     query = ""
         for x in query_list:
             x = ' '.join(x.split())
-            try:
-                print(x[:64] + "...")
-            except KeyError:
+            if len(x) <= 128:
                 print(x)
+            else:
+                print(x[:125] + "...")
             execute_sql(x, False)
     end = time.time()
     total_time = end - start

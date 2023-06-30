@@ -1,6 +1,6 @@
 CREATE INDEX idx_persons_country_subid ON wca_dev.persons (countryId, subid);
 CREATE INDEX idx_ranksAverage_personId_eventId ON wca_dev.ranksAverage (personId, eventId);
-CREATE INDEX idx_events_rank_id ON wca_dev.events (rank, id);
+CREATE INDEX idx_events_rank_id ON wca_dev.events (`rank`, id);
 CREATE INDEX idx_countries_id ON wca_dev.countries (id);
 CREATE INDEX idx_ranksaverage_personId_eventId_best ON wca_dev.ranksaverage (personId, eventId, best);
 CREATE INDEX idx_results_extra_average_personId_eventId ON wca_stats.results_extra (average, personId, eventId);
@@ -63,7 +63,7 @@ CREATE TABLE average_ranks (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO average_ranks (
     personId,
@@ -99,16 +99,16 @@ SELECT
 FROM
     wca_stats.personEventsAverage b
 LEFT JOIN
-    wca_dev.ranksaverage a ON a.personId COLLATE utf8mb4_unicode_ci = b.id COLLATE utf8mb4_unicode_ci AND a.eventId COLLATE utf8mb4_unicode_ci = b.eventId COLLATE utf8mb4_unicode_ci
+    wca_dev.ranksaverage a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
-    wca_stats.results_extra c ON c.average COLLATE utf8mb4_unicode_ci = a.best COLLATE utf8mb4_unicode_ci AND c.personId COLLATE utf8mb4_unicode_ci = a.personId COLLATE utf8mb4_unicode_ci AND c.eventId COLLATE utf8mb4_unicode_ci = a.eventId COLLATE utf8mb4_unicode_ci
+    wca_stats.results_extra c ON c.average COLLATE utf8mb4_0900_ai_ci = a.best COLLATE utf8mb4_0900_ai_ci AND c.personId COLLATE utf8mb4_0900_ai_ci = a.personId COLLATE utf8mb4_0900_ai_ci AND c.eventId COLLATE utf8mb4_0900_ai_ci = a.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
-    wca_stats.countryEventsAverage d ON b.countryId COLLATE utf8mb4_unicode_ci = d.countryId COLLATE utf8mb4_unicode_ci AND b.eventId COLLATE utf8mb4_unicode_ci = d.eventId COLLATE utf8mb4_unicode_ci
+    wca_stats.countryEventsAverage d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci
 ;
 
-CREATE INDEX idx_worldSor ON average_ranks (worldSor);
-CREATE INDEX idx_continentId_continentSor ON average_ranks (continentId, continentSor);
-CREATE INDEX idx_countryId_countrySor ON average_ranks (countryId, countrySor);
+CREATE INDEX idx_worldRank ON average_ranks (worldRank);
+CREATE INDEX idx_continentId_continentRank ON average_ranks (continentId, continentRank);
+CREATE INDEX idx_countryId_countryRank ON average_ranks (countryId, countryRank);
 CREATE INDEX idx_subquery_covering ON average_ranks (personId, personName, countryId, continentId, worldRank, continentRank, countryRank);
 
 DROP TABLE IF EXISTS SoR_average;
@@ -124,7 +124,7 @@ CREATE TABLE SoR_average (
     countrySor INT,
     countryRank INT,
     PRIMARY KEY (personId)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO SoR_average (
     personId,

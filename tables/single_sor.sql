@@ -1,7 +1,5 @@
-CREATE INDEX idx_persons_country_subid ON wca_dev.persons (countryId, subid);
+
 CREATE INDEX idx_rankssingle_personId_eventId ON wca_dev.ranksSingle (personId, eventId);
-CREATE INDEX idx_events_rank_id ON wca_dev.events (rank, id);
-CREATE INDEX idx_countries_id ON wca_dev.countries (id);
 CREATE INDEX idx_rankssingle_personId_eventId_best ON wca_dev.ranksSingle (personId, eventId, best);
 CREATE INDEX idx_results_extra_best_personId_eventId ON wca_stats.results_extra (best, personId, eventId);
 DROP TABLE IF EXISTS countryEventsSingle;
@@ -63,7 +61,8 @@ CREATE TABLE single_ranks (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
 
 INSERT INTO single_ranks (
     personId,
@@ -99,16 +98,16 @@ SELECT
 FROM
     wca_stats.personEventssingle b
 LEFT JOIN
-    wca_dev.rankssingle a ON a.personId COLLATE utf8mb4_unicode_ci = b.id COLLATE utf8mb4_unicode_ci AND a.eventId COLLATE utf8mb4_unicode_ci = b.eventId COLLATE utf8mb4_unicode_ci
+    wca_dev.rankssingle a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
-    wca_stats.results_extra c ON c.best COLLATE utf8mb4_unicode_ci = a.best COLLATE utf8mb4_unicode_ci AND c.personId COLLATE utf8mb4_unicode_ci = a.personId COLLATE utf8mb4_unicode_ci AND c.eventId COLLATE utf8mb4_unicode_ci = a.eventId COLLATE utf8mb4_unicode_ci
+    wca_stats.results_extra c ON c.best COLLATE utf8mb4_0900_ai_ci = a.best COLLATE utf8mb4_0900_ai_ci AND c.personId COLLATE utf8mb4_0900_ai_ci = a.personId COLLATE utf8mb4_0900_ai_ci AND c.eventId COLLATE utf8mb4_0900_ai_ci = a.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
-    wca_stats.countryEventssingle d ON b.countryId COLLATE utf8mb4_unicode_ci = d.countryId COLLATE utf8mb4_unicode_ci AND b.eventId COLLATE utf8mb4_unicode_ci = d.eventId COLLATE utf8mb4_unicode_ci
+    wca_stats.countryEventssingle d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci
 ;
 
-CREATE INDEX idx_worldSor ON single_ranks (worldSor);
-CREATE INDEX idx_continentId_continentSor ON single_ranks (continentId, continentSor);
-CREATE INDEX idx_countryId_countrySor ON single_ranks (countryId, countrySor);
+CREATE INDEX idx_worldRank ON single_ranks (worldEank);
+CREATE INDEX idx_continentId_continentRank ON single_ranks (continentId, continentRank);
+CREATE INDEX idx_countryId_countryRank ON single_ranks (countryId, countryRank);
 CREATE INDEX idx_subquery_covering ON single_ranks (personId, personName, countryId, continentId, worldRank, continentRank, countryRank);
 
 DROP TABLE IF EXISTS SoR_single;
@@ -124,7 +123,8 @@ CREATE TABLE SoR_single (
     countrySor INT,
     countryRank INT,
     PRIMARY KEY (personId)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
 
 INSERT INTO SoR_single (
     personId,

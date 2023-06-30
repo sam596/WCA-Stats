@@ -12,7 +12,7 @@ CREATE TEMPORARY TABLE tmp_roundTypeReverseRank (
     INDEX idx_comp_event_round (competitionId, eventId, roundTypeId),
     INDEX idx_round_rank (roundTypeId, rtRank),
     INDEX idx_reverse_rank (competitionId, eventId, reverseRank)
-)
+) 
 SELECT
     t.competitionId,
     t.eventId,
@@ -29,7 +29,7 @@ FROM
         FROM
             results_extra re
         JOIN
-            wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+            wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
         GROUP BY
             re.competitionId,
             re.eventId,

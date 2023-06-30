@@ -9,6 +9,7 @@ CREATE TABLE all_attempts (
     personName VARCHAR(80),
     personCountryId VARCHAR(50),
     personContinentId VARCHAR(24),
+    pos SMALLINT,
     result INT,
     solve SMALLINT,
     compVenue VARCHAR(240),
@@ -20,7 +21,7 @@ CREATE TABLE all_attempts (
     compWeekend DATE,
     compWeeksAgo INT,
     rtRank INT
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 CREATE INDEX idx_results_extra_value1 ON results_extra (value1);
 CREATE INDEX idx_results_extra_value2 ON results_extra (value2);
@@ -28,7 +29,6 @@ CREATE INDEX idx_results_extra_value3 ON results_extra (value3);
 CREATE INDEX idx_results_extra_value4 ON results_extra (value4);
 CREATE INDEX idx_results_extra_value5 ON results_extra (value5);
 CREATE INDEX idx_results_extra_roundTypeId ON results_extra (roundTypeId);
-CREATE INDEX idx_results_extra_pos ON results_extra (pos);
 
 INSERT INTO all_attempts (
     resultId,
@@ -41,6 +41,7 @@ INSERT INTO all_attempts (
     personName,
     personCountryId,
     personContinentId,
+    pos,
     result,
     solve,
     compVenue,
@@ -63,6 +64,7 @@ SELECT
     personName,
     personCountryId,
     personContinentId,
+    pos,
     value1,
     1,
     compVenue,
@@ -76,7 +78,7 @@ SELECT
 FROM
     results_extra re
 JOIN
-    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
 WHERE
     value1 NOT IN (0,-2)
 ORDER BY
@@ -97,6 +99,7 @@ INSERT INTO all_attempts (
     personName,
     personCountryId,
     personContinentId,
+    pos,
     result,
     solve,
     compVenue,
@@ -119,6 +122,7 @@ SELECT
     personName,
     personCountryId,
     personContinentId,
+    pos,
     value2,
     2,
     compVenue,
@@ -132,7 +136,7 @@ SELECT
 FROM
     results_extra re
 JOIN
-    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
 WHERE
     value1 NOT IN (0,-2)
 ORDER BY
@@ -153,6 +157,7 @@ INSERT INTO all_attempts (
     personName,
     personCountryId,
     personContinentId,
+    pos,
     result,
     solve,
     compVenue,
@@ -175,6 +180,7 @@ SELECT
     personName,
     personCountryId,
     personContinentId,
+    pos,
     value3,
     3,
     compVenue,
@@ -188,7 +194,7 @@ SELECT
 FROM
     results_extra re
 JOIN
-    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
 WHERE
     value1 NOT IN (0,-2)
 ORDER BY
@@ -209,6 +215,7 @@ INSERT INTO all_attempts (
     personName,
     personCountryId,
     personContinentId,
+    pos,
     result,
     solve,
     compVenue,
@@ -231,6 +238,7 @@ SELECT
     personName,
     personCountryId,
     personContinentId,
+    pos,
     value4,
     4,
     compVenue,
@@ -244,7 +252,7 @@ SELECT
 FROM
     results_extra re
 JOIN
-    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
 WHERE
     value1 NOT IN (0,-2)
 ORDER BY
@@ -265,6 +273,7 @@ INSERT INTO all_attempts (
     personName,
     personCountryId,
     personContinentId,
+    pos,
     result,
     solve,
     compVenue,
@@ -287,6 +296,7 @@ SELECT
     personName,
     personCountryId,
     personContinentId,
+    pos,
     value5,
     5,
     compVenue,
@@ -300,7 +310,7 @@ SELECT
 FROM
     results_extra re
 JOIN
-    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_unicode_ci = rt.id COLLATE utf8mb4_unicode_ci
+    wca_dev.roundTypes rt ON re.roundTypeId COLLATE utf8mb4_0900_ai_ci = rt.id COLLATE utf8mb4_0900_ai_ci
 WHERE
     value1 NOT IN (0,-2)
 ORDER BY

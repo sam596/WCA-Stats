@@ -56,7 +56,7 @@ def create_query_table(cur):
 def generate_html_table(table, headers):
     html_table = "<table>\n"
     html_table += "<tr>\n"
-
+    print(headers)
     for header in headers:
         html_table += "<th>{}</th>\n".format(header)
     html_table += "</tr>\n"
@@ -87,19 +87,36 @@ for file in os.listdir(ghpages_dir):
             for val in valrange:
                 if '{X}' in title:
                     this_title = title.format(X=val)
+                    print(this_title)
+                    val_centi = val * 100
+                    f.seek(0)
+                    query = f.read().format(X=val, best=val_centi)
+                    cur.execute(query)
+
+                    table = create_query_table(cur)
+                    html_table = generate_html_table(table, headers)
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=val))
+                elif '{tier}' in title:
+                    this_title = title.format(tier=val)
+                    print(this_title)
+                    f.seek(0)
+                    query = f.read().format(tier=val)
+                    cur.execute(query)
+
+                    table = create_query_table(cur)
+                    html_table = generate_html_table(table, headers)
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(tier=val))
                 else:
                     this_title = title
-                print(this_title)
-                val_centi = val * 100
-                f.seek(0)
-                query = f.read().format(X=val, best=val_centi)
-                cur.execute(query)
+                    print(this_title)
+                    f.seek(0)
+                    query = f.read().format(tier=val)
+                    cur.execute(query)
 
-                table = create_query_table(cur)
-                html_table = generate_html_table(table, headers)
-
-                this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=val))
-
+                    table = create_query_table(cur)
+                    html_table = generate_html_table(table, headers)
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(tier=val))
+                
                 os.makedirs(os.path.dirname(this_file), exist_ok=True)
 
                 with open("docs/template.html", "r") as f_template:

@@ -100,7 +100,7 @@ def import_database(db_name, extractfile):
 
             if line:
                 query += line
-                if is_end_of_query(line,';'):
+                if is_end_of_query(line):
                     execute_sql(query)
                     query = ""
 
@@ -117,6 +117,7 @@ def parse_arguments():
     parser.add_argument('--force-download', action='store_true', help='Skip the download step')
     parser.add_argument('--public-only', action='store_true', help='Only download/update the Public WCA Export')
     parser.add_argument('--developer-only', action='store_true', help='Only download/update the Developer WCA Export')
+    parser.add_argument('--update-stats', action='store_true', help='Update the statistics database after import.')
 
     return parser.parse_args()
 
@@ -163,9 +164,29 @@ def process_databases(force_update, force_download, skip_download, public_only, 
 
 
 if __name__ == '__main__':
+    from datetime import datetime
+    start = datetime.now()
+    start_time = start.strftime("%H:%M:%S")
+    
     args = parse_arguments()
     force_update = args.force_update
     force_download = args.force_download
     skip_download = args.skip_download
+    update_stats = args.update_stats
+
+    if update_stats:
+        print("I will update the statistics database after importing the new databases.")
 
     process_databases(force_update, force_download, skip_download, args.public_only, args.developer_only)
+
+    if update_stats:
+        import parse_tables
+        import gh_pages
+
+    end = datetime.now()
+    end_time = end.strftime("%H:%M:%S")
+    duration = (end - start)
+
+    print("Started Import at ", start_time)
+    print("Completed Import at ", end_time)
+    print("Duration: ", duration)

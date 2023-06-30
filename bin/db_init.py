@@ -13,7 +13,8 @@ def database_exists(db):
 
 def create_db_if_not_exist(db):
     if not database_exists(db):
-        query = 'CREATE DATABASE ' + db
+        query = 'CREATE DATABASE ' + db + ' CHARACTER SET=utf8mb4 COLLATE=utf8mb4_unicode_ci;'
+
         cur.execute(query)
 
 def table_exists(table, db):

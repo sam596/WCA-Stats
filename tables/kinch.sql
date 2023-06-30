@@ -8,7 +8,7 @@ CREATE TABLE kinch_event (
     countryKinch DECIMAL(5,2),
     continentKinch DECIMAL(5,2),
     worldKinch DECIMAL(5,2)
-    );
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO kinch_event (
     personId,
@@ -69,7 +69,7 @@ CREATE TABLE kinch (
     continentKinchRank INT,
     worldKinch DECIMAL(5,2),
     worldKinchRank INT
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 INSERT INTO kinch (
     personId,
     personName,

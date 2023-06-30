@@ -17,7 +17,7 @@ CREATE TABLE ranks_all (
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
     compEndDate DATE
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO ranks_all (
     personId,
@@ -59,7 +59,7 @@ CREATE TABLE SoR_combined (
     countrySor INT,
     countryRank INT,
     PRIMARY KEY (personId)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO SoR_combined (
     personId,

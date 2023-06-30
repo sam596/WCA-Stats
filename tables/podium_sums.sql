@@ -13,7 +13,7 @@ CREATE TABLE podium_sums (
     personIdCountryId CHAR(50),
     singleCountryRank INT,
     results VARCHAR(32)
-);
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO podium_sums (
     competitionId,
