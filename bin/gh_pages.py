@@ -17,7 +17,11 @@ def parse_sql_metadata(file):
                 elif line.startswith("summary"):
                     summary = line.replace("summary","").strip()
                 elif line.startswith("valrange"):
-                    valrange = eval(line.replace("valrange","").strip())
+                    valrange = line.replace("valrange","").strip()
+                    if valrange == 'Events':
+                        valrange = ['333','222','444','555','666','777','333bf','333fm','333oh','clock','minx','pyram','skewb','sq1','444bf','555bf','333mbf']
+                    else:
+                        valrange = eval(line.replace("valrange","").strip())
                 elif line.startswith("valfiles"):
                     valfiles = line.replace("valfiles","").strip()
                 elif line.startswith("headers"):
@@ -43,7 +47,9 @@ def create_query_table(cur):
         this_row = row.copy()
         for value in row:
             if value == "personId":
-                this_row["URL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
+                this_row["personURL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
+            if value == "competitionId":
+                this_row["competitionURL"] = "https://www.worldcubeassociation.org/competitions/" + row[value]
             elif value == "Rank":
                 if last_rank != None:
                     if row[value] == last_rank:
@@ -56,7 +62,6 @@ def create_query_table(cur):
 def generate_html_table(table, headers):
     html_table = "<table>\n"
     html_table += "<tr>\n"
-    print(headers)
     for header in headers:
         html_table += "<th>{}</th>\n".format(header)
     html_table += "</tr>\n"
@@ -65,7 +70,9 @@ def generate_html_table(table, headers):
         html_table += "<tr>\n"
         for header in headers:
             if header == "Person":
-                html_table += "<td><a href='{}'>{}</a></td>\n".format(row["URL"], row["personName"])
+                html_table += "<td><a href='{}'>{}</a></td>\n".format(row["personURL"], row["personName"])
+            elif header == "Competition":
+                html_table += "<td><a href='{}'>{}</a></td>\n".format(row["competitionURL"], row["competitionName"])
             else:
                 html_table += "<td>{}</td>\n".format(row.get(header, ""))
         html_table += "</tr>\n"
@@ -80,7 +87,6 @@ for file in os.listdir(ghpages_dir):
     
     with open(file_path, "r") as f:
         title, description, summary, valrange, valfiles, headers = parse_sql_metadata(f)
-
         if valrange == '':
             pass
         else:
@@ -90,29 +96,27 @@ for file in os.listdir(ghpages_dir):
                     print(this_title)
                     val_centi = val * 100
                     f.seek(0)
-                    query = f.read().format(X=val, best=val_centi)
+                    query = ''.join(line for line in f if not line.startswith("##")).format(X=val, best=val_centi)
+                    #query = f.read().format(X=val, best=val_centi)
                     cur.execute(query)
-
                     table = create_query_table(cur)
                     html_table = generate_html_table(table, headers)
                     this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=val))
-                elif '{tier}' in title:
-                    this_title = title.format(tier=val)
+                elif '{text}' in title:
+                    this_title = title.format(text=val)
                     print(this_title)
                     f.seek(0)
-                    query = f.read().format(tier=val)
+                    query = ''.join(line for line in f if not line.startswith("##")).format(text=val)
+#                    query = f.read().format(text=val)
                     cur.execute(query)
-
                     table = create_query_table(cur)
                     html_table = generate_html_table(table, headers)
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(tier=val))
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(text=val))
                 else:
                     this_title = title
                     print(this_title)
-                    f.seek(0)
-                    query = f.read().format(tier=val)
+                    query = f.read()
                     cur.execute(query)
-
                     table = create_query_table(cur)
                     html_table = generate_html_table(table, headers)
                     this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(tier=val))
@@ -129,3 +133,4 @@ for file in os.listdir(ghpages_dir):
 
                 with open(this_file, "w+", encoding="utf-8") as f_out:
                     f_out.write(template)
+                    

@@ -24,6 +24,7 @@ ORDER BY personId, compEndDate ASC;
 ALTER TABLE concise_results;
 DROP TABLE IF EXISTS competition_prs_exfmc;
 CREATE TABLE competition_prs_exfmc
+(id INT NOT NULL AUTO_INCREMENT, PRIMARY KEY(id), KEY pc (personId,competitionId), KEY p (personId))
 SELECT personId, competitionId, COUNT(CASE WHEN `PR` <> ''  COLLATE utf8mb4_0900_ai_ci THEN 1 END) PRs
 FROM concise_results
 WHERE competitionId NOT IN (

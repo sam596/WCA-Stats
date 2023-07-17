@@ -23,7 +23,7 @@ DROP TABLE IF EXISTS wca_stats.personEventsAverage;
 CREATE TEMPORARY TABLE wca_stats.personEventsAverage
 (KEY pe (id, eventId))
 SELECT
-    p.id,
+    p.wca_id,
     p.name,
     p.countryId,
     (SELECT continentId FROM wca_dev.countries WHERE id = p.countryId) continentId,
@@ -170,7 +170,7 @@ DROP TABLE IF EXISTS wca_stats.personEventsSingle;
 CREATE TEMPORARY TABLE wca_stats.personEventsSingle
 (KEY pe (id, eventId))
 SELECT
-    p.id,
+    p.wca_id,
     p.name,
     p.countryId,
     (SELECT continentId FROM wca_dev.countries WHERE id = p.countryId) continentId,

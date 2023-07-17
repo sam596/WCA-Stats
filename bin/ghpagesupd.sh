@@ -32,7 +32,7 @@ do
 				ROUND(a.best/100,2) Average
 			FROM ranksaverage a 
 			INNER JOIN persons p 
-				ON p.subid = 1 AND a.personId = p.id 
+				ON p.subid = 1 AND a.personId = p.wca_id 
 			WHERE 
 				a.eventId = '333' AND 
 				personId NOT IN (SELECT personId FROM rankssingle WHERE eventId = '333' AND best < ${i}00) 
@@ -93,7 +93,7 @@ do
           FROM podiums 
           WHERE (CASE WHEN eventId LIKE '%bf' THEN best ELSE average END) > 0) a 
         JOIN wca_dev.persons p 
-          ON a.personId = p.id AND p.subid = 1
+          ON a.personId = p.wca_id AND p.subid = 1
         JOIN wca_dev.competitions com 
           ON a.competitionid = com.id
         JOIN wca_dev.Countries cou
@@ -161,7 +161,7 @@ do
 						a.startcomp = b.startcomp AND 
 						b.maxprs = a.prstreak 
 					JOIN wca_dev.persons p 
-						ON a.personId = p.id AND p.subid = 1
+						ON a.personId = p.wca_id AND p.subid = 1
 					${k}
 					ORDER BY a.prStreak DESC, p.name 
 					LIMIT 1000) a
@@ -268,7 +268,7 @@ do
 					CASE WHEN a.333mbf = 1 THEN '333mbf,' ELSE '' END) Events
 			FROM registrations_extra a
 			LEFT JOIN wca_dev.persons p 
-				ON a.personId = p.id AND p.subid = 1
+				ON a.personId = p.wca_id AND p.subid = 1
 			WHERE a.endDate >= CURDATE() 
 			ORDER BY ${i}, a.name, a.startDate, a.endDate) a;"> ~/mysqloutput/original && \
 	sed 's/\t/|/g' ~/mysqloutput/original > ~/mysqloutput/output && \
@@ -451,7 +451,7 @@ do
 	  WHERE eventId = '${i}') b
 	LEFT JOIN wca_dev.roundtypes rs ON b.startRound = rs.id
 	LEFT JOIN wca_dev.roundtypes re ON b.endRound = re.id
-	LEFT JOIN wca_dev.persons p ON b.uowcId = p.id AND p.subid = 1
+	LEFT JOIN wca_dev.persons p ON b.uowcId = p.wca_id AND p.subid = 1
 	WHERE (b.endComp <> '' OR b.endComp IS NULL) AND b.uowcId IS NOT NULL
 	ORDER BY b.id;
 	" > ~/mysqloutput/original && \
@@ -500,7 +500,7 @@ do
 	  WHERE eventId = '${i}') b
 	LEFT JOIN wca_dev.roundtypes rs ON b.startRound = rs.id
 	LEFT JOIN wca_dev.roundtypes re ON b.endRound = re.id
-	LEFT JOIN wca_dev.persons p ON b.uoukcId = p.id AND p.subid = 1
+	LEFT JOIN wca_dev.persons p ON b.uoukcId = p.wca_id AND p.subid = 1
 	WHERE (b.endComp <> '' OR b.endComp IS NULL) AND b.uoukcId IS NOT NULL
 	ORDER BY b.id;
 	" > ~/mysqloutput/original && \
@@ -1336,7 +1336,7 @@ do
 				(SELECT ROUND(best/100,2) FROM ranksaverage WHERE eventId = '333' AND personId = a.personId) Average
 			FROM rankssingle a 
 			INNER JOIN persons p 
-				ON p.subid = 1 AND a.personId = p.id 
+				ON p.subid = 1 AND a.personId = p.wca_id 
 			WHERE 
 				a.eventId = '333' AND 
 				personId IN (SELECT personId FROM ranksaverage WHERE eventId = '333' AND best < ${i}00) 
@@ -1384,7 +1384,7 @@ do
 				(SELECT ROUND(best/100,2) FROM ranksaverage WHERE eventId = '333' AND personId = a.personId) Average
 			FROM rankssingle a 
 			INNER JOIN persons p 
-				ON p.subid = 1 AND a.personId = p.id 
+				ON p.subid = 1 AND a.personId = p.wca_id 
 			WHERE 
 				a.eventId = '333' AND 
 				personId NOT IN (SELECT personId FROM ranksaverage WHERE eventId = '333' AND best < ${i}00) 

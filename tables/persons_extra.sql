@@ -1,6 +1,6 @@
 DROP TABLE IF EXISTS pe_all_persons;
 CREATE TABLE pe_all_persons
-(KEY pe_person (id),
+(KEY pe_person (wca_id),
 KEY pe_country (countryId))
 SELECT * FROM wca_dev.persons WHERE subid = 1;
 DROP TABLE IF EXISTS pe_results;
@@ -104,6 +104,7 @@ SELECT personId,
         SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' AND Cpos = 2 THEN 1 ELSE 0 END) natSilver,
         SUM(CASE WHEN championship_type NOT LIKE '\_%' AND championship_type <> 'world' AND Cpos = 3 THEN 1 ELSE 0 END) natBronze
       FROM wca_stats.championship_podiums GROUP BY personId;
+DROP TABLE IF EXISTS pe_pr_streaks;
 CREATE TABLE pe_pr_streaks
 (KEY pe_prstreak_person (personId))
 SELECT personId, 
@@ -140,6 +141,7 @@ SELECT personId,
       FROM 
         wca_stats.results_extra a 
       GROUP BY personId;
+DROP TABLE IF EXISTS pe_ex_names;
 CREATE TABLE pe_ex_names
 (KEY pe_exnames_id (id))
 SELECT * 
@@ -150,7 +152,7 @@ DROP TABLE IF EXISTS persons_extra;
 CREATE TABLE persons_extra
 (PRIMARY KEY (id))
     SELECT
-      a.id, 
+      a.wca_id id, 
       g.id user_id, 
       a.name, 
       a.gender, 
@@ -253,19 +255,19 @@ CREATE TABLE persons_extra
     LEFT JOIN wca_dev.Countries b
       ON a.countryId = b.id
     LEFT JOIN pe_results c
-      ON a.id = c.personId
+      ON a.wca_id = c.personId
     LEFT JOIN pe_all_attempts d
-      ON a.id = d.personId
+      ON a.wca_id = d.personId
     LEFT JOIN sor_single es
-      ON a.id = es.personId
+      ON a.wca_id = es.personId
     LEFT JOIN sor_average ea
-      ON a.id = ea.personId
+      ON a.wca_id = ea.personId
     LEFT JOIN sor_combined ec 
-      ON a.id = ec.personId
+      ON a.wca_id = ec.personId
     LEFT JOIN pe_ranks_all f
-      ON a.id = f.personId
+      ON a.wca_id = f.personId
     LEFT JOIN wca_dev.users g
-      ON a.id = g.wca_id
+      ON a.wca_id = g.wca_id
     LEFT JOIN pe_delegate h
       ON g.id = h.delegate_id
     LEFT JOIN pe_organizer j
@@ -273,17 +275,17 @@ CREATE TABLE persons_extra
     LEFT JOIN pe_wcaTeam k 
       ON g.id = k.user_id
     LEFT JOIN pe_champPodiums l 
-      ON a.id = l.personId
+      ON a.wca_id = l.personId
     LEFT JOIN kinch m
-      ON a.id = m.personId
+      ON a.wca_id = m.personId
     LEFT JOIN pe_pr_streaks n
-      ON a.id = n.personId
+      ON a.wca_id = n.personId
     LEFT JOIN pe_registrations o
       ON g.id = o.userId
     LEFT JOIN pe_comps p
-    ON a.id = p.personId
+    ON a.wca_id = p.personId
     LEFT JOIN pe_ex_names q
-    ON a.id = q.id
+    ON a.wca_id = q.id
     LEFT JOIN wca_dev.countries r
     ON q.countryId = r.id
 ;

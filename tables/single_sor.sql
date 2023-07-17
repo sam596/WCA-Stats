@@ -18,16 +18,16 @@ JOIN
 JOIN
     wca_dev.events e ON e.rank < 900
 JOIN
-    wca_dev.rankssingle ra ON ra.personId = p.id AND ra.eventId = e.id
+    wca_dev.rankssingle ra ON ra.personId = p.wca_id AND ra.eventId = e.id
 GROUP BY
     c.id,
     c.continentId,
     e.id;
 DROP TABLE IF EXISTS personEventsSingle;
 CREATE TEMPORARY TABLE personEventsSingle
-    (KEY pe (id, eventId))
+    (KEY pe (wca_id, eventId))
 SELECT
-    p.id,
+    p.wca_id,
     p.name,
     p.countryId,
     c.continentId,
@@ -42,7 +42,7 @@ WHERE
     p.subid = 1;
 CREATE INDEX idx_personEventssingle_countryId_eventId ON wca_stats.personEventsSingle (countryId, eventId);
 CREATE INDEX idx_rankssingle_person_event ON wca_dev.ranksSingle (personId, eventId);
-CREATE INDEX idx_personEventssingle_id_event ON wca_stats.personEventsSingle (id, eventId);
+CREATE INDEX idx_personEventssingle_id_event ON wca_stats.personEventsSingle (wca_id, eventId);
 CREATE INDEX idx_results_extra_single_person_event_id ON wca_stats.results_extra (best, personId, eventId, id);
 CREATE INDEX idx_countryEventssingle_country_event ON wca_stats.countryEventsSingle (countryId, eventId);
 DROP TABLE IF EXISTS single_ranks;
@@ -81,7 +81,7 @@ INSERT INTO single_ranks (
     compEndDate
 )
 SELECT
-    b.id,
+    b.wca_id,
     b.name,
     b.countryId,
     b.continentId,
@@ -98,14 +98,14 @@ SELECT
 FROM
     wca_stats.personEventssingle b
 LEFT JOIN
-    wca_dev.rankssingle a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
+    wca_dev.rankssingle a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.wca_id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
     wca_stats.results_extra c ON c.best COLLATE utf8mb4_0900_ai_ci = a.best COLLATE utf8mb4_0900_ai_ci AND c.personId COLLATE utf8mb4_0900_ai_ci = a.personId COLLATE utf8mb4_0900_ai_ci AND c.eventId COLLATE utf8mb4_0900_ai_ci = a.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
     wca_stats.countryEventssingle d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci
 ;
 
-CREATE INDEX idx_worldRank ON single_ranks (worldEank);
+CREATE INDEX idx_worldRank ON single_ranks (worldRank);
 CREATE INDEX idx_continentId_continentRank ON single_ranks (continentId, continentRank);
 CREATE INDEX idx_countryId_countryRank ON single_ranks (countryId, countryRank);
 CREATE INDEX idx_subquery_covering ON single_ranks (personId, personName, countryId, continentId, worldRank, continentRank, countryRank);

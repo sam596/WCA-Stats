@@ -29,7 +29,7 @@ ON
 INNER JOIN
 	wca_dev.persons p
 ON
-	r.personId = p.id
+	r.personId = p.wca_id
 	AND
 	p.subid = 1
 GROUP BY
@@ -71,7 +71,7 @@ ON
 INNER JOIN
 	wca_dev.persons p
 ON
-	r.personId = p.id
+	r.personId = p.wca_id
 	AND
 	p.subid = 1
 GROUP BY
@@ -116,7 +116,7 @@ ON
 INNER JOIN
 	wca_dev.persons p
 ON
-	r.personId = p.id
+	r.personId = p.wca_id
 	AND
 	p.subid = 1
 GROUP BY
@@ -210,7 +210,7 @@ ON
 JOIN
 	wca_dev.persons p
 ON
-	s.personId = p.id
+	s.personId = p.wca_id
 	AND
 	p.subid = 1
 JOIN

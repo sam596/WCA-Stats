@@ -20,16 +20,16 @@ JOIN
 JOIN
     wca_dev.events e ON e.rank < 900 AND e.id != '333mbf'
 JOIN
-    wca_dev.ranksAverage ra ON ra.personId = p.id AND ra.eventId = e.id
+    wca_dev.ranksAverage ra ON ra.personId = p.wca_id AND ra.eventId = e.id
 GROUP BY
     c.id,
     c.continentId,
     e.id;
 DROP TABLE IF EXISTS personEventsAverage;
 CREATE TEMPORARY TABLE personEventsAverage
-    (KEY pe (id, eventId))
+    (KEY pe (wca_id, eventId))
 SELECT
-    p.id,
+    p.wca_id,
     p.name,
     p.countryId,
     c.continentId,
@@ -44,7 +44,7 @@ WHERE
     p.subid = 1;
 CREATE INDEX idx_personEventsAverage_countryId_eventId ON wca_stats.personEventsAverage (countryId, eventId);
 CREATE INDEX idx_ranksaverage_person_event ON wca_dev.ranksaverage (personId, eventId);
-CREATE INDEX idx_personEventsAverage_id_event ON wca_stats.personEventsAverage (id, eventId);
+CREATE INDEX idx_personEventsAverage_id_event ON wca_stats.personEventsAverage (wca_id, eventId);
 CREATE INDEX idx_results_extra_average_person_event_id ON wca_stats.results_extra (average, personId, eventId, id);
 CREATE INDEX idx_countryEventsAverage_country_event ON wca_stats.countryEventsAverage (countryId, eventId);
 DROP TABLE IF EXISTS average_ranks;
@@ -82,7 +82,7 @@ INSERT INTO average_ranks (
     compEndDate
 )
 SELECT
-    b.id,
+    b.wca_id,
     b.name,
     b.countryId,
     b.continentId,
@@ -99,7 +99,7 @@ SELECT
 FROM
     wca_stats.personEventsAverage b
 LEFT JOIN
-    wca_dev.ranksaverage a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
+    wca_dev.ranksaverage a ON a.personId COLLATE utf8mb4_0900_ai_ci = b.wca_id COLLATE utf8mb4_0900_ai_ci AND a.eventId COLLATE utf8mb4_0900_ai_ci = b.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
     wca_stats.results_extra c ON c.average COLLATE utf8mb4_0900_ai_ci = a.best COLLATE utf8mb4_0900_ai_ci AND c.personId COLLATE utf8mb4_0900_ai_ci = a.personId COLLATE utf8mb4_0900_ai_ci AND c.eventId COLLATE utf8mb4_0900_ai_ci = a.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN

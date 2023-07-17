@@ -2,7 +2,7 @@ INSERT INTO wca_stats.last_updated VALUES ('seasons', NOW(), NULL, '') ON DUPLIC
 
 DROP TABLE IF EXISTS wca_stats.seasons;
 CREATE TABLE wca_stats.seasons
-SELECT p.id, p.name, p.countryId, r.*
+SELECT p.wca_id, p.name, p.countryId, r.*
 FROM persons_extra p 
 JOIN 
   (SELECT personId, YEAR(date) year, 
@@ -46,7 +46,7 @@ JOIN
     MIN(CASE WHEN eventId = 'mmagic' AND average > 0 THEN average END) mmagica
   FROM results_extra 
   GROUP BY personId, YEAR(date)) r 
-ON p.id = r.personId;
+ON p.wca_id = r.personId;
 
 DROP PROCEDURE IF EXISTS seasonrankupd;
 DELIMITER ;;

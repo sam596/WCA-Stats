@@ -4,30 +4,39 @@ tables = [
     #'results_extra',
     #'podium_sums',
     #'final_missers',
-    #'all_attempts'
+    #'all_attempts',
     #'average_sor',
     #'single_sor',
-    #'all_ranks_and_sor',
-    #'records',
-    #'kinch',
-    #'uowc',
-    #'uoukc'
-    #'championship_podiums',
-    #'concise_results',
-    #'prs'
-    #'pr_streak'
-    #'mbld_decoded'
-    #'relays'
-    #'registrations_extra'
-    'persons_extra'
-    #'competitions_extra',
-    #'person_comps_extra',
-    #'seasons',
-    #'current_averages',
-    #'world_rank_history'
+    #'all_ranks_and_sor', #~18 mins
+    #'records', #~15secs
+    #'kinch', #~5 mins
+    #'uowc', #~12 mins
+    #'uoukc', #~20 secs
+    #'championship_podiums', #~2 mins
+    #'concise_results', #~40 mins
+    #'prs', #~15mins
+    #'pr_streak', #~5mins
+    #'mbld_decoded', #8min
+    #'relays', #2min
+    #'registrations_extra', #2min
+    'persons_extra', 
+    #'competitions_extra', 
+    #'person_comps_extra', 
+    #'seasons', 
+    #'current_averages', 
+    #'world_rank_history' 
 ]
 
 from import_new_db import is_end_of_query, execute_sql, cur, conn
+
+def convertsecs(seconds):
+    seconds = seconds % (24 * 3600)
+    hour = seconds // 3600
+    seconds %= 3600
+    minutes = seconds // 60
+    seconds %= 60
+     
+    return "%d:%02d:%02d" % (hour, minutes, seconds)
 
 db_name = 'wca_stats'
 cur.execute("USE " + db_name)
@@ -50,9 +59,13 @@ for table in tables:
                 print(x)
             else:
                 print(x[:125] + "...")
+            startquery = time.time()
             execute_sql(x, False)
+            endquery = time.time()
+            totalquerytime = endquery-startquery
+            print(str(convertsecs(totalquerytime)))
     end = time.time()
     total_time = end - start
-    print("\n" + str(total_time))
+    print("\n" + str(convertsecs(total_time)))
 
 conn.commit()
