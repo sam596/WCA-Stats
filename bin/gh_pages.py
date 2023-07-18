@@ -47,9 +47,15 @@ def create_query_table(cur):
         this_row = row.copy()
         for value in row:
             if value == "personId":
-                this_row["personURL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
+                if row[value] is None:
+                    this_row["personURL"] = ""
+                else:
+                    this_row["personURL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
             if value == "competitionId":
-                this_row["competitionURL"] = "https://www.worldcubeassociation.org/competitions/" + row[value]
+                if row[value] is None:
+                    this_row["competitionURL"] = ""
+                else:
+                    this_row["competitionURL"] = "https://www.worldcubeassociation.org/competitions/" + row[value]
             elif value == "Rank":
                 if last_rank != None:
                     if row[value] == last_rank:
@@ -61,27 +67,30 @@ def create_query_table(cur):
 
 def generate_html_table(table, headers):
     html_table = "<table>\n"
-    html_table += "<tr>\n"
+    html_table += "<tr>"
     for header in headers:
-        html_table += "<th>{}</th>\n".format(header)
+        html_table += "<th>{}</th>".format(header)
     html_table += "</tr>\n"
 
     for row in table:
-        html_table += "<tr>\n"
+        html_table += "<tr>"
         for header in headers:
             if header == "Person":
-                html_table += "<td><a href='{}'>{}</a></td>\n".format(row["personURL"], row["personName"])
-            elif header == "Competition":
-                html_table += "<td><a href='{}'>{}</a></td>\n".format(row["competitionURL"], row["competitionName"])
+                html_table += "<td><a href='{}'>{}</a></td>".format(row["personURL"], row["personName"])
+            elif header == "Competition" and row["competitionURL"] != '':
+                html_table += "<td><a href='{}'>{}</a></td>".format(row["competitionURL"], row["competitionName"])
             else:
-                html_table += "<td>{}</td>\n".format(row.get(header, ""))
+                value = row.get(header, "")
+                if isinstance(value, bytes):
+                    value = value.decode("utf-8")
+                html_table += "<td>{}</td>".format(value)
         html_table += "</tr>\n"
 
     html_table += "</table>"
 
     return html_table
 
-
+cur.execute("USE wca_stats")
 for file in os.listdir(ghpages_dir):
     file_path = os.path.join(ghpages_dir, file)
     
@@ -107,8 +116,9 @@ for file in os.listdir(ghpages_dir):
                     print(this_title)
                     f.seek(0)
                     query = ''.join(line for line in f if not line.startswith("##")).format(text=val)
-#                    query = f.read().format(text=val)
-                    cur.execute(query)
+                    cur.execute(query, multi=True)
+                    if query.startswith('SET'):
+                        cur.nextset()
                     table = create_query_table(cur)
                     html_table = generate_html_table(table, headers)
                     this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(text=val))

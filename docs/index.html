@@ -2,114 +2,18 @@
 <html>
 <head>
   <title>Sam's WCA Statistics List</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-    
-    h1 {
-      text-align: center;
-      padding: 20px;
-      background-color: #333;
-      color: #fff;
-      margin: 0;
-    }
-    
-    ul {
-      list-style-type: none;
-      padding: 0;
-      margin: 40px auto;
-      width: 60%;
-    }
-    
-    li {
-      margin-bottom: 10px;
-      position: relative;
-    }
-    
-    a {
-      display: block;
-      padding: 12px;
-      background-color: transparent;
-      color: #333;
-      text-decoration: none;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      transition: background-color 0.3s ease;
-    }
-    
-    a:hover {
-      background-color: #f9f9f9;
-    }
-
-    .dropdown {
-	font-weight: bold;
-	text-align: center;
-    }
-    
-    .dropdown-content {
-      display: none;
-      position: absolute;
-      background-color: transparent;
-      z-index: 1;
-      padding: 0;
-      column-count: 3; /* Set the number of columns */
-      column-gap: 10px; /* Adjust the gap between columns */
-      width: 100%; /* Span the width of the parent container */
-      text-align: center; /* Center the content */
-    }
-    
-    .dropdown-content a {
-      display: block;
-      padding: 10px;
-      border: none;
-      background-color: transparent;
-      box-shadow: 0 0 0px rgba(0, 0, 0, 0);
-      font-weight: bold; /* Make the text bold */
-    }
-    
-    .dropdown-content a:hover {
-      background-color: #f9f9f9;
-    }
-    
-    .dropdown-content a:last-child {
-      border-bottom: none;
-    }
-    
-    li.open .dropdown-content {
-      display: block;
-    }
-    
-    .dropdown + li {
-      margin-top: 0;
-    }
-  </style>
-  <script>
-    // JavaScript to handle dropdown menu functionality
-    document.addEventListener("DOMContentLoaded", function() {
-      const dropdowns = document.getElementsByClassName("dropdown");
-      for (let i = 0; i < dropdowns.length; i++) {
-        const dropdown = dropdowns[i];
-        dropdown.addEventListener("click", function() {
-          this.classList.toggle("open");
-          const dropdownContent = this.querySelector(".dropdown-content");
-          if (dropdownContent.style.display === "block") {
-            dropdownContent.style.display = "none";
-            this.nextElementSibling.style.marginTop = "0";
-          } else {
-            dropdownContent.style.display = "block";
-            this.nextElementSibling.style.marginTop = dropdownContent.offsetHeight + "px";
-          }
-        });
-      }
-    });
-  </script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="index_styles.css">
+  <script src="dropdown-script.js"></script>
 </head>
 <body>
-  <h1>Sam's WCA Statistics List</h1>
-  
+  <div class="header">
+    <a class="github-icon" href="https://github.com/sam596/WCA-Stats/tree/python-rewrite">
+      <i class="fa fa-github" style="font-size: 56px;"></i>
+    </a>
+    <h1>Sam's WCA Statistics List</h1>
+  </div>
+
   <ul>
     <li class="dropdown">
       <a href="#">Best 3x3 Average without a Sub-X Single</a>
@@ -160,5 +64,11 @@
     <!-- Add more list items and dropdown content as needed -->
   </ul>
 </body>
+
+<footer style="background-color: #FFFFFF; padding: 10px; text-align: center; position: fixed; left: 0; bottom: 0; width: 100%;">
+  <p style="margin: 0;">
+    <b>Disclaimer:</b> The <a href="https://www.worldcubeassociation.org">World Cube Association</a> is the source and owner of this information. This published information is not actual information, the actual information can be found <a href="https://www.worldcubeassociation.org/results">here</a>.
+  </p>
+</footer>
 
 </html>

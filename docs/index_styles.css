@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 40px auto;
+    width: 60%;
+}
+
+li {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+a {
+    display: block;
+    padding: 12px;
+    background-color: transparent;
+    color: #333;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #f9f9f9;
+}
+
+.dropdown {
+font-weight: bold;
+text-align: center;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: transparent;
+    z-index: 1;
+    padding: 0;
+    column-count: 3; /* Set the number of columns */
+    column-gap: 10px; /* Adjust the gap between columns */
+    width: 100%; /* Span the width of the parent container */
+    text-align: center; /* Center the content */
+}
+
+.dropdown-content a {
+    display: block;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0);
+    font-weight: bold; /* Make the text bold */
+}
+
+.dropdown-content a:hover {
+    background-color: #f9f9f9;
+}
+
+.dropdown-content a:last-child {
+    border-bottom: none;
+}
+
+li.open .dropdown-content {
+    display: block;
+}
+
+.dropdown + li {
+    margin-top: 0;
+}
+
+.header {
+    position: relative;
+}
+
+.github-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    box-shadow: none;
+}
+
+.github-icon:hover {
+    background-color: #333
+}
+
+.github-icon i {
+    color: white;
+}
+
+.github-icon:hover i {
+    color: black;
+    background-color: #333
+}
+.github-icon-link {
+    color: #333;
+    background-color: #333
+}
+
+.github-icon-link:hover {
+    background-color: #333
+    color: black;
+}
+footer a {
+    display: initial;
+    padding: 0px;
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
