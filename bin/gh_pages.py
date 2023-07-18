@@ -122,6 +122,7 @@ for file in os.listdir(ghpages_dir):
                     table = create_query_table(cur)
                     html_table = generate_html_table(table, headers)
                     this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(text=val))
+                    print(this_file)
                 else:
                     this_title = title
                     print(this_title)
