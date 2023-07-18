@@ -23,7 +23,7 @@ SELECT
         rs.name,
         '</a>') `Started At`,
     IFNULL(
-        IF(b.endComp LIKE '1 year after [%',
+        IF(b.endComp LIKE '1 year after%',
             b.endComp,
             CONCAT(
                 '<a href="https://www.worldcubeassociation.org/competitions/',
@@ -43,8 +43,13 @@ FROM
     @s := IF(a.uowcId = @p, @s, competitionId) startComp,
     @sr := IF(a.uowcId = @p, @sr, roundTypeId) startRound,
     @sd := IF(a.uowcId = @p, @sd, dateSet) startDate,
-    @e := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),CONCAT(CONCAT('1 year after [',competitionId,'](https://www.worldcubeassociation.org/competitions/',competitionId,'/results/all#e',eventId,'_',roundTypeId,')')),
-    (SELECT competitionId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endComp,
+    @e := IF(
+        (SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, 
+        '',  
+        IF(
+            (SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),
+            CONCAT('1 year after <a href="https://www.worldcubeassociation.org/competitions/',competitionId,'/results/all#e',eventId,'_',roundTypeId,'">',competitionId,'</a>'),
+            (SELECT competitionId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId)))  endComp,
     @er := IF((SELECT uowcId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) = a.uowcId, '',  IF((SELECT dateSet FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId) > DATE_ADD(a.dateSet, INTERVAL 1 YEAR),'1 year',
     (SELECT roundTypeId FROM uowc WHERE id = a.id + 1 AND eventId = a.eventId))) endRound,
     @p := a.uowcId
