@@ -1,7 +1,7 @@
 import time
 
 tables = [
-    #'results_extra',
+    'results_extra', #~14mins
     #'podium_sums',
     #'final_missers',
     #'all_attempts',
@@ -19,7 +19,7 @@ tables = [
     #'mbld_decoded', #8min
     #'relays', #2min
     #'registrations_extra', #2min
-    'persons_extra', 
+    #'persons_extra', 
     #'competitions_extra', 
     #'person_comps_extra', 
     #'seasons', 

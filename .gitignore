@@ -4,3 +4,4 @@ bin/__pycache__/
 .vscode/
 downloads/*
 git-filter-repo
+tmp/
