@@ -121,12 +121,40 @@ def parse_arguments():
 
     return parser.parse_args()
 
+def close_connection(cur, conn):
+    cur.close()
+    conn.close()
+
+def process_single_database(db, force_update, force_download, skip_download):
+    db_name = db['db_name']
+    url = db['url']
+    file, extractfolder = parseurl(url)
+    extractfile = os.path.join(extractfolder, os.listdir(extractfolder)[0])
+
+    db_updated = check_for_new_version(db_name, url, force_update)
+
+    if not db_updated and not force_download:
+        return
+    
+    if skip_download:
+        print(f"Download of {db_name} skipped by user. Using existing {db_name} download.")
+    else:
+        if force_download:
+            print(f"Download of {db_name} forced by user.")
+        download_and_extract_db(file, extractfolder, url, db_name)
+    
+    import_database(db_name, extractfile)
+
 
 def process_databases(force_update, force_download, skip_download, public_only, developer_only):
     global databases
     if developer_only and public_only:
         raise argparse.ArgumentTypeError(
             "You can only use ONE of the --public-only and --developer-only flags! I can't do both!")
+    
+    if skip_download and force_download:
+        raise argparse.ArgumentTypeError(
+            "You can only use ONE of the --skip-download and --force-download flags! I can't do both!")
 
     if developer_only:
         databases = [x for x in databases if x['db_name'] == 'wca_dev']
@@ -135,32 +163,9 @@ def process_databases(force_update, force_download, skip_download, public_only, 
         databases = [x for x in databases if x['db_name'] == 'wca']
 
     for db in databases:
-        db_name = db['db_name']
-        url = db['url']
-        file, extractfolder = parseurl(url)
-        extractfile = os.path.join(extractfolder, os.listdir(extractfolder)[0])
+        process_single_database(db, force_update, force_download, skip_download)
 
-        db_updated = check_for_new_version(db_name, url, force_update)
-
-        if db_updated:
-            pass
-        elif force_download:
-            pass
-        else:
-            continue
-
-        if skip_download:
-            print(f"Download of {db_name} skipped by user. Using existing {db_name} download.")
-            pass
-        else:
-            if force_download:
-                print(f"Download of {db_name} forced by user.")
-            download_and_extract_db(file, extractfolder, url, db_name)
-
-        import_database(db_name, extractfile)
-
-    cur.close()
-    conn.close()
+    close_connection(cur, conn)
 
 
 if __name__ == '__main__':
@@ -177,15 +182,19 @@ if __name__ == '__main__':
     if update_stats:
         print("I will update the statistics database after importing the new databases.")
 
-    process_databases(force_update, force_download, skip_download, args.public_only, args.developer_only)
-
-    if update_stats:
-        import parse_tables
-        import gh_pages
+    try:
+        process_databases(force_update, force_download, skip_download, args.public_only, args.developer_only)
+        if update_stats:
+            import parse_tables
+            import gh_pages
+    except KeyboardInterrupt:
+        print("Keyboard interrupt detected. Closing connection and exiting...")
+        close_connection(cur, conn)
+        print("Database connection closed. Exiting the script.")
 
     end = datetime.now()
-    end_time = end.strftime("%H:%M:%S")
-    duration = (end - start)
+    end_time = end.strftime("%H:%M:%S.%f")
+    duration = str(end - start)
 
     print("Started Import at ", start_time)
     print("Completed Import at ", end_time)

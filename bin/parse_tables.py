@@ -2,24 +2,24 @@ import time
 
 tables = [
     'results_extra', #~14mins
-    #'podium_sums',
-    #'final_missers',
-    #'all_attempts',
-    #'average_sor',
-    #'single_sor',
-    #'all_ranks_and_sor', #~18 mins
-    #'records', #~15secs
-    #'kinch', #~5 mins
-    #'uowc', #~12 mins
-    #'uoukc', #~20 secs
-    #'championship_podiums', #~2 mins
-    #'concise_results', #~40 mins
-    #'prs', #~15mins
-    #'pr_streak', #~5mins
-    #'mbld_decoded', #8min
-    #'relays', #2min
-    #'registrations_extra', #2min
-    #'persons_extra', 
+    'podium_sums',
+    'final_missers',
+    'all_attempts',
+    'average_sor',
+    'single_sor',
+    'all_ranks_and_sor', #~18 mins
+    'records', #~15secs
+    'kinch', #~5 mins
+    'uowc', #~12 mins
+    'uoukc', #~20 secs
+    'championship_podiums', #~2 mins
+    'concise_results', #~40 mins
+    'prs', #~15mins
+    'pr_streak', #~5mins
+    'mbld_decoded', #8min
+    'relays', #2min
+    'registrations_extra', #2min
+    'persons_extra', 
     #'competitions_extra', 
     #'person_comps_extra', 
     #'seasons', 
