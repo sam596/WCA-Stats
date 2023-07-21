@@ -1,4 +1,5 @@
 import time
+import database_utils
 
 tables = [
     'results_extra', #~14mins
@@ -27,8 +28,6 @@ tables = [
     #'world_rank_history' 
 ]
 
-from import_new_db import is_end_of_query, execute_sql, cur, conn
-
 def convertsecs(seconds):
     seconds = seconds % (24 * 3600)
     hour = seconds // 3600
@@ -38,19 +37,14 @@ def convertsecs(seconds):
      
     return "%d:%02d:%02d" % (hour, minutes, seconds)
 
-db_name = 'wca_stats'
-cur.execute("USE " + db_name)
-conn.start_transaction()
-for table in tables:
-    start = time.time()
-    table_path = 'tables/' + table + '.sql'
+def import_table(table_path):
     with open(table_path, 'r') as f:
         query = ""
         query_list = []
         for line in f:
             if line and not line.startswith('-- '):
                 query += line
-                if is_end_of_query(line):
+                if database_utils.is_end_of_query(line):
                     query_list.append(query)
                     query = ""
         for x in query_list:
@@ -60,12 +54,31 @@ for table in tables:
             else:
                 print(x[:125] + "...")
             startquery = time.time()
-            execute_sql(x, False)
+            database_utils.execute_sql(x, False)
             endquery = time.time()
             totalquerytime = endquery-startquery
             print(str(convertsecs(totalquerytime)))
+
+def iterate_tables(table):
+    start = time.time()
+    table_path = 'tables/' + table + '.sql'
+    import_table(table_path)
     end = time.time()
     total_time = end - start
     print("\n" + str(convertsecs(total_time)))
 
-conn.commit()
+def update_stats(singletable=None):
+    db_name = 'wca_stats'
+    database_utils.execute_sql("USE " + db_name)
+    database_utils.start_transaction()
+    if singletable == None:    
+        for table in tables:
+            iterate_tables(table)
+    elif type(singletable) == list:
+        for table in singletable:
+            iterate_tables(table)
+    else:
+        iterate_tables(singletable)
+    database_utils.commit()
+
+update_stats('records')

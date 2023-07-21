@@ -1,114 +1,14 @@
 import os
-from tqdm import tqdm
-from mysql.connector import Error
 import argparse
+from datetime import datetime
+import download_utils, database_utils, wca_stats_update
 
-from new_db_check import is_newer_file_available, download_db, parseurl
-import db_init, connection
-
-cur, conn = connection.get_connection()
+wca_dev_succeeded = False
 
 databases = [
     {'db_name': 'wca', 'url': 'https://www.worldcubeassociation.org/export/results/WCA_export.sql.zip'},
     {'db_name': 'wca_dev', 'url': 'https://www.worldcubeassociation.org/export/developer/wca-developer-database-dump.zip'}
 ]
-
-
-def execute_sql(sql, multi=True):
-    try:
-        cur.execute(sql)
-    except Error as err:
-        # Handle the specific error that occurred
-        if err.errno == 2013:  # MySQL error code for lost connection
-            # Reconnect to the MySQL server and retry the query
-            print('Lost connection. Reconnecting...')
-            cur.reconnect(attempts=3, delay=2)
-            execute_sql(sql)  # Retry the query
-        else:
-            # Handle other types of errors
-            print(f"Error occurred: {err}")
-    except Exception as e:
-        # Handle any other exceptions that may occur
-        print(f'Exception occurred: {e}')
-        return cur
-
-
-def is_end_of_query(line):
-    return line.strip().endswith(';')
-
-def check_for_new_version(db_name, url, force_update):
-    if force_update:
-        print(f'Update of {db_name} forced by user.')
-    else:
-        print(f'Checking {db_name} database for new version')
-        if not is_newer_file_available(url):
-            print(f'No newer version available. {db_name} is up-to-date!')
-            return False
-        else:
-            print(f'New {db_name} database dump found!')
-    return True
-
-
-def download_and_extract_db(file, extractfolder, url, db_name):
-    download_db(url)
-    print(f'Ready to import ' + db_name)
-
-
-def import_database(db_name, extractfile):
-    cur.execute("USE " + db_name)
-
-    conn.start_transaction()
-
-    with open(extractfile, 'r', encoding='utf8', errors='ignore') as f:
-        query = ""
-        progress_bar = None
-        line_count = 0
-        section_ends = []
-        for line in f:
-            line_count += 1
-            if line.startswith('-- Dumping') or line.startswith('-- Table structure'):
-                section_ends.append(line_count)
-        section_ends.append(line_count)
-        line_count = 0
-        f.seek(0)
-        rows = None
-        for line in f:
-            line_count += 1
-            line = line.strip()
-
-            if line.startswith('--'):
-                if line_count in section_ends:
-                    if progress_bar:
-                        progress_bar.close()
-                        progress_bar = None
-                if line.startswith('-- Dumping'):
-                    print(line.replace('-- Dumping', 'Importing'))
-                elif line.startswith('-- Table structure'):
-                    print(line.replace('-- Table structure for ', 'Initialising '))
-                if line_count in section_ends:
-                    index = section_ends.index(line_count)
-                    try:
-                        rows = section_ends[index + 1] - section_ends[index]
-                        progress_bar = tqdm(total=rows, unit='queries')
-                    except IndexError:
-                        progress_bar = None
-                        pass
-
-                if progress_bar:
-                    progress_bar.update(1)
-                continue
-
-            if line:
-                query += line
-                if is_end_of_query(line):
-                    execute_sql(query)
-                    query = ""
-
-            if progress_bar:
-                progress_bar.update(1)
-
-    conn.commit()
-
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Import WCA Databases into MySQL.')
@@ -117,21 +17,18 @@ def parse_arguments():
     parser.add_argument('--force-download', action='store_true', help='Skip the download step')
     parser.add_argument('--public-only', action='store_true', help='Only download/update the Public WCA Export')
     parser.add_argument('--developer-only', action='store_true', help='Only download/update the Developer WCA Export')
-    parser.add_argument('--update-stats', action='store_true', help='Update the statistics database after import.')
+    parser.add_argument('--force-update-stats', action='store_true', help='Force update the statistics database after import.')
+    parser.add_argument('--skip-stats', action='store_true', help='Skip updating the statistics database after import.')
 
     return parser.parse_args()
-
-def close_connection(cur, conn):
-    cur.close()
-    conn.close()
 
 def process_single_database(db, force_update, force_download, skip_download):
     db_name = db['db_name']
     url = db['url']
-    file, extractfolder = parseurl(url)
+    file, extractfolder = download_utils.parseurl(url)
     extractfile = os.path.join(extractfolder, os.listdir(extractfolder)[0])
 
-    db_updated = check_for_new_version(db_name, url, force_update)
+    db_updated = download_utils.check_for_new_version(db_name, url, force_update)
 
     if not db_updated and not force_download:
         return
@@ -141,9 +38,17 @@ def process_single_database(db, force_update, force_download, skip_download):
     else:
         if force_download:
             print(f"Download of {db_name} forced by user.")
-        download_and_extract_db(file, extractfolder, url, db_name)
+        download_utils.download_and_extract_db(file, extractfolder, url, db_name)
     
-    import_database(db_name, extractfile)
+    if db_name == 'wca_dev':
+        global wca_dev_succeeded
+        try:
+            database_utils.import_database(db_name, extractfile)
+            wca_dev_succeeded = True
+        except:
+            wca_dev_succeeded = False
+    else:
+        database_utils.import_database(db_name, extractfile)
 
 
 def process_databases(force_update, force_download, skip_download, public_only, developer_only):
@@ -165,7 +70,7 @@ def process_databases(force_update, force_download, skip_download, public_only, 
     for db in databases:
         process_single_database(db, force_update, force_download, skip_download)
 
-    close_connection(cur, conn)
+    database_utils.close_connection()
 
 
 if __name__ == '__main__':
@@ -177,19 +82,17 @@ if __name__ == '__main__':
     force_update = args.force_update
     force_download = args.force_download
     skip_download = args.skip_download
-    update_stats = args.update_stats
-
-    if update_stats:
-        print("I will update the statistics database after importing the new databases.")
+    force_update_stats = args.force_update_stats
+    skip_stats = args.skip_stats
 
     try:
         process_databases(force_update, force_download, skip_download, args.public_only, args.developer_only)
-        if update_stats:
-            import parse_tables
+        if (force_update_stats or wca_dev_succeeded) and not skip_stats:
+            wca_stats_update.update_stats()
             import gh_pages
     except KeyboardInterrupt:
         print("Keyboard interrupt detected. Closing connection and exiting...")
-        close_connection(cur, conn)
+        database_utils.close_connection()
         print("Database connection closed. Exiting the script.")
 
     end = datetime.now()

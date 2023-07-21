@@ -293,6 +293,13 @@ CREATE TABLE persons_extra
 ALTER TABLE persons_extra 
   DROP COLUMN mhelp;
 
-# ~ 7 mins 15 secs
+CREATE INDEX idx_mollerzMembership ON wca_stats.persons_extra (mollerzMembership);
+CREATE INDEX idx_currentEventsSucceeded ON wca_stats.persons_extra (currentEventsSucceeded DESC);
+CREATE INDEX idx_currentSpeedsolvingEventsAverage ON wca_stats.persons_extra (currentSpeedsolvingEventsAverage DESC);
+CREATE INDEX idx_bldfmcEventsAverage ON wca_stats.persons_extra (bldfmcEventsAverage DESC);
+CREATE INDEX idx_wcPodiums ON wca_stats.persons_extra (wcPodiums DESC);
+CREATE INDEX idx_WRs ON wca_stats.persons_extra (WRs DESC);
+CREATE INDEX idx_currentEventsWon ON wca_stats.persons_extra (currentEventsWon DESC);
+
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'persons_extra';

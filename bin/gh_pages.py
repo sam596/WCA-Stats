@@ -1,11 +1,23 @@
-import db_init, connection
-
-from import_new_db import cur
-import os, ast
+import os
+import database_utils, download_utils
+from git import Repo
+from datetime import date
 
 ghpages_dir = "queries/gh-pages"
 
-def parse_sql_metadata(file):
+def git_push():
+    try:
+        git_repo = r'C:\Users\samue\OneDrive\Documents\Cubing\WCA-Stats\.git'
+        repo = Repo(git_repo)
+        repo.git.add('docs/')
+        today = date.today().strftime("%y-%m-%d")
+        repo.index.commit('Updated gh-pages - ' + today)
+        origin = repo.remote('origin')
+        origin.push('python-rewrite')
+    except Exception as e:
+        print('Some error occured while pushing the code ' + str(e))
+
+def parse_gh_pages_sql_metadata(file):
     title = description = summary = valrange = valfiles = headers = ""
     for line in file:
             if line.startswith("##"):
@@ -26,7 +38,15 @@ def parse_sql_metadata(file):
                     valfiles = line.replace("valfiles","").strip()
                 elif line.startswith("headers"):
                     headers = eval(line.replace("headers","").strip())
-    return title, description, summary, valrange, valfiles, headers
+    metadata = {
+        "title": title,
+        "description": description,
+        "summary": summary,
+        "valrange": valrange,
+        "valfiles": valfiles,
+        "headers": headers
+    }
+    return metadata
 
 def create_query_table(cur):
     rows = cur.fetchall()
@@ -90,47 +110,50 @@ def generate_html_table(table, headers):
 
     return html_table
 
-cur.execute("USE wca_stats")
+db_name = 'wca_stats'
+last_modified = download_utils.get_last_modified(download_utils.parseurl()[0] + '.txt')
+
+database_utils.execute_sql("USE " + db_name)
 for file in os.listdir(ghpages_dir):
     file_path = os.path.join(ghpages_dir, file)
     
     with open(file_path, "r") as f:
-        title, description, summary, valrange, valfiles, headers = parse_sql_metadata(f)
-        if valrange == '':
+        metadata = parse_gh_pages_sql_metadata(f)
+        if metadata['title'] == '':
             pass
         else:
-            for val in valrange:
-                if '{X}' in title:
-                    this_title = title.format(X=val)
+            for val in metadata['valrange']:
+                if '{X}' in metadata['title']:
+                    this_title = metadata['title'].format(X=val)
                     print(this_title)
                     val_centi = val * 100
                     f.seek(0)
                     query = ''.join(line for line in f if not line.startswith("##")).format(X=val, best=val_centi)
                     #query = f.read().format(X=val, best=val_centi)
-                    cur.execute(query)
-                    table = create_query_table(cur)
-                    html_table = generate_html_table(table, headers)
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(X=val))
-                elif '{text}' in title:
-                    this_title = title.format(text=val)
+                    this_cursor = database_utils.execute_sql(query)
+                    table = create_query_table(this_cursor)
+                    html_table = generate_html_table(table, metadata['headers'])
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(X=val))
+                elif '{text}' in metadata['title']:
+                    this_title = metadata['title'].format(text=val)
                     print(this_title)
                     f.seek(0)
                     query = ''.join(line for line in f if not line.startswith("##")).format(text=val)
-                    cur.execute(query, multi=True)
+                    this_cursor = database_utils.execute_sql(query)
                     if query.startswith('SET'):
-                        cur.nextset()
-                    table = create_query_table(cur)
-                    html_table = generate_html_table(table, headers)
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(text=val))
+                        this_cursor.nextset()
+                    table = create_query_table(this_cursor)
+                    html_table = generate_html_table(table, metadata['headers'])
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(text=val))
                     print(this_file)
                 else:
-                    this_title = title
+                    this_title = metadata['title']
                     print(this_title)
                     query = f.read()
-                    cur.execute(query)
-                    table = create_query_table(cur)
-                    html_table = generate_html_table(table, headers)
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),valfiles.format(tier=val))
+                    this_cursor = database_utils.execute_sql(query)
+                    table = create_query_table(this_cursor)
+                    html_table = generate_html_table(table, metadata['headers'])
+                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(tier=val))
                 
                 os.makedirs(os.path.dirname(this_file), exist_ok=True)
 
@@ -138,10 +161,12 @@ for file in os.listdir(ghpages_dir):
                     template = f_template.read()
 
                 template = template.replace("<!-- title -->",this_title)
-                template = template.replace("<!-- summary -->",summary)
-                template = template.replace("<!-- description -->",description)
+                template = template.replace("<!-- summary -->",metadata['summary'])
+                template = template.replace("<!-- description -->",metadata['description'])
                 template = template.replace("<!-- table -->",html_table)
+                template = template.replace("<!-- last-modified -->",last_modified)
 
                 with open(this_file, "w+", encoding="utf-8") as f_out:
                     f_out.write(template)
-                    
+
+git_push()
