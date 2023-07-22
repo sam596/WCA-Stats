@@ -1,6 +1,6 @@
 import os
 import argparse
-from datetime import datetime
+from datetime import datetime, time
 import download_utils, database_utils, wca_stats_update, gh_pages_update
 import connection, db_init
 
@@ -78,8 +78,6 @@ def process_databases(args):
     for db in databases:
         process_single_database(db, args)
 
-    database_utils.close_connection()
-
 def import_new_db():
     db_init.db_init()
     start = datetime.now()
@@ -96,8 +94,6 @@ def import_new_db():
         print("Keyboard interrupt detected. Closing connection and exiting...")
         database_utils.close_connection()
         print("Database connection closed. Exiting the script.")
-
-    database_utils.close_connection()
 
     end = datetime.now()
     end_time = end.strftime("%H:%M:%S")
