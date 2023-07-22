@@ -1,8 +1,7 @@
 import os
 import argparse
-from datetime import datetime, time
-import download_utils, database_utils, wca_stats_update, gh_pages_update
-import connection, db_init
+from datetime import datetime
+import download_utils, database_utils, wca_stats_update, gh_pages_update, db_init
 
 wca_dev_succeeded = False
 
