@@ -2,10 +2,11 @@ import time
 import database_utils
 
 tables = [
-    'results_extra', #~14mins
-    'podium_sums',
-    'final_missers',
-    'all_attempts',
+    #'wca_dev_indexes',
+    #'results_extra', #~14mins
+    #'podium_sums',
+    #'final_missers',
+    #'all_attempts',
     'average_sor',
     'single_sor',
     'all_ranks_and_sor', #~18 mins
@@ -81,4 +82,6 @@ def update_stats(singletable=None):
         iterate_tables(singletable)
     database_utils.commit()
 
-update_stats('records')
+if __name__ == '__main__':
+    update_stats()
+    database_utils.close_connection()

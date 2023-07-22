@@ -1,9 +1,7 @@
-
-CREATE INDEX idx_rankssingle_personId_eventId ON wca_dev.ranksSingle (personId, eventId);
-CREATE INDEX idx_rankssingle_personId_eventId_best ON wca_dev.ranksSingle (personId, eventId, best);
-CREATE INDEX idx_results_extra_best_personId_eventId ON wca_stats.results_extra (best, personId, eventId);
 DROP TABLE IF EXISTS countryEventsSingle;
-CREATE TEMPORARY TABLE countryEventsSingle
+CREATE TABLE countryEventsSingle (
+    INDEX idx_countryEventssingle_country_event (countryId, eventId)
+)
 SELECT
     c.id AS countryId,
     c.continentId,
@@ -23,9 +21,12 @@ GROUP BY
     c.id,
     c.continentId,
     e.id;
+
 DROP TABLE IF EXISTS personEventsSingle;
 CREATE TEMPORARY TABLE personEventsSingle
-    (KEY pe (wca_id, eventId))
+    (KEY pe (wca_id, eventId),
+    INDEX idx_personEventssingle_countryId_eventId (countryId, eventId),
+    INDEX idx_personEventssingle_id_event (wca_id, eventId))
 SELECT
     p.wca_id,
     p.name,
@@ -40,11 +41,7 @@ JOIN
     wca_dev.events e ON e.rank < 900
 WHERE
     p.subid = 1;
-CREATE INDEX idx_personEventssingle_countryId_eventId ON wca_stats.personEventsSingle (countryId, eventId);
-CREATE INDEX idx_rankssingle_person_event ON wca_dev.ranksSingle (personId, eventId);
-CREATE INDEX idx_personEventssingle_id_event ON wca_stats.personEventsSingle (wca_id, eventId);
-CREATE INDEX idx_results_extra_single_person_event_id ON wca_stats.results_extra (best, personId, eventId, id);
-CREATE INDEX idx_countryEventssingle_country_event ON wca_stats.countryEventsSingle (countryId, eventId);
+
 DROP TABLE IF EXISTS single_ranks;
 CREATE TABLE single_ranks (
     personId VARCHAR(10),
@@ -60,9 +57,12 @@ CREATE TABLE single_ranks (
     countryRank INT,
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
-    compEndDate DATE
+    compEndDate DATE,
+    INDEX idx_worldRank (worldRank),
+    INDEX idx_continentId_continentRank (continentId, continentRank),
+    INDEX idx_countryId_countryRank (countryId, countryRank),
+    INDEX idx_subquery_covering (personId, personName, countryId, continentId, worldRank, continentRank, countryRank)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
 
 INSERT INTO single_ranks (
     personId,
@@ -102,13 +102,7 @@ LEFT JOIN
 LEFT JOIN
     wca_stats.results_extra c ON c.best COLLATE utf8mb4_0900_ai_ci = a.best COLLATE utf8mb4_0900_ai_ci AND c.personId COLLATE utf8mb4_0900_ai_ci = a.personId COLLATE utf8mb4_0900_ai_ci AND c.eventId COLLATE utf8mb4_0900_ai_ci = a.eventId COLLATE utf8mb4_0900_ai_ci
 LEFT JOIN
-    wca_stats.countryEventssingle d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci
-;
-
-CREATE INDEX idx_worldRank ON single_ranks (worldRank);
-CREATE INDEX idx_continentId_continentRank ON single_ranks (continentId, continentRank);
-CREATE INDEX idx_countryId_countryRank ON single_ranks (countryId, countryRank);
-CREATE INDEX idx_subquery_covering ON single_ranks (personId, personName, countryId, continentId, worldRank, continentRank, countryRank);
+    wca_stats.countryEventssingle d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci;
 
 DROP TABLE IF EXISTS SoR_single;
 CREATE TABLE SoR_single (
@@ -124,7 +118,6 @@ CREATE TABLE SoR_single (
     countryRank INT,
     PRIMARY KEY (personId)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
 
 INSERT INTO SoR_single (
     personId,
@@ -158,6 +151,5 @@ FROM (
     personId
 ) b
 ORDER BY
-    worldSoR
-;
+    worldSoR;
 

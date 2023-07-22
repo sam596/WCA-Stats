@@ -20,15 +20,9 @@ CREATE TABLE all_attempts (
     compEndDate DATE,
     compWeekend DATE,
     compWeeksAgo INT,
+    successStreak INT,
     rtRank INT
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
-CREATE INDEX idx_results_extra_value1 ON results_extra (value1);
-CREATE INDEX idx_results_extra_value2 ON results_extra (value2);
-CREATE INDEX idx_results_extra_value3 ON results_extra (value3);
-CREATE INDEX idx_results_extra_value4 ON results_extra (value4);
-CREATE INDEX idx_results_extra_value5 ON results_extra (value5);
-CREATE INDEX idx_results_extra_roundTypeId ON results_extra (roundTypeId);
 
 INSERT INTO all_attempts (
     resultId,

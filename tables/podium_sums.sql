@@ -1,7 +1,4 @@
-CREATE INDEX idx_podiums ON wca_stats.results_extra (roundTypeId, pos);
-
 DROP TABLE IF EXISTS podium_sums;
-
 CREATE TABLE podium_sums (
     competitionId VARCHAR(32),
     eventId VARCHAR(6),

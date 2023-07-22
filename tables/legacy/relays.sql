@@ -128,10 +128,44 @@ ORDER BY
 # <10 secs
 -- one row for every person. each row contains their PR single and averages and the relevant worldRank
 DROP TABLE IF EXISTS all_events_rank;
-CREATE TABLE all_events_rank
-(AllEventsRank INT NOT NULL AUTO_INCREMENT,
-PRIMARY KEY(personId),
-KEY(AllEventsRank))
+CREATE TABLE all_events_rank (
+	AllEventsRank INT NOT NULL AUTO_INCREMENT,
+	PRIMARY KEY(personId),
+	KEY(AllEventsRank),
+	INDEX 333s (333s),
+	INDEX 333a (333a),
+	INDEX 222s (222s),
+	INDEX 222a (222a),
+	INDEX 444s (444s),
+	INDEX 444a (444a),
+	INDEX 555s (555s),
+	INDEX 555a (555a),
+	INDEX 666s (666s),
+	INDEX 666a (666a),
+	INDEX 777s (777s),
+	INDEX 777a (777a),
+	INDEX 333bf (333bfs),
+	INDEX 333bf (333bfa),
+	INDEX 333fm (333fms),
+	INDEX 333fm (333fma),
+	INDEX 333oh (333ohs),
+	INDEX 333oh (333oha),
+	INDEX clock (clocks),
+	INDEX clock (clocka),
+	INDEX minxs (minxs),
+	INDEX minxa (minxa),
+	INDEX pyrams (pyrams),
+	INDEX pyrama (pyrama),
+	INDEX skewbs (skewbs),
+	INDEX skewba (skewba),
+	INDEX sq1s (sq1s),
+	INDEX sq1a (sq1a),
+	INDEX 444bfs (444bfs),
+	INDEX 444bfa (444bfa),
+	INDEX 555bfs (555bfs),
+	INDEX 555bfa (555bfa),
+	INDEX 333mbfs (333mbfs)
+)
 SELECT
 	s.personId,
 	p.name,
@@ -195,8 +229,12 @@ SELECT
 	SUM(CASE WHEN a.eventId = 'sq1' THEN a.worldrank END) `sq1aRank`,
 	SUM(CASE WHEN s.eventId = '444bf' THEN s.best END) `444bfs`,
 	SUM(CASE WHEN s.eventId = '444bf' THEN s.worldrank END) `444bfsRank`,
+	SUM(CASE WHEN a.eventId = '444bf' THEN a.best END) `444bfa`,
+	SUM(CASE WHEN a.eventId = '444bf' THEN a.worldrank END) `444bfaRank`,
 	SUM(CASE WHEN s.eventId = '555bf' THEN s.best END) `555bfs`,
 	SUM(CASE WHEN s.eventId = '555bf' THEN s.worldrank END) `555bfsRank`,
+	SUM(CASE WHEN a.eventId = '555bf' THEN a.best END) `555bfa`,
+	SUM(CASE WHEN a.eventId = '555bf' THEN a.worldrank END) `555bfaRank`,
 	SUM(CASE WHEN s.eventId = '333mbf' THEN s.best END) `333mbfs`,
 	SUM(CASE WHEN s.eventId = '333mbf' THEN s.worldrank END) `333mbfsRank`
 FROM
@@ -222,41 +260,5 @@ GROUP BY
 ORDER BY 
 	s.personId ASC
 	;
-
-# ~ 50 secs
-
-CREATE INDEX 333s ON all_events_rank (333s);
-CREATE INDEX 333a ON all_events_rank (333a);
-CREATE INDEX 222s ON all_events_rank (222s);
-CREATE INDEX 222a ON all_events_rank (222a);
-CREATE INDEX 444s ON all_events_rank (444s);
-CREATE INDEX 444a ON all_events_rank (444a);
-CREATE INDEX 555s ON all_events_rank (555s);
-CREATE INDEX 555a ON all_events_rank (555a);
-CREATE INDEX 666s ON all_events_rank (666s);
-CREATE INDEX 666a ON all_events_rank (666a);
-CREATE INDEX 777s ON all_events_rank (777s);
-CREATE INDEX 777a ON all_events_rank (777a);
-CREATE INDEX 333bfs ON all_events_rank (333bfs);
-CREATE INDEX 333bfa ON all_events_rank (333bfa);
-CREATE INDEX 333fms ON all_events_rank (333fms);
-CREATE INDEX 333fma ON all_events_rank (333fma);
-CREATE INDEX 333ohs ON all_events_rank (333ohs);
-CREATE INDEX 333oha ON all_events_rank (333oha);
-CREATE INDEX clocks ON all_events_rank (clocks);
-CREATE INDEX clocka ON all_events_rank (clocka);
-CREATE INDEX minxs ON all_events_rank (minxs);
-CREATE INDEX minxa ON all_events_rank (minxa);
-CREATE INDEX pyrams ON all_events_rank (pyrams);
-CREATE INDEX pyrama ON all_events_rank (pyrama);
-CREATE INDEX skewbs ON all_events_rank (skewbs);
-CREATE INDEX skewba ON all_events_rank (skewba);
-CREATE INDEX sq1s ON all_events_rank (sq1s);
-CREATE INDEX sq1a ON all_events_rank (sq1a);
-CREATE INDEX 444bfs ON all_events_rank (444bfs);
-CREATE INDEX 555bfs ON all_events_rank (555bfs);
-CREATE INDEX 333mbfs ON all_events_rank (333mbfs);
-
-# 1 sec each
 
 UPDATE wca_stats.last_updated SET completed = NOW() WHERE query = 'relays';

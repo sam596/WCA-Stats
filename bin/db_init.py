@@ -27,18 +27,19 @@ def table_exists(table, db):
     else:
         return False
 
-databases = ['wca','wca_dev','wca_stats']
+def db_init():
+    databases = ['wca','wca_dev','wca_stats']
 
-for db in databases:
-    create_db_if_not_exist(db)
+    for db in databases:
+        create_db_if_not_exist(db)
 
-if not table_exists('last_updated', 'wca_stats'):
-    query = """CREATE TABLE `wca_stats`.`last_updated` (
-        `query` varchar(20) NOT NULL,
-        `started` datetime DEFAULT NULL,
-        `completed` datetime DEFAULT NULL,
-        `notes` TEXT DEFAULT NULL,
-        PRIMARY KEY (query));"""
-    cur.execute(query)
+    if not table_exists('last_updated', 'wca_stats'):
+        query = """CREATE TABLE `wca_stats`.`last_updated` (
+            `query` varchar(20) NOT NULL,
+            `started` datetime DEFAULT NULL,
+            `completed` datetime DEFAULT NULL,
+            `notes` TEXT DEFAULT NULL,
+            PRIMARY KEY (query));"""
+        cur.execute(query)
 
-print('Database Initialised')
+    print('Database Initialised')

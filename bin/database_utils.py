@@ -2,7 +2,7 @@ from datetime import datetime
 from mysql.connector import Error
 from tqdm import tqdm
 import os
-import connection
+import connection, db_init
 
 cur, conn = connection.get_connection()
 

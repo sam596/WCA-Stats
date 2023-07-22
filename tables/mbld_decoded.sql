@@ -1,4 +1,3 @@
-
 DROP TABLE IF EXISTS mbld_decoded;
 CREATE TABLE mbld_decoded
 (id INT NOT NULL AUTO_INCREMENT,

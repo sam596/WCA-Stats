@@ -66,7 +66,7 @@ def create_query_table(cur):
     for row in result:
         this_row = row.copy()
         for value in row:
-            if value == "personId":
+            if value == "personId" or value == "wcaId":
                 if row[value] is None:
                     this_row["personURL"] = ""
                 else:
@@ -110,63 +110,68 @@ def generate_html_table(table, headers):
 
     return html_table
 
-db_name = 'wca_stats'
-last_modified = download_utils.get_last_modified(download_utils.parseurl()[0] + '.txt')
+def update_gh_pages():
+    db_name = 'wca_stats'
+    last_modified = download_utils.get_last_modified(download_utils.parseurl()[0] + '.txt')
 
-database_utils.execute_sql("USE " + db_name)
-for file in os.listdir(ghpages_dir):
-    file_path = os.path.join(ghpages_dir, file)
-    
-    with open(file_path, "r") as f:
-        metadata = parse_gh_pages_sql_metadata(f)
-        if metadata['title'] == '':
-            pass
-        else:
-            for val in metadata['valrange']:
-                if '{X}' in metadata['title']:
-                    this_title = metadata['title'].format(X=val)
-                    print(this_title)
-                    val_centi = val * 100
-                    f.seek(0)
-                    query = ''.join(line for line in f if not line.startswith("##")).format(X=val, best=val_centi)
-                    #query = f.read().format(X=val, best=val_centi)
-                    this_cursor = database_utils.execute_sql(query)
-                    table = create_query_table(this_cursor)
-                    html_table = generate_html_table(table, metadata['headers'])
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(X=val))
-                elif '{text}' in metadata['title']:
-                    this_title = metadata['title'].format(text=val)
-                    print(this_title)
-                    f.seek(0)
-                    query = ''.join(line for line in f if not line.startswith("##")).format(text=val)
-                    this_cursor = database_utils.execute_sql(query)
-                    if query.startswith('SET'):
-                        this_cursor.nextset()
-                    table = create_query_table(this_cursor)
-                    html_table = generate_html_table(table, metadata['headers'])
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(text=val))
-                    print(this_file)
-                else:
-                    this_title = metadata['title']
-                    print(this_title)
-                    query = f.read()
-                    this_cursor = database_utils.execute_sql(query)
-                    table = create_query_table(this_cursor)
-                    html_table = generate_html_table(table, metadata['headers'])
-                    this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(tier=val))
-                
-                os.makedirs(os.path.dirname(this_file), exist_ok=True)
+    database_utils.execute_sql("USE " + db_name)
+    for file in os.listdir(ghpages_dir):
+        file_path = os.path.join(ghpages_dir, file)
+        
+        with open(file_path, "r") as f:
+            metadata = parse_gh_pages_sql_metadata(f)
+            if metadata['title'] == '':
+                pass
+            else:
+                for val in metadata['valrange']:
+                    if '{X}' in metadata['title']:
+                        this_title = metadata['title'].format(X=val)
+                        print(this_title)
+                        val_centi = val * 100
+                        f.seek(0)
+                        query = ''.join(line for line in f if not line.startswith("##")).format(X=val, best=val_centi)
+                        #query = f.read().format(X=val, best=val_centi)
+                        this_cursor = database_utils.execute_sql(query)
+                        table = create_query_table(this_cursor)
+                        html_table = generate_html_table(table, metadata['headers'])
+                        this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(X=val))
+                    elif '{text}' in metadata['title']:
+                        this_title = metadata['title'].format(text=val)
+                        print(this_title)
+                        f.seek(0)
+                        query = ''.join(line for line in f if not line.startswith("##")).format(text=val)
+                        this_cursor = database_utils.execute_sql(query)
+                        if query.startswith('SET'):
+                            this_cursor.nextset()
+                        table = create_query_table(this_cursor)
+                        html_table = generate_html_table(table, metadata['headers'])
+                        this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(text=val))
+                        print(this_file)
+                    else:
+                        this_title = metadata['title']
+                        print(this_title)
+                        query = f.read()
+                        this_cursor = database_utils.execute_sql(query)
+                        table = create_query_table(this_cursor)
+                        html_table = generate_html_table(table, metadata['headers'])
+                        this_file = "docs/{}/{}.html".format(file.replace(".sql","",),metadata['valfiles'].format(tier=val))
+                    
+                    os.makedirs(os.path.dirname(this_file), exist_ok=True)
 
-                with open("docs/template.html", "r") as f_template:
-                    template = f_template.read()
+                    with open("docs/template.html", "r") as f_template:
+                        template = f_template.read()
 
-                template = template.replace("<!-- title -->",this_title)
-                template = template.replace("<!-- summary -->",metadata['summary'])
-                template = template.replace("<!-- description -->",metadata['description'])
-                template = template.replace("<!-- table -->",html_table)
-                template = template.replace("<!-- last-modified -->",last_modified)
+                    template = template.replace("<!-- title -->",this_title)
+                    template = template.replace("<!-- summary -->",metadata['summary'])
+                    template = template.replace("<!-- description -->",metadata['description'])
+                    template = template.replace("<!-- table -->",html_table)
+                    template = template.replace("<!-- last-modified -->",last_modified)
 
-                with open(this_file, "w+", encoding="utf-8") as f_out:
-                    f_out.write(template)
+                    with open(this_file, "w+", encoding="utf-8") as f_out:
+                        f_out.write(template)
 
-git_push()
+    git_push()
+
+if __name__ == "__main__":
+    update_gh_pages()
+    database_utils.close_connection()

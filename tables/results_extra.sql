@@ -30,15 +30,20 @@ CREATE TABLE results_extra (
     compWeekend DATE,
     compWeeksAgo INT,
     finalMisser BOOL,
-    PRIMARY KEY (id)
+    PRIMARY KEY (id),
+    INDEX idx_results_extra_value1 (value1),
+    INDEX idx_results_extra_value2 (value2),
+    INDEX idx_results_extra_value3 (value3),
+    INDEX idx_results_extra_value4 (value4),
+    INDEX idx_results_extra_value5 (value5),
+    INDEX idx_results_extra_roundTypeId (roundTypeId),
+    INDEX idx_results_extra_single_person_event_id (best, personId, eventId, id),
+    INDEX idx_results_extra_average_person_event_id (average, personId, eventId, id),
+    INDEX idx_podiums (roundTypeId, pos),
+    INDEX idx_results_extra_person_competition_event_round (personId, competitionId, eventId, roundTypeId),
+    INDEX idx_results_extra_competition_event_round (competitionId, eventId, roundTypeId),
+    INDEX idx_results_extra_pos (pos)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
-
-
-CREATE INDEX idx_competitionId ON wca_dev.results (competitionId);
-CREATE INDEX idx_countryId ON wca_dev.competitions (countryId);
-CREATE INDEX idx_id ON wca_dev.countries (id);
-CREATE INDEX idx_countryId ON wca_dev.results (countryId);
-CREATE INDEX idx_roundTypeId ON wca_dev.roundTypes (id);
 
 INSERT INTO results_extra (
     competitionId,
@@ -97,14 +102,20 @@ SELECT
     comps.longitude AS compLongitude,
     comps.start_date AS compStartDate,
     comps.end_date AS compEndDate,
-    DATE_SUB(comps.end_date, INTERVAL (DAYOFWEEK(comps.end_date) + 2) % 7 DAY) AS compWeekend,
-    FLOOR(DATEDIFF(DATE_SUB(CURDATE(), INTERVAL (DAYOFWEEK(CURDATE()) + 2) % 7 DAY), DATE_SUB(comps.end_date, INTERVAL (DAYOFWEEK(comps.end_date) + 2) % 7 DAY)) / 7) AS compWeeksAgo
+    comps2.compWeekend,
+    comps2.compWeeksAgo
 FROM
     wca_dev.results r
     JOIN wca_dev.competitions comps ON comps.id = r.competitionId
     JOIN wca_dev.countries d ON comps.countryId = d.id
     JOIN wca_dev.countries c ON c.id = r.countryId
     JOIN wca_dev.roundTypes rt ON rt.id = r.roundTypeId
+    JOIN (
+        SELECT id,
+            DATE_SUB(comps.end_date, INTERVAL (DAYOFWEEK(comps.end_date) + 2) % 7 DAY) AS compWeekend,
+            FLOOR(DATEDIFF(DATE_SUB(CURDATE(), INTERVAL (DAYOFWEEK(CURDATE()) + 2) % 7 DAY), DATE_SUB(comps.end_date, INTERVAL (DAYOFWEEK(comps.end_date) + 2) % 7 DAY)) / 7) AS compWeeksAgo
+        FROM wca_dev.competitions
+    ) comps2 ON comps2.id = comps.id
 ORDER BY
     comps.end_date ASC,
     r.competitionId ASC,

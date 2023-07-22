@@ -1,11 +1,7 @@
-CREATE INDEX idx_persons_country_subid ON wca_dev.persons (countryId, subid);
-CREATE INDEX idx_ranksAverage_personId_eventId ON wca_dev.ranksAverage (personId, eventId);
-CREATE INDEX idx_events_rank_id ON wca_dev.events (`rank`, id);
-CREATE INDEX idx_countries_id ON wca_dev.countries (id);
-CREATE INDEX idx_ranksaverage_personId_eventId_best ON wca_dev.ranksaverage (personId, eventId, best);
-CREATE INDEX idx_results_extra_average_personId_eventId ON wca_stats.results_extra (average, personId, eventId);
 DROP TABLE IF EXISTS countryEventsAverage;
-CREATE TEMPORARY TABLE countryEventsAverage
+CREATE TEMPORARY TABLE countryEventsAverage (
+    INDEX idx_countryEventsAverage_country_event (countryId, eventId)
+)
 SELECT
     c.id AS countryId,
     c.continentId,
@@ -25,9 +21,13 @@ GROUP BY
     c.id,
     c.continentId,
     e.id;
+
 DROP TABLE IF EXISTS personEventsAverage;
-CREATE TEMPORARY TABLE personEventsAverage
-    (KEY pe (wca_id, eventId))
+CREATE TEMPORARY TABLE personEventsAverage (
+    KEY pe (wca_id, eventId),
+    INDEX idx_personEventsAverage_countryId_eventId (countryId, eventId),
+    INDEX idx_personEventsAverage_id_event (wca_id, eventId)
+)
 SELECT
     p.wca_id,
     p.name,
@@ -42,11 +42,6 @@ JOIN
     wca_dev.events e ON e.rank < 900 AND e.id != '333mbf'
 WHERE
     p.subid = 1;
-CREATE INDEX idx_personEventsAverage_countryId_eventId ON wca_stats.personEventsAverage (countryId, eventId);
-CREATE INDEX idx_ranksaverage_person_event ON wca_dev.ranksaverage (personId, eventId);
-CREATE INDEX idx_personEventsAverage_id_event ON wca_stats.personEventsAverage (wca_id, eventId);
-CREATE INDEX idx_results_extra_average_person_event_id ON wca_stats.results_extra (average, personId, eventId, id);
-CREATE INDEX idx_countryEventsAverage_country_event ON wca_stats.countryEventsAverage (countryId, eventId);
 DROP TABLE IF EXISTS average_ranks;
 CREATE TABLE average_ranks (
     personId VARCHAR(10),
@@ -62,7 +57,12 @@ CREATE TABLE average_ranks (
     countryRank INT,
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
-    compEndDate DATE
+    compEndDate DATE,
+    INDEX idx_worldRank (worldRank),
+    INDEX idx_continentId_continentRank (continentId, continentRank),
+    INDEX idx_countryId_countryRank (countryId, countryRank),
+    INDEX idx_subquery_covering (personId, personName, countryId, continentId, worldRank, continentRank, countryRank),
+    INDEX idx_eventId_format (eventId, format)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO average_ranks (
@@ -105,11 +105,6 @@ LEFT JOIN
 LEFT JOIN
     wca_stats.countryEventsAverage d ON b.countryId COLLATE utf8mb4_0900_ai_ci = d.countryId COLLATE utf8mb4_0900_ai_ci AND b.eventId COLLATE utf8mb4_0900_ai_ci = d.eventId COLLATE utf8mb4_0900_ai_ci
 ;
-
-CREATE INDEX idx_worldRank ON average_ranks (worldRank);
-CREATE INDEX idx_continentId_continentRank ON average_ranks (continentId, continentRank);
-CREATE INDEX idx_countryId_countryRank ON average_ranks (countryId, countryRank);
-CREATE INDEX idx_subquery_covering ON average_ranks (personId, personName, countryId, continentId, worldRank, continentRank, countryRank);
 
 DROP TABLE IF EXISTS SoR_average;
 CREATE TABLE SoR_average (

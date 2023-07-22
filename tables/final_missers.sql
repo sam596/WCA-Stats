@@ -1,7 +1,3 @@
-CREATE INDEX idx_results_extra_person_competition_event_round ON results_extra (personId, competitionId, eventId, roundTypeId);
-CREATE INDEX idx_results_extra_competition_event_round ON results_extra (competitionId, eventId, roundTypeId);
-CREATE INDEX idx_results_extra_pos ON results_extra (pos);
-
 DROP TABLE IF EXISTS tmp_roundTypeReverseRank;
 CREATE TEMPORARY TABLE tmp_roundTypeReverseRank (
     competitionId VARCHAR(32),
@@ -11,7 +7,8 @@ CREATE TEMPORARY TABLE tmp_roundTypeReverseRank (
     reverseRank INT,
     INDEX idx_comp_event_round (competitionId, eventId, roundTypeId),
     INDEX idx_round_rank (roundTypeId, rtRank),
-    INDEX idx_reverse_rank (competitionId, eventId, reverseRank)
+    INDEX idx_reverse_rank (competitionId, eventId, reverseRank),
+    INDEX idx_tmp_roundTypeReverseRank_competition_event_round_reverse (competitionId, eventId, roundTypeId, reverseRank)
 ) 
 SELECT
     t.competitionId,
@@ -35,8 +32,6 @@ FROM
             re.eventId,
             re.roundTypeId
     ) AS t;
-
-CREATE INDEX idx_tmp_roundTypeReverseRank_competition_event_round_reverse ON tmp_roundTypeReverseRank (competitionId, eventId, roundTypeId, reverseRank);
 
 CREATE TEMPORARY TABLE tmp_finalMissers (id INT, INDEX idx_id (id))
 SELECT b.id

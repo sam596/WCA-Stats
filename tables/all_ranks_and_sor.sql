@@ -1,6 +1,3 @@
-CREATE INDEX idx_eventId_format ON average_ranks (eventId, format);
-CREATE INDEX idx_eventId_format ON single_ranks (eventId, format);
-
 DROP TABLE IF EXISTS ranks_all;
 CREATE TABLE ranks_all (
     personId VARCHAR(10),
@@ -16,7 +13,11 @@ CREATE TABLE ranks_all (
     countryRank INT,
     competitionId VARCHAR(32),
     roundTypeId CHAR(1),
-    compEndDate DATE
+    compEndDate DATE,
+    INDEX idx_worldSor (worldRank),
+    INDEX idx_continentId_continentSor (continentId, continentRank),
+    INDEX idx_countryId_countrySor (countryId, countryRank),
+    INDEX idx_subquery_covering (personId, personName, countryId, continentId, eventId, worldRank, continentRank, countryRank)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 INSERT INTO ranks_all (
@@ -39,12 +40,6 @@ SELECT * FROM average_ranks
 UNION ALL
 SELECT * FROM single_ranks
 ORDER BY eventId, format, worldrank;
-
-CREATE INDEX idx_worldSor ON ranks_all (worldRank);
-CREATE INDEX idx_continentId_continentSor ON ranks_all (continentId, continentRank);
-CREATE INDEX idx_countryId_countrySor ON ranks_all (countryId, countryRank);
-CREATE INDEX idx_subquery_covering ON ranks_all (personId, personName, countryId, continentId, eventId, worldRank, continentRank, countryRank);
-
 
 DROP TABLE IF EXISTS SoR_combined;
 CREATE TABLE SoR_combined (

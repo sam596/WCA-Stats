@@ -21,7 +21,6 @@ ORDER BY personId, compEndDate ASC;
 
 -- counts the number of PRs a competitor achieved at every comp, excluding comps holding only FMC events
 
-ALTER TABLE concise_results;
 DROP TABLE IF EXISTS competition_prs_exfmc;
 CREATE TABLE competition_prs_exfmc (
   id INT NOT NULL AUTO_INCREMENT,
@@ -29,13 +28,13 @@ CREATE TABLE competition_prs_exfmc (
   KEY pc (personId, competitionId),
   KEY p (personId)
 )
-SELECT personId, competitionId, COUNT(CASE WHEN CONVERT(`PR` USING cp850) <> '' COLLATE cp850_general_ci THEN 1 END) PRs
+SELECT personId, competitionId, COUNT(CASE WHEN `PR` <> '' COLLATE utf8mb4_0900_ai_ci THEN 1 END) PRs
 FROM concise_results
 WHERE competitionId NOT IN (
     SELECT competition_id
     FROM wca_dev.competition_events
     GROUP BY competition_id
-    HAVING COUNT(*) = 1 AND COUNT(CASE WHEN CONVERT(event_id USING cp850) COLLATE cp850_general_ci = '333fm' COLLATE cp850_general_ci THEN 1 END) = 1
+    HAVING COUNT(*) = 1 AND COUNT(CASE WHEN event_id COLLATE utf8mb4_0900_ai_ci = '333fm' COLLATE utf8mb4_0900_ai_ci THEN 1 END) = 1
 )
 GROUP BY personId, competitionId
 ORDER BY personId, compEndDate ASC;
