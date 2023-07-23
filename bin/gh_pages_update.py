@@ -66,12 +66,12 @@ def create_query_table(cur):
     for row in result:
         this_row = row.copy()
         for value in row:
-            if value == "personId" or value == "wcaId":
+            if value == "personId" or value == "wca_id":
                 if row[value] is None:
                     this_row["personURL"] = ""
                 else:
                     this_row["personURL"] = "https://www.worldcubeassociation.org/persons/" + row[value]
-            if value == "competitionId":
+            elif value == "competitionId":
                 if row[value] is None:
                     this_row["competitionURL"] = ""
                 else:

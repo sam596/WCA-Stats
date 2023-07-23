@@ -2,11 +2,11 @@ import time
 import database_utils
 
 tables = [
-    #'wca_dev_indexes',
-    #'results_extra', #~14mins
-    #'podium_sums',
-    #'final_missers',
-    #'all_attempts',
+    'wca_dev_indexes',
+    'results_extra', #~14mins
+    'podium_sums',
+    'final_missers',
+    'all_attempts',
     'average_sor',
     'single_sor',
     'all_ranks_and_sor', #~18 mins
